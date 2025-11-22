@@ -1,0 +1,519 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Wenn Sie 16 Jahre alt werden:",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7348359227180481
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Zum Beispiel: Wenn Sie etwas im Internet bestellen wollen.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7439796924591064
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Wenn Sie noch nicht 16 Jahre alt sind:",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7432337999343872
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Also Jemand, der für Sie die Verantwortung hat.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7585532069206238
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Oder Ihren Kinder-Reise-Pass , wenn Sie einen haben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7382410764694214
+  ],
+  [
+    [
+      44,
+      1
+    ],
+    [
+      "Wenn Sie verheiratet oder geschieden sind: Dann brauchen wir Ihre Ehe-Urkunde.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7331881523132324
+  ],
+  [
+    [
+      45,
+      1
+    ],
+    [
+      "Wenn Sie in einer Lebens-Partnerschaft leben:",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7908662557601929
+  ],
+  [
+    [
+      47,
+      1
+    ],
+    [
+      "Lebens-Partnerschaft heißt: Wenn Sie eine Frau sind und mit einer Frau zusammen leben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7611291408538818
+  ],
+  [
+    [
+      48,
+      1
+    ],
+    [
+      "Oder wenn Sie ein Mann sind und mit einem Mann zusammen leben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.7637022733688354
+  ],
+  [
+    [
+      51,
+      4
+    ],
+    [
+      "Dann brauchen Sie eine Übersetzung von einem staatlich anerkannten Übersetzer.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.8253280520439148
+  ],
+  [
+    [
+      52,
+      4
+    ],
+    [
+      "Wichtig: Sie müssen uns das Original von der Urkunde und das Original von der Übersetzung zeigen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.7300907373428345
+  ],
+  [
+    [
+      58,
+      4
+    ],
+    [
+      "Sie müssen 3 bis 4 Wochen auf den neuen Ausweis warten.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6233235001564026
+  ],
+  [
+    [
+      59,
+      48
+    ],
+    [
+      "Wenn Sie nicht so lange warten können, dann können wir Ihnen für die Zeit dazwischen einen vorläufigen Personal-Ausweis geben.",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.924132227897644
+  ],
+  [
+    [
+      62,
+      48
+    ],
+    [
+      "Vorläufig bedeutet: Der Ausweis ist nur so lange gültig, bis Sie Ihren neuen Personal-Ausweis bekommen.",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8084065914154053
+  ],
+  [
+    [
+      63,
+      48
+    ],
+    [
+      "Wenn Sie Ihren neuen Personal-Ausweis abholen, müssen Sie den vorläufigen Ausweis wieder abgeben.",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8551155924797058
+  ],
+  [
+    [
+      66,
+      48
+    ],
+    [
+      "Dann können Sie den Personal-Ausweis bei uns abholen.",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9224069714546204
+  ],
+  [
+    [
+      67,
+      93
+    ],
+    [
+      "Sie bekommen in dieser Zeit einen Brief von der Bundes-Druckerei .",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8369625806808472
+  ],
+  [
+    [
+      71,
+      93
+    ],
+    [
+      "Die PIN -Nummer ist eine geheime Nummer, die nur Sie kennen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.538353681564331
+  ],
+  [
+    [
+      72,
+      93
+    ],
+    [
+      "Mit dieser Nummer können Sie sich im Internet ausweisen .",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.6707596778869629
+  ],
+  [
+    [
+      73,
+      93
+    ],
+    [
+      "Ausweisen bedeutet, dass Sie sagen: Ja, das bin ich!",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.7879748344421387
+  ],
+  [
+    [
+      75,
+      93
+    ],
+    [
+      "Dann bekommen Sie eine PIN -Nummer.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.7069247961044312
+  ],
+  [
+    [
+      76,
+      93
+    ],
+    [
+      "Sie dürfen sich aber erst ab 16 Jahren mit dem neuen Ausweis im Internet ausweisen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.5911828279495239
+  ],
+  [
+    [
+      77,
+      93
+    ],
+    [
+      "Sie bekommen auch ein geheimes Kenn-Wort .",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8953626751899719
+  ],
+  [
+    [
+      80,
+      93
+    ],
+    [
+      "Dort erfahren Sie auch, wann genau Sie Ihren Personal-Ausweis abholen können.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.6898201704025269
+  ],
+  [
+    [
+      82,
+      93
+    ],
+    [
+      "Diese Nummer steht auf dem Papier, das Sie von uns beim Anmelden bekommen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.7269163727760315
+  ],
+  [
+    [
+      86,
+      93
+    ],
+    [
+      "Dann können Sie jemandem den Auftrag geben:",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8543089628219604
+  ],
+  [
+    [
+      88,
+      93
+    ],
+    [
+      "Dazu füllen Sie ein Formular aus.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8990540504455566
+  ],
+  [
+    [
+      91,
+      93
+    ],
+    [
+      "Sie können die Vollmacht direkt im Internet ausfüllen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8392109870910645
+  ],
+  [
+    [
+      93,
+      93
+    ],
+    [
+      "In dieser Vollmacht müssen Sie auch sagen:",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8356449007987976
+  ],
+  [
+    [
+      98,
+      93
+    ],
+    [
+      "Drucken Sie dann das Formular aus.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8557016849517822
+  ],
+  [
+    [
+      99,
+      93
+    ],
+    [
+      "Wichtig: Sie müssen das Formular unterschreiben!",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8181191682815552
+  ],
+  [
+    [
+      102,
+      93
+    ],
+    [
+      "Ausnahme: Wenn Sie noch nicht 24 Jahre alt sind:",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.7024527788162231
+  ],
+  [
+    [
+      108,
+      93
+    ],
+    [
+      "Wenn Sie Ihren alten Ausweis verloren haben:",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.5616154670715332
+  ],
+  [
+    [
+      109,
+      93
+    ],
+    [
+      "Dann brauchen Sie eine Verlust-Anzeige .",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8508961796760559
+  ],
+  [
+    [
+      110,
+      93
+    ],
+    [
+      "Das bedeutet: Sie müssen zur Polizei gehen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8312389850616455
+  ],
+  [
+    [
+      114,
+      93
+    ],
+    [
+      "Dazu können Sie zur Melde-Behörde kommen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8953601121902466
+  ],
+  [
+    [
+      115,
+      93
+    ],
+    [
+      "Oder Sie rufen beim Sperr-Notruf an:",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.9175164699554443
+  ],
+  [
+    [
+      118,
+      93
+    ],
+    [
+      "Dafür bekommen Sie eine Bescheinigung.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8889614939689636
+  ],
+  [
+    [
+      119,
+      93
+    ],
+    [
+      "Bringen Sie diese Bescheinigung dann mit zu uns.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8510363101959229
+  ],
+  [
+    [
+      126,
+      93
+    ],
+    [
+      "für das Freischalten im Internet, wenn Sie 16 Jahre alt werden.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.6708982586860657
+  ],
+  [
+    [
+      128,
+      93
+    ],
+    [
+      "Zum Beispiel: wenn Sie die alte PIN -Nummer vergessen haben.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.6374214291572571
+  ],
+  [
+    [
+      129,
+      93
+    ],
+    [
+      "6 Euro: damit Sie die Möglichkeit zum Ausweisen im Internet wieder nutzen können.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.7407753467559814
+  ],
+  [
+    [
+      134,
+      93
+    ],
+    [
+      "Wenn Sie Ihre Daten bei einem Umzug ändern müssen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.707047164440155
+  ],
+  [
+    [
+      137,
+      93
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8623429536819458
+  ],
+  [
+    [
+      138,
+      93
+    ],
+    [
+      "Sie können auch mit Ihrer EC -Karte bezahlen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8729286789894104
+  ],
+  [
+    [
+      140,
+      93
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8463149070739746
+  ],
+  [
+    [
+      141,
+      93
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.8905952572822571
+  ]
+]

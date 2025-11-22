@@ -1,0 +1,354 @@
+[
+  [
+    [
+      6,
+      18
+    ],
+    [
+      "PCR-Tests Antigen-Tests",
+      "Die Spezifität beschreibt die Genauigkeit eines Tests, ob alle gesunden getesteten Personen auch als Gesunde erkannt werden."
+    ],
+    0.8371813893318176
+  ],
+  [
+    [
+      10,
+      30
+    ],
+    [
+      "Mit einem Antikörper-Test kann man nicht erkennen:",
+      "Auch die Vortestwahrscheinlichkeit spielt eine Rolle."
+    ],
+    0.7396759390830994
+  ],
+  [
+    [
+      13,
+      39
+    ],
+    [
+      "Der PCR-Test erkennt das Erbgut des Corona-Virus.",
+      "gegebenenfalls ein zweiter PCR-Test durchgeführt werden."
+    ],
+    0.7952921390533447
+  ],
+  [
+    [
+      14,
+      61
+    ],
+    [
+      "Es gibt zwei unterschiedliche PCR-Tests:",
+      "Für wen eignet sich der PCR-Test?"
+    ],
+    0.8906739950180054
+  ],
+  [
+    [
+      15,
+      74
+    ],
+    [
+      "Der PCR-Labortest Der PCR-Schnelltest",
+      "Für wen eignet sich der PCR-Schnelltest?"
+    ],
+    0.855887770652771
+  ],
+  [
+    [
+      16,
+      82
+    ],
+    [
+      "Der PCR-Labortest ist der sicherste Test.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.8723818063735962
+  ],
+  [
+    [
+      22,
+      82
+    ],
+    [
+      "Dafür benutzt der Arzt ein langes Wattestäbchen.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.8758922815322876
+  ],
+  [
+    [
+      24,
+      82
+    ],
+    [
+      "Dafür schiebt der Arzt das Wattestäbchen bis hinter das Zäpfchen.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.8380438089370728
+  ],
+  [
+    [
+      28,
+      82
+    ],
+    [
+      "Dafür schiebt der Arzt das Wattestäbchen bis zur hinteren Rachenwand.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.846683919429779
+  ],
+  [
+    [
+      37,
+      82
+    ],
+    [
+      "Der PCR-Schnelltest funktioniert ähnlich wie der PCR-Labortest.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.7575886845588684
+  ],
+  [
+    [
+      38,
+      82
+    ],
+    [
+      "Den Test führt auch Fachpersonal durch.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.8328549861907959
+  ],
+  [
+    [
+      39,
+      82
+    ],
+    [
+      "Aber ein PCR-Schnelltest kommt nicht in ein Labor.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.7368941903114319
+  ],
+  [
+    [
+      40,
+      82
+    ],
+    [
+      "Das Fachpersonal wertet den Test vor Ort aus.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.8280172348022461
+  ],
+  [
+    [
+      44,
+      82
+    ],
+    [
+      "Pflegeeinrichtungen Hinweis: Das Ergebnis eines PCR-Schnelltests ist nicht so sicher wie von einem PCR-Labortest.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.726455807685852
+  ],
+  [
+    [
+      50,
+      82
+    ],
+    [
+      "So führt das Fachpersonal einen Antigen-Test durch:",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.7162148356437683
+  ],
+  [
+    [
+      54,
+      82
+    ],
+    [
+      "Der Teststreifen zeigt das Testergebnis an.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.9371824860572815
+  ],
+  [
+    [
+      55,
+      82
+    ],
+    [
+      "Es gibt drei mögliche Testergebnisse:",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.9135890007019043
+  ],
+  [
+    [
+      58,
+      82
+    ],
+    [
+      "Ungültig: Der Test hat kein eindeutiges Ergebnis.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.8919785618782043
+  ],
+  [
+    [
+      59,
+      82
+    ],
+    [
+      "Sie sollten den Test wiederholen.",
+      "Der Test ist ähnlich simpel wie ein Schwangerschaftstest:"
+    ],
+    0.9125112891197205
+  ],
+  [
+    [
+      60,
+      92
+    ],
+    [
+      "Hinweis: Der Antigen-Test ist weniger zuverlässig als der PCR-Test.",
+      "Doch auch der Antigen-Test hat zwei Haken."
+    ],
+    0.9108898639678955
+  ],
+  [
+    [
+      61,
+      92
+    ],
+    [
+      "Sie haben ein negatives Ergebnis im Antigen-Test?",
+      "Doch auch der Antigen-Test hat zwei Haken."
+    ],
+    0.8515744209289551
+  ],
+  [
+    [
+      65,
+      92
+    ],
+    [
+      "Mit dem PCR-Test prüft der Arzt:",
+      "Doch auch der Antigen-Test hat zwei Haken."
+    ],
+    0.7269032597541809
+  ],
+  [
+    [
+      67,
+      92
+    ],
+    [
+      "Den Corona-Selbsttest können Sie selbst machen.",
+      "Doch auch der Antigen-Test hat zwei Haken."
+    ],
+    0.7122353315353394
+  ],
+  [
+    [
+      68,
+      92
+    ],
+    [
+      "Der Corona-Selbsttest ist auch ein Antigen-Test.",
+      "Doch auch der Antigen-Test hat zwei Haken."
+    ],
+    0.9167629480361938
+  ],
+  [
+    [
+      69,
+      92
+    ],
+    [
+      "Corona-Selbsttests funktionieren wie Antigen-Schnelltests.",
+      "Doch auch der Antigen-Test hat zwei Haken."
+    ],
+    0.7859583497047424
+  ],
+  [
+    [
+      71,
+      103
+    ],
+    [
+      "Es gibt auch Spuck-Tests zum Selbstmachen.",
+      "Auch Tests aus Speichel (“Spucktests“) sind inzwischen zugelassen."
+    ],
+    0.9483039379119873
+  ],
+  [
+    [
+      72,
+      103
+    ],
+    [
+      "Bei diesen Tests nehmen Sie Ihre Spucke als Probe.",
+      "Auch Tests aus Speichel (“Spucktests“) sind inzwischen zugelassen."
+    ],
+    0.9581297039985657
+  ],
+  [
+    [
+      79,
+      108
+    ],
+    [
+      "Mit Antikörper-Tests können Ärzte feststellen:",
+      "Es gibt Antikörpertests in Form von Labor- oder Schnelltests."
+    ],
+    0.9004991054534912
+  ],
+  [
+    [
+      85,
+      108
+    ],
+    [
+      "Hinweis: Antikörper-Tests können nicht erkennen:",
+      "Es gibt Antikörpertests in Form von Labor- oder Schnelltests."
+    ],
+    0.8816782236099243
+  ],
+  [
+    [
+      87,
+      118
+    ],
+    [
+      "Bei einigen Anzeichen sollten Sie einen Corona-Test machen.",
+      "Die Kosten für einen Labortest (nicht aber für einen Schnelltest) können von den Vertragsärzten mit den gesetzlichen Krankenversicherungen abgerechnet werden."
+    ],
+    0.7510669827461243
+  ],
+  [
+    [
+      92,
+      118
+    ],
+    [
+      "Dann sollten Sie sich regelmäßig testen.",
+      "Die Kosten für einen Labortest (nicht aber für einen Schnelltest) können von den Vertragsärzten mit den gesetzlichen Krankenversicherungen abgerechnet werden."
+    ],
+    0.7732791900634766
+  ],
+  [
+    [
+      95,
+      118
+    ],
+    [
+      "Dann sollten Sie sich regelmäßig testen.",
+      "Die Kosten für einen Labortest (nicht aber für einen Schnelltest) können von den Vertragsärzten mit den gesetzlichen Krankenversicherungen abgerechnet werden."
+    ],
+    0.7732791900634766
+  ]
+]

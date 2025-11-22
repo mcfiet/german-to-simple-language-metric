@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Das Schlüsselbein ist ein Knochen zwischen Hals und Schulter.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9412368535995483
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Das Schlüsselbein verbindet den Oberarm mit dem Brustbein.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.8967992663383484
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Das Schlüsselbein heißt auch: Klavikula.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9254153966903687
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Knochen können brechen.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.20654980838298798
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Auch das Schlüsselbein kann brechen.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9381342530250549
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Die häufigste Ursache für einen Schlüsselbeinbruch ist ein Unfall.",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.9646784067153931
+  ],
+  [
+    [
+      6,
+      49
+    ],
+    [
+      "Der Bruch des Schlüsselbeins hat verschiedene Anzeichen.",
+      "Das Tragen von Protektoren hilft beim Schlüsselbeinbruch nur sehr bedingt, da man in der Regel nicht direkt auf das Schlüsselbein stürzt, sondern die Kraft über den Arm und die Schulter indirekt fortgeleitet wird."
+    ],
+    0.8952013254165649
+  ],
+  [
+    [
+      7,
+      49
+    ],
+    [
+      "Zu den typischen Anzeichen eines Schlüsselbeinbruchs gehören zum Beispiel: starke Schmerzen bei der Bewegung des Arms oder der Schulter, die betroffene Stelle wird dick, die betroffene Stelle wird blau, die betroffene Stelle fühlt sich instabil an das Schlüsselbein knirscht bei Berührung.",
+      "Das Tragen von Protektoren hilft beim Schlüsselbeinbruch nur sehr bedingt, da man in der Regel nicht direkt auf das Schlüsselbein stürzt, sondern die Kraft über den Arm und die Schulter indirekt fortgeleitet wird."
+    ],
+    0.9111620783805847
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Das Schlüsselbein bricht oft durch einen Unfall.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9152148962020874
+  ],
+  [
+    [
+      9,
+      14
+    ],
+    [
+      "Betroffene Personen sollten dann sofort zum Arzt gehen.",
+      "Die betroffene Stelle schwillt oft an und verfärbt sich aufgrund eines Blutergusses (Hämatom) bläulich."
+    ],
+    0.08277274668216705
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Ein Schlüsselbeinbruch muss nämlich behandelt werden.",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.917202889919281
+  ],
+  [
+    [
+      11,
+      29
+    ],
+    [
+      "Der Arzt untersucht die betroffene Stelle.",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.19490453600883484
+  ],
+  [
+    [
+      12,
+      20
+    ],
+    [
+      "Er macht zum Beispiel eine Röntgen-Untersuchung.",
+      "Bei speziellen Fragestellungen kann ergänzend eine Computertomographie ( CT-Untersuchung ) notwendig werden."
+    ],
+    0.2969769537448883
+  ],
+  [
+    [
+      13,
+      38
+    ],
+    [
+      "Bei einer Röntgen-Untersuchung macht der Arzt ein Schwarz-Weiß-Foto von den Knochen.",
+      "Bei der Operation werden die Bruchenden wieder aneinander gefügt (Reposition) und zur Stabilisierung wird eine winkelstabile Platte oder gegebenenfalls ein Nagel verwendet, welcher in den Markraum des Knochens eingebracht wird (intramedulläre Schienung)."
+    ],
+    0.36789587140083313
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "So kann der Arzt genau sehen: Ist das Schlüsselbein gebrochen?",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.909827470779419
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Oder:",
+      "Sie entstehen meist durch einen Sturz auf den ausgestreckten Arm oder die Schulter."
+    ],
+    0.08504579216241837
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "An welcher Stelle ist das Schlüsselbein gebrochen?",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9236247539520264
+  ],
+  [
+    [
+      17,
+      8
+    ],
+    [
+      "Der Arzt untersucht auch den Brustkorb des Patienten.",
+      "Dies ist häufig Ausdruck einer schweren Brustkorbverletzung."
+    ],
+    0.4091220498085022
+  ],
+  [
+    [
+      18,
+      29
+    ],
+    [
+      "Der Arzt prüft also: die Lunge die Nerven die Gelenke",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.2293436974287033
+  ],
+  [
+    [
+      19,
+      29
+    ],
+    [
+      "Der Arzt möchte nämlich wissen:",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.21033692359924316
+  ],
+  [
+    [
+      20,
+      8
+    ],
+    [
+      "Ist der Brustkorb verletzt?",
+      "Dies ist häufig Ausdruck einer schweren Brustkorbverletzung."
+    ],
+    0.5661682486534119
+  ],
+  [
+    [
+      21,
+      29
+    ],
+    [
+      "Oder sind Lunge, Nerven oder Gelenke in Ordnung?",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.41971251368522644
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Das Schlüsselbein bricht häufig bei einem Unfall.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9113375544548035
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Betroffene Personen fallen zum Beispiel auf den ausgestreckten Arm oder direkt auf die Schulter.",
+      "Es können starke Schmerzen auftreten, wenn der Verletzte versucht, den Arm oder die Schulter zu bewegen."
+    ],
+    0.48629218339920044
+  ],
+  [
+    [
+      24,
+      51
+    ],
+    [
+      "Bei einem Unfall wirken große Kräfte auf den Körper.",
+      "Dr. Peter Gutsfeld, Facharzt für Chirurgie, spezielle Unfallchirurgie, Orthopädie und Unfallchirurgie, arbeitete bis Ende 2016 als leitender Arzt der Unfallchirurgie und Sportorthopädie am Klinikum Garmisch-Partenkirchen."
+    ],
+    0.2800486385822296
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Durch diese Kräfte können die Knochen brechen.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.2201118916273117
+  ],
+  [
+    [
+      26,
+      6
+    ],
+    [
+      "Ärzte unterscheiden zwischen einem direkten Trauma und einem indirekten Trauma:",
+      "Dabei werden ein direktes und ein indirektes Trauma unterschieden."
+    ],
+    0.6725873947143555
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Direktes Trauma:",
+      "Dabei werden ein direktes und ein indirektes Trauma unterschieden."
+    ],
+    0.618536651134491
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Bei einem direkten Trauma gibt es eine Krafteinwirkung direkt auf das Schlüsselbein.",
+      "Beim direkten Trauma kommt es, zum Beispiel durch einen Verkehrsunfall zur einer direkten Krafteinwirkung auf das Schlüsselbein und es bricht."
+    ],
+    0.9124433398246765
+  ],
+  [
+    [
+      29,
+      41
+    ],
+    [
+      "Deshalb bricht der Knochen.",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.2828182876110077
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Ein direktes Trauma entsteht zum Beispiel bei einem Verkehrsunfall.",
+      "Dabei werden ein direktes und ein indirektes Trauma unterschieden."
+    ],
+    0.6088303327560425
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Indirektes Trauma:",
+      "Dabei werden ein direktes und ein indirektes Trauma unterschieden."
+    ],
+    0.6424357295036316
+  ],
+  [
+    [
+      32,
+      7
+    ],
+    [
+      "Bei einem indirekten Trauma geht die Krafteinwirkung nicht direkt auf das Schlüsselbein.",
+      "Beim direkten Trauma kommt es, zum Beispiel durch einen Verkehrsunfall zur einer direkten Krafteinwirkung auf das Schlüsselbein und es bricht."
+    ],
+    0.8942499756813049
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Die Krafteinwirkung strahlt aber auf das Schlüsselbein aus.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9175813794136047
+  ],
+  [
+    [
+      34,
+      3
+    ],
+    [
+      "Das passiert zum Beispiel bei einem Sturz auf die Schulter.",
+      "Sie entstehen meist durch einen Sturz auf den ausgestreckten Arm oder die Schulter."
+    ],
+    0.5226795673370361
+  ],
+  [
+    [
+      35,
+      5
+    ],
+    [
+      "Bei manchen Sportarten ist das Risiko für Unfälle mit einem Schlüsselbeinbruch höher.",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.9233413338661194
+  ],
+  [
+    [
+      36,
+      48
+    ],
+    [
+      "Zu diesen Sportarten gehören zum Beispiel:",
+      "Zudem empfiehlt sich ein den Sportarten angepasstes Sturztraining."
+    ],
+    0.3994039297103882
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Skifahren",
+      "\"Skifahren, Snowboardfahren und Radfahren sind typische Sportarten\", meint Unfallchirurg Peter Gutsfeld."
+    ],
+    0.14734520018100739
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "Snowboardfahren",
+      "\"Skifahren, Snowboardfahren und Radfahren sind typische Sportarten\", meint Unfallchirurg Peter Gutsfeld."
+    ],
+    0.2267419844865799
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Radfahren",
+      "\"Skifahren, Snowboardfahren und Radfahren sind typische Sportarten\", meint Unfallchirurg Peter Gutsfeld."
+    ],
+    0.20650742948055267
+  ],
+  [
+    [
+      40,
+      51
+    ],
+    [
+      "Sie hatten einen Unfall?",
+      "Dr. Peter Gutsfeld, Facharzt für Chirurgie, spezielle Unfallchirurgie, Orthopädie und Unfallchirurgie, arbeitete bis Ende 2016 als leitender Arzt der Unfallchirurgie und Sportorthopädie am Klinikum Garmisch-Partenkirchen."
+    ],
+    0.3514668345451355
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Oder Sie glauben: Ich habe vielleicht ein gebrochenes Schlüsselbein?",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.918750524520874
+  ],
+  [
+    [
+      42,
+      50
+    ],
+    [
+      "Dann sollten Sie sofort zum Arzt gehen.",
+      "Trotzdem sollten natürlich der Sportart angepasste Protektoren getragen werden, da sie den Sturz wenigstens teilweise abmildern und zum Teil die Schulter und den Arm schützen können."
+    ],
+    0.0650830939412117
+  ],
+  [
+    [
+      43,
+      40
+    ],
+    [
+      "Der Arzt untersucht Sie und kann Ihnen helfen.",
+      "Nach der Operation ist man \"rasch wieder schmerzfrei und kann in den Alltag und auch zügig zum Sport zurückkehren\", so der Unfallchirurg."
+    ],
+    0.19893111288547516
+  ],
+  [
+    [
+      44,
+      5
+    ],
+    [
+      "Manchmal kann der Arzt den Schlüsselbeinbruch mit einer konservativen Therapie behandeln.",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.906859815120697
+  ],
+  [
+    [
+      45,
+      41
+    ],
+    [
+      "Das bedeutet: Der Patient braucht keine Operation.",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.5897173285484314
+  ],
+  [
+    [
+      46,
+      38
+    ],
+    [
+      "Der Arzt legt einen speziellen Verband an.",
+      "Bei der Operation werden die Bruchenden wieder aneinander gefügt (Reposition) und zur Stabilisierung wird eine winkelstabile Platte oder gegebenenfalls ein Nagel verwendet, welcher in den Markraum des Knochens eingebracht wird (intramedulläre Schienung)."
+    ],
+    0.28763002157211304
+  ],
+  [
+    [
+      47,
+      29
+    ],
+    [
+      "So ist der Arm ruhiggestellt und die Schmerzen sind nicht so stark.",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.48328644037246704
+  ],
+  [
+    [
+      48,
+      34
+    ],
+    [
+      "Dann kann der Bruch gut heilen.",
+      "Auch bei stark auseinander stehenden Bruchenden (Verkürzung ist größer als zwei Zentimeter oder ein zu weiter Abstand zwischen den Bruchenden) oder mehreren Bruchstücken (Mehrfragmentfrakturen) ist eine Operation nötig."
+    ],
+    0.7328134775161743
+  ],
+  [
+    [
+      49,
+      41
+    ],
+    [
+      "In seltenen Fällen kann der Knochen falsch zusammenwachsen.",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.2707405388355255
+  ],
+  [
+    [
+      50,
+      31
+    ],
+    [
+      "Dann hat die betroffene Person eine bleibende Fehlstellung:",
+      "Dies kann eine bleibende Fehlstellung (meist eine Verkürzung) verursachen."
+    ],
+    0.3880610167980194
+  ],
+  [
+    [
+      51,
+      41
+    ],
+    [
+      "Zum Beispiel ist der Knochen dann vielleicht kürzer.",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.31161829829216003
+  ],
+  [
+    [
+      52,
+      41
+    ],
+    [
+      "Manchmal ist eine Operation notwendig.",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.5914131999015808
+  ],
+  [
+    [
+      53,
+      41
+    ],
+    [
+      "Gründe für eine Operation sind zum Beispiel:",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.6314907073974609
+  ],
+  [
+    [
+      54,
+      1
+    ],
+    [
+      "Das Schlüsselbein ist an mehreren Stellen gebrochen.",
+      "Das Schlüsselbein zählt zu den Knochen , die sich Menschen am häufigsten brechen."
+    ],
+    0.9228830337524414
+  ],
+  [
+    [
+      55,
+      33
+    ],
+    [
+      "Der Bruch ist nah am Brustbein.",
+      "Eine operative Versorgung ist bei bestimmten Brüchen am schulternahen Ende oder auch bei Brüchen nahe am Brustbein (seltene Bruchform) nötig."
+    ],
+    0.6294525265693665
+  ],
+  [
+    [
+      56,
+      34
+    ],
+    [
+      "Der Bruch ist ein offener Bruch.",
+      "Auch bei stark auseinander stehenden Bruchenden (Verkürzung ist größer als zwei Zentimeter oder ein zu weiter Abstand zwischen den Bruchenden) oder mehreren Bruchstücken (Mehrfragmentfrakturen) ist eine Operation nötig."
+    ],
+    0.7914395928382874
+  ],
+  [
+    [
+      57,
+      34
+    ],
+    [
+      "Das bedeutet: Die Haut über dem Bruch ist verletzt.",
+      "Auch bei stark auseinander stehenden Bruchenden (Verkürzung ist größer als zwei Zentimeter oder ein zu weiter Abstand zwischen den Bruchenden) oder mehreren Bruchstücken (Mehrfragmentfrakturen) ist eine Operation nötig."
+    ],
+    0.7070851922035217
+  ],
+  [
+    [
+      58,
+      34
+    ],
+    [
+      "Durch den Bruch sind Nerven verletzt.",
+      "Auch bei stark auseinander stehenden Bruchenden (Verkürzung ist größer als zwei Zentimeter oder ein zu weiter Abstand zwischen den Bruchenden) oder mehreren Bruchstücken (Mehrfragmentfrakturen) ist eine Operation nötig."
+    ],
+    0.7495408654212952
+  ],
+  [
+    [
+      59,
+      41
+    ],
+    [
+      "Bei der Operation fügt der Arzt die Knochen wieder zusammen:",
+      "Dennoch birgt jede Operation auch Risiken wie zum Beispiel eine Entzündung der Wunde und des Knochens."
+    ],
+    0.47024887800216675
+  ],
+  [
+    [
+      60,
+      38
+    ],
+    [
+      "Mit einer Platte oder mit Nägeln wird der Knochen an seinem Platz befestigt.",
+      "Bei der Operation werden die Bruchenden wieder aneinander gefügt (Reposition) und zur Stabilisierung wird eine winkelstabile Platte oder gegebenenfalls ein Nagel verwendet, welcher in den Markraum des Knochens eingebracht wird (intramedulläre Schienung)."
+    ],
+    0.39123544096946716
+  ],
+  [
+    [
+      61,
+      29
+    ],
+    [
+      "So kann sich der Knochen nicht mehr verschieben.",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.27313756942749023
+  ],
+  [
+    [
+      62,
+      38
+    ],
+    [
+      "Ist der Knochen nach einigen Monaten wieder geheilt?",
+      "Bei der Operation werden die Bruchenden wieder aneinander gefügt (Reposition) und zur Stabilisierung wird eine winkelstabile Platte oder gegebenenfalls ein Nagel verwendet, welcher in den Markraum des Knochens eingebracht wird (intramedulläre Schienung)."
+    ],
+    0.391042560338974
+  ],
+  [
+    [
+      63,
+      29
+    ],
+    [
+      "Dann entfernt der Arzt die Platte oder die Nägel.",
+      "Auch hier dient der Verband im Wesentlichen der Ruhigstellung zur Schmerzbehandlung."
+    ],
+    0.4148763418197632
+  ],
+  [
+    [
+      64,
+      5
+    ],
+    [
+      "Sie möchten einen Schlüsselbeinbruch verhindern?",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.9293907284736633
+  ],
+  [
+    [
+      65,
+      48
+    ],
+    [
+      "Dann können Sie vor allem beim Sport auf Ihre Sicherheit achten:",
+      "Zudem empfiehlt sich ein den Sportarten angepasstes Sturztraining."
+    ],
+    0.25875505805015564
+  ],
+  [
+    [
+      66,
+      48
+    ],
+    [
+      "Für manche Sportarten gibt es ein Sturztraining.",
+      "Zudem empfiehlt sich ein den Sportarten angepasstes Sturztraining."
+    ],
+    0.7320959568023682
+  ],
+  [
+    [
+      67,
+      11
+    ],
+    [
+      "Dabei lernen Sie:",
+      "\"Skifahren, Snowboardfahren und Radfahren sind typische Sportarten\", meint Unfallchirurg Peter Gutsfeld."
+    ],
+    0.1007612869143486
+  ],
+  [
+    [
+      68,
+      13
+    ],
+    [
+      "So können Sie schwere Verletzungen bei Stürzen vermeiden.",
+      "Es können starke Schmerzen auftreten, wenn der Verletzte versucht, den Arm oder die Schulter zu bewegen."
+    ],
+    0.3999525010585785
+  ],
+  [
+    [
+      69,
+      5
+    ],
+    [
+      "Sie wollen noch mehr über den Schlüsselbeinbruch lesen?",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.912466824054718
+  ],
+  [
+    [
+      70,
+      5
+    ],
+    [
+      "Mehr Informationen über den Schlüsselbeinbruch finden Sie hier .",
+      "Ursächlich für einen Schlüsselbeinbruch ist meist ein Unfall."
+    ],
+    0.9113935232162476
+  ],
+  [
+    [
+      71,
+      31
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Dies kann eine bleibende Fehlstellung (meist eine Verkürzung) verursachen."
+    ],
+    0.3317641615867615
+  ],
+  [
+    [
+      72,
+      31
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Dies kann eine bleibende Fehlstellung (meist eine Verkürzung) verursachen."
+    ],
+    0.22199325263500214
+  ]
+]

@@ -1,0 +1,442 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ein Doppel-Name ist ein Nachname, der aus 2 Nachnamen besteht.",
+      "Sie möchten nach Ihrer Eheschließung oder Verpartnerung einen Doppelnamen führen?"
+    ],
+    0.513547956943512
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Zwischen diesen Nachnamen steht ein Binde-Strich.",
+      "Sie möchten nach Ihrer Eheschließung oder Verpartnerung einen Doppelnamen führen?"
+    ],
+    0.3015320897102356
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Ein Doppel-Name entsteht: Wenn Sie den Nachnamen von Ihrem Ehe-Partner oder Ihrer Ehe-Partnerin mit Ihrem eigenen Nachnamen fÃ¼hren.",
+      "Sie möchten nach Ihrer Eheschließung oder Verpartnerung einen Doppelnamen führen?"
+    ],
+    0.7162649631500244
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Oder Ihrem Geburts-Namen.",
+      "Dies setzt voraus, dass Sie bei der Trauung einen gemeinsamen Namen, den Ehenamen oder Lebenspartnerschaftsnamen, bestimmt haben."
+    ],
+    0.6123019456863403
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Oder einem anderen Namen, den Sie frÃ¼her hatten.",
+      "Sollten Sie bei Ihrer Trauung keinen gemeinsamen Namen bestimmt haben, können Sie dies jederzeit nachholen."
+    ],
+    0.7006419897079468
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Was brauche ich, um einen Doppel-Namen zu bekommen?",
+      "Sollten Sie bei Ihrer Trauung keinen gemeinsamen Namen bestimmt haben, können Sie dies jederzeit nachholen."
+    ],
+    0.276856929063797
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Sie brauchen dazu: Ihren Personal-Ausweis oder Reise-Pass Beglaubigte Kopie von Ihrem Ehe-Register Beglaubigt heiÃt:",
+      "Aktuelle beglaubigte Abschrift des Eheregisters"
+    ],
+    0.43242156505584717
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Zum Beispiel: Sie mÃ¼ssen eine Kopie von einer Urkunde beglaubigen lassen.",
+      "Aktuelle beglaubigte Abschrift des Eheregisters"
+    ],
+    0.054389577358961105
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Die Kopie ist dann beglaubigt.",
+      "Aktuelle beglaubigte Abschrift des Eheregisters"
+    ],
+    0.07124098390340805
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Die beglaubigte Kopie muss aktuell sein.",
+      "Aktuelle beglaubigte Abschrift des Eheregisters"
+    ],
+    0.09246247261762619
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "oder eine aktuelle Lebens-Partnerschafts-Urkunde",
+      "Aktuelle Lebenspartnerschaftsurkunde"
+    ],
+    0.7350902557373047
+  ],
+  [
+    [
+      16,
+      9
+    ],
+    [
+      "Â Wichtig: Wenn Sie Ihre Lebens-Partnerschaft in KÃ¶ln gegrÃ¼ndet haben, oder wenn Sie in KÃ¶ln geheiratet haben, dann liegt Ihr Register bei uns.",
+      "Aktuelle Lebenspartnerschaftsurkunde"
+    ],
+    0.23424121737480164
+  ],
+  [
+    [
+      17,
+      10
+    ],
+    [
+      "Das heiÃt: Sie bekommen die Urkunden und Kopien bei uns im Amt.",
+      "Wenn Sie Ihre Lebenspartnerschaft bei uns begründet haben, liegt Ihr Register hier vor."
+    ],
+    0.06365324556827545
+  ],
+  [
+    [
+      18,
+      11
+    ],
+    [
+      "Bitte sprechen Sie auch mit uns: Wenn Sie im Ausland geheiratet haben.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.19772900640964508
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Wenn Sie keine deutsche Staats-AngehÃ¶rigkeit haben.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.20840948820114136
+  ],
+  [
+    [
+      20,
+      11
+    ],
+    [
+      "Oder wenn Ihr Partner oder Ihre Partnerin keine deutsche Staats-AngehÃ¶rigkeit haben.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.5988248586654663
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Wo bekomme ich die Kopie aus meinem Ehe-Register?",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.005021421238780022
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Wenn Sie in Deutschland geheiratet haben, bekommen Sie die Kopie aus dem Ehe-Register in der Stadt, wo Sie geheiratet haben.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.14553998410701752
+  ],
+  [
+    [
+      23,
+      11
+    ],
+    [
+      "Haben Sie im Ausland geheiratet und haben wir vor dem 24. Februar 2007 ein Familien-Buch fÃ¼r Sie angelegt?",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.14699646830558777
+  ],
+  [
+    [
+      24,
+      11
+    ],
+    [
+      "Dann bekommen Sie die Kopie aus dem Ehe-Register beim Standes-Amt der Stadt, wo Sie frÃ¼her mit Ihrem Ehe-Partner wohnten.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.2860542833805084
+  ],
+  [
+    [
+      27,
+      11
+    ],
+    [
+      "Wenn Sie oder Ihr Ehe-Partner oder Ihre Ehe-Partnerin nicht Deutsche oder Deutscher sind, kommen Sie zu uns.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.500111997127533
+  ],
+  [
+    [
+      28,
+      11
+    ],
+    [
+      "Wir sagen Ihnen dann, wie Sie eine Kopie aus dem Ehe-Register bekommen.",
+      "Ist Ihre Partnerschaft im Ausland begründet worden oder einer von Ihnen nicht im Besitz der deutschen Staatsangehörigkeit, dann setzen Sie sich bitte zwecks weiterer Beratung mit uns in Verbindung."
+    ],
+    0.08191920816898346
+  ],
+  [
+    [
+      29,
+      12
+    ],
+    [
+      "Und auch, was Sie tun mÃ¼ssen, um einen Doppel-Namen zu bekommen.",
+      "Informationen rund um den Doppelnamen"
+    ],
+    0.8019483685493469
+  ],
+  [
+    [
+      30,
+      12
+    ],
+    [
+      "Was muss ich tun, um einen Doppel-Namen zu bekommen?",
+      "Informationen rund um den Doppelnamen"
+    ],
+    0.8535809516906738
+  ],
+  [
+    [
+      31,
+      15
+    ],
+    [
+      "Sie kommen zu uns ins Standes-Amt.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.35794928669929504
+  ],
+  [
+    [
+      32,
+      15
+    ],
+    [
+      "Die Adresse vom Standes-Amt finden Sie unter \"Weitere Infos\"",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.459337055683136
+  ],
+  [
+    [
+      33,
+      15
+    ],
+    [
+      "Sie zeigen uns die oben genannten Unterlagen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.23374859988689423
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Was kostet es, einen Doppel-Namen zu bekommen?",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.020708678290247917
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "21 Euro kostet die ErklÃ¤rung zum Doppel-Namen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.02501382865011692
+  ],
+  [
+    [
+      37,
+      15
+    ],
+    [
+      "Euro kostet eine Bescheinigung darÃ¼ber.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.015162439085543156
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Sie kÃ¶nnen dies mit Bargeld bezahlen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.1556978076696396
+  ],
+  [
+    [
+      39,
+      15
+    ],
+    [
+      "Das heiÃt: Sie kÃ¶nnen mit Geld-Scheinen und MÃ¼nzen bezahlen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.10460502654314041
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Oder: Sie kÃ¶nnen auch mit Ihrer EC -Karte bezahlen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.10966377705335617
+  ],
+  [
+    [
+      42,
+      15
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank fÃ¼r Ihr Konto bekommen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.1109267994761467
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Sie kÃ¶nnen damit ohne Bar-Geld bezahlen.",
+      "Sie können die Erklärung bei jedem Standesamt abgeben."
+    ],
+    0.14095422625541687
+  ],
+  [
+    [
+      44,
+      19
+    ],
+    [
+      "Und Sie kÃ¶nnen damit Geld an einem Automaten abheben.",
+      "Wenn Sie in Deutschland geheiratet haben, wird das Eheregister bei dem Standesamt geführt und aufbewahrt, wo Sie geheiratet haben."
+    ],
+    0.14374598860740662
+  ],
+  [
+    [
+      45,
+      19
+    ],
+    [
+      "Dazu geben Sie Ihre Geheim-Nummer in ein GerÃ¤t ein.",
+      "Wenn Sie in Deutschland geheiratet haben, wird das Eheregister bei dem Standesamt geführt und aufbewahrt, wo Sie geheiratet haben."
+    ],
+    0.2734553813934326
+  ],
+  [
+    [
+      46,
+      19
+    ],
+    [
+      "Diese Geheim-Nummer heiÃt PIN .",
+      "Wenn Sie in Deutschland geheiratet haben, wird das Eheregister bei dem Standesamt geführt und aufbewahrt, wo Sie geheiratet haben."
+    ],
+    0.07394672185182571
+  ],
+  [
+    [
+      47,
+      20
+    ],
+    [
+      "Das Geld wird dann von Ihrem Bank-Konto abgebucht.",
+      "Haben Sie für Ihre im Ausland geschlossene Ehe vor dem 24. Februar 2007 ein Familienbuch auf Antrag anlegen lassen, erhalten Sie die Ablichtung aus dem Eheregister bei dem Standesamt, wo Sie zu diesem Zeitpunkt gemeinsam gewohnt haben."
+    ],
+    0.07492101937532425
+  ],
+  [
+    [
+      49,
+      29
+    ],
+    [
+      "Die Bilder gehÃ¶ren: Lebenshilfe fÃ¼r Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Die Gebühren können bar oder mit der EC -Karte und PIN -Nummer bezahlt werden."
+    ],
+    0.14202211797237396
+  ]
+]

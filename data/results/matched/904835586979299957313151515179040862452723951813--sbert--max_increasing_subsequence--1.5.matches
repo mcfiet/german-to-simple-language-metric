@@ -1,0 +1,343 @@
+[
+  [
+    [
+      17,
+      0
+    ],
+    [
+      "Sie haben den Notruf angerufen?",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.6038469076156616
+  ],
+  [
+    [
+      22,
+      0
+    ],
+    [
+      "Sie können den Giftnotruf jederzeit anrufen.",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.7042468786239624
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Der Giftnotruf braucht einige Informationen von Ihnen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.7180494666099548
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "Wie alt ist die betroffene Person?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.9648669362068176
+  ],
+  [
+    [
+      33,
+      8
+    ],
+    [
+      "Wie viel wiegt die betroffene Person?",
+      "Wie viel wiegt er (ungefähr)?"
+    ],
+    0.8295931816101074
+  ],
+  [
+    [
+      34,
+      8
+    ],
+    [
+      "Sie können das Gewicht auch schätzen",
+      "Wie viel wiegt er (ungefähr)?"
+    ],
+    0.74946528673172
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Wann hat die betroffene Person das Gift eingenommen?",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.8932725787162781
+  ],
+  [
+    [
+      37,
+      9
+    ],
+    [
+      "Der Giftnotruf fragt zum Beispiel nach dem Namen und dem Hersteller des Mittels.",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.6197009086608887
+  ],
+  [
+    [
+      38,
+      9
+    ],
+    [
+      "Eine Person hat sich mit einem Medikament vergiftet?",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.7170518636703491
+  ],
+  [
+    [
+      39,
+      9
+    ],
+    [
+      "Dann fragt der Giftnotruf auch nach der Dosis des Medikaments.",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.6577001214027405
+  ],
+  [
+    [
+      41,
+      12
+    ],
+    [
+      "Wie viel hat die betroffene Person eingenommen?",
+      "Wie viel wurde eingenommen?"
+    ],
+    0.7817854881286621
+  ],
+  [
+    [
+      42,
+      14
+    ],
+    [
+      "Muss die betroffene Person husten oder brechen?",
+      "(Muss er beispielsweise husten oder erbrechen, ist er benommen?)"
+    ],
+    0.8174436092376709
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Wie ist Ihre Telefonnummer?",
+      "Ihre Telefonnummer für einen eventuellen Rückruf."
+    ],
+    0.8773055672645569
+  ],
+  [
+    [
+      45,
+      16
+    ],
+    [
+      "Der Giftnotruf muss Sie vielleicht zurückrufen Hinweis:",
+      "Falls Sie aufgefordert werden, mit dem Patienten ins Krankenhaus zu fahren, nehmen Sie das Gift nach Möglichkeit mit (zum Beispiel die Schachtel, den Behälter, Pflanzenblätter oder ähnliches)."
+    ],
+    0.6982879638671875
+  ],
+  [
+    [
+      46,
+      16
+    ],
+    [
+      "Manchmal müssen Sie sich selbst vor dem Gift schützen.",
+      "Falls Sie aufgefordert werden, mit dem Patienten ins Krankenhaus zu fahren, nehmen Sie das Gift nach Möglichkeit mit (zum Beispiel die Schachtel, den Behälter, Pflanzenblätter oder ähnliches)."
+    ],
+    0.7441996335983276
+  ],
+  [
+    [
+      47,
+      16
+    ],
+    [
+      "Zum Beispiel bei einer Vergiftung mit giftigen Pflanzenschutzmitteln.",
+      "Falls Sie aufgefordert werden, mit dem Patienten ins Krankenhaus zu fahren, nehmen Sie das Gift nach Möglichkeit mit (zum Beispiel die Schachtel, den Behälter, Pflanzenblätter oder ähnliches)."
+    ],
+    0.7024996876716614
+  ],
+  [
+    [
+      48,
+      16
+    ],
+    [
+      "Eine Person hat sich mit Pflanzenschutzmitteln vergiftet?",
+      "Falls Sie aufgefordert werden, mit dem Patienten ins Krankenhaus zu fahren, nehmen Sie das Gift nach Möglichkeit mit (zum Beispiel die Schachtel, den Behälter, Pflanzenblätter oder ähnliches)."
+    ],
+    0.6302132606506348
+  ],
+  [
+    [
+      50,
+      17
+    ],
+    [
+      "Die betroffene Person ist bewusstlos?",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.6384270191192627
+  ],
+  [
+    [
+      51,
+      17
+    ],
+    [
+      "Aber die betroffene Person atmet noch?",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.7947447299957275
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Überprüfen Sie immer wieder die Atmung der betroffenen Person.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.785317063331604
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Die Person atmet nicht mehr?",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.7521828413009644
+  ],
+  [
+    [
+      57,
+      19
+    ],
+    [
+      "Achtung: Diese Dinge müssen Sie vermeiden : Bringen Sie die betroffene Person nicht zum Erbrechen.",
+      "Auf keinen Fall sollten Sie den Patienten eigenmächtig zum Erbrechen bringen."
+    ],
+    0.788758397102356
+  ],
+  [
+    [
+      58,
+      20
+    ],
+    [
+      "Durch Erbrechen kann das Gift die Speiseröhre verletzen.",
+      "Wenn er eine ätzende Substanz eingenommen hat, kann die Speiseröhre geschädigt werden."
+    ],
+    0.8811964988708496
+  ],
+  [
+    [
+      59,
+      21
+    ],
+    [
+      "Und Erbrochenes kann in die Luftröhre der Person gelangen.",
+      "Außerdem könnte Erbrochenes in Luftröhre und Lunge geraten."
+    ],
+    0.8813282251358032
+  ],
+  [
+    [
+      61,
+      21
+    ],
+    [
+      "Die Person kann ersticken",
+      "Außerdem könnte Erbrochenes in Luftröhre und Lunge geraten."
+    ],
+    0.6382254362106323
+  ],
+  [
+    [
+      64,
+      25
+    ],
+    [
+      "Sie erst den Giftnotruf Geben Sie der betroffenen Person keine Milch zu trinken.",
+      "Keine Milch trinken lassen."
+    ],
+    0.7816442251205444
+  ],
+  [
+    [
+      65,
+      26
+    ],
+    [
+      "Durch die Milch kann der Darm das Gift schneller aufnehmen Kinder vergiften sich häufig mit Reinigungsmitteln, Pflanzen oder Medikamenten",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.883517861366272
+  ],
+  [
+    [
+      67,
+      31
+    ],
+    [
+      "Beachten Sie dafür diese Tipps:",
+      "Dazu gehören folgende Tipps:"
+    ],
+    0.856205940246582
+  ],
+  [
+    [
+      68,
+      32
+    ],
+    [
+      "Lagern Sie gefährliche Mittel nie in Reichweite von Kindern Lagern Sie Medikamente immer in einem verschlossenen Behälter Lagern Sie giftige Mittel nie neben Lebensmitteln Füllen Sie giftige Mittel nicht in andere Verpackungen.",
+      "Gefährliche Substanzen nie in Reichweite von Kindern aufbewahren Arzneimittel immer in verschlossener Hausapotheke lagern"
+    ],
+    0.8696784377098083
+  ],
+  [
+    [
+      69,
+      33
+    ],
+    [
+      "Füllen Sie zum Beispiel keine giftigen Flüssigkeiten in Trinkflaschen.",
+      "Niemals mögliche Giftsubstanzen in der Nähe von Lebensmitteln platzieren."
+    ],
+    0.6990443468093872
+  ],
+  [
+    [
+      72,
+      35
+    ],
+    [
+      "Sie möchten mehr Informationen zu Vergiftungen bei Kindern bekommen?",
+      "Vergiftungsunfälle bei Kindern"
+    ],
+    0.8056265115737915
+  ]
+]

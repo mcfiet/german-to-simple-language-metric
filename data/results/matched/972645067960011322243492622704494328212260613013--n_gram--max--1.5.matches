@@ -1,0 +1,629 @@
+[
+  [
+    [
+      0,
+      11
+    ],
+    [
+      "Info Body-Mass-Index:",
+      "Der Body-Mass-Index erlaubt nur eine erste grobe Einschätzung."
+    ],
+    0.8005871176719666
+  ],
+  [
+    [
+      1,
+      11
+    ],
+    [
+      "Body-Mass-Index ist das englische Wort für: Körpermasse-Index.",
+      "Der Body-Mass-Index erlaubt nur eine erste grobe Einschätzung."
+    ],
+    0.6587220430374146
+  ],
+  [
+    [
+      2,
+      11
+    ],
+    [
+      "Die Abkürzung für Body-Mass-Index ist: BMI.",
+      "Der Body-Mass-Index erlaubt nur eine erste grobe Einschätzung."
+    ],
+    0.6110414862632751
+  ],
+  [
+    [
+      3,
+      22
+    ],
+    [
+      "Der BMI soll zeigen:",
+      "Hier gibt es spezielle BMI-Tabellen und der BMI kann hier nur als Richtwert angesehen werden, da sie noch wachsen."
+    ],
+    0.8942219614982605
+  ],
+  [
+    [
+      4,
+      6
+    ],
+    [
+      "Hat eine Person ein gesundes Gewicht?",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.5256275534629822
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Hat die Person vielleicht Untergewicht?",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.4889027774333954
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Oder hat die Person vielleicht Übergewicht?",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.5016947388648987
+  ],
+  [
+    [
+      7,
+      12
+    ],
+    [
+      "Der BMI wird aus dem Gewicht und der Größe einer Person berechnet.",
+      "Wer viel Muskelmasse besitzt, kann beispielsweise einen hohen BMI haben, ohne übergewichtig im eigentlichen Sinne zu sein."
+    ],
+    0.7587549686431885
+  ],
+  [
+    [
+      8,
+      12
+    ],
+    [
+      "Bei Personen mit einem normalen Gewicht liegt der BMI zwischen 18,5 und 24,9. Personen mit einem BMI unter 18,5 sind untergewichtig.",
+      "Wer viel Muskelmasse besitzt, kann beispielsweise einen hohen BMI haben, ohne übergewichtig im eigentlichen Sinne zu sein."
+    ],
+    0.7998250126838684
+  ],
+  [
+    [
+      9,
+      12
+    ],
+    [
+      "Personen mit einem BMI über 24,9 sind übergewichtig.",
+      "Wer viel Muskelmasse besitzt, kann beispielsweise einen hohen BMI haben, ohne übergewichtig im eigentlichen Sinne zu sein."
+    ],
+    0.8134573698043823
+  ],
+  [
+    [
+      11,
+      22
+    ],
+    [
+      "Was ist mein BMI?",
+      "Hier gibt es spezielle BMI-Tabellen und der BMI kann hier nur als Richtwert angesehen werden, da sie noch wachsen."
+    ],
+    0.761397659778595
+  ],
+  [
+    [
+      12,
+      22
+    ],
+    [
+      "Dann können Sie den BMI-Rechner benutzen.",
+      "Hier gibt es spezielle BMI-Tabellen und der BMI kann hier nur als Richtwert angesehen werden, da sie noch wachsen."
+    ],
+    0.64642733335495
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Sie möchten Ihren BMI bestimmen?",
+      "Die Weltgesundheitsorganisation (WHO) teilt den BMI in sechs verschiedene Klassen ein:"
+    ],
+    0.8487318754196167
+  ],
+  [
+    [
+      14,
+      24
+    ],
+    [
+      "Dann klicken Sie hier .",
+      "Setzen Sie das Kind auf keinen Fall einfach auf Diät."
+    ],
+    0.30087384581565857
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Adipositas bedeutet: Fettleibigkeit.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8190837502479553
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Das bedeutet: Menschen mit Adipositas haben starkes Übergewicht.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8517369627952576
+  ],
+  [
+    [
+      18,
+      11
+    ],
+    [
+      "Das kann man zum Beispiel am Body-Mass-Index erkennen.",
+      "Der Body-Mass-Index erlaubt nur eine erste grobe Einschätzung."
+    ],
+    0.7784900665283203
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Menschen mit Adipositas haben einen Body-Mass-Index von 30 oder mehr.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8416918516159058
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Adipositas ist keine Krankheit.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8124362230300903
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Aber Adipositas ist eine Gesundheitsstörung.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8706883788108826
+  ],
+  [
+    [
+      23,
+      3
+    ],
+    [
+      "Für Adipositas gibt es verschiedene Anzeichen.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8788206577301025
+  ],
+  [
+    [
+      24,
+      3
+    ],
+    [
+      "Menschen mit Adipositas haben zum Beispiel einen BMI über 30.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8285486698150635
+  ],
+  [
+    [
+      25,
+      16
+    ],
+    [
+      "Oft haben diese Menschen aber auch körperliche Beschwerden.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.32244136929512024
+  ],
+  [
+    [
+      26,
+      3
+    ],
+    [
+      "Körperliche Beschwerden bei Adipositas sind zum Beispiel: fehlende Ausdauer schnelles Ermüden starkes Schwitzen Kurzatmigkeit",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8599506616592407
+  ],
+  [
+    [
+      28,
+      3
+    ],
+    [
+      "Sie glauben: Ich habe vielleicht Adipositas?",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8160035610198975
+  ],
+  [
+    [
+      29,
+      16
+    ],
+    [
+      "Oder Sie haben körperliche Beschwerden?",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.3892422318458557
+  ],
+  [
+    [
+      32,
+      22
+    ],
+    [
+      "Und der Arzt berechnet Ihren BMI.",
+      "Hier gibt es spezielle BMI-Tabellen und der BMI kann hier nur als Richtwert angesehen werden, da sie noch wachsen."
+    ],
+    0.6677908301353455
+  ],
+  [
+    [
+      34,
+      6
+    ],
+    [
+      "Haben Sie ein normales Gewicht?",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.624978244304657
+  ],
+  [
+    [
+      37,
+      16
+    ],
+    [
+      "Der Körper braucht Nahrung.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.4017396569252014
+  ],
+  [
+    [
+      38,
+      16
+    ],
+    [
+      "Aus der Nahrung gewinnt der Körper nämlich Energie.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.301908403635025
+  ],
+  [
+    [
+      39,
+      16
+    ],
+    [
+      "Diese Energie braucht der Körper zum Leben.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.2784225642681122
+  ],
+  [
+    [
+      41,
+      16
+    ],
+    [
+      "Der Körper bekommt mehr Energie als notwendig?",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.28326594829559326
+  ],
+  [
+    [
+      42,
+      16
+    ],
+    [
+      "Dann wandelt der Körper die Energie in Fett um.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.28880494832992554
+  ],
+  [
+    [
+      43,
+      16
+    ],
+    [
+      "Der Körper speichert dieses Fett.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.42133039236068726
+  ],
+  [
+    [
+      44,
+      6
+    ],
+    [
+      "Deshalb nimmt der Mensch an Gewicht zu.",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.6210370063781738
+  ],
+  [
+    [
+      45,
+      6
+    ],
+    [
+      "Für diese Gewichtszunahme kann es verschiedene Ursachen geben.",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.6109040975570679
+  ],
+  [
+    [
+      46,
+      6
+    ],
+    [
+      "Ursachen für Übergewicht können sein: fehlende Bewegung .",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.5189764499664307
+  ],
+  [
+    [
+      48,
+      4
+    ],
+    [
+      "Zu wenig Sport und zu wenig Bewegung können zu Übergewicht führen.",
+      "Das individuell anzustrebende, ideale Gewicht hängt allerdings auch von Alter, Geschlecht, vorliegenden Krankheiten und weiteren Angaben ab."
+    ],
+    0.46459922194480896
+  ],
+  [
+    [
+      54,
+      16
+    ],
+    [
+      "So bekommt der Körper zu viel Energie.",
+      "So ändern sich mit steigendem Alter beispielsweise der Stoffwechsel und die Körperzusammensetzung."
+    ],
+    0.28527122735977173
+  ],
+  [
+    [
+      57,
+      3
+    ],
+    [
+      "Haben Verwandte von Ihnen Adipositas?",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8301056623458862
+  ],
+  [
+    [
+      58,
+      3
+    ],
+    [
+      "Dann ist Ihr Risiko für Adipositas vielleicht erhöht.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.862973153591156
+  ],
+  [
+    [
+      66,
+      6
+    ],
+    [
+      "Auch Hormonstörungen können zu Übergewicht führen.",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.5243440270423889
+  ],
+  [
+    [
+      68,
+      3
+    ],
+    [
+      "Bestimmte Medikamente können das Risiko für Adipositas erhöhen.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8696462512016296
+  ],
+  [
+    [
+      69,
+      3
+    ],
+    [
+      "Adipositas ist keine Krankheit.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8124362230300903
+  ],
+  [
+    [
+      70,
+      3
+    ],
+    [
+      "Aber eine Person mit Adipositas hat ein höheres Risiko für andere Erkrankungen.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8542510271072388
+  ],
+  [
+    [
+      77,
+      3
+    ],
+    [
+      "Die Behandlung von Adipositas ist sehr wichtig.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8752944469451904
+  ],
+  [
+    [
+      78,
+      6
+    ],
+    [
+      "Sie verringern das Übergewicht?",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.6122006177902222
+  ],
+  [
+    [
+      80,
+      3
+    ],
+    [
+      "Sie haben bereits Folgeerkrankungen durch Adipositas?",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8133096098899841
+  ],
+  [
+    [
+      82,
+      3
+    ],
+    [
+      "Das können Sie gegen Adipositas tun: Ernährung ändern .",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8575432896614075
+  ],
+  [
+    [
+      96,
+      3
+    ],
+    [
+      "Menschen mit Adipositas bewegen sich häufig zu wenig.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8663183450698853
+  ],
+  [
+    [
+      100,
+      6
+    ],
+    [
+      "Dann können Sie durch Sport Ihr Gewicht besser halten.",
+      "Ihr Arzt oder ihre Ärztin hilft Ihnen, das für Sie passende Gewicht festzulegen."
+    ],
+    0.5735565423965454
+  ],
+  [
+    [
+      119,
+      3
+    ],
+    [
+      "Bei Menschen mit einem BMI von 40 oder mehr kann eine Operation gegen die Adipositas helfen.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.825348436832428
+  ],
+  [
+    [
+      120,
+      23
+    ],
+    [
+      "Bei der Operation verkleinert der Arzt den Magen.",
+      "Sollten Sie das Gefühl haben, dass Ihr Kind zu viel oder zu wenig wiegt, sprechen Sie am besten mit dem Kinderarzt oder der Kinderärztin darüber."
+    ],
+    0.2799304127693176
+  ],
+  [
+    [
+      122,
+      3
+    ],
+    [
+      "Hinweis: Adipositas ist keine Krankheit.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8747963309288025
+  ],
+  [
+    [
+      123,
+      3
+    ],
+    [
+      "Deshalb muss die Krankenkasse die Behandlung der Adipositas nicht bezahlen.",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8576326966285706
+  ],
+  [
+    [
+      130,
+      3
+    ],
+    [
+      "Sie wollen noch mehr über Adipositas lesen?",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8803545236587524
+  ],
+  [
+    [
+      131,
+      3
+    ],
+    [
+      "Mehr Informationen über Adipositas finden Sie hier .",
+      "Über 40: Adipositas Grad III"
+    ],
+    0.8735555410385132
+  ]
+]

@@ -1,0 +1,607 @@
+[
+  [
+    [
+      0,
+      14
+    ],
+    [
+      "Sie nehmen viele verschiedene Medikamente ein?",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.6368789076805115
+  ],
+  [
+    [
+      1,
+      19
+    ],
+    [
+      "Dann kann sich die Wirkung der verschiedenen Medikamente beeinflussen.",
+      "Kaffee kann auch die Wirkung mancher Medikamente erhöhen."
+    ],
+    0.7018049955368042
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Auch Lebensmittel können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.8076745867729187
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Der Arzt spricht dann von Wechselwirkungen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.5156756639480591
+  ],
+  [
+    [
+      4,
+      23
+    ],
+    [
+      "Weitere Informationen zu Wechselwirkungen bei der Einnahme von verschiedenen Medikamenten finden Sie hier .",
+      "Also auf einen ausreichend großen Abstand bei der Einnahme von Medikamenten achten."
+    ],
+    0.6359176635742188
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "Lebensmittel können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.8238982558250427
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Lebensmittel können die Wirkung von Medikamenten: verstärken abschwächen ganz aufheben Lebensmittel können auch die Nebenwirkungen eines Medikaments verstärken.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.7478803992271423
+  ],
+  [
+    [
+      7,
+      17
+    ],
+    [
+      "Sie nehmen ein Medikament und bekommen davon Schmerzen oder andere Beschwerden?",
+      "So sollten Sie zum Beispiel keine Eisentabletten oder bestimmte Mittel gegen Depressionen zusammen mit Kaffee oder Tee einnehmen."
+    ],
+    0.577229917049408
+  ],
+  [
+    [
+      8,
+      23
+    ],
+    [
+      "Dann spricht der Arzt von Nebenwirkungen.",
+      "Also auf einen ausreichend großen Abstand bei der Einnahme von Medikamenten achten."
+    ],
+    0.6174328923225403
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Medikamente können auch auf Lebensmittel wirken:",
+      "Medikamente können auf vielfältige Weise direkt oder indirekt mit Lebensmitteln wechselwirken."
+    ],
+    0.7294561862945557
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Medikamente können zum Beispiel die Aufnahme von Nährstoffen erschweren.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.8105051517486572
+  ],
+  [
+    [
+      11,
+      33
+    ],
+    [
+      "Nährstoffe sind zum Beispiel:",
+      "Dies betrifft zum Beispiel Ciclosporin, das unser Immunsystem unterdrückt, Blutdrucksenker wie Nifedipin, Cholesterinsenker wie Simvastatin und blutverdünnende Mittel."
+    ],
+    0.5605056881904602
+  ],
+  [
+    [
+      12,
+      66
+    ],
+    [
+      "Eiweiß Mineralstoffe",
+      "Arzneien, die im Magen Komplexe bilden, können die Aufnahme von wichtigen Mineralstoffen wie Calcium und Magnesium behindern."
+    ],
+    0.5673552751541138
+  ],
+  [
+    [
+      13,
+      50
+    ],
+    [
+      "Vitamine",
+      "Grüne Gemüsesorten wie Spinat, Brokkoli oder Rosenkohl enthalten Vitamin"
+    ],
+    0.6078401803970337
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Verschiedene Nahrungsmittel können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.8064581155776978
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Nahrungsmittel können die Wirkung von Medikamenten abschwächen .",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.7976046204566956
+  ],
+  [
+    [
+      16,
+      56
+    ],
+    [
+      "Zu diesen Nahrungsmitteln gehören zum Beispiel:",
+      "Zu diesen zählen unter anderem Bier, Wein, gereifter Käse, eingelegte Heringe und Salami."
+    ],
+    0.5782606601715088
+  ],
+  [
+    [
+      17,
+      50
+    ],
+    [
+      "Milchprodukte wie Joghurt oder Käse Ballaststoffe wie Obst oder Vollkornprodukte grünes Gemüse wie Brokkoli, Rosenkohl oder Spinat Nahrungsmittel können die Wirkung mancher Medikamente auch verstärken .",
+      "Grüne Gemüsesorten wie Spinat, Brokkoli oder Rosenkohl enthalten Vitamin"
+    ],
+    0.7516731023788452
+  ],
+  [
+    [
+      18,
+      44
+    ],
+    [
+      "Zu diesen Nahrungsmitteln gehören zum Beispiel: fetthaltiges Essen wie Bratkartoffeln oder Pommes und Mayonnaise Grapefruit Nahrungsmittel können die Wirkung von Medikamenten auch ganz aufheben .",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.6734485030174255
+  ],
+  [
+    [
+      19,
+      56
+    ],
+    [
+      "Zu diesen Nahrungsmitteln gehören zum Beispiel: gereifte Lebensmittel wie eingelegte Heringe, gereifter Käse oder Salami",
+      "Zu diesen zählen unter anderem Bier, Wein, gereifter Käse, eingelegte Heringe und Salami."
+    ],
+    0.769974410533905
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Sie nehmen blutverdünnende Medikamente ein?",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.6463416218757629
+  ],
+  [
+    [
+      21,
+      52
+    ],
+    [
+      "Dann sollten Sie Ingwer und Knoblauch nicht essen.",
+      "Essen Sie diese Gemüsesorten am besten kontinuierlich in ähnlichen Mengen, und nicht einmal sehr viel und dann wieder eine Zeit lang gar nichts."
+    ],
+    0.6344656348228455
+  ],
+  [
+    [
+      22,
+      19
+    ],
+    [
+      "Ingwer und Knoblauch können nämlich das Risiko für Blutungen erhöhen.",
+      "Kaffee kann auch die Wirkung mancher Medikamente erhöhen."
+    ],
+    0.5849372744560242
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Verschiedene Getränke können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.7780717015266418
+  ],
+  [
+    [
+      24,
+      19
+    ],
+    [
+      "Getränke können die Wirkung mancher Medikamente abschwächen .",
+      "Kaffee kann auch die Wirkung mancher Medikamente erhöhen."
+    ],
+    0.824353039264679
+  ],
+  [
+    [
+      25,
+      56
+    ],
+    [
+      "Zu diesen Getränken gehören zum Beispiel:",
+      "Zu diesen zählen unter anderem Bier, Wein, gereifter Käse, eingelegte Heringe und Salami."
+    ],
+    0.6126899719238281
+  ],
+  [
+    [
+      26,
+      9
+    ],
+    [
+      "Milchprodukte wie Milch oder Buttermilch und Kefir Tees wie Schwarztee, Grüntee und Früchtetee",
+      "Milch enthält – genauso wie Käse, Joghurt oder einige Mineralwässer – Kalzium."
+    ],
+    0.6797637939453125
+  ],
+  [
+    [
+      27,
+      7
+    ],
+    [
+      "Manche Getränke können die Wirkung von Medikamenten abschwächen oder verstärken .",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.7387375831604004
+  ],
+  [
+    [
+      28,
+      56
+    ],
+    [
+      "Zu diesen Getränken gehören zum Beispiel:",
+      "Zu diesen zählen unter anderem Bier, Wein, gereifter Käse, eingelegte Heringe und Salami."
+    ],
+    0.6126899719238281
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Kaffee Alkohol",
+      "Oder war es Kaffee?"
+    ],
+    0.5446456670761108
+  ],
+  [
+    [
+      30,
+      39
+    ],
+    [
+      "Alkohol wirkt verschieden auf Medikamente.",
+      "Alkohol interagiert auf verschiedene Weise mit Arzneien beziehungsweise diese mit ihm."
+    ],
+    0.6910734176635742
+  ],
+  [
+    [
+      31,
+      47
+    ],
+    [
+      "Manchmal verstärkt Alkohol die Wirkung von Medikamenten.",
+      "Alkohol fördert die magenschleimhautreizenden Effekte von Schmerzmitteln wie Acetylsalicylsäure."
+    ],
+    0.7399890422821045
+  ],
+  [
+    [
+      32,
+      47
+    ],
+    [
+      "Manchmal schwächt Alkohol die Wirkung von Medikamenten ab.",
+      "Alkohol fördert die magenschleimhautreizenden Effekte von Schmerzmitteln wie Acetylsalicylsäure."
+    ],
+    0.6687711477279663
+  ],
+  [
+    [
+      33,
+      19
+    ],
+    [
+      "Manche Getränke können die Wirkung von Medikamenten auch verstärken .",
+      "Kaffee kann auch die Wirkung mancher Medikamente erhöhen."
+    ],
+    0.7681746482849121
+  ],
+  [
+    [
+      34,
+      6
+    ],
+    [
+      "Zu diesen Getränken gehören zum Beispiel: Säfte Säfte mit Grapefruit, Äpfeln und Pomelo können die Wirkung eines Medikaments verstärken.",
+      "Das kann die Wirkung des Arzneistoffes zum Beispiel verstärken oder absenken."
+    ],
+    0.6134117245674133
+  ],
+  [
+    [
+      35,
+      32
+    ],
+    [
+      "Sie können das Risiko für Wechselwirkungen verkleinern.",
+      "Gefährlich kann das werden, wenn Arzneimittel schon bei leichter Überdosierung starke Nebenwirkungen auslösen können."
+    ],
+    0.5925806164741516
+  ],
+  [
+    [
+      36,
+      8
+    ],
+    [
+      "Dafür sollten Sie diese Dinge beachten:",
+      "Hier finden Sie einige typische Beispiele."
+    ],
+    0.5729509592056274
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Nehmen Sie Medikamente so ein, wie der Arzt es Ihnen sagt.",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.6238546967506409
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Beachten Sie zum Beispiel den richtigen Abstand zwischen Mahlzeiten und der Einnahme von Medikamenten.",
+      "Also auf einen ausreichend großen Abstand bei der Einnahme von Medikamenten achten."
+    ],
+    0.6632818579673767
+  ],
+  [
+    [
+      39,
+      17
+    ],
+    [
+      "Sie müssen Medikamente einnehmen?",
+      "So sollten Sie zum Beispiel keine Eisentabletten oder bestimmte Mittel gegen Depressionen zusammen mit Kaffee oder Tee einnehmen."
+    ],
+    0.6605035662651062
+  ],
+  [
+    [
+      40,
+      52
+    ],
+    [
+      "Dann trinken Sie davor und danach keinen Alkohol.",
+      "Essen Sie diese Gemüsesorten am besten kontinuierlich in ähnlichen Mengen, und nicht einmal sehr viel und dann wieder eine Zeit lang gar nichts."
+    ],
+    0.5971090197563171
+  ],
+  [
+    [
+      41,
+      19
+    ],
+    [
+      "Alkohol kann nämlich das Risiko für Wechselwirkungen erhöhen.",
+      "Kaffee kann auch die Wirkung mancher Medikamente erhöhen."
+    ],
+    0.6371864080429077
+  ],
+  [
+    [
+      42,
+      68
+    ],
+    [
+      "Sie haben Schmerzen oder fühlen sich krank?",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.5809820294380188
+  ],
+  [
+    [
+      43,
+      51
+    ],
+    [
+      "Und Sie denken: Ich bin vielleicht von Wechselwirkungen betroffen?",
+      "K. Sie sind sehr gesund, können aber den gerinnungshemmenden Effekt von Phenprocoumon oder Warfarin abschwächen."
+    ],
+    0.5618231892585754
+  ],
+  [
+    [
+      44,
+      8
+    ],
+    [
+      "Dann haben Sie zwei Möglichkeiten:",
+      "Hier finden Sie einige typische Beispiele."
+    ],
+    0.6153827905654907
+  ],
+  [
+    [
+      45,
+      14
+    ],
+    [
+      "1. Gehen Sie zum Arzt.",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.514372706413269
+  ],
+  [
+    [
+      46,
+      8
+    ],
+    [
+      "2. Machen Sie eine Liste:",
+      "Hier finden Sie einige typische Beispiele."
+    ],
+    0.4240321218967438
+  ],
+  [
+    [
+      47,
+      5
+    ],
+    [
+      "Sie nehmen verschiedene Medikamente, Vitaminpräparate und Lebensmittel?",
+      "Medikamente können auf vielfältige Weise direkt oder indirekt mit Lebensmitteln wechselwirken."
+    ],
+    0.5984368324279785
+  ],
+  [
+    [
+      48,
+      68
+    ],
+    [
+      "Dann schreiben Sie das auf.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.47805535793304443
+  ],
+  [
+    [
+      49,
+      14
+    ],
+    [
+      "Gehen Sie mit dieser Liste zur Apotheke.",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.5564504861831665
+  ],
+  [
+    [
+      50,
+      35
+    ],
+    [
+      "Ihr Apotheker kann Ihnen dann weiterhelfen.",
+      "Deshalb am besten in der Apotheke nachfragen, wie Sie Ihr Mittel richtig einnehmen."
+    ],
+    0.5503972768783569
+  ],
+  [
+    [
+      51,
+      32
+    ],
+    [
+      "Sie wollen noch mehr über Wechselwirkungen lesen?",
+      "Gefährlich kann das werden, wenn Arzneimittel schon bei leichter Überdosierung starke Nebenwirkungen auslösen können."
+    ],
+    0.5196885466575623
+  ],
+  [
+    [
+      52,
+      8
+    ],
+    [
+      "Mehr Informationen über Wechselwirkungen finden Sie hier .",
+      "Hier finden Sie einige typische Beispiele."
+    ],
+    0.6414119601249695
+  ],
+  [
+    [
+      53,
+      24
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die Leber entfernt aus dem Blut, das durch diese fließt, unerwünschte Substanzen."
+    ],
+    0.4036959111690521
+  ],
+  [
+    [
+      54,
+      64
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Mechanismen sind vielfältig."
+    ],
+    0.5763592720031738
+  ]
+]

@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Lungenentzündung ist eine Erkrankung der Atemwege.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.6230077147483826
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Fachwort für Lungenentzündung ist: Pneumonie.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.5113275647163391
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Bei einer Lungenentzündung entzünden sich die Lungenbläschen oder das Lungengewebe.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.8272539973258972
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Manchmal sind bei einer Lungenentzündung Lungenbläschen und Lungengewebe entzündet.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.8029417395591736
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Dann wird das entzündete Gewebe dicker.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.5105826258659363
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Deshalb kann der Sauerstoff nicht mehr so leicht ins Blut.",
+      "Die für den Gasaustausch wichtigen Hohlräume werden bei der bakteriellen Lungenentzündung durch eitriges Material und Wassereinlagerungen in das Gewebe verdichtet und stehen nicht mehr für den Austausch der Atemgase zur Verfügung."
+    ],
+    0.5496898889541626
+  ],
+  [
+    [
+      6,
+      14
+    ],
+    [
+      "Eine Lungenentzündung kann verschiedene Anzeichen haben.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.5782204866409302
+  ],
+  [
+    [
+      7,
+      14
+    ],
+    [
+      "Anzeichen einer Lungenentzündung sind zum Beispiel: Schwäche starkes Krankheitsgefühl",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.593514084815979
+  ],
+  [
+    [
+      8,
+      14
+    ],
+    [
+      "Husten",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.5706086754798889
+  ],
+  [
+    [
+      9,
+      14
+    ],
+    [
+      "Kopfschmerzen",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.6015225052833557
+  ],
+  [
+    [
+      10,
+      14
+    ],
+    [
+      "Gliederschmerzen",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.6517496705055237
+  ],
+  [
+    [
+      11,
+      14
+    ],
+    [
+      "Schüttelfrost",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3683534860610962
+  ],
+  [
+    [
+      12,
+      14
+    ],
+    [
+      "hohes Fieber",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.4050181806087494
+  ],
+  [
+    [
+      13,
+      14
+    ],
+    [
+      "Atemnot Sie glauben: Ich habe vielleicht eine Lungenentzündung?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.5355004072189331
+  ],
+  [
+    [
+      14,
+      14
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.25424620509147644
+  ],
+  [
+    [
+      15,
+      14
+    ],
+    [
+      "Der Arzt untersucht Sie und kann Ihnen helfen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.2868094742298126
+  ],
+  [
+    [
+      16,
+      14
+    ],
+    [
+      "Es gibt drei verschiedene Arten einer Lungenentzündung: infektiöse Lungenentzündung, nicht-infektiöse Lungenentzündung und die Aspirations-Pneumonie.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.6641526222229004
+  ],
+  [
+    [
+      17,
+      14
+    ],
+    [
+      "Infektiöse Lungenentzündung: Die häufigste Ursache einer infektiösen Lungenentzündung sind Bakterien.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.7879965305328369
+  ],
+  [
+    [
+      18,
+      14
+    ],
+    [
+      "Andere Ursachen einer infektiösen Lungenentzündung sind zum Beispiel:",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.6486327648162842
+  ],
+  [
+    [
+      19,
+      14
+    ],
+    [
+      "Viren Pilze Parasiten",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.5410875082015991
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Die Erreger einer infektiösen Lungenentzündung werden durch Tröpfchen-Infektion übertragen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.6908842921257019
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Das bedeutet: Die Erreger gelangen über Körper-Flüssigkeiten zu anderen Personen.",
+      "Lungenentzündungen gehen meist auf eine derartige Ansteckung durch Tröpfcheninfektion zurück."
+    ],
+    0.49411043524742126
+  ],
+  [
+    [
+      22,
+      20
+    ],
+    [
+      "Die Erreger können also zum Beispiel durch Husten oder Niesen übertragen werden.",
+      "Prinzipiell können sie durch viele verschiedene Bakterienarten, aber auch durch Viren, Pilze (zum Beispiel Aspergillus-Arten oder Candida ) oder Parasiten ausgelöst werden."
+    ],
+    0.7277776002883911
+  ],
+  [
+    [
+      23,
+      37
+    ],
+    [
+      "Nicht-infektiöse Lungenentzündung: Die häufigsten Ursachen einer nicht-infektiösen Lungenentzündung sind zum Beispiel:",
+      "Auch ionisierende Strahlen (zum Beispiel bei einer Strahlentherapie aufgrund von Krebs) können eine Lungenentzündung hervorrufen."
+    ],
+    0.6177605986595154
+  ],
+  [
+    [
+      24,
+      37
+    ],
+    [
+      "Strahlen von einer Strahlentherapie eingeatmete Gase Durchblutungsstörungen",
+      "Auch ionisierende Strahlen (zum Beispiel bei einer Strahlentherapie aufgrund von Krebs) können eine Lungenentzündung hervorrufen."
+    ],
+    0.6984200477600098
+  ],
+  [
+    [
+      25,
+      39
+    ],
+    [
+      "Fremdkörper",
+      "Auch bei einem durch einen Fremdkörper oder Tumor verschlossenen Bronchus kann es in dem mangelhaft belüfteten Lungenabschnitt zu einer Entzündung kommen."
+    ],
+    0.6311159133911133
+  ],
+  [
+    [
+      26,
+      42
+    ],
+    [
+      "Aspirations-Pneumonie: In Ihre Lunge gelangen Nahrungsreste oder Magensäure?",
+      "Sie entstehen, wenn Nahrungsbrei, Magensäure oder anderer Mageninhalt über die Luftröhre in die Lunge gelangen."
+    ],
+    0.7318819165229797
+  ],
+  [
+    [
+      27,
+      42
+    ],
+    [
+      "Dann können Sie eine Lungenentzündung bekommen.",
+      "Sie entstehen, wenn Nahrungsbrei, Magensäure oder anderer Mageninhalt über die Luftröhre in die Lunge gelangen."
+    ],
+    0.5471894145011902
+  ],
+  [
+    [
+      28,
+      42
+    ],
+    [
+      "Das Fachwort für diese Art der Lungenentzündung ist: Aspirations-Pneumonie.",
+      "Sie entstehen, wenn Nahrungsbrei, Magensäure oder anderer Mageninhalt über die Luftröhre in die Lunge gelangen."
+    ],
+    0.39944368600845337
+  ],
+  [
+    [
+      29,
+      44
+    ],
+    [
+      "Die Ursache von einer Aspirations-Pneumonie ist meist eine Schluckstörung.",
+      "Schluckstörungen treten häufig nach Schlaganfällen, bei einer Parkinson -Erkrankung, einer Multiplen Sklerose, einem Schädel-Hirn-Trauma oder einem Hirntumor auf."
+    ],
+    0.5584481954574585
+  ],
+  [
+    [
+      30,
+      44
+    ],
+    [
+      "Schluckstörungen können zum Beispiel durch diese Krankheiten entstehen:",
+      "Schluckstörungen treten häufig nach Schlaganfällen, bei einer Parkinson -Erkrankung, einer Multiplen Sklerose, einem Schädel-Hirn-Trauma oder einem Hirntumor auf."
+    ],
+    0.5353017449378967
+  ],
+  [
+    [
+      31,
+      44
+    ],
+    [
+      "Parkinson Schlaganfall Multiple",
+      "Schluckstörungen treten häufig nach Schlaganfällen, bei einer Parkinson -Erkrankung, einer Multiplen Sklerose, einem Schädel-Hirn-Trauma oder einem Hirntumor auf."
+    ],
+    0.6697153449058533
+  ],
+  [
+    [
+      32,
+      44
+    ],
+    [
+      "Sklerose Schädel-Hirn-Trauma Hirntumor",
+      "Schluckstörungen treten häufig nach Schlaganfällen, bei einer Parkinson -Erkrankung, einer Multiplen Sklerose, einem Schädel-Hirn-Trauma oder einem Hirntumor auf."
+    ],
+    0.7125133275985718
+  ],
+  [
+    [
+      33,
+      70
+    ],
+    [
+      "Sie glauben: Ich habe eine Lungenentzündung?",
+      "Nach weiteren ein bis zwei Wochen hat der Patient die Erkrankung dann idealerweise überstanden, wobei das allgemeine Schwächegefühl und eine leichte Atemnot auch noch länger anhalten können."
+    ],
+    0.5076659321784973
+  ],
+  [
+    [
+      34,
+      70
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Nach weiteren ein bis zwei Wochen hat der Patient die Erkrankung dann idealerweise überstanden, wobei das allgemeine Schwächegefühl und eine leichte Atemnot auch noch länger anhalten können."
+    ],
+    0.41542044281959534
+  ],
+  [
+    [
+      35,
+      78
+    ],
+    [
+      "Der Arzt untersucht Sie und kann Ihnen helfen.",
+      "Eine Lungenentzündung kann auch sehr kompliziert verlaufen, etwa wenn die Behandlung nicht rechtzeitig einsetzt und die Pneumonie verschleppt wird, wenn die Therapie nicht ausreichend wirksam ist oder wenn Begleiterkrankungen hinzukommen."
+    ],
+    0.4982474744319916
+  ],
+  [
+    [
+      36,
+      78
+    ],
+    [
+      "Eine Lungenentzündung kann verschiedene Ursachen haben.",
+      "Eine Lungenentzündung kann auch sehr kompliziert verlaufen, etwa wenn die Behandlung nicht rechtzeitig einsetzt und die Pneumonie verschleppt wird, wenn die Therapie nicht ausreichend wirksam ist oder wenn Begleiterkrankungen hinzukommen."
+    ],
+    0.6445024609565735
+  ],
+  [
+    [
+      37,
+      78
+    ],
+    [
+      "Deshalb ist die Behandlung immer unterschiedlich.",
+      "Eine Lungenentzündung kann auch sehr kompliziert verlaufen, etwa wenn die Behandlung nicht rechtzeitig einsetzt und die Pneumonie verschleppt wird, wenn die Therapie nicht ausreichend wirksam ist oder wenn Begleiterkrankungen hinzukommen."
+    ],
+    0.7084513306617737
+  ],
+  [
+    [
+      38,
+      78
+    ],
+    [
+      "Bakterien haben die Lungenentzündung ausgelöst?",
+      "Eine Lungenentzündung kann auch sehr kompliziert verlaufen, etwa wenn die Behandlung nicht rechtzeitig einsetzt und die Pneumonie verschleppt wird, wenn die Therapie nicht ausreichend wirksam ist oder wenn Begleiterkrankungen hinzukommen."
+    ],
+    0.607380211353302
+  ],
+  [
+    [
+      39,
+      84
+    ],
+    [
+      "Dann helfen meist Antibiotika.",
+      "Die Symptome einer Lungenentzündung lassen sich manchmal nur schwer von denen einer Erkältung oder anderer Atemwegsinfektionen abgrenzen."
+    ],
+    0.4676543176174164
+  ],
+  [
+    [
+      40,
+      84
+    ],
+    [
+      "Die Lungenentzündung hat andere Ursachen?",
+      "Die Symptome einer Lungenentzündung lassen sich manchmal nur schwer von denen einer Erkältung oder anderer Atemwegsinfektionen abgrenzen."
+    ],
+    0.6527504920959473
+  ],
+  [
+    [
+      41,
+      122
+    ],
+    [
+      "Dann bekommen Patienten eine andere Behandlung.",
+      "Entsprechend schwierig gestaltet sich dann die Behandlung."
+    ],
+    0.5976943969726562
+  ],
+  [
+    [
+      42,
+      162
+    ],
+    [
+      "Sie haben Fragen zur Behandlung?",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5094757676124573
+  ],
+  [
+    [
+      43,
+      162
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.6523528695106506
+  ],
+  [
+    [
+      44,
+      162
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5439091324806213
+  ],
+  [
+    [
+      45,
+      162
+    ],
+    [
+      "Sie möchten eine Lungenentzündung vermeiden?",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.6581381559371948
+  ],
+  [
+    [
+      46,
+      162
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5675130486488342
+  ],
+  [
+    [
+      47,
+      162
+    ],
+    [
+      "Bewegen Sie sich regelmäßig an der frischen Luft.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.4969867467880249
+  ],
+  [
+    [
+      48,
+      162
+    ],
+    [
+      "Rauchen Sie nicht.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5329235792160034
+  ],
+  [
+    [
+      49,
+      162
+    ],
+    [
+      "Ärzte empfehlen auch: Lassen Sie sich gegen die Grippe impfen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5911058187484741
+  ],
+  [
+    [
+      50,
+      162
+    ],
+    [
+      "Und lassen Sie sich gegen Pneumokokken impfen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5913657546043396
+  ],
+  [
+    [
+      51,
+      162
+    ],
+    [
+      "Pneumokokken sind Bakterien.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.38081198930740356
+  ],
+  [
+    [
+      52,
+      162
+    ],
+    [
+      "Pneumokokken können eine Lungenentzündung verursachen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.5477951765060425
+  ],
+  [
+    [
+      53,
+      162
+    ],
+    [
+      "Sie lassen sich impfen?",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.6905136704444885
+  ],
+  [
+    [
+      54,
+      167
+    ],
+    [
+      "Dann ist die Lungenentzündung vielleicht weniger schlimm.",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.5402337908744812
+  ],
+  [
+    [
+      55,
+      167
+    ],
+    [
+      "Sie möchten noch mehr über die Lungenentzündung lesen?",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.4808772802352905
+  ],
+  [
+    [
+      56,
+      167
+    ],
+    [
+      "Mehr Informationen über die Lungenentzündung finden Sie hier .",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.5065005421638489
+  ],
+  [
+    [
+      57,
+      167
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.2789328992366791
+  ],
+  [
+    [
+      58,
+      167
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.46969351172447205
+  ]
+]

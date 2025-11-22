@@ -1,0 +1,299 @@
+[
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Das Gewebe ist rot, das Nagelbett ist dick und tut weh, die Haut fühlt sich an dieser Stelle warm an.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.8811920285224915
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Häufig tritt ein klopfender Schmerz auf.",
+      "Häufig kommt ein typischer klopfender Schmerz dazu."
+    ],
+    0.7697182297706604
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Dieser Schmerz entsteht durch den Pulsschlag.",
+      "Dieser entsteht durch den Pulsschlag der kleinen Blutgefäße, der zu einer vorübergehenden Druckerhöhung im entzündeten Gewebe führt."
+    ],
+    0.816581666469574
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Deshalb erhöht sich kurz der Druck auf das entzündete Gewebe.",
+      "Bei einer Infektion mit Bakterien bildet sich an den seitlichen Rändern sowie unter der Nagelplatte nach einiger Zeit Eiter, der manchmal bei Druck auf den Nagel beziehungsweise die entzündete Stelle austritt."
+    ],
+    0.7555104494094849
+  ],
+  [
+    [
+      26,
+      10
+    ],
+    [
+      "Dauert die Entzündung lange?",
+      "Die Betroffenen haben weniger starke oder kaum Schmerzen, einige bemerken die Entzündung gar nicht."
+    ],
+    0.8029994964599609
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Oder wird die Entzündung nicht behandelt?",
+      "Ein Arztbesuch ist aber spätestens dann ratsam, wenn die Entzündung nach der ersten Behandlung nicht zurückgeht, die Beschwerden zunehmen, die Rötung sich ausbreitet, eine Schwellung oder Überwärmung auftritt, die Schmerzen stärker werden oder gar bei jedem Pulsschlag als \"klopfend\" empfunden werden, oder wenn nässende oder eitrige Stellen dazukommen."
+    ],
+    0.8879143595695496
+  ],
+  [
+    [
+      34,
+      30
+    ],
+    [
+      "Durch die Wunden können Keime eindringen.",
+      "Die Verletzungen entstehen leicht durch falsche Nagelpflege, trockene, rissige Hände oder Füße, Schnittwunden, häufigen Kontakt mit Wasser oder aggressiven Chemikalien, die das Gewebe verätzen."
+    ],
+    0.846450686454773
+  ],
+  [
+    [
+      36,
+      30
+    ],
+    [
+      "Ursachen für diese Wunden sind zum Beispiel: falsche Nagelpflege trockene oder rissige Haut an Händen oder Füßen Schnittwunden häufiger Kontakt mit Wasser eingewachsene Nägel",
+      "Die Verletzungen entstehen leicht durch falsche Nagelpflege, trockene, rissige Hände oder Füße, Schnittwunden, häufigen Kontakt mit Wasser oder aggressiven Chemikalien, die das Gewebe verätzen."
+    ],
+    0.9049532413482666
+  ],
+  [
+    [
+      38,
+      30
+    ],
+    [
+      "Druckstellen durch falsche Schuhe",
+      "Die Verletzungen entstehen leicht durch falsche Nagelpflege, trockene, rissige Hände oder Füße, Schnittwunden, häufigen Kontakt mit Wasser oder aggressiven Chemikalien, die das Gewebe verätzen."
+    ],
+    0.7855283617973328
+  ],
+  [
+    [
+      47,
+      43
+    ],
+    [
+      "Viele Menschen schneiden die Nagelhaut mit einer Schere ab.",
+      "Immer noch schneiden viele Menschen das Nagelhäutchen mit einer Schere ab oder schieben die Haut unsanft mit einem harten Gegenstand zurück."
+    ],
+    0.8595267534255981
+  ],
+  [
+    [
+      48,
+      43
+    ],
+    [
+      "Manche Menschen schieben die Nagelhaut mit einem harten Gegenstand zurück.",
+      "Immer noch schneiden viele Menschen das Nagelhäutchen mit einer Schere ab oder schieben die Haut unsanft mit einem harten Gegenstand zurück."
+    ],
+    0.9214966893196106
+  ],
+  [
+    [
+      52,
+      45
+    ],
+    [
+      "Schneiden Sie die Nägel an den Seiten nicht zu schräg.",
+      "Beim Nägelschneiden entstehen ebenfalls leicht kleine Wunden, wenn man an den Seiten zu schräg und zu tief in den Nagelfalz beziehungsweise -wall schneidet."
+    ],
+    0.9023712277412415
+  ],
+  [
+    [
+      53,
+      45
+    ],
+    [
+      "Schneiden Sie an den Seiten nicht zu tief.",
+      "Beim Nägelschneiden entstehen ebenfalls leicht kleine Wunden, wenn man an den Seiten zu schräg und zu tief in den Nagelfalz beziehungsweise -wall schneidet."
+    ],
+    0.9151856303215027
+  ],
+  [
+    [
+      63,
+      64
+    ],
+    [
+      "Jod hilft gegen die Bakterien.",
+      "Auch desinfizierende Lösungen oder Salben, die Jod oder andere antibakteriell wirkende Stoffe enthalten, können rasch helfen, vor allem wenn Bakterien die Ursache der Infektion waren."
+    ],
+    0.8013158440589905
+  ],
+  [
+    [
+      64,
+      64
+    ],
+    [
+      "Mittel gegen bestimmte Krankheitserreger Sind Bakterien die Ursache für die Entzündung?",
+      "Auch desinfizierende Lösungen oder Salben, die Jod oder andere antibakteriell wirkende Stoffe enthalten, können rasch helfen, vor allem wenn Bakterien die Ursache der Infektion waren."
+    ],
+    0.8757764101028442
+  ],
+  [
+    [
+      74,
+      70
+    ],
+    [
+      "Und kann der Eiter nicht von selbst abfließen?",
+      "Größere Eiterherde muss der Arzt unter örtlicher Betäubung vorsichtig aufschneiden, damit der Eiter richtig abfließen kann."
+    ],
+    0.8255208730697632
+  ],
+  [
+    [
+      78,
+      75
+    ],
+    [
+      "Sie wollen eine Nagelbett-Entzündung vermeiden?",
+      "Vorsicht: Versuchen Sie nicht selbst, einen Eiterherd zu öffnen."
+    ],
+    0.7698960900306702
+  ],
+  [
+    [
+      83,
+      75
+    ],
+    [
+      "Feilen Sie nicht zu tief in die Seite.",
+      "Vorsicht: Versuchen Sie nicht selbst, einen Eiterherd zu öffnen."
+    ],
+    0.8270480036735535
+  ],
+  [
+    [
+      84,
+      87
+    ],
+    [
+      "Schneiden Sie die Fußnägel gerade.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.817794144153595
+  ],
+  [
+    [
+      88,
+      87
+    ],
+    [
+      "Damit können Sie die Nagelhaut sanft zurückschieben.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.8338761329650879
+  ],
+  [
+    [
+      94,
+      87
+    ],
+    [
+      "Dann schieben Sie die Nagelhaut nicht zurück.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.8187193870544434
+  ],
+  [
+    [
+      95,
+      87
+    ],
+    [
+      "Benutzen Sie dann auch keinen Nagellack.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.8127243518829346
+  ],
+  [
+    [
+      97,
+      87
+    ],
+    [
+      "Dann merken Sie Verletzungen vielleicht nicht.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.8427249193191528
+  ],
+  [
+    [
+      100,
+      97
+    ],
+    [
+      "Die Schuhe sollten nicht drücken oder den Fuß einengen.",
+      "Tragen Sie gut sitzende Schuhe, die den Fuß nicht einengen und zu Druckstellen und Verformungen führen."
+    ],
+    0.8444288372993469
+  ],
+  [
+    [
+      103,
+      98
+    ],
+    [
+      "Dann sollten Sie Handschuhe tragen.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.7811190485954285
+  ],
+  [
+    [
+      104,
+      98
+    ],
+    [
+      "Halten Sie Hände und Füße trocken.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.936316192150116
+  ],
+  [
+    [
+      105,
+      98
+    ],
+    [
+      "Schützen Sie Hände und Füße vor Kälte.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.9482629299163818
+  ]
+]

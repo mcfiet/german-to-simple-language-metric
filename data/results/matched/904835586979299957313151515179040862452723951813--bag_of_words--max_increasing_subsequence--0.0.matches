@@ -1,0 +1,585 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einer Vergiftung schädigt ein giftiger Stoff den Körper.",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.29851964116096497
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Der giftige Stoff kann auf verschiedene Arten in den Körper gelangen:",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.02717103622853756
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Person kann den Stoff einatmen",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.02908368967473507
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Eine Person kann den Stoff verschlucken",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.029050203040242195
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Eine Person kann den Stoff über die Haut aufnehmen",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.027812035754323006
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Eine Person kann den Stoff über die Augen aufnehmen",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.02779872715473175
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Eine Person kann den Stoff über die Nase aufnehmen",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.027797143906354904
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sie glauben:",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.8731046915054321
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Dann rufen Sie sofort den Notruf.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7348187565803528
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Sie können die Nummer auch mit einem gesperrten Handy anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.6564593315124512
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Und Sie fahren die Person selbst in ein Krankenhaus?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.38917210698127747
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Dann nehmen Sie möglichst das Gift mit.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5661703944206238
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Sie können zum Beispiel die Medikamentenschachtel den Behälter oder ein Blatt von der Pflanze mitnehmen",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.588485836982727
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Sie haben den Notruf angerufen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7438737154006958
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Und Sie warten auf den Rettungswagen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7596369981765747
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Dann können Sie zusätzlich den Giftnotruf anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.31026431918144226
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Der Giftnotruf sagt Ihnen: Das müssen Sie bei einer Vergiftung tun.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.30711817741394043
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Sie können den Giftnotruf jederzeit anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.31329044699668884
+  ],
+  [
+    [
+      23,
+      3
+    ],
+    [
+      "Hier finden Sie eine Liste mit allen Nummern des Giftnotrufs: Berlin und Brandenburg Telefon: 030 / 19240 Nordrhein-Westfalen Telefon: 0228 / 19240 Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen Telefon: 0361 / 730730",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.17898324131965637
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "Hat sich ein Kind vergiftet?",
+      "Kind?"
+    ],
+    0.0682278499007225
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Oder hat sich ein Erwachsener vergiftet?",
+      "Erwachsener?"
+    ],
+    0.1569882333278656
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "Wie alt ist die betroffene Person?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.18985618650913239
+  ],
+  [
+    [
+      33,
+      7
+    ],
+    [
+      "Wie viel wiegt die betroffene Person?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.12909483909606934
+  ],
+  [
+    [
+      36,
+      7
+    ],
+    [
+      "Was genau hat die betroffene Person eingenommen?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.09283512830734253
+  ],
+  [
+    [
+      37,
+      7
+    ],
+    [
+      "Der Giftnotruf fragt zum Beispiel nach dem Namen und dem Hersteller des Mittels.",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.06406258046627045
+  ],
+  [
+    [
+      40,
+      7
+    ],
+    [
+      "Die Dosis steht auf der Verpackung",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.22479400038719177
+  ],
+  [
+    [
+      41,
+      7
+    ],
+    [
+      "Wie viel hat die betroffene Person eingenommen?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.12491051852703094
+  ],
+  [
+    [
+      42,
+      7
+    ],
+    [
+      "Muss die betroffene Person husten oder brechen?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.0957677885890007
+  ],
+  [
+    [
+      43,
+      7
+    ],
+    [
+      "Ist die betroffene Person benommen?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.13365431129932404
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Wie ist Ihre Telefonnummer?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.6026458740234375
+  ],
+  [
+    [
+      45,
+      7
+    ],
+    [
+      "Der Giftnotruf muss Sie vielleicht zurückrufen Hinweis:",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.06089578941464424
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Die betroffene Person ist bewusstlos?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.13406723737716675
+  ],
+  [
+    [
+      51,
+      7
+    ],
+    [
+      "Aber die betroffene Person atmet noch?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.09542647749185562
+  ],
+  [
+    [
+      52,
+      17
+    ],
+    [
+      "Dann bringen Sie die Person in die stabile Seitenlage.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.45658716559410095
+  ],
+  [
+    [
+      53,
+      17
+    ],
+    [
+      "Mehr Informationen über die stabile Seitenlage finden Sie hier .",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.7167178988456726
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Überprüfen Sie immer wieder die Atmung der betroffenen Person.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.41167354583740234
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Die Person atmet nicht mehr?",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.07969708740711212
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.6515682339668274
+  ],
+  [
+    [
+      57,
+      17
+    ],
+    [
+      "Achtung: Diese Dinge müssen Sie vermeiden : Bringen Sie die betroffene Person nicht zum Erbrechen.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.5393185615539551
+  ],
+  [
+    [
+      58,
+      17
+    ],
+    [
+      "Durch Erbrechen kann das Gift die Speiseröhre verletzen.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.08195221424102783
+  ],
+  [
+    [
+      59,
+      17
+    ],
+    [
+      "Und Erbrochenes kann in die Luftröhre der Person gelangen.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.08600658923387527
+  ],
+  [
+    [
+      60,
+      17
+    ],
+    [
+      "Das ist gefährlich.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.09139973670244217
+  ],
+  [
+    [
+      61,
+      17
+    ],
+    [
+      "Die Person kann ersticken",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.05306587740778923
+  ],
+  [
+    [
+      62,
+      17
+    ],
+    [
+      "Geben Sie der betroffenen Person keine Kohletabletten.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.34823641180992126
+  ],
+  [
+    [
+      64,
+      17
+    ],
+    [
+      "Sie erst den Giftnotruf Geben Sie der betroffenen Person keine Milch zu trinken.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.39250022172927856
+  ],
+  [
+    [
+      66,
+      17
+    ],
+    [
+      "Sie können Kinder vor einer Vergiftung schützen.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.4871242046356201
+  ],
+  [
+    [
+      67,
+      18
+    ],
+    [
+      "Beachten Sie dafür diese Tipps:",
+      "Sollte die Atmung aussetzen, müssen Sie bis zum Eintreffen des Rettungsdienstes mit der Herz-Lungen-Wiederbelebung beginnen."
+    ],
+    0.4654577076435089
+  ],
+  [
+    [
+      68,
+      19
+    ],
+    [
+      "Lagern Sie gefährliche Mittel nie in Reichweite von Kindern Lagern Sie Medikamente immer in einem verschlossenen Behälter Lagern Sie giftige Mittel nie neben Lebensmitteln Füllen Sie giftige Mittel nicht in andere Verpackungen.",
+      "Auf keinen Fall sollten Sie den Patienten eigenmächtig zum Erbrechen bringen."
+    ],
+    0.46106359362602234
+  ],
+  [
+    [
+      69,
+      19
+    ],
+    [
+      "Füllen Sie zum Beispiel keine giftigen Flüssigkeiten in Trinkflaschen.",
+      "Auf keinen Fall sollten Sie den Patienten eigenmächtig zum Erbrechen bringen."
+    ],
+    0.4388554096221924
+  ],
+  [
+    [
+      70,
+      19
+    ],
+    [
+      "Man kann den Stoff dann nämlich nicht mehr erkennen.",
+      "Auf keinen Fall sollten Sie den Patienten eigenmächtig zum Erbrechen bringen."
+    ],
+    0.025124331936240196
+  ],
+  [
+    [
+      74,
+      28
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Vor allem Kinder probieren gerne alles aus, was sie erreichen können."
+    ],
+    0.018448621034622192
+  ],
+  [
+    [
+      76,
+      28
+    ],
+    [
+      "Sie wollen noch mehr über Vergiftungen lesen?",
+      "Vor allem Kinder probieren gerne alles aus, was sie erreichen können."
+    ],
+    0.5241045951843262
+  ],
+  [
+    [
+      78,
+      28
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Vor allem Kinder probieren gerne alles aus, was sie erreichen können."
+    ],
+    0.018448621034622192
+  ]
+]

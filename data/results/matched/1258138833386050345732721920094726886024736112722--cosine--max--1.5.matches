@@ -1,0 +1,387 @@
+[
+  [
+    [
+      4,
+      23
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7817801237106323
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.9550410509109497
+  ],
+  [
+    [
+      8,
+      23
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7750990986824036
+  ],
+  [
+    [
+      9,
+      23
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.9749189615249634
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7915419340133667
+  ],
+  [
+    [
+      12,
+      23
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.8492618203163147
+  ],
+  [
+    [
+      13,
+      23
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7588022351264954
+  ],
+  [
+    [
+      14,
+      23
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7971769571304321
+  ],
+  [
+    [
+      15,
+      14
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.8112331628799438
+  ],
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8098464012145996
+  ],
+  [
+    [
+      18,
+      10
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.7922438979148865
+  ],
+  [
+    [
+      19,
+      18
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.7591277360916138
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Manchmal sind Fremdkörper in der Wunde.",
+      "Fremdkörper in der Wunde, wie beispielsweise Holzäste oder Messer sollten nicht herausgezogen werden!"
+    ],
+    0.8167012333869934
+  ],
+  [
+    [
+      23,
+      23
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.8631320595741272
+  ],
+  [
+    [
+      24,
+      10
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.7567335367202759
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.7591280937194824
+  ],
+  [
+    [
+      26,
+      20
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Sie wirken wie ein \"Stöpsel\" und sollten daher belassen werden."
+    ],
+    0.7778509259223938
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.8543118834495544
+  ],
+  [
+    [
+      32,
+      23
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.8412370085716248
+  ],
+  [
+    [
+      35,
+      0
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.7731243371963501
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.8097063302993774
+  ],
+  [
+    [
+      37,
+      20
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Sie wirken wie ein \"Stöpsel\" und sollten daher belassen werden."
+    ],
+    0.7847884297370911
+  ],
+  [
+    [
+      40,
+      1
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7986534833908081
+  ],
+  [
+    [
+      41,
+      23
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7745827436447144
+  ],
+  [
+    [
+      43,
+      1
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7825660109519958
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Kopf leicht nach vorne beugen."
+    ],
+    0.8365188241004944
+  ],
+  [
+    [
+      47,
+      0
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8136159181594849
+  ],
+  [
+    [
+      48,
+      0
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8109011054039001
+  ],
+  [
+    [
+      49,
+      8
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.8056296706199646
+  ],
+  [
+    [
+      50,
+      0
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8446811437606812
+  ],
+  [
+    [
+      51,
+      0
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8189829587936401
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7968276143074036
+  ],
+  [
+    [
+      55,
+      1
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.797022819519043
+  ],
+  [
+    [
+      56,
+      1
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7589782476425171
+  ],
+  [
+    [
+      58,
+      19
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Fremdkörper in der Wunde, wie beispielsweise Holzäste oder Messer sollten nicht herausgezogen werden!"
+    ],
+    0.7743263840675354
+  ]
+]

@@ -1,0 +1,948 @@
+[
+  [
+    [
+      0,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze ist ein Verhütungsmittel.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8623571991920471
+  ],
+  [
+    [
+      1,
+      4
+    ],
+    [
+      "Das bedeutet: Die Dreimonatsspritze schützt vor einer Schwangerschaft.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8680213093757629
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze enthält eine große Menge Hormone.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8753553032875061
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Die Hormone heißen: Gestagene.",
+      "Die zur Zeit verfügbaren Präparate enthalten entweder das Gestagen Medroxyprogesteron oder das Gestagen Norethisteronacetat."
+    ],
+    0.45433875918388367
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Eine Frau bekommt Gestagene?",
+      "So muss die Frau zum Beispiel einen normalen Zyklus haben."
+    ],
+    0.48480910062789917
+  ],
+  [
+    [
+      5,
+      32
+    ],
+    [
+      "Dann kann die Frau nicht schwanger werden.",
+      "Am besten berät sich die Frau dann mit ihrem Arzt."
+    ],
+    0.6327090263366699
+  ],
+  [
+    [
+      6,
+      8
+    ],
+    [
+      "Die Gestagene hemmen nämlich den Eisprung.",
+      "Die zur Zeit verfügbaren Präparate enthalten entweder das Gestagen Medroxyprogesteron oder das Gestagen Norethisteronacetat."
+    ],
+    0.4574943482875824
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Achtung: Die Dreimonatsspritze ist nur für bestimmte Frauen geeignet.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8608263731002808
+  ],
+  [
+    [
+      8,
+      7
+    ],
+    [
+      "Diese Frauen können keine anderen Verhütungsmittel nehmen.",
+      "Die Methode eignet sich in erster Linie für Frauen, die andere Verhütungsmittel nicht vertragen oder keine Verhütungspillen anwenden können, etwa wegen einer chronischen Magen-Darm-Erkrankung."
+    ],
+    0.7218937873840332
+  ],
+  [
+    [
+      9,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze eignet sich nur für wenige Frauen.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8635755777359009
+  ],
+  [
+    [
+      11,
+      7
+    ],
+    [
+      "Die Frau verträgt andere Verhütungsmittel nicht.",
+      "Die Methode eignet sich in erster Linie für Frauen, die andere Verhütungsmittel nicht vertragen oder keine Verhütungspillen anwenden können, etwa wegen einer chronischen Magen-Darm-Erkrankung."
+    ],
+    0.7313892245292664
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Die Frau hat zum Beispiel eine chronische Magen-Darm-Erkrankung.",
+      "So muss die Frau zum Beispiel einen normalen Zyklus haben."
+    ],
+    0.6835426092147827
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Dann kann sie das Verhütungsmittel nicht verdauen.",
+      "Ärzte verschreiben das Verhütungsmittel meist nur ausnahmsweise."
+    ],
+    0.6955578923225403
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Denn das Verhütungsmittel bleibt nicht lange genug in ihrem Körper.",
+      "Ärzte verschreiben das Verhütungsmittel meist nur ausnahmsweise."
+    ],
+    0.8005779981613159
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Und: Die Frau möchte in nächster Zeit keine Kinder.",
+      "So muss die Frau zum Beispiel einen normalen Zyklus haben."
+    ],
+    0.7402201890945435
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Oder die Frau möchte nicht noch mehr Kinder.",
+      "So muss die Frau zum Beispiel einen normalen Zyklus haben."
+    ],
+    0.6435782313346863
+  ],
+  [
+    [
+      17,
+      15
+    ],
+    [
+      "Info Monatsblutung (auch: Regelblutung, Regel, Periode):",
+      "Das erste Mal geschieht dies während der ersten fünf Tage des Monatszyklus."
+    ],
+    0.4626957178115845
+  ],
+  [
+    [
+      20,
+      24
+    ],
+    [
+      "In die Gebärmutter-Schleimhaut kann sich die befruchtete Eizelle einnisten und so ein Baby entstehen.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.696515679359436
+  ],
+  [
+    [
+      22,
+      24
+    ],
+    [
+      "Dann wird die Gebärmutter-Schleimhaut in diesem Monat nicht gebraucht.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.5119509696960449
+  ],
+  [
+    [
+      23,
+      15
+    ],
+    [
+      "Sie löst sich dann auf und fließt als Monatsblutung aus dem Körper hinaus.",
+      "Das erste Mal geschieht dies während der ersten fünf Tage des Monatszyklus."
+    ],
+    0.48770278692245483
+  ],
+  [
+    [
+      25,
+      24
+    ],
+    [
+      "Es bildet sich eine neue Gebärmutter-Schleimhaut.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.4857175052165985
+  ],
+  [
+    [
+      28,
+      8
+    ],
+    [
+      "Die Geschlechtshormone sind Östrogen und Gestagen.",
+      "Die zur Zeit verfügbaren Präparate enthalten entweder das Gestagen Medroxyprogesteron oder das Gestagen Norethisteronacetat."
+    ],
+    0.4481011927127838
+  ],
+  [
+    [
+      29,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze enthält künstliche Gestagene.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8836172223091125
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "Die Gestagene verhindern den Eisprung.",
+      "Die zur Zeit verfügbaren Präparate enthalten entweder das Gestagen Medroxyprogesteron oder das Gestagen Norethisteronacetat."
+    ],
+    0.45135176181793213
+  ],
+  [
+    [
+      32,
+      24
+    ],
+    [
+      "Die Gebärmutterschleimhaut baut sich nicht auf.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.5703316926956177
+  ],
+  [
+    [
+      33,
+      21
+    ],
+    [
+      "Dann kann sich eine befruchtete Eizelle nicht mehr einnisten.",
+      "Das enthaltene Gestagen hemmt den Eisprung und unterdrückt den Aufbau der Gebärmutterschleimhaut, sodass eine gegebenenfalls befruchtete Eizelle sich nicht einnisten kann."
+    ],
+    0.37805241346359253
+  ],
+  [
+    [
+      34,
+      24
+    ],
+    [
+      "Die Gestagene machen den Schleim im Gebärmutterhals dickflüssiger.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.499828964471817
+  ],
+  [
+    [
+      35,
+      24
+    ],
+    [
+      "Deshalb können die Spermien nicht mehr so gut in die Gebärmutter eindringen.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.8915581107139587
+  ],
+  [
+    [
+      36,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze muss alle drei Monate gespritzt werden.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.893471896648407
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Das macht der Hausarzt oder der Frauenarzt.",
+      "Die in der Folgezeit vorgeschlagenen halbjährlichen Termine beim Arzt (Frauenarzt, Allgemeinarzt) sollte die Frau möglichst auch deshalb einhalten, damit dieser Nebenwirkungen frühzeitig erkennen und darauf reagieren kann."
+    ],
+    0.5725554823875427
+  ],
+  [
+    [
+      38,
+      4
+    ],
+    [
+      "Er spritzt die Dreimonatsspritze in einen Muskel am Gesäß.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.9235268235206604
+  ],
+  [
+    [
+      39,
+      5
+    ],
+    [
+      "Oder er spritzt sie in einen Muskel am Oberarm.",
+      "Sie wird in den Muskel gespritzt."
+    ],
+    0.9293943047523499
+  ],
+  [
+    [
+      40,
+      4
+    ],
+    [
+      "Sie möchten mit der Dreimonatsspritze verhüten?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8491244912147522
+  ],
+  [
+    [
+      41,
+      18
+    ],
+    [
+      "Dann müssen Sie zuerst mit Ihrem Frauenarzt sprechen.",
+      "Die in der Folgezeit vorgeschlagenen halbjährlichen Termine beim Arzt (Frauenarzt, Allgemeinarzt) sollte die Frau möglichst auch deshalb einhalten, damit dieser Nebenwirkungen frühzeitig erkennen und darauf reagieren kann."
+    ],
+    0.43491116166114807
+  ],
+  [
+    [
+      42,
+      18
+    ],
+    [
+      "Der Frauenarzt stellt Ihnen einige Fragen.",
+      "Die in der Folgezeit vorgeschlagenen halbjährlichen Termine beim Arzt (Frauenarzt, Allgemeinarzt) sollte die Frau möglichst auch deshalb einhalten, damit dieser Nebenwirkungen frühzeitig erkennen und darauf reagieren kann."
+    ],
+    0.5863299369812012
+  ],
+  [
+    [
+      44,
+      4
+    ],
+    [
+      "Erst dann entscheidet er: Können Sie die Dreimonatsspritze anwenden?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8606217503547668
+  ],
+  [
+    [
+      45,
+      4
+    ],
+    [
+      "Sie können die Dreimonatsspritze anwenden?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8626856207847595
+  ],
+  [
+    [
+      46,
+      4
+    ],
+    [
+      "Dann untersucht Ihr Arzt Sie vor der ersten Dreimonatsspritze noch einmal komplett.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8519777059555054
+  ],
+  [
+    [
+      47,
+      31
+    ],
+    [
+      "Die erste Spritze bekommen Sie in den ersten fünf Tagen Ihres Zyklus.",
+      "Liegt die letzte Spritze mehr als 13 Wochen zurück, ist der Empfängnisschutz nicht mehr sicher."
+    ],
+    0.845870852470398
+  ],
+  [
+    [
+      48,
+      4
+    ],
+    [
+      "Drei Monate nach der ersten Dreimonatsspritze prüft der Arzt:",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8163540363311768
+  ],
+  [
+    [
+      49,
+      4
+    ],
+    [
+      "Können Sie die Dreimonatsspritze weiter anwenden?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8616726398468018
+  ],
+  [
+    [
+      50,
+      4
+    ],
+    [
+      "Hinweis: Sie verhüten mit der Dreimonatsspritze?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8211348056793213
+  ],
+  [
+    [
+      51,
+      18
+    ],
+    [
+      "Dann müssen Sie zwei Mal im Jahr zum Frauenarzt und zum Hausarzt.",
+      "Die in der Folgezeit vorgeschlagenen halbjährlichen Termine beim Arzt (Frauenarzt, Allgemeinarzt) sollte die Frau möglichst auch deshalb einhalten, damit dieser Nebenwirkungen frühzeitig erkennen und darauf reagieren kann."
+    ],
+    0.4714244306087494
+  ],
+  [
+    [
+      53,
+      4
+    ],
+    [
+      "Gibt es Nebenwirkungen von der Dreimonatsspritze?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8256531357765198
+  ],
+  [
+    [
+      54,
+      4
+    ],
+    [
+      "Zu den Vorteilen der Dreimonatsspritze gehören: Die Dreimonatsspritze ist ein sehr sicheres Verhütungsmittel.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8629292249679565
+  ],
+  [
+    [
+      55,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze ist einfach anzuwenden:",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8701820969581604
+  ],
+  [
+    [
+      56,
+      26
+    ],
+    [
+      "Die Anwenderinnen bekommen alle drei Monate eine Spritze.",
+      "Die Anwenderinnen müssen \"nur\" alle drei Monate eine Spritze bekommen."
+    ],
+    0.8755484223365784
+  ],
+  [
+    [
+      57,
+      4
+    ],
+    [
+      "Sie können die Dreimonatsspritze also nicht so leicht vergessen.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.859592616558075
+  ],
+  [
+    [
+      58,
+      15
+    ],
+    [
+      "Die Schmerzen während der Monatsblutung werden manchmal geringer.",
+      "Das erste Mal geschieht dies während der ersten fünf Tage des Monatszyklus."
+    ],
+    0.5397792458534241
+  ],
+  [
+    [
+      59,
+      4
+    ],
+    [
+      "Zu den Nachteilen der Dreimonatsspritze gehören: Die Dreimonatsspritze muss alle drei Monate neu gespritzt werden.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8937263488769531
+  ],
+  [
+    [
+      60,
+      31
+    ],
+    [
+      "Sie bekommen die Spritze zu spät?",
+      "Liegt die letzte Spritze mehr als 13 Wochen zurück, ist der Empfängnisschutz nicht mehr sicher."
+    ],
+    0.8841224908828735
+  ],
+  [
+    [
+      63,
+      55
+    ],
+    [
+      "Hinweis: Es gibt etwa eine Woche Spielraum.",
+      "Eine Thrombose ist ein Gefäßverschluss durch ein Blutgerinnsel, zum Beispiel in einer Beinvene."
+    ],
+    0.5047830939292908
+  ],
+  [
+    [
+      64,
+      5
+    ],
+    [
+      "Das bedeutet: Die neue Spritze muss spätestens nach 13 Wochen wieder gespritzt werden.",
+      "Sie wird in den Muskel gespritzt."
+    ],
+    0.9140360951423645
+  ],
+  [
+    [
+      65,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze beeinflusst den Zyklus stark.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8653796911239624
+  ],
+  [
+    [
+      70,
+      24
+    ],
+    [
+      "In dieser Zeit können Sie nicht schwanger werden.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.3971477746963501
+  ],
+  [
+    [
+      71,
+      35
+    ],
+    [
+      "Manche Medikamente können die Wirkung des Gestagens beeinträchtigen.",
+      "Einige Medikamente , zum Beispiel bestimmte Antibiotika, können die Wirkung des Gestagens beeinträchtigen."
+    ],
+    0.8667319416999817
+  ],
+  [
+    [
+      72,
+      35
+    ],
+    [
+      "Zu diesen Medikamenten gehören zum Beispiel manche Antibiotika.",
+      "Einige Medikamente , zum Beispiel bestimmte Antibiotika, können die Wirkung des Gestagens beeinträchtigen."
+    ],
+    0.3684847354888916
+  ],
+  [
+    [
+      73,
+      36
+    ],
+    [
+      "Auch Wechselwirkungen sind möglich.",
+      "Daneben sind weitere Wechselwirkungen bekannt."
+    ],
+    0.8017448782920837
+  ],
+  [
+    [
+      74,
+      36
+    ],
+    [
+      "Sie haben Fragen zu den Wechselwirkungen?",
+      "Daneben sind weitere Wechselwirkungen bekannt."
+    ],
+    0.489550918340683
+  ],
+  [
+    [
+      76,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze verändert den Hormonhaushalt im Körper.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8655644655227661
+  ],
+  [
+    [
+      77,
+      36
+    ],
+    [
+      "Deshalb können Nebenwirkungen entstehen.",
+      "Daneben sind weitere Wechselwirkungen bekannt."
+    ],
+    0.5445778965950012
+  ],
+  [
+    [
+      78,
+      4
+    ],
+    [
+      "Zu den Nebenwirkungen der Dreimonatsspritze gehören zum Beispiel: Die Monatsblutung verändert sich:",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8011193871498108
+  ],
+  [
+    [
+      80,
+      41
+    ],
+    [
+      "Vielleicht gibt es Schmierblutungen oder Zwischenblutungen.",
+      "Es sind Schmier- und Zwischenblutungen möglich, auch kann die Regel ganz ausbleiben."
+    ],
+    0.3748723864555359
+  ],
+  [
+    [
+      81,
+      41
+    ],
+    [
+      "Manchmal bleibt die Blutung auch ganz aus.",
+      "Es sind Schmier- und Zwischenblutungen möglich, auch kann die Regel ganz ausbleiben."
+    ],
+    0.48510852456092834
+  ],
+  [
+    [
+      82,
+      45
+    ],
+    [
+      "Die Brüste schmerzen oder spannen vielleicht.",
+      "Zu den möglichen Nebenwirkungen gehören außerdem Kopfschmerzen, Bauchschmerzen, Rückenschmerzen, Akne , Einlagerung von Flüssigkeit, Gewichtszunahme, Störungen der Leberfunktionen, Gelbsucht , Pigmentflecken der Haut (mehr dazu im Beitrag \" Die Pille \")."
+    ],
+    0.39708811044692993
+  ],
+  [
+    [
+      83,
+      16
+    ],
+    [
+      "Manchmal verändert sich auch die sexuelle Lust.",
+      "Findet die Injektion zu einem anderen Zeitpunkt statt, muss der Arzt sich zuvor vergewissern, dass die Betroffene nicht schwanger ist."
+    ],
+    0.5066551566123962
+  ],
+  [
+    [
+      84,
+      11
+    ],
+    [
+      "Das bedeutet: Die Frau hat vielleicht nicht mehr so große Lust auf Sex.",
+      "So muss die Frau zum Beispiel einen normalen Zyklus haben."
+    ],
+    0.5556733012199402
+  ],
+  [
+    [
+      86,
+      4
+    ],
+    [
+      "Manche Frauen leiden wegen der Dreimonatsspritze unter Stimmungsschwankungen.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8466694951057434
+  ],
+  [
+    [
+      91,
+      4
+    ],
+    [
+      "Andere mögliche Nebenwirkungen der Dreimonatsspritze sind: Das Risiko für eine Osteoporose steigt.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8530751466751099
+  ],
+  [
+    [
+      92,
+      19
+    ],
+    [
+      "Bei einer Osteoporose brechen die Knochen leicht.",
+      "Insbesondere wird er wegen des möglichen Risikos einer Osteoporose die Knochendichte regelmäßig kontrollieren (siehe unten)."
+    ],
+    0.6762055158615112
+  ],
+  [
+    [
+      93,
+      54
+    ],
+    [
+      "Entzündungen oder Blutungen an der Einstichstelle",
+      "Zu den wichtigsten Gegenanzeigen der Dreimonatsspritze gehören ungeklärte Blutungen aus der Scheide, bestehende Venenentzündungen oder durchgemachte Venenthrombosen."
+    ],
+    0.4636281132698059
+  ],
+  [
+    [
+      94,
+      45
+    ],
+    [
+      "Kopfschmerzen Bauchschmerzen",
+      "Zu den möglichen Nebenwirkungen gehören außerdem Kopfschmerzen, Bauchschmerzen, Rückenschmerzen, Akne , Einlagerung von Flüssigkeit, Gewichtszunahme, Störungen der Leberfunktionen, Gelbsucht , Pigmentflecken der Haut (mehr dazu im Beitrag \" Die Pille \")."
+    ],
+    0.43765881657600403
+  ],
+  [
+    [
+      95,
+      45
+    ],
+    [
+      "Rückenschmerzen",
+      "Zu den möglichen Nebenwirkungen gehören außerdem Kopfschmerzen, Bauchschmerzen, Rückenschmerzen, Akne , Einlagerung von Flüssigkeit, Gewichtszunahme, Störungen der Leberfunktionen, Gelbsucht , Pigmentflecken der Haut (mehr dazu im Beitrag \" Die Pille \")."
+    ],
+    0.41937631368637085
+  ],
+  [
+    [
+      97,
+      45
+    ],
+    [
+      "Störungen der Leberfunktionen",
+      "Zu den möglichen Nebenwirkungen gehören außerdem Kopfschmerzen, Bauchschmerzen, Rückenschmerzen, Akne , Einlagerung von Flüssigkeit, Gewichtszunahme, Störungen der Leberfunktionen, Gelbsucht , Pigmentflecken der Haut (mehr dazu im Beitrag \" Die Pille \")."
+    ],
+    0.6252265572547913
+  ],
+  [
+    [
+      99,
+      4
+    ],
+    [
+      "Manche Frauen dürfen die Dreimonatsspritze nicht anwenden.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8554957509040833
+  ],
+  [
+    [
+      100,
+      4
+    ],
+    [
+      "In diesen Fällen dürfen Sie die Dreimonatsspritze nicht anwenden:",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8547846078872681
+  ],
+  [
+    [
+      105,
+      24
+    ],
+    [
+      "Sie haben Gebärmutterhalskrebs.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.5119239687919617
+  ],
+  [
+    [
+      109,
+      19
+    ],
+    [
+      "Bei einer Osteoporose brechen die Knochen leicht.",
+      "Insbesondere wird er wegen des möglichen Risikos einer Osteoporose die Knochendichte regelmäßig kontrollieren (siehe unten)."
+    ],
+    0.6762055158615112
+  ],
+  [
+    [
+      110,
+      4
+    ],
+    [
+      "Sie sind allergisch gegen einen Bestandteil der Dreimonatsspritze.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8337454795837402
+  ],
+  [
+    [
+      114,
+      55
+    ],
+    [
+      "Eine arterielle Gefäßkrankheit ist zum Beispiel ein Herzinfarkt oder ein Schlaganfall.",
+      "Eine Thrombose ist ein Gefäßverschluss durch ein Blutgerinnsel, zum Beispiel in einer Beinvene."
+    ],
+    0.5491419434547424
+  ],
+  [
+    [
+      118,
+      3
+    ],
+    [
+      "Vielleicht ist ein anderes Verhütungsmittel passender für Sie.",
+      "Ärzte verschreiben das Verhütungsmittel meist nur ausnahmsweise."
+    ],
+    0.7421466708183289
+  ],
+  [
+    [
+      119,
+      4
+    ],
+    [
+      "Hinweis: Die Dreimonatsspritze schützt nicht vor Geschlechtskrankheiten.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8636137247085571
+  ],
+  [
+    [
+      121,
+      4
+    ],
+    [
+      "Sie wollen noch mehr über die Dreimonatsspritze lesen?",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8654489517211914
+  ],
+  [
+    [
+      122,
+      4
+    ],
+    [
+      "Mehr Informationen über die Dreimonatsspritze finden Sie hier .",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8630903363227844
+  ],
+  [
+    [
+      123,
+      30
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wird der richtige Zeitpunkt für die Folgeinjektion verpasst, gibt es noch ein paar Tage Spielraum, nämlich die 13. Woche."
+    ],
+    0.4031525254249573
+  ],
+  [
+    [
+      124,
+      24
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.39564409852027893
+  ]
+]

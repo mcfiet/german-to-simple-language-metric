@@ -1,0 +1,563 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Wenn Sie einen Schwer-Behinderten-Ausweis haben:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.3042454123497009
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann können Sie kostenlos mit Bus und Bahn fahren.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.4482700228691101
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dafür brauchen Sie ein Beiblatt mit Wert-Marke .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.9055286049842834
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Ein Beiblatt ist ein zusätzliches Papier.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8625234961509705
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Mit welchen Bussen und Bahnen darf ich kostenlos fahren?",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.5961536169052124
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Diese Busse und Bahnen dürfen Sie mit dem Beiblatt kostenlos nutzen:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.7891476154327393
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Busse Straßen-Bahnen U-Bahnen S-Bahnen",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.8171185255050659
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Wichtig: Sie können in anderen Zügen nur kostenlos fahren:",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.34650659561157227
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Wenn dort der Fahr-Schein vom Verkehrs-Verbund gilt.",
+      "In anderen Zügen gilt dies nur, wenn diese Züge mit einem Fahrschein des Verkehrsverbundes benutzt werden dürfen."
+    ],
+    0.3082209825515747
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Wie viel kostet das Beiblatt mit Wert-Marke?",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8637802004814148
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Sie bekommen das Beiblatt manchmal kostenlos .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.817655622959137
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Manchmal müssen Sie dafür aber auch etwas bezahlen .",
+      "Für das Beiblatt müssen Sie jährlich 91 Euro bezahlen als: Gehbehinderter mit dem Merkzeichen \"G\" außergewöhnlich Gehbehinderter mit dem Merkzeichen \"aG\" oder Gehörloser mit dem Merkzeichen \"GL\" Wenn Sie Arbeitslosengeld II beziehen, dann erhalten Sie das Beiblatt kostenlos."
+    ],
+    0.11329670995473862
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Das Beiblatt ist kostenlos:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8057923913002014
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Wenn Sie einen Schwer-behinderten-Ausweis haben:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.2658024728298187
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Mit dem Merk-Zeichen H .",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.8680519461631775
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "H bedeutet: Sie sind eine hilflose Person .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.10562743991613388
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Mit dem Merk-Zeichen BL .",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.8672072291374207
+  ],
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Sie sind blind .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.06267744302749634
+  ],
+  [
+    [
+      19,
+      0
+    ],
+    [
+      "Sie bekommen das Beiblatt auch kostenlos:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8060907125473022
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Wenn Sie arbeits-los sind.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.1450456827878952
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Und Sie Arbeitslosen-Geld 2 bekommen.",
+      "Für das Beiblatt müssen Sie jährlich 91 Euro bezahlen als: Gehbehinderter mit dem Merkzeichen \"G\" außergewöhnlich Gehbehinderter mit dem Merkzeichen \"aG\" oder Gehörloser mit dem Merkzeichen \"GL\" Wenn Sie Arbeitslosengeld II beziehen, dann erhalten Sie das Beiblatt kostenlos."
+    ],
+    0.10318484902381897
+  ],
+  [
+    [
+      22,
+      0
+    ],
+    [
+      "Ansonsten müssen Sie das Beiblatt bezahlen .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8415077328681946
+  ],
+  [
+    [
+      23,
+      0
+    ],
+    [
+      "Das Beiblatt kostet 80 Euro:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8281254172325134
+  ],
+  [
+    [
+      24,
+      3
+    ],
+    [
+      "Wenn in Ihrem Ausweis das Merk-Zeichen steht: G:",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.6469741463661194
+  ],
+  [
+    [
+      25,
+      0
+    ],
+    [
+      "Dann Sie sind geh-behindert .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.1473872810602188
+  ],
+  [
+    [
+      26,
+      0
+    ],
+    [
+      "aG: Dann Sie sind besonders geh-behindert .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.14747114479541779
+  ],
+  [
+    [
+      27,
+      0
+    ],
+    [
+      "GL: Sie sind gehör-los .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.07053948193788528
+  ],
+  [
+    [
+      28,
+      0
+    ],
+    [
+      "Dann müssen Sie 80 Euro für das Beiblatt bezahlen.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8364271521568298
+  ],
+  [
+    [
+      29,
+      3
+    ],
+    [
+      "Wichtig: Wenn in Ihrem Ausweis das Merk-Zeichen steht: G:",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.6367908716201782
+  ],
+  [
+    [
+      30,
+      0
+    ],
+    [
+      "Dann Sie sind geh-behindert .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.1473872810602188
+  ],
+  [
+    [
+      31,
+      0
+    ],
+    [
+      "GL: Sie sind gehör-los .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.07053948193788528
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Dann können Sie entscheiden:",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.18560253083705902
+  ],
+  [
+    [
+      33,
+      0
+    ],
+    [
+      "Entweder Sie bezahlen das Beiblatt für Bus und Bahn .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8104168772697449
+  ],
+  [
+    [
+      34,
+      1
+    ],
+    [
+      "Dann können Sie kostenlos Bus und Bahn fahren.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.45104745030403137
+  ],
+  [
+    [
+      35,
+      4
+    ],
+    [
+      "Oder Sie müssen weniger Steuer für Ihr Auto bezahlen.",
+      "Für das Beiblatt müssen Sie jährlich 91 Euro bezahlen als: Gehbehinderter mit dem Merkzeichen \"G\" außergewöhnlich Gehbehinderter mit dem Merkzeichen \"aG\" oder Gehörloser mit dem Merkzeichen \"GL\" Wenn Sie Arbeitslosengeld II beziehen, dann erhalten Sie das Beiblatt kostenlos."
+    ],
+    0.07850265502929688
+  ],
+  [
+    [
+      36,
+      0
+    ],
+    [
+      "Wie bekomme ich das Beiblatt mit Wert-Marke?",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8782168626785278
+  ],
+  [
+    [
+      37,
+      0
+    ],
+    [
+      "Wir schicken Ihnen den Antrag für das Beiblatt.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8197043538093567
+  ],
+  [
+    [
+      38,
+      0
+    ],
+    [
+      "Sie müssen den Antrag ausfüllen.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.07099857181310654
+  ],
+  [
+    [
+      39,
+      9
+    ],
+    [
+      "Und uns den fertigen Antrag schicken .",
+      "Es fallen keine Gebühren an."
+    ],
+    0.04538271203637123
+  ],
+  [
+    [
+      40,
+      9
+    ],
+    [
+      "Wir prüfen Ihren Antrag.",
+      "Es fallen keine Gebühren an."
+    ],
+    0.11106433719396591
+  ],
+  [
+    [
+      41,
+      0
+    ],
+    [
+      "Dann schicken wir Ihnen das Beiblatt .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8232605457305908
+  ],
+  [
+    [
+      42,
+      1
+    ],
+    [
+      "Wir helfen Ihnen gerne.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.18181560933589935
+  ],
+  [
+    [
+      43,
+      0
+    ],
+    [
+      "Wenn Sie Fragen haben.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.12804681062698364
+  ],
+  [
+    [
+      44,
+      9
+    ],
+    [
+      "Muss ich für den Antrag Geld bezahlen?",
+      "Es fallen keine Gebühren an."
+    ],
+    0.033146630972623825
+  ],
+  [
+    [
+      46,
+      0
+    ],
+    [
+      "Sie müssen nichts für den Antrag bezahlen.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.0546637624502182
+  ],
+  [
+    [
+      47,
+      0
+    ],
+    [
+      "Wo stehen die Gesetze zum Beiblatt mit Wert-Marke?",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8848667740821838
+  ],
+  [
+    [
+      48,
+      0
+    ],
+    [
+      "Die Gesetze zum Schwer-Behinderten-Ausweis und dem Beiblatt mit Wert-Marke stehen in den Paragrafen 228 bis 237 im Sozial-Gesetz-Buch 9 .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.896026074886322
+  ],
+  [
+    [
+      49,
+      10
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Rechtliche Voraussetzungen §§ 145 - 147, Sozialgesetzbuch IX"
+    ],
+    0.04988411068916321
+  ],
+  [
+    [
+      50,
+      3
+    ],
+    [
+      "Das Zeichen für Paragraf ist: §",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.07401441037654877
+  ],
+  [
+    [
+      51,
+      6
+    ],
+    [
+      "Weitere Informationen *",
+      "Weiterführende Links Vorsprache"
+    ],
+    0.036730531603097916
+  ],
+  [
+    [
+      52,
+      0
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V ., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.12569424510002136
+  ]
+]

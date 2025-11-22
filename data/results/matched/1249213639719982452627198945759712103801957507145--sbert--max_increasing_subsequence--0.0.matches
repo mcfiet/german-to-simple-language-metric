@@ -1,0 +1,838 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In Deutschland ist ein normaler Insektenstich meist nicht gefährlich.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.7991929650306702
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Deshalb können Sie den Insektenstich meist selbst versorgen.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.6981220245361328
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Einen Insektenstich versorgen Sie so:",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.6885645985603333
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Der Stachel der Biene steckt noch in der Haut?",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.8214806914329529
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Dann entfernen Sie den Stachel vorsichtig.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.5982208847999573
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Am besten schieben Sie den Stachel seitlich heraus.",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.42313098907470703
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Benutzen Sie dafür eine stumpfe Kante, zum Beispiel einer Kreditkarte.",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.9135154485702515
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Streichen Sie mit der Karte über den Stich.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.7375362515449524
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Hinweis: Sie möchten den Stachel mit einer Pinzette herausziehen?",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.8956586122512817
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Dann müssen Sie sehr vorsichtig sein.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.6600952744483948
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "Berühren Sie nicht die Giftblase.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.7342363595962524
+  ],
+  [
+    [
+      11,
+      8
+    ],
+    [
+      "Die Giftblase ist oben am Stachel.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.4504302740097046
+  ],
+  [
+    [
+      12,
+      8
+    ],
+    [
+      "In der Giftblaseist das Insektengift.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.45582616329193115
+  ],
+  [
+    [
+      13,
+      8
+    ],
+    [
+      "Sie berühren die Giftblase?",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.48654621839523315
+  ],
+  [
+    [
+      14,
+      8
+    ],
+    [
+      "Dann kann mehrInsektengift in die Wunde kommen.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.6056674718856812
+  ],
+  [
+    [
+      15,
+      8
+    ],
+    [
+      "Kühlen Sie den Insektenstich.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.4375675618648529
+  ],
+  [
+    [
+      16,
+      8
+    ],
+    [
+      "Wickeln Sie ein Kältepack oder Eiswürfel in ein Tuch.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.35878244042396545
+  ],
+  [
+    [
+      17,
+      8
+    ],
+    [
+      "Legen Sie das Tuch auf den Stich.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.43607959151268005
+  ],
+  [
+    [
+      18,
+      8
+    ],
+    [
+      "Achtung: Legen Sie Kältepacks oder Eiswürfel nicht direkt auf die Haut.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.7503876090049744
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Die Kälte kann der Haut schaden.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.5408799052238464
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Cremen Sie den Stich mit einem speziellen Gel oder einer speziellen Salbe ein.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.6466145515441895
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Die Gele und Salben lindern den Juckreiz.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.8618340492248535
+  ],
+  [
+    [
+      22,
+      9
+    ],
+    [
+      "Sie bekommen ein passendes Mittel gegen Insektenstiche in der Apotheke.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.6729013919830322
+  ],
+  [
+    [
+      23,
+      9
+    ],
+    [
+      "Auch Hitze kann bei einem Insektenstich helfen.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.4773712158203125
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Sie können zum Beispiel einen Hitze-Stift kaufen.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.5309641361236572
+  ],
+  [
+    [
+      25,
+      9
+    ],
+    [
+      "Die Hitze hilft gegen den Juckreiz.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.7400404214859009
+  ],
+  [
+    [
+      26,
+      12
+    ],
+    [
+      "Einige Insektenstiche können gefährlich sein.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6293496489524841
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "In den folgenden Situationen müssen Sie den Rettungsdienst rufen:",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6138079762458801
+  ],
+  [
+    [
+      28,
+      12
+    ],
+    [
+      "Der Stich ist im Mund oder im Rachen der betroffenen Person.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.45689019560813904
+  ],
+  [
+    [
+      29,
+      12
+    ],
+    [
+      "Die betroffene Person hat sehr viele Insektenstiche gleichzeitig bekommen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6576167345046997
+  ],
+  [
+    [
+      30,
+      13
+    ],
+    [
+      "Die betroffene Person reagiert allergisch auf den Insektenstich.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.7675105929374695
+  ],
+  [
+    [
+      31,
+      13
+    ],
+    [
+      "Achtung: Insektenstiche im Mund und Rachen können lebensgefährlich sein.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.5178422927856445
+  ],
+  [
+    [
+      32,
+      13
+    ],
+    [
+      "Insektenstiche in diesen Bereichen können stark anschwellen.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.4050277769565582
+  ],
+  [
+    [
+      33,
+      13
+    ],
+    [
+      "Dann können Betroffene manchmal nicht mehr atmen.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.5906798243522644
+  ],
+  [
+    [
+      34,
+      14
+    ],
+    [
+      "Eine Person hat einen Insektenstich im Mund oder Rachen?",
+      "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen."
+    ],
+    0.6255784034729004
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.284778892993927
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.034775517880916595
+  ],
+  [
+    [
+      37,
+      15
+    ],
+    [
+      "So können Sie Erste Hilfe leisten:",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.38503122329711914
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Geben Sie der betroffenen Person einen Eiswürfel zum Lutschen.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.20628312230110168
+  ],
+  [
+    [
+      39,
+      15
+    ],
+    [
+      "Wickeln Sie der betroffenen Person kühle Umschläge um den Hals.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.3866199851036072
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Eine Person wurde sehr häufig von einer Wespe, einer Biene oder einer Hornisse gestochen?",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.6199583411216736
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.284778892993927
+  ],
+  [
+    [
+      42,
+      15
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.034775517880916595
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Die Person kann auf die große Menge Insektengift allergisch reagieren.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8292891979217529
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8009734153747559
+  ],
+  [
+    [
+      45,
+      15
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.2561994194984436
+  ],
+  [
+    [
+      46,
+      15
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.26450973749160767
+  ],
+  [
+    [
+      47,
+      15
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.03477553278207779
+  ],
+  [
+    [
+      48,
+      15
+    ],
+    [
+      "Anzeichen für eine allergische Reaktion sind zum Beispiel:",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.6649595499038696
+  ],
+  [
+    [
+      49,
+      15
+    ],
+    [
+      "Atemnot Schwindel",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.28806188702583313
+  ],
+  [
+    [
+      50,
+      15
+    ],
+    [
+      "Herzklopfen starke Schwellungen Quaddeln auf der Haut.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.28484001755714417
+  ],
+  [
+    [
+      51,
+      15
+    ],
+    [
+      "Quaddeln sind rote geschwollene Flecken auf der Haut.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.25298944115638733
+  ],
+  [
+    [
+      52,
+      15
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8009734153747559
+  ],
+  [
+    [
+      53,
+      16
+    ],
+    [
+      "Und die Person weiß von der Allergie.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.7303560972213745
+  ],
+  [
+    [
+      54,
+      16
+    ],
+    [
+      "Dann hat die Person vielleicht ein Notfall-Set für Allergiker bei sich.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.7535859942436218
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Nutzen Sie das Notfall-Set.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.6992170810699463
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Das Notfall-Set besteht aus:",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.6732381582260132
+  ],
+  [
+    [
+      57,
+      18
+    ],
+    [
+      "Einem Medikament mit Kortison .",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.8007348775863647
+  ],
+  [
+    [
+      58,
+      18
+    ],
+    [
+      "Kortison hilft gegen Entzündungen.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.5551786422729492
+  ],
+  [
+    [
+      59,
+      18
+    ],
+    [
+      "Einem Antihistaminikum .",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.6527396440505981
+  ],
+  [
+    [
+      60,
+      18
+    ],
+    [
+      "Antihistamin hilft gegen allergische Reaktionen.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.5232154130935669
+  ],
+  [
+    [
+      61,
+      18
+    ],
+    [
+      "Einer Adrenalin-Fertigspritze .",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.7604209184646606
+  ],
+  [
+    [
+      62,
+      18
+    ],
+    [
+      "Die Adrenalin-Fertigspritze stabilisiert den Kreislauf.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.6620248556137085
+  ],
+  [
+    [
+      63,
+      18
+    ],
+    [
+      "So versorgen Sie Allergiker mit dem Notfall-Set: Entfernen Sie zuerst den Stachel aus der Haut.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.35841041803359985
+  ],
+  [
+    [
+      64,
+      18
+    ],
+    [
+      "Geben Sie der betroffenen Person das Medikament mit Kortison und das Antihistaminikum.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.7240382432937622
+  ],
+  [
+    [
+      65,
+      18
+    ],
+    [
+      "Entsichern Sie die Adrenalin-Fertigspritze.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.7241967916488647
+  ],
+  [
+    [
+      66,
+      19
+    ],
+    [
+      "Setzen Sie die Spritze seitlich auf den Oberschenkel.",
+      "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst."
+    ],
+    0.7919335961341858
+  ],
+  [
+    [
+      67,
+      19
+    ],
+    [
+      "Lösen Sie die Spritze aus.",
+      "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst."
+    ],
+    0.6770045161247253
+  ],
+  [
+    [
+      68,
+      22
+    ],
+    [
+      "Achtung: Der Betroffene atmet nicht mehr?",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.5527108311653137
+  ],
+  [
+    [
+      69,
+      22
+    ],
+    [
+      "Dann beginnen Sie mit der Wiederbelebung .",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.3969287872314453
+  ],
+  [
+    [
+      70,
+      22
+    ],
+    [
+      "Das Video zeigt Ihnen:",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.2768360376358032
+  ],
+  [
+    [
+      71,
+      22
+    ],
+    [
+      "Das können Sie bei einem Insektenstich tun.",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.4333493411540985
+  ],
+  [
+    [
+      72,
+      22
+    ],
+    [
+      "Sie wollen noch mehr über Insektenstiche lesen?",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.40630030632019043
+  ],
+  [
+    [
+      73,
+      22
+    ],
+    [
+      "Mehr Informationen über Insektenstich finden Sie hier .",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.4159265160560608
+  ],
+  [
+    [
+      74,
+      22
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.2540973722934723
+  ],
+  [
+    [
+      75,
+      22
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Es droht die Entwicklung eines anaphylaktischen Schocks."
+    ],
+    0.23450350761413574
+  ]
+]

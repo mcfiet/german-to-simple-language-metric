@@ -1,0 +1,288 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie ziehen nach Köln um?",
+      "Sie ziehen um nach Köln?"
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann müssen Sie Ihre neue Adresse bei uns anmelden.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.7755957841873169
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sondern dann müssen Sie diese Papiere abgeben:",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.536933183670044
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Sie müssen uns 1",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.5156639814376831
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Sie müssen uns 1",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.5156639814376831
+  ],
+  [
+    [
+      35,
+      1
+    ],
+    [
+      "Wenn Sie beim Ausfüllen Hilfe brauchen, fragen Sie uns danach.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.6011769771575928
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Sie müssen zu uns ins Kunden-Zentrum kommen.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.5009236335754395
+  ],
+  [
+    [
+      42,
+      4
+    ],
+    [
+      "Mit diesem Pass müssen Sie uns eine Aufenthalts-Genehmigung oder ein Visum zeigen.",
+      "Benötigt werden Personalausweis Reisepass falls vorhanden oder wenn Sie keinen Personalausweis besitzen."
+    ],
+    0.5271003842353821
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Als verheirateter Mensch oder als Mensch, der in einer Lebens-Partnerschaft lebt, brauchen Sie dann zusätzlich:",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.5439041256904602
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Ehe-Urkunde / Kopie aus dem Ehe-Register oder Lebens-Partnerschafts-Urkunde",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.5772839784622192
+  ],
+  [
+    [
+      48,
+      24
+    ],
+    [
+      "Wichtig: Wenn Sie Urkunden aus dem Ausland vorzeigen müssen, beachten Sie bitte: Ausländische Urkunden in anderen Sprachen müssen ins Deutsche übersetzt werden.",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.614874541759491
+  ],
+  [
+    [
+      51,
+      26
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5989543795585632
+  ],
+  [
+    [
+      52,
+      26
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5983803868293762
+  ],
+  [
+    [
+      58,
+      26
+    ],
+    [
+      "Er prüft die Übersetzer und Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.501249372959137
+  ],
+  [
+    [
+      60,
+      27
+    ],
+    [
+      "Das schwere Wort dafür ist: \"öffentlich bestellt oder beeidigt\".",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.5469938516616821
+  ],
+  [
+    [
+      63,
+      28
+    ],
+    [
+      "Wichtig: Urkunden und Übersetzungen müssen im Original vorgelegt werden.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.936261773109436
+  ],
+  [
+    [
+      67,
+      38
+    ],
+    [
+      "Was ist, wenn ich zum Anmelden nicht selber kommen kann?",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.4920539855957031
+  ],
+  [
+    [
+      68,
+      39
+    ],
+    [
+      "Wenn Sie innerhalb von Deutschland umziehen, dann kann jemand anderes für Sie zu uns kommen.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.5324786901473999
+  ],
+  [
+    [
+      70,
+      39
+    ],
+    [
+      "Sie müssen diesem Menschen schriftlich erlauben, für Sie zum Anmelden von Ihrem Wohnsitz zu uns zu kommen.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.5506046414375305
+  ],
+  [
+    [
+      88,
+      39
+    ],
+    [
+      "Dann können Sie gleichzeitig mit dem Anmelden von Ihrem Wohnsitz Ihr Auto auf die neue Adresse umschreiben lassen.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.5516412854194641
+  ],
+  [
+    [
+      92,
+      43
+    ],
+    [
+      "Das ist die Stelle, welche die Zulassung von Autos und Motor-Rädern regelt.",
+      "Dort wird auch die Änderung der Anschrift im Personalausweis vorgenommen."
+    ],
+    0.49239832162857056
+  ],
+  [
+    [
+      100,
+      55
+    ],
+    [
+      "Sie können dem Weitergeben von Ihren Daten an andere Stellen widersprechen.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.5833433866500854
+  ],
+  [
+    [
+      101,
+      55
+    ],
+    [
+      "Dann geben wir niemals Ihre Daten an diese Stellen weiter.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.49504154920578003
+  ],
+  [
+    [
+      103,
+      56
+    ],
+    [
+      "Sie können aber auch später noch dem Weitergeben von Ihren Daten widersprechen.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5727318525314331
+  ],
+  [
+    [
+      105,
+      56
+    ],
+    [
+      "Zum Beispiel: Sie kommen nur dann ins Telefon-Buch, wenn Sie dem zugestimmt haben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5159865617752075
+  ],
+  [
+    [
+      106,
+      56
+    ],
+    [
+      "Wenn nicht, darf man Sie nicht ins Telefon-Buch schreiben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.516268253326416
+  ]
+]

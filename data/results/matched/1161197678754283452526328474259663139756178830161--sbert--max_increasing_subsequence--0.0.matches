@@ -1,0 +1,497 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie oder Ihr Kind wollen einen Schul-Abschluss nachholen ?",
+      "Sie möchten Ihren Schulabschluss nachholen?"
+    ],
+    0.8936929702758789
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und Sie wissen nicht wie?",
+      "Sie möchten Ihren Schulabschluss nachholen?"
+    ],
+    0.3361460864543915
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Die Bildungs-Beratung von der Stadt Köln hilft Ihnen gerne bei Ihren Fragen.",
+      "Sie möchten Ihren Schulabschluss nachholen?"
+    ],
+    0.40357571840286255
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Wir überlegen mit Ihnen: Wie Sie Ihren Abschluss nachholen können.",
+      "Sie möchten Ihren Schulabschluss nachholen?"
+    ],
+    0.8049883842468262
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Wo Sie Ihren Abschluss nachholen können.",
+      "Sie möchten Ihren Schulabschluss nachholen?"
+    ],
+    0.8261830806732178
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Wir beraten: Jugendliche Eltern Lehrer und Lehrerinnen",
+      "Wir beraten Jugendliche, Eltern sowie Pädagog*innen und vermitteln Ihnen gerne entsprechende Angebote."
+    ],
+    0.8749018907546997
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Welche Schul-Abschlüsse kann ich nachholen?",
+      "Welche Schulabschlüsse können nachgeholt werden?"
+    ],
+    0.9507508873939514
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Die Abschlüsse können Sie nachholen:",
+      "Welche Schulabschlüsse können nachgeholt werden?"
+    ],
+    0.825986921787262
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Haupt-Schul-Abschluss nach Klasse 9 Haupt-Schul-Abschluss nach Klasse 10 Mittlerer Schul-Abschluss",
+      "Welche Schulabschlüsse können nachgeholt werden?"
+    ],
+    0.7927641868591309
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Das andere Wort dafür ist: Fach-Ober-Schul-Reife Fach-Abitur",
+      "Welche Schulabschlüsse können nachgeholt werden?"
+    ],
+    0.7892646193504333
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Das andere Wort dafür ist: Fach-Hoch-Schul-Reife.",
+      "Welche Schulabschlüsse können nachgeholt werden?"
+    ],
+    0.6682102084159851
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Damit dürfen Sie zum Beispiel an eine Fach-Hoch-Schule .",
+      "Welche Schulabschlüsse können nachgeholt werden?"
+    ],
+    0.7698264718055725
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Die Abkürzung dafür ist: FH .",
+      "Fachoberschulreife"
+    ],
+    0.26618313789367676
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Oder an eine Technische Hoch-Schule .",
+      "Fachoberschulreife"
+    ],
+    0.6947747468948364
+  ],
+  [
+    [
+      14,
+      5
+    ],
+    [
+      "Die Abkürzung dafür ist: TH .",
+      "Fachoberschulreife"
+    ],
+    0.3011321425437927
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Abitur",
+      "Fachoberschulreife"
+    ],
+    0.4975244402885437
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Das schwere Wort dafür ist: Allgemeine Hoch-Schul-Reife .",
+      "Fachhochschulreife"
+    ],
+    0.7829304933547974
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Damit dürfen Sie an eine Universität .",
+      "Fachhochschulreife"
+    ],
+    0.7787721753120422
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Achtung: Ihr Abitur können Sie nur nachholen:",
+      "Fachhochschulreife"
+    ],
+    0.7399289608001709
+  ],
+  [
+    [
+      19,
+      7
+    ],
+    [
+      "Wenn Sie eine Ausbildung gemacht oder 2 Jahre gearbeitet haben.",
+      "Allgemeine Hochschulreife nach beendeter Ausbildung oder mehrjähriger Berufstätigkeit"
+    ],
+    0.7217878103256226
+  ],
+  [
+    [
+      20,
+      8
+    ],
+    [
+      "Mehr Informationen zu weiter-führenden Schulen finden Sie hier:",
+      "Wo können Sie sich beraten lassen?"
+    ],
+    0.4535648822784424
+  ],
+  [
+    [
+      21,
+      8
+    ],
+    [
+      "Wo bekomme ich Hilfe?",
+      "Wo können Sie sich beraten lassen?"
+    ],
+    0.7503172755241394
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "Bei Fragen hilft Ihnen die Bildungs-Beratung von der Stadt Köln.",
+      "Wo können Sie sich beraten lassen?"
+    ],
+    0.5274390578269958
+  ],
+  [
+    [
+      23,
+      10
+    ],
+    [
+      "Rufen Sie uns an!",
+      "Telefonisch sind wir am besten zu erreichen:"
+    ],
+    0.7638872861862183
+  ],
+  [
+    [
+      24,
+      10
+    ],
+    [
+      "Unter den Telefon-Nummern: 02 21 / 22 12 92 82 02 21 / 22 12 92 85 Sie erreichen uns zu diesen Zeiten:",
+      "Telefonisch sind wir am besten zu erreichen:"
+    ],
+    0.6415128707885742
+  ],
+  [
+    [
+      25,
+      11
+    ],
+    [
+      "Dienstag von 10 bis 12 Uhr Donnerstag von 14 bis 16 Uhr.",
+      "Dienstag von 10 bis 12 Uhr, Donnerstag von 14 bis 16 Uhr."
+    ],
+    1.0000001192092896
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Wir können dann auch einen Termin machen.",
+      "Bei Bedarf verabreden wir ein persönliches Gespräch mit Ihnen."
+    ],
+    0.7543519735336304
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Für ein persönliches Gespräch .",
+      "Bei Bedarf verabreden wir ein persönliches Gespräch mit Ihnen."
+    ],
+    0.8633053302764893
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Wir beraten Sie gerne.",
+      "Bei Bedarf verabreden wir ein persönliches Gespräch mit Ihnen."
+    ],
+    0.779556930065155
+  ],
+  [
+    [
+      29,
+      14
+    ],
+    [
+      "Es gibt auch Beratungen und Info-Veranstaltungen in Schulen .",
+      "An Schulen finden Beratungen und Informationsveranstaltungen nach Absprache statt."
+    ],
+    0.9208757281303406
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Mehr Informationen finden Sie hier:",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.5059850215911865
+  ],
+  [
+    [
+      31,
+      15
+    ],
+    [
+      "Kontakt",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.3710239827632904
+  ],
+  [
+    [
+      32,
+      15
+    ],
+    [
+      "Das ist unsere Adresse:",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.3637162446975708
+  ],
+  [
+    [
+      33,
+      15
+    ],
+    [
+      "Bildungs-Beratung Im Mediapark 6 B 50670 Köln",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.24979254603385925
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Telefon: 02 21 / 22 12 92 82 02 21 / 22 12 92 85 Fax: 02 21 / 45 44 659 Infos für Menschen mit Behinderungen",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.2949109673500061
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Es gibt Behinderten-Park-Plätze .",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.1396019160747528
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Es gibt einen Aufzug .",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.12533965706825256
+  ],
+  [
+    [
+      37,
+      15
+    ],
+    [
+      "Der Eingangs-Bereich ist eingeschränkt zugänglich für Rollstuhl-Fahrer und Rollstuhl-Fahrerinnen.",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.07714942842721939
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Die WCs sind eingeschränkt zugänglich für Rollstuhl-Fahrer und Rollstuhl-Fahrerinnen.",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.08893974125385284
+  ],
+  [
+    [
+      39,
+      15
+    ],
+    [
+      "Wie komme ich zum Amt?",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.29828038811683655
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Stadt-Bahn-Linien: 12 und 15 Halte-Stelle: Christoph-Straße /",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.11315998435020447
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Media-Park",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.25801965594291687
+  ],
+  [
+    [
+      42,
+      15
+    ],
+    [
+      "S-Bahn-Linien: S 6, S 11 und S 12 Halte-Stelle:",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.07799984514713287
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Köln Hansaring",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.10660445690155029
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Weitere Informationen",
+      "Lehrkräfte und Beratende informieren wir online, in Konferenzen oder Fachgremien."
+    ],
+    0.41078487038612366
+  ]
+]

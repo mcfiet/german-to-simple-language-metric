@@ -1,0 +1,343 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Der Grad der Behinderung ist eine Zahl .",
+      "Mit dem \"Grad der Behinderung\" (GdB) wird bewertet, wie stark die Auswirkungen einer Behinderung sind."
+    ],
+    0.7902801632881165
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Die Abkürzung dafür ist: GdB .",
+      "Die Ursache ist bei dieser Bewertung unwichtig."
+    ],
+    0.18242132663726807
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Das spricht man so: Ge-de-Be.",
+      "Die Ursache ist bei dieser Bewertung unwichtig."
+    ],
+    0.01746908761560917
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Der Grad der Behinderung sagt: Wie schwer die Behinderung von einer Person ist.",
+      "Verglichen wird die gesundheitliche EinschrÃ¤nkung immer mit dem, was fÃ¼r einen Menschen ohne Behinderung normal ist."
+    ],
+    0.5680680871009827
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Wie stark ihre gesundheitlichen Probleme sind.",
+      "Verglichen wird die gesundheitliche EinschrÃ¤nkung immer mit dem, was fÃ¼r einen Menschen ohne Behinderung normal ist."
+    ],
+    0.10648629814386368
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Die Menschen haben verschiedene Behinderungen.",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.8236494064331055
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Zum Beispiel: Menschen mit körperlichen Behinderungen.",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.7943205833435059
+  ],
+  [
+    [
+      7,
+      6
+    ],
+    [
+      "Menschen mit seelischen Behinderungen.",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.795585036277771
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Menschen mit Lern-Schwierigkeiten .",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.011918756179511547
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Menschen mit Behinderungen haben unterschiedliche Probleme im Alltag.",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.8079822063446045
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Der Grad der Behinderung steht im Schwer-Behinderten-Ausweis .",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.7099871039390564
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Dort steht eine Zahl zwischen 50 und 100 .",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.03766372427344322
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Eine Zahl ab 50 bedeutet: Sie sind schwer-behindert .",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.5678112506866455
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Wie wird der Grad der Behinderung berechnet?",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.6179383397102356
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Wenn ein Mensch verschiedene Behinderungen hat:",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.8531354069709778
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Dann werden die Zahlen nicht einfach zusammen gezählt.",
+      "Liegen mehrere Behinderungen vor, so werden diese nicht einfach zusammen gerechnet."
+    ],
+    0.16320252418518066
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "Zum Beispiel: Wenn eine Person eine Behinderung mit einem Grad von 50 hat.",
+      "Wenn eine Behinderung mit einem Grad vonÂ 50 und eine zweite mit einem Grad vonÂ 40 bewertet werden, ergibt sich daraus kein Grad der Behinderung von 90."
+    ],
+    0.8499765396118164
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Und eine weitere Behinderung mit einem Grad von 40.",
+      "Wenn eine Behinderung mit einem Grad vonÂ 50 und eine zweite mit einem Grad vonÂ 40 bewertet werden, ergibt sich daraus kein Grad der Behinderung von 90."
+    ],
+    0.8587421774864197
+  ],
+  [
+    [
+      19,
+      10
+    ],
+    [
+      "Dann ist der Grad der Behinderung nicht automatisch 90.",
+      "Im Ergebnis kann so zum Beispiel aus Behinderungen mit einem Einzel- GdB von 50 und 40Â ein Grad der Behinderung von 70 heraus kommen."
+    ],
+    0.7991737127304077
+  ],
+  [
+    [
+      20,
+      10
+    ],
+    [
+      "Obwohl 50 und 40 zusammen 90 ergeben.",
+      "Im Ergebnis kann so zum Beispiel aus Behinderungen mit einem Einzel- GdB von 50 und 40Â ein Grad der Behinderung von 70 heraus kommen."
+    ],
+    0.12079760432243347
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Aber die Zahlen werden nicht einfach zusammen gezählt.",
+      "Damit die Beurteilung einer Behinderung bundesweit einheitlich ist, erfolgt die Bewertung nach der Versorgungsmedizin-Verordnung (frÃ¼her: Anhaltspunkte)."
+    ],
+    0.06962968409061432
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Die Gesamt-Zahl kann auch 70 sein.",
+      "Damit die Beurteilung einer Behinderung bundesweit einheitlich ist, erfolgt die Bewertung nach der Versorgungsmedizin-Verordnung (frÃ¼her: Anhaltspunkte)."
+    ],
+    0.018833061680197716
+  ],
+  [
+    [
+      23,
+      11
+    ],
+    [
+      "Es gibt Regeln dafür: Wie der Grad der Behinderung berechnet wird.",
+      "Damit die Beurteilung einer Behinderung bundesweit einheitlich ist, erfolgt die Bewertung nach der Versorgungsmedizin-Verordnung (frÃ¼her: Anhaltspunkte)."
+    ],
+    0.35367152094841003
+  ],
+  [
+    [
+      24,
+      12
+    ],
+    [
+      "Die Regeln stehen in der Versorgungs-Medizin-Verordnung .",
+      "Die Versorgungsmedizin-Verordnung wirdÂ vom Bundesministerium fÃ¼r Arbeit und Soziales erarbeitet und regelmÃ¤Ãig aktualisiert."
+    ],
+    0.47942936420440674
+  ],
+  [
+    [
+      25,
+      12
+    ],
+    [
+      "Die Verordnung ist vom Bundes-Ministerium .",
+      "Die Versorgungsmedizin-Verordnung wirdÂ vom Bundesministerium fÃ¼r Arbeit und Soziales erarbeitet und regelmÃ¤Ãig aktualisiert."
+    ],
+    0.45457208156585693
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "An diese Regeln halten wir uns.",
+      "Bei der Bearbeitung Ihres Antrages halten wir uns an diese Versorgungsmedizin-Verordnung."
+    ],
+    0.11974603682756424
+  ],
+  [
+    [
+      28,
+      15
+    ],
+    [
+      "Wichtig: Auf dem Behinderten-Ausweis steht nicht nur der Grad der Behinderung.",
+      "Die Angabe zum \"Grad der Behinderung\" wird ergÃ¤nzt durch einige Merkzeichen, die sich auf die Art der BeeintrÃ¤chtigung oder die Nachteilsausgleiche beziehen."
+    ],
+    0.5931739807128906
+  ],
+  [
+    [
+      29,
+      15
+    ],
+    [
+      "Dort stehen auch andere Zahlen und Zeichen.",
+      "Die Angabe zum \"Grad der Behinderung\" wird ergÃ¤nzt durch einige Merkzeichen, die sich auf die Art der BeeintrÃ¤chtigung oder die Nachteilsausgleiche beziehen."
+    ],
+    0.052857913076877594
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Das schwere Wort dafür ist: Merk-Zeichen .",
+      "Die Angabe zum \"Grad der Behinderung\" wird ergÃ¤nzt durch einige Merkzeichen, die sich auf die Art der BeeintrÃ¤chtigung oder die Nachteilsausgleiche beziehen."
+    ],
+    0.0884215459227562
+  ],
+  [
+    [
+      31,
+      15
+    ],
+    [
+      "Die Merk-Zeichen erklären wir auf einer anderen Seite.",
+      "Die Angabe zum \"Grad der Behinderung\" wird ergÃ¤nzt durch einige Merkzeichen, die sich auf die Art der BeeintrÃ¤chtigung oder die Nachteilsausgleiche beziehen."
+    ],
+    0.18527129292488098
+  ],
+  [
+    [
+      33,
+      15
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013",
+      "Die Angabe zum \"Grad der Behinderung\" wird ergÃ¤nzt durch einige Merkzeichen, die sich auf die Art der BeeintrÃ¤chtigung oder die Nachteilsausgleiche beziehen."
+    ],
+    0.5097450613975525
+  ]
+]

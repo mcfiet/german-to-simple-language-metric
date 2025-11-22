@@ -1,0 +1,475 @@
+[
+  [
+    [
+      0,
+      11
+    ],
+    [
+      "Eine Makula-Degeneration ist eine Erkrankung des Auges.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6572278738021851
+  ],
+  [
+    [
+      1,
+      11
+    ],
+    [
+      "Dabei handelt es sich um eine schwere Sehbehinderung.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6814924478530884
+  ],
+  [
+    [
+      2,
+      5
+    ],
+    [
+      "Die Makula ist eine bestimmte Region der Netzhaut.",
+      "Decken Sie das linke Auge ab."
+    ],
+    0.6284574270248413
+  ],
+  [
+    [
+      3,
+      5
+    ],
+    [
+      "Die Netzhaut liegt im Inneren des Auges.",
+      "Decken Sie das linke Auge ab."
+    ],
+    0.667229175567627
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Mit Hilfe der Makula können wir scharf sehen.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.6815965175628662
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "In der Makula sind nämlich die meisten Sehzellen.",
+      "Decken Sie das linke Auge ab."
+    ],
+    0.5643060803413391
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Mit den Sehzellen können wir zum Beispiel Gesichter und Gegenstände scharf sehen.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.5067381262779236
+  ],
+  [
+    [
+      7,
+      7
+    ],
+    [
+      "Und mit den Sehzellen können wir Farben erkennen.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.541760265827179
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Bei einer Makula-Degeneration sterben Sehzellen auf der Netzhaut ab.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.5718329548835754
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Manchmal kann die Makula auch anschwellen.",
+      "Drucken Sie das Gitter aus."
+    ],
+    0.5388716459274292
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Die Makula kann sich dann auch abheben.",
+      "Drucken Sie das Gitter aus."
+    ],
+    0.6552801728248596
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Die Makula hebt sich ab?",
+      "Drucken Sie das Gitter aus."
+    ],
+    0.6344051957130432
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Dann sterben Sehzellen und die Makula vernarbt.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6072525978088379
+  ],
+  [
+    [
+      20,
+      11
+    ],
+    [
+      "Betroffene Personen können dann nicht mehr scharf sehen.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6990857720375061
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Und betroffene Personen können dann auch nicht mehr farbig sehen.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6581614017486572
+  ],
+  [
+    [
+      22,
+      5
+    ],
+    [
+      "Es gibt Sehzellen in der Makula und es gibt Sehzellen außerhalb der Makula.",
+      "Decken Sie das linke Auge ab."
+    ],
+    0.5553091168403625
+  ],
+  [
+    [
+      23,
+      10
+    ],
+    [
+      "Die Sehzellen außerhalb der Makula nehmen Kontraste zwischen hell und dunkel wahr.",
+      "Wiederholen Sie den Test für das linke Auge."
+    ],
+    0.549977719783783
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Diese Sehzellen nehmen auch Umrisse wahr und helfen bei der Orientierung im Dunkeln.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.53106689453125
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Werden die Drusen größer?",
+      "Erscheinen Ihnen alle Kästchen gleich groß?"
+    ],
+    0.5615860819816589
+  ],
+  [
+    [
+      33,
+      11
+    ],
+    [
+      "Dann können Sehzellen absterben.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6437239050865173
+  ],
+  [
+    [
+      34,
+      11
+    ],
+    [
+      "Eine betroffene Person kann dann nicht mehr so gut sehen.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.6816972494125366
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Sie sehen oft ohne Sonnenbrille in die Sonne?",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.5153084993362427
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "Dann erhöht sich Ihr Risiko für eine Makula-Degeneration.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.5039893388748169
+  ],
+  [
+    [
+      43,
+      7
+    ],
+    [
+      "Sie sehen gerade Linien verzerrt.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.7835215330123901
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Sie sehen einen dunklen Fleck in der Mitte Ihres Sichtfeldes.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.7082557678222656
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Eine trockene Makula-Degenration hat zum Beispiel diese Anzeichen:",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.5298409461975098
+  ],
+  [
+    [
+      46,
+      4
+    ],
+    [
+      "Sie können in der Mitte von Ihrem Sichtfeld weniger scharf sehen.",
+      "Betrachten Sie es aus einer Entfernung von 30 Zentimetern."
+    ],
+    0.6510772109031677
+  ],
+  [
+    [
+      47,
+      7
+    ],
+    [
+      "Sie sehen einen dunklen Fleck in der Mitte Ihres Sichtfeldes.",
+      "Können Sie alle Linien im Gitter sehen?"
+    ],
+    0.7082557678222656
+  ],
+  [
+    [
+      49,
+      11
+    ],
+    [
+      "Sie brauchen mehr Licht zum Sehen als sonst.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.5079478025436401
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Augenarzt.",
+      "Müssen Sie eine oder mehere Fragen mit \"Nein\" beantworten, dann kann das auf eine Netzhaut-Erkrankung hindeuten."
+    ],
+    0.7009926438331604
+  ],
+  [
+    [
+      57,
+      12
+    ],
+    [
+      "Der Arzt untersucht Sie und hilft Ihnen.",
+      "Da die frühe Therapie oft sehr entscheidend ist, sollten Sie sich vorsichtshalber ärztlich untersuchen lassen."
+    ],
+    0.6521510481834412
+  ],
+  [
+    [
+      64,
+      3
+    ],
+    [
+      "Manchmal kann sie auch gestoppt werden.",
+      "Drucken Sie das Gitter aus."
+    ],
+    0.5676348805427551
+  ],
+  [
+    [
+      65,
+      12
+    ],
+    [
+      "Dabei hilft zum Bespiel die Anti-VEGF-Therapie .",
+      "Da die frühe Therapie oft sehr entscheidend ist, sollten Sie sich vorsichtshalber ärztlich untersuchen lassen."
+    ],
+    0.5898112058639526
+  ],
+  [
+    [
+      67,
+      3
+    ],
+    [
+      "So können sich keine neuen Gefäße bilden.",
+      "Drucken Sie das Gitter aus."
+    ],
+    0.5587504506111145
+  ],
+  [
+    [
+      69,
+      12
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Da die frühe Therapie oft sehr entscheidend ist, sollten Sie sich vorsichtshalber ärztlich untersuchen lassen."
+    ],
+    0.5640129446983337
+  ],
+  [
+    [
+      70,
+      12
+    ],
+    [
+      "Der Arzt gibt Ihnen mehr Informationen zur Anti-VEGF-Therapie.",
+      "Da die frühe Therapie oft sehr entscheidend ist, sollten Sie sich vorsichtshalber ärztlich untersuchen lassen."
+    ],
+    0.6042525768280029
+  ],
+  [
+    [
+      76,
+      12
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt oder Apotheker.",
+      "Da die frühe Therapie oft sehr entscheidend ist, sollten Sie sich vorsichtshalber ärztlich untersuchen lassen."
+    ],
+    0.539412260055542
+  ],
+  [
+    [
+      77,
+      12
+    ],
+    [
+      "Ihr Arzt oder Apotheker kann Ihnen Nahrungsergänzungsmittel empfehlen.",
+      "Da die frühe Therapie oft sehr entscheidend ist, sollten Sie sich vorsichtshalber ärztlich untersuchen lassen."
+    ],
+    0.523107647895813
+  ],
+  [
+    [
+      78,
+      3
+    ],
+    [
+      "Sie möchten einer Makula-Degeneration vorbeugen?",
+      "Drucken Sie das Gitter aus."
+    ],
+    0.510837733745575
+  ],
+  [
+    [
+      79,
+      10
+    ],
+    [
+      "Dann achten Sie auf diese Dinge: Lassen Sie Ihre Augen regelmäßig von einem Augenarzt überprüfen.",
+      "Wiederholen Sie den Test für das linke Auge."
+    ],
+    0.6757136583328247
+  ],
+  [
+    [
+      80,
+      0
+    ],
+    [
+      "Machen Sie von Zeit zu Zeit den Amsler-Gitter-Test.",
+      "So funktioniert der so genannte Amsler-Test:"
+    ],
+    0.7783385515213013
+  ],
+  [
+    [
+      81,
+      0
+    ],
+    [
+      "Diesen Test finden Sie hier .",
+      "So funktioniert der so genannte Amsler-Test:"
+    ],
+    0.7058676481246948
+  ],
+  [
+    [
+      87,
+      1
+    ],
+    [
+      "Achtung : Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Klicken Sie unten auf den Link \"Sehtest\"."
+    ],
+    0.5843777060508728
+  ]
+]

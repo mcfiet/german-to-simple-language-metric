@@ -1,0 +1,1542 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland?",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.8503193259239197
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Hat Ihr Besuch keine deutsche Staats-Bürgerschaft oder europäische Staats-Bürgerschaft ?",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.5674933791160583
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Ihr Besuch bis zu 90 Tage in Deutschland bleiben?",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.4833657741546631
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Dann braucht Ihr Gast für den Besuch ein Einreise-Visum .",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.4351460337638855
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Ein Einreise-Visum ist ein Papier auf dem steht:",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.29497629404067993
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Eine Person darf in ein Land einreisen .",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.6810887455940247
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Eine Person darf sich in einem Land aufhalten.",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.7921157479286194
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Für ein Einreise-Visum braucht Ihr Gast eine Verpflichtungs-Erklärung .",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.44843074679374695
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Eine Verpflichtungs-Erklärung ist ein Papier auf dem steht:",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.49251535534858704
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Sie bezahlen während dem Besuch alle Kosten von Ihrem Gast.",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.6806823015213013
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Wenn Ihr Gast die Kosten nicht selbst bezahlen kann.",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    0.5855917930603027
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Zum Beispiel: Die Kosten für den Lebens-Unterhalt .",
+      "Antragsformular für die Verpflichtungserklärung"
+    ],
+    0.6731265783309937
+  ],
+  [
+    [
+      13,
+      22
+    ],
+    [
+      "Also: Kosten für Essen und Wohnen .",
+      "Zusätzliche Unterlagen für Angestellte und Arbeiterinnen bzw. Arbeiter"
+    ],
+    0.7035502195358276
+  ],
+  [
+    [
+      14,
+      24
+    ],
+    [
+      "Die Kosten im Fall einer Krankheit oder Pflege-Bedürftigkeit.",
+      "Arbeitsbescheinigung der Arbeitgeberin oder des Arbeitsgebers mit Angabe, ob das Arbeitsverhältnis unbefristet, befristet und/oder gekündigt ist."
+    ],
+    0.6116243600845337
+  ],
+  [
+    [
+      15,
+      25
+    ],
+    [
+      "Zum Beispiel: Kosten für Arzt, Medikamente, Kranken-Haus oder Pflege-Heim.",
+      "Zusätzliche Unterlagen für selbstständige Erwerbstätige oder freiberuflich Tätige Letzter Steuerbescheid"
+    ],
+    0.6983810067176819
+  ],
+  [
+    [
+      16,
+      38
+    ],
+    [
+      "Wir prüfen Ihre finanzielle Lage.",
+      "Hierbei müssen Sie Ihre gesamten finanziellen Verhältnisse offenlegen."
+    ],
+    0.8411591649055481
+  ],
+  [
+    [
+      17,
+      38
+    ],
+    [
+      "Damit wir wissen, ob Sie diese Kosten übernehmen können.",
+      "Hierbei müssen Sie Ihre gesamten finanziellen Verhältnisse offenlegen."
+    ],
+    0.8162045478820801
+  ],
+  [
+    [
+      18,
+      39
+    ],
+    [
+      "Wenn Sie eine Verpflichtungs-Erklärung abgeben, dann können Ihre Gäste so nachweisen, dass für ihren Besuch in Deutschland der Lebens-Unterhalt gesichert ist.",
+      "Finanziell leistungsfähig sind Sie nur dann, wenn Ihr Einkommen erheblich höher als Ihre Ausgaben oder finanziellen Verpflichtungen ist."
+    ],
+    0.7909842133522034
+  ],
+  [
+    [
+      19,
+      40
+    ],
+    [
+      "Wer kann eine Verpflichtungs-Erklärung abgeben?",
+      "Kann jede oder jeder eine Verpflichtungserklärung abgeben?"
+    ],
+    0.7984055280685425
+  ],
+  [
+    [
+      20,
+      46
+    ],
+    [
+      "Natürliche und juristische Personen können eine Verpflichtungs-Erklärung abgeben.",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.8474171757698059
+  ],
+  [
+    [
+      21,
+      46
+    ],
+    [
+      "Das Gesetz unterscheidet zwischen natürlichen und juristischen Personen.",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.5366743206977844
+  ],
+  [
+    [
+      22,
+      46
+    ],
+    [
+      "Eine natürliche Person ist ein Mensch.",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.38644498586654663
+  ],
+  [
+    [
+      23,
+      46
+    ],
+    [
+      "Eine natürliche Person wird geboren .",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.41832292079925537
+  ],
+  [
+    [
+      24,
+      46
+    ],
+    [
+      "Natürliche Personen",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.5790024995803833
+  ],
+  [
+    [
+      25,
+      46
+    ],
+    [
+      "Sie können eine Verpflichtungs-Erklärung beantragen, wenn Sie die deutsche Staats-Angehörigkeit haben und in Köln gemeldet sind.",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.8450353741645813
+  ],
+  [
+    [
+      26,
+      46
+    ],
+    [
+      "Sie können auch eine Verpflichtungs-Erklärung beantragen, wenn Sie keine deutsche Staats-Angehörigkeit haben.",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.920145571231842
+  ],
+  [
+    [
+      27,
+      46
+    ],
+    [
+      "Dazu müssen Sie einen gültigen Aufenthalts-Titel haben.",
+      "Sie können sich hierbei nicht vertreten lassen oder eine Vollmacht vorlegen."
+    ],
+    0.7746090292930603
+  ],
+  [
+    [
+      28,
+      47
+    ],
+    [
+      "Ein Aufenthalts-Titel ist ein Papier, auf dem steht: Ihr Name Wie lange Sie in einem Land bleiben dürfen .",
+      "Sie können nur dann in Köln eine Verpflichtungserklärung erhalten, wenn Sie in Köln wohnen und angemeldet sind."
+    ],
+    0.4970972239971161
+  ],
+  [
+    [
+      29,
+      47
+    ],
+    [
+      "Der Aufenthalts-Titel muss mindestens 6 Monate gültig sein.",
+      "Sie können nur dann in Köln eine Verpflichtungserklärung erhalten, wenn Sie in Köln wohnen und angemeldet sind."
+    ],
+    0.002882131841033697
+  ],
+  [
+    [
+      30,
+      47
+    ],
+    [
+      "Sie können keine Verpflichtungs-Erklärung abgeben, wenn Sie nur in Deutschland geduldet sind.",
+      "Sie können nur dann in Köln eine Verpflichtungserklärung erhalten, wenn Sie in Köln wohnen und angemeldet sind."
+    ],
+    0.9010708928108215
+  ],
+  [
+    [
+      31,
+      47
+    ],
+    [
+      "Oder nur ein Visum für Ihren Aufenthalt in Deutschland haben.",
+      "Sie können nur dann in Köln eine Verpflichtungserklärung erhalten, wenn Sie in Köln wohnen und angemeldet sind."
+    ],
+    0.7217026352882385
+  ],
+  [
+    [
+      32,
+      48
+    ],
+    [
+      "Oder nur eine Fiktions-Bescheinigung haben.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.5935133099555969
+  ],
+  [
+    [
+      33,
+      48
+    ],
+    [
+      "Das ist ein Papier auf dem steht:",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.32947659492492676
+  ],
+  [
+    [
+      34,
+      48
+    ],
+    [
+      "Dass Sie nur ein vorläufiges Recht auf Aufenthalt haben.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.6681692600250244
+  ],
+  [
+    [
+      35,
+      48
+    ],
+    [
+      "Sie können auch keine Verpflichtungs-Erklärung abgeben, wenn Sie öffentliche Leistungen bekommen.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.6600448489189148
+  ],
+  [
+    [
+      36,
+      48
+    ],
+    [
+      "Das heißt: Wer Geld vom Staat bekommt, kann keine Verpflichtungs-Erklärung abgeben.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.524437665939331
+  ],
+  [
+    [
+      38,
+      48
+    ],
+    [
+      "Wohn-Geld",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.24115926027297974
+  ],
+  [
+    [
+      39,
+      48
+    ],
+    [
+      "Juristische Personen",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.49906033277511597
+  ],
+  [
+    [
+      40,
+      48
+    ],
+    [
+      "Eine juristische Person wird gegründet .",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.5864477753639221
+  ],
+  [
+    [
+      41,
+      48
+    ],
+    [
+      "Eine juristische Person ist zum Beispiel:",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.5326500535011292
+  ],
+  [
+    [
+      42,
+      48
+    ],
+    [
+      "Ein Verein oder eine Firma.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.6337507367134094
+  ],
+  [
+    [
+      43,
+      48
+    ],
+    [
+      "Eine juristische Person wird in ein Register eingetragen.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.7711557745933533
+  ],
+  [
+    [
+      44,
+      48
+    ],
+    [
+      "Zum Beispiel: Ein Handels-Register oder Vereins-Register.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.3160122334957123
+  ],
+  [
+    [
+      45,
+      48
+    ],
+    [
+      "Juristische Personen wie Unternehmen oder Vereine können auch eine Verpflichtungs-Erklärung beantragen.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.7968027591705322
+  ],
+  [
+    [
+      46,
+      48
+    ],
+    [
+      "Aber der Geschäfts-Sitz oder Vereins-Sitz muss in Köln sein .",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.8272225260734558
+  ],
+  [
+    [
+      47,
+      51
+    ],
+    [
+      "Was brauche ich für eine Verpflichtungs-Erklärung?",
+      "Wie kann ich eine Verpflichtungserklärung abgeben?"
+    ],
+    0.7587899565696716
+  ],
+  [
+    [
+      48,
+      60
+    ],
+    [
+      "Sie müssen die Verpflichtungs-Erklärung bei uns abgeben.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.8787574172019958
+  ],
+  [
+    [
+      49,
+      82
+    ],
+    [
+      "Die Erklärung können Sie hier herunter laden.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8423810005187988
+  ],
+  [
+    [
+      50,
+      82
+    ],
+    [
+      "Sie müssen die Erklärung ausfüllen .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.9188545346260071
+  ],
+  [
+    [
+      51,
+      82
+    ],
+    [
+      "Sie müssen die Erklärung ausdrucken.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.9200374484062195
+  ],
+  [
+    [
+      52,
+      82
+    ],
+    [
+      "Sie müssen die Erklärung unterschreiben .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.908655047416687
+  ],
+  [
+    [
+      53,
+      82
+    ],
+    [
+      "Und die fertige Erklärung bei uns abgeben.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6670310497283936
+  ],
+  [
+    [
+      54,
+      82
+    ],
+    [
+      "Wenn Sie etwas nicht verstehen, fragen Sie bitte jemanden um Hilfe.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7956786751747131
+  ],
+  [
+    [
+      55,
+      82
+    ],
+    [
+      "Sie müssen auch einen Antrag für die Verpflichtungs-Erklärung abgeben.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8489298820495605
+  ],
+  [
+    [
+      56,
+      82
+    ],
+    [
+      "Den Antrag können Sie hier herunter laden .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6931158304214478
+  ],
+  [
+    [
+      57,
+      82
+    ],
+    [
+      "Sie müssen den Antrag ausfüllen .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7555068135261536
+  ],
+  [
+    [
+      58,
+      82
+    ],
+    [
+      "Sie müssen den Antrag ausdrucken.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7583587765693665
+  ],
+  [
+    [
+      59,
+      82
+    ],
+    [
+      "Sie müssen den Antrag unterschreiben .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7465001940727234
+  ],
+  [
+    [
+      60,
+      82
+    ],
+    [
+      "Und den fertigen Antrag bei uns abgeben.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5243313312530518
+  ],
+  [
+    [
+      61,
+      82
+    ],
+    [
+      "Wichtig: Außerdem müssen Sie noch eine andere Erklärung abgeben:",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8734100461006165
+  ],
+  [
+    [
+      62,
+      82
+    ],
+    [
+      "Die Erklärung vom Verpflichtungs-Geber.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.17071612179279327
+  ],
+  [
+    [
+      63,
+      82
+    ],
+    [
+      "Darin steht noch einmal genau, was eine Verpflichtungs-Erklärung ist.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.44497421383857727
+  ],
+  [
+    [
+      64,
+      82
+    ],
+    [
+      "Diese Erklärung müssen Sie auch unterschreiben und im Amt abgeben.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6891565918922424
+  ],
+  [
+    [
+      65,
+      82
+    ],
+    [
+      "Außerdem müssen Sie uns diese Papiere zeigen: Nachweise über Ihre Einnahmen sind zum Beispiel:",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8453021049499512
+  ],
+  [
+    [
+      66,
+      82
+    ],
+    [
+      "Lohn-Abrechnungen Renten-Bescheide Steuer-Bescheide Bescheinigung vom Steuer-Berater oder von der Steuer-Beraterin",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.42334163188934326
+  ],
+  [
+    [
+      67,
+      82
+    ],
+    [
+      "Nachweise über Ihre Ausgaben sind zum Beispiel: Nachweise über Ihre Miete",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7055191397666931
+  ],
+  [
+    [
+      68,
+      82
+    ],
+    [
+      "Nachweise über Neben-Kosten",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4795393943786621
+  ],
+  [
+    [
+      69,
+      82
+    ],
+    [
+      "Nachweise über Versicherungen",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4922947287559509
+  ],
+  [
+    [
+      70,
+      82
+    ],
+    [
+      "Nachweise über Kredite",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.46419164538383484
+  ],
+  [
+    [
+      71,
+      82
+    ],
+    [
+      "Nachweise über Unterhalts-Zahlungen",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.49002206325531006
+  ],
+  [
+    [
+      72,
+      82
+    ],
+    [
+      "Wichtig:",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4755827486515045
+  ],
+  [
+    [
+      73,
+      82
+    ],
+    [
+      "Manchmal brauchen wir auch eine Auskunft von der Schufa .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7796988487243652
+  ],
+  [
+    [
+      74,
+      82
+    ],
+    [
+      "Schufa ist die Abkürzung für:",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4193335175514221
+  ],
+  [
+    [
+      75,
+      82
+    ],
+    [
+      "Schutz-Gemeinschaft für allgemeine Kredit-Sicherung.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.43494170904159546
+  ],
+  [
+    [
+      76,
+      82
+    ],
+    [
+      "Die Schufa sammelt Daten von Verbrauchern.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.43283987045288086
+  ],
+  [
+    [
+      77,
+      82
+    ],
+    [
+      "Und prüft ihre finanzielle Lage.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.541517972946167
+  ],
+  [
+    [
+      78,
+      82
+    ],
+    [
+      "Ob wir eine Schufa-Auskunft von Ihnen brauchen, sagen wir Ihnen im persönlichen Gespräch.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7163622975349426
+  ],
+  [
+    [
+      79,
+      82
+    ],
+    [
+      "Nachweise für juristische Personen",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4814479351043701
+  ],
+  [
+    [
+      80,
+      82
+    ],
+    [
+      "Wenn Sie die Verpflichtungs-Erklärung als juristische Person beantragen, zum Beispiel als Unternehmen oder als Verein, dann müssen Sie uns auch diese Nachweise zeigen: eine Gewerbe-Anmeldung oder eine Kopie aus dem Handels-Register oder eine Kopie aus dem Vereins-Register",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7858601212501526
+  ],
+  [
+    [
+      81,
+      82
+    ],
+    [
+      "Wie bekomme ich eine Verpflichtungs-Erklärung?",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.3779684007167816
+  ],
+  [
+    [
+      82,
+      82
+    ],
+    [
+      "Um eine Verpflichtungs-Erklärung zu beantragen, können Sie persönlich zu uns kommen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7416552305221558
+  ],
+  [
+    [
+      83,
+      82
+    ],
+    [
+      "Unsere Adresse ist:",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.31070366501808167
+  ],
+  [
+    [
+      85,
+      82
+    ],
+    [
+      "Bitte benutzen Sie den Besucher-Eingang in der Dillenburger Straße 56 .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5512147545814514
+  ],
+  [
+    [
+      86,
+      82
+    ],
+    [
+      "Zu diesen Zeiten haben wir geöffnet: Montag, Dienstag, Donnerstag und Freitag von 8 bis 12 Uhr.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.11147331446409225
+  ],
+  [
+    [
+      87,
+      82
+    ],
+    [
+      "Mittwoch ist geschlossen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.07771468162536621
+  ],
+  [
+    [
+      88,
+      82
+    ],
+    [
+      "Den Info-Schalter finden Sie im Gebäude 56 .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.27768176794052124
+  ],
+  [
+    [
+      89,
+      82
+    ],
+    [
+      "Dort bekommen Sie eine Warte-Nummer .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8366402387619019
+  ],
+  [
+    [
+      90,
+      82
+    ],
+    [
+      "Mit der Warte-Nummer gehen Sie in den Warte-Bereich auf der 3. Etage im Gebäude 60 .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.3132643401622772
+  ],
+  [
+    [
+      91,
+      82
+    ],
+    [
+      "Bitte warten Sie dort im Warte-Bereich, bis wir Ihre Nummer aufrufen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6767044067382812
+  ],
+  [
+    [
+      92,
+      82
+    ],
+    [
+      "Bitte bringen Sie alle erforderlichen Papiere mit.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7874518036842346
+  ],
+  [
+    [
+      93,
+      82
+    ],
+    [
+      "Wir prüfen dann Ihre Papiere.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7741528749465942
+  ],
+  [
+    [
+      94,
+      82
+    ],
+    [
+      "Und wir sagen Ihnen, wann Sie die Verpflichtungs-Erklärung abholen können.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8439000844955444
+  ],
+  [
+    [
+      95,
+      82
+    ],
+    [
+      "Zum Abholen müssen Sie dann wieder zu uns kommen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6822919845581055
+  ],
+  [
+    [
+      96,
+      82
+    ],
+    [
+      "Sie können auch einen Termin ausmachen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8382887840270996
+  ],
+  [
+    [
+      97,
+      82
+    ],
+    [
+      "Rufen Sie uns an unter der Nummer: 02 21 / 22 12 75 00 Wenn Sie alle notwendigen Papiere zu dem Termin mitbringen, dann bekommen Sie sofort eine Verpflichtungs-Erklärung.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6928690075874329
+  ],
+  [
+    [
+      98,
+      82
+    ],
+    [
+      "Wir können Ihnen nur Termine von 14 Uhr bis 15:30 Uhr anbieten.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.2794611155986786
+  ],
+  [
+    [
+      99,
+      82
+    ],
+    [
+      "Wir können Ihnen nicht sofort einen Termin anbieten.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7714287638664246
+  ],
+  [
+    [
+      100,
+      82
+    ],
+    [
+      "Meist müssen Sie 6 bis 8 Wochen auf einen Termin warten.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.32895806431770325
+  ],
+  [
+    [
+      101,
+      82
+    ],
+    [
+      "In dringenden Notfällen müssen Sie nicht so lange warten.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6223902702331543
+  ],
+  [
+    [
+      102,
+      82
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, kann auch jemand anders für Sie zu uns kommen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.809001088142395
+  ],
+  [
+    [
+      103,
+      82
+    ],
+    [
+      "Diesem Menschen müssen Sie vertrauen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8090676665306091
+  ],
+  [
+    [
+      104,
+      82
+    ],
+    [
+      "Sie müssen diesem Menschen schriftlich erlauben, die Verpflichtungs-Erklärung für Sie zu beantragen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8832038044929504
+  ],
+  [
+    [
+      105,
+      82
+    ],
+    [
+      "Diese Erlaubnis heißt Vollmacht .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5774070024490356
+  ],
+  [
+    [
+      106,
+      82
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5955553650856018
+  ],
+  [
+    [
+      107,
+      82
+    ],
+    [
+      "Sie müssen das Papier unterschreiben .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7217995524406433
+  ],
+  [
+    [
+      108,
+      82
+    ],
+    [
+      "Der Mensch, der für Sie zu uns kommt, muss uns die Vollmacht zeigen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7718643546104431
+  ],
+  [
+    [
+      109,
+      82
+    ],
+    [
+      "Er muss uns auch seinen Personal-Ausweis oder Reise-Pass zeigen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5203668475151062
+  ],
+  [
+    [
+      110,
+      82
+    ],
+    [
+      "Sie können Ihre Unterlagen auch als E-Mail schicken.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8605505228042603
+  ],
+  [
+    [
+      111,
+      82
+    ],
+    [
+      "Wir prüfen dann Ihre Unterlagen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7935067415237427
+  ],
+  [
+    [
+      112,
+      82
+    ],
+    [
+      "Und wir machen mit Ihnen einen Termin zum Abholen .",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.6062977313995361
+  ],
+  [
+    [
+      113,
+      82
+    ],
+    [
+      "Wichtig: Zum Abholen müssen Sie persönlich zu uns kommen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7346434593200684
+  ],
+  [
+    [
+      114,
+      82
+    ],
+    [
+      "Wir schicken die Verpflichtungs-Erklärung nicht mit der Post.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7371965646743774
+  ],
+  [
+    [
+      115,
+      82
+    ],
+    [
+      "Sie müssen die Verpflichtungs-Erklärung persönlich bei uns abholen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8607034683227539
+  ],
+  [
+    [
+      116,
+      82
+    ],
+    [
+      "Wann bekomme ich eine Verpflichtungs-Erklärung?",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.3957415521144867
+  ],
+  [
+    [
+      117,
+      82
+    ],
+    [
+      "Wenn Sie alle Papiere bei uns abgegeben haben oder als E-Mail an uns geschickt haben, dann prüfen wir Ihre Papiere.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.7897528409957886
+  ],
+  [
+    [
+      118,
+      82
+    ],
+    [
+      "Nach 2 Wochen können Sie die Verpflichtungs-Erklärung abholen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5930265784263611
+  ],
+  [
+    [
+      119,
+      82
+    ],
+    [
+      "Sie können auch sofort eine Verpflichtungs-Erklärung bekommen, wenn Sie einen Termin haben und alle Papiere mitbringen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8740789890289307
+  ],
+  [
+    [
+      120,
+      82
+    ],
+    [
+      "Oder wenn es ein Notfall ist und Sie alle Papiere mitbringen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5938574075698853
+  ],
+  [
+    [
+      121,
+      82
+    ],
+    [
+      "Wie bekomme ich im Notfall eine Verpflichtungs-Erklärung?",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.3021860122680664
+  ],
+  [
+    [
+      122,
+      82
+    ],
+    [
+      "Im Notfall bekommen Sie sofort eine Verpflichtungs-Erklärung.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.5401287078857422
+  ],
+  [
+    [
+      123,
+      82
+    ],
+    [
+      "Zum Beispiel: Wenn eine Person aus der Familie gestorben ist.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4661121368408203
+  ],
+  [
+    [
+      124,
+      82
+    ],
+    [
+      "In solchen Notfällen geht die Bearbeitung schneller.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.4205724895000458
+  ],
+  [
+    [
+      125,
+      82
+    ],
+    [
+      "Aber das ist nur im Notfall möglich.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.224956676363945
+  ],
+  [
+    [
+      126,
+      82
+    ],
+    [
+      "Sie müssen nachweisen :",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8556541800498962
+  ],
+  [
+    [
+      127,
+      82
+    ],
+    [
+      "Dass Ihr Fall ein Notfall ist.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.28697729110717773
+  ],
+  [
+    [
+      128,
+      82
+    ],
+    [
+      "Und Sie sofort eine Verpflichtungs-Erklärung brauchen.",
+      "Können Sie keine Sicherheitsleistung hinterlegen, können Sie der Person, die Sie einladen möchten, eine formlose Einladung schreiben."
+    ],
+    0.8651849627494812
+  ],
+  [
+    [
+      129,
+      85
+    ],
+    [
+      "Was kostet eine Verpflichtungs-Erklärung?",
+      "Eine persönliche Vorsprache ist lediglich bei der Abholung der Verpflichtungserklärung erforderlich."
+    ],
+    0.5816816687583923
+  ],
+  [
+    [
+      130,
+      87
+    ],
+    [
+      "Die Verpflichtungs-Erklärung kostet 29 Euro.",
+      "Die Verwaltungsgebühr pro Verpflichtungserklärung beträgt 29 Euro."
+    ],
+    0.8984607458114624
+  ],
+  [
+    [
+      131,
+      88
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.3905525505542755
+  ],
+  [
+    [
+      132,
+      88
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.3795155882835388
+  ],
+  [
+    [
+      133,
+      88
+    ],
+    [
+      "Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.38160786032676697
+  ],
+  [
+    [
+      134,
+      88
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.37347209453582764
+  ],
+  [
+    [
+      135,
+      88
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.39812374114990234
+  ],
+  [
+    [
+      136,
+      88
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.4618956446647644
+  ],
+  [
+    [
+      137,
+      88
+    ],
+    [
+      "In welchem Gesetz stehen die Regeln zur Verpflichtungs-Erklärung?",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.13216719031333923
+  ],
+  [
+    [
+      138,
+      88
+    ],
+    [
+      "Die Regeln zur Verpflichtungs-Erklärung stehen im Aufenthalts-Gesetz .",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.14360234141349792
+  ],
+  [
+    [
+      139,
+      88
+    ],
+    [
+      "Das Gesetz regelt den Aufenthalt von Menschen in Deutschland.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.21383140981197357
+  ],
+  [
+    [
+      140,
+      88
+    ],
+    [
+      "Die Regeln zur Verpflichtungs-Erklärung stehen in den Paragraphen 66, 67 und 68 .",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.10763552039861679
+  ],
+  [
+    [
+      141,
+      88
+    ],
+    [
+      "Ein Paragraph ist ein Teil von einem Gesetz.",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.2976748049259186
+  ],
+  [
+    [
+      142,
+      88
+    ],
+    [
+      "Weitere Informationen *",
+      "Barzahlung oder EC -Kartenzahlung ist möglich."
+    ],
+    0.14355526864528656
+  ]
+]

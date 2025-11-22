@@ -1,0 +1,816 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Grippe ist eine ansteckende Krankheit.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.6039040088653564
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Fachwort für Grippe ist: Influenza.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.546522855758667
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Grippe entsteht durch Viren.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.6367476582527161
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Viren werden durch Körper-Flüssigkeiten übertragen:",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.4995725750923157
+  ],
+  [
+    [
+      4,
+      4
+    ],
+    [
+      "Zum Beispiel beim Niesen.",
+      "Wichtig ist es, die echte Grippe vom grippalen Infekt zu unterscheiden."
+    ],
+    0.3441205620765686
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Eine Grippe ist kein grippaler Infekt.",
+      "Wichtig ist es, die echte Grippe vom grippalen Infekt zu unterscheiden."
+    ],
+    0.6002241373062134
+  ],
+  [
+    [
+      6,
+      11
+    ],
+    [
+      "Das Influenza-Virus wird über die Schleimhäute übertragen.",
+      "Das kann beispielsweise geschehen, wenn eine erkrankte Person niest und andere die Tröpfchen einatmen."
+    ],
+    0.579496443271637
+  ],
+  [
+    [
+      7,
+      13
+    ],
+    [
+      "Schleimhäute sind zum Beispiel in Mund oder Nase.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.6842341423034668
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "In den Schleimhäuten vermehren sich die Viren.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.5994223952293396
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Und sie können dann übertragen werden beim:",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.44651058316230774
+  ],
+  [
+    [
+      10,
+      13
+    ],
+    [
+      "Niesen Husten",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.4123261570930481
+  ],
+  [
+    [
+      11,
+      13
+    ],
+    [
+      "Händeschütteln",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.46102243661880493
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "Sprechen Küssen",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.40758270025253296
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Influenza-Viren überleben auch auf Gegenständen wie zum Beispiel Türklinken.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.6396270990371704
+  ],
+  [
+    [
+      14,
+      13
+    ],
+    [
+      "Deshalb kann man sich mit den Viren auch dann anstecken, wenn man solche Gegenstände berührt.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.6005002856254578
+  ],
+  [
+    [
+      15,
+      16
+    ],
+    [
+      "Ein Virus verursacht die Grippe.",
+      "Es gibt eine Reihe von Faktoren, die eine Erkrankung an Grippe und vor allem Komplikationen begünstigen."
+    ],
+    0.5541099309921265
+  ],
+  [
+    [
+      16,
+      17
+    ],
+    [
+      "Das Virus heißt: Influenza-Virus.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.4524756669998169
+  ],
+  [
+    [
+      17,
+      17
+    ],
+    [
+      "Das Influenza-Virus ist ein Krankheitserreger.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5715838074684143
+  ],
+  [
+    [
+      18,
+      17
+    ],
+    [
+      "Manche Personen bekommen schneller eine Grippe als andere.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.4966290593147278
+  ],
+  [
+    [
+      19,
+      17
+    ],
+    [
+      "Diese Personen haben nämlich häufig ein schwächeres Immunsystem.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5039477348327637
+  ],
+  [
+    [
+      20,
+      17
+    ],
+    [
+      "Deshalb können sie schneller an Grippe erkranken:",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.4632118046283722
+  ],
+  [
+    [
+      21,
+      17
+    ],
+    [
+      "Schwangere Babys Personen mit Diabetes oder anderen Stoffwechselkrankheiten.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5354130268096924
+  ],
+  [
+    [
+      22,
+      17
+    ],
+    [
+      "Zu Diabetes sagt man auch Zuckerkrankheit.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5207733511924744
+  ],
+  [
+    [
+      23,
+      17
+    ],
+    [
+      "Personen mit Tumor-Erkrankung",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.44101178646087646
+  ],
+  [
+    [
+      24,
+      17
+    ],
+    [
+      "Personen mit Lungen-Erkrankung",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.43061399459838867
+  ],
+  [
+    [
+      25,
+      17
+    ],
+    [
+      "Personen mit HIV-Erkrankung",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.23525173962116241
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Personen mit Herz-Erkrankung",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.4210238456726074
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Personen mit Unterernährung.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.4028737246990204
+  ],
+  [
+    [
+      28,
+      17
+    ],
+    [
+      "Personen über 65 Jahren",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5718826055526733
+  ],
+  [
+    [
+      29,
+      17
+    ],
+    [
+      "Auch bestimmte Medikamente können das Immunsystem unterdrücken.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5726421475410461
+  ],
+  [
+    [
+      30,
+      21
+    ],
+    [
+      "Dann erhöht sich das Risiko für eine Grippe.",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.4878688156604767
+  ],
+  [
+    [
+      31,
+      21
+    ],
+    [
+      "Die Anzeichen einer Grippe sind sehr plötzlich .",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.5079601407051086
+  ],
+  [
+    [
+      32,
+      21
+    ],
+    [
+      "Betroffene fühlen sich dann schnell sehr krank.",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.4333833158016205
+  ],
+  [
+    [
+      33,
+      21
+    ],
+    [
+      "Die Beschwerden sind:",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.3423715829849243
+  ],
+  [
+    [
+      34,
+      21
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen hohes Fieber",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.3381180763244629
+  ],
+  [
+    [
+      35,
+      21
+    ],
+    [
+      "Sie denken:",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.3166690170764923
+  ],
+  [
+    [
+      36,
+      21
+    ],
+    [
+      "Ich habe Anzeichen einer Grippe?",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.5268017053604126
+  ],
+  [
+    [
+      37,
+      27
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Dazu kann kommen:"
+    ],
+    0.4372110366821289
+  ],
+  [
+    [
+      38,
+      28
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Fieber bis zu 40 Grad Halsschmerzen trockener Husten tränende Augen eine rinnende Nase Übelkeit Kopf- und Gliederschmerzen Treten keine Komplikationen auf, ist die Infektion üblicherweise nach einer Dauer von wenigen Tagen bis einer Woche überstanden."
+    ],
+    0.3817192018032074
+  ],
+  [
+    [
+      39,
+      28
+    ],
+    [
+      "Eine Grippe dauert etwa eine Woche.",
+      "Fieber bis zu 40 Grad Halsschmerzen trockener Husten tränende Augen eine rinnende Nase Übelkeit Kopf- und Gliederschmerzen Treten keine Komplikationen auf, ist die Infektion üblicherweise nach einer Dauer von wenigen Tagen bis einer Woche überstanden."
+    ],
+    0.554408609867096
+  ],
+  [
+    [
+      40,
+      29
+    ],
+    [
+      "Danach geht es Ihnen langsam wieder besser.",
+      "Aber die Grippe macht uns auch anfälliger gegenüber Bakterien."
+    ],
+    0.43158701062202454
+  ],
+  [
+    [
+      41,
+      29
+    ],
+    [
+      "Aber eine Grippe schwächt den Körper.",
+      "Aber die Grippe macht uns auch anfälliger gegenüber Bakterien."
+    ],
+    0.6196596026420593
+  ],
+  [
+    [
+      42,
+      29
+    ],
+    [
+      "Deshalb können weitere Erkrankungen hinzukommen wie zum Beispiel: Lungen-Entzündung und schwerer Husten Ohren-Entzündung und Ohrenschmerzen Herzmuskel-Entzündung mit Atemnot",
+      "Aber die Grippe macht uns auch anfälliger gegenüber Bakterien."
+    ],
+    0.48840537667274475
+  ],
+  [
+    [
+      43,
+      29
+    ],
+    [
+      "Diese Folge-Erkrankungen können die Grippe gefährlich machen.",
+      "Aber die Grippe macht uns auch anfälliger gegenüber Bakterien."
+    ],
+    0.6692691445350647
+  ],
+  [
+    [
+      44,
+      33
+    ],
+    [
+      "Deshalb sollten Sie bei Grippe immer zum Arzt gehen.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.5107057690620422
+  ],
+  [
+    [
+      45,
+      33
+    ],
+    [
+      "Sprechen Sie mit einem Arzt.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.4629727303981781
+  ],
+  [
+    [
+      46,
+      33
+    ],
+    [
+      "Der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.4110430181026459
+  ],
+  [
+    [
+      47,
+      33
+    ],
+    [
+      "Vielleicht verschreibt er Ihnen spezielle Medikamente gegen die Grippe.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.4818072021007538
+  ],
+  [
+    [
+      48,
+      33
+    ],
+    [
+      "Bei Grippe helfen vor allem: viel Ruhe viel trinken Achtung:",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.31738781929016113
+  ],
+  [
+    [
+      49,
+      33
+    ],
+    [
+      "Manche Menschen mit Herzkrankheiten oder Nierenkrankheiten dürfen nur eine bestimmte Menge trinken.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.5162978768348694
+  ],
+  [
+    [
+      50,
+      33
+    ],
+    [
+      "Diese Menschen sollten deshalb vorher mit ihrem Arzt sprechen.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.49344581365585327
+  ],
+  [
+    [
+      51,
+      33
+    ],
+    [
+      "Sie haben Husten und die Nase läuft?",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.5553061366081238
+  ],
+  [
+    [
+      52,
+      33
+    ],
+    [
+      "Dann kann Inhalieren helfen.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.43952521681785583
+  ],
+  [
+    [
+      53,
+      33
+    ],
+    [
+      "Sie haben starke Schmerzen?",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.5847697854042053
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "Dann können Medikamente helfen.",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.5599839091300964
+  ],
+  [
+    [
+      55,
+      34
+    ],
+    [
+      "Sie möchten eine Grippe vermeiden?",
+      "Harmlose Erkältungskrankheiten, oft als \"grippaler Infekt\" bezeichnet, können ähnliche Symptome wie eine Grippe verursachen: Husten, eine erhöhte Körpertemperatur oder Kopfschmerzen können zum Beispiel auch hier auftreten."
+    ],
+    0.6582055687904358
+  ],
+  [
+    [
+      56,
+      36
+    ],
+    [
+      "Dann waschen Sie sich regelmäßig die Hände .",
+      "Sie gehen nur selten mit Fieber einher und führen in der Regel nur zu einer kurzzeitigen Abgeschlagenheit, die lediglich etwas Schonung bedarf."
+    ],
+    0.4986504912376404
+  ],
+  [
+    [
+      57,
+      47
+    ],
+    [
+      "Benutzen Sie zum Abtrocknen saubere Handtücher oder Papierhandtücher.",
+      "Inhalieren kann zum Beispiel bei Husten und einer laufenden Nase sinnvoll sein."
+    ],
+    0.43532636761665344
+  ],
+  [
+    [
+      58,
+      53
+    ],
+    [
+      "Gegen Grippe gibt es auch eine Impfung.",
+      "Medikamente gegen Grippe"
+    ],
+    0.6440753936767578
+  ],
+  [
+    [
+      59,
+      53
+    ],
+    [
+      "Das Influenza-Virus verändert sich dauernd.",
+      "Medikamente gegen Grippe"
+    ],
+    0.3190566301345825
+  ],
+  [
+    [
+      60,
+      53
+    ],
+    [
+      "Deshalb muss eine Impfung gegen Grippe jedes Jahr erfolgen.",
+      "Medikamente gegen Grippe"
+    ],
+    0.647138237953186
+  ],
+  [
+    [
+      61,
+      53
+    ],
+    [
+      "Manche Menschen sollten sich auf jeden Fall gegen Grippe impfen lassen:",
+      "Medikamente gegen Grippe"
+    ],
+    0.6136634945869446
+  ],
+  [
+    [
+      62,
+      57
+    ],
+    [
+      "Menschen ab 60 Jahre Diabetiker.",
+      "Alle antiviralen Medikamente sollten bereits innerhalb von 48 Stunden nach Krankheitsbeginn eingenommen beziehungsweise angewandt werden."
+    ],
+    0.43160280585289
+  ],
+  [
+    [
+      63,
+      60
+    ],
+    [
+      "Das sind Menschen mit der Zuckerkrankheit.",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.5673619508743286
+  ],
+  [
+    [
+      64,
+      60
+    ],
+    [
+      "Personen mit Immunschwäche",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.6562261581420898
+  ],
+  [
+    [
+      65,
+      60
+    ],
+    [
+      "Personen mit chronischer Lebererkrankung",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.6517309546470642
+  ],
+  [
+    [
+      66,
+      60
+    ],
+    [
+      "Personen mit chronischer Nierenerkrankung",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.6561644077301025
+  ],
+  [
+    [
+      67,
+      60
+    ],
+    [
+      "Personen mit Herzkrankheiten",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.656380832195282
+  ],
+  [
+    [
+      68,
+      67
+    ],
+    [
+      "Personen mit Atemwegserkrankungen wie zum Beispiel",
+      "Auch wenn die Impfung nicht immer die Infektion mit dem Virus verhindert, so schützt sie zum Beispiel bei Patienten mit Gefäßschäden, die an einer Grippe erkranken, ähnlich gut vor Herzinfarkten wie eine Senkung des Cholesterins im Blut."
+    ],
+    0.6913852095603943
+  ],
+  [
+    [
+      69,
+      67
+    ],
+    [
+      "Asthma",
+      "Auch wenn die Impfung nicht immer die Infektion mit dem Virus verhindert, so schützt sie zum Beispiel bei Patienten mit Gefäßschäden, die an einer Grippe erkranken, ähnlich gut vor Herzinfarkten wie eine Senkung des Cholesterins im Blut."
+    ],
+    0.36571285128593445
+  ],
+  [
+    [
+      70,
+      70
+    ],
+    [
+      "Sie wollen noch mehr über Grippe lesen?",
+      "Wenn Sie wissen möchten, ob eine Impfung gegen Influenza auch für Sie sinnvoll ist, beraten Sie sich mit Ihrem Hausarzt."
+    ],
+    0.567034125328064
+  ],
+  [
+    [
+      71,
+      70
+    ],
+    [
+      "Mehr Informationen über Grippe finden Sie hier .",
+      "Wenn Sie wissen möchten, ob eine Impfung gegen Influenza auch für Sie sinnvoll ist, beraten Sie sich mit Ihrem Hausarzt."
+    ],
+    0.495027631521225
+  ],
+  [
+    [
+      72,
+      74
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die Hände richtig waschen – unser Video zeigt, wie das geht:"
+    ],
+    0.35491323471069336
+  ],
+  [
+    [
+      73,
+      74
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Hände richtig waschen – unser Video zeigt, wie das geht:"
+    ],
+    0.38784509897232056
+  ]
+]

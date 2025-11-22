@@ -1,0 +1,673 @@
+[
+  [
+    [
+      0,
+      27
+    ],
+    [
+      "Die Pille danach kann eine ungewollte Schwangerschaft verhindern.",
+      "Apotheken können die Pille danach ohne Rezept an Frauen im gebährfähigen Alter abgeben."
+    ],
+    0.9514085650444031
+  ],
+  [
+    [
+      1,
+      27
+    ],
+    [
+      "Eine Frau kann die Pille danach in verschiedenen Situationen nehmen.",
+      "Apotheken können die Pille danach ohne Rezept an Frauen im gebährfähigen Alter abgeben."
+    ],
+    0.9205536246299744
+  ],
+  [
+    [
+      2,
+      29
+    ],
+    [
+      "Zu diesen Situationen gehören zum Beispiel: Die Frau hat die Verhütungspille vergessen.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8468878865242004
+  ],
+  [
+    [
+      3,
+      29
+    ],
+    [
+      "Die Frau nimmt die Verhütungspille.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8728682398796082
+  ],
+  [
+    [
+      4,
+      29
+    ],
+    [
+      "Und die Frau hatte einen Magen-Darm-Infekt.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8352846503257751
+  ],
+  [
+    [
+      5,
+      29
+    ],
+    [
+      "Dann wirkt die Verhütungspille nicht sicher.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.47572603821754456
+  ],
+  [
+    [
+      6,
+      66
+    ],
+    [
+      "Das Kondom ist beim Sex abgerutscht oder kaputt gegangen.",
+      "Nicht geeignet ist die Spirale danach bei einer schon bestehenden Schwangerschaft , einer Unterleibsentzündung, Fehlbildungen der Gebärmutter oder wenn diese zu klein ist."
+    ],
+    0.12482045590877533
+  ],
+  [
+    [
+      7,
+      67
+    ],
+    [
+      "Sie können die Pille danach in der Apotheke kaufen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9684845209121704
+  ],
+  [
+    [
+      8,
+      67
+    ],
+    [
+      "Für die Pille danach brauchen Sie kein Rezept vom Arzt.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9673363566398621
+  ],
+  [
+    [
+      11,
+      67
+    ],
+    [
+      "Dann bezahlt die Krankenkasse die Pille danach.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9749981760978699
+  ],
+  [
+    [
+      12,
+      67
+    ],
+    [
+      "Es gibt zwei verschiedene Arten der Pille danach.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9429160356521606
+  ],
+  [
+    [
+      13,
+      67
+    ],
+    [
+      "Die Arten haben verschiedene Wirkstoffe.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.23868237435817719
+  ],
+  [
+    [
+      14,
+      67
+    ],
+    [
+      "Die Pille danach enthält den Wirkstoff Levonorgestrel.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.967576265335083
+  ],
+  [
+    [
+      15,
+      67
+    ],
+    [
+      "Oder die Pille danach enthält den Wirkstoff Ulipristal.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9645294547080994
+  ],
+  [
+    [
+      16,
+      67
+    ],
+    [
+      "Die Pille danach verschieben den Eisprung.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9572553634643555
+  ],
+  [
+    [
+      17,
+      67
+    ],
+    [
+      "Beim Eisprung verlässt die Eizelle den Eierstock.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.13223755359649658
+  ],
+  [
+    [
+      18,
+      67
+    ],
+    [
+      "Die Eizelle wandert in den Eileiter.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.15089237689971924
+  ],
+  [
+    [
+      19,
+      67
+    ],
+    [
+      "Im Eileiter kann die Eizelle befruchtet werden.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.15032479166984558
+  ],
+  [
+    [
+      22,
+      67
+    ],
+    [
+      "Dann kann die Frau schwanger werden.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.12851834297180176
+  ],
+  [
+    [
+      23,
+      67
+    ],
+    [
+      "Die Pille danach verschiebt den Eisprung.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9570956826210022
+  ],
+  [
+    [
+      24,
+      67
+    ],
+    [
+      "Dann ist keine Eizelle im Eileiter.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.02078726328909397
+  ],
+  [
+    [
+      25,
+      67
+    ],
+    [
+      "Und die Spermien können die Eizelle nicht befruchten.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.2124754637479782
+  ],
+  [
+    [
+      26,
+      67
+    ],
+    [
+      "Nach fünf bis sieben Tagen sterben die Spermien.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.20940664410591125
+  ],
+  [
+    [
+      27,
+      67
+    ],
+    [
+      "Die Frau kann nicht schwanger werden.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.12783123552799225
+  ],
+  [
+    [
+      28,
+      67
+    ],
+    [
+      "Hinweis: Die Frau hatte in diesem Monatszyklus schon den Eisprung?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.10866960138082504
+  ],
+  [
+    [
+      29,
+      67
+    ],
+    [
+      "Oder die Frau ist schon schwanger?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.1455284208059311
+  ],
+  [
+    [
+      30,
+      67
+    ],
+    [
+      "Dann wirkt die Pille danach nicht.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9647018313407898
+  ],
+  [
+    [
+      31,
+      67
+    ],
+    [
+      "Nehmen Sie die Pille danach nur im Notfall.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9652149677276611
+  ],
+  [
+    [
+      33,
+      67
+    ],
+    [
+      "Die Pille danach ist nicht zu 100 Prozent sicher.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9747338891029358
+  ],
+  [
+    [
+      35,
+      67
+    ],
+    [
+      "Die Pille danach wirkt nur für kurze Zeit.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9679455757141113
+  ],
+  [
+    [
+      36,
+      67
+    ],
+    [
+      "Die Pille danach wirkt nicht den ganzen Monatszyklus.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9555872082710266
+  ],
+  [
+    [
+      38,
+      67
+    ],
+    [
+      "Und Sie glauben: Die Verhütung hat nicht gewirkt?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.1876281201839447
+  ],
+  [
+    [
+      39,
+      67
+    ],
+    [
+      "Dann sollten Sie die Pille danach schnell nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9639613628387451
+  ],
+  [
+    [
+      40,
+      67
+    ],
+    [
+      "In den ersten 12 Stunden nach dem Geschlechtsverkehr wirkt die Pille danach am besten.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9632502198219299
+  ],
+  [
+    [
+      41,
+      67
+    ],
+    [
+      "Sie können die Pille danach auch zwischen drei und fünf Tage nach dem Geschlechtsverkehr nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9599505662918091
+  ],
+  [
+    [
+      42,
+      67
+    ],
+    [
+      "Achtung: Sie stillen und möchten die Pille danach nehmen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.96462082862854
+  ],
+  [
+    [
+      44,
+      67
+    ],
+    [
+      "Bei dem Wirkstoff Levonogestrel dauert die Still-Pause acht Stunden.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.18512746691703796
+  ],
+  [
+    [
+      45,
+      67
+    ],
+    [
+      "Bei dem Wirkstoff Ulipristal dauert die Still-Pause eine Woche.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.18146266043186188
+  ],
+  [
+    [
+      46,
+      67
+    ],
+    [
+      "Sprechen Sie mit dem Apotheker.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.02406797930598259
+  ],
+  [
+    [
+      51,
+      67
+    ],
+    [
+      "Sie wollen die Pille danach nehmen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9656049013137817
+  ],
+  [
+    [
+      55,
+      67
+    ],
+    [
+      "Die Pille danach kann unterschiedliche Nebenwirkungen haben.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9698523283004761
+  ],
+  [
+    [
+      57,
+      67
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen der Pille danach stehen auf dem Beipackzettel.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9404754638671875
+  ],
+  [
+    [
+      59,
+      67
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen von der Pille danach gehören zum Beispiel:",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9387573599815369
+  ],
+  [
+    [
+      60,
+      67
+    ],
+    [
+      "Erbrechen Sie haben in den ersten drei Stunden nach der Einnahme von der Pille danach erbrochen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.930931568145752
+  ],
+  [
+    [
+      61,
+      67
+    ],
+    [
+      "Dann müssen sie noch eine Pille danach nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9345319867134094
+  ],
+  [
+    [
+      67,
+      67
+    ],
+    [
+      "Manche Frauen dürfen die Pille danach nicht nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9530937075614929
+  ],
+  [
+    [
+      68,
+      67
+    ],
+    [
+      "Zu diesen Frauen gehören: Frauen mit einer Allergie auf einen Inhaltsstoff der Pille danach.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.88996821641922
+  ],
+  [
+    [
+      71,
+      67
+    ],
+    [
+      "In manchen Situationen wirkt die Pille danach nicht, zum Beispiel:",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9630833268165588
+  ],
+  [
+    [
+      72,
+      69
+    ],
+    [
+      "Die Frau ist schwanger.",
+      "Als behandelnder Arzt überblickt er am besten, ob ein Mittel zur Notfallverhütung und welches individuell für die Frau geeignet ist."
+    ],
+    0.44110411405563354
+  ],
+  [
+    [
+      73,
+      72
+    ],
+    [
+      "Der Eisprung von der Frau ist in dem Monatszyklus schon vorbei.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.3813856244087219
+  ],
+  [
+    [
+      74,
+      74
+    ],
+    [
+      "Die Frau hatte öfter in einem Monatszyklus ungeschützten Sex.",
+      "Hat die Frau bislang ein Verhütungsmittel eingenommen, erklärt er ihr, wie sie nun am besten weiter vorgeht, etwa bei der Fortsetzung der Pillen-Einnahme und/oder beim zusätzlichen Empfängnisschutz (beispielsweise mit einem Kondom für den Mann) bis zum Ende des Zyklus."
+    ],
+    0.368306040763855
+  ],
+  [
+    [
+      75,
+      76
+    ],
+    [
+      "Die Spirale danach kann auch eine Schwangerschaft verhindern.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.10791698098182678
+  ],
+  [
+    [
+      76,
+      76
+    ],
+    [
+      "Die Spirale danach ist aus Kupfer.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.09496540576219559
+  ],
+  [
+    [
+      77,
+      76
+    ],
+    [
+      "Der Arzt muss die Spirale danach spätestens fünf Tage nach dem Geschlechtsverkehr einsetzten.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.1147141233086586
+  ],
+  [
+    [
+      78,
+      76
+    ],
+    [
+      "Durch die Spirale kann sich die befruchtete Eizelle nicht in die Gebärmutter einnisten.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.33866918087005615
+  ],
+  [
+    [
+      79,
+      76
+    ],
+    [
+      "Die Spirale kann drei bis fünf Jahre für die weitere Verhütung benutzt werden.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.37173935770988464
+  ],
+  [
+    [
+      80,
+      76
+    ],
+    [
+      "Manche Frauen können die Spirale nicht bekommen.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.17056095600128174
+  ],
+  [
+    [
+      81,
+      76
+    ],
+    [
+      "Zu diesen Frauen gehören: Schwangere Frauen Frauen mit einer Unterleibsentzündung Frauen mit einer Fehlbildung der Gebärmutter Frauen mit einer zu kleinen Gebärmutter",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.03212499991059303
+  ],
+  [
+    [
+      82,
+      76
+    ],
+    [
+      "Sie wollen noch mehr über die Pille danach und die Spirale danach lesen?",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.0978645458817482
+  ],
+  [
+    [
+      83,
+      76
+    ],
+    [
+      "Mehr Informationen über die Pille danach und die Spirale danach finden Sie hier .",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.09784523397684097
+  ],
+  [
+    [
+      85,
+      76
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.3574577867984772
+  ]
+]

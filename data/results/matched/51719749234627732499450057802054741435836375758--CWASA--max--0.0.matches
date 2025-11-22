@@ -1,0 +1,849 @@
+[
+  [
+    [
+      0,
+      7
+    ],
+    [
+      "Eine Person hatte einen Unfall?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.35579898953437805
+  ],
+  [
+    [
+      1,
+      7
+    ],
+    [
+      "Dann ist diese Person vielleicht bewusstlos.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.714384913444519
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Bewusstlos bedeutet: Eine Person reagiert nicht auf Ansprache und Reize.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5915780067443848
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Die Person atmet aber noch selbstständig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5495619177818298
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Die stabile Seitenlage ist eine wichtige Erste-Hilfe-Maßnahme.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.45680904388427734
+  ],
+  [
+    [
+      5,
+      16
+    ],
+    [
+      "Die stabile Seitenlage schützt bewusstlose Personen nämlich vor dem Ersticken.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.5010970830917358
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Eine Person ist bewusstlos?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6748199462890625
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Dann kann das gefährlich sein.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.5422136187553406
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Personen haben nämlich keine Schutzreflexe mehr.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4999820291996002
+  ],
+  [
+    [
+      10,
+      17
+    ],
+    [
+      "Die Personen können dann zum Beispiel nicht mehr schlucken oder würgen.",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.570122241973877
+  ],
+  [
+    [
+      11,
+      7
+    ],
+    [
+      "Die Muskulatur von bewusstlosen Personen ist nämlich schlaff.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5946409702301025
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Deshalb kann die Zunge nach hinten fallen.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.6902645230293274
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Und die Zunge kann die Atemwege verschließen.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.6253253221511841
+  ],
+  [
+    [
+      14,
+      2
+    ],
+    [
+      "Bei bewusstlosen Personen können Blut oder Erbrochenes schneller in die Atemwege gelangen.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.7116157412528992
+  ],
+  [
+    [
+      15,
+      17
+    ],
+    [
+      "Im schlimmsten Fall können die Personen daran ersticken.",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.4750554859638214
+  ],
+  [
+    [
+      16,
+      16
+    ],
+    [
+      "Die stabile Seitenlage verhindert ein Ersticken.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.4941355288028717
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "In der stabilen Seitenlage bleiben die Atemwege nämlich frei.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.5309640169143677
+  ],
+  [
+    [
+      18,
+      2
+    ],
+    [
+      "Blut oder Erbrochenes können dann nicht mehr so leicht in die Atemwege gelangen.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.7193002104759216
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Deshalb ist die stabile Seitenlage eine wichtige Erste-Hilfe-Maßnahme.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.4964733421802521
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Sie sehen einen Unfall?",
+      "Können Sie einen Luftzug oder Atemgeräusche wahrnehmen?"
+    ],
+    0.5421062707901001
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Dann sollten Sie folgende Dinge tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.5660562515258789
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Sichern Sie als erstes die Unfallstelle.",
+      "Öffnen Sie den Mund des Verletzten und entfernen Sie eventuelle Fremdkörper."
+    ],
+    0.43809160590171814
+  ],
+  [
+    [
+      23,
+      8
+    ],
+    [
+      "Rufen Sie dann den Notruf .",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.5173236727714539
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Die Notrufnummer ist: 112 .",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.37450024485588074
+  ],
+  [
+    [
+      25,
+      7
+    ],
+    [
+      "Kümmern Sie sich dann um die verletzte Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5165996551513672
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Sprechen Sie die Person zuerst an .",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.6036753058433533
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Rütteln Sie dann vorsichtig an der Schulter.",
+      "Rütteln Sie vorsichtig an seiner Schulter."
+    ],
+    0.8907997012138367
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Die betroffene Person reagiert nicht?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6592541933059692
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Dann ist die Person wahrscheinlich bewusstlos.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.7446165084838867
+  ],
+  [
+    [
+      30,
+      10
+    ],
+    [
+      "Prüfen Sie die Atmung der betroffenen Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5082342624664307
+  ],
+  [
+    [
+      31,
+      10
+    ],
+    [
+      "Kippen Sie dazu den Kopf der betroffenen Person leicht nach hinten.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.7332406044006348
+  ],
+  [
+    [
+      32,
+      10
+    ],
+    [
+      "Und heben Sie das Kinn an.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5597506761550903
+  ],
+  [
+    [
+      33,
+      11
+    ],
+    [
+      "Öffnen Sie dann den Mund der Person.",
+      "Öffnen Sie den Mund des Verletzten und entfernen Sie eventuelle Fremdkörper."
+    ],
+    0.6169998645782471
+  ],
+  [
+    [
+      34,
+      7
+    ],
+    [
+      "Ist irgendein Gegenstand im Mund?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.40372955799102783
+  ],
+  [
+    [
+      35,
+      11
+    ],
+    [
+      "Dann entfernen Sie diesen Gegenstand.",
+      "Öffnen Sie den Mund des Verletzten und entfernen Sie eventuelle Fremdkörper."
+    ],
+    0.5658319592475891
+  ],
+  [
+    [
+      36,
+      10
+    ],
+    [
+      "Lehnen Sie sich näher an die Person heran.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5038604736328125
+  ],
+  [
+    [
+      37,
+      13
+    ],
+    [
+      "Können Sie Atem-Geräusche hören?",
+      "Können Sie einen Luftzug oder Atemgeräusche wahrnehmen?"
+    ],
+    0.6119077801704407
+  ],
+  [
+    [
+      38,
+      14
+    ],
+    [
+      "Bewegt sich der Bauch?",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.45712053775787354
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die Person atmet nicht?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5731679201126099
+  ],
+  [
+    [
+      40,
+      17
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.5714776515960693
+  ],
+  [
+    [
+      41,
+      18
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.5031470060348511
+  ],
+  [
+    [
+      42,
+      7
+    ],
+    [
+      "Die Person atmet normal?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.451872318983078
+  ],
+  [
+    [
+      43,
+      16
+    ],
+    [
+      "Dann bringen Sie die betroffene Person in die stabile Seitenlage.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.5583146214485168
+  ],
+  [
+    [
+      44,
+      16
+    ],
+    [
+      "Sie möchten eine bewusstlose Person in die stabile Seitenlage bringen?",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.5943368077278137
+  ],
+  [
+    [
+      45,
+      18
+    ],
+    [
+      "Dann beachten Sie diese Dinge:",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.4429306387901306
+  ],
+  [
+    [
+      46,
+      10
+    ],
+    [
+      "1. Drehen Sie die betroffene Person zuerst auf den Rücken.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5857107639312744
+  ],
+  [
+    [
+      47,
+      14
+    ],
+    [
+      "2. Knien",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.2990376055240631
+  ],
+  [
+    [
+      48,
+      4
+    ],
+    [
+      "Sie",
+      "Das sollten Sie tun:"
+    ],
+    0.5034290552139282
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "sich neben die Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4869946539402008
+  ],
+  [
+    [
+      50,
+      14
+    ],
+    [
+      "3. Strecken",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.256267249584198
+  ],
+  [
+    [
+      51,
+      4
+    ],
+    [
+      "Sie",
+      "Das sollten Sie tun:"
+    ],
+    0.5034290552139282
+  ],
+  [
+    [
+      52,
+      10
+    ],
+    [
+      "beide Arme der betroffenen Person nach unten aus.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.4968019425868988
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Die Armen sollten neben dem Körper liegen.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.482877254486084
+  ],
+  [
+    [
+      54,
+      10
+    ],
+    [
+      "4. Nehmen Sie dann den näheren Arm.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5069905519485474
+  ],
+  [
+    [
+      55,
+      10
+    ],
+    [
+      "Sie sitzen links neben der Person?",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.49062103033065796
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Dann nehmen Sie den linken Arm.",
+      "Öffnen Sie den Mund des Verletzten und entfernen Sie eventuelle Fremdkörper."
+    ],
+    0.492114782333374
+  ],
+  [
+    [
+      57,
+      10
+    ],
+    [
+      "Sie sitzen rechts neben der Person?",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.4984138309955597
+  ],
+  [
+    [
+      58,
+      11
+    ],
+    [
+      "Dann nehmen Sie den rechten Arm.",
+      "Öffnen Sie den Mund des Verletzten und entfernen Sie eventuelle Fremdkörper."
+    ],
+    0.5121802091598511
+  ],
+  [
+    [
+      59,
+      10
+    ],
+    [
+      "Legen Sie den Arm angewinkelt nach oben.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5535110235214233
+  ],
+  [
+    [
+      60,
+      1
+    ],
+    [
+      "Die Handfläche zeigt nach oben.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.49995720386505127
+  ],
+  [
+    [
+      61,
+      10
+    ],
+    [
+      "5. Legen Sie den anderen Arm quer über die Brust.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5267826914787292
+  ],
+  [
+    [
+      62,
+      10
+    ],
+    [
+      "Legen Sie den Handrücken an die Wange der verletzten Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.6743012070655823
+  ],
+  [
+    [
+      63,
+      10
+    ],
+    [
+      "6. Ziehen Sie mit Ihrer freien Hand das entfernte Bein zu sich.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5190806984901428
+  ],
+  [
+    [
+      64,
+      17
+    ],
+    [
+      "Rollen Sie die Person vorsichtig auf die Seite.",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.5794007778167725
+  ],
+  [
+    [
+      65,
+      10
+    ],
+    [
+      "7. Lagern Sie das obere Bein in einem rechten Winkel zur Hüfte der betroffenen Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.6222472190856934
+  ],
+  [
+    [
+      66,
+      10
+    ],
+    [
+      "Das Bein hält die verletzte Person stabil auf der Seite.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.46685272455215454
+  ],
+  [
+    [
+      67,
+      10
+    ],
+    [
+      "8. Kippen Sie den Kopf der betroffenen Person leicht nach hinten.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.761001706123352
+  ],
+  [
+    [
+      68,
+      10
+    ],
+    [
+      "Nutzen Sie dafür die Hand unter der Wange der betroffenen Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5700578093528748
+  ],
+  [
+    [
+      69,
+      3
+    ],
+    [
+      "Der Kopf soll nicht mehr verrutschen.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.4488789439201355
+  ],
+  [
+    [
+      70,
+      14
+    ],
+    [
+      "Prüfen Sie immer wieder:",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.4657139182090759
+  ],
+  [
+    [
+      71,
+      7
+    ],
+    [
+      "Atmet die betroffene Person noch?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5072672367095947
+  ],
+  [
+    [
+      72,
+      10
+    ],
+    [
+      "Bleiben Sie bei der verletzten Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.4825390577316284
+  ],
+  [
+    [
+      73,
+      14
+    ],
+    [
+      "Warten Sie auf die Rettungskräfte.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.5079271197319031
+  ],
+  [
+    [
+      74,
+      16
+    ],
+    [
+      "Sie wollen noch mehr über die stabile Seitenlage lesen?",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.48482513427734375
+  ],
+  [
+    [
+      75,
+      16
+    ],
+    [
+      "Mehr Informationen über die stabile Seitenlage finden Sie hier.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.4543730616569519
+  ],
+  [
+    [
+      76,
+      18
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.3274202048778534
+  ],
+  [
+    [
+      77,
+      7
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4895556569099426
+  ]
+]

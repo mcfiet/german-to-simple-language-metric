@@ -1,0 +1,948 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Pille danach kann eine ungewollte Schwangerschaft verhindern.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.6863925457000732
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Eine Frau kann die Pille danach in verschiedenen Situationen nehmen.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.6065922975540161
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zu diesen Situationen gehören zum Beispiel: Die Frau hat die Verhütungspille vergessen.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.46807268261909485
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Frau nimmt die Verhütungspille.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.3437648117542267
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Und die Frau hatte einen Magen-Darm-Infekt.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.4115976095199585
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Dann wirkt die Verhütungspille nicht sicher.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.7398629188537598
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das Kondom ist beim Sex abgerutscht oder kaputt gegangen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.6837011575698853
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Sie können die Pille danach in der Apotheke kaufen.",
+      "Oder ein Magen-Darm-Infekt kam Ihnen in die Quere und Sie befürchten, dass die Pille deshalb nicht mehr wirkt?"
+    ],
+    0.7572934031486511
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Für die Pille danach brauchen Sie kein Rezept vom Arzt.",
+      "Oder ein Magen-Darm-Infekt kam Ihnen in die Quere und Sie befürchten, dass die Pille deshalb nicht mehr wirkt?"
+    ],
+    0.6094123125076294
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Sie sind unter 20 Jahre alt?",
+      "Verhütungspannen und -notfälle sind schnell passiert."
+    ],
+    0.2190925031900406
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Und Sie haben ein Rezept von einem Arzt?",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.4651835858821869
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Dann bezahlt die Krankenkasse die Pille danach.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.5774655938148499
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Es gibt zwei verschiedene Arten der Pille danach.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.6014406085014343
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Die Arten haben verschiedene Wirkstoffe.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.6577252745628357
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Die Pille danach enthält den Wirkstoff Levonorgestrel.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.7021163702011108
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Oder die Pille danach enthält den Wirkstoff Ulipristal.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.7732292413711548
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Die Pille danach verschieben den Eisprung.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.7436049580574036
+  ],
+  [
+    [
+      17,
+      11
+    ],
+    [
+      "Beim Eisprung verlässt die Eizelle den Eierstock.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.7140751481056213
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Die Eizelle wandert in den Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7628702521324158
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Im Eileiter kann die Eizelle befruchtet werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.4866199791431427
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Eine Frau hat ihren Eisprung?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.2207988053560257
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Oder eine Frau hat in wenigen Tagen ihren Eisprung?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.6441986560821533
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Dann kann die Frau schwanger werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5245159864425659
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Die Pille danach verschiebt den Eisprung.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.6419588327407837
+  ],
+  [
+    [
+      24,
+      13
+    ],
+    [
+      "Dann ist keine Eizelle im Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.32715490460395813
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Und die Spermien können die Eizelle nicht befruchten.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7240135073661804
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Nach fünf bis sieben Tagen sterben die Spermien.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.6381952166557312
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Die Frau kann nicht schwanger werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5223739743232727
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Hinweis: Die Frau hatte in diesem Monatszyklus schon den Eisprung?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7091299295425415
+  ],
+  [
+    [
+      29,
+      18
+    ],
+    [
+      "Oder die Frau ist schon schwanger?",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.6482155919075012
+  ],
+  [
+    [
+      30,
+      18
+    ],
+    [
+      "Dann wirkt die Pille danach nicht.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.5726051926612854
+  ],
+  [
+    [
+      31,
+      18
+    ],
+    [
+      "Nehmen Sie die Pille danach nur im Notfall.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.4013007581233978
+  ],
+  [
+    [
+      32,
+      18
+    ],
+    [
+      "Achten Sie auf eine sichere Verhütung.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.324665367603302
+  ],
+  [
+    [
+      33,
+      18
+    ],
+    [
+      "Die Pille danach ist nicht zu 100 Prozent sicher.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.43513423204421997
+  ],
+  [
+    [
+      34,
+      18
+    ],
+    [
+      "Manche Frauen werden trotzdem schwanger.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.8053259253501892
+  ],
+  [
+    [
+      35,
+      20
+    ],
+    [
+      "Die Pille danach wirkt nur für kurze Zeit.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.6724953055381775
+  ],
+  [
+    [
+      36,
+      20
+    ],
+    [
+      "Die Pille danach wirkt nicht den ganzen Monatszyklus.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.8137001991271973
+  ],
+  [
+    [
+      37,
+      23
+    ],
+    [
+      "Sie hatten Geschlechtsverkehrt?",
+      "LNG sollte daher möglichst innerhalb von zwölf Stunden und nicht später als drei Tage nach der (mutmaßlichen) Verhütungspanne eingenommen werden."
+    ],
+    0.28307417035102844
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Und Sie glauben: Die Verhütung hat nicht gewirkt?",
+      "LNG sollte daher möglichst innerhalb von zwölf Stunden und nicht später als drei Tage nach der (mutmaßlichen) Verhütungspanne eingenommen werden."
+    ],
+    0.45418134331703186
+  ],
+  [
+    [
+      39,
+      23
+    ],
+    [
+      "Dann sollten Sie die Pille danach schnell nehmen.",
+      "LNG sollte daher möglichst innerhalb von zwölf Stunden und nicht später als drei Tage nach der (mutmaßlichen) Verhütungspanne eingenommen werden."
+    ],
+    0.5601884126663208
+  ],
+  [
+    [
+      40,
+      23
+    ],
+    [
+      "In den ersten 12 Stunden nach dem Geschlechtsverkehr wirkt die Pille danach am besten.",
+      "LNG sollte daher möglichst innerhalb von zwölf Stunden und nicht später als drei Tage nach der (mutmaßlichen) Verhütungspanne eingenommen werden."
+    ],
+    0.5137104392051697
+  ],
+  [
+    [
+      41,
+      23
+    ],
+    [
+      "Sie können die Pille danach auch zwischen drei und fünf Tage nach dem Geschlechtsverkehr nehmen.",
+      "LNG sollte daher möglichst innerhalb von zwölf Stunden und nicht später als drei Tage nach der (mutmaßlichen) Verhütungspanne eingenommen werden."
+    ],
+    0.8352622389793396
+  ],
+  [
+    [
+      42,
+      38
+    ],
+    [
+      "Achtung: Sie stillen und möchten die Pille danach nehmen?",
+      "Alternativ bietet sich dann die Spirale danach an (mehr dazu weiter unten)."
+    ],
+    0.7131407260894775
+  ],
+  [
+    [
+      43,
+      41
+    ],
+    [
+      "Dann müssen Sie eine Still-Pause machen.",
+      "Stillt eine Frau, muss sie nach Anwendung von UPA eine einwöchige Stillpause mit Abpumpen und Entsorgen der Milch einlegen."
+    ],
+    0.6520505547523499
+  ],
+  [
+    [
+      44,
+      49
+    ],
+    [
+      "Bei dem Wirkstoff Levonogestrel dauert die Still-Pause acht Stunden.",
+      "Bei Erbrechen innerhalb von drei Stunden nach der Einnahme sollte unbedingt eine weitere Tablette eingenommen werden."
+    ],
+    0.8040373921394348
+  ],
+  [
+    [
+      45,
+      49
+    ],
+    [
+      "Bei dem Wirkstoff Ulipristal dauert die Still-Pause eine Woche.",
+      "Bei Erbrechen innerhalb von drei Stunden nach der Einnahme sollte unbedingt eine weitere Tablette eingenommen werden."
+    ],
+    0.7948125600814819
+  ],
+  [
+    [
+      46,
+      51
+    ],
+    [
+      "Sprechen Sie mit dem Apotheker.",
+      "Befürchtet eine Frau nach dem Gang der Dinge von vornherein, schwanger zu sein, auch weil etwa die nächste Regelblutung nicht innerhalb einer Woche nach dem erwarteten Zeitpunkt einsetzt, zudem vielleicht Brustspannen und morgendliche Übelkeit auftreten, ist vor der Einnahme der Pille danach, insbesondere UPA, ein Schwangerschaftstest angebracht."
+    ],
+    0.4591563045978546
+  ],
+  [
+    [
+      47,
+      56
+    ],
+    [
+      "Der Apotheker gibt Ihnen alle Informationen.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.43151411414146423
+  ],
+  [
+    [
+      48,
+      56
+    ],
+    [
+      "Hinweis: Dieser Text gibt nur allgemeine Informationen.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.6364423036575317
+  ],
+  [
+    [
+      49,
+      56
+    ],
+    [
+      "Er ersetzt nicht den Beipackzettel des Medikaments.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.5668681859970093
+  ],
+  [
+    [
+      50,
+      56
+    ],
+    [
+      "Und er ersetzt nicht das Gespräch mit Ihrem Arzt.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.5557456016540527
+  ],
+  [
+    [
+      51,
+      59
+    ],
+    [
+      "Sie wollen die Pille danach nehmen?",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.7116561532020569
+  ],
+  [
+    [
+      52,
+      59
+    ],
+    [
+      "Dann lesen Sie den Beipackzettel.",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.5738046169281006
+  ],
+  [
+    [
+      53,
+      59
+    ],
+    [
+      "Dort finden Sie genaue Informationen.",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.6875899434089661
+  ],
+  [
+    [
+      54,
+      59
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt oder Apotheker.",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.6041365265846252
+  ],
+  [
+    [
+      55,
+      60
+    ],
+    [
+      "Die Pille danach kann unterschiedliche Nebenwirkungen haben.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.6327776908874512
+  ],
+  [
+    [
+      56,
+      61
+    ],
+    [
+      "Das bedeutet: Das Medikament kann unerwünschte Folgen haben.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.2656347155570984
+  ],
+  [
+    [
+      57,
+      61
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen der Pille danach stehen auf dem Beipackzettel.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.49102747440338135
+  ],
+  [
+    [
+      58,
+      61
+    ],
+    [
+      "In diesem Text sind nicht alle Nebenwirkungen aufgelistet.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.3743937015533447
+  ],
+  [
+    [
+      59,
+      61
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen von der Pille danach gehören zum Beispiel:",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.38433215022087097
+  ],
+  [
+    [
+      60,
+      61
+    ],
+    [
+      "Erbrechen Sie haben in den ersten drei Stunden nach der Einnahme von der Pille danach erbrochen?",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.6572262644767761
+  ],
+  [
+    [
+      61,
+      61
+    ],
+    [
+      "Dann müssen sie noch eine Pille danach nehmen.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.4076944589614868
+  ],
+  [
+    [
+      62,
+      61
+    ],
+    [
+      "Kopfschmerzen",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.20259055495262146
+  ],
+  [
+    [
+      63,
+      61
+    ],
+    [
+      "Schwindel Übelkeit",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.25868716835975647
+  ],
+  [
+    [
+      64,
+      61
+    ],
+    [
+      "Spannen in der Brust",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.727946937084198
+  ],
+  [
+    [
+      65,
+      61
+    ],
+    [
+      "Schmerzen bei der Regelblutung Verspätung der nächsten Regelblutung Schmierblutungen",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.6080300807952881
+  ],
+  [
+    [
+      66,
+      61
+    ],
+    [
+      "Stärkere oder schwächere Blutungen",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.30836328864097595
+  ],
+  [
+    [
+      67,
+      61
+    ],
+    [
+      "Manche Frauen dürfen die Pille danach nicht nehmen.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.407590389251709
+  ],
+  [
+    [
+      68,
+      61
+    ],
+    [
+      "Zu diesen Frauen gehören: Frauen mit einer Allergie auf einen Inhaltsstoff der Pille danach.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.49181583523750305
+  ],
+  [
+    [
+      69,
+      61
+    ],
+    [
+      "Frauen mit Leber-Erkrankungen oder Nierenerkrankungen.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.28972023725509644
+  ],
+  [
+    [
+      70,
+      61
+    ],
+    [
+      "Frauen mit starkem Übergewicht.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.2977465093135834
+  ],
+  [
+    [
+      71,
+      61
+    ],
+    [
+      "In manchen Situationen wirkt die Pille danach nicht, zum Beispiel:",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.6369931697845459
+  ],
+  [
+    [
+      72,
+      61
+    ],
+    [
+      "Die Frau ist schwanger.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.405202716588974
+  ],
+  [
+    [
+      73,
+      61
+    ],
+    [
+      "Der Eisprung von der Frau ist in dem Monatszyklus schon vorbei.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.7074957489967346
+  ],
+  [
+    [
+      74,
+      61
+    ],
+    [
+      "Die Frau hatte öfter in einem Monatszyklus ungeschützten Sex.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.5374112129211426
+  ],
+  [
+    [
+      75,
+      66
+    ],
+    [
+      "Die Spirale danach kann auch eine Schwangerschaft verhindern.",
+      "Nicht geeignet ist die Spirale danach bei einer schon bestehenden Schwangerschaft , einer Unterleibsentzündung, Fehlbildungen der Gebärmutter oder wenn diese zu klein ist."
+    ],
+    0.8151140213012695
+  ],
+  [
+    [
+      76,
+      67
+    ],
+    [
+      "Die Spirale danach ist aus Kupfer.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.6422814726829529
+  ],
+  [
+    [
+      77,
+      74
+    ],
+    [
+      "Der Arzt muss die Spirale danach spätestens fünf Tage nach dem Geschlechtsverkehr einsetzten.",
+      "Hat die Frau bislang ein Verhütungsmittel eingenommen, erklärt er ihr, wie sie nun am besten weiter vorgeht, etwa bei der Fortsetzung der Pillen-Einnahme und/oder beim zusätzlichen Empfängnisschutz (beispielsweise mit einem Kondom für den Mann) bis zum Ende des Zyklus."
+    ],
+    0.7191854119300842
+  ],
+  [
+    [
+      78,
+      76
+    ],
+    [
+      "Durch die Spirale kann sich die befruchtete Eizelle nicht in die Gebärmutter einnisten.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.7499602437019348
+  ],
+  [
+    [
+      79,
+      76
+    ],
+    [
+      "Die Spirale kann drei bis fünf Jahre für die weitere Verhütung benutzt werden.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.5677598118782043
+  ],
+  [
+    [
+      80,
+      76
+    ],
+    [
+      "Manche Frauen können die Spirale nicht bekommen.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.6187379956245422
+  ],
+  [
+    [
+      81,
+      76
+    ],
+    [
+      "Zu diesen Frauen gehören: Schwangere Frauen Frauen mit einer Unterleibsentzündung Frauen mit einer Fehlbildung der Gebärmutter Frauen mit einer zu kleinen Gebärmutter",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.591221809387207
+  ],
+  [
+    [
+      82,
+      76
+    ],
+    [
+      "Sie wollen noch mehr über die Pille danach und die Spirale danach lesen?",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.6277862787246704
+  ],
+  [
+    [
+      83,
+      76
+    ],
+    [
+      "Mehr Informationen über die Pille danach und die Spirale danach finden Sie hier .",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.681304395198822
+  ],
+  [
+    [
+      84,
+      76
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.4921930134296417
+  ],
+  [
+    [
+      85,
+      76
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Darüber hinaus kann man sich in einer der anerkannten Beratungsstellen für Familie, Partnerschaft und Verhütung, die verschiedene Träger und Sozialdienste in Deutschland anbieten, Rat holen, im Notfall zum Beispiel auch beim Frauennotruf."
+    ],
+    0.7101778984069824
+  ]
+]

@@ -1,0 +1,1344 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie ziehen nach Köln um?",
+      "Sie ziehen um nach Köln?"
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann müssen Sie Ihre neue Adresse bei uns anmelden.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.7755957841873169
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Bis wann muss ich meinen neuen Wohnsitz anmelden?",
+      "Benötigt werden Personalausweis Reisepass falls vorhanden oder wenn Sie keinen Personalausweis besitzen."
+    ],
+    0.35809749364852905
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Spätestens 2 Wochen nach dem Umzug zur neuen Adresse müssen Sie sich anmelden.",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.42326486110687256
+  ],
+  [
+    [
+      4,
+      8
+    ],
+    [
+      "Wo melde ich meinen Wohnsitz an?",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.23040613532066345
+  ],
+  [
+    [
+      5,
+      8
+    ],
+    [
+      "Ihren neuen Wohnsitz melden Sie dort an: im Kunden-Zentrum Innenstadt oder in einem anderen Kunden-Zentrum in Köln",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.4931921660900116
+  ],
+  [
+    [
+      6,
+      8
+    ],
+    [
+      "Die Adressen von allen Kunden-Zentren in Köln finden Sie unter der Überschrift: Weitere Infos.",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.5428124666213989
+  ],
+  [
+    [
+      7,
+      8
+    ],
+    [
+      "Was brauche ich für das Anmelden von meinem Wohnsitz?",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.35168585181236267
+  ],
+  [
+    [
+      8,
+      8
+    ],
+    [
+      "Sie brauchen dazu: Ihren Personal-Ausweis oder Ihren Reise-Pass die Ausweise von allen Personen, die mit Ihnen umziehen das Anmelde-Formular Bestätigung vom Vermieter oder der Vermieterin.",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.6648873686790466
+  ],
+  [
+    [
+      9,
+      9
+    ],
+    [
+      "Der Vermieter oder die Vermieterin muss die Bestätigung ausfüllen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.49033501744270325
+  ],
+  [
+    [
+      10,
+      9
+    ],
+    [
+      "Sie müssen die Bestätigung 2 Wochen nach Ihrem Umzug ausfüllen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5008567571640015
+  ],
+  [
+    [
+      11,
+      9
+    ],
+    [
+      "Dann müssen Sie die Bestätigung im Amt abgeben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5404415130615234
+  ],
+  [
+    [
+      12,
+      9
+    ],
+    [
+      "Wenn Sie keine Wohnung mieten , sondern in Ihre eigene Wohnung ziehen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5212041139602661
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Oder in ein eigenes Haus ziehen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.278952956199646
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Dann müssen Sie die Bestätigung nicht abgeben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6322029829025269
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "Sondern dann müssen Sie diese Papiere abgeben:",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5154494643211365
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "1 Auszug aus dem Grund-Buch.",
+      "Für den Zuzug Minderjähriger mit nur einem Elternteil, ist das Einverständnis des anderen Elternteils erforderlich."
+    ],
+    0.2844048738479614
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Das Grund-Buch ist eine Liste mit: allen Grund-Stücken allen Eigentümern Ihr Name steht im Grund-Buch:",
+      "Für den Zuzug Minderjähriger mit nur einem Elternteil, ist das Einverständnis des anderen Elternteils erforderlich."
+    ],
+    0.44947725534439087
+  ],
+  [
+    [
+      18,
+      14
+    ],
+    [
+      "Wenn Sie eine Wohnung kaufen.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.42348724603652954
+  ],
+  [
+    [
+      19,
+      14
+    ],
+    [
+      "Oder wenn Sie ein Haus kaufen.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3011466860771179
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Oder wenn Sie ein Grund-Stück kaufen.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3202592432498932
+  ],
+  [
+    [
+      21,
+      14
+    ],
+    [
+      "Sie müssen uns 1",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3540378510951996
+  ],
+  [
+    [
+      22,
+      14
+    ],
+    [
+      "Kopie vom Grund-Buch zeigen.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3809049725532532
+  ],
+  [
+    [
+      23,
+      14
+    ],
+    [
+      "Oder Ihren Vertrag mit dem Notar.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.38786566257476807
+  ],
+  [
+    [
+      24,
+      14
+    ],
+    [
+      "Ein Notar ist eine Person.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3278280794620514
+  ],
+  [
+    [
+      25,
+      14
+    ],
+    [
+      "Die Person macht für Sie einen Vertrag.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.4904513359069824
+  ],
+  [
+    [
+      26,
+      14
+    ],
+    [
+      "Oder schreibt für Sie eine Urkunde.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.37617024779319763
+  ],
+  [
+    [
+      27,
+      14
+    ],
+    [
+      "Zum Beispiel: Wenn Sie ein Haus kaufen.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.33001524209976196
+  ],
+  [
+    [
+      28,
+      14
+    ],
+    [
+      "Dann machen Sie einen Notar-Vertrag.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.48445987701416016
+  ],
+  [
+    [
+      29,
+      14
+    ],
+    [
+      "Sie müssen uns 1",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3540378510951996
+  ],
+  [
+    [
+      30,
+      14
+    ],
+    [
+      "Kopie von diesem Vertrag zeigen.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.39837250113487244
+  ],
+  [
+    [
+      31,
+      14
+    ],
+    [
+      "Wie melde ich meinen Wohnsitz an?",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.2168464958667755
+  ],
+  [
+    [
+      32,
+      14
+    ],
+    [
+      "Sie füllen das Anmelde-Formular aus.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3861241042613983
+  ],
+  [
+    [
+      33,
+      14
+    ],
+    [
+      "Das können Sie im Internet tun.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.43573081493377686
+  ],
+  [
+    [
+      34,
+      14
+    ],
+    [
+      "Die Formulare sind in Alltags-Sprache .",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.3796495497226715
+  ],
+  [
+    [
+      35,
+      14
+    ],
+    [
+      "Wenn Sie beim Ausfüllen Hilfe brauchen, fragen Sie uns danach.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.46551820635795593
+  ],
+  [
+    [
+      36,
+      14
+    ],
+    [
+      "Drucken Sie bitte das Anmelde-Formular und das Bei-Blatt nach dem Ausfüllen aus.",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.4275853633880615
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Wichtig: Sie müssen beide Formulare unterschreiben .",
+      "Den Vordruck \"Einverständniserklärung der Sorgeberechtigten\" finden Sie im Downloadservice."
+    ],
+    0.5025023818016052
+  ],
+  [
+    [
+      38,
+      22
+    ],
+    [
+      "Sie müssen zu uns ins Kunden-Zentrum kommen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.4028414189815521
+  ],
+  [
+    [
+      39,
+      22
+    ],
+    [
+      "Sie müssen beide Formulare und alle anderen Papiere mitbringen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.3937075138092041
+  ],
+  [
+    [
+      40,
+      22
+    ],
+    [
+      "Wenn Sie aus dem Ausland zuziehen",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.47961488366127014
+  ],
+  [
+    [
+      41,
+      22
+    ],
+    [
+      "Wenn Sie aus dem Ausland nach Köln ziehen, müssen Sie uns auch diese Papiere zeigen: Ihren Pass von dem Land, aus dem Sie kommen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.4827846884727478
+  ],
+  [
+    [
+      42,
+      22
+    ],
+    [
+      "Mit diesem Pass müssen Sie uns eine Aufenthalts-Genehmigung oder ein Visum zeigen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.4462977647781372
+  ],
+  [
+    [
+      43,
+      22
+    ],
+    [
+      "Das ist eine Erlaubnis, dass Sie in Deutschland wohnen dürfen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.5026810765266418
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Als verheirateter Mensch oder als Mensch, der in einer Lebens-Partnerschaft lebt, brauchen Sie dann zusätzlich:",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.5439041256904602
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Ehe-Urkunde / Kopie aus dem Ehe-Register oder Lebens-Partnerschafts-Urkunde",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.5772839784622192
+  ],
+  [
+    [
+      46,
+      24
+    ],
+    [
+      "Geburts-Urkunden von Ihren Kindern , die mit Ihnen umziehen.",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.4494349956512451
+  ],
+  [
+    [
+      47,
+      24
+    ],
+    [
+      "Deren Geburts-Urkunden brauchen Sie, wenn diese unter 18 Jahre alt sind.",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.49151718616485596
+  ],
+  [
+    [
+      48,
+      24
+    ],
+    [
+      "Wichtig: Wenn Sie Urkunden aus dem Ausland vorzeigen müssen, beachten Sie bitte: Ausländische Urkunden in anderen Sprachen müssen ins Deutsche übersetzt werden.",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.614874541759491
+  ],
+  [
+    [
+      49,
+      25
+    ],
+    [
+      "Zum Beispiel: Ihre Urkunde aus der Türkei ist in türkischer Sprache.",
+      "Außerdem benötigen wir die Geburtsurkunden (Auszug aus dem Geburtsregister) Ihrer ebenfalls zuziehenden minderjährigen Kinder."
+    ],
+    0.4622229039669037
+  ],
+  [
+    [
+      50,
+      26
+    ],
+    [
+      "Für das Amt in Deutschland muss die Urkunde in deutsche Sprache übersetzt werden.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.45821866393089294
+  ],
+  [
+    [
+      51,
+      26
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5989543795585632
+  ],
+  [
+    [
+      52,
+      26
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5983803868293762
+  ],
+  [
+    [
+      53,
+      26
+    ],
+    [
+      "Also ein Experte mit Ausbildung.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.2715100944042206
+  ],
+  [
+    [
+      54,
+      26
+    ],
+    [
+      "Es ist nicht möglich, die Urkunden selbst zu übersetzen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.47317251563072205
+  ],
+  [
+    [
+      55,
+      26
+    ],
+    [
+      "Auch wenn Sie die Sprache gut beherrschen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.43349385261535645
+  ],
+  [
+    [
+      56,
+      26
+    ],
+    [
+      "Es sind nur Übersetzungen von diesen Experten erlaubt.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.4576222002506256
+  ],
+  [
+    [
+      57,
+      26
+    ],
+    [
+      "Wer Experte ist, legt der Staat fest.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.34949105978012085
+  ],
+  [
+    [
+      58,
+      26
+    ],
+    [
+      "Er prüft die Übersetzer und Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.501249372959137
+  ],
+  [
+    [
+      59,
+      26
+    ],
+    [
+      "Dann gibt er Ihnen eine offizielle Arbeits-Erlaubnis.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.4345336854457855
+  ],
+  [
+    [
+      60,
+      27
+    ],
+    [
+      "Das schwere Wort dafür ist: \"öffentlich bestellt oder beeidigt\".",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.5469938516616821
+  ],
+  [
+    [
+      61,
+      28
+    ],
+    [
+      "Das heißt: Der Staat hat sie geprüft.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.3169870376586914
+  ],
+  [
+    [
+      62,
+      28
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.40442541241645813
+  ],
+  [
+    [
+      63,
+      28
+    ],
+    [
+      "Wichtig: Urkunden und Übersetzungen müssen im Original vorgelegt werden.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.936261773109436
+  ],
+  [
+    [
+      64,
+      28
+    ],
+    [
+      "Sie können keine Kopien abgeben.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.4734213352203369
+  ],
+  [
+    [
+      65,
+      29
+    ],
+    [
+      "Wichtig ist auch: Wenn Sie aus dem Ausland nach Deutschland ziehen, müssen Sie selbst zu uns kommen.",
+      "Zudem ist es bei Zuzug aus dem Ausland nicht möglich, dass an Ihrer Stelle eine bevollmächtigte Person vorspricht."
+    ],
+    0.5361829400062561
+  ],
+  [
+    [
+      66,
+      31
+    ],
+    [
+      "Dann können Sie keine Vollmacht für eine andere Person schreiben.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.4700973927974701
+  ],
+  [
+    [
+      67,
+      31
+    ],
+    [
+      "Was ist, wenn ich zum Anmelden nicht selber kommen kann?",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.292104572057724
+  ],
+  [
+    [
+      68,
+      31
+    ],
+    [
+      "Wenn Sie innerhalb von Deutschland umziehen, dann kann jemand anderes für Sie zu uns kommen.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.4047985076904297
+  ],
+  [
+    [
+      69,
+      31
+    ],
+    [
+      "Diesem Menschen müssen Sie vertrauen.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.3254430592060089
+  ],
+  [
+    [
+      70,
+      31
+    ],
+    [
+      "Sie müssen diesem Menschen schriftlich erlauben, für Sie zum Anmelden von Ihrem Wohnsitz zu uns zu kommen.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.4501551687717438
+  ],
+  [
+    [
+      71,
+      31
+    ],
+    [
+      "Diese Erlaubnis heißt Vollmacht .",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.35602056980133057
+  ],
+  [
+    [
+      72,
+      31
+    ],
+    [
+      "Eine Vollmacht ist ein Papier.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.3160174489021301
+  ],
+  [
+    [
+      73,
+      31
+    ],
+    [
+      "Auf dem Papier erlauben Sie einem Menschen, etwas für Sie zu tun.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.34352487325668335
+  ],
+  [
+    [
+      74,
+      31
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.2774776220321655
+  ],
+  [
+    [
+      75,
+      31
+    ],
+    [
+      "Sie müssen das Papier unterschreiben.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.36226314306259155
+  ],
+  [
+    [
+      76,
+      31
+    ],
+    [
+      "Zum Beispiel können Sie Ihrem besten Freund eine Vollmacht schreiben:",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.47558486461639404
+  ],
+  [
+    [
+      77,
+      31
+    ],
+    [
+      "Damit Ihr Freund Ihren Personal-Ausweis bei der Behörde abholt.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.49703890085220337
+  ],
+  [
+    [
+      78,
+      34
+    ],
+    [
+      "Sie können das nämlich nicht selber tun, weil Sie zum Beispiel krank im Bett liegen.",
+      "Im Voraus ausgestellte Bescheinigungen mit einem in der Zukunft liegenden Einzugsdatum können wir nicht anerkennen."
+    ],
+    0.49642521142959595
+  ],
+  [
+    [
+      79,
+      35
+    ],
+    [
+      "Der Mensch, der für Sie zu uns kommt, muss uns die Vollmacht zeigen.",
+      "Aus der Bescheinigung muss auch die Eigentümerin oder der Eigentümer der Wohnung hervorgehen."
+    ],
+    0.5139336585998535
+  ],
+  [
+    [
+      80,
+      36
+    ],
+    [
+      "Er muss uns auch seinen Personal-Ausweis oder Reise-Pass zeigen.",
+      "Demnächst können Vermieterinnen und Vermieter den Einzug der Meldebehörde auch elektronisch bestätigen."
+    ],
+    0.47377270460128784
+  ],
+  [
+    [
+      81,
+      37
+    ],
+    [
+      "Wenn Sie aus dem Ausland nach Deutschland ziehen, müssen Sie selbst zu uns kommen.",
+      "An den hierfür erforderlichen technischen Voraussetzungen arbeiten wir derzeit."
+    ],
+    0.40503549575805664
+  ],
+  [
+    [
+      82,
+      38
+    ],
+    [
+      "Wie lasse ich meine Adresse",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.462565541267395
+  ],
+  [
+    [
+      83,
+      38
+    ],
+    [
+      "Im Personal-Ausweis ändern?",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.17117252945899963
+  ],
+  [
+    [
+      84,
+      38
+    ],
+    [
+      "Dazu müssen Sie nichts weiter tun.",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.29856929183006287
+  ],
+  [
+    [
+      85,
+      38
+    ],
+    [
+      "Wir ändern diese Angaben, wenn Sie Ihren neuen Wohnsitz bei uns anmelden.",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.34528234601020813
+  ],
+  [
+    [
+      86,
+      38
+    ],
+    [
+      "Wie kann ich mein Auto oder Motor-Rad umschreiben lassen?",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.4362242817878723
+  ],
+  [
+    [
+      87,
+      39
+    ],
+    [
+      "Sie ziehen von einer anderen Stadt in Deutschland nach Köln um?",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.46627143025398254
+  ],
+  [
+    [
+      88,
+      39
+    ],
+    [
+      "Dann können Sie gleichzeitig mit dem Anmelden von Ihrem Wohnsitz Ihr Auto auf die neue Adresse umschreiben lassen.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.5516412854194641
+  ],
+  [
+    [
+      89,
+      39
+    ],
+    [
+      "Oder Ihr Motor-Rad.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.20819222927093506
+  ],
+  [
+    [
+      90,
+      41
+    ],
+    [
+      "Dazu müssen Sie zu einer dieser Stellen kommen:",
+      "Sollten Sie aufgrund der Corona-Schutzmaßnahmen keinen zeitnahen Termin in einem Kundenzentrum Ihrer Wahl erhalten, entstehen Ihnen hierdurch keine Nachteile."
+    ],
+    0.4711401164531708
+  ],
+  [
+    [
+      91,
+      42
+    ],
+    [
+      "Kunden-Zentrum Innenstadt KFZ -Zulassungs-Stelle Poll.",
+      "Bitte vereinbaren Sie einen Termin in einem Kundenzentrum Ihrer Wahl."
+    ],
+    0.28322505950927734
+  ],
+  [
+    [
+      92,
+      43
+    ],
+    [
+      "Das ist die Stelle, welche die Zulassung von Autos und Motor-Rädern regelt.",
+      "Dort wird auch die Änderung der Anschrift im Personalausweis vorgenommen."
+    ],
+    0.49239832162857056
+  ],
+  [
+    [
+      93,
+      51
+    ],
+    [
+      "Achtung: Sie können nur Montag bis Freitag zu uns kommen.",
+      "Sollten Sie aufgrund der Corona-Schutzmaßnahmen keinen zeitnahen Termin in einem Kundenzentrum Ihrer Wahl erhalten, entstehen Ihnen hierdurch keine Nachteile."
+    ],
+    0.432414710521698
+  ],
+  [
+    [
+      94,
+      51
+    ],
+    [
+      "Am Samstag können wir die Fahrzeug-Papiere nicht ändern .",
+      "Sollten Sie aufgrund der Corona-Schutzmaßnahmen keinen zeitnahen Termin in einem Kundenzentrum Ihrer Wahl erhalten, entstehen Ihnen hierdurch keine Nachteile."
+    ],
+    0.42080599069595337
+  ],
+  [
+    [
+      95,
+      51
+    ],
+    [
+      "Auch wenn das Kunden-Zentrum geöffnet ist.",
+      "Sollten Sie aufgrund der Corona-Schutzmaßnahmen keinen zeitnahen Termin in einem Kundenzentrum Ihrer Wahl erhalten, entstehen Ihnen hierdurch keine Nachteile."
+    ],
+    0.3415427803993225
+  ],
+  [
+    [
+      96,
+      51
+    ],
+    [
+      "Wenn Sie hierfür ins Kunden-Zentrum Innenstadt kommen, müssen Sie bestimmte Dinge beachten.",
+      "Sollten Sie aufgrund der Corona-Schutzmaßnahmen keinen zeitnahen Termin in einem Kundenzentrum Ihrer Wahl erhalten, entstehen Ihnen hierdurch keine Nachteile."
+    ],
+    0.48734399676322937
+  ],
+  [
+    [
+      97,
+      55
+    ],
+    [
+      "Was passiert mit den Daten, mit denen ich angemeldet bin?",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.3164093494415283
+  ],
+  [
+    [
+      98,
+      55
+    ],
+    [
+      "Wir gebrauchen Ihre Daten nur für die Abläufe bei uns.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.4052713215351105
+  ],
+  [
+    [
+      99,
+      55
+    ],
+    [
+      "Es passiert nichts damit, was Sie nicht wollen.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.4052593410015106
+  ],
+  [
+    [
+      100,
+      55
+    ],
+    [
+      "Sie können dem Weitergeben von Ihren Daten an andere Stellen widersprechen.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.5833433866500854
+  ],
+  [
+    [
+      101,
+      55
+    ],
+    [
+      "Dann geben wir niemals Ihre Daten an diese Stellen weiter.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.49504154920578003
+  ],
+  [
+    [
+      102,
+      56
+    ],
+    [
+      "Widersprechen können Sie beim Anmelden von Ihrem Wohnsitz.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.4988911747932434
+  ],
+  [
+    [
+      103,
+      56
+    ],
+    [
+      "Sie können aber auch später noch dem Weitergeben von Ihren Daten widersprechen.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5727318525314331
+  ],
+  [
+    [
+      104,
+      56
+    ],
+    [
+      "An bestimmte Stellen dürfen wir Ihre Daten nur dann weitergeben, wenn Sie der Weitergabe zugestimmt haben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.4971233904361725
+  ],
+  [
+    [
+      105,
+      56
+    ],
+    [
+      "Zum Beispiel: Sie kommen nur dann ins Telefon-Buch, wenn Sie dem zugestimmt haben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5159865617752075
+  ],
+  [
+    [
+      106,
+      56
+    ],
+    [
+      "Wenn nicht, darf man Sie nicht ins Telefon-Buch schreiben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.516268253326416
+  ],
+  [
+    [
+      107,
+      56
+    ],
+    [
+      "Muss ich für das Anmelden etwas bezahlen?",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.3586927354335785
+  ],
+  [
+    [
+      108,
+      56
+    ],
+    [
+      "Nein.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.13660573959350586
+  ],
+  [
+    [
+      109,
+      58
+    ],
+    [
+      "Das Anmelden von Ihrem Wohnsitz ist kostenlos.",
+      "Die Anmeldung ist gebührenfrei."
+    ],
+    0.4605746865272522
+  ],
+  [
+    [
+      110,
+      59
+    ],
+    [
+      "Neues Melde-Gesetz",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.45956310629844666
+  ],
+  [
+    [
+      111,
+      59
+    ],
+    [
+      "Seit November 2015 gibt es ein neues Melde-Gesetz.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.17551133036613464
+  ],
+  [
+    [
+      112,
+      59
+    ],
+    [
+      "Und es gibt neue Gesetze zum: Anmelden von Ihrem Wohn-Sitz",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.24145904183387756
+  ],
+  [
+    [
+      113,
+      59
+    ],
+    [
+      "Ummelden von Ihrem Wohn-Sitz",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.21937760710716248
+  ],
+  [
+    [
+      114,
+      59
+    ],
+    [
+      "Abmelden von Ihrem Wohn-Sitz",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2111569195985794
+  ],
+  [
+    [
+      115,
+      59
+    ],
+    [
+      "Dazu müssen Sie jetzt immer 1",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2163456380367279
+  ],
+  [
+    [
+      116,
+      59
+    ],
+    [
+      "Bestätigung vom Vermieter oder der Vermieterin abgeben.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.38559430837631226
+  ],
+  [
+    [
+      117,
+      59
+    ],
+    [
+      "Dafür haben Sie jetzt 2 Wochen Zeit.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.1769382655620575
+  ],
+  [
+    [
+      118,
+      59
+    ],
+    [
+      "Früher hatten Sie nur 1 Woche Zeit.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.1384805589914322
+  ],
+  [
+    [
+      119,
+      59
+    ],
+    [
+      "Weitere Infos",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.25724682211875916
+  ],
+  [
+    [
+      120,
+      59
+    ],
+    [
+      "Ähnliche Themen *",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.47734689712524414
+  ],
+  [
+    [
+      121,
+      59
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.24914009869098663
+  ]
+]

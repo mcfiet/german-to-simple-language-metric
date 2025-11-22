@@ -1,0 +1,288 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ein Schlaganfall ist eine plötzliche Erkrankung.",
+      "Ein Schlaganfall ist eine mehr als 24 Stunden gestörte Funktion des Gehirns durch eine verminderte Durchblutung eines Hirnbereichs oder einer Hirnblutung."
+    ],
+    0.7537021040916443
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht genug Blut.",
+      "Ein Schlaganfall ist eine mehr als 24 Stunden gestörte Funktion des Gehirns durch eine verminderte Durchblutung eines Hirnbereichs oder einer Hirnblutung."
+    ],
+    0.5571076273918152
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Deshalb ist ein Schlaganfall sehr gefährlich.",
+      "Ein Schlaganfall ist eine mehr als 24 Stunden gestörte Funktion des Gehirns durch eine verminderte Durchblutung eines Hirnbereichs oder einer Hirnblutung."
+    ],
+    0.7108975052833557
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst (112).",
+      "Sie drohen daher abzusterben."
+    ],
+    0.4829452931880951
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Danach können Sie einiges tun:",
+      "Sie drohen daher abzusterben."
+    ],
+    0.8138260841369629
+  ],
+  [
+    [
+      27,
+      2
+    ],
+    [
+      "Bleiben Sie bei dem Betroffenen und reden Sie mit ihm.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.8006048202514648
+  ],
+  [
+    [
+      28,
+      2
+    ],
+    [
+      "Lockern Sie zu enge Kleidung des Betroffenen.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.5723061561584473
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Entfernen Sie Zahnprothesen.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.7748215198516846
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Geben Sie dem Betroffenen nichts zu essen oder zu trinken.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.5245429277420044
+  ],
+  [
+    [
+      32,
+      2
+    ],
+    [
+      "Richten Sie den Betroffenen im Winkel von 30 Grad auf: zum Beispiel mit einem Kissen im Rücken.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.3355799913406372
+  ],
+  [
+    [
+      34,
+      2
+    ],
+    [
+      "Dann legen Sie den Patienten in die stabile Seitenlage.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.4401528537273407
+  ],
+  [
+    [
+      36,
+      2
+    ],
+    [
+      "Dann beginnen Sie sofort mit Wiederbelebungsmaßnahmen.",
+      "Sie drohen daher abzusterben."
+    ],
+    0.5285410284996033
+  ],
+  [
+    [
+      38,
+      13
+    ],
+    [
+      "Merken Sie sich die Uhrzeit.",
+      "Mehr über die weitere Behandlung lesen Sie unter \"Therapie\"."
+    ],
+    0.5982946157455444
+  ],
+  [
+    [
+      43,
+      47
+    ],
+    [
+      "Das Blut bringt Sauerstoff ins Gehirn.",
+      "Es polstert das Gehirn vor Stößen ab."
+    ],
+    0.7442270517349243
+  ],
+  [
+    [
+      45,
+      47
+    ],
+    [
+      "Dann kommt dort kein Sauerstoff mehr ins Gehirn und es können Gehirnzellen sterben.",
+      "Es polstert das Gehirn vor Stößen ab."
+    ],
+    0.6501259803771973
+  ],
+  [
+    [
+      46,
+      47
+    ],
+    [
+      "Eine Blutung im Gehirn.",
+      "Es polstert das Gehirn vor Stößen ab."
+    ],
+    0.7349656224250793
+  ],
+  [
+    [
+      47,
+      47
+    ],
+    [
+      "Es gibt eine Blutung im Gehirn?",
+      "Es polstert das Gehirn vor Stößen ab."
+    ],
+    0.7545573711395264
+  ],
+  [
+    [
+      49,
+      47
+    ],
+    [
+      "Der Druck im Gehirn erhöht sich durch die Blutung.",
+      "Es polstert das Gehirn vor Stößen ab."
+    ],
+    0.7144849300384521
+  ],
+  [
+    [
+      50,
+      174
+    ],
+    [
+      "Manche Dinge erhöhen das Risiko für einen Schlaganfall.",
+      "Mobil trotz Schlaganfall?"
+    ],
+    0.974390983581543
+  ],
+  [
+    [
+      52,
+      174
+    ],
+    [
+      "Bei einem Schlaganfall muss eine betroffene Person sofort in ein Krankenhaus.",
+      "Mobil trotz Schlaganfall?"
+    ],
+    0.9071311950683594
+  ],
+  [
+    [
+      53,
+      174
+    ],
+    [
+      "Im Krankenhaus kann die Ursache für den Schlaganfall oft behandelt werden.",
+      "Mobil trotz Schlaganfall?"
+    ],
+    0.9219717979431152
+  ],
+  [
+    [
+      55,
+      174
+    ],
+    [
+      "Stroke ist das englische Wort für Schlaganfall.",
+      "Mobil trotz Schlaganfall?"
+    ],
+    0.9654855132102966
+  ],
+  [
+    [
+      59,
+      174
+    ],
+    [
+      "Im Krankenhaus wird der Schlaganfall behandelt und der Patient wird auch auf den Alltag vorbereitet.",
+      "Mobil trotz Schlaganfall?"
+    ],
+    0.9060150384902954
+  ],
+  [
+    [
+      61,
+      194
+    ],
+    [
+      "Physiotherapeuten sind für die Bewegungen zuständig.",
+      "Die Anforderungen an die pflegenden Personen sind hoch."
+    ],
+    0.3507060408592224
+  ],
+  [
+    [
+      64,
+      194
+    ],
+    [
+      "Logopäden sind für die Sprache zuständig.",
+      "Die Anforderungen an die pflegenden Personen sind hoch."
+    ],
+    0.36594653129577637
+  ],
+  [
+    [
+      67,
+      223
+    ],
+    [
+      "Ergotherapeuten helfen im Alltag.",
+      "1998 habilitierte er im Fach Neurologie."
+    ],
+    0.31927934288978577
+  ]
+]

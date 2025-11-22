@@ -1,0 +1,332 @@
+[
+  [
+    [
+      1,
+      7
+    ],
+    [
+      "Dann ist diese Person vielleicht bewusstlos.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.29407981038093567
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Bewusstlos bedeutet: Eine Person reagiert nicht auf Ansprache und Reize.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2578960061073303
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Die Person atmet aber noch selbstständig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2412298023700714
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Eine Person ist bewusstlos?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2404729276895523
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Deshalb kann die Zunge nach hinten fallen.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.23991595208644867
+  ],
+  [
+    [
+      13,
+      15
+    ],
+    [
+      "Und die Zunge kann die Atemwege verschließen.",
+      "Heben und senken sie sich?"
+    ],
+    0.25250956416130066
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Blut oder Erbrochenes können dann nicht mehr so leicht in die Atemwege gelangen.",
+      "Heben und senken sie sich?"
+    ],
+    0.25988566875457764
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Sie sehen einen Unfall?",
+      "Können Sie einen Luftzug oder Atemgeräusche wahrnehmen?"
+    ],
+    0.2438928484916687
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Dann sollten Sie folgende Dinge tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.23368149995803833
+  ],
+  [
+    [
+      23,
+      8
+    ],
+    [
+      "Rufen Sie dann den Notruf .",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.25612756609916687
+  ],
+  [
+    [
+      25,
+      15
+    ],
+    [
+      "Kümmern Sie sich dann um die verletzte Person.",
+      "Heben und senken sie sich?"
+    ],
+    0.26417675614356995
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Sprechen Sie die Person zuerst an .",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.28346729278564453
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Rütteln Sie dann vorsichtig an der Schulter.",
+      "Rütteln Sie vorsichtig an seiner Schulter."
+    ],
+    0.2873133420944214
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Die betroffene Person reagiert nicht?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2637850344181061
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Dann ist die Person wahrscheinlich bewusstlos.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.28642117977142334
+  ],
+  [
+    [
+      30,
+      9
+    ],
+    [
+      "Prüfen Sie die Atmung der betroffenen Person.",
+      "Atmung prüfen:"
+    ],
+    0.2789319157600403
+  ],
+  [
+    [
+      35,
+      5
+    ],
+    [
+      "Dann entfernen Sie diesen Gegenstand.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.25100642442703247
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Lehnen Sie sich näher an die Person heran.",
+      "Heben und senken sie sich?"
+    ],
+    0.2558584213256836
+  ],
+  [
+    [
+      37,
+      13
+    ],
+    [
+      "Können Sie Atem-Geräusche hören?",
+      "Können Sie einen Luftzug oder Atemgeräusche wahrnehmen?"
+    ],
+    0.2984332740306854
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Bewegt sich der Bauch?",
+      "Heben und senken sie sich?"
+    ],
+    0.25658318400382996
+  ],
+  [
+    [
+      40,
+      7
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.26087671518325806
+  ],
+  [
+    [
+      45,
+      15
+    ],
+    [
+      "Dann beachten Sie diese Dinge:",
+      "Heben und senken sie sich?"
+    ],
+    0.23827561736106873
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Sie",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.38612228631973267
+  ],
+  [
+    [
+      49,
+      15
+    ],
+    [
+      "sich neben die Person.",
+      "Heben und senken sie sich?"
+    ],
+    0.2865528464317322
+  ],
+  [
+    [
+      51,
+      8
+    ],
+    [
+      "Sie",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.38612228631973267
+  ],
+  [
+    [
+      62,
+      5
+    ],
+    [
+      "Legen Sie den Handrücken an die Wange der verletzten Person.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.2362137883901596
+  ],
+  [
+    [
+      64,
+      14
+    ],
+    [
+      "Rollen Sie die Person vorsichtig auf die Seite.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.2553901970386505
+  ],
+  [
+    [
+      70,
+      15
+    ],
+    [
+      "Prüfen Sie immer wieder:",
+      "Heben und senken sie sich?"
+    ],
+    0.28143563866615295
+  ],
+  [
+    [
+      71,
+      7
+    ],
+    [
+      "Atmet die betroffene Person noch?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2402322143316269
+  ],
+  [
+    [
+      73,
+      5
+    ],
+    [
+      "Warten Sie auf die Rettungskräfte.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.24768371880054474
+  ]
+]

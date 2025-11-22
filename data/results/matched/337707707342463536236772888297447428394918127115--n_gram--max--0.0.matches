@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      13
+    ],
+    [
+      "Antibiotika sind Medikamente gegen Bakterien.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.8964529037475586
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Bakterien sind Krankheitserreger.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.49867385625839233
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Bakterien können zum Beispiel Entzündungen verursachen.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.360531747341156
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Eine betroffene Person hat eine bakterielle Entzündung?",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.460163950920105
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Dann verschreibt der Arzt oft ein Antibiotikum.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9483750462532043
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Sehr viele Entzündungen können mit Antibiotika gut behandelt werden.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9534372687339783
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Antibiotika helfen zum Beispiel bei: einer Blasenentzündung, einer Lungenentzündung oder einer Mandelentzündung.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.8969164490699768
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Hinweis: Antibiotika helfen nur bei bakteriellen Infektionen .",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9186496138572693
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Bakterielle Infektion bedeutet: Bakterien haben die Erkrankung verursacht.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.5560005903244019
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Antibiotika helfen nicht bei viralen Infektionen .",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.9435272812843323
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Virale Infektion bedeutet: Viren haben die Erkrankung verursacht.",
+      "Denn die Arzneien töten die Krankheitserreger ab oder verhindern zumindest, dass sich die Keime vermehren."
+    ],
+    0.25013870000839233
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Der Arzt kann Antibiotika in verschiedenen Formen verschreiben.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9304519295692444
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "Antibiotika-Medikamente gibt es zum Beispiel als:",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.8779405355453491
+  ],
+  [
+    [
+      13,
+      15
+    ],
+    [
+      "Tablette Salbe Tropfen",
+      "Dann kann es allerdings passieren, dass die Tablette nicht mehr so gut hilft."
+    ],
+    0.251981258392334
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Die richtige Einnahme des Antibiotikums ist sehr wichtig.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9196028113365173
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Nur dann kann das Antibiotikum richtig wirken.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9598575234413147
+  ],
+  [
+    [
+      16,
+      15
+    ],
+    [
+      "Und nur dann hilft es gegen die Entzündung.",
+      "Dann kann es allerdings passieren, dass die Tablette nicht mehr so gut hilft."
+    ],
+    0.29369667172431946
+  ],
+  [
+    [
+      17,
+      8
+    ],
+    [
+      "Eine falsche Einnahme kann ernste Folgen haben:",
+      "Tipp: Lassen Sie sich die Einnahmehinweise in der Apotheke auf die Medikamentenschachtel schreiben."
+    ],
+    0.16537949442863464
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Bei einer falschen Einnahme können sich die schädlichen Bakterien an das Antibiotikum gewöhnen.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.915268063545227
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Dann wirkt das Antibiotikum nicht mehr gegen die Bakterien.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9505743980407715
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Die richtige Einnahme eines Antibiotika-Medikaments hängt zum Beispiel ab von: der Art des Antibiotikums, der Form des Medikaments und der Menge des Antibiotikums im Medikament.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.8961984515190125
+  ],
+  [
+    [
+      21,
+      8
+    ],
+    [
+      "Die richtige Einnahme ist aber auch abhängig von: dem Patienten selbst der Erkrankung des Patienten Deshalb muss der Arzt die richtige Einnahme für jeden Patienten genau bestimmen.",
+      "Tipp: Lassen Sie sich die Einnahmehinweise in der Apotheke auf die Medikamentenschachtel schreiben."
+    ],
+    0.23182252049446106
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Der Arzt hat Ihnen ein Antibiotikum verschrieben?",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9641934037208557
+  ],
+  [
+    [
+      23,
+      40
+    ],
+    [
+      "Und Sie möchten wissen:",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.57131028175354
+  ],
+  [
+    [
+      24,
+      4
+    ],
+    [
+      "Wie nehme ich das Medikament richtig?",
+      "Und Bakterien kann es nur bekämpfen, wenn Sie das Medikament richtig anwenden."
+    ],
+    0.42780256271362305
+  ],
+  [
+    [
+      25,
+      40
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.5641111135482788
+  ],
+  [
+    [
+      26,
+      8
+    ],
+    [
+      "Die richtige Einnahme ist für jeden Patienten anders.",
+      "Tipp: Lassen Sie sich die Einnahmehinweise in der Apotheke auf die Medikamentenschachtel schreiben."
+    ],
+    0.1762819141149521
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Trotzdem gibt es allgemeine Hinweise zur Einnahme von Antibiotika.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.9160671234130859
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Diese Hinweise gelten für die meisten Antibiotika.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.9412130117416382
+  ],
+  [
+    [
+      29,
+      39
+    ],
+    [
+      "1. Wie oft sollen Sie das Medikament nehmen?",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.5663766860961914
+  ],
+  [
+    [
+      30,
+      40
+    ],
+    [
+      "Manchmal schreibt der Arzt Hinweise zur richtigen Einnahme für Sie auf.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.3058136999607086
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "Oder der Apotheker schreibt die Hinweise zur richtigen Einnahme für Sie auf.",
+      "Tipp: Lassen Sie sich die Einnahmehinweise in der Apotheke auf die Medikamentenschachtel schreiben."
+    ],
+    0.5390987992286682
+  ],
+  [
+    [
+      32,
+      30
+    ],
+    [
+      "Der Arzt oder der Apotheker schreibt zum Beispiel: 1x1 täglich .",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.4521942734718323
+  ],
+  [
+    [
+      33,
+      37
+    ],
+    [
+      "1x1 täglich bedeutet:",
+      "Einige Mittel erhöhen die Lichtempfindlichkeit ."
+    ],
+    0.046347446739673615
+  ],
+  [
+    [
+      34,
+      4
+    ],
+    [
+      "Sie nehmen das Medikament alle 24 Stunden.",
+      "Und Bakterien kann es nur bekämpfen, wenn Sie das Medikament richtig anwenden."
+    ],
+    0.4291439354419708
+  ],
+  [
+    [
+      35,
+      18
+    ],
+    [
+      "Das ist einmal am Tag.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.21207407116889954
+  ],
+  [
+    [
+      36,
+      25
+    ],
+    [
+      "Sie haben zum Beispiel eine Salbe bekommen?",
+      "Weitere Beispiele:"
+    ],
+    0.37512367963790894
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Dann tragen Sie die Salbe einmal am Tag auf die entzündete Stelle auf.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.3849194645881653
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Sie haben Tabletten bekommen?",
+      "Dann kann es allerdings passieren, dass die Tablette nicht mehr so gut hilft."
+    ],
+    0.26502126455307007
+  ],
+  [
+    [
+      39,
+      18
+    ],
+    [
+      "Dann nehmen Sie eine Tablette am Tag.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.4511836767196655
+  ],
+  [
+    [
+      40,
+      13
+    ],
+    [
+      "Nehmen Sie das Antibiotika-Medikament jeden Tag zur gleichen Zeit .",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.8477630615234375
+  ],
+  [
+    [
+      41,
+      39
+    ],
+    [
+      "2x1 täglich bedeutet: Sie nehmen das Medikament alle 12 Stunden.",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.43477439880371094
+  ],
+  [
+    [
+      42,
+      6
+    ],
+    [
+      "Das ist zweimal am Tag.",
+      "Manchmal schreibt er das auch nur aufs Rezept."
+    ],
+    0.13002325594425201
+  ],
+  [
+    [
+      43,
+      18
+    ],
+    [
+      "Sie nehmen zum Beispiel eine Tablette morgens um 8 Uhr.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.36001068353652954
+  ],
+  [
+    [
+      44,
+      18
+    ],
+    [
+      "Und Sie nehmen die andere Tablette dann 12 Stunden später.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.3745516240596771
+  ],
+  [
+    [
+      45,
+      6
+    ],
+    [
+      "Das heißt: abends um 20 Uhr.",
+      "Manchmal schreibt er das auch nur aufs Rezept."
+    ],
+    0.1495145559310913
+  ],
+  [
+    [
+      46,
+      39
+    ],
+    [
+      "Achtung: Sie wissen nicht genau:",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.5270296931266785
+  ],
+  [
+    [
+      47,
+      31
+    ],
+    [
+      "Wie oft soll ich das Medikament nehmen?",
+      "Allergien auf das Mittel seien möglich, ebenso Hautausschläge, ausgelöst durch das Medikament."
+    ],
+    0.42464154958724976
+  ],
+  [
+    [
+      48,
+      4
+    ],
+    [
+      "Wie viel von dem Medikament soll ich nehmen?",
+      "Und Bakterien kann es nur bekämpfen, wenn Sie das Medikament richtig anwenden."
+    ],
+    0.3362463712692261
+  ],
+  [
+    [
+      49,
+      31
+    ],
+    [
+      "Und wie viele Tage hintereinander soll ich das Medikament nehmen?",
+      "Allergien auf das Mittel seien möglich, ebenso Hautausschläge, ausgelöst durch das Medikament."
+    ],
+    0.40889596939086914
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt oder einen Apotheker.",
+      "Haben Sie nicht im Kopf, wie Sie das Mittel einnehmen sollen, dann fragen Sie in der Apotheke oder bei der Ärztin oder dem Arzt nach."
+    ],
+    0.6549508571624756
+  ],
+  [
+    [
+      51,
+      0
+    ],
+    [
+      "2. Antibiotika und Nahrungsmittel Nahrungsmittel schwächen die Wirkung von Antibiotika manchmal.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9392411112785339
+  ],
+  [
+    [
+      52,
+      13
+    ],
+    [
+      "Deshalb sollten Sie manche Antibiotika-Medikamente nicht zusammen mit dem Essen nehmen.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.8322498202323914
+  ],
+  [
+    [
+      53,
+      18
+    ],
+    [
+      "Vor dem Essen: Sie sollen die Tablette zum Beispiel vor dem Essen nehmen?",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.30786097049713135
+  ],
+  [
+    [
+      54,
+      18
+    ],
+    [
+      "Vor dem Essen bedeutet: Sie nehmen die Tablette.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.33220556378364563
+  ],
+  [
+    [
+      55,
+      39
+    ],
+    [
+      "Dann warten Sie mindestens eine halbe Stunde.",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.5071846842765808
+  ],
+  [
+    [
+      56,
+      40
+    ],
+    [
+      "Danach dürfen Sie essen.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.5306832194328308
+  ],
+  [
+    [
+      57,
+      30
+    ],
+    [
+      "Ihr Arzt oder der Apotheker gibt Ihnen dazu alle wichtigen Hinweise.",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.48563438653945923
+  ],
+  [
+    [
+      58,
+      18
+    ],
+    [
+      "Zum Essen: Sie sollen die Tablette zum Essen nehmen?",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.3165949583053589
+  ],
+  [
+    [
+      59,
+      18
+    ],
+    [
+      "Zum Essen bedeutet: Sie nehmen die Tablette.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.3334484398365021
+  ],
+  [
+    [
+      60,
+      40
+    ],
+    [
+      "Dann essen Sie sofort.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.5167598128318787
+  ],
+  [
+    [
+      61,
+      40
+    ],
+    [
+      "Sie brauchen nicht mit dem Essen warten.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.27289271354675293
+  ],
+  [
+    [
+      62,
+      0
+    ],
+    [
+      "Getränke schwächen die Wirkung von Antibiotika manchmal auch.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.924857497215271
+  ],
+  [
+    [
+      63,
+      13
+    ],
+    [
+      "Nehmen Sie Antibiotika-Tabletten deshalb nicht zusammen mit: Milch Tee Kaffee Nehmen Sie die Tabletten stattdessen mit einem großen Glas Wasser.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.7734724879264832
+  ],
+  [
+    [
+      64,
+      24
+    ],
+    [
+      "3. Wechselwirkungen Achtung:",
+      "Die Wirkung des Statins wird verstärkt, was Nebenwirkungen wie Muskelschmerzen begünstigen kann."
+    ],
+    0.6876553297042847
+  ],
+  [
+    [
+      65,
+      22
+    ],
+    [
+      "Manche Antibiotika können Wechselwirkungen mit anderen Medikamenten haben.",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.9062790870666504
+  ],
+  [
+    [
+      66,
+      3
+    ],
+    [
+      "Sie nehmen zusätzlich zum Antibiotikum noch andere Medikamente?",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9075984954833984
+  ],
+  [
+    [
+      67,
+      40
+    ],
+    [
+      "Dann sprechen Sie zuerst mit Ihrem Arzt .",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.6062371730804443
+  ],
+  [
+    [
+      68,
+      24
+    ],
+    [
+      "Ihr Arzt informiert Sie über mögliche Wechselwirkungen.",
+      "Die Wirkung des Statins wird verstärkt, was Nebenwirkungen wie Muskelschmerzen begünstigen kann."
+    ],
+    0.4517517685890198
+  ],
+  [
+    [
+      69,
+      24
+    ],
+    [
+      "4. Nebenwirkungen",
+      "Die Wirkung des Statins wird verstärkt, was Nebenwirkungen wie Muskelschmerzen begünstigen kann."
+    ],
+    0.7923007011413574
+  ],
+  [
+    [
+      70,
+      0
+    ],
+    [
+      "Viele Menschen vertragen Antibiotika sehr gut.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9428502321243286
+  ],
+  [
+    [
+      71,
+      0
+    ],
+    [
+      "Manchmal können Antibiotika trotzdem Nebenwirkungen haben.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.930747926235199
+  ],
+  [
+    [
+      72,
+      24
+    ],
+    [
+      "Mögliche Nebenwirkungen sind zum Beispiel:",
+      "Die Wirkung des Statins wird verstärkt, was Nebenwirkungen wie Muskelschmerzen begünstigen kann."
+    ],
+    0.6221106648445129
+  ],
+  [
+    [
+      73,
+      31
+    ],
+    [
+      "Allergien Hautausschlag",
+      "Allergien auf das Mittel seien möglich, ebenso Hautausschläge, ausgelöst durch das Medikament."
+    ],
+    0.2987833023071289
+  ],
+  [
+    [
+      74,
+      32
+    ],
+    [
+      "Durchfall",
+      "Daneben leiden einige Menschen unter Durchfall ."
+    ],
+    0.2792423367500305
+  ],
+  [
+    [
+      75,
+      3
+    ],
+    [
+      "Manchmal erhöht das Antibiotikum auch die Empfindlichkeit gegen Sonnenlicht.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9654557704925537
+  ],
+  [
+    [
+      76,
+      38
+    ],
+    [
+      "Das bedeutet: Die betroffene Person bekommt dann leichter einen Sonnenbrand.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.39420756697654724
+  ],
+  [
+    [
+      77,
+      0
+    ],
+    [
+      "Bei Frauen verursachen Antibiotika manchmal Scheidenpilz.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9345723390579224
+  ],
+  [
+    [
+      78,
+      24
+    ],
+    [
+      "Sie haben Fragen zu den Nebenwirkungen?",
+      "Die Wirkung des Statins wird verstärkt, was Nebenwirkungen wie Muskelschmerzen begünstigen kann."
+    ],
+    0.6731867790222168
+  ],
+  [
+    [
+      79,
+      39
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.14072196185588837
+  ],
+  [
+    [
+      80,
+      30
+    ],
+    [
+      "Oder der Apotheker gibt Ihnen alle wichtigen Informationen.",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.5580103397369385
+  ],
+  [
+    [
+      81,
+      0
+    ],
+    [
+      "Sie wollen noch mehr über die richtige Einnahme von Antibiotika lesen?",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.909308135509491
+  ],
+  [
+    [
+      82,
+      0
+    ],
+    [
+      "Mehr Informationen über Antibiotika finden Sie hier .",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.9328039884567261
+  ],
+  [
+    [
+      83,
+      18
+    ],
+    [
+      "Achtung : Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.31931453943252563
+  ],
+  [
+    [
+      84,
+      39
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.3744518756866455
+  ]
+]

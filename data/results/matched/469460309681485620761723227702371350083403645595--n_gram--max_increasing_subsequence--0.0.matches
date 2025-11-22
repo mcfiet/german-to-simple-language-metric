@@ -1,0 +1,673 @@
+[
+  [
+    [
+      0,
+      19
+    ],
+    [
+      "Der Magen ist ein wichtiges Organ im oberen Bauch.",
+      "Nehmen Sie jedoch auch rezeptfreie Magensäurehemmer grundsätzlich nur in Rücksprache mit Ihrem Arzt ein."
+    ],
+    0.550568699836731
+  ],
+  [
+    [
+      1,
+      32
+    ],
+    [
+      "Der Magen ist durch die Speiseröhre mit dem Mund verbunden.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7674480080604553
+  ],
+  [
+    [
+      2,
+      32
+    ],
+    [
+      "Durch die Speiseröhre gelangt die Nahrung in den Magen.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7558497190475464
+  ],
+  [
+    [
+      3,
+      33
+    ],
+    [
+      "Im Magen wird die Nahrung zerkleinert und durchmischt.",
+      "Reizmagen"
+    ],
+    0.6229970455169678
+  ],
+  [
+    [
+      4,
+      33
+    ],
+    [
+      "Dabei hilft der Magensaft.",
+      "Reizmagen"
+    ],
+    0.6089707612991333
+  ],
+  [
+    [
+      5,
+      33
+    ],
+    [
+      "Der Magensaft wird von der Magenschleimhaut produziert.",
+      "Reizmagen"
+    ],
+    0.6286925673484802
+  ],
+  [
+    [
+      6,
+      33
+    ],
+    [
+      "Bei Sodbrennen gelangt Magensaft aus dem Magen in die Speiseröhre.",
+      "Reizmagen"
+    ],
+    0.33111751079559326
+  ],
+  [
+    [
+      15,
+      33
+    ],
+    [
+      "Bei der Reflux-Krankheit gelangt Mageninhalt in die Speiseröhre.",
+      "Reizmagen"
+    ],
+    0.33217665553092957
+  ],
+  [
+    [
+      16,
+      33
+    ],
+    [
+      "Der Mageninhalt enthält Magensäure.",
+      "Reizmagen"
+    ],
+    0.6611940860748291
+  ],
+  [
+    [
+      17,
+      33
+    ],
+    [
+      "Die Magensäure kann die Speiseröhre reizen.",
+      "Reizmagen"
+    ],
+    0.340594619512558
+  ],
+  [
+    [
+      20,
+      33
+    ],
+    [
+      "Bei einem Zwerchfellbruch dehnt sich der Magen in den Brustraum aus.",
+      "Reizmagen"
+    ],
+    0.5601122975349426
+  ],
+  [
+    [
+      25,
+      33
+    ],
+    [
+      "Dann kann die Nahrung in den Magen rutschen.",
+      "Reizmagen"
+    ],
+    0.5651384592056274
+  ],
+  [
+    [
+      27,
+      33
+    ],
+    [
+      "Dann kann die Nahrung nicht in den Magen gelangen.",
+      "Reizmagen"
+    ],
+    0.5567878484725952
+  ],
+  [
+    [
+      30,
+      34
+    ],
+    [
+      "Erkrankungen des Magens, wie zum Beispiel eine Magenschleimhaut-Entzündung.",
+      "Magenschleimhautentzündung"
+    ],
+    0.6395309567451477
+  ],
+  [
+    [
+      31,
+      39
+    ],
+    [
+      "Einige Medikamente können Sodbrennen verursachen.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.047601837664842606
+  ],
+  [
+    [
+      32,
+      39
+    ],
+    [
+      "Dazu gehören: Herz-Kreislauf-Medikamente, zum Beispiel Medikamente gegen psychische Krankheiten.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.21440719068050385
+  ],
+  [
+    [
+      33,
+      39
+    ],
+    [
+      "Diese Medikamente erweitern die Blutgefäße.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.220990851521492
+  ],
+  [
+    [
+      34,
+      39
+    ],
+    [
+      "Und sie entspannen die Muskeln der Speiseröhre.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.005819566082209349
+  ],
+  [
+    [
+      35,
+      39
+    ],
+    [
+      "Medikamente mit Pfefferminzöl.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.22641322016716003
+  ],
+  [
+    [
+      36,
+      39
+    ],
+    [
+      "Schmerzmittel, zum Beispiel Ibuprofen.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.04668503254652023
+  ],
+  [
+    [
+      38,
+      39
+    ],
+    [
+      "Antibiotika sind Medikamente gegen Bakterien.",
+      "Medikamente (bestimmte Herz-, Blutdruck- und Asthmamittel, hormonelle Verhütungsmittel)"
+    ],
+    0.2031116485595703
+  ],
+  [
+    [
+      39,
+      41
+    ],
+    [
+      "Achtung: Sie glauben:",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.13393117487430573
+  ],
+  [
+    [
+      40,
+      41
+    ],
+    [
+      "Mein Sodbrennen hängt mit einem Medikament zusammen?",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.038834184408187866
+  ],
+  [
+    [
+      41,
+      41
+    ],
+    [
+      "Dann hören Sie nicht selbst mit der Einnahme auf.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.24828289449214935
+  ],
+  [
+    [
+      42,
+      41
+    ],
+    [
+      "Sprechen Sie mit einem Arzt.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.2404414564371109
+  ],
+  [
+    [
+      43,
+      41
+    ],
+    [
+      "Der Arzt kann Sie beraten.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.14167383313179016
+  ],
+  [
+    [
+      44,
+      41
+    ],
+    [
+      "Viele Frauen haben während ihrer Schwangerschaft Sodbrennen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.028919776901602745
+  ],
+  [
+    [
+      46,
+      41
+    ],
+    [
+      "Das verursacht Sodbrennen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.02819182723760605
+  ],
+  [
+    [
+      47,
+      41
+    ],
+    [
+      "Während der Schwangerschaft erhöht sich der Hormonspiegel.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.09947917610406876
+  ],
+  [
+    [
+      48,
+      41
+    ],
+    [
+      "Deshalb wird das Gewebe flexibler.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.030501248314976692
+  ],
+  [
+    [
+      49,
+      41
+    ],
+    [
+      "Auch der Schließmuskel der Speiseröhre lockert sich.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.015143054537475109
+  ],
+  [
+    [
+      50,
+      41
+    ],
+    [
+      "Dann kommt es zu Sodbrennen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.022829601541161537
+  ],
+  [
+    [
+      51,
+      41
+    ],
+    [
+      "Sodbrennen kann verschiedene Anzeichen haben.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.04638587683439255
+  ],
+  [
+    [
+      52,
+      41
+    ],
+    [
+      "Zu den Anzeichen für Sodbrennen gehören zum Beispiel: brennende Schmerzen im Magen und hinter dem Brustbein Heiserkeit häufiges Räuspern und Husten meist morgens aufstoßen von Magensäure oder Speiseresten Beschwerden beim Schlucken ein schlechter Geschmack im Mund",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.05875030532479286
+  ],
+  [
+    [
+      53,
+      41
+    ],
+    [
+      "Atembeschwerden",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.16186009347438812
+  ],
+  [
+    [
+      54,
+      41
+    ],
+    [
+      "Sie glauben: Ich habe Sodbrennen?",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.035639043897390366
+  ],
+  [
+    [
+      55,
+      41
+    ],
+    [
+      "Dann sprechen Sie mit einem Arzt.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.2184370756149292
+  ],
+  [
+    [
+      57,
+      41
+    ],
+    [
+      "Sie können selbst etwas gegen Sodbrennen tun:",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.12814922630786896
+  ],
+  [
+    [
+      58,
+      41
+    ],
+    [
+      "Rauchen Sie nicht.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.3237120509147644
+  ],
+  [
+    [
+      59,
+      41
+    ],
+    [
+      "Essen Sie keine fettigen Gerichte.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.301894873380661
+  ],
+  [
+    [
+      60,
+      41
+    ],
+    [
+      "Trinken Sie keinen Kaffee und Alkohol.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.34028196334838867
+  ],
+  [
+    [
+      61,
+      41
+    ],
+    [
+      "Essen Sie mehrere kleine Mahlzeiten statt einer großen Mahlzeit.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.23474259674549103
+  ],
+  [
+    [
+      62,
+      41
+    ],
+    [
+      "Nehmen Sie sich Zeit zum Essen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.344348281621933
+  ],
+  [
+    [
+      63,
+      41
+    ],
+    [
+      "Machen Sie Spaziergänge nach dem Essen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.2359423190355301
+  ],
+  [
+    [
+      64,
+      41
+    ],
+    [
+      "Vermeiden Sie Übergewicht.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.2937942445278168
+  ],
+  [
+    [
+      65,
+      41
+    ],
+    [
+      "Erhöhen Sie Ihren Kopf beim Schlafen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.24954135715961456
+  ],
+  [
+    [
+      66,
+      41
+    ],
+    [
+      "Sie können zum Beispiel ein weiteres Kissen unter Ihren Kopf legen.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.23279738426208496
+  ],
+  [
+    [
+      67,
+      41
+    ],
+    [
+      "Vermeiden Sie Stress.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.2829843759536743
+  ],
+  [
+    [
+      68,
+      41
+    ],
+    [
+      "Sie haben Beschwerden?",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.1663644164800644
+  ],
+  [
+    [
+      69,
+      41
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Wird sie nicht behandelt, können sich Geschwüre und Vernarbungen bilden."
+    ],
+    0.22608056664466858
+  ],
+  [
+    [
+      70,
+      45
+    ],
+    [
+      "Der Arzt sucht nach der Ursache des Sodbrennens.",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9434216022491455
+  ],
+  [
+    [
+      72,
+      45
+    ],
+    [
+      "Manchmal müssen betroffene Personen nur ihren Lebensstil verändern.",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.03257124871015549
+  ],
+  [
+    [
+      73,
+      45
+    ],
+    [
+      "Manchmal helfen nur Medikamente gegen das Sodbrennen.",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9393076300621033
+  ],
+  [
+    [
+      74,
+      45
+    ],
+    [
+      "Ein Medikament gegen Sodbrennen heißt: Antazida.",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9363346099853516
+  ],
+  [
+    [
+      77,
+      45
+    ],
+    [
+      "Hinweis: Sie haben sehr starkes Sodbrennen?",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9495837688446045
+  ],
+  [
+    [
+      78,
+      45
+    ],
+    [
+      "Oder Sie haben schon seit mehr als zwei Wochen Sodbrennen?",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9356006979942322
+  ],
+  [
+    [
+      80,
+      45
+    ],
+    [
+      "Der Arzt kann Ihnen helfen.",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.03667718172073364
+  ],
+  [
+    [
+      81,
+      45
+    ],
+    [
+      "Sie wollen noch mehr über Sodbrennen lesen?",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9591059684753418
+  ],
+  [
+    [
+      82,
+      45
+    ],
+    [
+      "Mehr Informationen über Sodbrennen finden Sie hier .",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.9490053057670593
+  ],
+  [
+    [
+      83,
+      46
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die weiteren Abschnitte geben einen Überblick über die wichtigsten Krankheiten, die einmal Sodbrennen auslösen und zum anderen infolge chronischer Refluxbeschwerden entstehen können (siehe Kapitellinks oben am Anfang des Textes und am Ende der Seite)."
+    ],
+    0.07408608496189117
+  ],
+  [
+    [
+      84,
+      46
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die weiteren Abschnitte geben einen Überblick über die wichtigsten Krankheiten, die einmal Sodbrennen auslösen und zum anderen infolge chronischer Refluxbeschwerden entstehen können (siehe Kapitellinks oben am Anfang des Textes und am Ende der Seite)."
+    ],
+    0.15166573226451874
+  ]
+]

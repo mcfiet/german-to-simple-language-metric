@@ -1,0 +1,497 @@
+[
+  [
+    [
+      0,
+      10
+    ],
+    [
+      "Eine Unterkühlung ist ein Kälteschaden.",
+      "Es kommt zu einer Unterkühlung (Hypothermie)."
+    ],
+    0.5204159021377563
+  ],
+  [
+    [
+      2,
+      10
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen.",
+      "Es kommt zu einer Unterkühlung (Hypothermie)."
+    ],
+    0.5130147933959961
+  ],
+  [
+    [
+      3,
+      13
+    ],
+    [
+      "Die normale Körpertemperatur ist stark gesunken.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.6722452044487
+  ],
+  [
+    [
+      7,
+      13
+    ],
+    [
+      "Bei einer Unterkühlung ist die Körpertemperatur stark gesunken.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.6368454098701477
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "Der Körper merkt diesen Unterschied.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.6784442663192749
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Er versucht die normale Körpertemperatur im Körperkern aufrechtzuerhalten.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.8030106425285339
+  ],
+  [
+    [
+      11,
+      13
+    ],
+    [
+      "Die wichtigsten Organe sind: das Gehirn das Herz und die Lunge Deshalb verringert der Körper die Durchblutung in den Armen und Beinen.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.5447530150413513
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Zusätzlich erhöht der Körper die Wärme-Bildung durch Muskelarbeit.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.6188125014305115
+  ],
+  [
+    [
+      14,
+      13
+    ],
+    [
+      "Der Körper zittert.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.7014553546905518
+  ],
+  [
+    [
+      15,
+      42
+    ],
+    [
+      "Durch das Zittern arbeiten die Muskeln und Wärme entsteht.",
+      "Mehr Wärme erzeugt der Organismus, indem er die Muskeln arbeiten lässt – wir zittern ."
+    ],
+    0.7250754833221436
+  ],
+  [
+    [
+      16,
+      50
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen der Unterkühlung.",
+      "Bei einer allgemeinen Unterkühlung unterscheiden"
+    ],
+    0.7916591167449951
+  ],
+  [
+    [
+      18,
+      57
+    ],
+    [
+      "Hinweis: Die normale Körpertemperatur liegt bei ungefähr 37 Grad.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.7782038450241089
+  ],
+  [
+    [
+      19,
+      57
+    ],
+    [
+      "Stadium 1: Die Körpertemperatur der betroffenen Person liegt bei 32 bis 35 Grad.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.6185677647590637
+  ],
+  [
+    [
+      24,
+      57
+    ],
+    [
+      "Stadium 2: Die Körpertemperatur liegt bei 28 bis 32 Grad.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.7691484689712524
+  ],
+  [
+    [
+      25,
+      57
+    ],
+    [
+      "Durch die niedrige Körpertemperatur kann das Gehirn nicht mehr richtig arbeiten.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.7898999452590942
+  ],
+  [
+    [
+      29,
+      57
+    ],
+    [
+      "Stadium 3 bis 5: Die Körpertemperatur liegt jetzt bei unter 28 Grad.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.7640907168388367
+  ],
+  [
+    [
+      30,
+      61
+    ],
+    [
+      "Es besteht Lebensgefahr.",
+      "Es besteht Lebensgefahr."
+    ],
+    0.7867122888565063
+  ],
+  [
+    [
+      31,
+      78
+    ],
+    [
+      "Die betroffene Person ist bewusstlos.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.34164315462112427
+  ],
+  [
+    [
+      36,
+      84
+    ],
+    [
+      "Die Körpertemperatur fällt unter 13 Grad?",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.3753264546394348
+  ],
+  [
+    [
+      52,
+      90
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Rufen Sie die 112 an."
+    ],
+    0.5251577496528625
+  ],
+  [
+    [
+      56,
+      90
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Rufen Sie die 112 an."
+    ],
+    0.7887346744537354
+  ],
+  [
+    [
+      62,
+      90
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6751028299331665
+  ],
+  [
+    [
+      65,
+      90
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske Ziehen Sie passende Schuhe an.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6793550848960876
+  ],
+  [
+    [
+      66,
+      90
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung Ziehen Sie sich dicke Socken an Bewegen Sie sich.",
+      "Rufen Sie die 112 an."
+    ],
+    0.768035888671875
+  ],
+  [
+    [
+      67,
+      90
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6901372671127319
+  ],
+  [
+    [
+      69,
+      90
+    ],
+    [
+      "Sie genügend",
+      "Rufen Sie die 112 an."
+    ],
+    0.36485186219215393
+  ],
+  [
+    [
+      71,
+      90
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Rufen Sie die 112 an."
+    ],
+    0.5745038986206055
+  ],
+  [
+    [
+      72,
+      90
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Rufen Sie die 112 an."
+    ],
+    0.8361538648605347
+  ],
+  [
+    [
+      74,
+      90
+    ],
+    [
+      "Nur Experten erkennen sicher:",
+      "Rufen Sie die 112 an."
+    ],
+    0.38277915120124817
+  ],
+  [
+    [
+      76,
+      90
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Rufen Sie die 112 an."
+    ],
+    0.74271160364151
+  ],
+  [
+    [
+      80,
+      90
+    ],
+    [
+      "Dann bringen Sie die Person an einen warmen Ort.",
+      "Rufen Sie die 112 an."
+    ],
+    0.5453501343727112
+  ],
+  [
+    [
+      81,
+      90
+    ],
+    [
+      "Ziehen Sie ihr die nasse Kleidung aus.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6933494806289673
+  ],
+  [
+    [
+      89,
+      90
+    ],
+    [
+      "Dann schützen Sie die betroffene Person vor dem Wind.",
+      "Rufen Sie die 112 an."
+    ],
+    0.4944536089897156
+  ],
+  [
+    [
+      90,
+      90
+    ],
+    [
+      "Und schützen Sie die Person vor dem kalten Boden.",
+      "Rufen Sie die 112 an."
+    ],
+    0.5765298008918762
+  ],
+  [
+    [
+      91,
+      90
+    ],
+    [
+      "Legen Sie eine Rettungsfolie oder eine Decke unter die Person.",
+      "Rufen Sie die 112 an."
+    ],
+    0.5413581132888794
+  ],
+  [
+    [
+      93,
+      90
+    ],
+    [
+      "Dann decken Sie die Person vorsichtig zu.",
+      "Rufen Sie die 112 an."
+    ],
+    0.5729196667671204
+  ],
+  [
+    [
+      94,
+      93
+    ],
+    [
+      "Bewegen Sie sie möglichst wenig.",
+      "Packen Sie den Betroffenen in Decken ein, ziehen Sie ihm eine Mütze über den Kopf."
+    ],
+    0.5611491799354553
+  ],
+  [
+    [
+      95,
+      96
+    ],
+    [
+      "Warten Sie, bis der Rettungsdienst kommt.",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.6973021626472473
+  ],
+  [
+    [
+      96,
+      97
+    ],
+    [
+      "Die betroffene Person hat ihr Bewusstsein verloren und atmet nicht?",
+      "Hat der Betroffene das Bewusstsein verloren und atmet nicht, dann nehmen Sie eine Herzdruckmassage vor."
+    ],
+    0.4276305139064789
+  ],
+  [
+    [
+      97,
+      107
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung.",
+      "Gießen Sie ständig warme Flüssigkeit nach – insgesamt maximal eine halbe Stunde."
+    ],
+    0.3930811882019043
+  ],
+  [
+    [
+      98,
+      113
+    ],
+    [
+      "Achtung: Die betroffene Person ist kaum noch bei Bewusstsein?",
+      "Der Betroffene sollte nicht rauchen, da dies die Blutgefäße verengt."
+    ],
+    0.4040904939174652
+  ],
+  [
+    [
+      99,
+      113
+    ],
+    [
+      "Und die betroffene Person zittert nicht mehr?",
+      "Der Betroffene sollte nicht rauchen, da dies die Blutgefäße verengt."
+    ],
+    0.45174092054367065
+  ],
+  [
+    [
+      102,
+      120
+    ],
+    [
+      "Und bewegen Sie die Person so wenig wie möglich.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.3078349530696869
+  ],
+  [
+    [
+      103,
+      120
+    ],
+    [
+      "Sie wollen noch mehr über Kälteschäden lesen?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.4481535851955414
+  ],
+  [
+    [
+      104,
+      120
+    ],
+    [
+      "Mehr Informationen über Kälteschäden finden Sie hier.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.6074211597442627
+  ]
+]

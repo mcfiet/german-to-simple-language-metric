@@ -1,0 +1,354 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Unterkühlung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.6896523833274841
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.5446923971176147
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Die normale Körpertemperatur ist stark gesunken.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.5213629007339478
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Ein anderer Kälteschaden ist die Erfrierung.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.697243332862854
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Hinweis: Die normale Körpertemperatur liegt bei ungefähr 37 Grad.",
+      "Normalerweise liegt sie bei zirka 37 Grad Celsius."
+    ],
+    0.6444333791732788
+  ],
+  [
+    [
+      24,
+      6
+    ],
+    [
+      "Stadium 2: Die Körpertemperatur liegt bei 28 bis 32 Grad.",
+      "Normalerweise liegt sie bei zirka 37 Grad Celsius."
+    ],
+    0.6006098389625549
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Stadium 3 bis 5: Die Körpertemperatur liegt jetzt bei unter 28 Grad.",
+      "Normalerweise liegt sie bei zirka 37 Grad Celsius."
+    ],
+    0.5718058347702026
+  ],
+  [
+    [
+      40,
+      9
+    ],
+    [
+      "Versuchen Sie deshalb immer eine Wiederbelebung.",
+      "Aber auch durch eine langsame Abkühlung des Körpers kann es zu Kälteschäden kommen, ohne dass eine solche Kristallbildung auftritt."
+    ],
+    0.5265092253684998
+  ],
+  [
+    [
+      42,
+      13
+    ],
+    [
+      "Kälteschäden entstehen durch eine zu lange Zeit in der Kälte.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.5527020692825317
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Jemand fällt ins kalte Wasser",
+      "Besonders schnell kühlt der Körper aus, wenn Sie ins kalte Wasser fallen."
+    ],
+    0.5044499039649963
+  ],
+  [
+    [
+      47,
+      26
+    ],
+    [
+      "Der Wind bläst nämlich die warme Luft um den Körper weg und aus der Kleidung heraus.",
+      "Der Wind bläst die schützende warme Luftschicht um den Körper beziehungsweise aus der Kleidung weg."
+    ],
+    0.832017183303833
+  ],
+  [
+    [
+      50,
+      34
+    ],
+    [
+      "Dazu gehören zum Beispiel: Kleinkinder ältere Menschen Raucher Menschen mit Durchblutungsstörungen Menschen mit Diabetes stark erschöpfte Menschen unterernährte Menschen",
+      "So sind kleine Kinder und alte Menschen häufiger davon betroffen."
+    ],
+    0.5368130803108215
+  ],
+  [
+    [
+      52,
+      37
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Da durch das Getränk aber die Gefäße weitgestellt werden, verliert der Organismus letztendlich noch mehr Wärme."
+    ],
+    0.5840255618095398
+  ],
+  [
+    [
+      53,
+      37
+    ],
+    [
+      "So verliert der Körper schneller Wärme.",
+      "Da durch das Getränk aber die Gefäße weitgestellt werden, verliert der Organismus letztendlich noch mehr Wärme."
+    ],
+    0.5671204328536987
+  ],
+  [
+    [
+      54,
+      38
+    ],
+    [
+      "Menschen unter Alkoholeinfluss spüren die Kälte oft nicht so schnell.",
+      "Außerdem nimmt man unter Alkoholeinfluss die Kälte nicht so wahr."
+    ],
+    0.6754854321479797
+  ],
+  [
+    [
+      61,
+      43
+    ],
+    [
+      "Über den Kopf verliert der Körper nämlich viel Wärme",
+      "Die Wärmeabgabe steuert er hauptsächlich über den Blutfluss in der Haut."
+    ],
+    0.5953719615936279
+  ],
+  [
+    [
+      73,
+      71
+    ],
+    [
+      "Achtung:",
+      "Erfrierung"
+    ],
+    0.5248799920082092
+  ],
+  [
+    [
+      79,
+      83
+    ],
+    [
+      "Eine Person ist unterkühlt?",
+      "Die Sensibilität ist aufgehoben."
+    ],
+    0.5624666810035706
+  ],
+  [
+    [
+      80,
+      91
+    ],
+    [
+      "Dann bringen Sie die Person an einen warmen Ort.",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.6799706816673279
+  ],
+  [
+    [
+      81,
+      92
+    ],
+    [
+      "Ziehen Sie ihr die nasse Kleidung aus.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.7396126389503479
+  ],
+  [
+    [
+      82,
+      92
+    ],
+    [
+      "Und ziehen Sie ihr trockene Kleidung an.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.5390512347221375
+  ],
+  [
+    [
+      84,
+      93
+    ],
+    [
+      "Dann wickeln Sie die betroffene Person in eine Decke.",
+      "Packen Sie den Betroffenen in Decken ein, ziehen Sie ihm eine Mütze über den Kopf."
+    ],
+    0.5548580884933472
+  ],
+  [
+    [
+      85,
+      93
+    ],
+    [
+      "Ziehen Sie ihr eine Mütze über den Kopf.",
+      "Packen Sie den Betroffenen in Decken ein, ziehen Sie ihm eine Mütze über den Kopf."
+    ],
+    0.7465291619300842
+  ],
+  [
+    [
+      88,
+      93
+    ],
+    [
+      "Sie können die Person nicht an einen warmen Ort bringen?",
+      "Packen Sie den Betroffenen in Decken ein, ziehen Sie ihm eine Mütze über den Kopf."
+    ],
+    0.4972374141216278
+  ],
+  [
+    [
+      91,
+      93
+    ],
+    [
+      "Legen Sie eine Rettungsfolie oder eine Decke unter die Person.",
+      "Packen Sie den Betroffenen in Decken ein, ziehen Sie ihm eine Mütze über den Kopf."
+    ],
+    0.5375262498855591
+  ],
+  [
+    [
+      93,
+      96
+    ],
+    [
+      "Dann decken Sie die Person vorsichtig zu.",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.5250502824783325
+  ],
+  [
+    [
+      94,
+      96
+    ],
+    [
+      "Bewegen Sie sie möglichst wenig.",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.5234359502792358
+  ],
+  [
+    [
+      96,
+      97
+    ],
+    [
+      "Die betroffene Person hat ihr Bewusstsein verloren und atmet nicht?",
+      "Hat der Betroffene das Bewusstsein verloren und atmet nicht, dann nehmen Sie eine Herzdruckmassage vor."
+    ],
+    0.611089289188385
+  ],
+  [
+    [
+      98,
+      99
+    ],
+    [
+      "Achtung: Die betroffene Person ist kaum noch bei Bewusstsein?",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.5988067388534546
+  ],
+  [
+    [
+      100,
+      99
+    ],
+    [
+      "Dann sollten Sie die Person nicht aufwärmen.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.5734135508537292
+  ],
+  [
+    [
+      103,
+      99
+    ],
+    [
+      "Sie wollen noch mehr über Kälteschäden lesen?",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.46375882625579834
+  ],
+  [
+    [
+      106,
+      99
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.5250211954116821
+  ]
+]

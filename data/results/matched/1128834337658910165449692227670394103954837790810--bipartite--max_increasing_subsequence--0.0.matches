@@ -1,0 +1,706 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Achtung!",
+      "Herzinfarkt :"
+    ],
+    0.07274268567562103
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?",
+      "Herzinfarkt :"
+    ],
+    1.0
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Herzinfarkt :"
+    ],
+    0.30611535906791687
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Nummer ist:",
+      "Herzinfarkt :"
+    ],
+    0.09354513138532639
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "112.",
+      "Herzinfarkt :"
+    ],
+    0.09792700409889221
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.",
+      "Herzinfarkt :"
+    ],
+    0.869480311870575
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Dann fehlen im Gehirn Sauerstoff und Nährstoffe.",
+      "Herzinfarkt :"
+    ],
+    0.3929577171802521
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Und dann können Gehirnzellen sterben.",
+      "Herzinfarkt :"
+    ],
+    0.46364668011665344
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Herzinfarkt :"
+    ],
+    0.11757803708314896
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für einen Schlaganfall.",
+      "Herzinfarkt :"
+    ],
+    0.869480311870575
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Herzinfarkt :"
+    ],
+    0.374922513961792
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Typische Anzeichen für einen Schlaganfall sind zum Beispiel:",
+      "Herzinfarkt :"
+    ],
+    0.869480311870575
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Ein Körperteil ist gelähmt.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.3856019973754883
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.5154147744178772
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Ein Körperteil fühlt sich taub an.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.37762951850891113
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Ein Teil des Gesichts ist gelähmt.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.3327126204967499
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel nicht mehr lächeln.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.42687565088272095
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "Die betroffene Person hat Sehstörungen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.6545456647872925
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Die betroffene Person hat Problemen beim Sprechen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.5662328600883484
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Die betroffene Person fühlt sich schwindelig.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.4675595164299011
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Bei einem Herzinfarkt ist ein Blutgefäß verstopft.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.4113868176937103
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Deshalb bekommt das Herz nicht mehr genug Blut.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.3857167959213257
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Die Verstopfung von dem Gefäß muss schnell gelöst werden.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.4771420657634735
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Wird die Verstopfung im Blutgefäß nicht gelöst?",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.5495916604995728
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Dann sterben Muskelzellen im Herz ab.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.3770524263381958
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Das Herz kann dann manchmal nicht mehr richtig arbeiten.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.46720415353775024
+  ],
+  [
+    [
+      26,
+      6
+    ],
+    [
+      "Das kann lebensgefährlich sein.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.6356576085090637
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.4601842761039734
+  ],
+  [
+    [
+      28,
+      6
+    ],
+    [
+      "Es gibt viele verschiedene Anzeichen für einen Herzinfarkt.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.4048382639884949
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.6629794836044312
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Typische Anzeichen für einen Herzinfarkt sind zum Beispiel: starke Schmerzen in der Brust ein drückendes Gefühl in der Brust Schmerzen im linken Arm Schmerzen im Hals oder im Kiefer kalter Schweiß",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.40960583090782166
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Übelkeit",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.8034273386001587
+  ],
+  [
+    [
+      32,
+      6
+    ],
+    [
+      "Atemnot ein blasses Gesicht",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.42390868067741394
+  ],
+  [
+    [
+      33,
+      6
+    ],
+    [
+      "Angst",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.49585238099098206
+  ],
+  [
+    [
+      34,
+      8
+    ],
+    [
+      "Sie glauben: Eine Person hat vielleicht einen Schlaganfall oder einen Herzinfarkt?",
+      "Das sollten Sie tun:"
+    ],
+    0.5533562898635864
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Das sollten Sie tun:"
+    ],
+    0.6229594349861145
+  ],
+  [
+    [
+      36,
+      8
+    ],
+    [
+      "Rufen Sie zuerst den Rettungsdienst.",
+      "Das sollten Sie tun:"
+    ],
+    0.35737013816833496
+  ],
+  [
+    [
+      37,
+      8
+    ],
+    [
+      "Die Telefonnummer ist:",
+      "Das sollten Sie tun:"
+    ],
+    0.1593656688928604
+  ],
+  [
+    [
+      38,
+      8
+    ],
+    [
+      "112. Sie haben den Rettungsdienst gerufen?",
+      "Das sollten Sie tun:"
+    ],
+    0.4001181125640869
+  ],
+  [
+    [
+      39,
+      8
+    ],
+    [
+      "Dann können Sie jetzt Erste Hilfe leisten.",
+      "Das sollten Sie tun:"
+    ],
+    0.6105660796165466
+  ],
+  [
+    [
+      40,
+      8
+    ],
+    [
+      "Folgendes können Sie tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.7826895713806152
+  ],
+  [
+    [
+      41,
+      8
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.44139063358306885
+  ],
+  [
+    [
+      42,
+      8
+    ],
+    [
+      "Reden Sie mit der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.4208105802536011
+  ],
+  [
+    [
+      43,
+      8
+    ],
+    [
+      "Lockern Sie zu enge Kleidung der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.4165632128715515
+  ],
+  [
+    [
+      44,
+      8
+    ],
+    [
+      "Entfernen Sie Zahnprothesen der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.3991538882255554
+  ],
+  [
+    [
+      45,
+      8
+    ],
+    [
+      "Geben Sie der betroffenen Person nichts zu essen oder zu trinken.",
+      "Das sollten Sie tun:"
+    ],
+    0.49838748574256897
+  ],
+  [
+    [
+      46,
+      9
+    ],
+    [
+      "Die Person könnte sich nämlich verschlucken.",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.4643740653991699
+  ],
+  [
+    [
+      47,
+      9
+    ],
+    [
+      "Richten Sie den Oberkörper der betroffenen Person etwas auf.",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.48883581161499023
+  ],
+  [
+    [
+      48,
+      9
+    ],
+    [
+      "Legen Sie ihr zum Beispiel ein Kissen in den Rücken.",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.273120641708374
+  ],
+  [
+    [
+      49,
+      9
+    ],
+    [
+      "Ist die betroffene Person bewusstlos?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.4744006097316742
+  ],
+  [
+    [
+      50,
+      9
+    ],
+    [
+      "Oder erbricht sie sich?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.4112296998500824
+  ],
+  [
+    [
+      51,
+      9
+    ],
+    [
+      "Dann legen Sie die Person in die stabile Seitenlage .",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.4311574101448059
+  ],
+  [
+    [
+      52,
+      9
+    ],
+    [
+      "Die betroffene Person atmet nicht?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.475841224193573
+  ],
+  [
+    [
+      53,
+      13
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.6634765863418579
+  ],
+  [
+    [
+      54,
+      13
+    ],
+    [
+      "Merken Sie sich: Wann haben die Anzeichen angefangen?",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.37265098094940186
+  ],
+  [
+    [
+      55,
+      13
+    ],
+    [
+      "Die Uhrzeit ist eine wichtige Information für den Notarzt.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.23602133989334106
+  ],
+  [
+    [
+      56,
+      13
+    ],
+    [
+      "Sie wollen noch mehr über Erste Hilfe bei einem Schlaganfall oder einem Herzinfarkt lesen?",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.45819494128227234
+  ],
+  [
+    [
+      57,
+      13
+    ],
+    [
+      "Mehr Informationen finden Sie hier.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.48098596930503845
+  ],
+  [
+    [
+      58,
+      13
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.2899731993675232
+  ],
+  [
+    [
+      59,
+      13
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.31688353419303894
+  ],
+  [
+    [
+      60,
+      13
+    ],
+    [
+      "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.40886828303337097
+  ],
+  [
+    [
+      61,
+      13
+    ],
+    [
+      "Mehr Informationen in Einfacher Sprache zu diesen Themen finden Sie in diesen Texten:",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.40701285004615784
+  ],
+  [
+    [
+      62,
+      13
+    ],
+    [
+      "• Schlaganfall",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.5208228826522827
+  ],
+  [
+    [
+      63,
+      13
+    ],
+    [
+      "• Herzinfarkt",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.3009176552295685
+  ]
+]

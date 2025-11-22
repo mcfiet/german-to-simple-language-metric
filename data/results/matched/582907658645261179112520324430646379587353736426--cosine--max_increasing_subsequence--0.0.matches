@@ -1,0 +1,662 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Die Bauchspeicheldrüse ist ein Organ im oberen Bauch.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.4279891848564148
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Die Bauchspeicheldrüse produziert Verdauungssaft.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.2882830798625946
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Der Verdauungssaft hilft dem Darm die Nahrung zu zerkleinern.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.5011275410652161
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Bauchspeicheldrüse produziert aber auch wichtige Hormone.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.6160336136817932
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Diese Hormone steuern den Blutzucker.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.5771768093109131
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Der Zucker im Blut heißt auch:",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.17973735928535461
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Glucose.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.2365538775920868
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Glucose ist eine wichtige Energiequelle.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.557153046131134
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Glucose gibt zum Beispiel dem Gehirn Energie.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.4071207046508789
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Die Bauchspeicheldrüse kann sich entzünden:",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.6237019300460815
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Dann kann der Verdauungssaft nicht mehr in den Darm fließen und die Hormone können den Blutzucker nicht mehr steuern.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.6710935831069946
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Eine Bauchspeicheldrüsenentzündung kann akut sein.",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.692283570766449
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Akut bedeutet:",
+      "Folgende Beschwerden können Anzeichen einer akuten Bauchspeicheldrüsenentzündung sein:"
+    ],
+    0.5725442171096802
+  ],
+  [
+    [
+      13,
+      8
+    ],
+    [
+      "Die Entzündung tritt unvermittelt auf und verläuft heftig.",
+      "Wenn neben der Bauchspeicheldrüse auch der Gallengang beteiligt ist, entsteht eine Gelbsucht (Ikterus): Der Urin wird dunkel, der Stuhl entfärbt sich, die Haut und die Bindehäute der Augen färben sich gelb."
+    ],
+    0.7459867000579834
+  ],
+  [
+    [
+      14,
+      19
+    ],
+    [
+      "Eine Bauchspeicheldrüsenentzündung kann aber auch chronisch sein.",
+      "Zum anderen entzündet sich die Bauchspeicheldrüse, weil der Verdauungssaft nicht abfließen kann."
+    ],
+    0.7055397629737854
+  ],
+  [
+    [
+      15,
+      19
+    ],
+    [
+      "Chronisch bedeutet hier: Die Bauchspeicheldrüse entzündet sich immer wieder oder dauerhaft.",
+      "Zum anderen entzündet sich die Bauchspeicheldrüse, weil der Verdauungssaft nicht abfließen kann."
+    ],
+    0.8244319558143616
+  ],
+  [
+    [
+      16,
+      19
+    ],
+    [
+      "Die Heilung kann dann mehrere Monate dauern.",
+      "Zum anderen entzündet sich die Bauchspeicheldrüse, weil der Verdauungssaft nicht abfließen kann."
+    ],
+    0.6547046303749084
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Zu den Ursachen einer akuten Bauchspeicheldrüsenentzündung gehören: Alkohol",
+      "Bestimmte Medikamente – zum Beispiel Diuretika, ACE-Hemmer, Fettsenker, manche Antibiotika, Zytostatika und Schmerzmittel"
+    ],
+    0.5412110686302185
+  ],
+  [
+    [
+      18,
+      20
+    ],
+    [
+      "Gallensteine Medikamente Rauchen",
+      "Bestimmte Medikamente – zum Beispiel Diuretika, ACE-Hemmer, Fettsenker, manche Antibiotika, Zytostatika und Schmerzmittel"
+    ],
+    0.7564504742622375
+  ],
+  [
+    [
+      19,
+      23
+    ],
+    [
+      "Bakterien",
+      "Eine Infektion mit Viren (zum Beispiel Mumps ), Bakterien (zum Beispiel Salmonellen) oder Wurmbefall"
+    ],
+    0.6036070585250854
+  ],
+  [
+    [
+      20,
+      45
+    ],
+    [
+      "Viren Sind Gallensteine die Ursache einer Bauchspeicheldrüsenentzündung?",
+      "Vermutet der Arzt, dass Gallensteine Auslöser für die Bauchspeicheldrüsenentzündung sind, kann eine ERC (Endoskopisch retrograde Cholangiografie) genaueren Aufschluss bringen."
+    ],
+    0.8151978850364685
+  ],
+  [
+    [
+      21,
+      49
+    ],
+    [
+      "Dann verstopfen die Gallensteine den Gallengang.",
+      "Der Mediziner kann Steine nun über besondere Instrumente in der gleichen Sitzung entfernen und damit den Auslöser der Pankreatitis beheben."
+    ],
+    0.7477563619613647
+  ],
+  [
+    [
+      22,
+      49
+    ],
+    [
+      "Und die Gallensteine verstopfen den Bauchspeicheldrüsengang.",
+      "Der Mediziner kann Steine nun über besondere Instrumente in der gleichen Sitzung entfernen und damit den Auslöser der Pankreatitis beheben."
+    ],
+    0.7157623171806335
+  ],
+  [
+    [
+      23,
+      49
+    ],
+    [
+      "Deshalb kann der Verdauungssaft nicht von der Bauchspeicheldrüse in den Darm fließen.",
+      "Der Mediziner kann Steine nun über besondere Instrumente in der gleichen Sitzung entfernen und damit den Auslöser der Pankreatitis beheben."
+    ],
+    0.8711302876472473
+  ],
+  [
+    [
+      24,
+      49
+    ],
+    [
+      "Der Verdauungssaft sammelt sich in der Bauchspeicheldrüse und die Bauchspeicheldrüse entzündet sich.",
+      "Der Mediziner kann Steine nun über besondere Instrumente in der gleichen Sitzung entfernen und damit den Auslöser der Pankreatitis beheben."
+    ],
+    0.865966260433197
+  ],
+  [
+    [
+      25,
+      68
+    ],
+    [
+      "Eine akute Bauchspeicheldrüsenentzündung kann unterschiedliche Anzeichen haben.",
+      "Hält die Entzündung längere Zeit an oder verläuft die Krankheit schwerer, muss eine künstliche Ernährung erfolgen."
+    ],
+    0.7521117925643921
+  ],
+  [
+    [
+      26,
+      87
+    ],
+    [
+      "Dazu gehören zum Beispiel: starke Bauchschmerzen",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.7979812026023865
+  ],
+  [
+    [
+      27,
+      87
+    ],
+    [
+      "Übelkeit",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.2550542950630188
+  ],
+  [
+    [
+      28,
+      87
+    ],
+    [
+      "Erbrechen Blähungen",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.43511781096458435
+  ],
+  [
+    [
+      29,
+      87
+    ],
+    [
+      "Fieber",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.07211416959762573
+  ],
+  [
+    [
+      30,
+      87
+    ],
+    [
+      "Kreislaufprobleme Sind Gallensteine die Ursache einer Bauchspeicheldrüsenentzündung?",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.4292434751987457
+  ],
+  [
+    [
+      31,
+      87
+    ],
+    [
+      "Dann hat die Bauchspeicheldrüsenentzündung besondere Anzeichen.",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.3777227997779846
+  ],
+  [
+    [
+      32,
+      87
+    ],
+    [
+      "Diese Anzeichen können zum Beispiel sein: der Urin wird dunkelgelb, der Stuhl wird heller, die Haut und die Augen verfärben sich gelb.",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.5600449442863464
+  ],
+  [
+    [
+      33,
+      87
+    ],
+    [
+      "Sie glauben: Ich habe vielleicht eine Bauchspeicheldrüsenentzündung?",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.2123662680387497
+  ],
+  [
+    [
+      34,
+      87
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.6123644709587097
+  ],
+  [
+    [
+      35,
+      87
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.5128987431526184
+  ],
+  [
+    [
+      36,
+      87
+    ],
+    [
+      "Der Arzt nimmt Ihnen zum Beispiel Blut ab und untersucht das Blut.",
+      "Dazu legen Ärzte zum Beispiel einen dünnen Verbindungsschlauch von der Pseudozyste zum Magen oder zum Dünndarm."
+    ],
+    0.6082636117935181
+  ],
+  [
+    [
+      37,
+      88
+    ],
+    [
+      "So kann der Arzt herausfinden:",
+      "So kann der Zysteninhalt abfließen."
+    ],
+    0.8898327946662903
+  ],
+  [
+    [
+      38,
+      88
+    ],
+    [
+      "Gibt es eine Entzündung im Körper?",
+      "So kann der Zysteninhalt abfließen."
+    ],
+    0.38575220108032227
+  ],
+  [
+    [
+      39,
+      88
+    ],
+    [
+      "Der Arzt tastet auch Ihren Bauch ab.",
+      "So kann der Zysteninhalt abfließen."
+    ],
+    0.31939464807510376
+  ],
+  [
+    [
+      40,
+      88
+    ],
+    [
+      "So kann der Arzt prüfen: Ist der Bauch hart?",
+      "So kann der Zysteninhalt abfließen."
+    ],
+    0.8047941327095032
+  ],
+  [
+    [
+      41,
+      92
+    ],
+    [
+      "Haben Sie starke Schmerzen?",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.45063066482543945
+  ],
+  [
+    [
+      42,
+      92
+    ],
+    [
+      "Der Arzt stellt fest:",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.16787828505039215
+  ],
+  [
+    [
+      43,
+      92
+    ],
+    [
+      "Sie haben eine Bauchspeicheldrüsenentzündung?",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.6244821548461914
+  ],
+  [
+    [
+      44,
+      92
+    ],
+    [
+      "Dann müssen Sie ins Krankenhaus.",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.410824179649353
+  ],
+  [
+    [
+      45,
+      92
+    ],
+    [
+      "Dort können Ihnen die Ärzte nämlich besser helfen.",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.7345511317253113
+  ],
+  [
+    [
+      46,
+      92
+    ],
+    [
+      "Achtung: Eine Bauchspeicheldrüsenentzündung wird nicht behandelt?",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.587439775466919
+  ],
+  [
+    [
+      47,
+      92
+    ],
+    [
+      "Dann kann das verschiedene Folgen haben wie zum Beispiel:",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.6176281571388245
+  ],
+  [
+    [
+      48,
+      92
+    ],
+    [
+      "Diabetes Blähungen Durchfall",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.4477563798427582
+  ],
+  [
+    [
+      49,
+      92
+    ],
+    [
+      "Sie hatten eine Bauchspeicheldrüsenentzündung?",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.6199871897697449
+  ],
+  [
+    [
+      50,
+      92
+    ],
+    [
+      "Dann ist jetzt eine gesunde Lebensweise wichtig.",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.6941946744918823
+  ],
+  [
+    [
+      51,
+      92
+    ],
+    [
+      "Zu einer gesunden Lebensweise gehören zum Beispiel: viel Bewegung Sport gesundes Essen",
+      "Generell ist im Anschluss eine gesunde Lebensweise mit viel Bewegung, einer vielseitigen gesunden Ernährung zu empfehlen, wobei sich die Mahlzeiten auf mehrere kleinere Portionen verteilen sollten."
+    ],
+    0.6576975584030151
+  ],
+  [
+    [
+      52,
+      93
+    ],
+    [
+      "Gesundes Essen meint: viel Obst viel Gemüse wenig Fleisch pflanzliche Öle Fisch",
+      "Nach einer schweren Bauchspeicheldrüsenentzündung haben Patienten manchmal viel Gewicht verloren und noch wenig Appetit."
+    ],
+    0.6639037728309631
+  ],
+  [
+    [
+      53,
+      96
+    ],
+    [
+      "Verteilen Sie Ihre Mahlzeiten auf kleinere Portionen über den gesamten Tag.",
+      "Manche Experten empfehlen, nach einer akuten Bauchspeicheldrüsenentzündung grundsätzlich mindestens sechs bis zwölf Monate keinen Alkohol zu trinken."
+    ],
+    0.603300929069519
+  ],
+  [
+    [
+      54,
+      96
+    ],
+    [
+      "War Alkohol der Auslöser für die Bauchspeicheldrüsenentzündung?",
+      "Manche Experten empfehlen, nach einer akuten Bauchspeicheldrüsenentzündung grundsätzlich mindestens sechs bis zwölf Monate keinen Alkohol zu trinken."
+    ],
+    0.3929566740989685
+  ],
+  [
+    [
+      55,
+      96
+    ],
+    [
+      "Dann sollten Sie etwa zwei bis drei Monate keinen Alkohol trinken.",
+      "Manche Experten empfehlen, nach einer akuten Bauchspeicheldrüsenentzündung grundsätzlich mindestens sechs bis zwölf Monate keinen Alkohol zu trinken."
+    ],
+    0.8345362544059753
+  ],
+  [
+    [
+      56,
+      102
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bauchspeicheldrüsenentzündung lesen?",
+      "Produziert die Bauchspeicheldrüse zu wenig Verdauungsenzyme, treten Verdauungsstörungen auf – zum Beispiel Blähungen und Durchfälle ."
+    ],
+    0.714576244354248
+  ],
+  [
+    [
+      57,
+      117
+    ],
+    [
+      "Mehr Informationen über die akute Bauchspeicheldrüsenentzündung finden Sie hier .",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.6775853037834167
+  ],
+  [
+    [
+      58,
+      117
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.44347524642944336
+  ],
+  [
+    [
+      59,
+      117
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.7674562931060791
+  ]
+]

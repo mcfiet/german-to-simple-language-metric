@@ -1,0 +1,695 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Haben Sie Fragen?",
+      "Pflege Hilfe zu Hause"
+    ],
+    0.15403200685977936
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Brauchen Sie Hilfe?",
+      "Pflege Hilfe zu Hause"
+    ],
+    0.3136378526687622
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann rufen Sie uns an.",
+      "Pflege Hilfe zu Hause"
+    ],
+    0.1534234881401062
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Wir haben ein Beratungs-Telefon für:",
+      "Bildung"
+    ],
+    0.11174649745225906
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Menschen mit Behinderung Senioren und Seniorinnen",
+      "Bildung"
+    ],
+    0.31244635581970215
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Die Telefon-Nummer vom Beratungs-Telefon ist: 0221 / 22 12 74 00",
+      "Bildung"
+    ],
+    0.05335862934589386
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Zu welchen Themen kann ich Fragen stellen?",
+      "Bildung"
+    ],
+    0.14664842188358307
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Sie können Fragen stellen zu Themen wie: Beratung",
+      "Bildung"
+    ],
+    0.2183934599161148
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Pflege Hilfe zu Hause",
+      "Bildung"
+    ],
+    0.1999308317899704
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Bildung",
+      "Bildung"
+    ],
+    1.0
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Freizeit",
+      "Begegnung Freizeitgestaltung"
+    ],
+    0.5042376518249512
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Pflege",
+      "Pflege"
+    ],
+    1.0
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Wohnen Geld",
+      "Wohnen Geld"
+    ],
+    0.5817835330963135
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Arbeit",
+      "Arbeit"
+    ],
+    1.0
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Wie kann ich Infos bekommen?",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.13705630600452423
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Wir haben viele Infos für Sie gesammelt.",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.17531979084014893
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Zum Beispiel Infos: zum Wohnen oder zur Pflege.",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.11863534152507782
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "Diese Infos können Sie bekommen:",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.22387701272964478
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Wenn Sie beim Beratungs-Telefon anrufen.",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.1627051830291748
+  ],
+  [
+    [
+      19,
+      7
+    ],
+    [
+      "Sie können auch Infos im Internet suchen.",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.21343713998794556
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Dazu können Sie unsere Online-Suche nutzen.",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.2462031990289688
+  ],
+  [
+    [
+      21,
+      7
+    ],
+    [
+      "Online spricht man so: onlein.",
+      "Zu vielen Themen können Sie auch Material anfordern, das Ihnen kostenlos zugeschickt wird."
+    ],
+    0.09992027282714844
+  ],
+  [
+    [
+      22,
+      9
+    ],
+    [
+      "Online heißt:",
+      "In unserem Online"
+    ],
+    0.19504354894161224
+  ],
+  [
+    [
+      23,
+      9
+    ],
+    [
+      "Mit dem Internet oder im Internet.",
+      "In unserem Online"
+    ],
+    0.14643484354019165
+  ],
+  [
+    [
+      24,
+      10
+    ],
+    [
+      "So kommen Sie zur Online-Suche:",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.18014399707317352
+  ],
+  [
+    [
+      25,
+      10
+    ],
+    [
+      "So nutzen Sie die Online-Suche:",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.23395892977714539
+  ],
+  [
+    [
+      26,
+      10
+    ],
+    [
+      "Sie suchen ein Thema aus.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.1395321637392044
+  ],
+  [
+    [
+      27,
+      10
+    ],
+    [
+      "Ein anderes Wort für Thema ist: Kategorie .",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.05926632508635521
+  ],
+  [
+    [
+      28,
+      10
+    ],
+    [
+      "Bei der Online-Suche gibt es 2 Felder:",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.09488295763731003
+  ],
+  [
+    [
+      29,
+      10
+    ],
+    [
+      "Im 1. Feld wählen Sie die Haupt-Kategorie.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.10387866199016571
+  ],
+  [
+    [
+      30,
+      10
+    ],
+    [
+      "Also: Das gesuchte Thema.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.05066968873143196
+  ],
+  [
+    [
+      31,
+      10
+    ],
+    [
+      "Zum Beispiel: Information und Beratung",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.18957068026065826
+  ],
+  [
+    [
+      32,
+      10
+    ],
+    [
+      "Wohnen Arbeit",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.17056402564048767
+  ],
+  [
+    [
+      33,
+      10
+    ],
+    [
+      "Im 2. Feld wählen Sie eine Unter-Kategorie .",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.09582457691431046
+  ],
+  [
+    [
+      34,
+      10
+    ],
+    [
+      "Zum Beispiel: Frauen Schwule und Lesben",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.09046749770641327
+  ],
+  [
+    [
+      35,
+      10
+    ],
+    [
+      "So wählen Sie ein Thema:",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.12985289096832275
+  ],
+  [
+    [
+      36,
+      10
+    ],
+    [
+      "Klicken Sie in dem Feld auf den Pfeil rechts.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.10628022998571396
+  ],
+  [
+    [
+      37,
+      10
+    ],
+    [
+      "Dann erscheinen viele verschiedene Themen.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.19463099539279938
+  ],
+  [
+    [
+      38,
+      10
+    ],
+    [
+      "Klicken Sie das gesuchte Thema an.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.15234848856925964
+  ],
+  [
+    [
+      39,
+      10
+    ],
+    [
+      "Sie können auch Infos nach Stadt-Teilen suchen.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.22448675334453583
+  ],
+  [
+    [
+      40,
+      10
+    ],
+    [
+      "Zum Beispiel: Sie suchen nur Infos im Stadt-Teil Porz.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.11902603507041931
+  ],
+  [
+    [
+      41,
+      10
+    ],
+    [
+      "Dazu wählen Sie den Tätigkeits-Bereich .",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.1908254474401474
+  ],
+  [
+    [
+      42,
+      10
+    ],
+    [
+      "Hier stehen die Kölner Stadt-Teile.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.14822342991828918
+  ],
+  [
+    [
+      43,
+      10
+    ],
+    [
+      "Sie können einen Stadt-Teil aussuchen.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.22691458463668823
+  ],
+  [
+    [
+      44,
+      10
+    ],
+    [
+      "Dann suchen Sie nur Infos für diesen Stadt-Teil.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.15845981240272522
+  ],
+  [
+    [
+      45,
+      10
+    ],
+    [
+      "Wenn Sie keinen bestimmten Stadt-Teil wählen:",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.18434345722198486
+  ],
+  [
+    [
+      46,
+      10
+    ],
+    [
+      "Dann klicken Sie auf: übergreifend.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.18750326335430145
+  ],
+  [
+    [
+      47,
+      10
+    ],
+    [
+      "Dann werden Infos für ganz Köln gesucht.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.10000089555978775
+  ],
+  [
+    [
+      48,
+      10
+    ],
+    [
+      "Es gibt unten auch ein Feld Such-Wort .",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.11763235181570053
+  ],
+  [
+    [
+      49,
+      10
+    ],
+    [
+      "Damit können Sie nach einem Wort suchen.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.17301277816295624
+  ],
+  [
+    [
+      50,
+      10
+    ],
+    [
+      "Zum Beispiel: Wenn Sie schon genau wissen, was Sie suchen.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.16312779486179352
+  ],
+  [
+    [
+      51,
+      10
+    ],
+    [
+      "Dann können Sie dort das gesuchte Wort eingeben.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.16377092897891998
+  ],
+  [
+    [
+      52,
+      10
+    ],
+    [
+      "Die ersten 2 Buchstaben von dem Wort reichen aus.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.06290905922651291
+  ],
+  [
+    [
+      53,
+      10
+    ],
+    [
+      "Dann bekommen Sie erste Vorschläge für Ihre Suche.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.15449784696102142
+  ],
+  [
+    [
+      54,
+      10
+    ],
+    [
+      "Sie müssen immer mindestens 2 Buchstaben eingeben.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.15868094563484192
+  ],
+  [
+    [
+      55,
+      10
+    ],
+    [
+      "Wir senden Ihnen auch Infos mit der Post zu.",
+      "dienst können Sie auch über Ihren Internet browser die vielfältigen Angebote des Beratungstelefons durchsuchen."
+    ],
+    0.1641428917646408
+  ],
+  [
+    [
+      56,
+      12
+    ],
+    [
+      "Das ist kostenlos.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.11338365823030472
+  ],
+  [
+    [
+      57,
+      12
+    ],
+    [
+      "Muss ich persönlich vorbei kommen?",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.11662661284208298
+  ],
+  [
+    [
+      58,
+      12
+    ],
+    [
+      "Nein.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.075416699051857
+  ],
+  [
+    [
+      59,
+      12
+    ],
+    [
+      "Sie können uns anrufen.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.11485555768013
+  ],
+  [
+    [
+      60,
+      12
+    ],
+    [
+      "Die Telefon-Nummer vom Beratungs-Telefon ist: 0221 / 221-27400 Sie können auch die Online-Suche nutzen.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.13243946433067322
+  ],
+  [
+    [
+      61,
+      12
+    ],
+    [
+      "Weiterführende Informationen *",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.22554804384708405
+  ],
+  [
+    [
+      62,
+      12
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.06438343226909637
+  ]
+]

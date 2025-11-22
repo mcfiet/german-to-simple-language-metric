@@ -1,0 +1,464 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einer Verbrennung ist die Haut verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5336121320724487
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Verbrennung entsteht durch sehr große Hitze.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5076813697814941
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Ursachen einer Verbrennung sind zum Beispiel: ein offenes Feuer Strom",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.461230605840683
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Wie schlimm eine Verbrennung ist, entscheiden zwei Punkte: 1. Wie hoch war die Temperatur?",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.4740108549594879
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Die Haut wird durch heiße Flüssigkeiten oder heißen Dampf verletzt?",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.4865330159664154
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Bei einer Verbrennung verletzt große Hitze die Haut.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5307869911193848
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Bei höheren Schweregraden sind weitere Hautschichten verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.4711359441280365
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Dann sind vielleicht auch Muskeln oder Knochen durch die Hitze verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5513884425163269
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Bei einer Verbrennung ist eine schnelle Erste Hilfe wichtig.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5306365489959717
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Werfen Sie zum Beispiel eine Branddecke über die brennende Person.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.5165366530418396
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Oder löschen Sie den Brand mit Wasser.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.46276235580444336
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Entfernen Sie dann die Kleidung und den Schmuck von der Person.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.604752779006958
+  ],
+  [
+    [
+      26,
+      4
+    ],
+    [
+      "Die Kleidung und der Schmuck sind nämlich noch lange heiß.",
+      "Ist Kleidung mit der Haut verbacken, wird sie dort belassen und der Bereich umschnitten."
+    ],
+    0.5598382353782654
+  ],
+  [
+    [
+      27,
+      4
+    ],
+    [
+      "Achtung: Sie können die Kleidung nicht entfernen?",
+      "Ist Kleidung mit der Haut verbacken, wird sie dort belassen und der Bereich umschnitten."
+    ],
+    0.4609347879886627
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "Dann reißen Sie die Kleidung auf keinen Fall von der Haut ab.",
+      "Auf keinen Fall Kleidung abreißen!"
+    ],
+    0.48530545830726624
+  ],
+  [
+    [
+      29,
+      8
+    ],
+    [
+      "Es ist nur eine kleine Fläche verbrannt?",
+      "Es ist kein Spezialverband nötig, das lockere Anlegen eines beschichteten Brandwundenverbandtuchs ist ausreichend."
+    ],
+    0.5097940564155579
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Kühlen ist nur bei kleinen Verbrennungen hilfreich.",
+      "Es ist kein Spezialverband nötig, das lockere Anlegen eines beschichteten Brandwundenverbandtuchs ist ausreichend."
+    ],
+    0.48085588216781616
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Kleine Verbrennung bedeutet: Die Fläche ist höchstens so groß wie die Handfläche.",
+      "Verbrennungsareal ist circa vier Handflächen (inklusive der Finger) groß bedeutet, dass circa vier Prozent der Körperoberfläche verbrannt sind."
+    ],
+    0.5656648278236389
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Die Verbrennung ist sehr groß?",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5230611562728882
+  ],
+  [
+    [
+      38,
+      14
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung nicht.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.4699593782424927
+  ],
+  [
+    [
+      43,
+      14
+    ],
+    [
+      "Die Verbrennung ist an einer anderen Köperstelle?",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5620859861373901
+  ],
+  [
+    [
+      48,
+      14
+    ],
+    [
+      "Dann kühlen Sie die verbrannten Stellen nicht .",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.4714231491088867
+  ],
+  [
+    [
+      49,
+      14
+    ],
+    [
+      "Wickeln Sie nach dem Kühlen vorsichtig einen Verband um die Verbrennung.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.4853607416152954
+  ],
+  [
+    [
+      52,
+      14
+    ],
+    [
+      "Das ist zum Beispiel besonders wichtig bei Verletzungen durch Strom.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.4909127652645111
+  ],
+  [
+    [
+      54,
+      14
+    ],
+    [
+      "Manchmal muss eine Verbrennung aber auch von einem Arzt behandelt werden.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5158860683441162
+  ],
+  [
+    [
+      56,
+      14
+    ],
+    [
+      "Die Verbrennung ist sehr groß.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5230611562728882
+  ],
+  [
+    [
+      57,
+      14
+    ],
+    [
+      "Die Fläche der Verbrennung ist größer als die Handfläche.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.603405773639679
+  ],
+  [
+    [
+      58,
+      14
+    ],
+    [
+      "Die Verbrennung ist sehr tief.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5372573137283325
+  ],
+  [
+    [
+      59,
+      14
+    ],
+    [
+      "Es sind Blasen auf der Haut oder die Haut ist weiß.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5027302503585815
+  ],
+  [
+    [
+      60,
+      14
+    ],
+    [
+      "Die Verbrennung ist am Kopf, im Gesicht oder im Genitalbereich.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5260025858879089
+  ],
+  [
+    [
+      68,
+      16
+    ],
+    [
+      "Rufen Sie bei schweren Verbrühungen oder Verbrennungen einen Notarzt.",
+      "Ausgedehnte Verbrennungen können neben der lokalen Hautzerstörung auch zu weiteren Komplikationen wie einer Fehlregulierung des Flüssigkeitshaushaltes, Blutvergiftung (Sepsis) oder Nierenversagen führen."
+    ],
+    0.49888187646865845
+  ],
+  [
+    [
+      71,
+      16
+    ],
+    [
+      "Dann gehen Sie auch bei einer kleinen Verletzung sofort zum Arzt.",
+      "Ausgedehnte Verbrennungen können neben der lokalen Hautzerstörung auch zu weiteren Komplikationen wie einer Fehlregulierung des Flüssigkeitshaushaltes, Blutvergiftung (Sepsis) oder Nierenversagen führen."
+    ],
+    0.4762445390224457
+  ],
+  [
+    [
+      72,
+      16
+    ],
+    [
+      "In bestimmten Situationen kann es schnell zu Verbrennungen kommen.",
+      "Ausgedehnte Verbrennungen können neben der lokalen Hautzerstörung auch zu weiteren Komplikationen wie einer Fehlregulierung des Flüssigkeitshaushaltes, Blutvergiftung (Sepsis) oder Nierenversagen führen."
+    ],
+    0.5108382701873779
+  ],
+  [
+    [
+      75,
+      17
+    ],
+    [
+      "Benutzen Sie beim Grillen keine Brandbeschleuniger.",
+      "Vorbeugen: Beim Grillen keine Brandbeschleuniger verwenden!"
+    ],
+    0.7599738836288452
+  ],
+  [
+    [
+      76,
+      18
+    ],
+    [
+      "Gehen Sie vorsichtig mit Feuer um.",
+      "Besonnen mit Feuer umgehen!"
+    ],
+    0.5544062852859497
+  ],
+  [
+    [
+      77,
+      20
+    ],
+    [
+      "Füllen Sie kein kochendes Wasser in Wärmflaschen.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.839023232460022
+  ],
+  [
+    [
+      78,
+      20
+    ],
+    [
+      "Heißes Wasser reicht aus.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.5138019323348999
+  ],
+  [
+    [
+      82,
+      23
+    ],
+    [
+      "Stellen Sie den Wasserkocher weit entfernt von Kindern auf.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.48291274905204773
+  ],
+  [
+    [
+      83,
+      23
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Wasserkochers nicht erreichen.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.5469949245452881
+  ],
+  [
+    [
+      85,
+      23
+    ],
+    [
+      "Sie heiße Getränke nicht in die Nähe von Kindern.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.4879979193210602
+  ],
+  [
+    [
+      89,
+      23
+    ],
+    [
+      "Bügeleisen nicht in die Nähe von Kindern.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.5597383379936218
+  ],
+  [
+    [
+      90,
+      23
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Bügeleisens nicht erreichen.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.560341477394104
+  ]
+]

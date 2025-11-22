@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8549165725708008
+  ],
+  [
+    [
+      1,
+      15
+    ],
+    [
+      "Ein Kälteschaden entsteht durch eine zu lange Zeit in der Kälte.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.839988112449646
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8884433507919312
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8395671844482422
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.8377705216407776
+  ],
+  [
+    [
+      6,
+      15
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.7669006586074829
+  ],
+  [
+    [
+      9,
+      39
+    ],
+    [
+      "Dann können sich Eiskristalle im Gewebe bilden.",
+      "Deshalb im Freien keinen Schnaps trinken und dann im Kalten stehen!"
+    ],
+    0.8102575540542603
+  ],
+  [
+    [
+      11,
+      118
+    ],
+    [
+      "Deshalb wird es vielleicht nicht mehr gut durchblutet.",
+      "Denn: Friert das Gewebe erneut ein, kann es schwer beschädigt werden."
+    ],
+    0.8125940561294556
+  ],
+  [
+    [
+      12,
+      82
+    ],
+    [
+      "Manchmal stirbt das Gewebe auch ab.",
+      "Auch das darunter gelegene Gewebe stirbt ab (Nekrose)."
+    ],
+    0.9087815880775452
+  ],
+  [
+    [
+      13,
+      129
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Denken Sie auch an Bekleidung, die Sie vor dem Wind schützt."
+    ],
+    0.7878701686859131
+  ],
+  [
+    [
+      20,
+      70
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.843408465385437
+  ],
+  [
+    [
+      21,
+      80
+    ],
+    [
+      "Stufe 1:",
+      "Grad 3 und 4:"
+    ],
+    0.76376873254776
+  ],
+  [
+    [
+      23,
+      83
+    ],
+    [
+      "Die betroffene Hautstelle ist blass.",
+      "Die Sensibilität ist aufgehoben."
+    ],
+    0.8723598122596741
+  ],
+  [
+    [
+      24,
+      99
+    ],
+    [
+      "Manchmal ist sie auch grau-weiß oder gelb-weiß.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.7997300028800964
+  ],
+  [
+    [
+      25,
+      74
+    ],
+    [
+      "Die Hautstelle fühlt sich hart und kalt an.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.7595629096031189
+  ],
+  [
+    [
+      26,
+      58
+    ],
+    [
+      "Und die betroffene Hautstelle ist taub.",
+      "Die Muskeln sind steif, das Bewußtsein ist verlangsamt."
+    ],
+    0.7719484567642212
+  ],
+  [
+    [
+      27,
+      74
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.7743916511535645
+  ],
+  [
+    [
+      28,
+      74
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.9391648769378662
+  ],
+  [
+    [
+      29,
+      56
+    ],
+    [
+      "Stufe 2:",
+      "Unterkühlung Stadium 2"
+    ],
+    0.9040310978889465
+  ],
+  [
+    [
+      33,
+      84
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.7955685257911682
+  ],
+  [
+    [
+      34,
+      89
+    ],
+    [
+      "Die Schmerzen können aber auch geringer sein.",
+      "Die allgemeine Unterkühlung ist viel gefährlicher als eine lokale Erfrierung und muss deshalb zuerst und effektiv behandelt werden."
+    ],
+    0.8438829183578491
+  ],
+  [
+    [
+      35,
+      80
+    ],
+    [
+      "Stufe 3:",
+      "Grad 3 und 4:"
+    ],
+    0.9133307933807373
+  ],
+  [
+    [
+      37,
+      82
+    ],
+    [
+      "Das betroffene Hautgewebe stirbt ab.",
+      "Auch das darunter gelegene Gewebe stirbt ab (Nekrose)."
+    ],
+    0.8584326505661011
+  ],
+  [
+    [
+      38,
+      72
+    ],
+    [
+      "Die Haut ist blau oder schwarz verfärbt.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.761070728302002
+  ],
+  [
+    [
+      39,
+      81
+    ],
+    [
+      "Die Haut nimmt keine Reize oder Schmerzen mehr auf.",
+      "Schwere Erfrierungen äußern sich – allerdings erst spät – durch eine blauschwarze Verfärbung der Haut."
+    ],
+    0.7592623233795166
+  ],
+  [
+    [
+      40,
+      99
+    ],
+    [
+      "Und sie heilt auch nicht mehr.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.8589004278182983
+  ],
+  [
+    [
+      41,
+      65
+    ],
+    [
+      "In manchen Fällen muss das betroffene Gewebe durch eine Operation entfernt werden.",
+      "Bei einer schweren Unterkühlung mit Atem- und Kreislaufstillstand tritt der Hirntod jedoch deutlich später ein, als in anderen Fällen von Kreislaufversagen."
+    ],
+    0.7589102983474731
+  ],
+  [
+    [
+      42,
+      85
+    ],
+    [
+      "Hinweis: Oft zeigt sich erst einige Tage später, wie stark die Erfrierung ist.",
+      "Wie schlimm eine Erfrierung ist, lässt sich teilweise erst nach einigen Tagen beurteilen."
+    ],
+    0.8831703066825867
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Erfrierungen entstehen durch eine zu lange Zeit in der Kälte.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.879287600517273
+  ],
+  [
+    [
+      47,
+      88
+    ],
+    [
+      "Auch Wind kann gefährlich sein.",
+      "Wer leicht unterkühlt ist, also unter anderem zittert, aber normal ansprechbar ist, der sollte sofort vor der Kälte geschützt werden."
+    ],
+    0.7671973705291748
+  ],
+  [
+    [
+      48,
+      26
+    ],
+    [
+      "Der Wind bläst nämlich die warme Luft um den Körper weg und aus der Kleidung heraus.",
+      "Der Wind bläst die schützende warme Luftschicht um den Körper beziehungsweise aus der Kleidung weg."
+    ],
+    0.9786750674247742
+  ],
+  [
+    [
+      49,
+      45
+    ],
+    [
+      "Dadurch verliert der Körper sehr viel Wärme.",
+      "Dadurch verliert der Körper zunächst weniger Wärme und lenkt zugleich mehr Blut in Richtung Körperstamm – ein überlebenswichtiger Vorgang."
+    ],
+    0.8414031863212585
+  ],
+  [
+    [
+      50,
+      67
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "Experten warnen darum: Manche Betroffene wirken wie (schein-)tot, können aber mit einem minimalen Kreislauf – wie beim Winterschlaf der Tiere – immer noch am Leben sein."
+    ],
+    0.8006863594055176
+  ],
+  [
+    [
+      51,
+      35
+    ],
+    [
+      "Dazu gehören zum Beispiel: Kleinkinder ältere Menschen Raucher Menschen mit Durchblutungsstörungen Menschen mit Diabetes stark erschöpfte Menschen unterernährte Menschen",
+      "Auch Rauchen , Durchblutungsstörungen, Diabetes , bestimmte Medikamente, Unterernährung oder Erschöpfung wirken sich negativ aus."
+    ],
+    0.7596121430397034
+  ],
+  [
+    [
+      53,
+      81
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Schwere Erfrierungen äußern sich – allerdings erst spät – durch eine blauschwarze Verfärbung der Haut."
+    ],
+    0.8396695852279663
+  ],
+  [
+    [
+      54,
+      37
+    ],
+    [
+      "So verliert der Körper schneller Wärme.",
+      "Da durch das Getränk aber die Gefäße weitgestellt werden, verliert der Organismus letztendlich noch mehr Wärme."
+    ],
+    0.7850024104118347
+  ],
+  [
+    [
+      55,
+      38
+    ],
+    [
+      "Menschen unter Alkoholeinfluss spüren die Kälte oft nicht so schnell.",
+      "Außerdem nimmt man unter Alkoholeinfluss die Kälte nicht so wahr."
+    ],
+    0.917824387550354
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.8561414480209351
+  ],
+  [
+    [
+      57,
+      131
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8562511205673218
+  ],
+  [
+    [
+      58,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.8930652737617493
+  ],
+  [
+    [
+      62,
+      122
+    ],
+    [
+      "Wechseln Sie Ihre feuchte Kleidung regelmäßig gegen trockene Kleidung.",
+      "Wechseln Sie rechtzeitig feuchte Shirts oder Pullis gegen trockene Wäsche."
+    ],
+    0.8976208567619324
+  ],
+  [
+    [
+      64,
+      45
+    ],
+    [
+      "Über den Kopf verliert der Körper nämlich viel Wärme.",
+      "Dadurch verliert der Körper zunächst weniger Wärme und lenkt zugleich mehr Blut in Richtung Körperstamm – ein überlebenswichtiger Vorgang."
+    ],
+    0.8116212487220764
+  ],
+  [
+    [
+      65,
+      121
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7648888826370239
+  ],
+  [
+    [
+      66,
+      123
+    ],
+    [
+      "Fäustlinge halten die Finger besser warm als Finger-Handschuhe.",
+      "Fäustlinge halten die Hände bei kalten Temperaturen besser warm als Fingerhandschuhe, auch das Mitführen von Wärempackungen kann helfen."
+    ],
+    0.8401133418083191
+  ],
+  [
+    [
+      67,
+      44
+    ],
+    [
+      "Sie wandern in den Bergen?",
+      "Die Blutgefäße in den Extremitäten – also in Armen und Beinen – verengen sich, wodurch dort die Durchblutung in den Extremitäten abnimmt ."
+    ],
+    0.7637210488319397
+  ],
+  [
+    [
+      68,
+      127
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske.",
+      "Kaufen Sie Winterstiefel deshalb lieber eine Nummer größer und ziehen dicke Socken an."
+    ],
+    0.811301052570343
+  ],
+  [
+    [
+      69,
+      127
+    ],
+    [
+      "Ziehen Sie passende Schuhe an.",
+      "Kaufen Sie Winterstiefel deshalb lieber eine Nummer größer und ziehen dicke Socken an."
+    ],
+    0.8354586958885193
+  ],
+  [
+    [
+      70,
+      32
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung.",
+      "Zu enge oder feuchte Kleidungsstücke beziehungsweise Schuhe begünstigen dies ebenfalls."
+    ],
+    0.8716404438018799
+  ],
+  [
+    [
+      71,
+      127
+    ],
+    [
+      "Ziehen Sie sich dicke Socken an.",
+      "Kaufen Sie Winterstiefel deshalb lieber eine Nummer größer und ziehen dicke Socken an."
+    ],
+    0.8811437487602234
+  ],
+  [
+    [
+      72,
+      131
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8093480467796326
+  ],
+  [
+    [
+      73,
+      128
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.9366433620452881
+  ],
+  [
+    [
+      74,
+      130
+    ],
+    [
+      "Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Nehmen Sie auf Bergtouren eine Thermoskanne mit Tee mit oder kehren Sie beim Skifahren in eine Berghütte ein, um sich aufzuwärmen."
+    ],
+    0.8673037886619568
+  ],
+  [
+    [
+      76,
+      131
+    ],
+    [
+      "Essen Sie genügend.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7532427310943604
+  ],
+  [
+    [
+      77,
+      90
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Rufen Sie die 112 an."
+    ],
+    0.8637344837188721
+  ],
+  [
+    [
+      79,
+      133
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8496125340461731
+  ],
+  [
+    [
+      84,
+      83
+    ],
+    [
+      "Die Nummer ist:",
+      "Die Sensibilität ist aufgehoben."
+    ],
+    0.8856594562530518
+  ],
+  [
+    [
+      87,
+      91
+    ],
+    [
+      "Dann bringen Sie diese Person an einen warmen Ort.",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.9296092987060547
+  ],
+  [
+    [
+      88,
+      92
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.8852313756942749
+  ],
+  [
+    [
+      89,
+      121
+    ],
+    [
+      "Und geben Sie der Person trockene Kleidung und Decken.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.8181024193763733
+  ],
+  [
+    [
+      90,
+      121
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.8734176158905029
+  ],
+  [
+    [
+      92,
+      88
+    ],
+    [
+      "Achtung: Das Auftauen der Finger oder Zehen kann sehr schmerzhaft sein.",
+      "Wer leicht unterkühlt ist, also unter anderem zittert, aber normal ansprechbar ist, der sollte sofort vor der Kälte geschützt werden."
+    ],
+    0.7773024439811707
+  ],
+  [
+    [
+      93,
+      84
+    ],
+    [
+      "Vielleicht muss die betroffene Person Schmerzmittel einnehmen.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.833513081073761
+  ],
+  [
+    [
+      94,
+      133
+    ],
+    [
+      "Wickeln Sie dann die betroffenen Stellen in einen Verband.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8522679209709167
+  ],
+  [
+    [
+      96,
+      109
+    ],
+    [
+      "Und jeder Finger und jede Zehe soll einzeln eingewickelt sein.",
+      "Zuletzt die betroffenen Hautbereiche mit einem sterilen lockeren Verband einwickeln – jeden Finger und jede Zehe einzeln."
+    ],
+    0.7763766646385193
+  ],
+  [
+    [
+      98,
+      110
+    ],
+    [
+      "Dann können Sie die erfrorenen Finger in den Achselhöhlen aufwärmen oder warme Hände auf erfrorene Stellen im Gesicht legen.",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.8575195670127869
+  ],
+  [
+    [
+      99,
+      36
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Alkohol ruft zwar zunächst ein wärmendes Gefühl im Körper hervor."
+    ],
+    0.7844927906990051
+  ],
+  [
+    [
+      102,
+      133
+    ],
+    [
+      "Lassen Sie die betroffene Person keine Zigarette rauchen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.7911168336868286
+  ],
+  [
+    [
+      103,
+      27
+    ],
+    [
+      "Dadurch verengen sich die Blutgefäße.",
+      "Dadurch liegt die gefühlte Hauttemperatur deutlich unter der gemessenen Lufttemperatur (\"Wind-Chill-Effekt\") und die Wärmeverluste steigen."
+    ],
+    0.8374712467193604
+  ],
+  [
+    [
+      104,
+      121
+    ],
+    [
+      "Massieren Sie die betroffenen Stellen nicht .",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.8512631058692932
+  ],
+  [
+    [
+      105,
+      115
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Die Haut nicht mit trockener oder zu starker Hitze erwärmen – also zum Beispiel durch einen Fön, ein Heizkissen, Lagerfeuer oder an der Heizung."
+    ],
+    0.9149128198623657
+  ],
+  [
+    [
+      106,
+      73
+    ],
+    [
+      "Die erfrorene Haut ist nämlich taub.",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.8089597225189209
+  ],
+  [
+    [
+      107,
+      10
+    ],
+    [
+      "Es könnte zu Verbrennungen kommen.",
+      "Es kommt zu einer Unterkühlung (Hypothermie)."
+    ],
+    0.9283897280693054
+  ],
+  [
+    [
+      111,
+      84
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.7486038208007812
+  ]
+]

@@ -1,0 +1,640 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Die Schilddrüse ist ein Organ im Hals.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.8209715485572815
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Die Schilddrüse befindet sich unter dem Kehlkopf an der Luftröhre.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.774265468120575
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Die Schilddrüse produziert wichtige Hormone.",
+      "Aus Eiweiß und Jod produziert die Schilddrüse das lebenswichtige Schilddrüsenhormon Thyroxin (T4)."
+    ],
+    0.8362614512443542
+  ],
+  [
+    [
+      3,
+      4
+    ],
+    [
+      "Zum Beispiel: Thyroxin Trijodthyronin Diese Hormone beeinflussen wichtige Körperfunktionen: den Stoffwechsel den Kreislauf das Wachstum das psychische Wohlbefinden",
+      "Die Schilddrüsenhormone beeinflussen neben dem Stoffwechsel unter anderem Kreislauf, Wachstum sowie unser psychisches Wohlbefinden."
+    ],
+    0.6888710856437683
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Bei einer Schilddrüsenunterfunktion produziert die Schilddrüse zu wenig Hormone.",
+      "Die Schilddrüsenunterfunktion ist – von Ausnahmen abgesehen – nicht heilbar und muss daher dauerhaft mit Medikamenten behandelt werden."
+    ],
+    0.5362772941589355
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Eine Schilddrüsenunterfunktion ist meistens nicht heilbar.",
+      "Die Schilddrüsenunterfunktion ist – von Ausnahmen abgesehen – nicht heilbar und muss daher dauerhaft mit Medikamenten behandelt werden."
+    ],
+    0.8656960725784302
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Aber eine Schilddrüsenunterfunktion ist gut behandelbar.",
+      "Die Schilddrüsenunterfunktion ist – von Ausnahmen abgesehen – nicht heilbar und muss daher dauerhaft mit Medikamenten behandelt werden."
+    ],
+    0.6669191718101501
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Dafür muss die betroffene Person Medikamente nehmen.",
+      "Die Schilddrüsenunterfunktion ist – von Ausnahmen abgesehen – nicht heilbar und muss daher dauerhaft mit Medikamenten behandelt werden."
+    ],
+    0.5897952318191528
+  ],
+  [
+    [
+      8,
+      10
+    ],
+    [
+      "Dann kann sie mit einer Schilddrüsenunterfunktion ganz normal leben.",
+      "Auch schwerer Jodmangel in der Ernährung kann in seltenen Fällen zu einer Unterfunktion führen – meist verbunden mit einer Vergrößerung der Schilddrüse (Kropf / Struma)."
+    ],
+    0.6513621211051941
+  ],
+  [
+    [
+      9,
+      12
+    ],
+    [
+      "Eine Schilddrüsenunterfunktion beginnt langsam und dauert lange an.",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.4374326765537262
+  ],
+  [
+    [
+      10,
+      12
+    ],
+    [
+      "Oft erkennt man die Anzeichen nicht sofort.",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.41052770614624023
+  ],
+  [
+    [
+      11,
+      12
+    ],
+    [
+      "Deshalb wird eine Schilddrüsenunterfunktion in vielen Fällen erst spät erkannt.",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.4445686936378479
+  ],
+  [
+    [
+      12,
+      12
+    ],
+    [
+      "Anzeichen können sein:",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.7617418169975281
+  ],
+  [
+    [
+      13,
+      12
+    ],
+    [
+      "Man ist empfindlich gegen Kälte, man ist müde oder schläft viel, die Reflexe sind langsamer als sonst, das Gewicht wird mehr, die Haare werden brüchig oder fallen aus, manche Patienten haben Verstopfung, manche Frauen haben unregelmäßige Monatsblutungen.",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.4570702612400055
+  ],
+  [
+    [
+      14,
+      12
+    ],
+    [
+      "Eine Schilddrüsenunterfunktion kann verschiedene Ursachen haben.",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.6408301591873169
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Eine Schilddrüsenunterfunktion kann angeboren sein.",
+      "Eine Unterfunktion kann angeboren sein, was bei etwa einem von 4000 Neugeborenen der Fall ist."
+    ],
+    0.9773303866386414
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "Dann ist es wichtig, dass die Unterfunktion früh erkannt wird.",
+      "Hier ist die Früherkennung von herausragender Bedeutung."
+    ],
+    0.5797445774078369
+  ],
+  [
+    [
+      17,
+      24
+    ],
+    [
+      "Aus diesem Grund nimmt der Arzt einem Säugling nach der Geburt Blut ab.",
+      "Die Ursachen der angeborenen Schilddrüsen-Unterfunktion sind: Das Fehlen der Schilddrüse Veränderung des Schilddrüsengewebes mit Funktionsverlust Störungen der Schilddrüsenhormonproduktion Schädigung der kindlichen Schilddrüse während der Schwangerschaft im Mutterleib (etwa durch schweren Jodmangel, Schilddrüsenunterfunktion der Mutter oder eine 131-Radiojodtherapie)"
+    ],
+    0.5072509050369263
+  ],
+  [
+    [
+      18,
+      24
+    ],
+    [
+      "Das Blut wird untersucht.",
+      "Die Ursachen der angeborenen Schilddrüsen-Unterfunktion sind: Das Fehlen der Schilddrüse Veränderung des Schilddrüsengewebes mit Funktionsverlust Störungen der Schilddrüsenhormonproduktion Schädigung der kindlichen Schilddrüse während der Schwangerschaft im Mutterleib (etwa durch schweren Jodmangel, Schilddrüsenunterfunktion der Mutter oder eine 131-Radiojodtherapie)"
+    ],
+    0.5893271565437317
+  ],
+  [
+    [
+      19,
+      24
+    ],
+    [
+      "Ursachen für eine angeborene Unterfunktion sind: die Schilddrüse fehlt, die Schilddrüse funktioniert nicht richtig, weil das Gewebe sich verändert hat, die Schilddrüse produziert nicht genug Hormone oder die Schilddrüse wird während der Schwangerschaft geschädigt.",
+      "Die Ursachen der angeborenen Schilddrüsen-Unterfunktion sind: Das Fehlen der Schilddrüse Veränderung des Schilddrüsengewebes mit Funktionsverlust Störungen der Schilddrüsenhormonproduktion Schädigung der kindlichen Schilddrüse während der Schwangerschaft im Mutterleib (etwa durch schweren Jodmangel, Schilddrüsenunterfunktion der Mutter oder eine 131-Radiojodtherapie)"
+    ],
+    0.6101524233818054
+  ],
+  [
+    [
+      20,
+      24
+    ],
+    [
+      "Zum Beispiel durch Jodmangel, oder weil die Schilddrüse von der Mutter nicht richtig arbeitet.",
+      "Die Ursachen der angeborenen Schilddrüsen-Unterfunktion sind: Das Fehlen der Schilddrüse Veränderung des Schilddrüsengewebes mit Funktionsverlust Störungen der Schilddrüsenhormonproduktion Schädigung der kindlichen Schilddrüse während der Schwangerschaft im Mutterleib (etwa durch schweren Jodmangel, Schilddrüsenunterfunktion der Mutter oder eine 131-Radiojodtherapie)"
+    ],
+    0.6692578196525574
+  ],
+  [
+    [
+      21,
+      24
+    ],
+    [
+      "Eine chronische Entzündung der Schilddrüse kann auch zu einer Unterfunktion führen.",
+      "Die Ursachen der angeborenen Schilddrüsen-Unterfunktion sind: Das Fehlen der Schilddrüse Veränderung des Schilddrüsengewebes mit Funktionsverlust Störungen der Schilddrüsenhormonproduktion Schädigung der kindlichen Schilddrüse während der Schwangerschaft im Mutterleib (etwa durch schweren Jodmangel, Schilddrüsenunterfunktion der Mutter oder eine 131-Radiojodtherapie)"
+    ],
+    0.683953046798706
+  ],
+  [
+    [
+      22,
+      24
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und bleibt oft sehr lange Zeit.",
+      "Die Ursachen der angeborenen Schilddrüsen-Unterfunktion sind: Das Fehlen der Schilddrüse Veränderung des Schilddrüsengewebes mit Funktionsverlust Störungen der Schilddrüsenhormonproduktion Schädigung der kindlichen Schilddrüse während der Schwangerschaft im Mutterleib (etwa durch schweren Jodmangel, Schilddrüsenunterfunktion der Mutter oder eine 131-Radiojodtherapie)"
+    ],
+    0.4734746515750885
+  ],
+  [
+    [
+      23,
+      25
+    ],
+    [
+      "Eine chronische Entzündung ist die häufigste Ursache für eine Schilddrüsen-unterfunktion bei Erwachsenen.",
+      "Im Erwachsenenalter ist eine chronische Schilddrüsenentzündung die häufigste Ursache für die Entwicklung einer Schilddrüsenunterfunktion."
+    ],
+    0.7724485993385315
+  ],
+  [
+    [
+      24,
+      25
+    ],
+    [
+      "Grund dafür ist eine Autoimmunerkrankung.",
+      "Im Erwachsenenalter ist eine chronische Schilddrüsenentzündung die häufigste Ursache für die Entwicklung einer Schilddrüsenunterfunktion."
+    ],
+    0.7907928824424744
+  ],
+  [
+    [
+      25,
+      29
+    ],
+    [
+      "Das heißt: Das Immunsystem arbeitet gegen den eigenen Körper.",
+      "Der Körper sieht die eigene Schilddrüse dabei fälschlicherweise als fremdes Gewebe an und beginnt, Antikörper gegen sie zu produzieren."
+    ],
+    0.5584235787391663
+  ],
+  [
+    [
+      26,
+      29
+    ],
+    [
+      "Normalerweise wehrt das Immunsystem Krankheitserreger ab.",
+      "Der Körper sieht die eigene Schilddrüse dabei fälschlicherweise als fremdes Gewebe an und beginnt, Antikörper gegen sie zu produzieren."
+    ],
+    0.5381986498832703
+  ],
+  [
+    [
+      27,
+      29
+    ],
+    [
+      "Dafür bildet das Immunsystem im Körper Abwehrstoffe.",
+      "Der Körper sieht die eigene Schilddrüse dabei fälschlicherweise als fremdes Gewebe an und beginnt, Antikörper gegen sie zu produzieren."
+    ],
+    0.5407688021659851
+  ],
+  [
+    [
+      28,
+      29
+    ],
+    [
+      "Manchmal bildet das Immunsystem diese Abwehrstoffe gegen körpereigene Zellen.",
+      "Der Körper sieht die eigene Schilddrüse dabei fälschlicherweise als fremdes Gewebe an und beginnt, Antikörper gegen sie zu produzieren."
+    ],
+    0.6336336731910706
+  ],
+  [
+    [
+      29,
+      29
+    ],
+    [
+      "Dazu sagt man auch: Autoimmunerkrankung.",
+      "Der Körper sieht die eigene Schilddrüse dabei fälschlicherweise als fremdes Gewebe an und beginnt, Antikörper gegen sie zu produzieren."
+    ],
+    0.5097538232803345
+  ],
+  [
+    [
+      30,
+      30
+    ],
+    [
+      "Eine Form der Autoimmunerkrankung heißt: Hashimoto-Thyreoiditis.",
+      "Durch die folgende chronische Entzündung wird Schilddrüsengewebe zerstört."
+    ],
+    0.4007866680622101
+  ],
+  [
+    [
+      31,
+      31
+    ],
+    [
+      "Die Hashimoto-Thyreoiditis bekommen oft Frauen über 40 Jahren.",
+      "Nach Wochen, meist sogar erst nach Jahren, entwickelt sich daraus schleichend eine Schilddrüsenunterfunktion mit anfangs nur geringen, harmlosen Beschwerden."
+    ],
+    0.40932387113571167
+  ],
+  [
+    [
+      32,
+      31
+    ],
+    [
+      "Bei dieser Erkrankung greift der Körper die Schilddrüse mit Antikörpern an.",
+      "Nach Wochen, meist sogar erst nach Jahren, entwickelt sich daraus schleichend eine Schilddrüsenunterfunktion mit anfangs nur geringen, harmlosen Beschwerden."
+    ],
+    0.5308712720870972
+  ],
+  [
+    [
+      33,
+      31
+    ],
+    [
+      "Dadurch entsteht eine Entzündung.",
+      "Nach Wochen, meist sogar erst nach Jahren, entwickelt sich daraus schleichend eine Schilddrüsenunterfunktion mit anfangs nur geringen, harmlosen Beschwerden."
+    ],
+    0.6825420260429382
+  ],
+  [
+    [
+      34,
+      31
+    ],
+    [
+      "Das Gewebe von der Schilddrüse wird dann zerstört.",
+      "Nach Wochen, meist sogar erst nach Jahren, entwickelt sich daraus schleichend eine Schilddrüsenunterfunktion mit anfangs nur geringen, harmlosen Beschwerden."
+    ],
+    0.4220395088195801
+  ],
+  [
+    [
+      35,
+      31
+    ],
+    [
+      "Über lange Zeit kann sich daraus eine Schilddrüsenunterfunktion entwickeln.",
+      "Nach Wochen, meist sogar erst nach Jahren, entwickelt sich daraus schleichend eine Schilddrüsenunterfunktion mit anfangs nur geringen, harmlosen Beschwerden."
+    ],
+    0.695034384727478
+  ],
+  [
+    [
+      36,
+      32
+    ],
+    [
+      "Eine chronische Entzündung ist nicht heilbar.",
+      "Die Erkrankung verläuft chronisch, ist also nicht heilbar."
+    ],
+    0.846885085105896
+  ],
+  [
+    [
+      37,
+      33
+    ],
+    [
+      "Sie kann aber mit Medikamenten behandelt werden.",
+      "Die Symptome können durch die Therapie jedoch völlig behoben werden."
+    ],
+    0.5539000630378723
+  ],
+  [
+    [
+      38,
+      35
+    ],
+    [
+      "Weitere Ursachen für eine Schilddrüsenunterfunktion sind zum Beispiel:",
+      "Die Folge ist häufig eine vorübergehende Schilddrüsenunterfunktion."
+    ],
+    0.5833163857460022
+  ],
+  [
+    [
+      39,
+      38
+    ],
+    [
+      "Der Hypothalamus oder die Hypophyse arbeiten nicht mehr richtig.",
+      "Liegt eine Überfunktion der Schilddrüse vor oder eine Kropfbildung, so können die dagegen gerichteten medizinischen Maßnahmen ungewollt auch eine Schilddrüsenunterfunktion verursachen."
+    ],
+    0.6331602931022644
+  ],
+  [
+    [
+      40,
+      41
+    ],
+    [
+      "Beide liegen im Gehirn.",
+      "Zwei Zentren im Gehirn steuern die Produktion und Verteilung der Schilddrüsenhormone."
+    ],
+    0.737556517124176
+  ],
+  [
+    [
+      41,
+      44
+    ],
+    [
+      "Hypothalamus und Hypophyse regeln die Bildung von Hormonen.",
+      "Zum anderen die Hirnanhangsdrüse (Hypophyse) mit ihrem Thyroidea-stimulierenden-Hormon (TSH), das die Schilddrüse dazu anregt, ihre Hormone zur produzieren und freizusetzen."
+    ],
+    0.7302813529968262
+  ],
+  [
+    [
+      42,
+      57
+    ],
+    [
+      "Jodmangel.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.7096980214118958
+  ],
+  [
+    [
+      43,
+      57
+    ],
+    [
+      "Eine falsche Ernährung kann zu Jodmangel führen.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.3930444121360779
+  ],
+  [
+    [
+      44,
+      57
+    ],
+    [
+      "Die Schilddrüse braucht Jod für die Herstellung von Hormonen.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.42330941557884216
+  ],
+  [
+    [
+      45,
+      57
+    ],
+    [
+      "Bei einem Jodmangel ist die Schilddrüse meistens größer als normalerweise.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.4373322129249573
+  ],
+  [
+    [
+      46,
+      57
+    ],
+    [
+      "Der Arzt hat bei Ihnen eine Schilddrüsenunterfunktion festgestellt?",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.4645523130893707
+  ],
+  [
+    [
+      47,
+      57
+    ],
+    [
+      "Dann hat der Arzt Ihnen vielleicht Medikamente verschrieben.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.3641637861728668
+  ],
+  [
+    [
+      48,
+      57
+    ],
+    [
+      "Das Medikament L-Thyroxin hilft bei einer Schilddrüsenunterfunktion.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.3749034106731415
+  ],
+  [
+    [
+      49,
+      57
+    ],
+    [
+      "Das Medikament enthält nämlich Thyroxin.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.4415596127510071
+  ],
+  [
+    [
+      50,
+      57
+    ],
+    [
+      "Dadurch soll der Mangel von Hormonen im Körper ausgeglichen werden.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.5001891851425171
+  ],
+  [
+    [
+      51,
+      57
+    ],
+    [
+      "Der Arzt kontrolliert dann regelmäßig Ihre Hormonwerte.",
+      "Der Mangel an Schilddrüsenhormonen wirkt sich auf verschiedenste Körperorgane, auf unser Nervensystem und auf unsere Psyche aus."
+    ],
+    0.5775986909866333
+  ],
+  [
+    [
+      52,
+      72
+    ],
+    [
+      "Sie sollten außerdem auf eine gesunde Ernährung achten.",
+      "Weil manche Symptome wie etwa Müdigkeit zunächst nicht eindeutig sind, sondern bei vielen Erkrankungen und auch bei sonst gesunden Personen auftreten können, kommt es darauf an, eine Unterfunktion überhaupt in Betracht zu ziehen."
+    ],
+    0.6791554689407349
+  ],
+  [
+    [
+      53,
+      109
+    ],
+    [
+      "Und Sie sollten sich regelmäßig bewegen.",
+      "Was Sie bei der Einnahme von L-Thyroxin beachten sollten, lesen Sie hier."
+    ],
+    0.5783445239067078
+  ],
+  [
+    [
+      54,
+      109
+    ],
+    [
+      "Sie wollen noch mehr über die Schilddrüsenunterfunktion lesen?",
+      "Was Sie bei der Einnahme von L-Thyroxin beachten sollten, lesen Sie hier."
+    ],
+    0.6120819449424744
+  ],
+  [
+    [
+      55,
+      109
+    ],
+    [
+      "Mehr Informationen über die Schilddrüsenunterfunktion finden Sie hier .",
+      "Was Sie bei der Einnahme von L-Thyroxin beachten sollten, lesen Sie hier."
+    ],
+    0.5675354599952698
+  ],
+  [
+    [
+      56,
+      115
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Vielmehr gelten die allgemeinen Tipps:"
+    ],
+    0.3368292450904846
+  ],
+  [
+    [
+      57,
+      115
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Vielmehr gelten die allgemeinen Tipps:"
+    ],
+    0.5303972363471985
+  ]
+]

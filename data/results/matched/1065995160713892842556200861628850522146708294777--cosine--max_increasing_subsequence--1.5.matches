@@ -1,0 +1,387 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In manche Länder können Sie nur reisen, wenn Sie einen gültigen Reise-Pass haben.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8351512551307678
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Wenn Sie in ein solches Land reisen und keinen gültigen Reise-Pass haben, dann müssen Sie bei uns einen Reise-Pass beantragen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8779687881469727
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Zum Beispiel: Wenn Sie nicht mehr warten können, bis wir Ihnen einen endgültigen Reise-Pass machen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8497411608695984
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Oder bis wir Ihnen einen Express-Pass machen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.7262619733810425
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Dann können Sie einen vorläufigen Reise-Pass beantragen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8856943249702454
+  ],
+  [
+    [
+      31,
+      0
+    ],
+    [
+      "Wichtig: Wenn Sie einen vorläufigen Reise-Pass für Ihr Kind brauchen, dann muss mindestens 1 Eltern-Teil mit dem Kind zu uns kommen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.7760694622993469
+  ],
+  [
+    [
+      37,
+      0
+    ],
+    [
+      "Sie erlauben einer Person, etwas für Sie zu tun.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8011025786399841
+  ],
+  [
+    [
+      41,
+      0
+    ],
+    [
+      "Wenn Sie einen vorläufigen Reise-Pass beantragen, dann müssen Sie uns diese Papiere zeigen: Ihren alten Reise-Pass",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9055109620094299
+  ],
+  [
+    [
+      42,
+      0
+    ],
+    [
+      "Wenn Sie den vorläufigen Reise-Pass bekommen, dann behalten wir den alten Reise-Pass.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8232711553573608
+  ],
+  [
+    [
+      43,
+      0
+    ],
+    [
+      "Oder wir machen den alten Reise-Pass ungültig.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.7339329123497009
+  ],
+  [
+    [
+      46,
+      0
+    ],
+    [
+      "Wenn Sie bisher nur einen Kinder-Reise-Pass hatten und jetzt einen vorläufigen Reise-Pass bekommen, dann behalten wir den Kinder-Reise-Pass.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8382708430290222
+  ],
+  [
+    [
+      47,
+      0
+    ],
+    [
+      "Oder wir machen den Kinder-Reise-Pass ungültig .",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.7326909899711609
+  ],
+  [
+    [
+      50,
+      0
+    ],
+    [
+      "Sie müssen uns Ihren Personal-Ausweis zeigen, wenn Sie Ihren alten Reise-Pass verloren haben.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.878468930721283
+  ],
+  [
+    [
+      53,
+      0
+    ],
+    [
+      "Wenn Sie ledig sind und einen neuen Reise-Pass beantragen, dann bringen Sie bitte Ihre Geburts-Urkunde mit.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8872243165969849
+  ],
+  [
+    [
+      60,
+      0
+    ],
+    [
+      "Wir brauchen diese Urkunde auch, wenn Sie geschieden oder verwitwet sind.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8177738785743713
+  ],
+  [
+    [
+      64,
+      11
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Dies erspart Ihnen eine erneute Vorsprache, falls ein Datenabgleich erfolgen muss."
+    ],
+    0.7877792716026306
+  ],
+  [
+    [
+      65,
+      11
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Dies erspart Ihnen eine erneute Vorsprache, falls ein Datenabgleich erfolgen muss."
+    ],
+    0.7236968874931335
+  ],
+  [
+    [
+      76,
+      15
+    ],
+    [
+      "Sie müssen die Urkunden und Übersetzungen im Original abgeben.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.8628302216529846
+  ],
+  [
+    [
+      81,
+      17
+    ],
+    [
+      "Das Foto muss aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.745768129825592
+  ],
+  [
+    [
+      82,
+      17
+    ],
+    [
+      "Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.8681792616844177
+  ],
+  [
+    [
+      87,
+      17
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.7295405268669128
+  ],
+  [
+    [
+      94,
+      18
+    ],
+    [
+      "Befolgen Sie bitte die Regeln für Pass-Fotos.",
+      "Beachten Sie bitte die speziellen Anforderungen an das Passfoto."
+    ],
+    0.8108934164047241
+  ],
+  [
+    [
+      95,
+      19
+    ],
+    [
+      "Die Regeln stehen in der Foto-Muster-Tafel .",
+      "Die Regelungen sind in einer Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.9020835161209106
+  ],
+  [
+    [
+      99,
+      33
+    ],
+    [
+      "Wenn Sie nicht auf Ihren endgültigen Reise-Pass warten können.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8776719570159912
+  ],
+  [
+    [
+      100,
+      33
+    ],
+    [
+      "Oder wenn Sie nicht 3 Tage auf einen Express-Pass warten können.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.7214286923408508
+  ],
+  [
+    [
+      101,
+      33
+    ],
+    [
+      "Nur dann können Sie einen vorläufigen Reise-Pass bekommen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8989113569259644
+  ],
+  [
+    [
+      109,
+      33
+    ],
+    [
+      "Dann müssen Sie die Verlust-Anzeige ausdrucken .",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8357812762260437
+  ],
+  [
+    [
+      110,
+      33
+    ],
+    [
+      "Wenn Sie einen vorläufigen Reise-Pass beantragen, dann zeigen Sie uns bitte die Verlust-Anzeige.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8896673917770386
+  ],
+  [
+    [
+      115,
+      33
+    ],
+    [
+      "Wenn Sie den neuen Reise-Pass beantragen, dann müssen Sie uns die Bescheinigung von der Polizei zeigen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8615520000457764
+  ],
+  [
+    [
+      120,
+      33
+    ],
+    [
+      "Wenn Sie uns alle nötigen Papiere zeigen, dann bekommen Sie den vorläufigen Reise-Pass sofort.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9190422892570496
+  ],
+  [
+    [
+      123,
+      52
+    ],
+    [
+      "Für Reisen außerhalb von Europa brauchen Sie einen Reise-Pass.",
+      "Wenn Sie nur einen vorläufigen Reisepass besitzen, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.824280321598053
+  ],
+  [
+    [
+      124,
+      52
+    ],
+    [
+      "Manchmal brauchen Sie auch ein Visum für Ihre Reise.",
+      "Wenn Sie nur einen vorläufigen Reisepass besitzen, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.8547991514205933
+  ],
+  [
+    [
+      126,
+      52
+    ],
+    [
+      "Welchen Pass Sie für Ihre Reise brauchen, erfahren Sie beim Auswärtigen Amt .",
+      "Wenn Sie nur einen vorläufigen Reisepass besitzen, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.7715325951576233
+  ],
+  [
+    [
+      127,
+      55
+    ],
+    [
+      "Beim Auswärtigen Amt sagen Sie Ihnen: Ob Sie für Ihre Reise einen Reise-Pass brauchen, oder ob Sie ein Visum brauchen, oder ob ein Personal-Ausweis ausreicht.",
+      "Ob Sie für Ihr Reiseziel einen Reisepass oder ein Visum benötigen oder ob ein Personalausweis ausreicht, erfragen Sie bitte beim Auswärtigen Amt."
+    ],
+    0.969028115272522
+  ],
+  [
+    [
+      134,
+      65
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.7717379927635193
+  ]
+]

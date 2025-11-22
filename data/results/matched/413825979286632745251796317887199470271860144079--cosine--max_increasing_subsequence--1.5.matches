@@ -1,0 +1,200 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Verbrennung entsteht durch sehr große Hitze.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7379956245422363
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Bei einer Verbrennung verletzt große Hitze die Haut.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7509528398513794
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Dann sind vielleicht auch Muskeln oder Knochen durch die Hitze verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.8000085353851318
+  ],
+  [
+    [
+      25,
+      0
+    ],
+    [
+      "Entfernen Sie dann die Kleidung und den Schmuck von der Person.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7827727794647217
+  ],
+  [
+    [
+      27,
+      0
+    ],
+    [
+      "Achtung: Sie können die Kleidung nicht entfernen?",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7282577157020569
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Dann kühlen Sie die betroffene Stelle vorsichtig mit lauwarmem Leitungswasser.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7592045664787292
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "Kühlen Sie die betroffene Stelle nicht länger als fünf Minuten.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7122012972831726
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Dann kann die verletzte Person eine Unterkühlung bekommen.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7912091612815857
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Die verletzte Person kann nämlich eine Unterkühlung bekommen.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7617827653884888
+  ],
+  [
+    [
+      44,
+      1
+    ],
+    [
+      "Dann dürfen Sie die Verbrennung nicht kühlen.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.714655876159668
+  ],
+  [
+    [
+      48,
+      1
+    ],
+    [
+      "Dann kühlen Sie die verbrannten Stellen nicht .",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7356117367744446
+  ],
+  [
+    [
+      54,
+      1
+    ],
+    [
+      "Manchmal muss eine Verbrennung aber auch von einem Arzt behandelt werden.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7766420841217041
+  ],
+  [
+    [
+      68,
+      1
+    ],
+    [
+      "Rufen Sie bei schweren Verbrühungen oder Verbrennungen einen Notarzt.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7493594884872437
+  ],
+  [
+    [
+      80,
+      1
+    ],
+    [
+      "Dann sollten Sie zusätzlich auf diese Dinge achten:",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7140913009643555
+  ],
+  [
+    [
+      85,
+      3
+    ],
+    [
+      "Sie heiße Getränke nicht in die Nähe von Kindern.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.7830343842506409
+  ],
+  [
+    [
+      89,
+      3
+    ],
+    [
+      "Bügeleisen nicht in die Nähe von Kindern.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.8605887293815613
+  ],
+  [
+    [
+      90,
+      12
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Bügeleisens nicht erreichen.",
+      "Ein Prozent entspricht einer Handfläche, daher lässt sich das Ausmaß auch anhand einer gedachten aufgelegten Hand des Betroffen berechnen:"
+    ],
+    0.7288166880607605
+  ],
+  [
+    [
+      91,
+      22
+    ],
+    [
+      "Sie wollen noch mehr über Verbrennungen und Verbrühungen lesen?",
+      "Heiße Getränke außer Reichweite von Kindern abstellen, Tischdecken vermeiden, sie verleiten dazu, daran zu ziehen."
+    ],
+    0.7799961566925049
+  ]
+]

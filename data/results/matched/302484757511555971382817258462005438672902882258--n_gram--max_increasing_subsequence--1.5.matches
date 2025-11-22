@@ -1,0 +1,431 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8746918439865112
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Ein Kälteschaden entsteht durch eine zu lange Zeit in der Kälte.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.38517817854881287
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8869973421096802
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.38762161135673523
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.6655800938606262
+  ],
+  [
+    [
+      6,
+      15
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.5432724952697754
+  ],
+  [
+    [
+      13,
+      17
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Erfrierungen"
+    ],
+    0.8794431090354919
+  ],
+  [
+    [
+      18,
+      17
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen von Erfrierungen.",
+      "Erfrierungen"
+    ],
+    0.9112607836723328
+  ],
+  [
+    [
+      20,
+      70
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.9831117987632751
+  ],
+  [
+    [
+      22,
+      71
+    ],
+    [
+      "Erfrierung ersten Grades",
+      "Erfrierung"
+    ],
+    0.937286376953125
+  ],
+  [
+    [
+      23,
+      72
+    ],
+    [
+      "Die betroffene Hautstelle ist blass.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.5366522073745728
+  ],
+  [
+    [
+      24,
+      72
+    ],
+    [
+      "Manchmal ist sie auch grau-weiß oder gelb-weiß.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.600208044052124
+  ],
+  [
+    [
+      26,
+      72
+    ],
+    [
+      "Und die betroffene Hautstelle ist taub.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.5541524291038513
+  ],
+  [
+    [
+      27,
+      74
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.5528094172477722
+  ],
+  [
+    [
+      28,
+      74
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.5269351005554199
+  ],
+  [
+    [
+      32,
+      90
+    ],
+    [
+      "Einige dieser Blasen sind mit Blut gefüllt.",
+      "Rufen Sie die 112 an."
+    ],
+    0.4913578927516937
+  ],
+  [
+    [
+      53,
+      90
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Rufen Sie die 112 an."
+    ],
+    0.49053674936294556
+  ],
+  [
+    [
+      57,
+      90
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Rufen Sie die 112 an."
+    ],
+    0.7665385603904724
+  ],
+  [
+    [
+      65,
+      90
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6560273766517639
+  ],
+  [
+    [
+      69,
+      90
+    ],
+    [
+      "Ziehen Sie passende Schuhe an.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6610637307167053
+  ],
+  [
+    [
+      71,
+      90
+    ],
+    [
+      "Ziehen Sie sich dicke Socken an.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6293858289718628
+  ],
+  [
+    [
+      72,
+      90
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Rufen Sie die 112 an."
+    ],
+    0.7099239230155945
+  ],
+  [
+    [
+      75,
+      90
+    ],
+    [
+      "Der Tee kann Sie wärmen.",
+      "Rufen Sie die 112 an."
+    ],
+    0.46641454100608826
+  ],
+  [
+    [
+      76,
+      90
+    ],
+    [
+      "Essen Sie genügend.",
+      "Rufen Sie die 112 an."
+    ],
+    0.7526949644088745
+  ],
+  [
+    [
+      79,
+      90
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Rufen Sie die 112 an."
+    ],
+    0.820817232131958
+  ],
+  [
+    [
+      81,
+      90
+    ],
+    [
+      "Nur Experten erkennen sicher:",
+      "Rufen Sie die 112 an."
+    ],
+    0.43638870120048523
+  ],
+  [
+    [
+      83,
+      90
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Rufen Sie die 112 an."
+    ],
+    0.7322798371315002
+  ],
+  [
+    [
+      85,
+      90
+    ],
+    [
+      "112. Sie glauben:",
+      "Rufen Sie die 112 an."
+    ],
+    0.5172950625419617
+  ],
+  [
+    [
+      87,
+      91
+    ],
+    [
+      "Dann bringen Sie diese Person an einen warmen Ort.",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.692078173160553
+  ],
+  [
+    [
+      88,
+      92
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.8196231722831726
+  ],
+  [
+    [
+      89,
+      98
+    ],
+    [
+      "Und geben Sie der Person trockene Kleidung und Decken.",
+      "Wie das geht, sehen Sie in unserem Video: Erste Hilfe bei Herzstillstand ."
+    ],
+    0.4303997755050659
+  ],
+  [
+    [
+      90,
+      105
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.7712436318397522
+  ],
+  [
+    [
+      92,
+      108
+    ],
+    [
+      "Achtung: Das Auftauen der Finger oder Zehen kann sehr schmerzhaft sein.",
+      "Tauen dabei Finger oder Fußzehen wieder auf, kann dies sehr weh tun und erfordert gegebenenfalls sogar die Einnahme von Schmerzmitteln."
+    ],
+    0.4965054392814636
+  ],
+  [
+    [
+      96,
+      109
+    ],
+    [
+      "Und jeder Finger und jede Zehe soll einzeln eingewickelt sein.",
+      "Zuletzt die betroffenen Hautbereiche mit einem sterilen lockeren Verband einwickeln – jeden Finger und jede Zehe einzeln."
+    ],
+    0.5778984427452087
+  ],
+  [
+    [
+      97,
+      110
+    ],
+    [
+      "Es gibt kein warmes Wasser in der Nähe?",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.45480799674987793
+  ],
+  [
+    [
+      99,
+      111
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Vorsicht: Erfrorene Körperteile nicht mit Schnee einreiben."
+    ],
+    0.7770109176635742
+  ],
+  [
+    [
+      105,
+      115
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Die Haut nicht mit trockener oder zu starker Hitze erwärmen – also zum Beispiel durch einen Fön, ein Heizkissen, Lagerfeuer oder an der Heizung."
+    ],
+    0.6742680668830872
+  ],
+  [
+    [
+      106,
+      116
+    ],
+    [
+      "Die erfrorene Haut ist nämlich taub.",
+      "Da die erfrorene Haut ohne Gefühl ist, kann es zu Verbrennungen kommen."
+    ],
+    0.843752920627594
+  ],
+  [
+    [
+      109,
+      120
+    ],
+    [
+      "Mehr Informationen über Kälteschäden finden Sie hier.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.592528223991394
+  ]
+]

@@ -1,0 +1,717 @@
+[
+  [
+    [
+      0,
+      8
+    ],
+    [
+      "Eine Impfung schützt vor Infektionskrankheiten.",
+      "Impfungen können vor vielen Infektionskrankheiten schützen."
+    ],
+    0.6147423386573792
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Infektionskrankheiten entstehen durch Krankheitserreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.6062251925468445
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel:",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.6592299342155457
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Bakterien Viren",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.48256489634513855
+  ],
+  [
+    [
+      4,
+      45
+    ],
+    [
+      "Sie bekommen eine Impfung gegen eine Krankheit?",
+      "Eine leichte Erkältung hingegen spricht nicht gegen eine Impfung."
+    ],
+    0.6234925389289856
+  ],
+  [
+    [
+      5,
+      42
+    ],
+    [
+      "Dann können Sie diese Krankheit nicht mehr so leicht bekommen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6293111443519592
+  ],
+  [
+    [
+      6,
+      46
+    ],
+    [
+      "Durch die Impfung kann Ihr Körper den Krankheitserreger nämlich besser abwehren.",
+      "Ist die Impfung nicht dringend, kann man den Termin natürlich trotzdem verlegen, wenn es einem nicht gut geht."
+    ],
+    0.5683669447898865
+  ],
+  [
+    [
+      7,
+      42
+    ],
+    [
+      "Sie werden dann meist nicht krank.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5648980140686035
+  ],
+  [
+    [
+      8,
+      30
+    ],
+    [
+      "Bei einer Impfung bekommen Sie von Ihrem Arzt einen Impfstoff.",
+      "Bei den Nebenwirkungen von Impfungen kann man unterscheiden zwischen der Impfreaktion und der Impfkomplikation sowie dem Impfschaden."
+    ],
+    0.5539650321006775
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Oder Sie bekommen den Impfstoff als Lösung zum Einnehmen.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.49531444907188416
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Nach der Impfung bildet ihr Körper Abwehrstoffe gegen die Erreger aus dem Impfstoff.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.5854997038841248
+  ],
+  [
+    [
+      16,
+      30
+    ],
+    [
+      "Mit den Abwehrstoffen kann Ihr Körper den Erreger aufhalten.",
+      "Bei den Nebenwirkungen von Impfungen kann man unterscheiden zwischen der Impfreaktion und der Impfkomplikation sowie dem Impfschaden."
+    ],
+    0.4832764267921448
+  ],
+  [
+    [
+      19,
+      0
+    ],
+    [
+      "1. Totimpfstoff Totimpfstoffe enthalten abgetötete Krankheitserreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.4912544786930084
+  ],
+  [
+    [
+      20,
+      42
+    ],
+    [
+      "Totimpfstoffe können auch nur bestimmte Teile des Erregers enthalten.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5869529843330383
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Die toten Erreger sind nicht gefährlich.",
+      "Man erkrankt also nicht und kann die Erreger auch nicht weitergeben."
+    ],
+    0.5743829011917114
+  ],
+  [
+    [
+      22,
+      42
+    ],
+    [
+      "Das Immunsystem reagiert nicht so stark auf Totimpfstoffe.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.48557305335998535
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Deshalb muss eine Impfung mit Totimpfstoffen nach einiger Zeit erneuert werden.",
+      "Impfungen mit Lebendimpfstoffen sollten in der Schwangerschaft vermieden werden."
+    ],
+    0.5728142857551575
+  ],
+  [
+    [
+      24,
+      0
+    ],
+    [
+      "Totimpfstoffe sind zum Beispiel: Tetanus Hepatitis B",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.4907889664173126
+  ],
+  [
+    [
+      26,
+      0
+    ],
+    [
+      "Lebendimpfstoffe enthalten sehr wenige Krankheitserreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.48972123861312866
+  ],
+  [
+    [
+      27,
+      3
+    ],
+    [
+      "Die Erreger können sich im Körper vermehren.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.5256174206733704
+  ],
+  [
+    [
+      28,
+      4
+    ],
+    [
+      "Aber die Erreger können keine Erkrankung auslösen.",
+      "Man erkrankt also nicht und kann die Erreger auch nicht weitergeben."
+    ],
+    0.6187651753425598
+  ],
+  [
+    [
+      29,
+      42
+    ],
+    [
+      "Manchmal reagiert das Immunsystem trotzdem sehr stark.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.49155646562576294
+  ],
+  [
+    [
+      30,
+      32
+    ],
+    [
+      "Dann fühlen Sie sich nach der Impfung krank.",
+      "Das Immunsystem setzt sich mit der Impfung auseinander, dabei können diese Beschwerden entstehen."
+    ],
+    0.48640087246894836
+  ],
+  [
+    [
+      31,
+      33
+    ],
+    [
+      "Die Beschwerden verschwinden nach einigen Tagen wieder.",
+      "Normalerweise verschwinden sie innerhalb weniger Tage."
+    ],
+    0.5330023169517517
+  ],
+  [
+    [
+      34,
+      14
+    ],
+    [
+      "Die ständige Impfkommission am Robert Koch",
+      "Die ständige Impfkomission (STIKO) am Robert Koch"
+    ],
+    0.9401064515113831
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Institut erarbeitet die Impfempfehlungen für Deutschland.",
+      "Institut erarbeitet die Impfempfehlungen für Deutschland."
+    ],
+    1.0
+  ],
+  [
+    [
+      36,
+      26
+    ],
+    [
+      "Die Abkürzung für ständige Impfkommission ist: STIKO.",
+      "Die Krankenkassen übernehmen üblicherweise die Kosten für die von der STIKO allgemein empfohlenen Impfungen."
+    ],
+    0.535858154296875
+  ],
+  [
+    [
+      38,
+      17
+    ],
+    [
+      "Die Impfempfehlungen der STIKO finden Sie in diesem Impfkalender.",
+      "Die meisten Impfungen finden in der Kindheit statt."
+    ],
+    0.5861138105392456
+  ],
+  [
+    [
+      40,
+      42
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5642520189285278
+  ],
+  [
+    [
+      41,
+      42
+    ],
+    [
+      "Hinweis: Im Impfkalender stehen nur allgemeine Empfehlungen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5358881950378418
+  ],
+  [
+    [
+      44,
+      29
+    ],
+    [
+      "Diese Impfungen sind für Sie wichtig.",
+      "Gleiches gilt für andere Impfungen, die aufgrund ihrer beruflichen Tätigkeit notwendig sind."
+    ],
+    0.5650663375854492
+  ],
+  [
+    [
+      45,
+      42
+    ],
+    [
+      "Ihr Hausarzt überprüft auch Ihren Impfausweis.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5045527815818787
+  ],
+  [
+    [
+      46,
+      44
+    ],
+    [
+      "Impfungen sind aus zwei Gründen wichtig:",
+      "Bei akuten behandlungsbedürftigen Erkrankungen sollten alle Impfungen verschoben werden."
+    ],
+    0.5235046744346619
+  ],
+  [
+    [
+      48,
+      45
+    ],
+    [
+      "Sie sind gegen eine Krankheit geimpft?",
+      "Eine leichte Erkältung hingegen spricht nicht gegen eine Impfung."
+    ],
+    0.5512534976005554
+  ],
+  [
+    [
+      49,
+      42
+    ],
+    [
+      "Dann können Sie diese Krankheit meist nicht mehr bekommen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6244325041770935
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "2. Sie schützen andere Personen.",
+      "Impfungen können vor vielen Infektionskrankheiten schützen."
+    ],
+    0.5162193179130554
+  ],
+  [
+    [
+      51,
+      45
+    ],
+    [
+      "Sie sind gegen eine Krankheit geimpft?",
+      "Eine leichte Erkältung hingegen spricht nicht gegen eine Impfung."
+    ],
+    0.5512534976005554
+  ],
+  [
+    [
+      52,
+      42
+    ],
+    [
+      "Dann können Sie andere Menschen meist nicht anstecken.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6435929536819458
+  ],
+  [
+    [
+      56,
+      41
+    ],
+    [
+      "Hinweis: Nicht alle Menschen können eine Impfung bekommen.",
+      "Es gibt nur wenige Gründe, die tatsächlich gegen eine Impfung sprechen können."
+    ],
+    0.5718501806259155
+  ],
+  [
+    [
+      58,
+      4
+    ],
+    [
+      "Diese Menschen können sich also nicht selbst schützen.",
+      "Man erkrankt also nicht und kann die Erreger auch nicht weitergeben."
+    ],
+    0.6011595129966736
+  ],
+  [
+    [
+      59,
+      29
+    ],
+    [
+      "Für diese Menschen ist deshalb besonders wichtig:",
+      "Gleiches gilt für andere Impfungen, die aufgrund ihrer beruflichen Tätigkeit notwendig sind."
+    ],
+    0.5543581247329712
+  ],
+  [
+    [
+      60,
+      42
+    ],
+    [
+      "Viele andere Menschen lassen sich impfen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5157002210617065
+  ],
+  [
+    [
+      61,
+      29
+    ],
+    [
+      "Dann ist das Risiko für diese Menschen nämlich geringer.",
+      "Gleiches gilt für andere Impfungen, die aufgrund ihrer beruflichen Tätigkeit notwendig sind."
+    ],
+    0.5395454168319702
+  ],
+  [
+    [
+      62,
+      0
+    ],
+    [
+      "Wissenschaftler haben einen möglichen Impfstoff gefunden?",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.4822699725627899
+  ],
+  [
+    [
+      64,
+      4
+    ],
+    [
+      "Erst dann kann der Impfstoff zugelassen werden.",
+      "Man erkrankt also nicht und kann die Erreger auch nicht weitergeben."
+    ],
+    0.529089629650116
+  ],
+  [
+    [
+      68,
+      2
+    ],
+    [
+      "Bilden die Tiere Antikörper durch den Impfstoff?",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.5426336526870728
+  ],
+  [
+    [
+      69,
+      4
+    ],
+    [
+      "Können diese Antikörper die Erreger stoppen?",
+      "Man erkrankt also nicht und kann die Erreger auch nicht weitergeben."
+    ],
+    0.5259872078895569
+  ],
+  [
+    [
+      72,
+      26
+    ],
+    [
+      "Vertragen die Testpersonen den Impfstoff?",
+      "Die Krankenkassen übernehmen üblicherweise die Kosten für die von der STIKO allgemein empfohlenen Impfungen."
+    ],
+    0.5377759337425232
+  ],
+  [
+    [
+      75,
+      34
+    ],
+    [
+      "Dann testen die Wissenschaftler den Impfstoff an einer Gruppe von bis zu 1.000 Personen.",
+      "Auch das Auftreten von Durchfall nach einer Rotavirenimpfung oder von einem Hautauschlag einige Wochen nach der Windpockenimpfung zählen beispielsweise noch zu den normalen Impfreaktionen."
+    ],
+    0.4839926064014435
+  ],
+  [
+    [
+      77,
+      30
+    ],
+    [
+      "Bildet der Körper von Menschen auch Antikörper durch den Impfstoff?",
+      "Bei den Nebenwirkungen von Impfungen kann man unterscheiden zwischen der Impfreaktion und der Impfkomplikation sowie dem Impfschaden."
+    ],
+    0.5819762349128723
+  ],
+  [
+    [
+      81,
+      8
+    ],
+    [
+      "Schützt der Impfstoff sicher vor der Krankheit?",
+      "Impfungen können vor vielen Infektionskrankheiten schützen."
+    ],
+    0.5425279140472412
+  ],
+  [
+    [
+      82,
+      8
+    ],
+    [
+      "Wie lange schützt der Impfstoff vor der Krankheit?",
+      "Impfungen können vor vielen Infektionskrankheiten schützen."
+    ],
+    0.4861072599887848
+  ],
+  [
+    [
+      85,
+      32
+    ],
+    [
+      "Das bedeutet: Alle Menschen können den Impfstoff bekommen.",
+      "Das Immunsystem setzt sich mit der Impfung auseinander, dabei können diese Beschwerden entstehen."
+    ],
+    0.4826722741127014
+  ],
+  [
+    [
+      86,
+      45
+    ],
+    [
+      "Sie bekommen eine Impfung?",
+      "Eine leichte Erkältung hingegen spricht nicht gegen eine Impfung."
+    ],
+    0.5050151348114014
+  ],
+  [
+    [
+      87,
+      2
+    ],
+    [
+      "Dann bildet Ihr Körper Abwehrstoffe gegen den Erreger.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.5570663809776306
+  ],
+  [
+    [
+      89,
+      30
+    ],
+    [
+      "Deshalb kann es nach der Impfung zu einer Impfreaktion kommen.",
+      "Bei den Nebenwirkungen von Impfungen kann man unterscheiden zwischen der Impfreaktion und der Impfkomplikation sowie dem Impfschaden."
+    ],
+    0.5637326836585999
+  ],
+  [
+    [
+      90,
+      31
+    ],
+    [
+      "Beschwerden einer Impfreaktion können zum Beispiel sein: Schmerzen und Rötungen an der Einstichstelle Erschöpfung",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6022003889083862
+  ],
+  [
+    [
+      91,
+      0
+    ],
+    [
+      "Grippeanzeichen wie Kopfschmerzen, Gliederschmerzen oder Fieber",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.5172344446182251
+  ],
+  [
+    [
+      93,
+      33
+    ],
+    [
+      "Diese Beschwerden verschwinden normalerweise nach einigen Tagen.",
+      "Normalerweise verschwinden sie innerhalb weniger Tage."
+    ],
+    0.5927427411079407
+  ],
+  [
+    [
+      97,
+      42
+    ],
+    [
+      "Manchmal führen diese seltenen Impfkomplikationen zu gesundheitlichen Schäden.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.514800488948822
+  ],
+  [
+    [
+      99,
+      40
+    ],
+    [
+      "Bei Ihnen wurde ein Impfschaden festgestellt?",
+      "Ob ein solcher Impfschaden vorliegt, müssen die zuständigen Versorgungsämter ermitteln."
+    ],
+    0.48316773772239685
+  ],
+  [
+    [
+      103,
+      42
+    ],
+    [
+      "Manche Menschen dürfen sich mit bestimmten Impfstoffen nicht impfen lassen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5980548858642578
+  ],
+  [
+    [
+      104,
+      43
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen Menschen mit einer Immunschwäche Menschen mit einer Allergie gegen Bestandteile des Impfstoffs Menschen mit bestimmten akuten Krankheitssymptomen Sie sind sich unsicher?",
+      "Das gilt zum Beispiel bei Schwangerschaft angeborener oder erworbener Immunschwächekrankheit Allergie gegen Bestandteile des Impfstoffs"
+    ],
+    0.5648747682571411
+  ],
+  [
+    [
+      107,
+      42
+    ],
+    [
+      "Sie wollen noch mehr über Impfungen lesen?",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.523331344127655
+  ],
+  [
+    [
+      110,
+      42
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.5642520189285278
+  ]
+]

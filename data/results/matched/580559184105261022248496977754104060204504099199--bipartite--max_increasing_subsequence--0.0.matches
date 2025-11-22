@@ -1,0 +1,541 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Bei einer akuten Mittelohr-Entzündung haben betroffene Personen starke Ohrenschmerzen.",
+      "Hörminderung"
+    ],
+    0.7216503620147705
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Das Mittelohr ist dann nämlich entzündet.",
+      "Hörminderung"
+    ],
+    0.5369222164154053
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Das Mittelohr ist hinter dem Trommelfell im Ohr.",
+      "Hörminderung"
+    ],
+    0.5369222164154053
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Oft sind Personen mit einer akuten Mittelohr-Entzündung zugleich erkältet.",
+      "Hörminderung"
+    ],
+    0.7216503620147705
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Kleine Kinder haben besonders oft eine akute Mittelohr-Entzündung.",
+      "Hörminderung"
+    ],
+    0.7216503620147705
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Manchmal kommen Krankheitserreger vom Rachen ins Ohr.",
+      "Hörminderung"
+    ],
+    0.49888288974761963
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das können zum Beispiel Bakterien oder Viren sein.",
+      "Hörminderung"
+    ],
+    0.41978201270103455
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Dann kann sich das Mittelohr entzünden.",
+      "Hörminderung"
+    ],
+    0.5369222164154053
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Das Mittelohr ist zwischen dem Trommelfell und der sogenannten Ohrtrompete.",
+      "Hörminderung"
+    ],
+    0.5369222164154053
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Die Ohrtrompete ist die Verbindung zwischen dem Mittelohr und dem Nasen-Rachenraum.",
+      "Hörminderung"
+    ],
+    0.5369222164154053
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Eine akute Entzündung im Mittelohr verursacht starke Ohrenschmerzen.",
+      "Hörminderung"
+    ],
+    0.6472792625427246
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Oft heilt eine akute Mittelohr-Entzündung innerhalb weniger Tage von selbst.",
+      "Hörminderung"
+    ],
+    0.7216503620147705
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Manchmal müssen betroffene Personen aber auch Medikamente nehmen.",
+      "Hörminderung"
+    ],
+    0.4863376021385193
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Eine akute Mittelohr-Entzündung kann verschiedene Anzeichen haben.",
+      "Hörminderung"
+    ],
+    0.7216503620147705
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Die Anzeichen können sein: plötzliche und starke Ohrenschmerzen",
+      "Hörminderung"
+    ],
+    0.5863141417503357
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Hörminderung",
+      "Hörminderung"
+    ],
+    1.0
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Druckgefühl im Ohr",
+      "Druckgefühl im Ohr Krankheitsgefühl"
+    ],
+    1.0
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Krankheitsgefühl",
+      "Druckgefühl im Ohr Krankheitsgefühl"
+    ],
+    1.0
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Fieber",
+      "Fieber"
+    ],
+    1.0
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Kinder haben manchmal auch Bauchschmerzen und Übelkeit.",
+      "Vor allem Kinder zeigen auch uncharakteristische Begleitsymptome wie Bauchschmerzen und Übelkeit ."
+    ],
+    0.8377697467803955
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Die Ursache einer akuten Mittelohr-Entzündung ist häufig ein Infekt.",
+      "Unmittelbare Ursache einer akuten Mittelohrentzündung ist meistens ein Infekt."
+    ],
+    0.8993374705314636
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Krankheitserreger gelangen vom Rachen ins Ohr.",
+      "Mittelohr und Nasen-Rachenraum stehen über die Ohrtrompete in Verbindung."
+    ],
+    0.3131727874279022
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel Viren oder Bakterien.",
+      "Mittelohr und Nasen-Rachenraum stehen über die Ohrtrompete in Verbindung."
+    ],
+    0.31017646193504333
+  ],
+  [
+    [
+      23,
+      11
+    ],
+    [
+      "Die Ohrtrompete ist die Verbindung zwischen dem Mittelohr und dem Nasen-Rachenraum.",
+      "Mittelohr und Nasen-Rachenraum stehen über die Ohrtrompete in Verbindung."
+    ],
+    0.7488842010498047
+  ],
+  [
+    [
+      24,
+      11
+    ],
+    [
+      "In der Ohrtrompete ist eine Schleimhaut.",
+      "Mittelohr und Nasen-Rachenraum stehen über die Ohrtrompete in Verbindung."
+    ],
+    0.563774585723877
+  ],
+  [
+    [
+      25,
+      12
+    ],
+    [
+      "Die Schleimhaut kann dick werden.",
+      "Schwillt sie zum Beispiel durch eine Erkältung zu, wird das Mittelohr nicht mehr richtig belüftet."
+    ],
+    0.49306610226631165
+  ],
+  [
+    [
+      26,
+      12
+    ],
+    [
+      "Das passiert zum Beispiel durch eine Erkältung.",
+      "Schwillt sie zum Beispiel durch eine Erkältung zu, wird das Mittelohr nicht mehr richtig belüftet."
+    ],
+    0.893295168876648
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "Dann wird das Mittelohr nicht mehr richtig belüftet.",
+      "Schwillt sie zum Beispiel durch eine Erkältung zu, wird das Mittelohr nicht mehr richtig belüftet."
+    ],
+    0.907848596572876
+  ],
+  [
+    [
+      28,
+      15
+    ],
+    [
+      "Deshalb kann eine Mittelohr-Entzündung entstehen.",
+      "Sonderformen: Eine akute Mittelohrentzündung entsteht manchmal auch im Rahmen einer Scharlach -, Masern-, oder echten Grippe -Erkrankung."
+    ],
+    0.7111238837242126
+  ],
+  [
+    [
+      29,
+      15
+    ],
+    [
+      "Oft heilt eine akute Mittelohr-Entzündung innerhalb weniger Tage von selbst.",
+      "Sonderformen: Eine akute Mittelohrentzündung entsteht manchmal auch im Rahmen einer Scharlach -, Masern-, oder echten Grippe -Erkrankung."
+    ],
+    0.5668310523033142
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Manchmal müssen betroffene Personen aber auch Medikamente nehmen.",
+      "Sonderformen: Eine akute Mittelohrentzündung entsteht manchmal auch im Rahmen einer Scharlach -, Masern-, oder echten Grippe -Erkrankung."
+    ],
+    0.5402199625968933
+  ],
+  [
+    [
+      31,
+      16
+    ],
+    [
+      "Gehen Sie deshalb zu einem Arzt.",
+      "Der Arzt erkundigt sich nach den Beschwerden und untersucht den Patienten, insbesondere Ohren, Nase und Rachen."
+    ],
+    0.4924326539039612
+  ],
+  [
+    [
+      32,
+      16
+    ],
+    [
+      "Der Arzt fragt Sie nach Ihren Beschwerden.",
+      "Der Arzt erkundigt sich nach den Beschwerden und untersucht den Patienten, insbesondere Ohren, Nase und Rachen."
+    ],
+    0.7677125930786133
+  ],
+  [
+    [
+      33,
+      16
+    ],
+    [
+      "Und der Arzt fragt nach Ihrer Krankheitsgeschichte.",
+      "Der Arzt erkundigt sich nach den Beschwerden und untersucht den Patienten, insbesondere Ohren, Nase und Rachen."
+    ],
+    0.5915889739990234
+  ],
+  [
+    [
+      34,
+      27
+    ],
+    [
+      "Dann untersucht der Arzt Sie gründlich.",
+      "Der Arzt berücksichtigt die Vor- und Begleit-Erkrankungen sowie den Verlauf der Erkrankung und entscheidet über die Medikamentengabe von Fall zu Fall."
+    ],
+    0.6148698329925537
+  ],
+  [
+    [
+      35,
+      28
+    ],
+    [
+      "Sie haben eine Erkältung?",
+      "Oft entsteht eine Mittelohrentzündung im Rahmen einer Erkältung."
+    ],
+    0.5824386477470398
+  ],
+  [
+    [
+      36,
+      29
+    ],
+    [
+      "Dann haben vielleicht Viren die Krankheit verursacht.",
+      "Dann sind meist Viren der Auslöser."
+    ],
+    0.6934918165206909
+  ],
+  [
+    [
+      37,
+      31
+    ],
+    [
+      "Dann wird der Arzt Ihnen kein Antibiotikum verschreiben.",
+      "Der Arzt wird dann oft raten, erst noch ein bis zwei Tage abzuwarten und den Verlauf engmaschig zu beobachten."
+    ],
+    0.5956562757492065
+  ],
+  [
+    [
+      38,
+      31
+    ],
+    [
+      "Der Körper muss die akute Mittelohr-Entzündung selbst bekämpfen:",
+      "Der Arzt wird dann oft raten, erst noch ein bis zwei Tage abzuwarten und den Verlauf engmaschig zu beobachten."
+    ],
+    0.5007190108299255
+  ],
+  [
+    [
+      39,
+      32
+    ],
+    [
+      "Das Abwehrsystem des Körpers bekämpft die Entzündung.",
+      "Die Betroffenen sollten sich schonen, ausreichend trinken und erforderlichenfalls Schmerzmittel einnehmen (siehe weiter unten)."
+    ],
+    0.3893749415874481
+  ],
+  [
+    [
+      40,
+      32
+    ],
+    [
+      "Bei einer akuten Mittelohr-Entzündung sollten Sie sich ausruhen und viel trinken.",
+      "Die Betroffenen sollten sich schonen, ausreichend trinken und erforderlichenfalls Schmerzmittel einnehmen (siehe weiter unten)."
+    ],
+    0.6231897473335266
+  ],
+  [
+    [
+      41,
+      32
+    ],
+    [
+      "Bei starken Schmerzen können Schmerzmittel helfen.",
+      "Die Betroffenen sollten sich schonen, ausreichend trinken und erforderlichenfalls Schmerzmittel einnehmen (siehe weiter unten)."
+    ],
+    0.5644322633743286
+  ],
+  [
+    [
+      42,
+      41
+    ],
+    [
+      "Tritt die akute Mittelohr-Entzündung zusammen mit einer Erkältung auf?",
+      "Es ist nicht belegt, dass Ohrentropfen bei einer Mittelohrentzündung die Entzündung bessern."
+    ],
+    0.553123414516449
+  ],
+  [
+    [
+      43,
+      44
+    ],
+    [
+      "Dann können Nasentropfen oder Nasensprays helfen:",
+      "Sind Betroffene erkältet und leiden zusätzlich unter einer verstopften Nase, bringen abschwellende Nasensprays oder -tropfen oft Erleichterung."
+    ],
+    0.6482816934585571
+  ],
+  [
+    [
+      44,
+      80
+    ],
+    [
+      "So kann der Schleim besser aus dem Hals-Nasen-Rachenraum fließen.",
+      "Phasenweise fließt immer wieder Schleim aus dem Gehörgang."
+    ],
+    0.6110685467720032
+  ],
+  [
+    [
+      45,
+      83
+    ],
+    [
+      "Sie wollen noch mehr über akute Mittelohr-Entzündung lesen?",
+      "Sie helfen, die Entzündung einzudämmen."
+    ],
+    0.5678061842918396
+  ],
+  [
+    [
+      46,
+      83
+    ],
+    [
+      "Mehr Informationen über akute Mittelohr-Entzündung finden Sie hier .",
+      "Sie helfen, die Entzündung einzudämmen."
+    ],
+    0.5772832632064819
+  ],
+  [
+    [
+      47,
+      102
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Dieser Artikel enthält nur allgemeine Hinweise und darf nicht zur Selbstdiagnose oder –behandlung verwendet werden."
+    ],
+    0.3862019181251526
+  ],
+  [
+    [
+      48,
+      104
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.5825312733650208
+  ]
+]

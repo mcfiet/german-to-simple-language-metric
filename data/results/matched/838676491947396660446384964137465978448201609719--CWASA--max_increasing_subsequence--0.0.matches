@@ -1,0 +1,673 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Citalopram ist ein Medikament.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.4967308044433594
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Citalopram hilft gegen Depressionen und gegen Panikattacken.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.6075196862220764
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Citalopram wirkt oft nicht sofort.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.38601428270339966
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Meistens wirkt das Medikament erst nach einigen Wochen.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.397112101316452
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Citalopram ist ein Antidepressivum.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.5187128186225891
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Das bedeutet: Citalopram hilft gegen Depressionen.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.5406174659729004
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Citalopram erhöht die Menge von Serotonin im Gehirn.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.3514285981655121
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Serotonin ist ein Botenstoff.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.4157913625240326
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Serotonin ist wichtig für die Stimmung eines Menschen.",
+      "Nach gängigen Vorstellungen spielt Serotonin im Gehirn eine wichtige Rolle für Stimmung und Antrieb."
+    ],
+    0.5126451849937439
+  ],
+  [
+    [
+      9,
+      4
+    ],
+    [
+      "Hat ein Mensch zu wenig Serotonin im Gehirn?",
+      "Nach gängigen Vorstellungen spielt Serotonin im Gehirn eine wichtige Rolle für Stimmung und Antrieb."
+    ],
+    0.35264357924461365
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Dann fühlt sich dieser Mensch vielleicht traurig und müde.",
+      "Daher wirkt die Steigerung der Serotoninkonzentration den Symptomen einer Depression wie gedrückter Stimmung und Antriebslosigkeit entgegen."
+    ],
+    0.4271685779094696
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Citalopram erhöht die Menge von Serotonin im Gehirn.",
+      "Daher wirkt die Steigerung der Serotoninkonzentration den Symptomen einer Depression wie gedrückter Stimmung und Antriebslosigkeit entgegen."
+    ],
+    0.39435991644859314
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Deshalb hilft das Medikament gegen die Anzeichen einer Depression.",
+      "Daher wirkt die Steigerung der Serotoninkonzentration den Symptomen einer Depression wie gedrückter Stimmung und Antriebslosigkeit entgegen."
+    ],
+    0.5698889493942261
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Citalopram wirkt meist nicht sofort.",
+      "Wie bei allen SSRIs kann es auch bei der Behandlung mit Citalopram eine Zeit (einige Wochen) dauern, bis sich die Symptome der Depression deutlich bessern."
+    ],
+    0.3683815896511078
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Deshalb merken Sie die Wirkung häufig erst nach einigen Wochen.",
+      "Weil die antriebssteigernde Wirkung schneller einsetzt als die stimmungsaufhellende, benötigen Patienten zu Beginn der Therapie eine engmaschige Betreuung."
+    ],
+    0.4942137897014618
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Aus diesem Grund sollte ein Arzt Sie während dieser Zeit beobachten.",
+      "Weil die antriebssteigernde Wirkung schneller einsetzt als die stimmungsaufhellende, benötigen Patienten zu Beginn der Therapie eine engmaschige Betreuung."
+    ],
+    0.3918456435203552
+  ],
+  [
+    [
+      16,
+      9
+    ],
+    [
+      "Sie nehmen Citalopram.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.26006880402565
+  ],
+  [
+    [
+      17,
+      9
+    ],
+    [
+      "Aber Sie möchten Citalopram nicht mehr einnehmen?",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.35283222794532776
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Dann sprechen Sie erst mit Ihrem Arzt.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.3428969085216522
+  ],
+  [
+    [
+      19,
+      9
+    ],
+    [
+      "Der Arzt wird die Menge des Medikaments langsam senken.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.43717584013938904
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "So kann sich der Körper an die geringere Menge gewöhnen.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.29779815673828125
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Sie setzen das Medikament ohne Rücksprache mit Ihrem Arzt ab?",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.3488003611564636
+  ],
+  [
+    [
+      22,
+      9
+    ],
+    [
+      "Dann reagiert Ihr Körper vielleicht mit: Schwindelgefühlen Schlafstörungen Übelkeit",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.37257564067840576
+  ],
+  [
+    [
+      23,
+      9
+    ],
+    [
+      "Zittern",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.16488084197044373
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Verwirrtheit Sprechen Sie deshalb immer erst mit Ihrem Arzt, bevor Sie das Medikament absetzen.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.40124616026878357
+  ],
+  [
+    [
+      25,
+      9
+    ],
+    [
+      "Citalopram kann Nebenwirkungen haben.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.4422591030597687
+  ],
+  [
+    [
+      26,
+      9
+    ],
+    [
+      "Das bedeutet: Das Medikament kann unerwünschte Folgen haben.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.4095507562160492
+  ],
+  [
+    [
+      27,
+      9
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen von Citalopram stehen auf dem Beipackzettel.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.4774954617023468
+  ],
+  [
+    [
+      28,
+      9
+    ],
+    [
+      "In diesem Text sind nicht alle Nebenwirkungen aufgelistet.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.5190172791481018
+  ],
+  [
+    [
+      29,
+      10
+    ],
+    [
+      "In diesem Text werden nur die häufigsten Nebenwirkungen aufgelistet.",
+      "Hier werden nur die häufigsten aufgelistet."
+    ],
+    0.6430187225341797
+  ],
+  [
+    [
+      30,
+      12
+    ],
+    [
+      "Der Text ist also nicht vollständig und ersetzt nicht den Beipackzettel oder den Besuch beim Arzt.",
+      "Verminderter Appetit und Gewichtsabnahme (gelegentlich kann es aber auch zu vermehrtem Appetit und damit einer Gewichtszunahme kommen), Nervosität, verringerter Spaß am Sex, Ängstlichkeit, Nervosität, Verwirrtheit, anormale Träume, Konzentrationsprobleme, Orgasmusstörungen, Schläfrigkeit, Schlaflosigkeit, Kopfschmerzen , Tremor , Geschmacksstörungen, Kribbelgefühle, Schwindel , Aufmerksamkeitsstörungen, Sehstörungen , Ohrgeräusche , Herzklopfen, Mundtrockenheit, Übelkeit , Verstopfung , Durchfall , Erbrechen, Blähungen , vermehrter Speichelfluss, Bauchschmerzen , vermehrtes Schwitzen , Gelenk- und Gliederschmerzen."
+    ],
+    0.41669031977653503
+  ],
+  [
+    [
+      31,
+      13
+    ],
+    [
+      "Unerwünschte Nebenwirkungen von Citalopram sind zum Beispiel:",
+      "Selten sind Fälle eines Serotonin-Syndroms bei Patienten aufgetreten, die SSRIs einnahmen."
+    ],
+    0.4831920564174652
+  ],
+  [
+    [
+      32,
+      14
+    ],
+    [
+      "Eine Person hat keinen Appetit und verliert Gewicht, die Person hat einen trockenen Mund, die Person schwitzt sehr viel, die Person ist nervös, die Person hat keine Lust auf Sex, die Person hat oft Angst, die Person ist oft verwirrt, die Person träumt anders als sonst, die Person kann sich nicht mehr konzentrieren, die Person ist müde, die Person hat Kopfschmerzen, die Person fühlt sich schwindelig, die Person sieht schlecht, die Person erbricht sich, die Person hat Verstopfung oder Durchfall, die Person hat Bauchschmerzen.",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.49236705899238586
+  ],
+  [
+    [
+      33,
+      14
+    ],
+    [
+      "Manchmal kann es zu einem Serotonin-Syndrom kommen.",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.3909342288970947
+  ],
+  [
+    [
+      34,
+      14
+    ],
+    [
+      "Das ist aber sehr selten.",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.3354770839214325
+  ],
+  [
+    [
+      35,
+      14
+    ],
+    [
+      "Anzeichen für ein Serotonin-Syndrom sind zum Beispiel: erhöhte Körpertemperatur starre Muskeln",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.49475520849227905
+  ],
+  [
+    [
+      36,
+      14
+    ],
+    [
+      "Zittern",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.2963121235370636
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Krämpfe",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.2811834216117859
+  ],
+  [
+    [
+      38,
+      14
+    ],
+    [
+      "Verwirrtheit Reizbarkeit",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.40632784366607666
+  ],
+  [
+    [
+      39,
+      15
+    ],
+    [
+      "Sie nehmen Citalopram?",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.309863805770874
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Und Sie bemerken bei sich eines oder mehrere von diesen Anzeichen?",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.497983455657959
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Dann haben Sie vielleicht das Serotonin-Syndrom.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.41943490505218506
+  ],
+  [
+    [
+      42,
+      15
+    ],
+    [
+      "Das Serotonin-Syndrom ist gefährlich.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.35804346203804016
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Gehen Sie deshalb sofort zum Arzt.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.5371080636978149
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.44640493392944336
+  ],
+  [
+    [
+      45,
+      16
+    ],
+    [
+      "Sie nehmen verschiedene Medikamente gleichzeitig ein?",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.4859115481376648
+  ],
+  [
+    [
+      46,
+      16
+    ],
+    [
+      "Das kann unerwünschte Folgen haben.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.392911434173584
+  ],
+  [
+    [
+      47,
+      16
+    ],
+    [
+      "Manchmal können Medikamente nämlich die Wirkung von anderen Medikamenten verändern.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.6555536985397339
+  ],
+  [
+    [
+      48,
+      16
+    ],
+    [
+      "Dazu sagt man auch: Wechselwirkungen.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.47929683327674866
+  ],
+  [
+    [
+      49,
+      16
+    ],
+    [
+      "Sie nehmen außer Citalopram noch andere Medikamente ein?",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.5102320313453674
+  ],
+  [
+    [
+      50,
+      16
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt nach möglichen Wechselwirkungen.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.426584929227829
+  ],
+  [
+    [
+      51,
+      16
+    ],
+    [
+      "Citalopram kann Wechselwirkungen auslösen.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.4968869388103485
+  ],
+  [
+    [
+      52,
+      16
+    ],
+    [
+      "Und auch andere Medikamente verändern die Wirkung von Citalopram.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.695781409740448
+  ],
+  [
+    [
+      53,
+      16
+    ],
+    [
+      "Einige Menschen dürfen Citalopram nicht nehmen.",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.44397279620170593
+  ],
+  [
+    [
+      54,
+      16
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.3285558223724365
+  ],
+  [
+    [
+      55,
+      16
+    ],
+    [
+      "Personen mit einer Allergie gegen den Wirkstoff Citalopram",
+      "Citalopram beeinflusst die Wirkdauer und -stärke vieler anderer Medikamente, auch wird die Wirkung durch andere Wirkstoffe beeinflusst."
+    ],
+    0.44254669547080994
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Personen mit einer bestimmten Form der Herzrhythmus-Störung Sprechen Sie deshalb vor der Einnahme von Citalopram mit Ihrem Arzt.",
+      "Daher sollten Sie sich in der Apotheke beraten lassen, ob andere Arzneimittel, die Sie einnehmen, sich mit Citalopram vertragen."
+    ],
+    0.6072971224784851
+  ],
+  [
+    [
+      57,
+      17
+    ],
+    [
+      "Sie wollen noch mehr über Citalopram lesen?",
+      "Daher sollten Sie sich in der Apotheke beraten lassen, ob andere Arzneimittel, die Sie einnehmen, sich mit Citalopram vertragen."
+    ],
+    0.43625202775001526
+  ],
+  [
+    [
+      58,
+      17
+    ],
+    [
+      "Mehr Informationen über Citalopram finden Sie hier .",
+      "Daher sollten Sie sich in der Apotheke beraten lassen, ob andere Arzneimittel, die Sie einnehmen, sich mit Citalopram vertragen."
+    ],
+    0.41024312376976013
+  ],
+  [
+    [
+      59,
+      17
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Daher sollten Sie sich in der Apotheke beraten lassen, ob andere Arzneimittel, die Sie einnehmen, sich mit Citalopram vertragen."
+    ],
+    0.3195092976093292
+  ],
+  [
+    [
+      60,
+      21
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Citalopram darf nicht in der Schwangerschaft angewendet werden, außer wenn es zwingend nötig ist."
+    ],
+    0.5094428062438965
+  ]
+]

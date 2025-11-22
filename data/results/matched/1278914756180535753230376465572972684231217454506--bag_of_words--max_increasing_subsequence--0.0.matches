@@ -1,0 +1,343 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Grippe ist eine ansteckende Krankheit.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.7516643404960632
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Fachwort für Grippe ist: Influenza.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.7725576758384705
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Grippe entsteht durch Viren.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.7501377463340759
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Viren werden durch Körper-Flüssigkeiten übertragen:",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.012335214763879776
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Eine Grippe ist kein grippaler Infekt.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.751236081123352
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Das Influenza-Virus wird über die Schleimhäute übertragen.",
+      "Am häufigsten und am gefährlichsten ist das Influenza-Virus Typ A."
+    ],
+    0.564135730266571
+  ],
+  [
+    [
+      7,
+      9
+    ],
+    [
+      "Schleimhäute sind zum Beispiel in Mund oder Nase.",
+      "Sie befallen Schleimhautzellen, zum Beispiel in der Nase, und vermehren sich dort."
+    ],
+    0.3764002323150635
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "In den Schleimhäuten vermehren sich die Viren.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.31712836027145386
+  ],
+  [
+    [
+      9,
+      33
+    ],
+    [
+      "Und sie können dann übertragen werden beim:",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.30970966815948486
+  ],
+  [
+    [
+      10,
+      47
+    ],
+    [
+      "Niesen Husten",
+      "Inhalieren kann zum Beispiel bei Husten und einer laufenden Nase sinnvoll sein."
+    ],
+    0.22126303613185883
+  ],
+  [
+    [
+      14,
+      48
+    ],
+    [
+      "Deshalb kann man sich mit den Viren auch dann anstecken, wenn man solche Gegenstände berührt.",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.28847792744636536
+  ],
+  [
+    [
+      23,
+      48
+    ],
+    [
+      "Personen mit Tumor-Erkrankung",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.15911635756492615
+  ],
+  [
+    [
+      24,
+      48
+    ],
+    [
+      "Personen mit Lungen-Erkrankung",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.15911635756492615
+  ],
+  [
+    [
+      25,
+      48
+    ],
+    [
+      "Personen mit HIV-Erkrankung",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.15757893025875092
+  ],
+  [
+    [
+      26,
+      48
+    ],
+    [
+      "Personen mit Herz-Erkrankung",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.1600549817085266
+  ],
+  [
+    [
+      27,
+      48
+    ],
+    [
+      "Personen mit Unterernährung.",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.15882055461406708
+  ],
+  [
+    [
+      32,
+      48
+    ],
+    [
+      "Betroffene fühlen sich dann schnell sehr krank.",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.20682163536548615
+  ],
+  [
+    [
+      34,
+      48
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen hohes Fieber",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.09705228358507156
+  ],
+  [
+    [
+      36,
+      53
+    ],
+    [
+      "Ich habe Anzeichen einer Grippe?",
+      "Medikamente gegen Grippe"
+    ],
+    0.9778793454170227
+  ],
+  [
+    [
+      39,
+      53
+    ],
+    [
+      "Eine Grippe dauert etwa eine Woche.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9657264947891235
+  ],
+  [
+    [
+      41,
+      53
+    ],
+    [
+      "Aber eine Grippe schwächt den Körper.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9745974540710449
+  ],
+  [
+    [
+      43,
+      53
+    ],
+    [
+      "Diese Folge-Erkrankungen können die Grippe gefährlich machen.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9748488068580627
+  ],
+  [
+    [
+      44,
+      53
+    ],
+    [
+      "Deshalb sollten Sie bei Grippe immer zum Arzt gehen.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9625681638717651
+  ],
+  [
+    [
+      47,
+      53
+    ],
+    [
+      "Vielleicht verschreibt er Ihnen spezielle Medikamente gegen die Grippe.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9891926646232605
+  ],
+  [
+    [
+      48,
+      53
+    ],
+    [
+      "Bei Grippe helfen vor allem: viel Ruhe viel trinken Achtung:",
+      "Medikamente gegen Grippe"
+    ],
+    0.9724902510643005
+  ],
+  [
+    [
+      55,
+      53
+    ],
+    [
+      "Sie möchten eine Grippe vermeiden?",
+      "Medikamente gegen Grippe"
+    ],
+    0.9712762236595154
+  ],
+  [
+    [
+      58,
+      53
+    ],
+    [
+      "Gegen Grippe gibt es auch eine Impfung.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9800732135772705
+  ],
+  [
+    [
+      60,
+      53
+    ],
+    [
+      "Deshalb muss eine Impfung gegen Grippe jedes Jahr erfolgen.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9757630228996277
+  ],
+  [
+    [
+      61,
+      53
+    ],
+    [
+      "Manche Menschen sollten sich auf jeden Fall gegen Grippe impfen lassen:",
+      "Medikamente gegen Grippe"
+    ],
+    0.9800741076469421
+  ],
+  [
+    [
+      70,
+      53
+    ],
+    [
+      "Sie wollen noch mehr über Grippe lesen?",
+      "Medikamente gegen Grippe"
+    ],
+    0.9734934568405151
+  ],
+  [
+    [
+      71,
+      53
+    ],
+    [
+      "Mehr Informationen über Grippe finden Sie hier .",
+      "Medikamente gegen Grippe"
+    ],
+    0.9722740650177002
+  ]
+]

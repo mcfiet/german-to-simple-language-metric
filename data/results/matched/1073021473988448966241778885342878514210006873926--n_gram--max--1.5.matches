@@ -1,0 +1,1135 @@
+[
+  [
+    [
+      2,
+      24
+    ],
+    [
+      "Oder Sie haben sich in den Finger geschnitten?",
+      "Lassen Sie sich in der Apotheke beraten."
+    ],
+    0.7442703247070312
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Leichte Verletzungen können Sie oft selbst versorgen.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.7162030339241028
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Dafür müssen Sie die Wunde reinigen, desinfizieren, verbinden und beobachten.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.95318204164505
+  ],
+  [
+    [
+      7,
+      27
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Heilt die Wunde gut?"
+    ],
+    0.9813106060028076
+  ],
+  [
+    [
+      12,
+      34
+    ],
+    [
+      "Oder in der Wunde ist Schmutz?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.9254986047744751
+  ],
+  [
+    [
+      13,
+      2
+    ],
+    [
+      "Dann halten Sie die Wunde unter lauwarmes Leitungswasser.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9770018458366394
+  ],
+  [
+    [
+      14,
+      34
+    ],
+    [
+      "In der Wunde sind Splitter?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.8930973410606384
+  ],
+  [
+    [
+      15,
+      13
+    ],
+    [
+      "Dann ziehen Sie die Splitter vorsichtig heraus.",
+      "Achten Sie darauf, dass Sie den Splitter komplett herausziehen."
+    ],
+    0.7510014176368713
+  ],
+  [
+    [
+      16,
+      41
+    ],
+    [
+      "Benutzen Sie dafür eine Pinzette.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.8092173337936401
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Hinweis: Ziehen Sie die Splitter ganz heraus.",
+      "Achten Sie darauf, dass Sie den Splitter komplett herausziehen."
+    ],
+    0.7820975184440613
+  ],
+  [
+    [
+      18,
+      34
+    ],
+    [
+      "Ein Teil des Splitters bleibt in der Wunde?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.8819233179092407
+  ],
+  [
+    [
+      19,
+      27
+    ],
+    [
+      "Dann kann sich die Wunde entzünden.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9574574828147888
+  ],
+  [
+    [
+      20,
+      34
+    ],
+    [
+      "Die Splitter stecken tief in der Wunde?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.8763731122016907
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Dann ziehen Sie die Splitter nicht heraus.",
+      "Achten Sie darauf, dass Sie den Splitter komplett herausziehen."
+    ],
+    0.7499163150787354
+  ],
+  [
+    [
+      22,
+      2
+    ],
+    [
+      "Verbinden Sie die Wunde mit einem sterilen Verband.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9510935544967651
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Danach gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.8379751443862915
+  ],
+  [
+    [
+      25,
+      27
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9492983818054199
+  ],
+  [
+    [
+      26,
+      35
+    ],
+    [
+      "Hinweis: Wunden können sich schnell entzünden.",
+      "Bei kleineren Schürfwunden anschließend einen Wundschnellverband aufbringen."
+    ],
+    0.8926606178283691
+  ],
+  [
+    [
+      27,
+      2
+    ],
+    [
+      "Fassen Sie deshalb die Wunde nicht mit schmutzigen Händen an.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9735921621322632
+  ],
+  [
+    [
+      28,
+      41
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.7631101608276367
+  ],
+  [
+    [
+      29,
+      41
+    ],
+    [
+      "Oder tragen Sie Einmal-Handschuhe.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.8371679782867432
+  ],
+  [
+    [
+      30,
+      27
+    ],
+    [
+      "Sie haben die Wunde gereinigt?",
+      "Heilt die Wunde gut?"
+    ],
+    0.9740474820137024
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Dann sollten Sie die Wunde desinfizieren.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9619102478027344
+  ],
+  [
+    [
+      32,
+      34
+    ],
+    [
+      "Beim Desinfizieren werden die Keime in der Wunde getötet.",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.9078542590141296
+  ],
+  [
+    [
+      33,
+      27
+    ],
+    [
+      "Die Wunde kann sich dann nicht so leicht entzünden.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9430944323539734
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Benutzen Sie ein Desinfektionsmittel für Wunden.",
+      "Tragen Sie ein geeignetes Wunddesinfektionsmittel auf."
+    ],
+    0.9231212735176086
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden sollten Sie immer zu Hause haben.",
+      "Tragen Sie ein geeignetes Wunddesinfektionsmittel auf."
+    ],
+    0.9133197665214539
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden können Sie in der Apotheke kaufen.",
+      "Tragen Sie ein geeignetes Wunddesinfektionsmittel auf."
+    ],
+    0.9071341753005981
+  ],
+  [
+    [
+      38,
+      41
+    ],
+    [
+      "Dann fragen Sie den Apotheker:",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.7592312097549438
+  ],
+  [
+    [
+      40,
+      27
+    ],
+    [
+      "Sie haben die Wunde desinfiziert?",
+      "Heilt die Wunde gut?"
+    ],
+    0.9504185318946838
+  ],
+  [
+    [
+      41,
+      2
+    ],
+    [
+      "Dann sollten Sie die Wunde verbinden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.970004141330719
+  ],
+  [
+    [
+      43,
+      2
+    ],
+    [
+      "Für größere Wunden können Sie eine sterile Kompresse benutzen.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.934874951839447
+  ],
+  [
+    [
+      44,
+      58
+    ],
+    [
+      "Eine Kompresse ist eine Wundauflage.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.9323105216026306
+  ],
+  [
+    [
+      45,
+      27
+    ],
+    [
+      "Die Kompresse kommt direkt auf die Wunde.",
+      "Heilt die Wunde gut?"
+    ],
+    0.962847113609314
+  ],
+  [
+    [
+      48,
+      27
+    ],
+    [
+      "Für kleine Wunden gibt es Feucht-Pflaster.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9524953961372375
+  ],
+  [
+    [
+      49,
+      27
+    ],
+    [
+      "Feucht-Pflaster lassen die Wunde schneller heilen.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9795045256614685
+  ],
+  [
+    [
+      51,
+      2
+    ],
+    [
+      "Beobachten Sie die Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9775477051734924
+  ],
+  [
+    [
+      52,
+      27
+    ],
+    [
+      "Wie entwickelt sich die Wunde?",
+      "Heilt die Wunde gut?"
+    ],
+    0.979400098323822
+  ],
+  [
+    [
+      54,
+      27
+    ],
+    [
+      "Dann hat sich die Wunde vielleicht entzündet.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9786989688873291
+  ],
+  [
+    [
+      55,
+      9
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.8450774550437927
+  ],
+  [
+    [
+      56,
+      27
+    ],
+    [
+      "Der Arzt kann die entzündete Wunde richtig behandeln.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9711994528770447
+  ],
+  [
+    [
+      57,
+      27
+    ],
+    [
+      "Eine offene Wunde kann Tetanus verursachen.",
+      "Heilt die Wunde gut?"
+    ],
+    0.935403048992157
+  ],
+  [
+    [
+      58,
+      35
+    ],
+    [
+      "Tetanus heißt auch: Wundstarr-Krampf.",
+      "Bei kleineren Schürfwunden anschließend einen Wundschnellverband aufbringen."
+    ],
+    0.8678000569343567
+  ],
+  [
+    [
+      64,
+      41
+    ],
+    [
+      "Dann schauen Sie in Ihren Impfpass.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.777381956577301
+  ],
+  [
+    [
+      65,
+      26
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt.",
+      "Im Zweifelsfall fragen Sie Ihren Arzt."
+    ],
+    0.8800835609436035
+  ],
+  [
+    [
+      67,
+      33
+    ],
+    [
+      "Dann haben Sie vielleicht eine Schürfwunde.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.8480495810508728
+  ],
+  [
+    [
+      68,
+      33
+    ],
+    [
+      "Bei einer Schürfwunde ist nur die oberste Hautschicht verletzt.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.8816558122634888
+  ],
+  [
+    [
+      69,
+      33
+    ],
+    [
+      "Bei Schürfwunden werden viele Nerven-Enden freigelegt.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.9377858638763428
+  ],
+  [
+    [
+      70,
+      27
+    ],
+    [
+      "Deshalb sind diese Wunden oft schmerzhaft.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9648733139038086
+  ],
+  [
+    [
+      71,
+      33
+    ],
+    [
+      "Schürfwunden heilen schnell ab.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.9442299604415894
+  ],
+  [
+    [
+      72,
+      33
+    ],
+    [
+      "Kleine Schürfwunden können Sie selbst versorgen.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.8667041659355164
+  ],
+  [
+    [
+      73,
+      33
+    ],
+    [
+      "In der Schürfwunde ist viel Schmutz?",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.8956161737442017
+  ],
+  [
+    [
+      74,
+      2
+    ],
+    [
+      "Dann spülen Sie die Wunde gründlich aus.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9789049625396729
+  ],
+  [
+    [
+      75,
+      2
+    ],
+    [
+      "Danach desinfizieren Sie die Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9594484567642212
+  ],
+  [
+    [
+      76,
+      2
+    ],
+    [
+      "Kleben Sie ein Pflaster auf die Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.964925229549408
+  ],
+  [
+    [
+      77,
+      27
+    ],
+    [
+      "Die Wunde ist sehr groß?",
+      "Heilt die Wunde gut?"
+    ],
+    0.985169529914856
+  ],
+  [
+    [
+      78,
+      9
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.7977505922317505
+  ],
+  [
+    [
+      79,
+      27
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9492983818054199
+  ],
+  [
+    [
+      80,
+      40
+    ],
+    [
+      "Sie haben eine kleine Schnittwunde?",
+      "Üblicherweise haben Schnittwunden glatte Wundränder, die man mit einem Pflaster gut aneinander \"kleben\" kann."
+    ],
+    0.859895646572113
+  ],
+  [
+    [
+      81,
+      2
+    ],
+    [
+      "Dann lassen Sie die Wunde kurz bluten.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9787275791168213
+  ],
+  [
+    [
+      82,
+      34
+    ],
+    [
+      "Das Blut spült Schmutz und Krankheitserreger aus der Wunde.",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.9110026955604553
+  ],
+  [
+    [
+      83,
+      2
+    ],
+    [
+      "Dann kleben Sie ein Pflaster auf die Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.9586544036865234
+  ],
+  [
+    [
+      84,
+      45
+    ],
+    [
+      "Die Schnittwunde ist sehr tief?",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8703334927558899
+  ],
+  [
+    [
+      85,
+      45
+    ],
+    [
+      "Oder die Schnittwunde blutet stark?",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8847600221633911
+  ],
+  [
+    [
+      86,
+      9
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.7977505922317505
+  ],
+  [
+    [
+      87,
+      45
+    ],
+    [
+      "Der Arzt versorgt die Schnittwunde.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8805606961250305
+  ],
+  [
+    [
+      88,
+      50
+    ],
+    [
+      "Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.817647397518158
+  ],
+  [
+    [
+      89,
+      45
+    ],
+    [
+      "Typische Stellen für Platzwunden sind: der Kopf das Knie der Ellenbogen Platzwunden können gefährlich sein.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.9160738587379456
+  ],
+  [
+    [
+      90,
+      45
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.9274891018867493
+  ],
+  [
+    [
+      92,
+      45
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.9138323664665222
+  ],
+  [
+    [
+      93,
+      45
+    ],
+    [
+      "Platzwunden entzünden sich schnell.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8902448415756226
+  ],
+  [
+    [
+      94,
+      45
+    ],
+    [
+      "Und Platzwunden können sehr stark bluten.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8950312733650208
+  ],
+  [
+    [
+      95,
+      45
+    ],
+    [
+      "Sie haben eine Platzwunde?",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8763383030891418
+  ],
+  [
+    [
+      96,
+      9
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.7977505922317505
+  ],
+  [
+    [
+      97,
+      27
+    ],
+    [
+      "Der Arzt versorgt die Wunde.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9612449407577515
+  ],
+  [
+    [
+      98,
+      45
+    ],
+    [
+      "Stichwunden entstehen zum Beispiel durch:",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.9051951169967651
+  ],
+  [
+    [
+      101,
+      50
+    ],
+    [
+      "Stichwunden sind gefährlich.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.8882059454917908
+  ],
+  [
+    [
+      102,
+      50
+    ],
+    [
+      "Stichwunden sehen manchmal nicht schlimm aus.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.8998463153839111
+  ],
+  [
+    [
+      103,
+      50
+    ],
+    [
+      "Aber Stichwunden können sehr tief sein.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.9082465171813965
+  ],
+  [
+    [
+      104,
+      45
+    ],
+    [
+      "Sie haben eine Stichwunde?",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8634172081947327
+  ],
+  [
+    [
+      105,
+      25
+    ],
+    [
+      "Dann ziehen Sie den Gegenstand nicht selbst aus der Wunde.",
+      "Prüfen Sie bei allen offenen Wunden, ob Sie noch gegen Tetanus geschützt sind."
+    ],
+    0.9017547369003296
+  ],
+  [
+    [
+      107,
+      25
+    ],
+    [
+      "Dann ziehen Sie den Nagel nicht selbst aus der Wunde.",
+      "Prüfen Sie bei allen offenen Wunden, ob Sie noch gegen Tetanus geschützt sind."
+    ],
+    0.9004718065261841
+  ],
+  [
+    [
+      108,
+      9
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.8450774550437927
+  ],
+  [
+    [
+      109,
+      41
+    ],
+    [
+      "Oder rufen Sie den Rettungsdienst.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.7092153429985046
+  ],
+  [
+    [
+      110,
+      27
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9492983818054199
+  ],
+  [
+    [
+      112,
+      9
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.7977505922317505
+  ],
+  [
+    [
+      113,
+      45
+    ],
+    [
+      "Bisswunden und Kratzwunden können nämlich gefährlich sein.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.9296285510063171
+  ],
+  [
+    [
+      115,
+      45
+    ],
+    [
+      "Durch Bisswunden und Kratzwunden können Sie zum Beispiel Tetanus bekommen.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.9024012088775635
+  ],
+  [
+    [
+      118,
+      41
+    ],
+    [
+      "Schauen Sie in Ihren Impfpass.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.8343332409858704
+  ],
+  [
+    [
+      119,
+      26
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt:",
+      "Im Zweifelsfall fragen Sie Ihren Arzt."
+    ],
+    0.8800835609436035
+  ],
+  [
+    [
+      122,
+      68
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung unter lauwarmem Leitungswasser.",
+      "Genaueres lesen Sie im Beitrag Verbrennungen."
+    ],
+    0.7396994829177856
+  ],
+  [
+    [
+      123,
+      68
+    ],
+    [
+      "Kühlen Sie die Verbrennung nicht länger als fünf Minuten.",
+      "Genaueres lesen Sie im Beitrag Verbrennungen."
+    ],
+    0.7782382965087891
+  ],
+  [
+    [
+      125,
+      9
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Überlassen Sie das dem Arzt."
+    ],
+    0.7972171306610107
+  ],
+  [
+    [
+      130,
+      69
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.7351303696632385
+  ],
+  [
+    [
+      132,
+      70
+    ],
+    [
+      "112. Dann stoppen Sie die Blutung mit einem Druckverband.",
+      "Stillen Sie die Blutung – wenn möglich – mit einem Druckverband."
+    ],
+    0.8447944521903992
+  ],
+  [
+    [
+      133,
+      71
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.932809054851532
+  ],
+  [
+    [
+      135,
+      15
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Tragen Sie ein geeignetes Wunddesinfektionsmittel auf."
+    ],
+    0.8932906985282898
+  ],
+  [
+    [
+      136,
+      70
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Stillen Sie die Blutung – wenn möglich – mit einem Druckverband."
+    ],
+    0.8105307221412659
+  ],
+  [
+    [
+      137,
+      27
+    ],
+    [
+      "Hinweis: Der Verband soll auf die Wunde drücken.",
+      "Heilt die Wunde gut?"
+    ],
+    0.9721086025238037
+  ],
+  [
+    [
+      138,
+      11
+    ],
+    [
+      "Aber machen Sie den Verband nicht zu fest.",
+      "Decken Sie die Verletzung behutsam mit einem sterilen Verband ab und wenden Sie sich an den Fachmann."
+    ],
+    0.7479409575462341
+  ],
+  [
+    [
+      140,
+      41
+    ],
+    [
+      "So können Sie die Blutung stoppen.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.7391383051872253
+  ],
+  [
+    [
+      141,
+      27
+    ],
+    [
+      "Sie wollen noch mehr über die Versorgung von Wunden lesen?",
+      "Heilt die Wunde gut?"
+    ],
+    0.8858447670936584
+  ],
+  [
+    [
+      142,
+      25
+    ],
+    [
+      "Mehr Informationen über die Versorgung von Wunden finden Sie hier .",
+      "Prüfen Sie bei allen offenen Wunden, ob Sie noch gegen Tetanus geschützt sind."
+    ],
+    0.915125846862793
+  ]
+]

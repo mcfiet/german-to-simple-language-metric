@@ -1,0 +1,376 @@
+[
+  [
+    [
+      0,
+      6
+    ],
+    [
+      "Sie brauchen eine Geburts-Urkunde?",
+      "Geburtsurkunde/"
+    ],
+    0.9562085866928101
+  ],
+  [
+    [
+      1,
+      11
+    ],
+    [
+      "Oder eine Ehe-Urkunde?",
+      "Eheurkunde/"
+    ],
+    0.9715189337730408
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Oder eine Lebens-Partnerschafts-Urkunde?",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    0.9125076532363892
+  ],
+  [
+    [
+      3,
+      19
+    ],
+    [
+      "Oder eine Sterbe-Urkunde?",
+      "Sterbeurkunde"
+    ],
+    0.9849434494972229
+  ],
+  [
+    [
+      4,
+      32
+    ],
+    [
+      "Diese Urkunden können Sie von uns bekommen.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9213997721672058
+  ],
+  [
+    [
+      5,
+      32
+    ],
+    [
+      "Sie können nach einer Urkunde fragen: am Telefon mit einem Brief mit einer E-Mail.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.8999103307723999
+  ],
+  [
+    [
+      6,
+      32
+    ],
+    [
+      "Sie können Urkunden aber auch im Internet bestellen.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9552760124206543
+  ],
+  [
+    [
+      7,
+      32
+    ],
+    [
+      "Dazu können Sie unseren Urkunden- Service nutzen.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9439390301704407
+  ],
+  [
+    [
+      8,
+      32
+    ],
+    [
+      "Dafür klicken Sie auf den Link zu der Urkunde, die Sie haben wollen.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.8819042444229126
+  ],
+  [
+    [
+      9,
+      32
+    ],
+    [
+      "Über den Link kommen Sie auf den Antrag, mit dem Sie die Urkunde bestellen können.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.8648523688316345
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Geburts-Urkunde",
+      "Geburtsurkunde/"
+    ],
+    0.9951149821281433
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Eine Geburts-Urkunde brauchen Sie zum Beispiel, wenn Sie eine Ehe oder Lebens-Partnerschaft anmelden wollen, wenn Sie sich bei einer Firma bewerben und diese nach einer Geburts-Urkunde fragt, wenn Ihre Versicherung oder Bank nach Ihrer Geburts-Urkunde fragt.",
+      "Geburtsurkunde/"
+    ],
+    0.905522346496582
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Sie bekommen die Geburts-Urkunde beim Standes-Amt von dem Ort, wo Sie geboren wurden.",
+      "Geburtsurkunde/"
+    ],
+    0.8599031567573547
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Bei uns bekommen Sie Urkunden ab dem Geburts-Jahr 1912 .",
+      "Bei uns erhalten Sie Urkunden ab dem Geburtsjahr"
+    ],
+    0.9405242204666138
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Ehe-Urkunde",
+      "Eheurkunde/"
+    ],
+    0.9996463656425476
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Sie bekommen die Ehe-Urkunde, wo Sie geheiratet haben.",
+      "Eheurkunde/"
+    ],
+    0.8509544134140015
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Wenn Sie in Köln geheiratet haben, stellen wir Ihnen die Ehe-Urkunde aus.",
+      "Eheurkunde/"
+    ],
+    0.8751605749130249
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Bei uns bekommen Sie nur Ehe-Urkunden von Ehen, die ab 1942 in Köln geschlossen wurden.",
+      "Die Eheurkunde wird bei der Eheschließung erstellt und ausgehändigt."
+    ],
+    0.8673314452171326
+  ],
+  [
+    [
+      29,
+      0
+    ],
+    [
+      "Lebens-Partnerschafts-Urkunde",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    0.9154148101806641
+  ],
+  [
+    [
+      30,
+      17
+    ],
+    [
+      "Eine Lebens-Partnerschafts-Urkunde bekommen Sie, wenn Sie eine Lebens-Partnerschaft angemeldet haben.",
+      "Die Lebenspartnerschaftsurkunde wurde bei der Begründung einer gleichgeschlechtlichen Lebenspartnerschaft erstellt und ausgehändigt."
+    ],
+    0.8351948857307434
+  ],
+  [
+    [
+      35,
+      19
+    ],
+    [
+      "Sterbe-Urkunde",
+      "Sterbeurkunde"
+    ],
+    0.9969207644462585
+  ],
+  [
+    [
+      36,
+      21
+    ],
+    [
+      "Eine Sterbe-Urkunde brauchen Sie, wenn Sie Ihr Erbe regeln wollen.",
+      "Eine Sterbeurkunde erhalten Sie bei dem Standesamt, das den Sterbefall beurkundet hat."
+    ],
+    0.8518419861793518
+  ],
+  [
+    [
+      38,
+      21
+    ],
+    [
+      "Sie brauchen die Sterbe-Urkunde von der gestorbenen Person, um die Versicherung zu bekommen.",
+      "Eine Sterbeurkunde erhalten Sie bei dem Standesamt, das den Sterbefall beurkundet hat."
+    ],
+    0.9153632521629333
+  ],
+  [
+    [
+      39,
+      21
+    ],
+    [
+      "Sie bekommen die Sterbe-Urkunde in dem Standes-Amt, die den Tod von der gestorbenen Person bescheinigt hat.",
+      "Eine Sterbeurkunde erhalten Sie bei dem Standesamt, das den Sterbefall beurkundet hat."
+    ],
+    0.9232297539710999
+  ],
+  [
+    [
+      40,
+      19
+    ],
+    [
+      "Sie bekommen bei uns Sterbe-Urkunden ab 1992 .",
+      "Sterbeurkunde"
+    ],
+    0.9345248341560364
+  ],
+  [
+    [
+      41,
+      32
+    ],
+    [
+      "Was kostet eine Urkunde?",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9728953242301941
+  ],
+  [
+    [
+      42,
+      32
+    ],
+    [
+      "10 Euro für die 1. Urkunde.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9753254055976868
+  ],
+  [
+    [
+      43,
+      26
+    ],
+    [
+      "5 Euro für jede weitere Urkunde der gleichen Art.",
+      "Die erste Urkunde kostet 10 Euro, jede weitere Urkunde der gleichen Art 5 Euro."
+    ],
+    0.9875553250312805
+  ],
+  [
+    [
+      44,
+      26
+    ],
+    [
+      "15 Euro kosten 2 gleiche Urkunden.",
+      "Die erste Urkunde kostet 10 Euro, jede weitere Urkunde der gleichen Art 5 Euro."
+    ],
+    0.9724630117416382
+  ],
+  [
+    [
+      45,
+      32
+    ],
+    [
+      "20 Euro kosten 2 Urkunden unterschiedlicher Art.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9670261740684509
+  ],
+  [
+    [
+      46,
+      31
+    ],
+    [
+      "Urkunden können Sie mit Bargeld bezahlen.",
+      "Urkundenversand ins Ausland"
+    ],
+    0.9012874960899353
+  ],
+  [
+    [
+      56,
+      32
+    ],
+    [
+      "Was ist, wenn ich im Ausland bin und eine Urkunde brauche?",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9449998140335083
+  ],
+  [
+    [
+      57,
+      32
+    ],
+    [
+      "Auch dann können Sie eine Urkunde bei uns bestellen.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9218603372573853
+  ],
+  [
+    [
+      60,
+      32
+    ],
+    [
+      "Wenn das Geld auf unserem Bank-Konto angekommen ist, schicken wir Ihnen die Urkunde mit der Post.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9225823283195496
+  ]
+]

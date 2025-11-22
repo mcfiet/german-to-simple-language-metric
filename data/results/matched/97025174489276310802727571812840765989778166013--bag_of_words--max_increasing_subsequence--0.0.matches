@@ -1,0 +1,519 @@
+[
+  [
+    [
+      0,
+      5
+    ],
+    [
+      "Die Lebensmittel-Vergiftung und die Lebensmittel-Infektion sind verschiedene Lebensmittel-Erkrankungen.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.6903244256973267
+  ],
+  [
+    [
+      1,
+      5
+    ],
+    [
+      "Lebensmittel verursachen die beiden Erkrankungen.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.05852999538183212
+  ],
+  [
+    [
+      2,
+      5
+    ],
+    [
+      "Viele Menschen kennen den Unterschied zwischen Lebensmittel-Vergiftung und Lebensmittel-Infektion nicht.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.6833375692367554
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Eine Lebensmittel-Vergiftung ist eine Vergiftung.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.9148268699645996
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "In den meisten Fällen entsteht eine Lebensmittel-Vergiftung durch Bakterien.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.8823269605636597
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Eine typische Ursache von einer Lebensmittel-Vergiftung ist zum Beispiel das Bakterium:",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.9054092764854431
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Bei einer Lebensmittel-Vergiftung können die Giftstoffe nicht übertragen werden.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.8728551268577576
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Deshalb ist eine Lebensmittel-Vergiftung nicht ansteckend .",
+      "Eine Lebensmittelvergiftung ist keine Infektion, sie ist also auch nicht ansteckend."
+    ],
+    0.9337186217308044
+  ],
+  [
+    [
+      14,
+      13
+    ],
+    [
+      "Bei der Lebensmittel-Infektion ist das anders.",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6942094564437866
+  ],
+  [
+    [
+      15,
+      13
+    ],
+    [
+      "Eine Lebensmittel-Infektion ist ansteckend.",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6936032772064209
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "Bakterien oder Viren im Essen verursachen eine Lebensmittel-Infektion.",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6365629434585571
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Bei einer Lebensmittel-Infektion vermehren sich die Bakterien oder Viren im Körper.",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6677021980285645
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Typische Auslöser von einer Lebensmittel-Infektion sind zum Beispiel diese Bakterien:",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6760760545730591
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Campylobakter-Bakterien",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.17592427134513855
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Salmonellen Listerien",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.3226388692855835
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Aber auch Viren können eine Lebensmittel-Infektion auslösen:",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6754190325737
+  ],
+  [
+    [
+      34,
+      13
+    ],
+    [
+      "Bei einer Lebensmittel-Infektion gibt es häufig die gleichen Beschwerden wie bei einer Lebensmittel-Vergiftung.",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.49984297156333923
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Manchmal kommen die Beschwerden bei einer Lebensmittel-Infektion sogar erst nach mehreren Tagen.",
+      "Zu den klassischen Auslösern einer Lebensmittelinfektion zählen Campylobakter-Bakterien, Salmonellen und Listerien ."
+    ],
+    0.6824929714202881
+  ],
+  [
+    [
+      39,
+      14
+    ],
+    [
+      "Hierzu gehören: Babys und kleine Kinder, schwangere Frauen, alte Menschen, und kranke Menschen.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.45003435015678406
+  ],
+  [
+    [
+      40,
+      14
+    ],
+    [
+      "Vielleicht sind aber auch andere Krankheiten die Ursache für die Beschwerden.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.04116934910416603
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Ein Arzt kann die Beschwerden genau untersuchen.",
+      "Die Erreger können auf den gleichen Nahrungsmitteln sitzen wie diejenigen, die eine Lebensmittelvergiftung auslösen."
+    ],
+    0.19146259129047394
+  ],
+  [
+    [
+      44,
+      16
+    ],
+    [
+      "Zu solchen Lebensmitteln gehören vor allem: rohes Fleisch rohes Geflügel roher Fisch rohe Eier Rohmilch",
+      "Lebensmittel wie zum Beispiel Fleisch, Geflügel oder Fisch können Träger von Krankheitserregern sein."
+    ],
+    0.4322149157524109
+  ],
+  [
+    [
+      45,
+      16
+    ],
+    [
+      "Auch in manchen Konservendosen können Krankheitserreger sein.",
+      "Lebensmittel wie zum Beispiel Fleisch, Geflügel oder Fisch können Träger von Krankheitserregern sein."
+    ],
+    0.024094555526971817
+  ],
+  [
+    [
+      46,
+      17
+    ],
+    [
+      "Die Krankheitserreger in Konservendosen sind aber sehr selten.",
+      "Auch rohe Eier – ob \"pur\" oder verarbeitet zu Dips, Kuchenfüllungen sowie Cremeeis –, Salat, Kartoffelsalat, Rohmilch und Käse aus Rohmilch enthalten manchmal Krankheitserreger."
+    ],
+    0.059805531054735184
+  ],
+  [
+    [
+      47,
+      17
+    ],
+    [
+      "Trotzdem sind diese Krankheitserreger besonders gefährlich.",
+      "Auch rohe Eier – ob \"pur\" oder verarbeitet zu Dips, Kuchenfüllungen sowie Cremeeis –, Salat, Kartoffelsalat, Rohmilch und Käse aus Rohmilch enthalten manchmal Krankheitserreger."
+    ],
+    0.07867583632469177
+  ],
+  [
+    [
+      49,
+      17
+    ],
+    [
+      "In aufgeblähten Konservendosen sind wahrscheinlich Krankheitserreger enthalten.",
+      "Auch rohe Eier – ob \"pur\" oder verarbeitet zu Dips, Kuchenfüllungen sowie Cremeeis –, Salat, Kartoffelsalat, Rohmilch und Käse aus Rohmilch enthalten manchmal Krankheitserreger."
+    ],
+    0.06422477215528488
+  ],
+  [
+    [
+      53,
+      20
+    ],
+    [
+      "Starke Hitze tötet die meisten Krankheitserreger.",
+      "Die Vergiftung kann lebensgefährlich werden, bis zum Atemstillstand führen."
+    ],
+    0.2073066681623459
+  ],
+  [
+    [
+      54,
+      25
+    ],
+    [
+      "Sie sollten die Lebensmittel deshalb vor dem Essen:",
+      "Riecht oder schmeckt ein Lebensmittel komisch, sollten Sie besser die Finger davon lassen."
+    ],
+    0.7500095367431641
+  ],
+  [
+    [
+      55,
+      25
+    ],
+    [
+      "Kochen Braten oder garen",
+      "Riecht oder schmeckt ein Lebensmittel komisch, sollten Sie besser die Finger davon lassen."
+    ],
+    0.18912380933761597
+  ],
+  [
+    [
+      57,
+      48
+    ],
+    [
+      "Waschen Sie Ihre Hände vor und nach der Zubereitung von Lebensmitteln.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.5925866961479187
+  ],
+  [
+    [
+      58,
+      48
+    ],
+    [
+      "Benutzen Sie dafür Wasser und Seife.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.6666155457496643
+  ],
+  [
+    [
+      59,
+      49
+    ],
+    [
+      "Waschen Sie sich vor allem nach dem Verarbeiten von rohem Fleisch oder Fisch die Hände.",
+      "Auch nach dem Kontakt mit rohem Fleisch oder Fisch sollten Sie die Hände waschen."
+    ],
+    0.8979363441467285
+  ],
+  [
+    [
+      60,
+      51
+    ],
+    [
+      "Mögliche Krankheitserreger können sonst schnell auf andere Lebensmittel übergehen.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.6073904633522034
+  ],
+  [
+    [
+      61,
+      51
+    ],
+    [
+      "Lebensmittel getrennt voneinander verarbeiten.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.6852529048919678
+  ],
+  [
+    [
+      62,
+      51
+    ],
+    [
+      "Rohes Fleisch und roher Fisch dürfen andere Lebensmittel nicht berühren.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.579626202583313
+  ],
+  [
+    [
+      70,
+      51
+    ],
+    [
+      "Manche Lebensmittel sind gefroren.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.7077394127845764
+  ],
+  [
+    [
+      71,
+      51
+    ],
+    [
+      "So sind die Lebensmittel länger haltbar.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.6818384528160095
+  ],
+  [
+    [
+      72,
+      51
+    ],
+    [
+      "Ein Lebensmittel ist aufgetaut?",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.7229885458946228
+  ],
+  [
+    [
+      75,
+      51
+    ],
+    [
+      "Lebensmittel im Kühlschrank lagern.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.6577994227409363
+  ],
+  [
+    [
+      76,
+      51
+    ],
+    [
+      "Lagern Sie Lebensmittel wie Fleisch und Fisch im Kühlschrank.",
+      "Sonst gelangen Keime auch auf andere Lebensmittel, es erfolgt eine sogenannte Kreuzkontamination."
+    ],
+    0.5582886338233948
+  ],
+  [
+    [
+      81,
+      55
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine Lebensmittel-Erkrankung?",
+      "Lagern Sie leicht verderbliche Lebensmittel im Kühlschrank – am besten getrennt voneinander – und brauchen Sie diese rasch auf."
+    ],
+    0.3313402235507965
+  ],
+  [
+    [
+      82,
+      55
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Lagern Sie leicht verderbliche Lebensmittel im Kühlschrank – am besten getrennt voneinander – und brauchen Sie diese rasch auf."
+    ],
+    0.5525060296058655
+  ],
+  [
+    [
+      83,
+      55
+    ],
+    [
+      "Der Arzt untersucht Sie.",
+      "Lagern Sie leicht verderbliche Lebensmittel im Kühlschrank – am besten getrennt voneinander – und brauchen Sie diese rasch auf."
+    ],
+    0.5717883110046387
+  ],
+  [
+    [
+      84,
+      55
+    ],
+    [
+      "Und der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Lagern Sie leicht verderbliche Lebensmittel im Kühlschrank – am besten getrennt voneinander – und brauchen Sie diese rasch auf."
+    ],
+    0.16143375635147095
+  ],
+  [
+    [
+      85,
+      55
+    ],
+    [
+      "Sie wollen noch mehr über Lebensmittel-Erkrankungen lesen?",
+      "Lagern Sie leicht verderbliche Lebensmittel im Kühlschrank – am besten getrennt voneinander – und brauchen Sie diese rasch auf."
+    ],
+    0.2806016206741333
+  ],
+  [
+    [
+      86,
+      55
+    ],
+    [
+      "Mehr Informationen über Lebensmittel-Erkrankungen finden Sie hier .",
+      "Lagern Sie leicht verderbliche Lebensmittel im Kühlschrank – am besten getrennt voneinander – und brauchen Sie diese rasch auf."
+    ],
+    0.2789320945739746
+  ],
+  [
+    [
+      87,
+      59
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Ausnahme: Das Gift aus Staphylokokken überdauert selbst 30 Minuten Kochen bei 100 Grad Celsius."
+    ],
+    0.0943891704082489
+  ]
+]

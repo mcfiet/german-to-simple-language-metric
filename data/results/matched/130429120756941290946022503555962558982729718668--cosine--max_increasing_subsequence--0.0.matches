@@ -1,0 +1,629 @@
+[
+  [
+    [
+      0,
+      2
+    ],
+    [
+      "Die Prostata ist eine Drüse im Körper.",
+      "Die Vorsteherdrüse ist eine kleine, etwa kastaniengroße Drüse, welche unterhalb der Harnblase liegt."
+    ],
+    0.7292132377624512
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Aber nur Männer haben eine Prostata.",
+      "Die Vorsteherdrüse ist eine kleine, etwa kastaniengroße Drüse, welche unterhalb der Harnblase liegt."
+    ],
+    0.582169771194458
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Frauen haben keine Prostata.",
+      "Die Vorsteherdrüse ist eine kleine, etwa kastaniengroße Drüse, welche unterhalb der Harnblase liegt."
+    ],
+    0.3952547609806061
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Die Prostata ist unter der Blase direkt an der Harnröhre.",
+      "Die Vorsteherdrüse ist eine kleine, etwa kastaniengroße Drüse, welche unterhalb der Harnblase liegt."
+    ],
+    0.8086972236633301
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Die Prostata ist etwa so groß und rund wie eine Kastanie.",
+      "Die Vorsteherdrüse ist eine kleine, etwa kastaniengroße Drüse, welche unterhalb der Harnblase liegt."
+    ],
+    0.744418203830719
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Die Prostata hat eine wichtige Funktion:",
+      "Die Vorsteherdrüse ist eine kleine, etwa kastaniengroße Drüse, welche unterhalb der Harnblase liegt."
+    ],
+    0.7600387334823608
+  ],
+  [
+    [
+      6,
+      4
+    ],
+    [
+      "Zusammen mit anderen Organen im Körper bildet die Prostata das Sperma.",
+      "Zusammen mit den Samenbläschen und den Hoden ist die Prostata für die Bildung der Samenflüssigkeit verantwortlich."
+    ],
+    0.6683319211006165
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Sperma ist zur Fortpflanzung da.",
+      "Zusammen mit den Samenbläschen und den Hoden ist die Prostata für die Bildung der Samenflüssigkeit verantwortlich."
+    ],
+    0.3517685830593109
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Im Alter vergrößert sich die Prostata oft.",
+      "Zusammen mit den Samenbläschen und den Hoden ist die Prostata für die Bildung der Samenflüssigkeit verantwortlich."
+    ],
+    0.45380517840385437
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Fast alle Männer im Alter von 75 Jahren haben eine vergrößerte Prostata.",
+      "Schon ab dem Alter von 35 Jahren kann die Vorsteherdrüse allmählich an Volumen zunehmen."
+    ],
+    0.6352375149726868
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Bei manchen Männern vergrößert sich die Prostata schon im Alter von etwa 35 Jahren.",
+      "Schon ab dem Alter von 35 Jahren kann die Vorsteherdrüse allmählich an Volumen zunehmen."
+    ],
+    0.7566415071487427
+  ],
+  [
+    [
+      11,
+      9
+    ],
+    [
+      "Bei vielen Männern verengt sich die Harnröhre durch die Vergrößerung der Prostata.",
+      "Oft vergrößern sich allerdings genau die Drüsenanteile, die die Harnröhre umgeben."
+    ],
+    0.867684006690979
+  ],
+  [
+    [
+      12,
+      9
+    ],
+    [
+      "Die Prostata liegt nämlich wie ein Ring um die Harnröhre.",
+      "Oft vergrößern sich allerdings genau die Drüsenanteile, die die Harnröhre umgeben."
+    ],
+    0.7643464803695679
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Durch die Vergrößerung wird die Harnröhre zusammengedrückt.",
+      "Oft vergrößern sich allerdings genau die Drüsenanteile, die die Harnröhre umgeben."
+    ],
+    0.8219700455665588
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Das führt oft zu Beschwerden.",
+      "Dadurch kann es zu Beschwerden beim Wasserlassen kommen – und damit zu einer behandlungsbedürftigen gutartigen Prostatavergrößerung ( benigne Prostatahyperplasie, BPH )."
+    ],
+    0.7952584624290466
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Die gutartige Prostata-Vergrößerung ist keine Krankheit.",
+      "Probleme beim Wasserlassen stellen insgesamt die häufigste gutartige Erkrankung des älteren Mannes dar."
+    ],
+    0.5937131643295288
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "Sie ist nicht gefährlich.",
+      "Nicht immer muss dabei die Prostata vergrößert sein."
+    ],
+    0.6943695545196533
+  ],
+  [
+    [
+      17,
+      17
+    ],
+    [
+      "Forscher kennen die Ursachen einer gutartigen Prostata-Vergrößerung nicht genau.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.8364811539649963
+  ],
+  [
+    [
+      18,
+      17
+    ],
+    [
+      "Ursachen einer Prostata-Vergrößerung könnten zum Beispiel sein: das Hormon Dihydro-Testosteron.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7284337282180786
+  ],
+  [
+    [
+      19,
+      17
+    ],
+    [
+      "Veranlagung.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.5293193459510803
+  ],
+  [
+    [
+      20,
+      17
+    ],
+    [
+      "Haben andere Männer in der Familie eine vergrößerte Prostata?",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6425586342811584
+  ],
+  [
+    [
+      21,
+      17
+    ],
+    [
+      "Dann haben Sie vielleicht auch ein höheres Risiko für eine gutartige Prostata-Vergrößerung.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6732733845710754
+  ],
+  [
+    [
+      22,
+      17
+    ],
+    [
+      "das Immunsystem.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.3550247251987457
+  ],
+  [
+    [
+      23,
+      17
+    ],
+    [
+      "Vielleicht reagiert das Immunsystem des betroffenen Mannes auf die Prostata und löst so die Vergrößerung aus.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.8278101682662964
+  ],
+  [
+    [
+      24,
+      17
+    ],
+    [
+      "Männer mit einer gutartigen Prostata-Vergrößerung haben meist Beschwerden.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7448975443840027
+  ],
+  [
+    [
+      25,
+      17
+    ],
+    [
+      "Typische Beschwerden sind zum Beispiel: 1. Probleme beim Wasser lassen 2. Probleme beim Wasser halten 1.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.2548743188381195
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Diese Probleme haben betroffene Männer oft beim Wasserlassen:",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7888466715812683
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Sie können nicht mit dem Wasserlassen anfangen.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.4983755946159363
+  ],
+  [
+    [
+      28,
+      17
+    ],
+    [
+      "Der Urinstrahl ist schwächer als gewohnt.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.4078299403190613
+  ],
+  [
+    [
+      29,
+      17
+    ],
+    [
+      "Das Wasserlassen dauert länger als gewohnt.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.4931834042072296
+  ],
+  [
+    [
+      30,
+      17
+    ],
+    [
+      "Nach dem Wasserlassen tropft Urin aus der Harnröhre nach.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.3534877896308899
+  ],
+  [
+    [
+      31,
+      17
+    ],
+    [
+      "Nach dem Wasserlassen fühlt sich die Blase noch nicht leer an.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6121098399162292
+  ],
+  [
+    [
+      32,
+      17
+    ],
+    [
+      "2. Diese Probleme haben betroffene Männer oft beim Wasserhalten:",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.5721945762634277
+  ],
+  [
+    [
+      33,
+      17
+    ],
+    [
+      "Sie fühlen plötzlich einen sehr starken Drang zur Toilette zu gehen.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.5594136118888855
+  ],
+  [
+    [
+      34,
+      17
+    ],
+    [
+      "Sie schaffen es vielleicht nicht rechtzeitig zur Toilette.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6086326241493225
+  ],
+  [
+    [
+      35,
+      17
+    ],
+    [
+      "Sie müssen sehr häufig zur Toilette.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6191076040267944
+  ],
+  [
+    [
+      36,
+      17
+    ],
+    [
+      "Es können auch andere Beschwerden auftreten.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7420399785041809
+  ],
+  [
+    [
+      37,
+      17
+    ],
+    [
+      "Weitere Beschwerden können sein:",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.702176570892334
+  ],
+  [
+    [
+      38,
+      17
+    ],
+    [
+      "Erektionsprobleme Probleme beim Samenerguss",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.45867720246315
+  ],
+  [
+    [
+      39,
+      17
+    ],
+    [
+      "Eine gutartige Prostata-Vergrößerung ist keine Krankheit.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.703840970993042
+  ],
+  [
+    [
+      40,
+      17
+    ],
+    [
+      "Und eine gutartige Prostata-Vergrößerung ist nicht gefährlich.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7433732748031616
+  ],
+  [
+    [
+      41,
+      17
+    ],
+    [
+      "Aber die gutartige Prostata-Vergrößerung kann zu anderen Erkrankungen führen.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7395443916320801
+  ],
+  [
+    [
+      42,
+      17
+    ],
+    [
+      "Sie erhöht zum Beispiel das Risiko für Infektionen in der Harnröhre.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6175521016120911
+  ],
+  [
+    [
+      43,
+      17
+    ],
+    [
+      "Und sie erhöht das Risiko für Harnsteine.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.5895624160766602
+  ],
+  [
+    [
+      44,
+      17
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine gutartige Prostata-Vergrößerung?",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.49312716722488403
+  ],
+  [
+    [
+      45,
+      17
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.23449335992336273
+  ],
+  [
+    [
+      46,
+      17
+    ],
+    [
+      "Der Arzt untersucht und behandelt Sie.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.4422067403793335
+  ],
+  [
+    [
+      47,
+      17
+    ],
+    [
+      "Die Beschwerden einer gutartigen Prostata-Vergrößerung können mit verschiedenen Medikamenten behandelt werden.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7934557795524597
+  ],
+  [
+    [
+      48,
+      17
+    ],
+    [
+      "Die Beschwerden sind nur sehr leicht?",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7818683981895447
+  ],
+  [
+    [
+      49,
+      17
+    ],
+    [
+      "Dann muss die gutartige Prostata-Vergrößerung vielleicht gar nicht behandelt werden.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7778371572494507
+  ],
+  [
+    [
+      50,
+      17
+    ],
+    [
+      "Trotzdem sollte der Arzt Ihre Prostata regelmäßig untersuchen.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6427782773971558
+  ],
+  [
+    [
+      51,
+      17
+    ],
+    [
+      "Die Beschwerden werden stärker?",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7316578030586243
+  ],
+  [
+    [
+      52,
+      17
+    ],
+    [
+      "Dann sollten Sie die Beschwerden behandeln lassen.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.628844141960144
+  ],
+  [
+    [
+      53,
+      17
+    ],
+    [
+      "Sie wollen noch mehr über die gutartige Prostata-Vergrößerung lesen?",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.6439999341964722
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Mehr Informationen finden Sie hier .",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.2763864994049072
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Achtung : Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.3604191243648529
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Weil die Symptome ähnlich sind, werden gutartige Prostatavergrößerung, LUTS und eine Verengung des Blasenauslasses, die ebenfalls Beschwerden beim Wasserlassen hervorruft und manchmal durch eine Prostatavergrößerung bedingt ist, inzwischen oft als \"Beningnes Prostata-Syndrom (BPS)\" zusammengefasst."
+    ],
+    0.7444285154342651
+  ]
+]

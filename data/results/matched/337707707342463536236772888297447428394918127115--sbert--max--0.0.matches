@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      13
+    ],
+    [
+      "Antibiotika sind Medikamente gegen Bakterien.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.8301742076873779
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Bakterien sind Krankheitserreger.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.8047885894775391
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Bakterien können zum Beispiel Entzündungen verursachen.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.8219451904296875
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Eine betroffene Person hat eine bakterielle Entzündung?",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.7410170435905457
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Dann verschreibt der Arzt oft ein Antibiotikum.",
+      "Verschreibt Ihnen der Arzt ein Antibiotikum, sagt er normalerweise dazu, wie oft und wie lange Sie es anwenden sollen."
+    ],
+    0.8443868160247803
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Sehr viele Entzündungen können mit Antibiotika gut behandelt werden.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.8181679844856262
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Antibiotika helfen zum Beispiel bei: einer Blasenentzündung, einer Lungenentzündung oder einer Mandelentzündung.",
+      "Entzündete Blase , gefährliche Lungenentzündung – in solchen Fällen können Antibiotika beispielsweise zum Einsatz kommen."
+    ],
+    0.8440134525299072
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Hinweis: Antibiotika helfen nur bei bakteriellen Infektionen .",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.8359580636024475
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Bakterielle Infektion bedeutet: Bakterien haben die Erkrankung verursacht.",
+      "Die Mittel helfen dann, wenn Bakterien im Körper eine Infektion ausgelöst haben."
+    ],
+    0.7830987572669983
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Antibiotika helfen nicht bei viralen Infektionen .",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.9517068266868591
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Virale Infektion bedeutet: Viren haben die Erkrankung verursacht.",
+      "Ein Antibiotikum hilft nicht gegen Viren."
+    ],
+    0.5697845220565796
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Der Arzt kann Antibiotika in verschiedenen Formen verschreiben.",
+      "Verschreibt Ihnen der Arzt ein Antibiotikum, sagt er normalerweise dazu, wie oft und wie lange Sie es anwenden sollen."
+    ],
+    0.7394987940788269
+  ],
+  [
+    [
+      12,
+      22
+    ],
+    [
+      "Antibiotika-Medikamente gibt es zum Beispiel als:",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.8735004663467407
+  ],
+  [
+    [
+      13,
+      18
+    ],
+    [
+      "Tablette Salbe Tropfen",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.7469976544380188
+  ],
+  [
+    [
+      14,
+      13
+    ],
+    [
+      "Die richtige Einnahme des Antibiotikums ist sehr wichtig.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.765902578830719
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Nur dann kann das Antibiotikum richtig wirken.",
+      "Und Bakterien kann es nur bekämpfen, wenn Sie das Medikament richtig anwenden."
+    ],
+    0.8380740880966187
+  ],
+  [
+    [
+      16,
+      4
+    ],
+    [
+      "Und nur dann hilft es gegen die Entzündung.",
+      "Und Bakterien kann es nur bekämpfen, wenn Sie das Medikament richtig anwenden."
+    ],
+    0.8166612386703491
+  ],
+  [
+    [
+      17,
+      39
+    ],
+    [
+      "Eine falsche Einnahme kann ernste Folgen haben:",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.5325316190719604
+  ],
+  [
+    [
+      18,
+      33
+    ],
+    [
+      "Bei einer falschen Einnahme können sich die schädlichen Bakterien an das Antibiotikum gewöhnen.",
+      "Denn das Antibiotikum bekämpft nicht nur die krankmachenden Bakterien, es kann auch die gesunde Darmflora schädigen."
+    ],
+    0.7962313890457153
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Dann wirkt das Antibiotikum nicht mehr gegen die Bakterien.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.8154966831207275
+  ],
+  [
+    [
+      20,
+      5
+    ],
+    [
+      "Die richtige Einnahme eines Antibiotika-Medikaments hängt zum Beispiel ab von: der Art des Antibiotikums, der Form des Medikaments und der Menge des Antibiotikums im Medikament.",
+      "Verschreibt Ihnen der Arzt ein Antibiotikum, sagt er normalerweise dazu, wie oft und wie lange Sie es anwenden sollen."
+    ],
+    0.7219319343566895
+  ],
+  [
+    [
+      21,
+      35
+    ],
+    [
+      "Die richtige Einnahme ist aber auch abhängig von: dem Patienten selbst der Erkrankung des Patienten Deshalb muss der Arzt die richtige Einnahme für jeden Patienten genau bestimmen.",
+      "Ob sie im individuellen Fall geeignet erscheinen, sollten Betroffene in der ärztlichen Praxis oder der Apotheke klären."
+    ],
+    0.7407809495925903
+  ],
+  [
+    [
+      22,
+      5
+    ],
+    [
+      "Der Arzt hat Ihnen ein Antibiotikum verschrieben?",
+      "Verschreibt Ihnen der Arzt ein Antibiotikum, sagt er normalerweise dazu, wie oft und wie lange Sie es anwenden sollen."
+    ],
+    0.7812904119491577
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Und Sie möchten wissen:",
+      "Haben Sie nicht im Kopf, wie Sie das Mittel einnehmen sollen, dann fragen Sie in der Apotheke oder bei der Ärztin oder dem Arzt nach."
+    ],
+    0.45188450813293457
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Wie nehme ich das Medikament richtig?",
+      "Es ist wichtig, das Mittel so einzunehmen wie verordnet, weil nur dann eine ausreichend hohe Konzentration des Arzneistoffs im Körper vorhanden ist."
+    ],
+    0.7309954166412354
+  ],
+  [
+    [
+      25,
+      40
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.846322774887085
+  ],
+  [
+    [
+      26,
+      35
+    ],
+    [
+      "Die richtige Einnahme ist für jeden Patienten anders.",
+      "Ob sie im individuellen Fall geeignet erscheinen, sollten Betroffene in der ärztlichen Praxis oder der Apotheke klären."
+    ],
+    0.7106245756149292
+  ],
+  [
+    [
+      27,
+      22
+    ],
+    [
+      "Trotzdem gibt es allgemeine Hinweise zur Einnahme von Antibiotika.",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.7585647106170654
+  ],
+  [
+    [
+      28,
+      22
+    ],
+    [
+      "Diese Hinweise gelten für die meisten Antibiotika.",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.7572017312049866
+  ],
+  [
+    [
+      29,
+      9
+    ],
+    [
+      "1. Wie oft sollen Sie das Medikament nehmen?",
+      "Es ist wichtig, das Mittel so einzunehmen wie verordnet, weil nur dann eine ausreichend hohe Konzentration des Arzneistoffs im Körper vorhanden ist."
+    ],
+    0.6641613841056824
+  ],
+  [
+    [
+      30,
+      35
+    ],
+    [
+      "Manchmal schreibt der Arzt Hinweise zur richtigen Einnahme für Sie auf.",
+      "Ob sie im individuellen Fall geeignet erscheinen, sollten Betroffene in der ärztlichen Praxis oder der Apotheke klären."
+    ],
+    0.7804852724075317
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "Oder der Apotheker schreibt die Hinweise zur richtigen Einnahme für Sie auf.",
+      "Tipp: Lassen Sie sich die Einnahmehinweise in der Apotheke auf die Medikamentenschachtel schreiben."
+    ],
+    0.8604605197906494
+  ],
+  [
+    [
+      32,
+      8
+    ],
+    [
+      "Der Arzt oder der Apotheker schreibt zum Beispiel: 1x1 täglich .",
+      "Tipp: Lassen Sie sich die Einnahmehinweise in der Apotheke auf die Medikamentenschachtel schreiben."
+    ],
+    0.6440156102180481
+  ],
+  [
+    [
+      33,
+      25
+    ],
+    [
+      "1x1 täglich bedeutet:",
+      "Weitere Beispiele:"
+    ],
+    0.36031240224838257
+  ],
+  [
+    [
+      34,
+      9
+    ],
+    [
+      "Sie nehmen das Medikament alle 24 Stunden.",
+      "Es ist wichtig, das Mittel so einzunehmen wie verordnet, weil nur dann eine ausreichend hohe Konzentration des Arzneistoffs im Körper vorhanden ist."
+    ],
+    0.5492957234382629
+  ],
+  [
+    [
+      35,
+      38
+    ],
+    [
+      "Das ist einmal am Tag.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.4340944290161133
+  ],
+  [
+    [
+      36,
+      38
+    ],
+    [
+      "Sie haben zum Beispiel eine Salbe bekommen?",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.5911282896995544
+  ],
+  [
+    [
+      37,
+      38
+    ],
+    [
+      "Dann tragen Sie die Salbe einmal am Tag auf die entzündete Stelle auf.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.6019090414047241
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Sie haben Tabletten bekommen?",
+      "Dann kann es allerdings passieren, dass die Tablette nicht mehr so gut hilft."
+    ],
+    0.717164933681488
+  ],
+  [
+    [
+      39,
+      18
+    ],
+    [
+      "Dann nehmen Sie eine Tablette am Tag.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.6931267976760864
+  ],
+  [
+    [
+      40,
+      5
+    ],
+    [
+      "Nehmen Sie das Antibiotika-Medikament jeden Tag zur gleichen Zeit .",
+      "Verschreibt Ihnen der Arzt ein Antibiotikum, sagt er normalerweise dazu, wie oft und wie lange Sie es anwenden sollen."
+    ],
+    0.7213107347488403
+  ],
+  [
+    [
+      41,
+      9
+    ],
+    [
+      "2x1 täglich bedeutet: Sie nehmen das Medikament alle 12 Stunden.",
+      "Es ist wichtig, das Mittel so einzunehmen wie verordnet, weil nur dann eine ausreichend hohe Konzentration des Arzneistoffs im Körper vorhanden ist."
+    ],
+    0.5288444757461548
+  ],
+  [
+    [
+      42,
+      38
+    ],
+    [
+      "Das ist zweimal am Tag.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.4254274368286133
+  ],
+  [
+    [
+      43,
+      18
+    ],
+    [
+      "Sie nehmen zum Beispiel eine Tablette morgens um 8 Uhr.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.6392497420310974
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Und Sie nehmen die andere Tablette dann 12 Stunden später.",
+      "Dann kann es allerdings passieren, dass die Tablette nicht mehr so gut hilft."
+    ],
+    0.6721147894859314
+  ],
+  [
+    [
+      45,
+      38
+    ],
+    [
+      "Das heißt: abends um 20 Uhr.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.40016961097717285
+  ],
+  [
+    [
+      46,
+      39
+    ],
+    [
+      "Achtung: Sie wissen nicht genau:",
+      "Wichtig: Vertragen Sie das Medikament nicht gut, dann setzen Sie es nicht eigenmächtig ab."
+    ],
+    0.5135502219200134
+  ],
+  [
+    [
+      47,
+      5
+    ],
+    [
+      "Wie oft soll ich das Medikament nehmen?",
+      "Verschreibt Ihnen der Arzt ein Antibiotikum, sagt er normalerweise dazu, wie oft und wie lange Sie es anwenden sollen."
+    ],
+    0.6570366621017456
+  ],
+  [
+    [
+      48,
+      9
+    ],
+    [
+      "Wie viel von dem Medikament soll ich nehmen?",
+      "Es ist wichtig, das Mittel so einzunehmen wie verordnet, weil nur dann eine ausreichend hohe Konzentration des Arzneistoffs im Körper vorhanden ist."
+    ],
+    0.6729085445404053
+  ],
+  [
+    [
+      49,
+      15
+    ],
+    [
+      "Und wie viele Tage hintereinander soll ich das Medikament nehmen?",
+      "Dann kann es allerdings passieren, dass die Tablette nicht mehr so gut hilft."
+    ],
+    0.6365104913711548
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt oder einen Apotheker.",
+      "Haben Sie nicht im Kopf, wie Sie das Mittel einnehmen sollen, dann fragen Sie in der Apotheke oder bei der Ärztin oder dem Arzt nach."
+    ],
+    0.8374965190887451
+  ],
+  [
+    [
+      51,
+      13
+    ],
+    [
+      "2. Antibiotika und Nahrungsmittel Nahrungsmittel schwächen die Wirkung von Antibiotika manchmal.",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.7816091179847717
+  ],
+  [
+    [
+      52,
+      14
+    ],
+    [
+      "Deshalb sollten Sie manche Antibiotika-Medikamente nicht zusammen mit dem Essen nehmen.",
+      "Möglicherweise möchten Sie das Mittel trotz eines abweichenden Hinweises zum oder nach dem Essen schlucken, weil Sie das Antibiotikum so besser vertragen."
+    ],
+    0.7838972806930542
+  ],
+  [
+    [
+      53,
+      14
+    ],
+    [
+      "Vor dem Essen: Sie sollen die Tablette zum Beispiel vor dem Essen nehmen?",
+      "Möglicherweise möchten Sie das Mittel trotz eines abweichenden Hinweises zum oder nach dem Essen schlucken, weil Sie das Antibiotikum so besser vertragen."
+    ],
+    0.7016136050224304
+  ],
+  [
+    [
+      54,
+      18
+    ],
+    [
+      "Vor dem Essen bedeutet: Sie nehmen die Tablette.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.7486623525619507
+  ],
+  [
+    [
+      55,
+      40
+    ],
+    [
+      "Dann warten Sie mindestens eine halbe Stunde.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.44931474328041077
+  ],
+  [
+    [
+      56,
+      14
+    ],
+    [
+      "Danach dürfen Sie essen.",
+      "Möglicherweise möchten Sie das Mittel trotz eines abweichenden Hinweises zum oder nach dem Essen schlucken, weil Sie das Antibiotikum so besser vertragen."
+    ],
+    0.594441294670105
+  ],
+  [
+    [
+      57,
+      7
+    ],
+    [
+      "Ihr Arzt oder der Apotheker gibt Ihnen dazu alle wichtigen Hinweise.",
+      "Haben Sie nicht im Kopf, wie Sie das Mittel einnehmen sollen, dann fragen Sie in der Apotheke oder bei der Ärztin oder dem Arzt nach."
+    ],
+    0.7107932567596436
+  ],
+  [
+    [
+      58,
+      18
+    ],
+    [
+      "Zum Essen: Sie sollen die Tablette zum Essen nehmen?",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.7417920231819153
+  ],
+  [
+    [
+      59,
+      18
+    ],
+    [
+      "Zum Essen bedeutet: Sie nehmen die Tablette.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.755813717842102
+  ],
+  [
+    [
+      60,
+      17
+    ],
+    [
+      "Dann essen Sie sofort.",
+      "Manche Wirkstoffe werden schlechter aufgenommen, wenn Sie sie zum Essen einnehmen\", meint Hommel."
+    ],
+    0.5361644625663757
+  ],
+  [
+    [
+      61,
+      38
+    ],
+    [
+      "Sie brauchen nicht mit dem Essen warten.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.461653470993042
+  ],
+  [
+    [
+      62,
+      22
+    ],
+    [
+      "Getränke schwächen die Wirkung von Antibiotika manchmal auch.",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.7528282999992371
+  ],
+  [
+    [
+      63,
+      18
+    ],
+    [
+      "Nehmen Sie Antibiotika-Tabletten deshalb nicht zusammen mit: Milch Tee Kaffee Nehmen Sie die Tabletten stattdessen mit einem großen Glas Wasser.",
+      "Nehmen Sie die Tablette vorzugsweise mit einem großen Glas Leitungswasser ein – nicht nur mit einem Schluck davon!"
+    ],
+    0.8386750817298889
+  ],
+  [
+    [
+      64,
+      25
+    ],
+    [
+      "3. Wechselwirkungen Achtung:",
+      "Weitere Beispiele:"
+    ],
+    0.5772039890289307
+  ],
+  [
+    [
+      65,
+      22
+    ],
+    [
+      "Manche Antibiotika können Wechselwirkungen mit anderen Medikamenten haben.",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.9485336542129517
+  ],
+  [
+    [
+      66,
+      22
+    ],
+    [
+      "Sie nehmen zusätzlich zum Antibiotikum noch andere Medikamente?",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.8274442553520203
+  ],
+  [
+    [
+      67,
+      40
+    ],
+    [
+      "Dann sprechen Sie zuerst mit Ihrem Arzt .",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.8986477851867676
+  ],
+  [
+    [
+      68,
+      30
+    ],
+    [
+      "Ihr Arzt informiert Sie über mögliche Wechselwirkungen.",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.7627609968185425
+  ],
+  [
+    [
+      69,
+      30
+    ],
+    [
+      "4. Nebenwirkungen",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.6975013017654419
+  ],
+  [
+    [
+      70,
+      29
+    ],
+    [
+      "Viele Menschen vertragen Antibiotika sehr gut.",
+      "\"Im Allgemeinen sind Antibiotika gut verträglich\", sagt Hommel."
+    ],
+    0.79747474193573
+  ],
+  [
+    [
+      71,
+      22
+    ],
+    [
+      "Manchmal können Antibiotika trotzdem Nebenwirkungen haben.",
+      "Manche Antibiotika gehen teils gefährliche Wechselwirkungen mit anderen Arzneien ein."
+    ],
+    0.8966188430786133
+  ],
+  [
+    [
+      72,
+      30
+    ],
+    [
+      "Mögliche Nebenwirkungen sind zum Beispiel:",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.7983807921409607
+  ],
+  [
+    [
+      73,
+      31
+    ],
+    [
+      "Allergien Hautausschlag",
+      "Allergien auf das Mittel seien möglich, ebenso Hautausschläge, ausgelöst durch das Medikament."
+    ],
+    0.9147963523864746
+  ],
+  [
+    [
+      74,
+      32
+    ],
+    [
+      "Durchfall",
+      "Daneben leiden einige Menschen unter Durchfall ."
+    ],
+    0.7843714356422424
+  ],
+  [
+    [
+      75,
+      37
+    ],
+    [
+      "Manchmal erhöht das Antibiotikum auch die Empfindlichkeit gegen Sonnenlicht.",
+      "Einige Mittel erhöhen die Lichtempfindlichkeit ."
+    ],
+    0.6844070553779602
+  ],
+  [
+    [
+      76,
+      38
+    ],
+    [
+      "Das bedeutet: Die betroffene Person bekommt dann leichter einen Sonnenbrand.",
+      "Das heißt, Sie können schneller einen Sonnenbrand erleiden."
+    ],
+    0.8429319858551025
+  ],
+  [
+    [
+      77,
+      36
+    ],
+    [
+      "Bei Frauen verursachen Antibiotika manchmal Scheidenpilz.",
+      "Frauen bekommen manchmal einen Scheidenpilz , weil die natürliche Scheidenflora durch das Antibiotikum aus dem Gleichgewicht gerät."
+    ],
+    0.884826123714447
+  ],
+  [
+    [
+      78,
+      30
+    ],
+    [
+      "Sie haben Fragen zu den Nebenwirkungen?",
+      "Dennoch weist der Apotheker auf potenzielle Nebenwirkungen hin:"
+    ],
+    0.8000091314315796
+  ],
+  [
+    [
+      79,
+      40
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Besprechen Sie stattdessen umgehend mit der Ärztin oder dem Arzt, was Sie tun können."
+    ],
+    0.6398126482963562
+  ],
+  [
+    [
+      80,
+      7
+    ],
+    [
+      "Oder der Apotheker gibt Ihnen alle wichtigen Informationen.",
+      "Haben Sie nicht im Kopf, wie Sie das Mittel einnehmen sollen, dann fragen Sie in der Apotheke oder bei der Ärztin oder dem Arzt nach."
+    ],
+    0.7652236819267273
+  ],
+  [
+    [
+      81,
+      28
+    ],
+    [
+      "Sie wollen noch mehr über die richtige Einnahme von Antibiotika lesen?",
+      "Klären Sie vorab in der Arztpraxis und in der Apotheke, ob Ihr Antibiotikum von solchen Wechselwirkungen betroffen ist und wie Sie sich dann am besten verhalten."
+    ],
+    0.7731974720954895
+  ],
+  [
+    [
+      82,
+      13
+    ],
+    [
+      "Mehr Informationen über Antibiotika finden Sie hier .",
+      "Antibiotika-Resistenzen können Therapien erschweren."
+    ],
+    0.7497742176055908
+  ],
+  [
+    [
+      83,
+      25
+    ],
+    [
+      "Achtung : Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Weitere Beispiele:"
+    ],
+    0.4063533842563629
+  ],
+  [
+    [
+      84,
+      25
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Weitere Beispiele:"
+    ],
+    0.41696813702583313
+  ]
+]

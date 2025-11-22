@@ -1,0 +1,948 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Die Pille danach kann eine ungewollte Schwangerschaft verhindern.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.43929922580718994
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Eine Frau kann die Pille danach in verschiedenen Situationen nehmen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.36604633927345276
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Zu diesen Situationen gehören zum Beispiel: Die Frau hat die Verhütungspille vergessen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.5209915637969971
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Frau nimmt die Verhütungspille.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.5099358558654785
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Und die Frau hatte einen Magen-Darm-Infekt.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.2714424431324005
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Dann wirkt die Verhütungspille nicht sicher.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.6414189338684082
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das Kondom ist beim Sex abgerutscht oder kaputt gegangen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.9211820363998413
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Sie können die Pille danach in der Apotheke kaufen.",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.7359044551849365
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Für die Pille danach brauchen Sie kein Rezept vom Arzt.",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.648411214351654
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Sie sind unter 20 Jahre alt?",
+      "In Deutschland gibt es zwei \"Danach-Pillen\"."
+    ],
+    0.2552209496498108
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Und Sie haben ein Rezept von einem Arzt?",
+      "In Deutschland gibt es zwei \"Danach-Pillen\"."
+    ],
+    0.5024493932723999
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Dann bezahlt die Krankenkasse die Pille danach.",
+      "In Deutschland gibt es zwei \"Danach-Pillen\"."
+    ],
+    0.3646222651004791
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Es gibt zwei verschiedene Arten der Pille danach.",
+      "In Deutschland gibt es zwei \"Danach-Pillen\"."
+    ],
+    0.5074476599693298
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Die Arten haben verschiedene Wirkstoffe.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.41275501251220703
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Die Pille danach enthält den Wirkstoff Levonorgestrel.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.6754034757614136
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Oder die Pille danach enthält den Wirkstoff Ulipristal.",
+      "Die eine enthält ein Gestagen (Levonorgestrel, LNG) in relativ hoher Dosierung, die andere den Wirkstoff Ulipristal (Ulipristalacetet, UPA)."
+    ],
+    0.7544282674789429
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Die Pille danach verschieben den Eisprung.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.8940298557281494
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Beim Eisprung verlässt die Eizelle den Eierstock.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.8123437166213989
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Die Eizelle wandert in den Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7085305452346802
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Im Eileiter kann die Eizelle befruchtet werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7768146991729736
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Eine Frau hat ihren Eisprung?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5274114608764648
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Oder eine Frau hat in wenigen Tagen ihren Eisprung?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5621455907821655
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Dann kann die Frau schwanger werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5211135745048523
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Die Pille danach verschiebt den Eisprung.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7430659532546997
+  ],
+  [
+    [
+      24,
+      13
+    ],
+    [
+      "Dann ist keine Eizelle im Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7346482276916504
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Und die Spermien können die Eizelle nicht befruchten.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.8327127695083618
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Nach fünf bis sieben Tagen sterben die Spermien.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.841712474822998
+  ],
+  [
+    [
+      27,
+      15
+    ],
+    [
+      "Die Frau kann nicht schwanger werden.",
+      "Auch eine schon bestehende Schwangerschaft wird von der Pille danach nicht beeinflusst."
+    ],
+    0.6674396991729736
+  ],
+  [
+    [
+      28,
+      16
+    ],
+    [
+      "Hinweis: Die Frau hatte in diesem Monatszyklus schon den Eisprung?",
+      "Unter der Pille danach tritt bei einer bis drei von hundert Frauen pro Zyklus eine Schwangerschaft ein."
+    ],
+    0.7176320552825928
+  ],
+  [
+    [
+      29,
+      16
+    ],
+    [
+      "Oder die Frau ist schon schwanger?",
+      "Unter der Pille danach tritt bei einer bis drei von hundert Frauen pro Zyklus eine Schwangerschaft ein."
+    ],
+    0.6934247612953186
+  ],
+  [
+    [
+      30,
+      20
+    ],
+    [
+      "Dann wirkt die Pille danach nicht.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.5216902494430542
+  ],
+  [
+    [
+      31,
+      20
+    ],
+    [
+      "Nehmen Sie die Pille danach nur im Notfall.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.44111013412475586
+  ],
+  [
+    [
+      32,
+      20
+    ],
+    [
+      "Achten Sie auf eine sichere Verhütung.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.4704538583755493
+  ],
+  [
+    [
+      33,
+      20
+    ],
+    [
+      "Die Pille danach ist nicht zu 100 Prozent sicher.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.43882182240486145
+  ],
+  [
+    [
+      34,
+      20
+    ],
+    [
+      "Manche Frauen werden trotzdem schwanger.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.5755310654640198
+  ],
+  [
+    [
+      35,
+      20
+    ],
+    [
+      "Die Pille danach wirkt nur für kurze Zeit.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.47208306193351746
+  ],
+  [
+    [
+      36,
+      20
+    ],
+    [
+      "Die Pille danach wirkt nicht den ganzen Monatszyklus.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.590787947177887
+  ],
+  [
+    [
+      37,
+      20
+    ],
+    [
+      "Sie hatten Geschlechtsverkehrt?",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.3559352457523346
+  ],
+  [
+    [
+      38,
+      20
+    ],
+    [
+      "Und Sie glauben: Die Verhütung hat nicht gewirkt?",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.5515644550323486
+  ],
+  [
+    [
+      39,
+      20
+    ],
+    [
+      "Dann sollten Sie die Pille danach schnell nehmen.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.38681867718696594
+  ],
+  [
+    [
+      40,
+      21
+    ],
+    [
+      "In den ersten 12 Stunden nach dem Geschlechtsverkehr wirkt die Pille danach am besten.",
+      "Das bedeutet: UPA kann innerhalb von fünf Tagen (120 Stunden) nach ungeschütztem Geschlechtsverkehr oder Verhütungsversagen angewendet werden."
+    ],
+    0.6184138059616089
+  ],
+  [
+    [
+      41,
+      21
+    ],
+    [
+      "Sie können die Pille danach auch zwischen drei und fünf Tage nach dem Geschlechtsverkehr nehmen.",
+      "Das bedeutet: UPA kann innerhalb von fünf Tagen (120 Stunden) nach ungeschütztem Geschlechtsverkehr oder Verhütungsversagen angewendet werden."
+    ],
+    0.6944873332977295
+  ],
+  [
+    [
+      42,
+      33
+    ],
+    [
+      "Achtung: Sie stillen und möchten die Pille danach nehmen?",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4821648895740509
+  ],
+  [
+    [
+      43,
+      33
+    ],
+    [
+      "Dann müssen Sie eine Still-Pause machen.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4353553056716919
+  ],
+  [
+    [
+      44,
+      33
+    ],
+    [
+      "Bei dem Wirkstoff Levonogestrel dauert die Still-Pause acht Stunden.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.3929949998855591
+  ],
+  [
+    [
+      45,
+      33
+    ],
+    [
+      "Bei dem Wirkstoff Ulipristal dauert die Still-Pause eine Woche.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4245458245277405
+  ],
+  [
+    [
+      46,
+      33
+    ],
+    [
+      "Sprechen Sie mit dem Apotheker.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4014770984649658
+  ],
+  [
+    [
+      47,
+      33
+    ],
+    [
+      "Der Apotheker gibt Ihnen alle Informationen.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.48907533288002014
+  ],
+  [
+    [
+      48,
+      33
+    ],
+    [
+      "Hinweis: Dieser Text gibt nur allgemeine Informationen.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4271894097328186
+  ],
+  [
+    [
+      49,
+      33
+    ],
+    [
+      "Er ersetzt nicht den Beipackzettel des Medikaments.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4381784200668335
+  ],
+  [
+    [
+      50,
+      33
+    ],
+    [
+      "Und er ersetzt nicht das Gespräch mit Ihrem Arzt.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.45762768387794495
+  ],
+  [
+    [
+      51,
+      33
+    ],
+    [
+      "Sie wollen die Pille danach nehmen?",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.46962815523147583
+  ],
+  [
+    [
+      52,
+      33
+    ],
+    [
+      "Dann lesen Sie den Beipackzettel.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.381399005651474
+  ],
+  [
+    [
+      53,
+      33
+    ],
+    [
+      "Dort finden Sie genaue Informationen.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.44088223576545715
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt oder Apotheker.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.4589717388153076
+  ],
+  [
+    [
+      55,
+      33
+    ],
+    [
+      "Die Pille danach kann unterschiedliche Nebenwirkungen haben.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.7431252002716064
+  ],
+  [
+    [
+      56,
+      33
+    ],
+    [
+      "Das bedeutet: Das Medikament kann unerwünschte Folgen haben.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.7468247413635254
+  ],
+  [
+    [
+      57,
+      33
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen der Pille danach stehen auf dem Beipackzettel.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.6246119737625122
+  ],
+  [
+    [
+      58,
+      33
+    ],
+    [
+      "In diesem Text sind nicht alle Nebenwirkungen aufgelistet.",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.6864732503890991
+  ],
+  [
+    [
+      59,
+      33
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen von der Pille danach gehören zum Beispiel:",
+      "Mit Nebenwirkungen muss also immer gerechnet werden."
+    ],
+    0.7666779160499573
+  ],
+  [
+    [
+      60,
+      34
+    ],
+    [
+      "Erbrechen Sie haben in den ersten drei Stunden nach der Einnahme von der Pille danach erbrochen?",
+      "Das sind, kurz gesagt, vor allem Kopfschmerzen , Schwindel , Übelkeit oder Brechreiz und Erbrechen, Brustspannen, Menstruationsschmerzen und -unregelmäßigkeiten."
+    ],
+    0.38859379291534424
+  ],
+  [
+    [
+      61,
+      34
+    ],
+    [
+      "Dann müssen sie noch eine Pille danach nehmen.",
+      "Das sind, kurz gesagt, vor allem Kopfschmerzen , Schwindel , Übelkeit oder Brechreiz und Erbrechen, Brustspannen, Menstruationsschmerzen und -unregelmäßigkeiten."
+    ],
+    0.2478814274072647
+  ],
+  [
+    [
+      62,
+      34
+    ],
+    [
+      "Kopfschmerzen",
+      "Das sind, kurz gesagt, vor allem Kopfschmerzen , Schwindel , Übelkeit oder Brechreiz und Erbrechen, Brustspannen, Menstruationsschmerzen und -unregelmäßigkeiten."
+    ],
+    0.7448990345001221
+  ],
+  [
+    [
+      63,
+      35
+    ],
+    [
+      "Schwindel Übelkeit",
+      "Betroffene Frauen berichten beispielsweise über Schmierblutungen, stärkere oder schwächere Blutungen bis zur nächsten Menstruation, die zudem verspätet auftreten kann."
+    ],
+    0.26231616735458374
+  ],
+  [
+    [
+      64,
+      35
+    ],
+    [
+      "Spannen in der Brust",
+      "Betroffene Frauen berichten beispielsweise über Schmierblutungen, stärkere oder schwächere Blutungen bis zur nächsten Menstruation, die zudem verspätet auftreten kann."
+    ],
+    0.3099214434623718
+  ],
+  [
+    [
+      65,
+      35
+    ],
+    [
+      "Schmerzen bei der Regelblutung Verspätung der nächsten Regelblutung Schmierblutungen",
+      "Betroffene Frauen berichten beispielsweise über Schmierblutungen, stärkere oder schwächere Blutungen bis zur nächsten Menstruation, die zudem verspätet auftreten kann."
+    ],
+    0.7018036246299744
+  ],
+  [
+    [
+      66,
+      35
+    ],
+    [
+      "Stärkere oder schwächere Blutungen",
+      "Betroffene Frauen berichten beispielsweise über Schmierblutungen, stärkere oder schwächere Blutungen bis zur nächsten Menstruation, die zudem verspätet auftreten kann."
+    ],
+    0.577761173248291
+  ],
+  [
+    [
+      67,
+      35
+    ],
+    [
+      "Manche Frauen dürfen die Pille danach nicht nehmen.",
+      "Betroffene Frauen berichten beispielsweise über Schmierblutungen, stärkere oder schwächere Blutungen bis zur nächsten Menstruation, die zudem verspätet auftreten kann."
+    ],
+    0.6219247579574585
+  ],
+  [
+    [
+      68,
+      37
+    ],
+    [
+      "Zu diesen Frauen gehören: Frauen mit einer Allergie auf einen Inhaltsstoff der Pille danach.",
+      "Ungeeignet ist die Pille danach bei Allergien auf enthaltene Stoffe und bei schweren Leber- und Nierenerkrankungen."
+    ],
+    0.6609236001968384
+  ],
+  [
+    [
+      69,
+      37
+    ],
+    [
+      "Frauen mit Leber-Erkrankungen oder Nierenerkrankungen.",
+      "Ungeeignet ist die Pille danach bei Allergien auf enthaltene Stoffe und bei schweren Leber- und Nierenerkrankungen."
+    ],
+    0.5707280039787292
+  ],
+  [
+    [
+      70,
+      39
+    ],
+    [
+      "Frauen mit starkem Übergewicht.",
+      "Das gilt eventuell auch für stark übergewichtige Frauen, denn bei deutlich erhöhtem Körpergewicht lässt die Wirkung sowohl von Levonorgestrel (etwa ab über 70 Kilogramm Körpergewicht) als auch von Ulipristal (etwa ab 95 Kilogramm Körpergewicht) nach – möglicherweise."
+    ],
+    0.7550647258758545
+  ],
+  [
+    [
+      71,
+      44
+    ],
+    [
+      "In manchen Situationen wirkt die Pille danach nicht, zum Beispiel:",
+      "Bei mehrfach ungeschütztem Geschlechtsverkehr in einem Monatszyklus ist die Pille danach nicht mehr die richtige Wahl."
+    ],
+    0.5555477738380432
+  ],
+  [
+    [
+      72,
+      44
+    ],
+    [
+      "Die Frau ist schwanger.",
+      "Bei mehrfach ungeschütztem Geschlechtsverkehr in einem Monatszyklus ist die Pille danach nicht mehr die richtige Wahl."
+    ],
+    0.3472689986228943
+  ],
+  [
+    [
+      73,
+      44
+    ],
+    [
+      "Der Eisprung von der Frau ist in dem Monatszyklus schon vorbei.",
+      "Bei mehrfach ungeschütztem Geschlechtsverkehr in einem Monatszyklus ist die Pille danach nicht mehr die richtige Wahl."
+    ],
+    0.617794394493103
+  ],
+  [
+    [
+      74,
+      44
+    ],
+    [
+      "Die Frau hatte öfter in einem Monatszyklus ungeschützten Sex.",
+      "Bei mehrfach ungeschütztem Geschlechtsverkehr in einem Monatszyklus ist die Pille danach nicht mehr die richtige Wahl."
+    ],
+    0.7998802661895752
+  ],
+  [
+    [
+      75,
+      60
+    ],
+    [
+      "Die Spirale danach kann auch eine Schwangerschaft verhindern.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.7901938557624817
+  ],
+  [
+    [
+      76,
+      60
+    ],
+    [
+      "Die Spirale danach ist aus Kupfer.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.2779516875743866
+  ],
+  [
+    [
+      77,
+      60
+    ],
+    [
+      "Der Arzt muss die Spirale danach spätestens fünf Tage nach dem Geschlechtsverkehr einsetzten.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.6950747966766357
+  ],
+  [
+    [
+      78,
+      60
+    ],
+    [
+      "Durch die Spirale kann sich die befruchtete Eizelle nicht in die Gebärmutter einnisten.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.833014726638794
+  ],
+  [
+    [
+      79,
+      64
+    ],
+    [
+      "Die Spirale kann drei bis fünf Jahre für die weitere Verhütung benutzt werden.",
+      "Je nach Art und Verträglichkeit kann sie drei bis fünf Jahre oder länger (aktiv) in der Gebärmutter bleiben."
+    ],
+    0.7003834247589111
+  ],
+  [
+    [
+      80,
+      65
+    ],
+    [
+      "Manche Frauen können die Spirale nicht bekommen.",
+      "Da der Muttermund nicht wie bei der Menstruation, dem üblichen Zeitpunkt zum Einlegen einer Spirale, leicht geöffnet ist, kann die Prozedur etwas schmerzhafter sein als normal."
+    ],
+    0.580562174320221
+  ],
+  [
+    [
+      81,
+      66
+    ],
+    [
+      "Zu diesen Frauen gehören: Schwangere Frauen Frauen mit einer Unterleibsentzündung Frauen mit einer Fehlbildung der Gebärmutter Frauen mit einer zu kleinen Gebärmutter",
+      "Nicht geeignet ist die Spirale danach bei einer schon bestehenden Schwangerschaft , einer Unterleibsentzündung, Fehlbildungen der Gebärmutter oder wenn diese zu klein ist."
+    ],
+    0.7211682796478271
+  ],
+  [
+    [
+      82,
+      70
+    ],
+    [
+      "Sie wollen noch mehr über die Pille danach und die Spirale danach lesen?",
+      "Auch das Einlegen einer Spirale und die vorausgehende Untersuchung ist Sache des Gynäkologen."
+    ],
+    0.5503484010696411
+  ],
+  [
+    [
+      83,
+      70
+    ],
+    [
+      "Mehr Informationen über die Pille danach und die Spirale danach finden Sie hier .",
+      "Auch das Einlegen einer Spirale und die vorausgehende Untersuchung ist Sache des Gynäkologen."
+    ],
+    0.5292693376541138
+  ],
+  [
+    [
+      84,
+      77
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Quellen: https://www.frauenaerzte-im-netz.de/familienplanung-verhuetung/die-pille-danach-nofallverhuetung/ (abgerufen am 13.02.2019) https://www.abda.de/newsroom/meldung/artikel/pille-danach/ (09. März 2018, abgerufen am 13.02.2019)"
+    ],
+    0.3252161741256714
+  ],
+  [
+    [
+      85,
+      77
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Quellen: https://www.frauenaerzte-im-netz.de/familienplanung-verhuetung/die-pille-danach-nofallverhuetung/ (abgerufen am 13.02.2019) https://www.abda.de/newsroom/meldung/artikel/pille-danach/ (09. März 2018, abgerufen am 13.02.2019)"
+    ],
+    0.2705296576023102
+  ]
+]

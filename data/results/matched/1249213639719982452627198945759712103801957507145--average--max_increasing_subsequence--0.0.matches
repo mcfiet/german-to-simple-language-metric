@@ -1,0 +1,838 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In Deutschland ist ein normaler Insektenstich meist nicht gefährlich.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.24278567731380463
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Deshalb können Sie den Insektenstich meist selbst versorgen.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.18011532723903656
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Einen Insektenstich versorgen Sie so:",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.14161783456802368
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Der Stachel der Biene steckt noch in der Haut?",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.15814338624477386
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Dann entfernen Sie den Stachel vorsichtig.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.14843221008777618
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Am besten schieben Sie den Stachel seitlich heraus.",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.1408885270357132
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Benutzen Sie dafür eine stumpfe Kante, zum Beispiel einer Kreditkarte.",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.19518578052520752
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Streichen Sie mit der Karte über den Stich.",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.13722194731235504
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Hinweis: Sie möchten den Stachel mit einer Pinzette herausziehen?",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.15169285237789154
+  ],
+  [
+    [
+      9,
+      4
+    ],
+    [
+      "Dann müssen Sie sehr vorsichtig sein.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.16421383619308472
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Berühren Sie nicht die Giftblase.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.15633603930473328
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Die Giftblase ist oben am Stachel.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.09368837624788284
+  ],
+  [
+    [
+      12,
+      4
+    ],
+    [
+      "In der Giftblaseist das Insektengift.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.08906648308038712
+  ],
+  [
+    [
+      13,
+      4
+    ],
+    [
+      "Sie berühren die Giftblase?",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.12616181373596191
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Dann kann mehrInsektengift in die Wunde kommen.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.1512305587530136
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Kühlen Sie den Insektenstich.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.19257858395576477
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Wickeln Sie ein Kältepack oder Eiswürfel in ein Tuch.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.14787229895591736
+  ],
+  [
+    [
+      17,
+      8
+    ],
+    [
+      "Legen Sie das Tuch auf den Stich.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.137212336063385
+  ],
+  [
+    [
+      18,
+      8
+    ],
+    [
+      "Achtung: Legen Sie Kältepacks oder Eiswürfel nicht direkt auf die Haut.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.2036634236574173
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Die Kälte kann der Haut schaden.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.1751030534505844
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Cremen Sie den Stich mit einem speziellen Gel oder einer speziellen Salbe ein.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.18295462429523468
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Die Gele und Salben lindern den Juckreiz.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.2634522616863251
+  ],
+  [
+    [
+      22,
+      10
+    ],
+    [
+      "Sie bekommen ein passendes Mittel gegen Insektenstiche in der Apotheke.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16370534896850586
+  ],
+  [
+    [
+      23,
+      10
+    ],
+    [
+      "Auch Hitze kann bei einem Insektenstich helfen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16323858499526978
+  ],
+  [
+    [
+      24,
+      10
+    ],
+    [
+      "Sie können zum Beispiel einen Hitze-Stift kaufen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.18876773118972778
+  ],
+  [
+    [
+      25,
+      10
+    ],
+    [
+      "Die Hitze hilft gegen den Juckreiz.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1106194481253624
+  ],
+  [
+    [
+      26,
+      10
+    ],
+    [
+      "Einige Insektenstiche können gefährlich sein.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.21520116925239563
+  ],
+  [
+    [
+      27,
+      10
+    ],
+    [
+      "In den folgenden Situationen müssen Sie den Rettungsdienst rufen:",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.19532032310962677
+  ],
+  [
+    [
+      28,
+      10
+    ],
+    [
+      "Der Stich ist im Mund oder im Rachen der betroffenen Person.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.08305035531520844
+  ],
+  [
+    [
+      29,
+      10
+    ],
+    [
+      "Die betroffene Person hat sehr viele Insektenstiche gleichzeitig bekommen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.15977612137794495
+  ],
+  [
+    [
+      30,
+      10
+    ],
+    [
+      "Die betroffene Person reagiert allergisch auf den Insektenstich.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.14217786490917206
+  ],
+  [
+    [
+      31,
+      10
+    ],
+    [
+      "Achtung: Insektenstiche im Mund und Rachen können lebensgefährlich sein.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1851413995027542
+  ],
+  [
+    [
+      32,
+      10
+    ],
+    [
+      "Insektenstiche in diesen Bereichen können stark anschwellen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.2305423766374588
+  ],
+  [
+    [
+      33,
+      10
+    ],
+    [
+      "Dann können Betroffene manchmal nicht mehr atmen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1847727745771408
+  ],
+  [
+    [
+      34,
+      10
+    ],
+    [
+      "Eine Person hat einen Insektenstich im Mund oder Rachen?",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.10719054192304611
+  ],
+  [
+    [
+      35,
+      10
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16699838638305664
+  ],
+  [
+    [
+      36,
+      10
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.019931329414248466
+  ],
+  [
+    [
+      37,
+      10
+    ],
+    [
+      "So können Sie Erste Hilfe leisten:",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.2108176350593567
+  ],
+  [
+    [
+      38,
+      10
+    ],
+    [
+      "Geben Sie der betroffenen Person einen Eiswürfel zum Lutschen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1778472363948822
+  ],
+  [
+    [
+      39,
+      10
+    ],
+    [
+      "Wickeln Sie der betroffenen Person kühle Umschläge um den Hals.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.17316801846027374
+  ],
+  [
+    [
+      40,
+      10
+    ],
+    [
+      "Eine Person wurde sehr häufig von einer Wespe, einer Biene oder einer Hornisse gestochen?",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.12580859661102295
+  ],
+  [
+    [
+      41,
+      10
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16699838638305664
+  ],
+  [
+    [
+      42,
+      10
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.019931329414248466
+  ],
+  [
+    [
+      43,
+      10
+    ],
+    [
+      "Die Person kann auf die große Menge Insektengift allergisch reagieren.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1692241132259369
+  ],
+  [
+    [
+      44,
+      10
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.13489429652690887
+  ],
+  [
+    [
+      45,
+      10
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.23998776078224182
+  ],
+  [
+    [
+      46,
+      10
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.19392436742782593
+  ],
+  [
+    [
+      47,
+      10
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.019931329414248466
+  ],
+  [
+    [
+      48,
+      10
+    ],
+    [
+      "Anzeichen für eine allergische Reaktion sind zum Beispiel:",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.18053525686264038
+  ],
+  [
+    [
+      49,
+      10
+    ],
+    [
+      "Atemnot Schwindel",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.07573293894529343
+  ],
+  [
+    [
+      50,
+      10
+    ],
+    [
+      "Herzklopfen starke Schwellungen Quaddeln auf der Haut.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1371968388557434
+  ],
+  [
+    [
+      51,
+      10
+    ],
+    [
+      "Quaddeln sind rote geschwollene Flecken auf der Haut.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.10708046704530716
+  ],
+  [
+    [
+      52,
+      10
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.13489429652690887
+  ],
+  [
+    [
+      53,
+      10
+    ],
+    [
+      "Und die Person weiß von der Allergie.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.10296758264303207
+  ],
+  [
+    [
+      54,
+      10
+    ],
+    [
+      "Dann hat die Person vielleicht ein Notfall-Set für Allergiker bei sich.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1433212161064148
+  ],
+  [
+    [
+      55,
+      10
+    ],
+    [
+      "Nutzen Sie das Notfall-Set.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.2384568750858307
+  ],
+  [
+    [
+      56,
+      10
+    ],
+    [
+      "Das Notfall-Set besteht aus:",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.09204273670911789
+  ],
+  [
+    [
+      57,
+      10
+    ],
+    [
+      "Einem Medikament mit Kortison .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.09645526111125946
+  ],
+  [
+    [
+      58,
+      10
+    ],
+    [
+      "Kortison hilft gegen Entzündungen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.15566857159137726
+  ],
+  [
+    [
+      59,
+      10
+    ],
+    [
+      "Einem Antihistaminikum .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.09409831464290619
+  ],
+  [
+    [
+      60,
+      10
+    ],
+    [
+      "Antihistamin hilft gegen allergische Reaktionen.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16144779324531555
+  ],
+  [
+    [
+      61,
+      10
+    ],
+    [
+      "Einer Adrenalin-Fertigspritze .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.006880921311676502
+  ],
+  [
+    [
+      62,
+      10
+    ],
+    [
+      "Die Adrenalin-Fertigspritze stabilisiert den Kreislauf.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.11728296428918839
+  ],
+  [
+    [
+      63,
+      10
+    ],
+    [
+      "So versorgen Sie Allergiker mit dem Notfall-Set: Entfernen Sie zuerst den Stachel aus der Haut.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.15811055898666382
+  ],
+  [
+    [
+      64,
+      10
+    ],
+    [
+      "Geben Sie der betroffenen Person das Medikament mit Kortison und das Antihistaminikum.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.17300809919834137
+  ],
+  [
+    [
+      65,
+      10
+    ],
+    [
+      "Entsichern Sie die Adrenalin-Fertigspritze.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.13755998015403748
+  ],
+  [
+    [
+      66,
+      10
+    ],
+    [
+      "Setzen Sie die Spritze seitlich auf den Oberschenkel.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.1928873360157013
+  ],
+  [
+    [
+      67,
+      10
+    ],
+    [
+      "Lösen Sie die Spritze aus.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.17381617426872253
+  ],
+  [
+    [
+      68,
+      10
+    ],
+    [
+      "Achtung: Der Betroffene atmet nicht mehr?",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.11100085079669952
+  ],
+  [
+    [
+      69,
+      10
+    ],
+    [
+      "Dann beginnen Sie mit der Wiederbelebung .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16406570374965668
+  ],
+  [
+    [
+      70,
+      10
+    ],
+    [
+      "Das Video zeigt Ihnen:",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.07757683098316193
+  ],
+  [
+    [
+      71,
+      10
+    ],
+    [
+      "Das können Sie bei einem Insektenstich tun.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.16541430354118347
+  ],
+  [
+    [
+      72,
+      10
+    ],
+    [
+      "Sie wollen noch mehr über Insektenstiche lesen?",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.19546616077423096
+  ],
+  [
+    [
+      73,
+      10
+    ],
+    [
+      "Mehr Informationen über Insektenstich finden Sie hier .",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.19804801046848297
+  ],
+  [
+    [
+      74,
+      10
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Lassen Sie sich zu Auswahl und Anwendung geeigneter Präparate beraten."
+    ],
+    0.10810864716768265
+  ],
+  [
+    [
+      75,
+      11
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen."
+    ],
+    0.1780557632446289
+  ]
+]

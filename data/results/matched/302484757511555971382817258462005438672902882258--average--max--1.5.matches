@@ -1,0 +1,827 @@
+[
+  [
+    [
+      0,
+      71
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Erfrierung"
+    ],
+    0.24118547141551971
+  ],
+  [
+    [
+      2,
+      71
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Erfrierung"
+    ],
+    0.2736213803291321
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Unterkühlung"
+    ],
+    0.25876861810684204
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Unterkühlung"
+    ],
+    0.2694638669490814
+  ],
+  [
+    [
+      6,
+      11
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Unterkühlung"
+    ],
+    0.22879445552825928
+  ],
+  [
+    [
+      10,
+      17
+    ],
+    [
+      "Das Gewebe ist an diesen Stellen stark beschädigt.",
+      "Erfrierungen"
+    ],
+    0.2428797483444214
+  ],
+  [
+    [
+      11,
+      114
+    ],
+    [
+      "Deshalb wird es vielleicht nicht mehr gut durchblutet.",
+      "Betreffende Stellen vorsichtshalber nicht massieren, da dies bei schwereren Erfrierungen schaden kann."
+    ],
+    0.29976674914360046
+  ],
+  [
+    [
+      13,
+      17
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Erfrierungen"
+    ],
+    0.45357847213745117
+  ],
+  [
+    [
+      14,
+      105
+    ],
+    [
+      "Finger Zehen",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.34752869606018066
+  ],
+  [
+    [
+      15,
+      74
+    ],
+    [
+      "Nase",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.26942262053489685
+  ],
+  [
+    [
+      16,
+      17
+    ],
+    [
+      "Wangen",
+      "Erfrierungen"
+    ],
+    0.46726667881011963
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Ohren",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.32721221446990967
+  ],
+  [
+    [
+      18,
+      17
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen von Erfrierungen.",
+      "Erfrierungen"
+    ],
+    0.4532831013202667
+  ],
+  [
+    [
+      19,
+      17
+    ],
+    [
+      "Diese Stufen heißen: Grade.",
+      "Erfrierungen"
+    ],
+    0.2298201620578766
+  ],
+  [
+    [
+      20,
+      71
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Erfrierung"
+    ],
+    0.3452228605747223
+  ],
+  [
+    [
+      21,
+      80
+    ],
+    [
+      "Stufe 1:",
+      "Grad 3 und 4:"
+    ],
+    0.23678357899188995
+  ],
+  [
+    [
+      22,
+      71
+    ],
+    [
+      "Erfrierung ersten Grades",
+      "Erfrierung"
+    ],
+    0.4754927158355713
+  ],
+  [
+    [
+      25,
+      74
+    ],
+    [
+      "Die Hautstelle fühlt sich hart und kalt an.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.2396349310874939
+  ],
+  [
+    [
+      27,
+      74
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.2764756679534912
+  ],
+  [
+    [
+      28,
+      74
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.311484158039093
+  ],
+  [
+    [
+      29,
+      60
+    ],
+    [
+      "Stufe 2:",
+      "Unterkühlung Stadium 3 bis 5:"
+    ],
+    0.2811817526817322
+  ],
+  [
+    [
+      30,
+      71
+    ],
+    [
+      "Erfrierung zweiten Grades",
+      "Erfrierung"
+    ],
+    0.4975372850894928
+  ],
+  [
+    [
+      31,
+      17
+    ],
+    [
+      "An der betroffenen Hautstellen bilden sich Blasen.",
+      "Erfrierungen"
+    ],
+    0.30798783898353577
+  ],
+  [
+    [
+      33,
+      17
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      "Erfrierungen"
+    ],
+    0.2667803168296814
+  ],
+  [
+    [
+      34,
+      17
+    ],
+    [
+      "Die Schmerzen können aber auch geringer sein.",
+      "Erfrierungen"
+    ],
+    0.2839118540287018
+  ],
+  [
+    [
+      35,
+      60
+    ],
+    [
+      "Stufe 3:",
+      "Unterkühlung Stadium 3 bis 5:"
+    ],
+    0.2917688488960266
+  ],
+  [
+    [
+      36,
+      17
+    ],
+    [
+      "Erfrierung dritten und vierten Grades",
+      "Erfrierungen"
+    ],
+    0.4056466519832611
+  ],
+  [
+    [
+      39,
+      17
+    ],
+    [
+      "Die Haut nimmt keine Reize oder Schmerzen mehr auf.",
+      "Erfrierungen"
+    ],
+    0.2291296422481537
+  ],
+  [
+    [
+      40,
+      99
+    ],
+    [
+      "Und sie heilt auch nicht mehr.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.2997194230556488
+  ],
+  [
+    [
+      41,
+      17
+    ],
+    [
+      "In manchen Fällen muss das betroffene Gewebe durch eine Operation entfernt werden.",
+      "Erfrierungen"
+    ],
+    0.28604817390441895
+  ],
+  [
+    [
+      42,
+      17
+    ],
+    [
+      "Hinweis: Oft zeigt sich erst einige Tage später, wie stark die Erfrierung ist.",
+      "Erfrierungen"
+    ],
+    0.22898872196674347
+  ],
+  [
+    [
+      43,
+      17
+    ],
+    [
+      "Erfrierungen entstehen durch eine zu lange Zeit in der Kälte.",
+      "Erfrierungen"
+    ],
+    0.34996458888053894
+  ],
+  [
+    [
+      44,
+      17
+    ],
+    [
+      "Typische Ursachen einer Erfrierung sind zum Beispiel:",
+      "Erfrierungen"
+    ],
+    0.39024654030799866
+  ],
+  [
+    [
+      47,
+      114
+    ],
+    [
+      "Auch Wind kann gefährlich sein.",
+      "Betreffende Stellen vorsichtshalber nicht massieren, da dies bei schwereren Erfrierungen schaden kann."
+    ],
+    0.2484004646539688
+  ],
+  [
+    [
+      49,
+      11
+    ],
+    [
+      "Dadurch verliert der Körper sehr viel Wärme.",
+      "Unterkühlung"
+    ],
+    0.28039148449897766
+  ],
+  [
+    [
+      50,
+      17
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "Erfrierungen"
+    ],
+    0.26632559299468994
+  ],
+  [
+    [
+      51,
+      17
+    ],
+    [
+      "Dazu gehören zum Beispiel: Kleinkinder ältere Menschen Raucher Menschen mit Durchblutungsstörungen Menschen mit Diabetes stark erschöpfte Menschen unterernährte Menschen",
+      "Erfrierungen"
+    ],
+    0.32265135645866394
+  ],
+  [
+    [
+      53,
+      17
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Erfrierungen"
+    ],
+    0.3336683213710785
+  ],
+  [
+    [
+      54,
+      11
+    ],
+    [
+      "So verliert der Körper schneller Wärme.",
+      "Unterkühlung"
+    ],
+    0.271546870470047
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Menschen unter Alkoholeinfluss spüren die Kälte oft nicht so schnell.",
+      "Erfrierungen"
+    ],
+    0.3157709836959839
+  ],
+  [
+    [
+      57,
+      114
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Betreffende Stellen vorsichtshalber nicht massieren, da dies bei schwereren Erfrierungen schaden kann."
+    ],
+    0.2358417809009552
+  ],
+  [
+    [
+      58,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.2276301234960556
+  ],
+  [
+    [
+      60,
+      11
+    ],
+    [
+      "Funktionskleidung wärmt gut.",
+      "Unterkühlung"
+    ],
+    0.2971321940422058
+  ],
+  [
+    [
+      61,
+      11
+    ],
+    [
+      "Und Funktionskleidung trocknet schnell.",
+      "Unterkühlung"
+    ],
+    0.3009089529514313
+  ],
+  [
+    [
+      62,
+      17
+    ],
+    [
+      "Wechseln Sie Ihre feuchte Kleidung regelmäßig gegen trockene Kleidung.",
+      "Erfrierungen"
+    ],
+    0.30418530106544495
+  ],
+  [
+    [
+      64,
+      17
+    ],
+    [
+      "Über den Kopf verliert der Körper nämlich viel Wärme.",
+      "Erfrierungen"
+    ],
+    0.23346486687660217
+  ],
+  [
+    [
+      65,
+      17
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Erfrierungen"
+    ],
+    0.26427072286605835
+  ],
+  [
+    [
+      66,
+      105
+    ],
+    [
+      "Fäustlinge halten die Finger besser warm als Finger-Handschuhe.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.24465639889240265
+  ],
+  [
+    [
+      68,
+      11
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske.",
+      "Unterkühlung"
+    ],
+    0.2481834590435028
+  ],
+  [
+    [
+      70,
+      17
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung.",
+      "Erfrierungen"
+    ],
+    0.27935990691185
+  ],
+  [
+    [
+      71,
+      105
+    ],
+    [
+      "Ziehen Sie sich dicke Socken an.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.24125677347183228
+  ],
+  [
+    [
+      72,
+      128
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.26556143164634705
+  ],
+  [
+    [
+      73,
+      17
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind.",
+      "Erfrierungen"
+    ],
+    0.24640558660030365
+  ],
+  [
+    [
+      76,
+      131
+    ],
+    [
+      "Essen Sie genügend.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.2294970452785492
+  ],
+  [
+    [
+      77,
+      17
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Erfrierungen"
+    ],
+    0.3339029848575592
+  ],
+  [
+    [
+      80,
+      71
+    ],
+    [
+      "Achtung:",
+      "Erfrierung"
+    ],
+    0.5248799920082092
+  ],
+  [
+    [
+      81,
+      17
+    ],
+    [
+      "Nur Experten erkennen sicher:",
+      "Erfrierungen"
+    ],
+    0.31780698895454407
+  ],
+  [
+    [
+      82,
+      71
+    ],
+    [
+      "Jemand leidet unter einer Erfrierung.",
+      "Erfrierung"
+    ],
+    0.3235633373260498
+  ],
+  [
+    [
+      86,
+      71
+    ],
+    [
+      "Eine Person leidet unter einer Erfrierung?",
+      "Erfrierung"
+    ],
+    0.3256027400493622
+  ],
+  [
+    [
+      88,
+      105
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.28141582012176514
+  ],
+  [
+    [
+      89,
+      17
+    ],
+    [
+      "Und geben Sie der Person trockene Kleidung und Decken.",
+      "Erfrierungen"
+    ],
+    0.25614097714424133
+  ],
+  [
+    [
+      90,
+      105
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.3199112117290497
+  ],
+  [
+    [
+      92,
+      17
+    ],
+    [
+      "Achtung: Das Auftauen der Finger oder Zehen kann sehr schmerzhaft sein.",
+      "Erfrierungen"
+    ],
+    0.24025611579418182
+  ],
+  [
+    [
+      93,
+      17
+    ],
+    [
+      "Vielleicht muss die betroffene Person Schmerzmittel einnehmen.",
+      "Erfrierungen"
+    ],
+    0.2926485240459442
+  ],
+  [
+    [
+      94,
+      17
+    ],
+    [
+      "Wickeln Sie dann die betroffenen Stellen in einen Verband.",
+      "Erfrierungen"
+    ],
+    0.2672208845615387
+  ],
+  [
+    [
+      98,
+      17
+    ],
+    [
+      "Dann können Sie die erfrorenen Finger in den Achselhöhlen aufwärmen oder warme Hände auf erfrorene Stellen im Gesicht legen.",
+      "Erfrierungen"
+    ],
+    0.23562872409820557
+  ],
+  [
+    [
+      99,
+      17
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Erfrierungen"
+    ],
+    0.232818141579628
+  ],
+  [
+    [
+      100,
+      17
+    ],
+    [
+      "Öffnen Sie keine Blasen.",
+      "Erfrierungen"
+    ],
+    0.2305239886045456
+  ],
+  [
+    [
+      101,
+      17
+    ],
+    [
+      "Durch offene Blasen können Infektionen entstehen.",
+      "Erfrierungen"
+    ],
+    0.4307817220687866
+  ],
+  [
+    [
+      102,
+      17
+    ],
+    [
+      "Lassen Sie die betroffene Person keine Zigarette rauchen.",
+      "Erfrierungen"
+    ],
+    0.261871337890625
+  ],
+  [
+    [
+      103,
+      17
+    ],
+    [
+      "Dadurch verengen sich die Blutgefäße.",
+      "Erfrierungen"
+    ],
+    0.3619749844074249
+  ],
+  [
+    [
+      104,
+      17
+    ],
+    [
+      "Massieren Sie die betroffenen Stellen nicht .",
+      "Erfrierungen"
+    ],
+    0.378059059381485
+  ],
+  [
+    [
+      105,
+      11
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Unterkühlung"
+    ],
+    0.24667046964168549
+  ],
+  [
+    [
+      107,
+      17
+    ],
+    [
+      "Es könnte zu Verbrennungen kommen.",
+      "Erfrierungen"
+    ],
+    0.33265364170074463
+  ],
+  [
+    [
+      111,
+      17
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Erfrierungen"
+    ],
+    0.22622600197792053
+  ]
+]

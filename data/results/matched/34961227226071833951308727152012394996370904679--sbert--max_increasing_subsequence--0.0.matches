@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Jeder Mensch hat Muskeln.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.6900521516799927
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Muskeln sind wichtig für die Bewegung.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.7453234195709229
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Die Muskeln sind mit den Knochen verbunden.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.793222963809967
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Durch die Muskeln kann sich ein Mensch bewegen.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.6773484945297241
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Deshalb sind starke Muskeln zum Beispiel beim Sport sehr wichtig.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.6677248477935791
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Muskeln bestehen aus Fasern.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.8981057405471802
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Mehrere Fasern bilden zusammen ein Muskelbündel.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.9148687124252319
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Und mehrere Muskelbündel bilden zusammen einen Muskel.",
+      "Muskel Muskelfaserbündel einzelne Muskelfaser"
+    ],
+    0.9322065114974976
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Im Alltag kann es zu verschiedenen Verletzungen der Muskeln kommen.",
+      "Muskelzerrung: Sie ist die leichteste der drei genannten Verletzungsarten."
+    ],
+    0.7039540410041809
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Es gibt drei Arten von Muskelverletzungen:",
+      "Muskelzerrung: Sie ist die leichteste der drei genannten Verletzungsarten."
+    ],
+    0.8277387619018555
+  ],
+  [
+    [
+      10,
+      24
+    ],
+    [
+      "Alle drei Formen von Muskelverletzungen sind schmerzhaft.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.8468911647796631
+  ],
+  [
+    [
+      11,
+      24
+    ],
+    [
+      "Sie haben plötzlich Schmerzen in einem Muskel?",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.8503950238227844
+  ],
+  [
+    [
+      12,
+      24
+    ],
+    [
+      "Dann haben Sie vielleicht eine Muskelverletzung.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.767314076423645
+  ],
+  [
+    [
+      13,
+      24
+    ],
+    [
+      "Das passiert zum Beispiel oft beim Sport.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.4344785213470459
+  ],
+  [
+    [
+      14,
+      24
+    ],
+    [
+      "Die verschiedenen Muskelverletzungen haben unterschiedliche Anzeichen:",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.8379840850830078
+  ],
+  [
+    [
+      15,
+      24
+    ],
+    [
+      "Muskelzerrung",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.8199095129966736
+  ],
+  [
+    [
+      16,
+      24
+    ],
+    [
+      "Bei der Muskelzerrung tut der Muskel bei Belastung weh.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.9312911033630371
+  ],
+  [
+    [
+      17,
+      24
+    ],
+    [
+      "Der Muskel kann sich auch hart anfühlen.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.8397719860076904
+  ],
+  [
+    [
+      18,
+      24
+    ],
+    [
+      "Beim Dehnen werden die Schmerzen oft weniger.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.6103615760803223
+  ],
+  [
+    [
+      19,
+      24
+    ],
+    [
+      "Muskelfaserriss",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.7811317443847656
+  ],
+  [
+    [
+      20,
+      24
+    ],
+    [
+      "Bei einem Muskelfaserriss tut der Muskel plötzlich stark weh.",
+      "Nach einer Muskelzerrung entstehen Schmerzen vor allem bei Belastung oder Bewegung der betroffenen Partie."
+    ],
+    0.8857698440551758
+  ],
+  [
+    [
+      21,
+      25
+    ],
+    [
+      "Er kann nicht mehr richtig belastet werden.",
+      "Sie nehmen dann kontinuierlich zu, bis die Tätigkeit abgebrochen werden muss."
+    ],
+    0.5291265249252319
+  ],
+  [
+    [
+      22,
+      28
+    ],
+    [
+      "Der Muskel fühlt sich hart an.",
+      "Muskelfaserriss:"
+    ],
+    0.8488786220550537
+  ],
+  [
+    [
+      23,
+      29
+    ],
+    [
+      "Es kann auch ein Bluterguss entstehen.",
+      "Im typischen Fall kommt es unvermittelt zu starken, anhaltenden Schmerzen."
+    ],
+    0.561935305595398
+  ],
+  [
+    [
+      24,
+      32
+    ],
+    [
+      "Durch eine Schonhaltung kann die betroffene Person den Muskel entlasten.",
+      "Betroffene nehmen eine Schonhaltung ein, die den Muskel entlastet."
+    ],
+    0.9343490600585938
+  ],
+  [
+    [
+      25,
+      33
+    ],
+    [
+      "Muskelbündelriss",
+      "Die Muskelspannung (der Muskeltonus) ist im geschädigten Bereich erhöht."
+    ],
+    0.8586727976799011
+  ],
+  [
+    [
+      26,
+      33
+    ],
+    [
+      "Bei einem Muskelbündelriss tut der Muskel plötzlich sehr stark weh.",
+      "Die Muskelspannung (der Muskeltonus) ist im geschädigten Bereich erhöht."
+    ],
+    0.8264935612678528
+  ],
+  [
+    [
+      27,
+      35
+    ],
+    [
+      "Ein ganzes Faserbündel ist nämlich gerissen.",
+      "Zusätzlich fällt häufig eine sichtbare Beule, da der gerissene Muskel sich zusammenzieht – ähnlich eines gerissenen Gummibandes."
+    ],
+    0.5312155485153198
+  ],
+  [
+    [
+      28,
+      35
+    ],
+    [
+      "Dann zieht sich der gerissene Muskel zusammen.",
+      "Zusätzlich fällt häufig eine sichtbare Beule, da der gerissene Muskel sich zusammenzieht – ähnlich eines gerissenen Gummibandes."
+    ],
+    0.8587684631347656
+  ],
+  [
+    [
+      29,
+      35
+    ],
+    [
+      "Deshalb ist vielleicht eine Beule an der betroffenen Stelle zu sehen.",
+      "Zusätzlich fällt häufig eine sichtbare Beule, da der gerissene Muskel sich zusammenzieht – ähnlich eines gerissenen Gummibandes."
+    ],
+    0.5888850092887878
+  ],
+  [
+    [
+      30,
+      35
+    ],
+    [
+      "Es kann auch ein Bluterguss entstehen.",
+      "Zusätzlich fällt häufig eine sichtbare Beule, da der gerissene Muskel sich zusammenzieht – ähnlich eines gerissenen Gummibandes."
+    ],
+    0.5275603532791138
+  ],
+  [
+    [
+      31,
+      36
+    ],
+    [
+      "Der gerissene Muskel lässt sich nicht mehr bewegen.",
+      "Im Bereich des Risses kann nun aufgrund des fehlenden Muskels eine Eindellung entstehen."
+    ],
+    0.8466386795043945
+  ],
+  [
+    [
+      32,
+      36
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine Muskelverletzung?",
+      "Im Bereich des Risses kann nun aufgrund des fehlenden Muskels eine Eindellung entstehen."
+    ],
+    0.641242265701294
+  ],
+  [
+    [
+      33,
+      38
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Der Arzt wird den Patienten zunächst befragen, insbesondere nach dem genauen Unfallhergang und den Beschwerden."
+    ],
+    0.6247859597206116
+  ],
+  [
+    [
+      34,
+      38
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Der Arzt wird den Patienten zunächst befragen, insbesondere nach dem genauen Unfallhergang und den Beschwerden."
+    ],
+    0.6987912654876709
+  ],
+  [
+    [
+      35,
+      39
+    ],
+    [
+      "Eine Muskelverletzung kann verschiedene Ursachen haben:",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.3833041191101074
+  ],
+  [
+    [
+      36,
+      39
+    ],
+    [
+      "Sie belasten die Muskeln sehr stak?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.5022861361503601
+  ],
+  [
+    [
+      37,
+      39
+    ],
+    [
+      "Sie wärmen sich vor dem Sport nicht gut auf?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.3276381492614746
+  ],
+  [
+    [
+      38,
+      39
+    ],
+    [
+      "Sie haben vielleicht ältere Verletzungen.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.522666335105896
+  ],
+  [
+    [
+      39,
+      39
+    ],
+    [
+      "Aber diese Verletzungen sind noch nicht vollständig geheilt?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.41026654839515686
+  ],
+  [
+    [
+      40,
+      39
+    ],
+    [
+      "Sie machen Sport bei Kälte und Regen?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.2764098644256592
+  ],
+  [
+    [
+      41,
+      39
+    ],
+    [
+      "Sie haben einen Sportunfall?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.4460141956806183
+  ],
+  [
+    [
+      42,
+      39
+    ],
+    [
+      "Sie haben Entzündungen im Körper?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.546471357345581
+  ],
+  [
+    [
+      43,
+      39
+    ],
+    [
+      "Dann können diese Dinge zu einer Muskelverletzung führen.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.5306440591812134
+  ],
+  [
+    [
+      44,
+      39
+    ],
+    [
+      "Auch manche Sportarten belasten die Muskeln stark.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.4292096197605133
+  ],
+  [
+    [
+      45,
+      39
+    ],
+    [
+      "Dazu gehören zum Beispiel Fußball oder Tennis.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.2870559096336365
+  ],
+  [
+    [
+      46,
+      39
+    ],
+    [
+      "Deshalb kommt es bei diesen Sportarten häufiger zu einer Muskelverletzung.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.42722463607788086
+  ],
+  [
+    [
+      47,
+      39
+    ],
+    [
+      "Sie machen regelmäßig Sport?",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.5025331974029541
+  ],
+  [
+    [
+      48,
+      39
+    ],
+    [
+      "Dann können Sie auf diese Dinge achten:",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.548659086227417
+  ],
+  [
+    [
+      49,
+      39
+    ],
+    [
+      "Wärmen Sie sich vor dem Sport immer gut auf.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.43393877148628235
+  ],
+  [
+    [
+      50,
+      39
+    ],
+    [
+      "Ziehen Sie die richtigen Schuhe an.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.3700870871543884
+  ],
+  [
+    [
+      51,
+      39
+    ],
+    [
+      "Vermeiden Sie falsche Belastungen der Muskeln oder Überlastung.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.45019426941871643
+  ],
+  [
+    [
+      52,
+      39
+    ],
+    [
+      "Bandagen können bestimmte Körperteile stützen.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.5050525665283203
+  ],
+  [
+    [
+      53,
+      39
+    ],
+    [
+      "Machen Sie Pausen zwischen den Trainingseinheiten.",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.44868189096450806
+  ],
+  [
+    [
+      54,
+      39
+    ],
+    [
+      "Hören Sie auf Ihren Körper:",
+      "Dann folgt die körperliche Untersuchung."
+    ],
+    0.5782604813575745
+  ],
+  [
+    [
+      55,
+      43
+    ],
+    [
+      "Sie haben beim Sport Schmerzen?",
+      "Eine Gewebslücke (Delle) oder Beule sind starke Indizien für einen Muskelriss ."
+    ],
+    0.5916776061058044
+  ],
+  [
+    [
+      56,
+      48
+    ],
+    [
+      "Dann hören Sie mit dem Training auf.",
+      "Nach einer Muskelverletzung sind möglichst rasch Erstmaßnahmen empfehlenswert."
+    ],
+    0.45504680275917053
+  ],
+  [
+    [
+      57,
+      48
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine Muskelverletzung?",
+      "Nach einer Muskelverletzung sind möglichst rasch Erstmaßnahmen empfehlenswert."
+    ],
+    0.5205910205841064
+  ],
+  [
+    [
+      58,
+      51
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Es ist ratsam, schnell eine ärztliche Praxis aufzusuchen."
+    ],
+    0.7270992398262024
+  ],
+  [
+    [
+      59,
+      51
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Es ist ratsam, schnell eine ärztliche Praxis aufzusuchen."
+    ],
+    0.6298792958259583
+  ],
+  [
+    [
+      60,
+      52
+    ],
+    [
+      "Bei einer Muskelverletzung können verschiedene Behandlungen helfen wie zum Beispiel: Massagen Physiotherapie medizinischer Strom",
+      "Eine Untersuchung kann feststellen, welche Form der Muskelverletzung vorliegt und – falls es im Einzelfall sinnvoll ist – daraus Behandlungen wie physiotherapeutische Anwendungen, Massagen , Elektrotherapie oder entzündungshemmende Medikamente wie Diclofenac abgeleitet werden."
+    ],
+    0.8263460397720337
+  ],
+  [
+    [
+      61,
+      53
+    ],
+    [
+      "Medikamente",
+      "Solche Wirkstoffe werden manchmal auch in die betroffene Stelle eingespritzt (Infiltration)."
+    ],
+    0.44077831506729126
+  ],
+  [
+    [
+      62,
+      54
+    ],
+    [
+      "In unserem Video erfahren Sie mehr zum Thema: Muskelverletzungen.",
+      "Wichtig ist eine Schonung des Muskels."
+    ],
+    0.6389148831367493
+  ],
+  [
+    [
+      63,
+      54
+    ],
+    [
+      "Nach einer Verletzung muss der Muskel geschont werden.",
+      "Wichtig ist eine Schonung des Muskels."
+    ],
+    0.7189850807189941
+  ],
+  [
+    [
+      64,
+      54
+    ],
+    [
+      "Der Arzt sagt Ihnen:",
+      "Wichtig ist eine Schonung des Muskels."
+    ],
+    0.289502888917923
+  ],
+  [
+    [
+      65,
+      54
+    ],
+    [
+      "So lange müssen Sie den Muskel schonen.",
+      "Wichtig ist eine Schonung des Muskels."
+    ],
+    0.8252460956573486
+  ],
+  [
+    [
+      66,
+      54
+    ],
+    [
+      "Manche Muskeln müssen länger geschont werden als andere.",
+      "Wichtig ist eine Schonung des Muskels."
+    ],
+    0.7503608465194702
+  ],
+  [
+    [
+      67,
+      56
+    ],
+    [
+      "Die Dauer hängt auch von der Verletzung selbst ab:",
+      "Das hängt vom Ort und von der Schwere der Muskelverletzung sowie vom Alter des Patienten ab."
+    ],
+    0.7316392660140991
+  ],
+  [
+    [
+      68,
+      59
+    ],
+    [
+      "Muskelzerrung",
+      "Muskelzerrung:"
+    ],
+    0.9999998807907104
+  ],
+  [
+    [
+      69,
+      61
+    ],
+    [
+      "Der Muskel muss eine Woche lang geschont werden.",
+      "Bis zur vollen sportlichen Belastbarkeit des Muskels nach einer Zerrung kann es jedoch auch zwei Wochen oder länger dauern."
+    ],
+    0.7477083802223206
+  ],
+  [
+    [
+      70,
+      61
+    ],
+    [
+      "Nach zwei Wochen dürfen Sie dann meist wieder mit dem Sport anfangen.",
+      "Bis zur vollen sportlichen Belastbarkeit des Muskels nach einer Zerrung kann es jedoch auch zwei Wochen oder länger dauern."
+    ],
+    0.6467796564102173
+  ],
+  [
+    [
+      71,
+      62
+    ],
+    [
+      "Muskelfaserriss",
+      "Muskelfaserriss:"
+    ],
+    0.9999997615814209
+  ],
+  [
+    [
+      72,
+      63
+    ],
+    [
+      "Die Heilung dauert zwischen drei Wochen und mehreren Monaten.",
+      "Bei einem Muskelfaserriss können drei Wochen bis mehrere Monate vergehen, bis der Muskel komplett wiederhergestellt ist."
+    ],
+    0.7055697441101074
+  ],
+  [
+    [
+      73,
+      66
+    ],
+    [
+      "Bei einem Muskelfaserriss bilden sich Narben im Muskel.",
+      "Muskel(bündel-)riss:"
+    ],
+    0.7768424153327942
+  ],
+  [
+    [
+      74,
+      67
+    ],
+    [
+      "Deshalb können nach der Heilung schneller Verletzungen im selben Muskel entstehen.",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.7339601516723633
+  ],
+  [
+    [
+      75,
+      67
+    ],
+    [
+      "Muskelbündelriss Manchmal ist sogar eine Operation notwendig.",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.9388020634651184
+  ],
+  [
+    [
+      76,
+      67
+    ],
+    [
+      "Dann wird der Bluterguss am Muskel entfernt.",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.6789460778236389
+  ],
+  [
+    [
+      77,
+      67
+    ],
+    [
+      "Manchmal ist aber auch keine Operation notwendig.",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.6430585384368896
+  ],
+  [
+    [
+      78,
+      67
+    ],
+    [
+      "Der Arzt sagt Ihnen:",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.4273977279663086
+  ],
+  [
+    [
+      79,
+      67
+    ],
+    [
+      "Eine Operation ist notwendig.",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.7509028911590576
+  ],
+  [
+    [
+      80,
+      67
+    ],
+    [
+      "Oder : Eine Operation ist nicht notwendig.",
+      "Bei einem Muskel(bündel-)riss kann ein chirurgischer Eingriff notwendig werden."
+    ],
+    0.670782208442688
+  ],
+  [
+    [
+      81,
+      77
+    ],
+    [
+      "Sie wollen noch mehr über Muskelverletzungen lesen?",
+      "Zu große muskuläre Belastungen begünstigen die Entstehung von Muskelverletzungen."
+    ],
+    0.7321118116378784
+  ],
+  [
+    [
+      82,
+      77
+    ],
+    [
+      "Mehr Informationen über Muskelverletzungen finden Sie hier .",
+      "Zu große muskuläre Belastungen begünstigen die Entstehung von Muskelverletzungen."
+    ],
+    0.8128277659416199
+  ],
+  [
+    [
+      83,
+      78
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Eventuell können besonders gefährdete Stellen gezielt durch Tapeverbände oder Bandagen unterstützt werden."
+    ],
+    0.20473656058311462
+  ],
+  [
+    [
+      84,
+      78
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Eventuell können besonders gefährdete Stellen gezielt durch Tapeverbände oder Bandagen unterstützt werden."
+    ],
+    0.14432257413864136
+  ]
+]

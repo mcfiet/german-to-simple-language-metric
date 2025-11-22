@@ -1,0 +1,959 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Das Verhütungspflaster ist ein Verhütungsmittel.",
+      "Das hautfarbene Pflaster ist etwa 20 cm 2 groß."
+    ],
+    0.2874656617641449
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das bedeutet:",
+      "Das hautfarbene Pflaster ist etwa 20 cm 2 groß."
+    ],
+    0.08775649219751358
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Das Verhütungspflaster schützt Sie vor einer Schwangerschaft.",
+      "Das hautfarbene Pflaster ist etwa 20 cm 2 groß."
+    ],
+    0.4454243779182434
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Sie benutzen ein Verhütungspflaster?",
+      "Das hautfarbene Pflaster ist etwa 20 cm 2 groß."
+    ],
+    0.44232800602912903
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Dann können Sie nicht schwanger werden.",
+      "Beide Hormone gelangen kontinuierlich über die Haut ins Blut."
+    ],
+    0.002979689510539174
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Ein Verhütungspflaster enthält Hormone.",
+      "Beide Hormone gelangen kontinuierlich über die Haut ins Blut."
+    ],
+    0.08528613299131393
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Die Hormone gelangen über Ihre Haut ins Blut.",
+      "Beide Hormone gelangen kontinuierlich über die Haut ins Blut."
+    ],
+    0.8339529037475586
+  ],
+  [
+    [
+      7,
+      38
+    ],
+    [
+      "Die Hormone verhindern den Eisprung.",
+      "Die enthaltenen Hormone beeinflussen den natürlichen Hormonhaushalt der Frau und können verschiedene Nebenwirkungen haben."
+    ],
+    0.44865432381629944
+  ],
+  [
+    [
+      8,
+      61
+    ],
+    [
+      "Einmal im Monat bildet sich eine dicke Schleimhaut in der Gebärmutter der Frau.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.5694445371627808
+  ],
+  [
+    [
+      9,
+      61
+    ],
+    [
+      "Diese Schleimhaut heißt: Gebärmutter-Schleimhaut.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.3813076317310333
+  ],
+  [
+    [
+      10,
+      61
+    ],
+    [
+      "In die Gebärmutter-Schleimhaut kann sich die befruchtete Eizelle einnisten und so ein Baby entstehen.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.5102989673614502
+  ],
+  [
+    [
+      11,
+      61
+    ],
+    [
+      "Die Eizelle wird nach dem Eisprung nicht befruchtet?",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.012088296934962273
+  ],
+  [
+    [
+      12,
+      61
+    ],
+    [
+      "Dann wird die Gebärmutter-Schleimhaut in diesem Monat nicht gebraucht.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.4966002404689789
+  ],
+  [
+    [
+      13,
+      61
+    ],
+    [
+      "Sie löst sich dann auf und fließt als Monatsblutung aus dem Körper hinaus.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.008411502465605736
+  ],
+  [
+    [
+      14,
+      61
+    ],
+    [
+      "Der Kreislauf beginnt dann wieder von vorne:",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.05095091462135315
+  ],
+  [
+    [
+      15,
+      61
+    ],
+    [
+      "Es bildet sich eine neue Gebärmutter-Schleimhaut.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.6080800890922546
+  ],
+  [
+    [
+      16,
+      61
+    ],
+    [
+      "Das nennt man auch: weiblicher Zyklus.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.011493073776364326
+  ],
+  [
+    [
+      17,
+      61
+    ],
+    [
+      "Während des weiblichen Zyklus produziert der Körper Geschlechtshormone.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.013214786536991596
+  ],
+  [
+    [
+      19,
+      61
+    ],
+    [
+      "Im Verhütungspflaster sind künstliche Geschlechtshormone.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.007328633219003677
+  ],
+  [
+    [
+      20,
+      61
+    ],
+    [
+      "Die künstlichen Geschlechtshormone verändern den natürlichen Zyklus der Frau.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.08406074345111847
+  ],
+  [
+    [
+      21,
+      61
+    ],
+    [
+      "Sie verwenden ein Verhütungspflaster?",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.0202633049339056
+  ],
+  [
+    [
+      22,
+      61
+    ],
+    [
+      "Dann haben Sie keinen Eisprung.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.013425346463918686
+  ],
+  [
+    [
+      23,
+      61
+    ],
+    [
+      "Und die Gebärmutter-Schleimhaut wird dicker.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.5459331274032593
+  ],
+  [
+    [
+      24,
+      61
+    ],
+    [
+      "Dann können Spermien nicht mehr in die Gebärmutter.",
+      "Allerdings gehören auch eine bei einer Frau aktuell vorliegende oder vom Arzt vermutete Tumorerkrankung wie zum Beispiel Brustkrebs , Gebärmutterkrebs (Gebärmutterkörper, Gebärmutterhals) zu den Gegenanzeigen."
+    ],
+    0.6278378367424011
+  ],
+  [
+    [
+      25,
+      63
+    ],
+    [
+      "Deshalb können Sie nicht schwanger werden.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.0416187085211277
+  ],
+  [
+    [
+      26,
+      63
+    ],
+    [
+      "Sie interessieren sich für ein Verhütungspflaster?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8890681266784668
+  ],
+  [
+    [
+      27,
+      63
+    ],
+    [
+      "Dann sprechen Sie zuerst mit Ihrem Frauenarzt.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.015861449763178825
+  ],
+  [
+    [
+      29,
+      63
+    ],
+    [
+      "Und Ihr Frauenarzt untersucht Sie.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.013961191289126873
+  ],
+  [
+    [
+      30,
+      63
+    ],
+    [
+      "Erst dann entscheiden sie gemeinsam:",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.01697901450097561
+  ],
+  [
+    [
+      31,
+      63
+    ],
+    [
+      "Ist ein Verhütungspflaster gut geeignet für Sie?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8904469609260559
+  ],
+  [
+    [
+      32,
+      63
+    ],
+    [
+      "Ein Verhütungspflaster ist gut geeignet für Sie?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8906050324440002
+  ],
+  [
+    [
+      34,
+      63
+    ],
+    [
+      "So verwenden Sie das Verhütungspflaster:",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8717880249023438
+  ],
+  [
+    [
+      35,
+      63
+    ],
+    [
+      "Kleben Sie das Verhütungspflaster am ersten Tag Ihrer Monatsblutung fest auf die Haut.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8703733682632446
+  ],
+  [
+    [
+      37,
+      63
+    ],
+    [
+      "Entfernen Sie das Verhütungspflaster am achten Tag.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8789294362068176
+  ],
+  [
+    [
+      38,
+      63
+    ],
+    [
+      "Kleben Sie ein neues Verhütungspflaster auf die Haut.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.880119264125824
+  ],
+  [
+    [
+      39,
+      63
+    ],
+    [
+      "Kleben Sie das Verhütungspflaster nicht an die gleiche Stelle.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8787329196929932
+  ],
+  [
+    [
+      40,
+      63
+    ],
+    [
+      "Wiederholen Sie diesen Vorgang für drei Wochen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.020383015275001526
+  ],
+  [
+    [
+      42,
+      63
+    ],
+    [
+      "Das bedeutet: Sie benutzen sieben Tage kein Verhütungspflaster.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8766267895698547
+  ],
+  [
+    [
+      43,
+      63
+    ],
+    [
+      "Am achten Tag beginnen Sie wieder von vorne.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.019200004637241364
+  ],
+  [
+    [
+      44,
+      63
+    ],
+    [
+      "Sie benutzen ein Verhütungspflaster?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8881629109382629
+  ],
+  [
+    [
+      45,
+      63
+    ],
+    [
+      "Dann sollten Sie folgende Dinge beachten:",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.01740243099629879
+  ],
+  [
+    [
+      46,
+      63
+    ],
+    [
+      "Kleben Sie das Verhütungspflaster nicht immer an dieselbe Stelle.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8790053129196167
+  ],
+  [
+    [
+      47,
+      63
+    ],
+    [
+      "Geeignete Stellen sind zum Beispiel: Hüfte, Bauch, Oberarm, oberer Rücken oder die obere Hälfte vom Gesäß.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.018414422869682312
+  ],
+  [
+    [
+      48,
+      63
+    ],
+    [
+      "Kleben Sie das Verhütungspflaster nicht auf die Brüste.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8788986802101135
+  ],
+  [
+    [
+      49,
+      63
+    ],
+    [
+      "Kleben Sie das Verhütungspflaster nicht auf entzündete Stellen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8790843486785889
+  ],
+  [
+    [
+      50,
+      63
+    ],
+    [
+      "Kleben Sie das Verhütungspflaster nur auf gesunde, trockene, saubere Haut und Stellen ohne Haare.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8729572892189026
+  ],
+  [
+    [
+      51,
+      63
+    ],
+    [
+      "Hinweis: Das Verhütungspflaster bleibt auch im Schwimmbad oder in der Sauna auf Ihrer Haut.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8810221552848816
+  ],
+  [
+    [
+      52,
+      63
+    ],
+    [
+      "Das Verhütungspflaster verschiedene Vorteile.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8797822594642639
+  ],
+  [
+    [
+      53,
+      63
+    ],
+    [
+      "Vorteile des Verhütungspflasters sind zum Beispiel:",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.88644939661026
+  ],
+  [
+    [
+      54,
+      63
+    ],
+    [
+      "Sie müssen nicht jeden Tag an die Verhütung denken.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.6521340012550354
+  ],
+  [
+    [
+      55,
+      63
+    ],
+    [
+      "Sie müssen zum Beispiel nicht jeden Tag zur gleichen Zeit die Pille nehmen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.02621380239725113
+  ],
+  [
+    [
+      56,
+      63
+    ],
+    [
+      "Die Hormone vom Verhütungspflaster wirken über die Haut.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8806570768356323
+  ],
+  [
+    [
+      57,
+      63
+    ],
+    [
+      "Deshalb wirkt das Verhütungspflaster auch nach Erbrechen oder Durchfall.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8830670714378357
+  ],
+  [
+    [
+      58,
+      63
+    ],
+    [
+      "Das Verhütungspflaster belastet die Leber weniger als Verhütungspillen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8689165711402893
+  ],
+  [
+    [
+      59,
+      63
+    ],
+    [
+      "Das Verhütungspflaster hat auch Nachteile.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8849230408668518
+  ],
+  [
+    [
+      60,
+      63
+    ],
+    [
+      "Nachteile des Verhütungspflasters sind zum Beispiel:",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8863583207130432
+  ],
+  [
+    [
+      61,
+      63
+    ],
+    [
+      "Das Verhütungspflaster schützt nicht vor Geschlechtskrankheiten.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8884466290473938
+  ],
+  [
+    [
+      62,
+      63
+    ],
+    [
+      "Das Verhütungspflaster verursacht oft Hautreizungen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8783769011497498
+  ],
+  [
+    [
+      63,
+      63
+    ],
+    [
+      "Andere Menschen können das Pflaster auf Ihrer Haut sehen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.6384859681129456
+  ],
+  [
+    [
+      65,
+      63
+    ],
+    [
+      "Dann wirkt das Verhütungspflaster nicht mehr zuverlässig.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8842577934265137
+  ],
+  [
+    [
+      66,
+      63
+    ],
+    [
+      "Mit verschiedenen Medikamenten sind Wechselwirkungen möglich.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.02004150301218033
+  ],
+  [
+    [
+      69,
+      63
+    ],
+    [
+      "Die Wechselwirkungen stehen in der Packungsbeilage des Verhütungspflasters.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8852556943893433
+  ],
+  [
+    [
+      70,
+      63
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt oder Apotheker.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.018877390772104263
+  ],
+  [
+    [
+      71,
+      63
+    ],
+    [
+      "Sie kleben sich mehr als sieben Tage kein Verhütungspflaster auf die Haut?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8797078132629395
+  ],
+  [
+    [
+      72,
+      63
+    ],
+    [
+      "Dann wirkt das Verhütungspflaster nicht mehr zuverlässig.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8842577934265137
+  ],
+  [
+    [
+      73,
+      63
+    ],
+    [
+      "Und dann können Sie schwanger werden.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.02450539916753769
+  ],
+  [
+    [
+      74,
+      63
+    ],
+    [
+      "Hinweis: Sie haben Probleme mit dem Verhütungspflaster?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8844432830810547
+  ],
+  [
+    [
+      75,
+      63
+    ],
+    [
+      "Dann gehen Sie zu Ihrem Arzt.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.017056649550795555
+  ],
+  [
+    [
+      77,
+      63
+    ],
+    [
+      "Die Hormone im Verhütungspflaster verändern Ihren Hormonhaushalt.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8662756681442261
+  ],
+  [
+    [
+      78,
+      63
+    ],
+    [
+      "Dadurch können Nebenwirkungen entstehen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.0032602399587631226
+  ],
+  [
+    [
+      79,
+      63
+    ],
+    [
+      "Nebenwirkungen des Verhütungspflasters sind zum Beispiel: unregelmäßige Blutungen Brustschmerzen Kopfschmerzen",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.882626473903656
+  ],
+  [
+    [
+      81,
+      63
+    ],
+    [
+      "Sie haben weniger Lust auf Sex.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.00256437249481678
+  ],
+  [
+    [
+      83,
+      63
+    ],
+    [
+      "Stimmungsschwankungen Hinweis: Ihre Stimmung hat sich stark verändert?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.06832931935787201
+  ],
+  [
+    [
+      84,
+      63
+    ],
+    [
+      "Oder Sie leiden unter Depressionen?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.03647705167531967
+  ],
+  [
+    [
+      85,
+      63
+    ],
+    [
+      "Dann sprechen Sie unbedingt mit Ihrem Arzt.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.016731906682252884
+  ],
+  [
+    [
+      86,
+      63
+    ],
+    [
+      "Manche Frauen dürfen das Verhütungspflaster nicht anwenden.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8848235011100769
+  ],
+  [
+    [
+      87,
+      63
+    ],
+    [
+      "In folgenden Fällen dürfen Sie das Verhütungspflaster nicht anwenden:",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8803965449333191
+  ],
+  [
+    [
+      89,
+      63
+    ],
+    [
+      "Oder Sie hatten früher Thrombosen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.002082318067550659
+  ],
+  [
+    [
+      90,
+      63
+    ],
+    [
+      "Sie haben eine Erkrankung an der Leber.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.003544420236721635
+  ],
+  [
+    [
+      91,
+      63
+    ],
+    [
+      "Sie haben Krebs.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.0033618109300732613
+  ],
+  [
+    [
+      92,
+      63
+    ],
+    [
+      "Sie haben einen starken Bluthochdruck .",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.0195456575602293
+  ],
+  [
+    [
+      96,
+      63
+    ],
+    [
+      "Sie haben Diabetes und Schäden an den Gefäßen.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.01694415882229805
+  ],
+  [
+    [
+      99,
+      63
+    ],
+    [
+      "Dann dürfen Sie das Verhütungspflaster nicht anwenden.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8805411458015442
+  ],
+  [
+    [
+      100,
+      63
+    ],
+    [
+      "Sie wollen noch mehr über das Verhütungspflaster lesen?",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8828728795051575
+  ],
+  [
+    [
+      101,
+      63
+    ],
+    [
+      "Mehr Informationen über das Verhütungspflaster finden Sie hier .",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.8798916935920715
+  ],
+  [
+    [
+      102,
+      63
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.06779537349939346
+  ],
+  [
+    [
+      103,
+      63
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Verhütungspflaster schützen nicht vor HIV / Aids und anderen, sexuell übertragbaren Krankheiten."
+    ],
+    0.05143437534570694
+  ]
+]

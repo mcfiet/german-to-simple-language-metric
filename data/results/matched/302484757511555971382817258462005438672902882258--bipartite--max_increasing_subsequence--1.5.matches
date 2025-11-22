@@ -1,0 +1,497 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    1.0
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    1.0
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      6,
+      11
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Unterkühlung"
+    ],
+    0.6371846199035645
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Mehr Informationen zum Thema Unterkühlung finden Sie hier .",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      13,
+      17
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Erfrierungen"
+    ],
+    1.0
+  ],
+  [
+    [
+      14,
+      20
+    ],
+    [
+      "Finger Zehen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      15,
+      20
+    ],
+    [
+      "Nase",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      16,
+      20
+    ],
+    [
+      "Wangen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Ohren",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      18,
+      51
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen von Erfrierungen.",
+      "Ärzte"
+    ],
+    1.0
+  ],
+  [
+    [
+      20,
+      71
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Erfrierung"
+    ],
+    1.0
+  ],
+  [
+    [
+      21,
+      72
+    ],
+    [
+      "Stufe 1:",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.6831151843070984
+  ],
+  [
+    [
+      23,
+      72
+    ],
+    [
+      "Die betroffene Hautstelle ist blass.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    1.0
+  ],
+  [
+    [
+      24,
+      72
+    ],
+    [
+      "Manchmal ist sie auch grau-weiß oder gelb-weiß.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.9148886203765869
+  ],
+  [
+    [
+      26,
+      72
+    ],
+    [
+      "Und die betroffene Hautstelle ist taub.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.7382030487060547
+  ],
+  [
+    [
+      27,
+      74
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.8489347100257874
+  ],
+  [
+    [
+      28,
+      74
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.8484416007995605
+  ],
+  [
+    [
+      29,
+      76
+    ],
+    [
+      "Stufe 2:",
+      "Grad 2: Es bilden sich"
+    ],
+    0.6831151843070984
+  ],
+  [
+    [
+      33,
+      78
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.7968435287475586
+  ],
+  [
+    [
+      35,
+      80
+    ],
+    [
+      "Stufe 3:",
+      "Grad 3 und 4:"
+    ],
+    0.6831151843070984
+  ],
+  [
+    [
+      37,
+      82
+    ],
+    [
+      "Das betroffene Hautgewebe stirbt ab.",
+      "Auch das darunter gelegene Gewebe stirbt ab (Nekrose)."
+    ],
+    0.8012951016426086
+  ],
+  [
+    [
+      41,
+      84
+    ],
+    [
+      "In manchen Fällen muss das betroffene Gewebe durch eine Operation entfernt werden.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.6030833721160889
+  ],
+  [
+    [
+      45,
+      110
+    ],
+    [
+      "Jemand fällt in kaltes Wasser",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.7485927939414978
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    1.0
+  ],
+  [
+    [
+      58,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    1.0
+  ],
+  [
+    [
+      60,
+      121
+    ],
+    [
+      "Funktionskleidung wärmt gut.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.8363170623779297
+  ],
+  [
+    [
+      61,
+      121
+    ],
+    [
+      "Und Funktionskleidung trocknet schnell.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7998020648956299
+  ],
+  [
+    [
+      63,
+      121
+    ],
+    [
+      "Tragen Sie eine Mütze.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7474689483642578
+  ],
+  [
+    [
+      65,
+      121
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7739785313606262
+  ],
+  [
+    [
+      66,
+      123
+    ],
+    [
+      "Fäustlinge halten die Finger besser warm als Finger-Handschuhe.",
+      "Fäustlinge halten die Hände bei kalten Temperaturen besser warm als Fingerhandschuhe, auch das Mitführen von Wärempackungen kann helfen."
+    ],
+    0.9652500152587891
+  ],
+  [
+    [
+      70,
+      126
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung.",
+      "Die Schuhe dürfen nicht zu eng sein, da sonst die Durchblutung der Füße behindert wird."
+    ],
+    0.8004688620567322
+  ],
+  [
+    [
+      71,
+      127
+    ],
+    [
+      "Ziehen Sie sich dicke Socken an.",
+      "Kaufen Sie Winterstiefel deshalb lieber eine Nummer größer und ziehen dicke Socken an."
+    ],
+    0.8647192716598511
+  ],
+  [
+    [
+      72,
+      128
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.9213880896568298
+  ],
+  [
+    [
+      73,
+      128
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.9634923934936523
+  ],
+  [
+    [
+      74,
+      130
+    ],
+    [
+      "Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Nehmen Sie auf Bergtouren eine Thermoskanne mit Tee mit oder kehren Sie beim Skifahren in eine Berghütte ein, um sich aufzuwärmen."
+    ],
+    1.0
+  ],
+  [
+    [
+      75,
+      130
+    ],
+    [
+      "Der Tee kann Sie wärmen.",
+      "Nehmen Sie auf Bergtouren eine Thermoskanne mit Tee mit oder kehren Sie beim Skifahren in eine Berghütte ein, um sich aufzuwärmen."
+    ],
+    0.678826093673706
+  ],
+  [
+    [
+      76,
+      130
+    ],
+    [
+      "Essen Sie genügend.",
+      "Nehmen Sie auf Bergtouren eine Thermoskanne mit Tee mit oder kehren Sie beim Skifahren in eine Berghütte ein, um sich aufzuwärmen."
+    ],
+    0.6119047403335571
+  ],
+  [
+    [
+      77,
+      133
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    1.0
+  ],
+  [
+    [
+      78,
+      133
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5984525084495544
+  ],
+  [
+    [
+      79,
+      133
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8135414719581604
+  ],
+  [
+    [
+      90,
+      133
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.6838430762290955
+  ],
+  [
+    [
+      102,
+      133
+    ],
+    [
+      "Lassen Sie die betroffene Person keine Zigarette rauchen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5899158120155334
+  ],
+  [
+    [
+      105,
+      133
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5995610356330872
+  ]
+]

@@ -1,0 +1,816 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Grippe ist eine ansteckende Krankheit.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.8104894757270813
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Fachwort für Grippe ist: Influenza.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.8712489604949951
+  ],
+  [
+    [
+      2,
+      5
+    ],
+    [
+      "Eine Grippe entsteht durch Viren.",
+      "Bei einem \"grippalen Infekt\" handelt es sich normalerweise nicht um eine Infektion mit dem Influenza-Virus, sondern um eine Erkältung ."
+    ],
+    0.8331326842308044
+  ],
+  [
+    [
+      3,
+      5
+    ],
+    [
+      "Die Viren werden durch Körper-Flüssigkeiten übertragen:",
+      "Bei einem \"grippalen Infekt\" handelt es sich normalerweise nicht um eine Infektion mit dem Influenza-Virus, sondern um eine Erkältung ."
+    ],
+    0.5435067415237427
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Zum Beispiel beim Niesen.",
+      "Bei einem \"grippalen Infekt\" handelt es sich normalerweise nicht um eine Infektion mit dem Influenza-Virus, sondern um eine Erkältung ."
+    ],
+    0.4889257550239563
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Eine Grippe ist kein grippaler Infekt.",
+      "Bei einem \"grippalen Infekt\" handelt es sich normalerweise nicht um eine Infektion mit dem Influenza-Virus, sondern um eine Erkältung ."
+    ],
+    0.846479594707489
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Das Influenza-Virus wird über die Schleimhäute übertragen.",
+      "Bei einem \"grippalen Infekt\" handelt es sich normalerweise nicht um eine Infektion mit dem Influenza-Virus, sondern um eine Erkältung ."
+    ],
+    0.7483116388320923
+  ],
+  [
+    [
+      7,
+      9
+    ],
+    [
+      "Schleimhäute sind zum Beispiel in Mund oder Nase.",
+      "Sie befallen Schleimhautzellen, zum Beispiel in der Nase, und vermehren sich dort."
+    ],
+    0.8469046950340271
+  ],
+  [
+    [
+      8,
+      10
+    ],
+    [
+      "In den Schleimhäuten vermehren sich die Viren.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.6152817010879517
+  ],
+  [
+    [
+      9,
+      10
+    ],
+    [
+      "Und sie können dann übertragen werden beim:",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.331676185131073
+  ],
+  [
+    [
+      10,
+      10
+    ],
+    [
+      "Niesen Husten",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.3716174066066742
+  ],
+  [
+    [
+      11,
+      10
+    ],
+    [
+      "Händeschütteln",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.1276969611644745
+  ],
+  [
+    [
+      12,
+      10
+    ],
+    [
+      "Sprechen Küssen",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.12025279551744461
+  ],
+  [
+    [
+      13,
+      10
+    ],
+    [
+      "Influenza-Viren überleben auch auf Gegenständen wie zum Beispiel Türklinken.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.6834899187088013
+  ],
+  [
+    [
+      14,
+      10
+    ],
+    [
+      "Deshalb kann man sich mit den Viren auch dann anstecken, wenn man solche Gegenstände berührt.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.6638951897621155
+  ],
+  [
+    [
+      15,
+      10
+    ],
+    [
+      "Ein Virus verursacht die Grippe.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.8469488620758057
+  ],
+  [
+    [
+      16,
+      10
+    ],
+    [
+      "Das Virus heißt: Influenza-Virus.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.7132691144943237
+  ],
+  [
+    [
+      17,
+      10
+    ],
+    [
+      "Das Influenza-Virus ist ein Krankheitserreger.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.811165452003479
+  ],
+  [
+    [
+      18,
+      10
+    ],
+    [
+      "Manche Personen bekommen schneller eine Grippe als andere.",
+      "Menschen stecken sich mit Grippe meist durch Tröpfcheninfektion an."
+    ],
+    0.7942519187927246
+  ],
+  [
+    [
+      19,
+      17
+    ],
+    [
+      "Diese Personen haben nämlich häufig ein schwächeres Immunsystem.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.6386791467666626
+  ],
+  [
+    [
+      20,
+      17
+    ],
+    [
+      "Deshalb können sie schneller an Grippe erkranken:",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.3759731650352478
+  ],
+  [
+    [
+      21,
+      17
+    ],
+    [
+      "Schwangere Babys Personen mit Diabetes oder anderen Stoffwechselkrankheiten.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.5175176858901978
+  ],
+  [
+    [
+      22,
+      17
+    ],
+    [
+      "Zu Diabetes sagt man auch Zuckerkrankheit.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.45824602246284485
+  ],
+  [
+    [
+      23,
+      17
+    ],
+    [
+      "Personen mit Tumor-Erkrankung",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.4089084267616272
+  ],
+  [
+    [
+      24,
+      18
+    ],
+    [
+      "Personen mit Lungen-Erkrankung",
+      "Chronische Lungenerkrankungen wie Asthma , Lungenemphysem , chronische Bronchitis , Mukoviszidose Chronische Herzkrankheiten"
+    ],
+    0.7989480495452881
+  ],
+  [
+    [
+      25,
+      19
+    ],
+    [
+      "Personen mit HIV-Erkrankung",
+      "HIV-Infektion"
+    ],
+    0.8741265535354614
+  ],
+  [
+    [
+      26,
+      20
+    ],
+    [
+      "Personen mit Herz-Erkrankung",
+      "Unterdrückung des Immunsystems im Zuge einer medizinischen Behandlung Unterernährung oder starkes Übergewicht"
+    ],
+    0.267815500497818
+  ],
+  [
+    [
+      27,
+      20
+    ],
+    [
+      "Personen mit Unterernährung.",
+      "Unterdrückung des Immunsystems im Zuge einer medizinischen Behandlung Unterernährung oder starkes Übergewicht"
+    ],
+    0.6456899642944336
+  ],
+  [
+    [
+      28,
+      20
+    ],
+    [
+      "Personen über 65 Jahren",
+      "Unterdrückung des Immunsystems im Zuge einer medizinischen Behandlung Unterernährung oder starkes Übergewicht"
+    ],
+    0.22907978296279907
+  ],
+  [
+    [
+      29,
+      20
+    ],
+    [
+      "Auch bestimmte Medikamente können das Immunsystem unterdrücken.",
+      "Unterdrückung des Immunsystems im Zuge einer medizinischen Behandlung Unterernährung oder starkes Übergewicht"
+    ],
+    0.6669423580169678
+  ],
+  [
+    [
+      30,
+      21
+    ],
+    [
+      "Dann erhöht sich das Risiko für eine Grippe.",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.7498941421508789
+  ],
+  [
+    [
+      31,
+      21
+    ],
+    [
+      "Die Anzeichen einer Grippe sind sehr plötzlich .",
+      "Oft realisiert man gar nicht, dass man eine Grippe hat:"
+    ],
+    0.7551760077476501
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "Betroffene fühlen sich dann schnell sehr krank.",
+      "Der Infekt beginnt mit Frösteln und starkem Krankheitsgefühl."
+    ],
+    0.7539475560188293
+  ],
+  [
+    [
+      33,
+      27
+    ],
+    [
+      "Die Beschwerden sind:",
+      "Dazu kann kommen:"
+    ],
+    0.38517898321151733
+  ],
+  [
+    [
+      34,
+      27
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen hohes Fieber",
+      "Dazu kann kommen:"
+    ],
+    0.15241903066635132
+  ],
+  [
+    [
+      35,
+      27
+    ],
+    [
+      "Sie denken:",
+      "Dazu kann kommen:"
+    ],
+    0.5990434885025024
+  ],
+  [
+    [
+      36,
+      27
+    ],
+    [
+      "Ich habe Anzeichen einer Grippe?",
+      "Dazu kann kommen:"
+    ],
+    0.27647876739501953
+  ],
+  [
+    [
+      37,
+      27
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Dazu kann kommen:"
+    ],
+    0.4873112738132477
+  ],
+  [
+    [
+      38,
+      27
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Dazu kann kommen:"
+    ],
+    0.3769266903400421
+  ],
+  [
+    [
+      39,
+      27
+    ],
+    [
+      "Eine Grippe dauert etwa eine Woche.",
+      "Dazu kann kommen:"
+    ],
+    0.25073862075805664
+  ],
+  [
+    [
+      40,
+      27
+    ],
+    [
+      "Danach geht es Ihnen langsam wieder besser.",
+      "Dazu kann kommen:"
+    ],
+    0.5759595632553101
+  ],
+  [
+    [
+      41,
+      29
+    ],
+    [
+      "Aber eine Grippe schwächt den Körper.",
+      "Aber die Grippe macht uns auch anfälliger gegenüber Bakterien."
+    ],
+    0.7706094980239868
+  ],
+  [
+    [
+      42,
+      32
+    ],
+    [
+      "Deshalb können weitere Erkrankungen hinzukommen wie zum Beispiel: Lungen-Entzündung und schwerer Husten Ohren-Entzündung und Ohrenschmerzen Herzmuskel-Entzündung mit Atemnot",
+      "Bei diesen bakteriellen Erkrankungen kann es sich unter anderem um Lungen- , Ohren- oder Herzmuskelentzündungen handeln."
+    ],
+    0.8799238801002502
+  ],
+  [
+    [
+      43,
+      34
+    ],
+    [
+      "Diese Folge-Erkrankungen können die Grippe gefährlich machen.",
+      "Harmlose Erkältungskrankheiten, oft als \"grippaler Infekt\" bezeichnet, können ähnliche Symptome wie eine Grippe verursachen: Husten, eine erhöhte Körpertemperatur oder Kopfschmerzen können zum Beispiel auch hier auftreten."
+    ],
+    0.7418610453605652
+  ],
+  [
+    [
+      44,
+      38
+    ],
+    [
+      "Deshalb sollten Sie bei Grippe immer zum Arzt gehen.",
+      "Er wird selbstverständlich auch besonderes dann an eine mögliche Grippe denken, wenn er weiß, dass in der Region aktuell eine Influenza-Epidemie vorliegt."
+    ],
+    0.6153576970100403
+  ],
+  [
+    [
+      45,
+      38
+    ],
+    [
+      "Sprechen Sie mit einem Arzt.",
+      "Er wird selbstverständlich auch besonderes dann an eine mögliche Grippe denken, wenn er weiß, dass in der Region aktuell eine Influenza-Epidemie vorliegt."
+    ],
+    0.3536767065525055
+  ],
+  [
+    [
+      46,
+      38
+    ],
+    [
+      "Der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Er wird selbstverständlich auch besonderes dann an eine mögliche Grippe denken, wenn er weiß, dass in der Region aktuell eine Influenza-Epidemie vorliegt."
+    ],
+    0.31280389428138733
+  ],
+  [
+    [
+      47,
+      38
+    ],
+    [
+      "Vielleicht verschreibt er Ihnen spezielle Medikamente gegen die Grippe.",
+      "Er wird selbstverständlich auch besonderes dann an eine mögliche Grippe denken, wenn er weiß, dass in der Region aktuell eine Influenza-Epidemie vorliegt."
+    ],
+    0.7473117113113403
+  ],
+  [
+    [
+      48,
+      45
+    ],
+    [
+      "Bei Grippe helfen vor allem: viel Ruhe viel trinken Achtung:",
+      "Körperliche Schonung und Bettruhe sind wichtig, damit die Grippe schnell ausheilt."
+    ],
+    0.85595703125
+  ],
+  [
+    [
+      49,
+      46
+    ],
+    [
+      "Manche Menschen mit Herzkrankheiten oder Nierenkrankheiten dürfen nur eine bestimmte Menge trinken.",
+      "Die übrigen Maßnahmen richten sich nach den vorherrschenden Symptomen:"
+    ],
+    0.3773942291736603
+  ],
+  [
+    [
+      50,
+      46
+    ],
+    [
+      "Diese Menschen sollten deshalb vorher mit ihrem Arzt sprechen.",
+      "Die übrigen Maßnahmen richten sich nach den vorherrschenden Symptomen:"
+    ],
+    0.525265097618103
+  ],
+  [
+    [
+      51,
+      47
+    ],
+    [
+      "Sie haben Husten und die Nase läuft?",
+      "Inhalieren kann zum Beispiel bei Husten und einer laufenden Nase sinnvoll sein."
+    ],
+    0.6958093643188477
+  ],
+  [
+    [
+      52,
+      47
+    ],
+    [
+      "Dann kann Inhalieren helfen.",
+      "Inhalieren kann zum Beispiel bei Husten und einer laufenden Nase sinnvoll sein."
+    ],
+    0.8881418704986572
+  ],
+  [
+    [
+      53,
+      48
+    ],
+    [
+      "Sie haben starke Schmerzen?",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.4855816960334778
+  ],
+  [
+    [
+      54,
+      48
+    ],
+    [
+      "Dann können Medikamente helfen.",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.5984401106834412
+  ],
+  [
+    [
+      55,
+      62
+    ],
+    [
+      "Sie möchten eine Grippe vermeiden?",
+      "Es existieren wirksame Impfstoffe gegen die Grippe."
+    ],
+    0.747370719909668
+  ],
+  [
+    [
+      56,
+      62
+    ],
+    [
+      "Dann waschen Sie sich regelmäßig die Hände .",
+      "Es existieren wirksame Impfstoffe gegen die Grippe."
+    ],
+    0.35689324140548706
+  ],
+  [
+    [
+      57,
+      62
+    ],
+    [
+      "Benutzen Sie zum Abtrocknen saubere Handtücher oder Papierhandtücher.",
+      "Es existieren wirksame Impfstoffe gegen die Grippe."
+    ],
+    0.28858625888824463
+  ],
+  [
+    [
+      58,
+      62
+    ],
+    [
+      "Gegen Grippe gibt es auch eine Impfung.",
+      "Es existieren wirksame Impfstoffe gegen die Grippe."
+    ],
+    0.9513335227966309
+  ],
+  [
+    [
+      59,
+      62
+    ],
+    [
+      "Das Influenza-Virus verändert sich dauernd.",
+      "Es existieren wirksame Impfstoffe gegen die Grippe."
+    ],
+    0.6509351134300232
+  ],
+  [
+    [
+      60,
+      64
+    ],
+    [
+      "Deshalb muss eine Impfung gegen Grippe jedes Jahr erfolgen.",
+      "Deshalb und weil die Wirksamkeit der Impfung nicht lange anhält, ist jährlich eine neue Impfung notwendig."
+    ],
+    0.8097352981567383
+  ],
+  [
+    [
+      61,
+      65
+    ],
+    [
+      "Manche Menschen sollten sich auf jeden Fall gegen Grippe impfen lassen:",
+      "Die ständige Impfkommission (STIKO) empfiehlt eine Impfung gegen Influenza allen Menschen ab 60 Jahren sowie bestimmten Risikogruppen."
+    ],
+    0.7425310611724854
+  ],
+  [
+    [
+      62,
+      66
+    ],
+    [
+      "Menschen ab 60 Jahre Diabetiker.",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.6247797012329102
+  ],
+  [
+    [
+      63,
+      66
+    ],
+    [
+      "Das sind Menschen mit der Zuckerkrankheit.",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.6287961602210999
+  ],
+  [
+    [
+      64,
+      66
+    ],
+    [
+      "Personen mit Immunschwäche",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.6793637275695801
+  ],
+  [
+    [
+      65,
+      66
+    ],
+    [
+      "Personen mit chronischer Lebererkrankung",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.7199178338050842
+  ],
+  [
+    [
+      66,
+      66
+    ],
+    [
+      "Personen mit chronischer Nierenerkrankung",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.760033130645752
+  ],
+  [
+    [
+      67,
+      66
+    ],
+    [
+      "Personen mit Herzkrankheiten",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.6359531283378601
+  ],
+  [
+    [
+      68,
+      66
+    ],
+    [
+      "Personen mit Atemwegserkrankungen wie zum Beispiel",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.8474876880645752
+  ],
+  [
+    [
+      69,
+      66
+    ],
+    [
+      "Asthma",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.5948589444160461
+  ],
+  [
+    [
+      70,
+      70
+    ],
+    [
+      "Sie wollen noch mehr über Grippe lesen?",
+      "Wenn Sie wissen möchten, ob eine Impfung gegen Influenza auch für Sie sinnvoll ist, beraten Sie sich mit Ihrem Hausarzt."
+    ],
+    0.6363251805305481
+  ],
+  [
+    [
+      71,
+      70
+    ],
+    [
+      "Mehr Informationen über Grippe finden Sie hier .",
+      "Wenn Sie wissen möchten, ob eine Impfung gegen Influenza auch für Sie sinnvoll ist, beraten Sie sich mit Ihrem Hausarzt."
+    ],
+    0.6412302255630493
+  ],
+  [
+    [
+      72,
+      74
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die Hände richtig waschen – unser Video zeigt, wie das geht:"
+    ],
+    0.2621118128299713
+  ],
+  [
+    [
+      73,
+      75
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Professor Dr. med."
+    ],
+    0.1314629167318344
+  ]
+]

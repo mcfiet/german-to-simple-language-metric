@@ -1,0 +1,1344 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie sind von einem anderen Ort in Deutschland nach Köln gezogen?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.576136589050293
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Sie haben ein Fahrzeug von außerhalb gekauft?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.44530704617500305
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Und Sie wollen Ihr Fahrzeug jetzt in Köln zulassen?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.5462658405303955
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Das schwere Wort dafür ist: Standort-Wechsel .",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.3228764235973358
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das bedeutet: Ihr Fahrzeug war bis jetzt an einem anderen Ort in Deutschland zugelassen.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.6762348413467407
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Jetzt lassen Sie Ihr Fahrzeug nach Köln umschreiben.",
+      "Dann möchten Sie einen sogenannten Standortwechsel durchführen."
+    ],
+    0.4714762270450592
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Sie können das Fahrzeug dann zulassen auf den bisherigen Halter oder die bisherige Halterin einen neuen Halter oder eine neue Halterin Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Dabei kann das Fahrzeug entweder auf die bisherige Halterin oder den bisherigen Halter als auch auf eine neue Halterin oder einen neuen Halter zugelassen werden."
+    ],
+    0.8569002747535706
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Auf dieser Seite erklären wir, wie Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.5402554869651794
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Wenn Sie von außerhalb nach Köln umziehen , lesen Sie bitte auch die Infos zum \"Umzug und neu in Köln\".",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6527994871139526
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Was brauche ich für das Umschreiben?",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.26230794191360474
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Wenn Sie ein Fahrzeug nach Köln umschreiben wollen, dann müssen Sie uns diese Papiere zeigen: Zulassungs-Bescheinigung Teil 1 und Teil 2",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6154046058654785
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Wenn Sie ein Fahrzeug kaufen, dann bekommen Sie die Zulassungs-Bescheinigung Teil 2. Früher hieß das: Fahrzeug-Brief .",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.5721897482872009
+  ],
+  [
+    [
+      12,
+      4
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 2 ist ein Nachweis für den Besitz .",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.5016051530838013
+  ],
+  [
+    [
+      13,
+      4
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.3678671419620514
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden , dann bekommen Sie die Zulassungs-Bescheinigung Teil 1 .",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.5853607654571533
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Früher hieß das: Fahrzeug-Schein.",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.31771188974380493
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 1 ist ein Nachweis das Anmelden.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.5487378239631653
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Damit zeigen Sie:",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.26810264587402344
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Mein Fahrzeug ist beim Amt gemeldet.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.2739277184009552
+  ],
+  [
+    [
+      19,
+      6
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben wollen, dann zeigen Sie uns Ihre Zulassungs-Bescheinigung Teil 1 .",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.44197338819503784
+  ],
+  [
+    [
+      20,
+      6
+    ],
+    [
+      "Oder Ihren Fahrzeug-Schein .",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.27712681889533997
+  ],
+  [
+    [
+      21,
+      6
+    ],
+    [
+      "Sie müssen uns auch Ihre Zulassungs-Bescheinigung Teil 2 oder Ihren Fahrzeug-Brief zeigen: wenn sich der Halter oder die Halterin ändert oder wenn sich das Kenn-Zeichen ändert.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.5822579860687256
+  ],
+  [
+    [
+      22,
+      6
+    ],
+    [
+      "Personal-Ausweis oder Pass vom Halter oder der Halterin",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.4161984324455261
+  ],
+  [
+    [
+      23,
+      6
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.4757082462310791
+  ],
+  [
+    [
+      24,
+      6
+    ],
+    [
+      "Die Person muss uns Ihren Personal-Ausweis oder Pass zeigen.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.42411214113235474
+  ],
+  [
+    [
+      25,
+      6
+    ],
+    [
+      "Versicherungs-Bestätigung",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.253446102142334
+  ],
+  [
+    [
+      26,
+      6
+    ],
+    [
+      "In Deutschland muss jedes zugelassene Fahrzeug versichert sein.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.3654441237449646
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Das heißt: Sie brauchen eine Kfz-Versicherung für Ihr Fahrzeug.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.34079402685165405
+  ],
+  [
+    [
+      28,
+      6
+    ],
+    [
+      "Sie müssen uns einen Nachweis von der Versicherung zeigen.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.43400102853775024
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Das schwere Wort dafür ist: elektronische Versicherungs-Bestätigungs-Nummer",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.34488028287887573
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Die Abkürzung dafür ist: eVB-Nummer.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.4191434681415558
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Die eVB-Nummer bekommen Sie von Ihrer Kfz-Versicherung .",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.3161567151546478
+  ],
+  [
+    [
+      32,
+      6
+    ],
+    [
+      "Nachweis über die Haupt-Untersuchung (TÜV)",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.3820524215698242
+  ],
+  [
+    [
+      33,
+      6
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie die Haupt-Untersuchung bestanden haben.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.44532495737075806
+  ],
+  [
+    [
+      34,
+      6
+    ],
+    [
+      "Ein anderes Wort dafür ist: TÜV .",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.36697545647621155
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Dazu können Sie uns diese Papiere zeigen:",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Download und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.390270471572876
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Kennzeichen-Schilder Wenn wir Ihr altes Kennzeichen tauschen sollen gegen ein neues Kölner Kennzeichen , dann müssen Sie Ihre Kennzeichen-Schilder mitbringen!",
+      "Kennzeichenschilder bei noch zugelassenen Fahrzeugen, wenn das bisherige Kennzeichen durch ein Kölner Kennzeichen ersetzt werden soll."
+    ],
+    0.5926250219345093
+  ],
+  [
+    [
+      37,
+      13
+    ],
+    [
+      "Sie können auch Ihr altes Kennzeichen behalten , wenn Sie innerhalb von Deutschland umziehen.",
+      "Kennzeichenschilder bei noch zugelassenen Fahrzeugen, wenn das bisherige Kennzeichen durch ein Kölner Kennzeichen ersetzt werden soll."
+    ],
+    0.49238407611846924
+  ],
+  [
+    [
+      38,
+      13
+    ],
+    [
+      "Dann müssen Sie Ihr Kennzeichen nicht tauschen .",
+      "Kennzeichenschilder bei noch zugelassenen Fahrzeugen, wenn das bisherige Kennzeichen durch ein Kölner Kennzeichen ersetzt werden soll."
+    ],
+    0.5061756372451782
+  ],
+  [
+    [
+      39,
+      13
+    ],
+    [
+      "Das Ändern vom Kennzeichen ist freiwillig .",
+      "Kennzeichenschilder bei noch zugelassenen Fahrzeugen, wenn das bisherige Kennzeichen durch ein Kölner Kennzeichen ersetzt werden soll."
+    ],
+    0.44822391867637634
+  ],
+  [
+    [
+      40,
+      20
+    ],
+    [
+      "SEPA-Mandat für die Kfz-Steuer",
+      "SEPA-Lastschriftmandat für die Kraftfahrzeugsteuer"
+    ],
+    0.7238635420799255
+  ],
+  [
+    [
+      41,
+      21
+    ],
+    [
+      "Wenn Sie in Deutschland ein Fahrzeug zulassen, dann müssen Sie Steuern dafür bezahlen.",
+      "Seit dem 30. Januar 2014 muss bei der Zulassung eines Fahrzeuges ein SEPA -Lastschriftmandat zum Einzug der Kraftfahrzeugsteuer von einem Konto erteilt werden."
+    ],
+    0.36325156688690186
+  ],
+  [
+    [
+      42,
+      21
+    ],
+    [
+      "Das schwere Wort dafür ist: Kraft-Fahrzeug-Steuer.",
+      "Seit dem 30. Januar 2014 muss bei der Zulassung eines Fahrzeuges ein SEPA -Lastschriftmandat zum Einzug der Kraftfahrzeugsteuer von einem Konto erteilt werden."
+    ],
+    0.2754073143005371
+  ],
+  [
+    [
+      43,
+      21
+    ],
+    [
+      "Die Abkürzung ist: Kfz-Steuer.",
+      "Seit dem 30. Januar 2014 muss bei der Zulassung eines Fahrzeuges ein SEPA -Lastschriftmandat zum Einzug der Kraftfahrzeugsteuer von einem Konto erteilt werden."
+    ],
+    0.19407926499843597
+  ],
+  [
+    [
+      44,
+      21
+    ],
+    [
+      "Das Amt bucht die Steuer automatisch von Ihrem Konto ab.",
+      "Seit dem 30. Januar 2014 muss bei der Zulassung eines Fahrzeuges ein SEPA -Lastschriftmandat zum Einzug der Kraftfahrzeugsteuer von einem Konto erteilt werden."
+    ],
+    0.4298538565635681
+  ],
+  [
+    [
+      45,
+      21
+    ],
+    [
+      "Sie müssen das Abbuchen von Ihrem Konto vorher erlauben.",
+      "Seit dem 30. Januar 2014 muss bei der Zulassung eines Fahrzeuges ein SEPA -Lastschriftmandat zum Einzug der Kraftfahrzeugsteuer von einem Konto erteilt werden."
+    ],
+    0.36446964740753174
+  ],
+  [
+    [
+      46,
+      22
+    ],
+    [
+      "Die Erlaubnis dafür heißt: SEPA-Mandat.",
+      "Ohne dieses Mandat darf die Zulassungsbehörde einen Antrag auf Zulassung eines Fahrzeuges nicht bearbeiten."
+    ],
+    0.35400670766830444
+  ],
+  [
+    [
+      47,
+      22
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen, dann müssen Sie uns diese Erlaubnis geben.",
+      "Ohne dieses Mandat darf die Zulassungsbehörde einen Antrag auf Zulassung eines Fahrzeuges nicht bearbeiten."
+    ],
+    0.4304041266441345
+  ],
+  [
+    [
+      48,
+      22
+    ],
+    [
+      "Damit das Amt die Steuer von Ihrem Konto abbuchen kann.",
+      "Ohne dieses Mandat darf die Zulassungsbehörde einen Antrag auf Zulassung eines Fahrzeuges nicht bearbeiten."
+    ],
+    0.4534807503223419
+  ],
+  [
+    [
+      49,
+      22
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Ohne dieses Mandat darf die Zulassungsbehörde einen Antrag auf Zulassung eines Fahrzeuges nicht bearbeiten."
+    ],
+    0.54082190990448
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "Die Erlaubnis brauchen wir auch: Wenn wir Ihre Daten schon zu einem anderen Fahrzeug haben.",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.6308794617652893
+  ],
+  [
+    [
+      51,
+      24
+    ],
+    [
+      "Zum Beispiel: Weil Sie 2 Autos haben.",
+      "Das SEPA -Mandat muss zwingend mit 2 Unterschriften versehen werden."
+    ],
+    0.3405577838420868
+  ],
+  [
+    [
+      52,
+      24
+    ],
+    [
+      "Sie können das Mandat am Computer ausfüllen.",
+      "Das SEPA -Mandat muss zwingend mit 2 Unterschriften versehen werden."
+    ],
+    0.3993059992790222
+  ],
+  [
+    [
+      53,
+      25
+    ],
+    [
+      "Dann müssen Sie es ausdrucken.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.3381395936012268
+  ],
+  [
+    [
+      54,
+      25
+    ],
+    [
+      "Und am Ende müssen Sie es unterschreiben.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.3670490086078644
+  ],
+  [
+    [
+      55,
+      25
+    ],
+    [
+      "Wichtig: Auf dem Mandat müssen 2 Unterschriften sein: 1. Die Unterschrift vom Konto-Inhaber oder der Konto-Inhaberin.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.5883707404136658
+  ],
+  [
+    [
+      56,
+      25
+    ],
+    [
+      "2. Die Unterschrift vom Fahrzeug-Halter oder der Fahrzeug-Halterin.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.6069325804710388
+  ],
+  [
+    [
+      57,
+      25
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.5944305062294006
+  ],
+  [
+    [
+      58,
+      25
+    ],
+    [
+      "Manchmal bezahlt eine Person die Kfz-Steuer.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.46482357382774353
+  ],
+  [
+    [
+      59,
+      25
+    ],
+    [
+      "Obwohl eine andere Person das Auto nutzt.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.3943019509315491
+  ],
+  [
+    [
+      60,
+      25
+    ],
+    [
+      "Deshalb brauchen wir immer beide Unterschriften .",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.37611424922943115
+  ],
+  [
+    [
+      61,
+      25
+    ],
+    [
+      "Achtung: Wenn Sie kein Konto haben: Dann müssen Sie vorher zum Haupt-Zoll-Amt .",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.32656219601631165
+  ],
+  [
+    [
+      62,
+      25
+    ],
+    [
+      "Das Haupt-Zoll-Amt ist für die Kfz-Steuer zuständig.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.4949535131454468
+  ],
+  [
+    [
+      63,
+      25
+    ],
+    [
+      "Wichtig: Sie müssen zum Haupt-Zoll-Amt gehen, bevor Sie Ihr Fahrzeug bei uns umschreiben lassen.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.31236201524734497
+  ],
+  [
+    [
+      64,
+      25
+    ],
+    [
+      "Das ist die Adresse :",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.4976215362548828
+  ],
+  [
+    [
+      65,
+      27
+    ],
+    [
+      "Haupt-Zoll-Amt Köln",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.2986418604850769
+  ],
+  [
+    [
+      66,
+      27
+    ],
+    [
+      "Stolberger Straße 200 50933 Köln Lesen Sie bitte die weiteren Informationen zum SEPA-Mandat.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.594528079032898
+  ],
+  [
+    [
+      67,
+      30
+    ],
+    [
+      "Fragen Sie jemanden um Hilfe, wenn Sie etwas nicht verstehen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5245766043663025
+  ],
+  [
+    [
+      68,
+      30
+    ],
+    [
+      "Wie kann ich ein Fahrzeug umschreiben?",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.37453213334083557
+  ],
+  [
+    [
+      69,
+      30
+    ],
+    [
+      "1. Sie können das Umschreiben online vorbereiten .",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.4650784432888031
+  ],
+  [
+    [
+      70,
+      30
+    ],
+    [
+      "Das heißt: Sie können es am Computer vorbereiten.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.45303741097450256
+  ],
+  [
+    [
+      71,
+      30
+    ],
+    [
+      "2. Sie können dann online einen Termin ausmachen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.46392735838890076
+  ],
+  [
+    [
+      72,
+      30
+    ],
+    [
+      "Das heißt: Sie können am Computer einen Termin machen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.430998295545578
+  ],
+  [
+    [
+      73,
+      30
+    ],
+    [
+      "3. Sie müssen dann persönlich zur Zulassungs-Stelle kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5686766505241394
+  ],
+  [
+    [
+      74,
+      30
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3086012601852417
+  ],
+  [
+    [
+      75,
+      30
+    ],
+    [
+      "Was ist, wenn ich das Fahrzeug als Firmen-Fahrzeug nutze?",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.32434868812561035
+  ],
+  [
+    [
+      76,
+      30
+    ],
+    [
+      "Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie zur Zulassungs-Stelle in Köln kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.4788043200969696
+  ],
+  [
+    [
+      77,
+      30
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln Wichtig : Wenn Sie das Fahrzeug als Firmen-Fahrzeug benutzen, dann müssen Sie uns zusätzlich diese Papiere zeigen:",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.48076745867729187
+  ],
+  [
+    [
+      78,
+      30
+    ],
+    [
+      "Kopie aus dem Handels-Register Gewerbe-Anmeldung Was ist, wenn ich unter 18 Jahre bin?",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3407402038574219
+  ],
+  [
+    [
+      79,
+      30
+    ],
+    [
+      "Sie können ein Fahrzeug auf eine Person unter 18 Jahren zulassen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.548410952091217
+  ],
+  [
+    [
+      80,
+      30
+    ],
+    [
+      "Das ist aber nur in manchen Fällen möglich.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.42593660950660706
+  ],
+  [
+    [
+      81,
+      30
+    ],
+    [
+      "Zum Beispiel wenn die Person unter 18 Jahren: Eine Fahr-Erlaubnis für das Fahrzeug hat.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.41165536642074585
+  ],
+  [
+    [
+      82,
+      30
+    ],
+    [
+      "Oder die Person eine schwere Behinderung hat.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.42401859164237976
+  ],
+  [
+    [
+      83,
+      30
+    ],
+    [
+      "Bitte fragen Sie vorher: Ob Sie das Fahrzeug zulassen können auf die Person unter 18 Jahren.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5405852198600769
+  ],
+  [
+    [
+      84,
+      30
+    ],
+    [
+      "Wichtig: Wenn Sie ein Fahrzeug zulassen wollen auf eine Person unter 18 Jahren, müssen Sie eine Einverständnis-Erklärung zeigen von beiden Eltern.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5709503889083862
+  ],
+  [
+    [
+      85,
+      30
+    ],
+    [
+      "Also: Eine Erlaubnis von der Mutter und dem Vater.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3991909325122833
+  ],
+  [
+    [
+      86,
+      30
+    ],
+    [
+      "Beide Eltern müssen die Erklärung unterschreiben.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5056089162826538
+  ],
+  [
+    [
+      87,
+      30
+    ],
+    [
+      "Und beide Eltern müssen uns ihre Ausweise zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5021070241928101
+  ],
+  [
+    [
+      88,
+      30
+    ],
+    [
+      "Ausnahme: Wenn nur 1 Person das Sorge-Recht hat.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3889135718345642
+  ],
+  [
+    [
+      89,
+      30
+    ],
+    [
+      "Dann muss nur diese Person ihren Ausweis zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5043706893920898
+  ],
+  [
+    [
+      90,
+      30
+    ],
+    [
+      "Das heißt: Wenn nur die Mutter das Sorge-Recht hat.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3568441569805145
+  ],
+  [
+    [
+      91,
+      30
+    ],
+    [
+      "Oder wenn nur der Vater das Sorge-Recht hat.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3918129503726959
+  ],
+  [
+    [
+      92,
+      30
+    ],
+    [
+      "Oder wenn sich eine andere Person um das Kind kümmert.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.4973720610141754
+  ],
+  [
+    [
+      93,
+      30
+    ],
+    [
+      "Dann müssen Sie uns nur 1 Ausweis zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5517683029174805
+  ],
+  [
+    [
+      94,
+      30
+    ],
+    [
+      "Und einen Nachweis über das Sorge-Recht.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.33529233932495117
+  ],
+  [
+    [
+      95,
+      30
+    ],
+    [
+      "Muss ich persönlich zur Zulassungs-Stelle gehen?",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.42976829409599304
+  ],
+  [
+    [
+      96,
+      30
+    ],
+    [
+      "Ja.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.2243930846452713
+  ],
+  [
+    [
+      97,
+      30
+    ],
+    [
+      "Sie müssen persönlich zur Zulassungs-Stelle kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5999274253845215
+  ],
+  [
+    [
+      98,
+      30
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6738548278808594
+  ],
+  [
+    [
+      99,
+      30
+    ],
+    [
+      "Die Person muss uns dann eine Vollmacht zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5948805212974548
+  ],
+  [
+    [
+      100,
+      30
+    ],
+    [
+      "Eine Vollmacht ist ein Papier, auf dem steht:",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3384215831756592
+  ],
+  [
+    [
+      101,
+      30
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.4863383173942566
+  ],
+  [
+    [
+      102,
+      32
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7901493310928345
+  ],
+  [
+    [
+      103,
+      32
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6334869861602783
+  ],
+  [
+    [
+      104,
+      32
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6237106323242188
+  ],
+  [
+    [
+      105,
+      32
+    ],
+    [
+      "Beim Zulassen muss die Person uns die Vollmacht zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4194982349872589
+  ],
+  [
+    [
+      106,
+      32
+    ],
+    [
+      "Und die Person muss uns ihren Ausweis oder Pass zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.3823610246181488
+  ],
+  [
+    [
+      107,
+      32
+    ],
+    [
+      "Zusätzlich muss die Person uns den Personalausweis oder Pass des Halters oder der Halterin zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.34920600056648254
+  ],
+  [
+    [
+      108,
+      32
+    ],
+    [
+      "Wie viel kostet das Umschreiben?",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.3803846836090088
+  ],
+  [
+    [
+      109,
+      37
+    ],
+    [
+      "Das Umschreiben kostet 27,50 Euro, wenn sich der Halter oder die Halterin nicht ändert.",
+      "Gebühren 27,50 Euro ohne Wechsel der Halterin beziehungsweise des Halters 29,60 Euro mit Wechsel der Halterin beziehungsweise des Halters"
+    ],
+    0.5866362452507019
+  ],
+  [
+    [
+      110,
+      37
+    ],
+    [
+      "Das Umschreiben kostet 29,60 Euro, wenn sich der Halter oder die Halterin ändert.",
+      "Gebühren 27,50 Euro ohne Wechsel der Halterin beziehungsweise des Halters 29,60 Euro mit Wechsel der Halterin beziehungsweise des Halters"
+    ],
+    0.5743069052696228
+  ],
+  [
+    [
+      111,
+      39
+    ],
+    [
+      "Achtung:",
+      "Wunschkennzeichen kosten 10,20 Euro."
+    ],
+    0.23840463161468506
+  ],
+  [
+    [
+      112,
+      40
+    ],
+    [
+      "Manchmal müssen Sie weitere Gebühren bezahlen!",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.5374020338058472
+  ],
+  [
+    [
+      113,
+      42
+    ],
+    [
+      "Zum Beispiel: Für Ihre Kennzeichen.",
+      "Der Austausch der Zulassungsbescheinigung Teil II gegen zum Beispiel eine vollgeschriebene Zulassungsbescheinigung Teil II, in der kein weiterer Haltereintrag möglich ist, beträgt 3,60 Euro."
+    ],
+    0.3201729655265808
+  ],
+  [
+    [
+      114,
+      43
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.6271154284477234
+  ],
+  [
+    [
+      115,
+      43
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.5599257349967957
+  ],
+  [
+    [
+      116,
+      43
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.6766271591186523
+  ],
+  [
+    [
+      117,
+      43
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.3107732832431793
+  ],
+  [
+    [
+      118,
+      43
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.5120020508766174
+  ],
+  [
+    [
+      119,
+      43
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.5346848368644714
+  ],
+  [
+    [
+      120,
+      44
+    ],
+    [
+      "Weitere Informationen *",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.2974558472633362
+  ],
+  [
+    [
+      121,
+      46
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Im Kundenzentrum Innenstadt halten wir für Sie vorgeprägte Kennzeichen bereit."
+    ],
+    0.2929977774620056
+  ]
+]

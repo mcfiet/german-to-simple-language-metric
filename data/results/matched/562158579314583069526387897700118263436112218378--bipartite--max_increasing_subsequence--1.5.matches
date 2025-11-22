@@ -1,0 +1,497 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Unterkühlung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.9550407528877258
+  ],
+  [
+    [
+      1,
+      9
+    ],
+    [
+      "Kälteschäden entstehen durch eine zu lange Zeit in der Kälte.",
+      "Aber auch durch eine langsame Abkühlung des Körpers kann es zu Kälteschäden kommen, ohne dass eine solche Kristallbildung auftritt."
+    ],
+    0.6544815897941589
+  ],
+  [
+    [
+      2,
+      11
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen.",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      3,
+      11
+    ],
+    [
+      "Die normale Körpertemperatur ist stark gesunken.",
+      "Unterkühlung"
+    ],
+    0.6371846199035645
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Ein anderer Kälteschaden ist die Erfrierung.",
+      "Unterkühlung"
+    ],
+    0.7752037644386292
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Sie möchten mehr Informationen zum Thema Erfrierungen?",
+      "Unterkühlung"
+    ],
+    0.7247783541679382
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Bei einer Unterkühlung ist die Körpertemperatur stark gesunken.",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Er versucht die normale Körpertemperatur im Körperkern aufrechtzuerhalten.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.8098016977310181
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Zusätzlich erhöht der Körper die Wärme-Bildung durch Muskelarbeit.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.677414059638977
+  ],
+  [
+    [
+      14,
+      26
+    ],
+    [
+      "Der Körper zittert.",
+      "Der Wind bläst die schützende warme Luftschicht um den Körper beziehungsweise aus der Kleidung weg."
+    ],
+    0.8177325129508972
+  ],
+  [
+    [
+      15,
+      42
+    ],
+    [
+      "Durch das Zittern arbeiten die Muskeln und Wärme entsteht.",
+      "Mehr Wärme erzeugt der Organismus, indem er die Muskeln arbeiten lässt – wir zittern ."
+    ],
+    0.7198640704154968
+  ],
+  [
+    [
+      17,
+      44
+    ],
+    [
+      "Die Stufen heißen: Stadien.",
+      "Die Blutgefäße in den Extremitäten – also in Armen und Beinen – verengen sich, wodurch dort die Durchblutung in den Extremitäten abnimmt ."
+    ],
+    0.5692105889320374
+  ],
+  [
+    [
+      19,
+      56
+    ],
+    [
+      "Stadium 1: Die Körpertemperatur der betroffenen Person liegt bei 32 bis 35 Grad.",
+      "Unterkühlung Stadium 2"
+    ],
+    0.8267220854759216
+  ],
+  [
+    [
+      24,
+      56
+    ],
+    [
+      "Stadium 2: Die Körpertemperatur liegt bei 28 bis 32 Grad.",
+      "Unterkühlung Stadium 2"
+    ],
+    0.8790615200996399
+  ],
+  [
+    [
+      28,
+      58
+    ],
+    [
+      "Ihre Muskeln sind steif.",
+      "Die Muskeln sind steif, das Bewußtsein ist verlangsamt."
+    ],
+    0.8187702298164368
+  ],
+  [
+    [
+      29,
+      60
+    ],
+    [
+      "Stadium 3 bis 5: Die Körpertemperatur liegt jetzt bei unter 28 Grad.",
+      "Unterkühlung Stadium 3 bis 5:"
+    ],
+    0.9274369478225708
+  ],
+  [
+    [
+      30,
+      61
+    ],
+    [
+      "Es besteht Lebensgefahr.",
+      "Es besteht Lebensgefahr."
+    ],
+    1.0
+  ],
+  [
+    [
+      32,
+      62
+    ],
+    [
+      "Ihr Puls ist nur sehr schwach.",
+      "Der Patient ist bewusstlos, der Puls lässt sich kaum ertasten."
+    ],
+    0.5705868601799011
+  ],
+  [
+    [
+      33,
+      63
+    ],
+    [
+      "Die Körpertemperatur fällt unter 24 Grad?",
+      "Bei einer Körpertemperatur von unter 24 Grad Celsius kommt es zum Atem- und Kreislaufstillstand, eine Wiederbelebung ist in Einzelfällen möglich."
+    ],
+    0.8575316071510315
+  ],
+  [
+    [
+      35,
+      63
+    ],
+    [
+      "In einigen Fällen ist eine Wiederbelebung noch möglich.",
+      "Bei einer Körpertemperatur von unter 24 Grad Celsius kommt es zum Atem- und Kreislaufstillstand, eine Wiederbelebung ist in Einzelfällen möglich."
+    ],
+    0.8088441491127014
+  ],
+  [
+    [
+      36,
+      63
+    ],
+    [
+      "Die Körpertemperatur fällt unter 13 Grad?",
+      "Bei einer Körpertemperatur von unter 24 Grad Celsius kommt es zum Atem- und Kreislaufstillstand, eine Wiederbelebung ist in Einzelfällen möglich."
+    ],
+    0.8151776790618896
+  ],
+  [
+    [
+      39,
+      66
+    ],
+    [
+      "Das Gehirn kann nämlich auch bei niedrigen Temperaturen überleben.",
+      "Der Grund: Vereinfacht gesagt kann das Gehirn bei niedrigen Temperaturen länger überleben, weil der Stoffwechsel bei der extremen Unterkühlung verlangsamt abläuft."
+    ],
+    0.8804153203964233
+  ],
+  [
+    [
+      40,
+      67
+    ],
+    [
+      "Versuchen Sie deshalb immer eine Wiederbelebung.",
+      "Experten warnen darum: Manche Betroffene wirken wie (schein-)tot, können aber mit einem minimalen Kreislauf – wie beim Winterschlaf der Tiere – immer noch am Leben sein."
+    ],
+    0.5942690372467041
+  ],
+  [
+    [
+      48,
+      67
+    ],
+    [
+      "Dadurch verliert der Körper sehr viel Wärme.",
+      "Experten warnen darum: Manche Betroffene wirken wie (schein-)tot, können aber mit einem minimalen Kreislauf – wie beim Winterschlaf der Tiere – immer noch am Leben sein."
+    ],
+    0.5752730965614319
+  ],
+  [
+    [
+      49,
+      67
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "Experten warnen darum: Manche Betroffene wirken wie (schein-)tot, können aber mit einem minimalen Kreislauf – wie beim Winterschlaf der Tiere – immer noch am Leben sein."
+    ],
+    0.5839564800262451
+  ],
+  [
+    [
+      74,
+      86
+    ],
+    [
+      "Nur Experten erkennen sicher:",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.6495635509490967
+  ],
+  [
+    [
+      76,
+      86
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.858626127243042
+  ],
+  [
+    [
+      77,
+      86
+    ],
+    [
+      "Die Nummer ist:",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.6333376169204712
+  ],
+  [
+    [
+      78,
+      86
+    ],
+    [
+      "112.",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.6543096899986267
+  ],
+  [
+    [
+      79,
+      86
+    ],
+    [
+      "Eine Person ist unterkühlt?",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.8245909810066223
+  ],
+  [
+    [
+      81,
+      92
+    ],
+    [
+      "Ziehen Sie ihr die nasse Kleidung aus.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.8310283422470093
+  ],
+  [
+    [
+      83,
+      92
+    ],
+    [
+      "Sie haben keine trockene Kleidung?",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.6709680557250977
+  ],
+  [
+    [
+      85,
+      93
+    ],
+    [
+      "Ziehen Sie ihr eine Mütze über den Kopf.",
+      "Packen Sie den Betroffenen in Decken ein, ziehen Sie ihm eine Mütze über den Kopf."
+    ],
+    0.9122313261032104
+  ],
+  [
+    [
+      89,
+      95
+    ],
+    [
+      "Dann schützen Sie die betroffene Person vor dem Wind.",
+      "Können Sie den Verletzten nicht ins Warme bringen, dann schützen Sie ihn vor Wind und dem kalten Untergrund (zum Beispiel durch eine Rettungsfolie oder Decke)."
+    ],
+    0.7780512571334839
+  ],
+  [
+    [
+      90,
+      95
+    ],
+    [
+      "Und schützen Sie die Person vor dem kalten Boden.",
+      "Können Sie den Verletzten nicht ins Warme bringen, dann schützen Sie ihn vor Wind und dem kalten Untergrund (zum Beispiel durch eine Rettungsfolie oder Decke)."
+    ],
+    0.7657919526100159
+  ],
+  [
+    [
+      91,
+      95
+    ],
+    [
+      "Legen Sie eine Rettungsfolie oder eine Decke unter die Person.",
+      "Können Sie den Verletzten nicht ins Warme bringen, dann schützen Sie ihn vor Wind und dem kalten Untergrund (zum Beispiel durch eine Rettungsfolie oder Decke)."
+    ],
+    0.6894418001174927
+  ],
+  [
+    [
+      92,
+      96
+    ],
+    [
+      "Die Person ist schläfrig oder verwirrt?",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.8069843649864197
+  ],
+  [
+    [
+      93,
+      96
+    ],
+    [
+      "Dann decken Sie die Person vorsichtig zu.",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.7649208307266235
+  ],
+  [
+    [
+      94,
+      96
+    ],
+    [
+      "Bewegen Sie sie möglichst wenig.",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.9017108678817749
+  ],
+  [
+    [
+      95,
+      96
+    ],
+    [
+      "Warten Sie, bis der Rettungsdienst kommt.",
+      "Ist der Patient schläfrig oder verwirrt, dann decken Sie ihn zu, bewegen ihn möglichst wenig und warten Sie auf den Rettungsdienst."
+    ],
+    0.6879530549049377
+  ],
+  [
+    [
+      96,
+      97
+    ],
+    [
+      "Die betroffene Person hat ihr Bewusstsein verloren und atmet nicht?",
+      "Hat der Betroffene das Bewusstsein verloren und atmet nicht, dann nehmen Sie eine Herzdruckmassage vor."
+    ],
+    0.7557108998298645
+  ],
+  [
+    [
+      97,
+      99
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.6496713757514954
+  ],
+  [
+    [
+      99,
+      99
+    ],
+    [
+      "Und die betroffene Person zittert nicht mehr?",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.6769687533378601
+  ],
+  [
+    [
+      100,
+      99
+    ],
+    [
+      "Dann sollten Sie die Person nicht aufwärmen.",
+      "Vorsicht: Ist der Patient kaum noch bei Bewusstsein und zittert nicht mehr, dann versuchen Sie nicht, ihn aufzuwärmen."
+    ],
+    0.7426757216453552
+  ],
+  [
+    [
+      101,
+      104
+    ],
+    [
+      "Wickeln Sie die Person in eine warme Decke.",
+      "Erfrierung Ist der Betroffene normal ansprechbar, zittert und hat vermutlich erfrorene Finger oder Fußzehen, dann sollten Sie ihn zuerst an einen warmen Ort bringen – zum Beispiel in eine Berghütte oder ins beheizte Auto."
+    ],
+    0.7354074120521545
+  ]
+]

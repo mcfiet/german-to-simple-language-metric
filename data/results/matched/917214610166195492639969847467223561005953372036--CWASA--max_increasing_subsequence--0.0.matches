@@ -1,0 +1,772 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen Ihr Kind betreuen lassen?",
+      "Sie möchten Ihr Kind in einer Kindertageseinrichtung betreuen lassen?"
+    ],
+    0.7351256012916565
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Zum Beispiel:",
+      "Sie möchten Ihr Kind in einer Kindertageseinrichtung betreuen lassen?"
+    ],
+    0.2036382257938385
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "In einem Kinder-Garten in Köln?",
+      "Sie möchten Ihr Kind in einer Kindertageseinrichtung betreuen lassen?"
+    ],
+    0.43304428458213806
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Oder in einer Kita in Köln?",
+      "Sie möchten Ihr Kind in einer Kindertageseinrichtung betreuen lassen?"
+    ],
+    0.4763754606246948
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Dann können Sie bei uns einen Platz für Ihr Kind vormerken .",
+      "Bereits unmittelbar nach der Geburt haben Sie die Möglichkeit, Ihr Kind für einen Platz bei uns vorzumerken."
+    ],
+    0.6490216851234436
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Wann kann ich einen Platz für mein Kind vormerken?",
+      "Bereits unmittelbar nach der Geburt haben Sie die Möglichkeit, Ihr Kind für einen Platz bei uns vorzumerken."
+    ],
+    0.4290216863155365
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Sie können sofort nach der Geburt von Ihrem Kind einen Platz im Kinder-Garten bei uns vormerken.",
+      "Bereits unmittelbar nach der Geburt haben Sie die Möglichkeit, Ihr Kind für einen Platz bei uns vorzumerken."
+    ],
+    0.678950846195221
+  ],
+  [
+    [
+      7,
+      9
+    ],
+    [
+      "Oder einen Platz in der Kita bei uns vormerken.",
+      "Sollte in der von Ihnen genannten Kindertageseinrichtung kein Platz zur Verfügung stehen, unterbreiten wir Ihnen ein anderes Platzangebot oder bieten einen Platz in der Kindertagespflege an."
+    ],
+    0.5724260210990906
+  ],
+  [
+    [
+      8,
+      10
+    ],
+    [
+      "Es gibt nur einen Platz in einer städtischen Tages-Einrichtung für Kinder im Alter von 1 bis 6 Jahren.",
+      "Einen Platz in einer städtischen Kindertageseinrichtung gibt es nur für in Köln gemeldete Kinder im Alter von 1 bis 6 Jahren."
+    ],
+    0.8962748050689697
+  ],
+  [
+    [
+      9,
+      10
+    ],
+    [
+      "für Kinder, die in Köln gemeldet sind.",
+      "Einen Platz in einer städtischen Kindertageseinrichtung gibt es nur für in Köln gemeldete Kinder im Alter von 1 bis 6 Jahren."
+    ],
+    0.4635848104953766
+  ],
+  [
+    [
+      10,
+      11
+    ],
+    [
+      "In Köln gemeldet heißt: Sie haben beim Amt in Köln gesagt, dass Sie mit Ihrem Kind in Köln wohnen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.6387651562690735
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Dabei muss Köln Ihr Erst-Wohn-Sitz sein.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.44620180130004883
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Erst-Wohn-Sitz heißt: Sie leben die meiste Zeit in Köln.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5399907231330872
+  ],
+  [
+    [
+      13,
+      11
+    ],
+    [
+      "Sie haben vielleicht eine 2. Wohnung in einer anderen Stadt.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5195271372795105
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Aber die meiste Zeit leben Sie mit dem Kind in Köln.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5862777233123779
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Köln ist dann Ihr Erst-Wohn-Sitz.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4750462770462036
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Nur wenn Köln Ihr Erst-Wohn-Sitz ist, bekommen Sie hier einen Betreuungs-Platz für Ihr Kind.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5791873931884766
+  ],
+  [
+    [
+      17,
+      11
+    ],
+    [
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    1.0
+  ],
+  [
+    [
+      18,
+      11
+    ],
+    [
+      "Aber Sie bekommen erst einen Betreuungs-Platz, wenn der Vater oder die Mutter oder ein Erziehungs-Berechtigter oder eine Erziehungs-Berechtigte mit Erst-Wohn-Sitz in Köln gemeldet ist.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5250208377838135
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Erziehungs-Berechtigt heißt:",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.15377993881702423
+  ],
+  [
+    [
+      20,
+      11
+    ],
+    [
+      "Ein Gericht hat erlaubt, dass sich eine Person um ein Kind kümmert.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.3647109270095825
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Diese Person kann der Vater oder die Mutter sein.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.3785657584667206
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Aber auch andere Personen können erziehungs-berechtigt sein.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.45634549856185913
+  ],
+  [
+    [
+      23,
+      11
+    ],
+    [
+      "Wie kann ich einen Platz für mein Kind vormerken?",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.42029502987861633
+  ],
+  [
+    [
+      24,
+      11
+    ],
+    [
+      "1. Sie brauchen das Formular: Vormerkung eines Kinder-Garten-Platzes .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.40263187885284424
+  ],
+  [
+    [
+      25,
+      11
+    ],
+    [
+      "Das Formular bekommen Sie in allen städtischen Tages-Einrichtungen für Kinder.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.45522478222846985
+  ],
+  [
+    [
+      26,
+      11
+    ],
+    [
+      "Zum Beispiel:",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.16486351191997528
+  ],
+  [
+    [
+      27,
+      11
+    ],
+    [
+      "In allen städtischen Kinder-Gärten.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.24549801647663116
+  ],
+  [
+    [
+      28,
+      11
+    ],
+    [
+      "Oder in allen städtischen Kitas.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.31628358364105225
+  ],
+  [
+    [
+      29,
+      11
+    ],
+    [
+      "Das Formular müssen Sie ausfüllen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4263126254081726
+  ],
+  [
+    [
+      30,
+      11
+    ],
+    [
+      "Schreiben Sie hier bitte auf, in welchen Kinder-Garten Ihr Kind gehen soll.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5585549473762512
+  ],
+  [
+    [
+      31,
+      11
+    ],
+    [
+      "Das Formular müssen Sie dann bei uns abgeben.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5026464462280273
+  ],
+  [
+    [
+      32,
+      11
+    ],
+    [
+      "Unsere Adresse ist:",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.17713400721549988
+  ],
+  [
+    [
+      33,
+      11
+    ],
+    [
+      "Familien-Büro Ottmar-Pohl-Platz 1 51103 Köln",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.23606246709823608
+  ],
+  [
+    [
+      34,
+      11
+    ],
+    [
+      "Wenn wir Ihr Formular bearbeitet haben, dann bekommen Sie von uns eine Bestätigung.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4914625883102417
+  ],
+  [
+    [
+      35,
+      11
+    ],
+    [
+      "Die Bestätigung bekommen Sie mit der Post.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.3838963210582733
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "2. Sie können das Formular auch online ausfüllen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4967785179615021
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Online heißt: Sie können es am Computer ausfüllen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.46037808060646057
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "Dann müssen Sie nicht zu uns ins Amt kommen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5136229991912842
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Wenn Ihre Daten bei uns angekommen sind, dann bekommen Sie von uns eine Bestätigung.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.46992042660713196
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Die Bestätigung bekommen Sie dann als E-Mail .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.44377464056015015
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "Was ist, wenn kein Platz frei ist?",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.3250950872898102
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Wenn in der gewünschten Tages-Einrichtung kein Platz frei ist, dann suchen wir einen anderen freien Platz .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.43826550245285034
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Oder einen Platz in der Kinder-Tages-Pflege .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.3078881800174713
+  ],
+  [
+    [
+      44,
+      11
+    ],
+    [
+      "Kinder-Tages-Pflege heißt: Eine andere Person betreut Ihr Kind.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4250645637512207
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Zum Beispiel: Wenn Sie tagsüber arbeiten.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4368758499622345
+  ],
+  [
+    [
+      46,
+      11
+    ],
+    [
+      "Und Sie Ihr Kind tagsüber nicht betreuen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5720672607421875
+  ],
+  [
+    [
+      47,
+      11
+    ],
+    [
+      "Und Ihr Kind nicht in den Kinder-Garten gehen kann.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5732662677764893
+  ],
+  [
+    [
+      48,
+      11
+    ],
+    [
+      "Oder Ihr Kind nicht in eine Kita gehen kann.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5849920511245728
+  ],
+  [
+    [
+      49,
+      11
+    ],
+    [
+      "Dann kann Ihr Kind tagsüber von einer anderen Person betreut werden.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4808043837547302
+  ],
+  [
+    [
+      50,
+      11
+    ],
+    [
+      "Das schwere Wort dafür ist: Kinder-Tages-Pflege .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.27902209758758545
+  ],
+  [
+    [
+      51,
+      11
+    ],
+    [
+      "Wichtig: Alle Kinder ab 1 Jahr haben ein Recht auf einen Betreuungs-Platz .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.3061274588108063
+  ],
+  [
+    [
+      52,
+      11
+    ],
+    [
+      "Das heißt: Jedes Kind muss einen Platz in einer Kita bekommen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.36871322989463806
+  ],
+  [
+    [
+      53,
+      11
+    ],
+    [
+      "Oder einen Platz im Kinder-Garten.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.2654329240322113
+  ],
+  [
+    [
+      54,
+      11
+    ],
+    [
+      "Oder in der Kinder-Tages-Pflege.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.31796082854270935
+  ],
+  [
+    [
+      55,
+      11
+    ],
+    [
+      "Das steht im deutschen Gesetz.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.18904107809066772
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Das Gesetz gibt es seit 1. August 2013.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.2468847930431366
+  ],
+  [
+    [
+      57,
+      11
+    ],
+    [
+      "Das Amt für Kinder, Jugend und Familie verteilt die städtischen Betreuungs-Plätze.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.29790061712265015
+  ],
+  [
+    [
+      58,
+      11
+    ],
+    [
+      "Wenn Sie Fragen dazu haben, rufen Sie uns an: Familien- Büro Telefon: 02 21 - 22 13 03 00 Muss ich zum Vormerken persönlich vorbei kommen?",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.4038252830505371
+  ],
+  [
+    [
+      59,
+      11
+    ],
+    [
+      "Nein.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.1870606690645218
+  ],
+  [
+    [
+      60,
+      11
+    ],
+    [
+      "Sie müssen nicht persönlich zu uns kommen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5753648281097412
+  ],
+  [
+    [
+      61,
+      11
+    ],
+    [
+      "Sie können sich auch im Internet vormerken.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5506737232208252
+  ],
+  [
+    [
+      62,
+      11
+    ],
+    [
+      "Dann müssen Sie nicht zu uns ins Amt kommen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5136229991912842
+  ],
+  [
+    [
+      63,
+      11
+    ],
+    [
+      "Was kostet das Vormerken?",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.2671268880367279
+  ],
+  [
+    [
+      64,
+      11
+    ],
+    [
+      "Das Vormerken ist kostenlos .",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.24822211265563965
+  ],
+  [
+    [
+      65,
+      11
+    ],
+    [
+      "Sie müssen dafür nichts bezahlen.",
+      "Wenn Sie noch nicht in Köln wohnen, können Sie Ihr Kind schon vormerken lassen."
+    ],
+    0.5657972693443298
+  ],
+  [
+    [
+      66,
+      22
+    ],
+    [
+      "Aber Sie müssen Eltern-Beiträge für die Kinder-Tages-Einrichtung zahlen.",
+      "Die Beiträge für die Betreuung entnehmen Sie bitte dem Artikel \"Elternbeiträge der Kindertageseinrichtungen\"."
+    ],
+    0.5941194295883179
+  ],
+  [
+    [
+      67,
+      22
+    ],
+    [
+      "Zum Beispiel: Eltern-Beiträge für den Kinder-Garten.",
+      "Die Beiträge für die Betreuung entnehmen Sie bitte dem Artikel \"Elternbeiträge der Kindertageseinrichtungen\"."
+    ],
+    0.4477494955062866
+  ],
+  [
+    [
+      68,
+      22
+    ],
+    [
+      "Weitere Informationen *",
+      "Die Beiträge für die Betreuung entnehmen Sie bitte dem Artikel \"Elternbeiträge der Kindertageseinrichtungen\"."
+    ],
+    0.33919036388397217
+  ],
+  [
+    [
+      69,
+      22
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013",
+      "Die Beiträge für die Betreuung entnehmen Sie bitte dem Artikel \"Elternbeiträge der Kindertageseinrichtungen\"."
+    ],
+    0.3860630393028259
+  ]
+]

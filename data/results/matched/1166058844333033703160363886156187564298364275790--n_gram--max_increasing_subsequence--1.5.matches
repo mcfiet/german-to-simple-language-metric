@@ -1,0 +1,343 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Sie haben ein Fahrzeug von außerhalb gekauft?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8679184913635254
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Und Sie wollen Ihr Fahrzeug jetzt in Köln zulassen?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8035955429077148
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das bedeutet: Ihr Fahrzeug war bis jetzt an einem anderen Ort in Deutschland zugelassen.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8642593026161194
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Sie können das Fahrzeug dann zulassen auf den bisherigen Halter oder die bisherige Halterin einen neuen Halter oder eine neue Halterin Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.7123684883117676
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Auf dieser Seite erklären wir, wie Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8331489562988281
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Wenn Sie ein Fahrzeug nach Köln umschreiben wollen, dann müssen Sie uns diese Papiere zeigen: Zulassungs-Bescheinigung Teil 1 und Teil 2",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.6940571069717407
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Wenn Sie ein Fahrzeug kaufen, dann bekommen Sie die Zulassungs-Bescheinigung Teil 2. Früher hieß das: Fahrzeug-Brief .",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8615334033966064
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8433915972709656
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden , dann bekommen Sie die Zulassungs-Bescheinigung Teil 1 .",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.5830752849578857
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Früher hieß das: Fahrzeug-Schein.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8952801823616028
+  ],
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Mein Fahrzeug ist beim Amt gemeldet.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8821851015090942
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben wollen, dann zeigen Sie uns Ihre Zulassungs-Bescheinigung Teil 1 .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7613500356674194
+  ],
+  [
+    [
+      20,
+      4
+    ],
+    [
+      "Oder Ihren Fahrzeug-Schein .",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.8624247312545776
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Sie müssen uns auch Ihre Zulassungs-Bescheinigung Teil 2 oder Ihren Fahrzeug-Brief zeigen: wenn sich der Halter oder die Halterin ändert oder wenn sich das Kenn-Zeichen ändert.",
+      "Benötigt werden Fahrzeugbrief und Fahrzeugschein wenn nicht schon zuvor in die Fahrzeugpapiere Zulassungsbescheinigung Teil I und Teil II umgetauscht Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.7380349636077881
+  ],
+  [
+    [
+      23,
+      5
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.7379143238067627
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "In Deutschland muss jedes zugelassene Fahrzeug versichert sein.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8588551878929138
+  ],
+  [
+    [
+      27,
+      5
+    ],
+    [
+      "Das heißt: Sie brauchen eine Kfz-Versicherung für Ihr Fahrzeug.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.895766019821167
+  ],
+  [
+    [
+      42,
+      10
+    ],
+    [
+      "Das schwere Wort dafür ist: Kraft-Fahrzeug-Steuer.",
+      "Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.9348946213722229
+  ],
+  [
+    [
+      47,
+      10
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen, dann müssen Sie uns diese Erlaubnis geben.",
+      "Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.6651752591133118
+  ],
+  [
+    [
+      49,
+      12
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.804892361164093
+  ],
+  [
+    [
+      56,
+      25
+    ],
+    [
+      "2. Die Unterschrift vom Fahrzeug-Halter oder der Fahrzeug-Halterin.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.9539303183555603
+  ],
+  [
+    [
+      57,
+      25
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.945203959941864
+  ],
+  [
+    [
+      66,
+      28
+    ],
+    [
+      "Stolberger Straße 200 50933 Köln Lesen Sie bitte die weiteren Informationen zum SEPA-Mandat.",
+      "Beachten Sie zum SEPA -Mandat auch unsere allgemeinen Informationen: Umzug und Neu in Köln"
+    ],
+    0.5010926127433777
+  ],
+  [
+    [
+      73,
+      35
+    ],
+    [
+      "3. Sie müssen dann persönlich zur Zulassungs-Stelle kommen.",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.6639959812164307
+  ],
+  [
+    [
+      74,
+      35
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.780415952205658
+  ],
+  [
+    [
+      95,
+      35
+    ],
+    [
+      "Muss ich persönlich zur Zulassungs-Stelle gehen?",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7319371700286865
+  ],
+  [
+    [
+      97,
+      35
+    ],
+    [
+      "Sie müssen persönlich zur Zulassungs-Stelle kommen.",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.682427167892456
+  ],
+  [
+    [
+      105,
+      35
+    ],
+    [
+      "Beim Zulassen muss die Person uns die Vollmacht zeigen.",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.5931053161621094
+  ],
+  [
+    [
+      109,
+      37
+    ],
+    [
+      "Das Umschreiben kostet 27,50 Euro, wenn sich der Halter oder die Halterin nicht ändert.",
+      "Gebühren 27,50 Euro ohne Wechsel der Halterin beziehungsweise des Halters 29,60 Euro mit Wechsel der Halterin beziehungsweise des Halters"
+    ],
+    0.5516877174377441
+  ],
+  [
+    [
+      110,
+      37
+    ],
+    [
+      "Das Umschreiben kostet 29,60 Euro, wenn sich der Halter oder die Halterin ändert.",
+      "Gebühren 27,50 Euro ohne Wechsel der Halterin beziehungsweise des Halters 29,60 Euro mit Wechsel der Halterin beziehungsweise des Halters"
+    ],
+    0.552987813949585
+  ],
+  [
+    [
+      113,
+      44
+    ],
+    [
+      "Zum Beispiel: Für Ihre Kennzeichen.",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.6925000548362732
+  ]
+]

@@ -1,0 +1,695 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Achtung!",
+      "Herzinfarkt :"
+    ],
+    0.07274268567562103
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?",
+      "Herzinfarkt :"
+    ],
+    0.265876829624176
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Herzinfarkt :"
+    ],
+    0.10651146620512009
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "112.",
+      "Herzinfarkt :"
+    ],
+    0.09792700409889221
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.",
+      "Herzinfarkt :"
+    ],
+    0.2436477094888687
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Dann fehlen im Gehirn Sauerstoff und Nährstoffe.",
+      "Herzinfarkt :"
+    ],
+    0.15382197499275208
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Und dann können Gehirnzellen sterben.",
+      "Herzinfarkt :"
+    ],
+    0.24699389934539795
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Herzinfarkt :"
+    ],
+    0.07734274119138718
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für einen Schlaganfall.",
+      "Herzinfarkt :"
+    ],
+    0.1940765529870987
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Herzinfarkt :"
+    ],
+    0.15115007758140564
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Typische Anzeichen für einen Schlaganfall sind zum Beispiel:",
+      "Herzinfarkt :"
+    ],
+    0.18730248510837555
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Ein Körperteil ist gelähmt.",
+      "Herzinfarkt :"
+    ],
+    0.1721077412366867
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.15760253369808197
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Ein Körperteil fühlt sich taub an.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.14965540170669556
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Ein Teil des Gesichts ist gelähmt.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.08909880369901657
+  ],
+  [
+    [
+      16,
+      5
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel nicht mehr lächeln.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.16214072704315186
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Die betroffene Person hat Sehstörungen.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.1857599914073944
+  ],
+  [
+    [
+      18,
+      5
+    ],
+    [
+      "Die betroffene Person hat Problemen beim Sprechen.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.1701774001121521
+  ],
+  [
+    [
+      19,
+      5
+    ],
+    [
+      "Die betroffene Person fühlt sich schwindelig.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.15849164128303528
+  ],
+  [
+    [
+      20,
+      5
+    ],
+    [
+      "Bei einem Herzinfarkt ist ein Blutgefäß verstopft.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.12551221251487732
+  ],
+  [
+    [
+      21,
+      5
+    ],
+    [
+      "Deshalb bekommt das Herz nicht mehr genug Blut.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.1427713930606842
+  ],
+  [
+    [
+      22,
+      5
+    ],
+    [
+      "Die Verstopfung von dem Gefäß muss schnell gelöst werden.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.15242516994476318
+  ],
+  [
+    [
+      23,
+      5
+    ],
+    [
+      "Wird die Verstopfung im Blutgefäß nicht gelöst?",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.17817504703998566
+  ],
+  [
+    [
+      24,
+      5
+    ],
+    [
+      "Dann sterben Muskelzellen im Herz ab.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.08248255401849747
+  ],
+  [
+    [
+      25,
+      5
+    ],
+    [
+      "Das Herz kann dann manchmal nicht mehr richtig arbeiten.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.17318981885910034
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Das kann lebensgefährlich sein.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.1550639271736145
+  ],
+  [
+    [
+      27,
+      5
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.1640697419643402
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "Es gibt viele verschiedene Anzeichen für einen Herzinfarkt.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.20486845076084137
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.2432090938091278
+  ],
+  [
+    [
+      30,
+      5
+    ],
+    [
+      "Typische Anzeichen für einen Herzinfarkt sind zum Beispiel: starke Schmerzen in der Brust ein drückendes Gefühl in der Brust Schmerzen im linken Arm Schmerzen im Hals oder im Kiefer kalter Schweiß",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.15366880595684052
+  ],
+  [
+    [
+      31,
+      5
+    ],
+    [
+      "Übelkeit",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.3114580810070038
+  ],
+  [
+    [
+      32,
+      6
+    ],
+    [
+      "Atemnot ein blasses Gesicht",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.15143078565597534
+  ],
+  [
+    [
+      33,
+      7
+    ],
+    [
+      "Angst",
+      "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen: Ratgeber Schlaganfall ."
+    ],
+    0.1792430281639099
+  ],
+  [
+    [
+      34,
+      7
+    ],
+    [
+      "Sie glauben: Eine Person hat vielleicht einen Schlaganfall oder einen Herzinfarkt?",
+      "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen: Ratgeber Schlaganfall ."
+    ],
+    0.18503648042678833
+  ],
+  [
+    [
+      35,
+      11
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.2883007228374481
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "Rufen Sie zuerst den Rettungsdienst.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.26572686433792114
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Die Telefonnummer ist:",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.05855527147650719
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "112. Sie haben den Rettungsdienst gerufen?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.20086081326007843
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Dann können Sie jetzt Erste Hilfe leisten.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.22538381814956665
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Folgendes können Sie tun:",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.2508053779602051
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.20855750143527985
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Reden Sie mit der betroffenen Person.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.17733897268772125
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Lockern Sie zu enge Kleidung der betroffenen Person.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.19682998955249786
+  ],
+  [
+    [
+      44,
+      11
+    ],
+    [
+      "Entfernen Sie Zahnprothesen der betroffenen Person.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.224410280585289
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Geben Sie der betroffenen Person nichts zu essen oder zu trinken.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.20655697584152222
+  ],
+  [
+    [
+      46,
+      11
+    ],
+    [
+      "Die Person könnte sich nämlich verschlucken.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.18938666582107544
+  ],
+  [
+    [
+      47,
+      11
+    ],
+    [
+      "Richten Sie den Oberkörper der betroffenen Person etwas auf.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.20201526582241058
+  ],
+  [
+    [
+      48,
+      11
+    ],
+    [
+      "Legen Sie ihr zum Beispiel ein Kissen in den Rücken.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.15749883651733398
+  ],
+  [
+    [
+      49,
+      11
+    ],
+    [
+      "Ist die betroffene Person bewusstlos?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.13922186195850372
+  ],
+  [
+    [
+      50,
+      11
+    ],
+    [
+      "Oder erbricht sie sich?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.1914733350276947
+  ],
+  [
+    [
+      51,
+      11
+    ],
+    [
+      "Dann legen Sie die Person in die stabile Seitenlage .",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.1884593665599823
+  ],
+  [
+    [
+      52,
+      11
+    ],
+    [
+      "Die betroffene Person atmet nicht?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.117050901055336
+  ],
+  [
+    [
+      53,
+      11
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.20316582918167114
+  ],
+  [
+    [
+      54,
+      11
+    ],
+    [
+      "Merken Sie sich: Wann haben die Anzeichen angefangen?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.22201377153396606
+  ],
+  [
+    [
+      55,
+      11
+    ],
+    [
+      "Die Uhrzeit ist eine wichtige Information für den Notarzt.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.14849866926670074
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Sie wollen noch mehr über Erste Hilfe bei einem Schlaganfall oder einem Herzinfarkt lesen?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.1896764487028122
+  ],
+  [
+    [
+      57,
+      11
+    ],
+    [
+      "Mehr Informationen finden Sie hier.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.1896400898694992
+  ],
+  [
+    [
+      58,
+      11
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.10743466764688492
+  ],
+  [
+    [
+      59,
+      11
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.1593228131532669
+  ],
+  [
+    [
+      60,
+      11
+    ],
+    [
+      "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.2272258996963501
+  ],
+  [
+    [
+      61,
+      11
+    ],
+    [
+      "Mehr Informationen in Einfacher Sprache zu diesen Themen finden Sie in diesen Texten:",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.1699466109275818
+  ],
+  [
+    [
+      62,
+      12
+    ],
+    [
+      "• Schlaganfall",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.24243871867656708
+  ],
+  [
+    [
+      63,
+      12
+    ],
+    [
+      "• Herzinfarkt",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.14941923320293427
+  ]
+]

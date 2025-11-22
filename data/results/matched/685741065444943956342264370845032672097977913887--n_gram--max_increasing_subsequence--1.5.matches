@@ -1,0 +1,398 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In Deutschland müssen Sie manche Fahrzeuge zulassen , bevor Sie damit auf der Straße fahren dürfen.",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.8352774381637573
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Solche Fahrzeuge heißen: zulassungs-pflichtige Fahrzeuge.",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.9271559119224548
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Sie melden das Fahrzeug beim Amt.",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.8261674046516418
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das Amt erlaubt, dass Sie mit dem Fahrzeug fahren.",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.7802969217300415
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Zulassungs-pflichtige Fahrzeuge sind zum Beispiel:",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.8897701501846313
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Autos Motorräder LKW s Sie wollen ein neues Fahrzeug zulassen ?",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.9261717200279236
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Also ein Fahrzeug, das gerade neu aus der Fabrik kommt.",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.8225994110107422
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Wenn Sie ein neues Fahrzeug zulassen wollen, dann müssen Sie uns diese Papiere zeigen:",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.8228133320808411
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Sie bekommen die Zulassungs-Bescheinigung Teil 2, wenn Sie ein Fahrzeug kaufen .",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.8516655564308167
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.8143929839134216
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden, dann bekommen Sie die Zulassungs-Bescheinigung Teil 1. Früher hieß die Bescheinigung: Fahrzeug-Schein.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.8853424787521362
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Wenn Sie noch keine Zulassungs-Bescheinigung haben, dann müssen Sie uns eine Bestätigung vom Fahrzeug-Händler zeigen.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.7981464862823486
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "Das Fahrzeug wurde bisher noch nicht zugelassen.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.8620889186859131
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Es gibt noch keine Zulassungs-Bescheinigung für das Fahrzeug.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.9171091914176941
+  ],
+  [
+    [
+      28,
+      2
+    ],
+    [
+      "EWG-Übereinstimmungs-Bescheinigung oder CoC-Papier",
+      "EWG-Übereinstimmungsbescheinigung (COC-Papier)"
+    ],
+    0.8616800904273987
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Das ist Englisch und bedeutet: Bescheinigung von Übereinstimmung.",
+      "EWG-Übereinstimmungsbescheinigung (COC-Papier)"
+    ],
+    0.4791606068611145
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "EWG-Übereinstimmungs-Bescheinigung",
+      "EWG-Übereinstimmungsbescheinigung (COC-Papier)"
+    ],
+    0.8502792119979858
+  ],
+  [
+    [
+      42,
+      3
+    ],
+    [
+      "Das schwere Wort dafür ist: elektronische Versicherungs-Bestätigungs-Nummer",
+      "Versicherungsnachweis in Form einer elektronischen Versicherungsbestätigungsnummer (eVB-Nummer)"
+    ],
+    0.6532135605812073
+  ],
+  [
+    [
+      45,
+      4
+    ],
+    [
+      "Personal-Ausweis oder Pass vom Halter oder der Halterin",
+      "Personalausweis oder Pass der zukünftigen Halterin oder des zukünftigen Halters Vollmacht bei Vertretung zusätzlich"
+    ],
+    0.6324115991592407
+  ],
+  [
+    [
+      48,
+      5
+    ],
+    [
+      "Bei Firmen-Fahrzeugen: Auszug aus dem Handels-Register oder die Gewerbe-Anmeldung",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - das Formular finden Sie bei \"Downloads und Infos\" Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.8754618763923645
+  ],
+  [
+    [
+      65,
+      14
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen wollen, dann müssen Sie uns die Erlaubnis geben.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.6039320826530457
+  ],
+  [
+    [
+      70,
+      21
+    ],
+    [
+      "Sie können es am Computer ausfüllen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.46306362748146057
+  ],
+  [
+    [
+      83,
+      25
+    ],
+    [
+      "online zulassen.",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.611957311630249
+  ],
+  [
+    [
+      86,
+      25
+    ],
+    [
+      "Das bedeutet: Sie können das Zulassen am Computer erledigen.",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.5940081477165222
+  ],
+  [
+    [
+      96,
+      25
+    ],
+    [
+      "Wenn Sie lieber persönlich zur Zulassungs-Stelle kommen möchten:",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7513261437416077
+  ],
+  [
+    [
+      100,
+      25
+    ],
+    [
+      "Zum Termin kommen Sie dann persönlich zur Zulassungs-Stelle .",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7625918984413147
+  ],
+  [
+    [
+      101,
+      25
+    ],
+    [
+      "Das ist die Adresse: Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7657147645950317
+  ],
+  [
+    [
+      104,
+      25
+    ],
+    [
+      "Das ist die Adresse: Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7657147645950317
+  ],
+  [
+    [
+      125,
+      25
+    ],
+    [
+      "Muss ich persönlich zur Zulassungs-Stelle gehen?",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7433809041976929
+  ],
+  [
+    [
+      131,
+      25
+    ],
+    [
+      "Das bedeutet: Sie können das Zulassen am Computer erledigen.",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.5940081477165222
+  ],
+  [
+    [
+      134,
+      25
+    ],
+    [
+      "Das ist die Adresse: Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.7657147645950317
+  ],
+  [
+    [
+      142,
+      25
+    ],
+    [
+      "Beim Zulassen muss die Person uns die Vollmacht zeigen.",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.6391986012458801
+  ],
+  [
+    [
+      144,
+      25
+    ],
+    [
+      "Wie viel kostet das Zulassen?",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.5995364785194397
+  ],
+  [
+    [
+      145,
+      28
+    ],
+    [
+      "Das Zulassen von einem neuen Fahrzeug kostet 27 Euro.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.7231177687644958
+  ],
+  [
+    [
+      152,
+      28
+    ],
+    [
+      "Wenn Ihre Fahrzeug-Daten nicht beim Kraft-Fahrt-Bundes-Amt verfügbar sind.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.9490852952003479
+  ],
+  [
+    [
+      153,
+      28
+    ],
+    [
+      "Oder nicht im Fahrzeug-Register von der Stadt Köln verfügbar sind.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.9399965405464172
+  ]
+]

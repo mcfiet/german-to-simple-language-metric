@@ -1,0 +1,728 @@
+[
+  [
+    [
+      0,
+      9
+    ],
+    [
+      "Das Nierenbecken ist direkt an der Niere.",
+      "An der Einbuchtung der Niere befindet sich das Nierenbecken."
+    ],
+    0.7323219776153564
+  ],
+  [
+    [
+      1,
+      5
+    ],
+    [
+      "Die Niere ist ein Organ.",
+      "Diese Erkrankung ist ein Notfall!"
+    ],
+    0.6928034424781799
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Jeder Mensch hat zwei Nieren.",
+      "Schleichend kann dabei die Nieren Schaden nehmen bis hin zur Nierenschwäche."
+    ],
+    0.4069959819316864
+  ],
+  [
+    [
+      3,
+      16
+    ],
+    [
+      "Sie liegen im oberen Bauch rechts und links neben der Wirbelsäule.",
+      "Diese Keime leben normalerweise im Darm, können aber in die unteren Harnwege verschleppt werden und dort unter Umständen Entzündungen hervorrufen."
+    ],
+    0.5627883672714233
+  ],
+  [
+    [
+      4,
+      22
+    ],
+    [
+      "Die Niere bildet Urin.",
+      "Die Blase entleert sich beim Wasserlassen nicht mehr vollständig, es bildet Restharn."
+    ],
+    0.6021294593811035
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Der Urin sammelt sich im Nierenbecken.",
+      "Der Harnleiter leitet den Urin weiter zur Harnblase."
+    ],
+    0.583225667476654
+  ],
+  [
+    [
+      6,
+      26
+    ],
+    [
+      "Vom Nierenbecken aus fließt der Urin dann durch den Harnleiter in die Blase.",
+      "Dadurch kann Urin aus der Blase in Richtung Niere zurückfließen (vesikourethraler Reflux)."
+    ],
+    0.6703696250915527
+  ],
+  [
+    [
+      7,
+      37
+    ],
+    [
+      "Eine Nierenbecken-Entzündung ist eine Erkrankung im Bereich des Nierenbeckens.",
+      "Eine Untersuchung des Harns im Labor gibt schließlich Auskunft über den auslösenden Erreger."
+    ],
+    0.5760481357574463
+  ],
+  [
+    [
+      8,
+      39
+    ],
+    [
+      "Bei einer Nierenbecken-Entzündung ist oft auch die Niere selbst entzündet.",
+      "Bei einer chronischen Nierenbeckenentzündung ist die Niere durch die wiederkehrenden Entzündungen meist verformt."
+    ],
+    0.8264540433883667
+  ],
+  [
+    [
+      9,
+      39
+    ],
+    [
+      "Das Fachwort für die Nierenbecken-Entzündung ist: Pyelonephritis.",
+      "Bei einer chronischen Nierenbeckenentzündung ist die Niere durch die wiederkehrenden Entzündungen meist verformt."
+    ],
+    0.6217140555381775
+  ],
+  [
+    [
+      10,
+      34
+    ],
+    [
+      "Die Entzündung kann akut sein.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.6365936398506165
+  ],
+  [
+    [
+      11,
+      34
+    ],
+    [
+      "Eine akute Nierenbecken-Entzündung kann gut behandelt werden.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.6817969679832458
+  ],
+  [
+    [
+      12,
+      75
+    ],
+    [
+      "Sie heilt meist ohne Probleme.",
+      "Sie beugen damit Blasenentzündungen vor, indem Sie Bakterien, die zu einer Infektion führen könnten, einfach ausspülen."
+    ],
+    0.49979308247566223
+  ],
+  [
+    [
+      13,
+      34
+    ],
+    [
+      "Die Entzündung kann aber auch chronisch sein.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.639270007610321
+  ],
+  [
+    [
+      14,
+      59
+    ],
+    [
+      "Chronische Nierenbecken-Entzündungen heilen manchmal nur schwer.",
+      "Chronische Nierenbeckenentzündungen heilen selten komplett aus, wenn die Ursache nicht behoben wird."
+    ],
+    0.7013540863990784
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Eine Nierenbecken-Entzündung erkennt man oft nicht sofort.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.6106196045875549
+  ],
+  [
+    [
+      16,
+      38
+    ],
+    [
+      "Die Anzeichen kommen nämlich meist erst später und sehr plötzlich.",
+      "Bei einer Ultraschalluntersuchung der Nieren lassen sich gegebenenfalls Anzeichen einer Harnstauung und vielleicht schon deren Ursache finden."
+    ],
+    0.6065268516540527
+  ],
+  [
+    [
+      17,
+      39
+    ],
+    [
+      "In vielen Fällen sind die Anzeichen dann sehr stark.",
+      "Bei einer chronischen Nierenbeckenentzündung ist die Niere durch die wiederkehrenden Entzündungen meist verformt."
+    ],
+    0.5715116262435913
+  ],
+  [
+    [
+      18,
+      24
+    ],
+    [
+      "Typische Anzeichen für eine Nierenbecken-Entzündung sind zum Beispiel:",
+      "Risikofaktoren für Nierenbeckenentzündungen sind zum Beispiel: Schwangerschaft hohes Alter Abnahme der Hormonproduktion in und nach den Wechseljahren Nieren- und Blasensteine Harnstau oder Harnabflussbehinderungen (zum Beispiel angeboren oder durch eine vergrößerte Prostata oder durch einen Harnstein im Harnleiter) Stoffwechselstörungen (wie Diabetes mellitus und Gicht ) Entzündung der Prostata (Prostatitits) beim Geschlechtspartner ein Dauerkatheter eine generell geschwächte Immunabwehr."
+    ],
+    0.6757830381393433
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Fieber Schmerzen am seitlichen Rücken Schmerzen beim Wasserlassen",
+      "Fieber , Schüttelfrost Schmerzen in der Flanke, die bei Erschütterung zunehmen Schmerzen und Brennen beim Wasserlassen manchmal Blut im Urin"
+    ],
+    0.6990865468978882
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Übelkeit Bauchschmerzen",
+      "Übelkeit allgemeines Unwohlsein Kopf- und Bauchschmerzen"
+    ],
+    0.8117852210998535
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Kopfschmerzen",
+      "Übelkeit allgemeines Unwohlsein Kopf- und Bauchschmerzen"
+    ],
+    0.739275336265564
+  ],
+  [
+    [
+      22,
+      39
+    ],
+    [
+      "Die häufigste Ursache einer Nierenbecken-Entzündung sind Darm-Bakterien.",
+      "Bei einer chronischen Nierenbeckenentzündung ist die Niere durch die wiederkehrenden Entzündungen meist verformt."
+    ],
+    0.667655885219574
+  ],
+  [
+    [
+      23,
+      43
+    ],
+    [
+      "Häufige Darm-Bakterien heißen zum Beispiel: Escherichia coli.",
+      "Je nach Fall sind weitere Untersuchungen notwendig, zum Beispiel Röntgenuntersuchungen der Harnwege."
+    ],
+    0.4998072385787964
+  ],
+  [
+    [
+      24,
+      16
+    ],
+    [
+      "Im Darm haben diese Bakterien wichtige Aufgaben.",
+      "Diese Keime leben normalerweise im Darm, können aber in die unteren Harnwege verschleppt werden und dort unter Umständen Entzündungen hervorrufen."
+    ],
+    0.6095894575119019
+  ],
+  [
+    [
+      25,
+      16
+    ],
+    [
+      "Dort sind die Bakterien nicht gefährlich.",
+      "Diese Keime leben normalerweise im Darm, können aber in die unteren Harnwege verschleppt werden und dort unter Umständen Entzündungen hervorrufen."
+    ],
+    0.6166635751724243
+  ],
+  [
+    [
+      26,
+      18
+    ],
+    [
+      "Aber manchmal gelangen diese Darm-Bakterien in die Harnröhre.",
+      "Bakterien können so leichter in die Harnröhre gelangen."
+    ],
+    0.8237125873565674
+  ],
+  [
+    [
+      27,
+      19
+    ],
+    [
+      "Der Darm-Ausgang ist nämlich in der Nähe vom Harnröhren-Ausgang.",
+      "Zudem ist die Harnröhre der Frau kürzer, so dass die Keime rascher hinauf in die Blase und von dort eventuell über die Harnleiter in die Nieren kommen."
+    ],
+    0.5489807724952698
+  ],
+  [
+    [
+      28,
+      18
+    ],
+    [
+      "Von der Harnröhre aus gelangen die Bakterien dann in die Niere und in das Nierenbecken.",
+      "Bakterien können so leichter in die Harnröhre gelangen."
+    ],
+    0.7544195652008057
+  ],
+  [
+    [
+      29,
+      15
+    ],
+    [
+      "Dort sind Escherichia coli Bakterien gefährlich.",
+      "Bei einer akuten Nierenbeckenentzündung sind in 80 Prozent der Fälle Escherichia coli-Bakterien die auslösenden Erreger."
+    ],
+    0.5255549550056458
+  ],
+  [
+    [
+      30,
+      14
+    ],
+    [
+      "In der Niere verursachen die Bakterien die Entzündung.",
+      "Die Keime gelangen in fast allen Fällen über die Harnwege (selten über den Blutweg) in die Nieren und führen zu einer Entzündung der Niere und des Nierenbeckens."
+    ],
+    0.7360582947731018
+  ],
+  [
+    [
+      31,
+      39
+    ],
+    [
+      "Für manche Menschen ist das Risiko einer Nierenbecken-Entzündung erhöht.",
+      "Bei einer chronischen Nierenbeckenentzündung ist die Niere durch die wiederkehrenden Entzündungen meist verformt."
+    ],
+    0.6231774687767029
+  ],
+  [
+    [
+      32,
+      80
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen Frauen nach den Wechseljahren Menschen mit Nieren- und Blasensteinen Menschen mit einer Störung des Harnabflusses Menschen mit einer Störung des Stoffwechsels Menschen mit einer Immunschwäche Frauen bekommen leichter eine Nierenbecken-Entzündung als Männer.",
+      "Zu ihren Spezialgebieten zählen die Diagnostik und Therapie von chronischen Harnwegsinfektionen und der Harninkontinenz bei Mann und Frau."
+    ],
+    0.6262345910072327
+  ],
+  [
+    [
+      33,
+      25
+    ],
+    [
+      "Bei Frauen ist der Darm-Ausgang nämlich näher am Harnröhren-Ausgang.",
+      "Bei manchen Menschen funktioniert der Verschluss der Harnleiter nicht richtig."
+    ],
+    0.6101247668266296
+  ],
+  [
+    [
+      34,
+      18
+    ],
+    [
+      "Deshalb gelangen die schädlichen Darm-Bakterien leichter in die Harnröhre der Frau.",
+      "Bakterien können so leichter in die Harnröhre gelangen."
+    ],
+    0.8218509554862976
+  ],
+  [
+    [
+      35,
+      20
+    ],
+    [
+      "Bei Männern ist das Risiko für eine Nierenbecken-Entzündung im Alter auch erhöht.",
+      "Bei Männern kommt eine Nierenbeckenentzündung erst mit höherem Alter häufiger vor."
+    ],
+    0.6642832159996033
+  ],
+  [
+    [
+      36,
+      39
+    ],
+    [
+      "Bei älteren Männern ist die Ursache der Entzündung oft eine Störung des Harnabflusses:",
+      "Bei einer chronischen Nierenbeckenentzündung ist die Niere durch die wiederkehrenden Entzündungen meist verformt."
+    ],
+    0.6907820105552673
+  ],
+  [
+    [
+      37,
+      22
+    ],
+    [
+      "Der Urin fließt häufig nicht mehr vollständig ab.",
+      "Die Blase entleert sich beim Wasserlassen nicht mehr vollständig, es bildet Restharn."
+    ],
+    0.5823643803596497
+  ],
+  [
+    [
+      38,
+      18
+    ],
+    [
+      "Deshalb können sich schädliche Bakterien bilden.",
+      "Bakterien können so leichter in die Harnröhre gelangen."
+    ],
+    0.5887390375137329
+  ],
+  [
+    [
+      39,
+      75
+    ],
+    [
+      "Sie glauben: Ich habe eine Nierenbecken-Entzündung?",
+      "Sie beugen damit Blasenentzündungen vor, indem Sie Bakterien, die zu einer Infektion führen könnten, einfach ausspülen."
+    ],
+    0.5354204773902893
+  ],
+  [
+    [
+      40,
+      1
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Dann zeigen sich – vermeintlich aus heiterem Himmel – plötzlich deutliche Symptome, zum Beispiel:"
+    ],
+    0.5135614275932312
+  ],
+  [
+    [
+      41,
+      0
+    ],
+    [
+      "Eine Nierenbecken-Entzündung ist nämlich gefährlich.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.656913697719574
+  ],
+  [
+    [
+      42,
+      4
+    ],
+    [
+      "Die Entzündung muss sofort von einem Arzt behandelt werden.",
+      "Beim Verdacht auf eine akute Nierenbeckenentzündung sollte auf jeden Fall schnellstmöglich ein Arzt aufgesucht werden."
+    ],
+    0.5963510274887085
+  ],
+  [
+    [
+      43,
+      44
+    ],
+    [
+      "Oft verschreibt der Arzt ein Antibiotikum.",
+      "Bei einer akuten Nierenbeckenentzündung verschreibt der Arzt in der Regel ein Antibiotikum."
+    ],
+    0.8102642893791199
+  ],
+  [
+    [
+      44,
+      45
+    ],
+    [
+      "Das Antibiotikum tötet die schädlichen Bakterien.",
+      "Bis die Ergebnisse der Blut- und Urin-Untersuchungen vorliegen, wählt er meist ein Breitband-Antibiotikum, das gegen eine ganze Reihe von Bakterien wirkt."
+    ],
+    0.5721405148506165
+  ],
+  [
+    [
+      45,
+      31
+    ],
+    [
+      "Der Arzt sagt: Sie haben eine Nierenbecken-Entzündung?",
+      "Der Arzt fragt nach Symptomen und Vorerkrankungen."
+    ],
+    0.5820883512496948
+  ],
+  [
+    [
+      46,
+      63
+    ],
+    [
+      "Dann sollten Sie sich ausruhen und viel trinken.",
+      "Lassen Sie sich auf der Toilette Zeit, um die Blase komplett zu entleeren und pressen Sie nicht."
+    ],
+    0.5780102014541626
+  ],
+  [
+    [
+      47,
+      75
+    ],
+    [
+      "Sie können das Risiko für eine Nierenbecken-Entzündung verringern.",
+      "Sie beugen damit Blasenentzündungen vor, indem Sie Bakterien, die zu einer Infektion führen könnten, einfach ausspülen."
+    ],
+    0.6023744344711304
+  ],
+  [
+    [
+      48,
+      75
+    ],
+    [
+      "Dafür sollten Sie diese Dinge beachten:",
+      "Sie beugen damit Blasenentzündungen vor, indem Sie Bakterien, die zu einer Infektion führen könnten, einfach ausspülen."
+    ],
+    0.5749180316925049
+  ],
+  [
+    [
+      49,
+      61
+    ],
+    [
+      "Trinken Sie immer ausreichend Wasser.",
+      "Trinken Sie ausreichend, um Bakterien und andere unliebsame Stoffe aus Nieren und Blase zu spülen."
+    ],
+    0.6564657688140869
+  ],
+  [
+    [
+      50,
+      63
+    ],
+    [
+      "Gehen Sie regelmäßig auf die Toilette zum Wasserlassen.",
+      "Lassen Sie sich auf der Toilette Zeit, um die Blase komplett zu entleeren und pressen Sie nicht."
+    ],
+    0.6657400727272034
+  ],
+  [
+    [
+      51,
+      69
+    ],
+    [
+      "Schützen Sie sich vor Kälte und Nässe.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    1.0
+  ],
+  [
+    [
+      52,
+      70
+    ],
+    [
+      "Ziehen Sie sich nach dem Schwimmen sofort trockene Kleidung an.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.6899237632751465
+  ],
+  [
+    [
+      53,
+      71
+    ],
+    [
+      "Wechseln Sie verschwitzte Kleidung nach dem Sport.",
+      "Wechseln Sie auch verschwitze Kleidung nach dem Sport."
+    ],
+    0.8634030222892761
+  ],
+  [
+    [
+      54,
+      70
+    ],
+    [
+      "Vermeiden Sie kalte Füße.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.7564575672149658
+  ],
+  [
+    [
+      55,
+      63
+    ],
+    [
+      "Gehen Sie nach dem Sex auf die Toilette.",
+      "Lassen Sie sich auf der Toilette Zeit, um die Blase komplett zu entleeren und pressen Sie nicht."
+    ],
+    0.6126049160957336
+  ],
+  [
+    [
+      56,
+      16
+    ],
+    [
+      "Beim Wasserlassen können die schädlichen Bakterien nämlich herausgespült werden.",
+      "Diese Keime leben normalerweise im Darm, können aber in die unteren Harnwege verschleppt werden und dort unter Umständen Entzündungen hervorrufen."
+    ],
+    0.6630370616912842
+  ],
+  [
+    [
+      57,
+      67
+    ],
+    [
+      "Benutzen Sie keine Seife mit Parfüm im Intimbereich.",
+      "Verzichten Sie auf Sprays und parfümierte Seifen im Intimbereich."
+    ],
+    0.6796646118164062
+  ],
+  [
+    [
+      58,
+      64
+    ],
+    [
+      "Reinigen Sie Scheide und After am besten nur mit Wasser.",
+      "Immer von vorne nach hinten reinigen: Wischen Sie nach dem Stuhlgang immer von der Scheide in Richtung After."
+    ],
+    0.571681022644043
+  ],
+  [
+    [
+      59,
+      64
+    ],
+    [
+      "Wischen Sie mit dem Toilettenpapier immer von der Scheide zum After.",
+      "Immer von vorne nach hinten reinigen: Wischen Sie nach dem Stuhlgang immer von der Scheide in Richtung After."
+    ],
+    0.774985671043396
+  ],
+  [
+    [
+      60,
+      63
+    ],
+    [
+      "Wischen Sie nicht umgekehrt.",
+      "Lassen Sie sich auf der Toilette Zeit, um die Blase komplett zu entleeren und pressen Sie nicht."
+    ],
+    0.6369149088859558
+  ],
+  [
+    [
+      61,
+      66
+    ],
+    [
+      "Wechseln Sie Tampons oder Binden während der Monatsblutung regelmäßig.",
+      "Achten Sie darauf, während der Menstruation regelmäßig Tampons und Binden zu wechseln."
+    ],
+    0.8262068033218384
+  ],
+  [
+    [
+      62,
+      75
+    ],
+    [
+      "Sie wollen noch mehr über die Nierenbecken-Entzündung lesen?",
+      "Sie beugen damit Blasenentzündungen vor, indem Sie Bakterien, die zu einer Infektion führen könnten, einfach ausspülen."
+    ],
+    0.6254013776779175
+  ],
+  [
+    [
+      63,
+      75
+    ],
+    [
+      "Mehr Informationen über die Nierenbecken-Entzündung finden Sie hier .",
+      "Sie beugen damit Blasenentzündungen vor, indem Sie Bakterien, die zu einer Infektion führen könnten, einfach ausspülen."
+    ],
+    0.577868640422821
+  ],
+  [
+    [
+      64,
+      1
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Dann zeigen sich – vermeintlich aus heiterem Himmel – plötzlich deutliche Symptome, zum Beispiel:"
+    ],
+    0.39182958006858826
+  ],
+  [
+    [
+      65,
+      18
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Bakterien können so leichter in die Harnröhre gelangen."
+    ],
+    0.5484994649887085
+  ]
+]

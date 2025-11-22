@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      31
+    ],
+    [
+      "Bei einer Divertikulitis ist der Darm krank.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2674919366836548
+  ],
+  [
+    [
+      1,
+      31
+    ],
+    [
+      "Der Darm ist ein Organ im Bauch.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.19095908105373383
+  ],
+  [
+    [
+      2,
+      31
+    ],
+    [
+      "Der Darm ist wie ein langer Schlauch.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.19337570667266846
+  ],
+  [
+    [
+      3,
+      31
+    ],
+    [
+      "Im Darm wird das Essen verdaut.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.19031678140163422
+  ],
+  [
+    [
+      4,
+      31
+    ],
+    [
+      "Der Darm hat außen herum eine Darmwand.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2227768898010254
+  ],
+  [
+    [
+      5,
+      56
+    ],
+    [
+      "Die Darmwand kann an manchen Stellen dünn sein.",
+      "Ausreichend"
+    ],
+    0.24788400530815125
+  ],
+  [
+    [
+      6,
+      48
+    ],
+    [
+      "Deshalb kann sie ausleiern oder ausbeulen.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.2749883532524109
+  ],
+  [
+    [
+      7,
+      56
+    ],
+    [
+      "Die Ausbuchtungen heißen: Divertikel .",
+      "Ausreichend"
+    ],
+    0.2816619873046875
+  ],
+  [
+    [
+      8,
+      31
+    ],
+    [
+      "Divertikel sind meist harmlos.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.3064838647842407
+  ],
+  [
+    [
+      9,
+      48
+    ],
+    [
+      "Aber manchmal können sich die Divertikel entzünden.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.32472559809684753
+  ],
+  [
+    [
+      10,
+      56
+    ],
+    [
+      "Entzünden sich die Divertikel?",
+      "Ausreichend"
+    ],
+    0.3520568311214447
+  ],
+  [
+    [
+      11,
+      31
+    ],
+    [
+      "Dann sagt der Arzt dazu: Divertikulitis.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2287287414073944
+  ],
+  [
+    [
+      12,
+      48
+    ],
+    [
+      "Manchmal kann eine Divertikulitis gefährliche Folgen haben.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.30746597051620483
+  ],
+  [
+    [
+      13,
+      56
+    ],
+    [
+      "Das Gewebe um den Darm kann sich zum Beispiel entzünden.",
+      "Ausreichend"
+    ],
+    0.22285139560699463
+  ],
+  [
+    [
+      14,
+      31
+    ],
+    [
+      "Dann bildet sich vielleicht Eiter.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.23523832857608795
+  ],
+  [
+    [
+      15,
+      31
+    ],
+    [
+      "Die eitrigen Stellen heißen: Abszess.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.30160534381866455
+  ],
+  [
+    [
+      16,
+      56
+    ],
+    [
+      "Eine Divertikulitis verursacht verschiedene Beschwerden wie zum Beispiel:",
+      "Ausreichend"
+    ],
+    0.3063042461872101
+  ],
+  [
+    [
+      17,
+      31
+    ],
+    [
+      "Schmerzen im linken unteren Teil des Bauches",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.24992862343788147
+  ],
+  [
+    [
+      18,
+      26
+    ],
+    [
+      "Blähungen Durchfall",
+      "Verdauungsstörungen, wie Verstopfung, Durchfall oder starke Blähungen"
+    ],
+    0.5772371888160706
+  ],
+  [
+    [
+      19,
+      31
+    ],
+    [
+      "Fieber",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.4754772186279297
+  ],
+  [
+    [
+      20,
+      31
+    ],
+    [
+      "Verstopfung",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.639035701751709
+  ],
+  [
+    [
+      21,
+      56
+    ],
+    [
+      "Sie haben diese Beschwerden?",
+      "Ausreichend"
+    ],
+    0.3374347388744354
+  ],
+  [
+    [
+      22,
+      84
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.16087283194065094
+  ],
+  [
+    [
+      23,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Ausreichend"
+    ],
+    0.28525838255882263
+  ],
+  [
+    [
+      24,
+      56
+    ],
+    [
+      "Divertikulitis bekommen meist ältere Menschen.",
+      "Ausreichend"
+    ],
+    0.3438895344734192
+  ],
+  [
+    [
+      25,
+      31
+    ],
+    [
+      "Im Alter wird das Bindegewebe nämlich schwächer.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.22551164031028748
+  ],
+  [
+    [
+      26,
+      48
+    ],
+    [
+      "Die Darmwand kann dann ausleiern.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.22126629948616028
+  ],
+  [
+    [
+      27,
+      56
+    ],
+    [
+      "An den dünnen Stellen können Divertikel entstehen.",
+      "Ausreichend"
+    ],
+    0.3009246587753296
+  ],
+  [
+    [
+      28,
+      56
+    ],
+    [
+      "Die Divertikel können sich entzünden.",
+      "Ausreichend"
+    ],
+    0.29381632804870605
+  ],
+  [
+    [
+      29,
+      56
+    ],
+    [
+      "Das passiert aber nur selten.",
+      "Ausreichend"
+    ],
+    0.27009496092796326
+  ],
+  [
+    [
+      30,
+      56
+    ],
+    [
+      "Manche Dinge erhöhen das Risiko für eine Divertikulitis.",
+      "Ausreichend"
+    ],
+    0.2691950500011444
+  ],
+  [
+    [
+      31,
+      56
+    ],
+    [
+      "Dazu gehören zum Beispiel: chronische Verstopfung Übergewicht zu wenig Bewegung zu viel rotes Fleisch wie Rind oder Schwein",
+      "Ausreichend"
+    ],
+    0.2735634446144104
+  ],
+  [
+    [
+      32,
+      31
+    ],
+    [
+      "Sie haben Schmerzen im Bauchraum?",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2644866108894348
+  ],
+  [
+    [
+      33,
+      84
+    ],
+    [
+      "Dann sprechen Sie mit einem Arzt.",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.1837904304265976
+  ],
+  [
+    [
+      34,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Ausreichend"
+    ],
+    0.28525838255882263
+  ],
+  [
+    [
+      35,
+      31
+    ],
+    [
+      "Die Entzündung ist leicht?",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.275372713804245
+  ],
+  [
+    [
+      36,
+      56
+    ],
+    [
+      "Sie haben kein Fieber und auch keine Immunschwäche?",
+      "Ausreichend"
+    ],
+    0.30194565653800964
+  ],
+  [
+    [
+      37,
+      48
+    ],
+    [
+      "Dann kann der Körper eine Divertikulitis oft selbst bekämpfen.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.2723279595375061
+  ],
+  [
+    [
+      38,
+      84
+    ],
+    [
+      "Der Arzt sagt dann vielleicht:",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.2000148743391037
+  ],
+  [
+    [
+      39,
+      56
+    ],
+    [
+      "Sie sollten viel trinken.",
+      "Ausreichend"
+    ],
+    0.29094672203063965
+  ],
+  [
+    [
+      40,
+      56
+    ],
+    [
+      "Dadurch wird der Stuhl weich und kann so besser an den entzündeten Stellen vorbeikommen.",
+      "Ausreichend"
+    ],
+    0.2741117477416992
+  ],
+  [
+    [
+      41,
+      31
+    ],
+    [
+      "Der Stuhlgang bereitet dann weniger Schmerzen.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2840242385864258
+  ],
+  [
+    [
+      42,
+      56
+    ],
+    [
+      "Sie sollten auch eine Zeit lang gut verträgliche Nahrung essen.",
+      "Ausreichend"
+    ],
+    0.3710086941719055
+  ],
+  [
+    [
+      43,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie in regelmäßigen Abständen.",
+      "Ausreichend"
+    ],
+    0.25324758887290955
+  ],
+  [
+    [
+      44,
+      31
+    ],
+    [
+      "Ist die Entzündung stärker?",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2682601809501648
+  ],
+  [
+    [
+      45,
+      48
+    ],
+    [
+      "Dann bekommen Sie vielleicht Antibiotika.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.24614454805850983
+  ],
+  [
+    [
+      46,
+      48
+    ],
+    [
+      "Antibiotika sind Medikamente gegen die Krankheit.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.3222229778766632
+  ],
+  [
+    [
+      47,
+      31
+    ],
+    [
+      "Die Entzündung ist stark?",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.26322194933891296
+  ],
+  [
+    [
+      48,
+      48
+    ],
+    [
+      "Dann müssen Sie vielleicht ins Krankenhaus.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.19102691113948822
+  ],
+  [
+    [
+      49,
+      56
+    ],
+    [
+      "Manchmal ist eine Operation nötig.",
+      "Ausreichend"
+    ],
+    0.2834118902683258
+  ],
+  [
+    [
+      50,
+      56
+    ],
+    [
+      "Das kommt aber nur selten vor.",
+      "Ausreichend"
+    ],
+    0.23840105533599854
+  ],
+  [
+    [
+      51,
+      31
+    ],
+    [
+      "Ist die Divertikulitis abgeheilt?",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.30274510383605957
+  ],
+  [
+    [
+      52,
+      56
+    ],
+    [
+      "Dann untersucht Sie der Arzt meistens noch einmal.",
+      "Ausreichend"
+    ],
+    0.25304704904556274
+  ],
+  [
+    [
+      53,
+      56
+    ],
+    [
+      "Vielleicht ist auch eine Darmspiegelung notwendig.",
+      "Ausreichend"
+    ],
+    0.37506672739982605
+  ],
+  [
+    [
+      54,
+      56
+    ],
+    [
+      "Bei einer Darmspiegelung wird Ihr Darm mit einer Kamera untersucht.",
+      "Ausreichend"
+    ],
+    0.20801202952861786
+  ],
+  [
+    [
+      55,
+      48
+    ],
+    [
+      "Jeder Mensch kann selbst etwas gegen Divertikel tun.",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.23710750043392181
+  ],
+  [
+    [
+      56,
+      56
+    ],
+    [
+      "So kann man eine Divertikulitis vielleicht vermeiden:",
+      "Ausreichend"
+    ],
+    0.2877578139305115
+  ],
+  [
+    [
+      57,
+      74
+    ],
+    [
+      "Essen Sie viel Obst und Gemüse .",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.37656763195991516
+  ],
+  [
+    [
+      58,
+      56
+    ],
+    [
+      "Essen Sie am besten fünf Portionen am Tag.",
+      "Ausreichend"
+    ],
+    0.17955194413661957
+  ],
+  [
+    [
+      59,
+      74
+    ],
+    [
+      "Essen Sie Vollkornprodukte wie Vollkornbrot oder Vollkornnudeln.",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.3105335235595703
+  ],
+  [
+    [
+      60,
+      74
+    ],
+    [
+      "Essen Sie wenig rotes Fleisch .",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.28584155440330505
+  ],
+  [
+    [
+      61,
+      26
+    ],
+    [
+      "Zu rotem Fleisch gehören Schwein oder Rind.",
+      "Verdauungsstörungen, wie Verstopfung, Durchfall oder starke Blähungen"
+    ],
+    0.17705053091049194
+  ],
+  [
+    [
+      62,
+      56
+    ],
+    [
+      "Trinken Sie am besten zwei Liter Wasser am Tag.",
+      "Ausreichend"
+    ],
+    0.16913928091526031
+  ],
+  [
+    [
+      63,
+      74
+    ],
+    [
+      "Sie können auch ungesüßten Tee trinken.",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.27692535519599915
+  ],
+  [
+    [
+      64,
+      56
+    ],
+    [
+      "Achtung: Manche Menschen mit Herzkrankheiten oder Nierenkrankheiten dürfen nur eine bestimmte Menge trinken.",
+      "Ausreichend"
+    ],
+    0.33006250858306885
+  ],
+  [
+    [
+      65,
+      56
+    ],
+    [
+      "Diese Menschen sollten deshalb vorher mit ihrem Arzt sprechen.",
+      "Ausreichend"
+    ],
+    0.30833932757377625
+  ],
+  [
+    [
+      66,
+      56
+    ],
+    [
+      "Bewegen Sie sich regelmäßig.",
+      "Ausreichend"
+    ],
+    0.3686867952346802
+  ],
+  [
+    [
+      67,
+      56
+    ],
+    [
+      "Gehen Sie zum Beispiel eine halbe Stunde am Tag spazieren.",
+      "Ausreichend"
+    ],
+    0.18090635538101196
+  ],
+  [
+    [
+      68,
+      56
+    ],
+    [
+      "Achten Sie auf ein normales Körpergewicht .",
+      "Ausreichend"
+    ],
+    0.25130635499954224
+  ],
+  [
+    [
+      69,
+      56
+    ],
+    [
+      "Sie wollen noch mehr über Divertikulitis lesen?",
+      "Ausreichend"
+    ],
+    0.2681245803833008
+  ],
+  [
+    [
+      70,
+      56
+    ],
+    [
+      "Mehr Informationen über Divertikulitis finden Sie hier .",
+      "Ausreichend"
+    ],
+    0.2654743790626526
+  ],
+  [
+    [
+      71,
+      56
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Ausreichend"
+    ],
+    0.14356912672519684
+  ],
+  [
+    [
+      72,
+      56
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Ausreichend"
+    ],
+    0.2871272563934326
+  ]
+]

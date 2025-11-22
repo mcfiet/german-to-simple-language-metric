@@ -1,0 +1,519 @@
+[
+  [
+    [
+      3,
+      58
+    ],
+    [
+      "Wenn Sie eine solche Wohnung mieten wollen:",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5608952045440674
+  ],
+  [
+    [
+      4,
+      58
+    ],
+    [
+      "Dann brauchen Sie dafür eine Bescheinigung.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7491934895515442
+  ],
+  [
+    [
+      8,
+      58
+    ],
+    [
+      "Das hängt davon ab, wie viel Geld Sie verdienen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6294589042663574
+  ],
+  [
+    [
+      9,
+      58
+    ],
+    [
+      "Sie dürfen nicht zu viel Geld haben.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6649869680404663
+  ],
+  [
+    [
+      12,
+      58
+    ],
+    [
+      "Wenn Sie in dieser Zeit keine Wohnung finden :",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5943208932876587
+  ],
+  [
+    [
+      19,
+      58
+    ],
+    [
+      "Ihre aktuelle Melde-Bescheinigung, wenn Sie nicht in Köln wohnen Darin steht die Adresse, wo Sie wohnen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7827165126800537
+  ],
+  [
+    [
+      20,
+      58
+    ],
+    [
+      "Wenn Sie in einer anderen Stadt wohnen:",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.679735004901886
+  ],
+  [
+    [
+      24,
+      58
+    ],
+    [
+      "Ihre Aufenthalts-Genehmigung, wenn Sie aus dem Ausland nach Köln ziehen",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6860657334327698
+  ],
+  [
+    [
+      25,
+      58
+    ],
+    [
+      "Dann müssen Sie uns zeigen: Ihren Pass und eine Aufenthalts-Genehmigung oder Ihren Pass und eine Niederlassungs-Genehmigung",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5883128046989441
+  ],
+  [
+    [
+      33,
+      58
+    ],
+    [
+      "Zum Beispiel: Die Abrechnung von Ihrem Lohn oder Gehalt Ihr Renten-Bescheid Briefe darüber: wie viel Geld Sie vom Arbeits-Amt bekommen Briefe darüber: wie viel Geld Sie vom Sozial-Amt bekommen Papiere zu Ihrem Unterhalt",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5811864137649536
+  ],
+  [
+    [
+      35,
+      58
+    ],
+    [
+      "Wenn Sie wissen, dass Sie bald mehr oder weniger Geld bekommen:",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7548349499702454
+  ],
+  [
+    [
+      36,
+      58
+    ],
+    [
+      "Dann müssen Sie uns das auch sagen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7288105487823486
+  ],
+  [
+    [
+      37,
+      58
+    ],
+    [
+      "Zum Beispiel: Weil Sie einen anderen Arbeits-Platz haben oder weil Sie bald Eltern-Geld bekommen oder weil Sie bald kein Eltern-Geld mehr bekommen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.776101291179657
+  ],
+  [
+    [
+      38,
+      58
+    ],
+    [
+      "Sie müssen uns auch Nachweise zeigen:",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7383193969726562
+  ],
+  [
+    [
+      39,
+      58
+    ],
+    [
+      "Wenn Ihnen Ihre alte Miet-Wohnung gekündigt wurde oder Sie aus Ihrer Wohnung raus müssen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6172212362289429
+  ],
+  [
+    [
+      42,
+      58
+    ],
+    [
+      "Einkommens-Grenze heißt: So viel Geld dürfen Sie haben.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5883634686470032
+  ],
+  [
+    [
+      53,
+      58
+    ],
+    [
+      "Das hängt davon ab, wie Sie leben.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7378783822059631
+  ],
+  [
+    [
+      55,
+      58
+    ],
+    [
+      "Zum Beispiel: Haben Sie erst vor kurzer Zeit geheiratet ?",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7811510562896729
+  ],
+  [
+    [
+      56,
+      58
+    ],
+    [
+      "Erziehen Sie ein Kind alleine?",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7684334516525269
+  ],
+  [
+    [
+      57,
+      58
+    ],
+    [
+      "Haben Sie eine Behinderung ?",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7741263508796692
+  ],
+  [
+    [
+      61,
+      58
+    ],
+    [
+      "Das heißt: was Sie insgesamt in 1 Jahr verdienen .",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.7568654417991638
+  ],
+  [
+    [
+      62,
+      58
+    ],
+    [
+      "Das ist das Geld, was Ihr Arbeit-Geber für Sie bezahlen muss.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5784079432487488
+  ],
+  [
+    [
+      69,
+      58
+    ],
+    [
+      "Abzugs-Beträge : wenn Sie Steuern und Pflicht-Beiträge zu den gesetzlichen Sozial-Versicherungen zahlen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6284422874450684
+  ],
+  [
+    [
+      75,
+      58
+    ],
+    [
+      "Wenn Sie uns das mit einem Steuer-Bescheid nachweisen, dann beachten wir das bei der Berechnung.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.5329669117927551
+  ],
+  [
+    [
+      76,
+      58
+    ],
+    [
+      "Bitte fragen Sie dazu Ihren Sach-Bearbeiter oder Ihre Sach-Bearbeiterin.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6951603889465332
+  ],
+  [
+    [
+      77,
+      58
+    ],
+    [
+      "Bei einer Schwer-Behinderung: haben Sie einen Frei-Betrag von 4.500 Euro Wenn Sie einen Grad der Behinderung von 100 Prozent haben.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6421970129013062
+  ],
+  [
+    [
+      78,
+      58
+    ],
+    [
+      "Oder wenn Sie einen Grad der Behinderung von wenigstens 80 Prozent haben und zu Hause Pflege brauchen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.541373610496521
+  ],
+  [
+    [
+      79,
+      58
+    ],
+    [
+      "Sie haben einen Frei-Betrag von 2.100 Euro : wenn Sie einen Grad der Behinderung von unter 80 Prozent haben und zu Hause Pflege brauchen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6319409012794495
+  ],
+  [
+    [
+      83,
+      58
+    ],
+    [
+      "Wenn Sie arbeiten und Ihr Kind alleine erziehen:",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6158397197723389
+  ],
+  [
+    [
+      90,
+      58
+    ],
+    [
+      "Wenn Sie für einen anderen Menschen Unterhalt zahlen müssen:",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.6390460729598999
+  ],
+  [
+    [
+      92,
+      58
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie Unterhalt zahlen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.8447566032409668
+  ],
+  [
+    [
+      95,
+      58
+    ],
+    [
+      "Wichtig: Lassen Sie sich beraten.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.8218683004379272
+  ],
+  [
+    [
+      98,
+      60
+    ],
+    [
+      "Der WBS für Nordrhein-Westfalen",
+      "Für allgemeine Fragen stehen Ihnen die WBS Sachbearbeiter gerne zur Verfügung."
+    ],
+    0.5814139246940613
+  ],
+  [
+    [
+      99,
+      60
+    ],
+    [
+      "Ein WBS gilt immer nur für das Bundes-Land, in dem er ausgestellt wurde.",
+      "Für allgemeine Fragen stehen Ihnen die WBS Sachbearbeiter gerne zur Verfügung."
+    ],
+    0.5743846893310547
+  ],
+  [
+    [
+      100,
+      78
+    ],
+    [
+      "Wenn Sie einen WBS bei uns in Köln beantragen, dann gilt er nur in Nordrhein-Westfalen.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5004503726959229
+  ],
+  [
+    [
+      101,
+      78
+    ],
+    [
+      "In der Stadt, in der Sie einen WBS beantragen, werden Sie in eine Liste eingetragen.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5029581785202026
+  ],
+  [
+    [
+      107,
+      78
+    ],
+    [
+      "Dann müssen Sie dort einen WBS beantragen.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.521922767162323
+  ],
+  [
+    [
+      110,
+      78
+    ],
+    [
+      "Ein WBS aus einem anderen Bundes-Land ist bei uns in Nordrhein-Westfalen nicht gültig.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5345921516418457
+  ],
+  [
+    [
+      111,
+      78
+    ],
+    [
+      "Wie geht es weiter, wenn ich einen WBS habe?",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5404243469238281
+  ],
+  [
+    [
+      115,
+      78
+    ],
+    [
+      "Diese Wohnungen dürfen nur an Menschen mit WBS vermietet werden.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5506066083908081
+  ],
+  [
+    [
+      116,
+      78
+    ],
+    [
+      "Wenn Sie einen WBS haben, dürfen Sie eine solche Wohnung mieten.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.45683470368385315
+  ],
+  [
+    [
+      132,
+      78
+    ],
+    [
+      "Wie viel kostet der WBS?",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5769048929214478
+  ],
+  [
+    [
+      133,
+      78
+    ],
+    [
+      "Der WBS kostet zwischen 7,50 Euro und 20 Euro .",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5866843461990356
+  ],
+  [
+    [
+      135,
+      78
+    ],
+    [
+      "Wo finde ich die Gesetze zum WBS?",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.5733192563056946
+  ],
+  [
+    [
+      136,
+      78
+    ],
+    [
+      "Die Infos zum WBS stehen im Gesetz zur Förderung und Nutzung von Wohn-Raum .",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.6072482466697693
+  ],
+  [
+    [
+      139,
+      78
+    ],
+    [
+      "Die Infos stehen in Paragraf 13, 14, 15 und 18.",
+      "Innerhalb der Öffnungszeiten stehen Ihnen die Mitarbeiterinnen und Mitarbeiter des WBS Teams gerne zur Verfügung."
+    ],
+    0.3337842524051666
+  ],
+  [
+    [
+      142,
+      88
+    ],
+    [
+      "Weitere Infos dazu stehen in Nummer 8 Wohn-Raumnutzungs-Bestimmungen und Nummer 1 bis 10 Einkommens-Ermittlungs-Erlass.",
+      "Wohnraumnutzungsbestimmungen und Nummer 1 bis 10"
+    ],
+    0.7343111634254456
+  ]
+]

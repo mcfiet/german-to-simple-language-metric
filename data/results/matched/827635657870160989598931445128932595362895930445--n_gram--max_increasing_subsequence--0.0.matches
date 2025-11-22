@@ -1,0 +1,827 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Schilddrüse ist ein Organ im Hals.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.9739518761634827
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Schilddrüse befindet sich unter dem Kehlkopf an der Luftröhre.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.9715193510055542
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Die Schilddrüse produziert wichtige Hormone wie zum Beispiel:",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.9469012022018433
+  ],
+  [
+    [
+      3,
+      4
+    ],
+    [
+      "Thyroxin Trijodthyronin Diese Hormone beeinflussen wichtige Körperfunktionen wie:",
+      "Produziert die Schilddrüse zu viele Hormone, liegt eine Überfunktion (Hyperthyreose) vor."
+    ],
+    0.28335291147232056
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Bei einer Schilddrüsenüberfunktion produziert die Schilddrüse zu viele Hormone.",
+      "Steckt ein Jodmangel hinter der Überfunktion, ist die vergrößerte Schilddrüse häufig als Vorwölbung im Halsbereich zu sehen."
+    ],
+    0.9496315121650696
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Manchmal ist die Schilddrüse dann größer als normal.",
+      "Steckt ein Jodmangel hinter der Überfunktion, ist die vergrößerte Schilddrüse häufig als Vorwölbung im Halsbereich zu sehen."
+    ],
+    0.939420223236084
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Deshalb kann man vielleicht eine Wölbung am Hals sehen.",
+      "Umgangssprachlich wird dies als Kropf bezeichnet."
+    ],
+    0.042189888656139374
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Diese Wölbung nennt man auch: Kropf.",
+      "Umgangssprachlich wird dies als Kropf bezeichnet."
+    ],
+    0.1295393407344818
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Von dieser Vergrößerung sind oft Frauen betroffen.",
+      "Umgangssprachlich wird dies als Kropf bezeichnet."
+    ],
+    0.3267747759819031
+  ],
+  [
+    [
+      11,
+      24
+    ],
+    [
+      "Anzeichen für eine Schilddrüsenüberfunktion sind zum Beispiel:",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9675911068916321
+  ],
+  [
+    [
+      12,
+      31
+    ],
+    [
+      "Probleme beim Schlucken Heiserkeit",
+      "Hoher Blutdruck, heftiger Puls und zu schneller Herzschlag (Herzrasen);"
+    ],
+    0.5561487078666687
+  ],
+  [
+    [
+      13,
+      31
+    ],
+    [
+      "Nervosität oder Probleme bei der Konzentration",
+      "Hoher Blutdruck, heftiger Puls und zu schneller Herzschlag (Herzrasen);"
+    ],
+    0.004716034512966871
+  ],
+  [
+    [
+      14,
+      32
+    ],
+    [
+      "Schlafstörungen",
+      "im Extremfall auch lebensbedrohliche Herzrhythmusstörungen ."
+    ],
+    0.2993854284286499
+  ],
+  [
+    [
+      15,
+      33
+    ],
+    [
+      "Gewichtsabnahme",
+      "Gewichtsverlust trotz guten Appetits Warme, feuchte Haut, Schweißausbrüche, Wärmeunverträglichkeit Haarausfall , brüchige Nägel"
+    ],
+    0.10838759690523148
+  ],
+  [
+    [
+      16,
+      34
+    ],
+    [
+      "Durchfall",
+      "Durchfall Muskelschwäche, Muskelschmerzen Menstruationsstörungen;"
+    ],
+    0.2841034531593323
+  ],
+  [
+    [
+      17,
+      37
+    ],
+    [
+      "hoher Blutdruck oder Herzrasen der Hemdkragen lässt sich nicht mehr zumachen der Körper zittert die Haut ist warm und schwitzt die Muskeln schmerzen",
+      "Dazu gehören: Tränenfluss, Fremdkörpergefühl, Lichtscheu, Druckgefühl (manchmal schmerzhaft), Rötung der Augenbindehaut, Lidschwellung , Hervortreten der Augen (Exophthalmus) und Sehstörungen (oft Doppelbilder)"
+    ],
+    0.4835793375968933
+  ],
+  [
+    [
+      18,
+      42
+    ],
+    [
+      "Sie haben solche Anzeichen bei sich bemerkt?",
+      "Rasche und intensive Therapiemaßnahmen sind erforderlich."
+    ],
+    0.09942276775836945
+  ],
+  [
+    [
+      19,
+      48
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Mit weiterführenden Untersuchungen wie der Bestimmung von Blutwerten sowie bildgebenden Verfahren wie Ultraschall und Szintigrafie kann der Mediziner dann den Verdacht bestätigen und nach den Ursachen forschen."
+    ],
+    0.06775055825710297
+  ],
+  [
+    [
+      20,
+      48
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Mit weiterführenden Untersuchungen wie der Bestimmung von Blutwerten sowie bildgebenden Verfahren wie Ultraschall und Szintigrafie kann der Mediziner dann den Verdacht bestätigen und nach den Ursachen forschen."
+    ],
+    0.1428806185722351
+  ],
+  [
+    [
+      21,
+      69
+    ],
+    [
+      "Die Hauptursache für Schilddrüsenüberfunktion ist Morbus Basedow .",
+      "Im Blut sind hohe Schilddrüsenantikörperwerte zu erwarten."
+    ],
+    0.9336132407188416
+  ],
+  [
+    [
+      23,
+      70
+    ],
+    [
+      "Dabei produziert der Körper Abwehrstoffe gegen die eigene Schilddrüse.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9608640670776367
+  ],
+  [
+    [
+      24,
+      70
+    ],
+    [
+      "Diese Abwehrstoffe regen die Schilddrüse an.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9864313006401062
+  ],
+  [
+    [
+      25,
+      70
+    ],
+    [
+      "Deshalb produziert die Schilddrüse mehr Hormone als der Körper eigentlich braucht.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9429916143417358
+  ],
+  [
+    [
+      26,
+      70
+    ],
+    [
+      "Oft ist die Schilddrüse dann auch größer.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9825659990310669
+  ],
+  [
+    [
+      27,
+      70
+    ],
+    [
+      "Eine Schilddrüsenüberfunktion kann aber auch durch eine funktionelle Autonomie verursacht werden.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.8788910508155823
+  ],
+  [
+    [
+      28,
+      70
+    ],
+    [
+      "Dann produzieren Teile der Schilddrüse oder sogar die gesamte Schilddrüse eigenständig Hormone.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9770422577857971
+  ],
+  [
+    [
+      30,
+      70
+    ],
+    [
+      "Die Schilddrüse produziert mehr Hormone als der Körper braucht?",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9419495463371277
+  ],
+  [
+    [
+      31,
+      70
+    ],
+    [
+      "Dann liegt eine Schilddrüsenüberfunktion vor.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9192449450492859
+  ],
+  [
+    [
+      32,
+      70
+    ],
+    [
+      "Meistens reguliert die Schilddrüse sich selbst.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.987113893032074
+  ],
+  [
+    [
+      33,
+      70
+    ],
+    [
+      "Die gesunden Zellen produzieren dann weniger Hormone.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.007012482266873121
+  ],
+  [
+    [
+      36,
+      70
+    ],
+    [
+      "Eine Autonomie der Schilddrüse entsteht häufig durch Jodmangel.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9707099795341492
+  ],
+  [
+    [
+      37,
+      70
+    ],
+    [
+      "Dann vergrößert sich die Schilddrüse.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9761006236076355
+  ],
+  [
+    [
+      38,
+      91
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "In manchen Fällen sind auch Betablocker sinnvoll, die sonst zum Beispiel als Blutdrucksenker eingesetzt werden."
+    ],
+    0.07570010423660278
+  ],
+  [
+    [
+      39,
+      119
+    ],
+    [
+      "Der Arzt untersucht Sie:",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.2047928124666214
+  ],
+  [
+    [
+      41,
+      119
+    ],
+    [
+      "So kann der Arzt eine vergrößerte Schilddrüse feststellen.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.06415539979934692
+  ],
+  [
+    [
+      42,
+      119
+    ],
+    [
+      "Der Arzt untersucht auch das Blut.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.21581877768039703
+  ],
+  [
+    [
+      43,
+      119
+    ],
+    [
+      "Außerdem kann der Arzt einen Ultraschall machen.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.36683300137519836
+  ],
+  [
+    [
+      44,
+      119
+    ],
+    [
+      "Mit einem Ultraschall kontrolliert der Arzt die Größe und das Aussehen der Schilddrüse.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.11059866845607758
+  ],
+  [
+    [
+      50,
+      119
+    ],
+    [
+      "Medikamente können jedoch gegen die Symptome helfen.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.0017431853339076042
+  ],
+  [
+    [
+      51,
+      119
+    ],
+    [
+      "Sprechen Sie deshalb mit Ihrem Arzt.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.0019957737531512976
+  ],
+  [
+    [
+      52,
+      119
+    ],
+    [
+      "Oft verschreibt der Arzt Thyreostatika.",
+      "In der akuten Phase lässt sich der Entzündungsprozess in der Augenhöhle auch durch Glukokortikoid-Präparate (\"Kortison\") und/oder eine Bestrahlung des Gewebes in der Augenhöhle eindämmen."
+    ],
+    0.3144465684890747
+  ],
+  [
+    [
+      53,
+      120
+    ],
+    [
+      "Diese Medikamente hemmen die Hormonproduktion in der Schilddrüse.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.05156432092189789
+  ],
+  [
+    [
+      54,
+      120
+    ],
+    [
+      "So soll die Menge an Hormonen im Körper wieder normalisiert werden.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.0617126040160656
+  ],
+  [
+    [
+      55,
+      120
+    ],
+    [
+      "Danach ist häufig eine Operation notwendig.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.6693533062934875
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Vielleicht ist auch eine Radiojodtherapie notwendig.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.10208094865083694
+  ],
+  [
+    [
+      57,
+      120
+    ],
+    [
+      "Manchmal muss die Schilddrüse durch eine Operation entfernt werden.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.10299761593341827
+  ],
+  [
+    [
+      58,
+      120
+    ],
+    [
+      "Oder die Schilddrüse muss verkleinert werden.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.02262187749147415
+  ],
+  [
+    [
+      59,
+      120
+    ],
+    [
+      "Das kann verschiedene Gründe haben.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.0759270042181015
+  ],
+  [
+    [
+      60,
+      120
+    ],
+    [
+      "Nach einer Operation sind die Schilddrüsenhormone sofort weniger.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.09411709755659103
+  ],
+  [
+    [
+      61,
+      120
+    ],
+    [
+      "Aber eine Operation hat immer auch Risiken.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.6519107222557068
+  ],
+  [
+    [
+      62,
+      124
+    ],
+    [
+      "Nach einer Operation muss der Patient Schilddrüsenhormone und Jodid einnehmen.",
+      "Um einer vergrößerten Schilddrüse (Kropf) vorzubeugen, sollte auf eine ausreichende Jodversorgung geachtet werden."
+    ],
+    0.923468291759491
+  ],
+  [
+    [
+      63,
+      124
+    ],
+    [
+      "Dadurch soll eine Unterfunktion von der Schilddrüse verhindert werden.",
+      "Um einer vergrößerten Schilddrüse (Kropf) vorzubeugen, sollte auf eine ausreichende Jodversorgung geachtet werden."
+    ],
+    0.936858594417572
+  ],
+  [
+    [
+      64,
+      124
+    ],
+    [
+      "Und die Schilddrüse wächst dann nicht mehr so schnell an.",
+      "Um einer vergrößerten Schilddrüse (Kropf) vorzubeugen, sollte auf eine ausreichende Jodversorgung geachtet werden."
+    ],
+    0.9469955563545227
+  ],
+  [
+    [
+      65,
+      126
+    ],
+    [
+      "Bei einer Radiojodtherapie wird Gewebe durch radioaktive Strahlung zerstört:",
+      "Die Deutsche Gesellschaft für Ernährung empfiehlt für Schwangere eine Aufnahme von 230 µg pro Tag, für Stillende 260 µg pro Tag, für Jugendliche und Erwachsene 200 µg pro Tag und für über-51-Jährige 180 µg pro Tag."
+    ],
+    0.02999257482588291
+  ],
+  [
+    [
+      66,
+      127
+    ],
+    [
+      "Der Patient bekommt radioaktives Jod.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.4471864402294159
+  ],
+  [
+    [
+      67,
+      127
+    ],
+    [
+      "Manche Zellen in der Schilddrüse produzieren zu viele Hormone.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.0016746458131819963
+  ],
+  [
+    [
+      68,
+      127
+    ],
+    [
+      "Das Jod zerstört genau diese Zellen.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.6756273508071899
+  ],
+  [
+    [
+      69,
+      127
+    ],
+    [
+      "Und die Patienten scheiden das radioaktive Jod dann wieder aus.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.5059805512428284
+  ],
+  [
+    [
+      71,
+      127
+    ],
+    [
+      "Danach haben die Patienten vielleicht eine Schilddrüsenunterfunktion .",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.002450813539326191
+  ],
+  [
+    [
+      72,
+      127
+    ],
+    [
+      "Deshalb müssen sie Tabletten nehmen.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.021534796804189682
+  ],
+  [
+    [
+      74,
+      127
+    ],
+    [
+      "Sie möchten eine Schilddrüsenüberfunktion vermeiden?",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.0016438658349215984
+  ],
+  [
+    [
+      75,
+      127
+    ],
+    [
+      "Dann nehmen Sie ausreichend Jod zu sich.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.6437574625015259
+  ],
+  [
+    [
+      76,
+      127
+    ],
+    [
+      "Jod ist zum Beispiel in Seefisch.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.4926339089870453
+  ],
+  [
+    [
+      77,
+      127
+    ],
+    [
+      "Essen Sie am besten einmal in der Woche Fisch.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.03715496510267258
+  ],
+  [
+    [
+      78,
+      127
+    ],
+    [
+      "Manche Menschen brauchen viel Jod.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.6589077711105347
+  ],
+  [
+    [
+      79,
+      127
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: Schwangere stillende Frauen",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.11153130978345871
+  ],
+  [
+    [
+      84,
+      127
+    ],
+    [
+      "Mit diesen Lebensmitteln nehmen Sie ausreichend Jod zu sich.",
+      "Viel Jod enthalten zum Beispiel Seefische."
+    ],
+    0.6329072117805481
+  ],
+  [
+    [
+      85,
+      129
+    ],
+    [
+      "Haben andere Menschen in Ihrer Familie eine Schilddrüsenerkrankung?",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9873912334442139
+  ],
+  [
+    [
+      86,
+      129
+    ],
+    [
+      "Dann gehen Sie regelmäßig zum Arzt.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.009540003724396229
+  ],
+  [
+    [
+      87,
+      129
+    ],
+    [
+      "Der Arzt untersucht Ihre Schilddrüse.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9714443683624268
+  ],
+  [
+    [
+      88,
+      129
+    ],
+    [
+      "Dann kann der Arzt eine Schilddrüsenüberfunktion früh erkennen.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.932377815246582
+  ],
+  [
+    [
+      89,
+      129
+    ],
+    [
+      "Sie wollen noch mehr über die Schilddrüsenüberfunktion lesen?",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9396185278892517
+  ],
+  [
+    [
+      90,
+      129
+    ],
+    [
+      "Mehr Informationen über die Schilddrüsenüberfunktion finden Sie hier .",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9342761635780334
+  ],
+  [
+    [
+      91,
+      133
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "1995 bekam sie die Bezeichnung \"außerplanmäßiger Professor\" durch den Minister für Wissenschaft und Kunst des Landes Hessen verliehen."
+    ],
+    0.25727829337120056
+  ],
+  [
+    [
+      92,
+      133
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "1995 bekam sie die Bezeichnung \"außerplanmäßiger Professor\" durch den Minister für Wissenschaft und Kunst des Landes Hessen verliehen."
+    ],
+    0.08273179829120636
+  ]
+]

@@ -1,0 +1,365 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Prostata ist eine Drüse im Körper.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9215765595436096
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Prostata ist unter der Blase direkt an der Harnröhre.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9153200387954712
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Die Prostata ist etwa so groß wie eine Kastanie.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9232444167137146
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Prostata hat eine wichtige Funktion:",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9270391464233398
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Zusammen mit anderen Organen im Körper bildet die Prostata das Sperma.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9169433116912842
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Frauen haben keine Prostata.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9354408383369446
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Deshalb können nur Männer Prostatakrebs bekommen.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.8503426313400269
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Bei Prostatakrebs wächst ein Tumor in der Prostata.",
+      "Das Prostatakarzinom (Prostatakrebs) ist ein bösartiger Tumor der Vorsteherdrüse ( Prostata ) des Mannes."
+    ],
+    0.9508903622627258
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Solches Gewebe ist zum Beispiel die Haut.",
+      "Bei fortschreitendem Wachstum kann er aber die bindegewebige Kapsel durchbrechen, die das Organ umgibt, und in benachbartes Gewebe hineinwachsen."
+    ],
+    0.5291466116905212
+  ],
+  [
+    [
+      21,
+      12
+    ],
+    [
+      "Nicht jeder Tumor ist bösartig.",
+      "Das hängt unter anderem davon ab, wie fortgeschritten der Tumor ist."
+    ],
+    0.8397335410118103
+  ],
+  [
+    [
+      25,
+      12
+    ],
+    [
+      "Ein kleiner Tumor verursacht oft keine Beschwerden.",
+      "Das hängt unter anderem davon ab, wie fortgeschritten der Tumor ist."
+    ],
+    0.8006289601325989
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "Oft findet der Arzt den Tumor bei einer Untersuchung zur Früherkennung .",
+      "Das hängt unter anderem davon ab, wie fortgeschritten der Tumor ist."
+    ],
+    0.7450746893882751
+  ],
+  [
+    [
+      31,
+      12
+    ],
+    [
+      "Dann ist der Tumor meist noch klein.",
+      "Das hängt unter anderem davon ab, wie fortgeschritten der Tumor ist."
+    ],
+    0.8400099873542786
+  ],
+  [
+    [
+      32,
+      12
+    ],
+    [
+      "Ein kleiner Tumor kann meist besser behandelt werden.",
+      "Das hängt unter anderem davon ab, wie fortgeschritten der Tumor ist."
+    ],
+    0.7942941784858704
+  ],
+  [
+    [
+      34,
+      12
+    ],
+    [
+      "Mit der Zeit wächst der Tumor.",
+      "Das hängt unter anderem davon ab, wie fortgeschritten der Tumor ist."
+    ],
+    0.8428056836128235
+  ],
+  [
+    [
+      36,
+      18
+    ],
+    [
+      "Anzeichen für Prostatakrebs sind zum Beispiel:",
+      "In den meisten Fällen entsteht Prostatakrebs in der äußeren Drüsenzone."
+    ],
+    0.9285339117050171
+  ],
+  [
+    [
+      37,
+      23
+    ],
+    [
+      "Probleme beim Wasserlassen .",
+      "Schwierigkeiten beim Wasserlassen"
+    ],
+    0.5052497386932373
+  ],
+  [
+    [
+      42,
+      24
+    ],
+    [
+      "Oder es tropft noch Urin aus der Harnröhre nach.",
+      "Blut im Urin oder in der Samenflüssigkeit Schmerzen bei der Ejakulation, in Rücken, Becken oder im Hüftbereich Potenzstörungen"
+    ],
+    0.6721091270446777
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Die Schmerzen treten im Bereich des Beckens oder im Rücken auf.",
+      "Blut im Urin oder in der Samenflüssigkeit Schmerzen bei der Ejakulation, in Rücken, Becken oder im Hüftbereich Potenzstörungen"
+    ],
+    0.5008148550987244
+  ],
+  [
+    [
+      50,
+      45
+    ],
+    [
+      "Der Arzt untersucht Sie.",
+      "Der Arzt nimmt dem Mann also Blut ab, das im Labor untersucht wird."
+    ],
+    0.49752071499824524
+  ],
+  [
+    [
+      52,
+      97
+    ],
+    [
+      "Prostatakrebs ist die häufigste Krebserkrankung bei Männern.",
+      "T3 bedeutet, dass der Tumor die Prostatakapsel durchbricht."
+    ],
+    0.6161133050918579
+  ],
+  [
+    [
+      53,
+      225
+    ],
+    [
+      "Prostatakrebs kann verschiedene Ursachen haben.",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.939590334892273
+  ],
+  [
+    [
+      54,
+      225
+    ],
+    [
+      "Ursachen für Prostatakrebs sind zum Beispiel: Das Alter .",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9520590305328369
+  ],
+  [
+    [
+      55,
+      225
+    ],
+    [
+      "Ab einem Alter von 50 Jahren haben Männer ein höheres Risiko für Prostatakrebs.",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9439968466758728
+  ],
+  [
+    [
+      65,
+      225
+    ],
+    [
+      "Auch Prostatakrebs kann durch Tabak entstehen.",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9526617527008057
+  ],
+  [
+    [
+      66,
+      225
+    ],
+    [
+      "Sie wollen Ihr Risiko für Prostatakrebs senken?",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9500545859336853
+  ],
+  [
+    [
+      69,
+      225
+    ],
+    [
+      "Haben Verwandte von Ihnen Prostatakrebs?",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9543786644935608
+  ],
+  [
+    [
+      70,
+      225
+    ],
+    [
+      "Dann ist Ihr Risiko für Prostatakrebs erhöht.",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.948797345161438
+  ],
+  [
+    [
+      73,
+      225
+    ],
+    [
+      "Mein Risiko für Prostatakrebs ist erhöht?",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9511992931365967
+  ],
+  [
+    [
+      85,
+      225
+    ],
+    [
+      "Sie haben Prostatakrebs?",
+      "Mit zunehmendem Alter steigt das Risiko, an Prostatakrebs zu erkranken."
+    ],
+    0.9550255537033081
+  ],
+  [
+    [
+      91,
+      238
+    ],
+    [
+      "Eine bestimmte Art von Strahlung schadet den Krebszellen.",
+      "Bekannt ist jedoch, dass Übergewicht das Risiko für viele Krebsarten erhöht."
+    ],
+    0.6614257097244263
+  ],
+  [
+    [
+      96,
+      238
+    ],
+    [
+      "Bei einer Chemotherapie bekommen Sie Medikamente gegen den Krebs.",
+      "Bekannt ist jedoch, dass Übergewicht das Risiko für viele Krebsarten erhöht."
+    ],
+    0.652867317199707
+  ],
+  [
+    [
+      100,
+      238
+    ],
+    [
+      "Die Krebszellen sterben ab.",
+      "Bekannt ist jedoch, dass Übergewicht das Risiko für viele Krebsarten erhöht."
+    ],
+    0.6763432025909424
+  ]
+]

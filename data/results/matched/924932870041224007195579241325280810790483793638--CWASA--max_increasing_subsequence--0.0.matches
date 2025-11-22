@@ -1,0 +1,783 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Blutvergiftung ist eine lebensbedrohliche Reaktion des Körpers.",
+      "Vor allem zu Beginn ist eine Blutvergiftung nicht leicht zu erkennen."
+    ],
+    0.5364843010902405
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Dabei können die eigenen Organe stark geschädigt werden.",
+      "Vor allem zu Beginn ist eine Blutvergiftung nicht leicht zu erkennen."
+    ],
+    0.4024754762649536
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Blutvergiftung ist nicht leicht zu erkennen.",
+      "Vor allem zu Beginn ist eine Blutvergiftung nicht leicht zu erkennen."
+    ],
+    0.7746841907501221
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Anzeichen können nämlich auch auf andere Erkrankungen hindeuten.",
+      "Die Anzeichen sind vieldeutig und können auch durch andere Krankheiten verursacht sein."
+    ],
+    0.692603588104248
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Anzeichen einer Blutvergiftung sind zum Beispiel:",
+      "Die Anzeichen sind vieldeutig und können auch durch andere Krankheiten verursacht sein."
+    ],
+    0.48742789030075073
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Verwirrung",
+      "Folgende Symptome deuten auf eine Sepsis hin: Bewusstseinsveränderung : Der Betroffene wirkt desorientiert, verwirrt, unruhig oder schläfrig"
+    ],
+    0.2946556508541107
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Unruhe",
+      "Beschleunigte Atmung : Die Atmung ist schnell und flach, 22 Atemzüge pro Minute oder mehr Niedriger Blutdruck :"
+    ],
+    0.20875920355319977
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Müdigkeit schnelle und flache Atmung niedriger Blutdruck",
+      "Beschleunigte Atmung : Die Atmung ist schnell und flach, 22 Atemzüge pro Minute oder mehr Niedriger Blutdruck :"
+    ],
+    0.5480812788009644
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "schneller Puls hohes Fieber oder sehr niedrige Körpertemperatur",
+      "Häufig ist der Puls beschleunigt Fieber oder erniedrigte Temperatur :"
+    ],
+    0.6217604875564575
+  ],
+  [
+    [
+      9,
+      17
+    ],
+    [
+      "Es gibt noch andere mögliche Anzeichen für eine Blutvergiftung.",
+      "Es ist also kein eindeutiges Zeichen für eine Sepsis, sondern lediglich ein Hinweis auf eine örtliche Entzündung."
+    ],
+    0.6186449527740479
+  ],
+  [
+    [
+      10,
+      19
+    ],
+    [
+      "Aber die Anzeichen hängen immer auch von der Entzündung ab:",
+      "Im ungünstigen Fall kann sich aus einer solchen Entzündung allerdings – wie aus jeder Infektion – eine Blutvergiftung entwickeln."
+    ],
+    0.5346544981002808
+  ],
+  [
+    [
+      11,
+      21
+    ],
+    [
+      "Die betroffene Person hat eine Hirnhaut-Entzündung?",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.5799338817596436
+  ],
+  [
+    [
+      12,
+      21
+    ],
+    [
+      "Dann hat die betroffene Person vielleicht auch Kopfschmerzen.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.4451921284198761
+  ],
+  [
+    [
+      13,
+      21
+    ],
+    [
+      "Oder sie hat einen steifen Nacken.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.2765662670135498
+  ],
+  [
+    [
+      14,
+      21
+    ],
+    [
+      "Manchmal hat eine Person bei einer Blutvergiftung auch kleine rote Flecken am ganzen Körper.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.5432778000831604
+  ],
+  [
+    [
+      15,
+      21
+    ],
+    [
+      "Die Flecken können zu größeren dunkelroten Flecken werden.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.3508265018463135
+  ],
+  [
+    [
+      16,
+      21
+    ],
+    [
+      "Es können auch mit Blut gefüllte Bläschen entstehen.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.356665700674057
+  ],
+  [
+    [
+      17,
+      21
+    ],
+    [
+      "Die betroffene Person muss dann sofort ins Krankenhaus.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.35685405135154724
+  ],
+  [
+    [
+      18,
+      21
+    ],
+    [
+      "Eine Blutvergiftung beginnt mit einer Infektion.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.571972668170929
+  ],
+  [
+    [
+      19,
+      21
+    ],
+    [
+      "Das kann zum Beispiel eine eitrige Wunde sein.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.654642641544342
+  ],
+  [
+    [
+      20,
+      21
+    ],
+    [
+      "Auch eine Entzündung kann die Ursache einer Blutvergiftung sein.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.6571086645126343
+  ],
+  [
+    [
+      21,
+      21
+    ],
+    [
+      "Zum Beispiel kann eine Lungenentzündung die Blutvergiftung verursachen.",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.6950169205665588
+  ],
+  [
+    [
+      22,
+      21
+    ],
+    [
+      "Auslöser für eine Infektion oder Entzündung sind zum Beispiel:",
+      "Ausgangspunkt einer Blutvergiftung ist eine Infektion, zum Beispiel eine infizierte Wunde, ein Harnwegsinfekt oder eine Lungenentzündung ."
+    ],
+    0.7316614389419556
+  ],
+  [
+    [
+      23,
+      22
+    ],
+    [
+      "Bakterien Pilze Parasiten Viren",
+      "Auslöser sind häufig Bakterien, aber auch Pilze, Parasiten oder Viren."
+    ],
+    0.5982686281204224
+  ],
+  [
+    [
+      24,
+      26
+    ],
+    [
+      "Das Immunsystem des Körpers reagiert auf die Entzündung und bekämpft die Erreger.",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.5857782959938049
+  ],
+  [
+    [
+      25,
+      26
+    ],
+    [
+      "Normalerweise kann das Immunsystem die Erreger selbst bekämpfen.",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.5117332339286804
+  ],
+  [
+    [
+      26,
+      26
+    ],
+    [
+      "Dann heilt die Entzündung.",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.3750852942466736
+  ],
+  [
+    [
+      27,
+      26
+    ],
+    [
+      "Bei einer Blutvergiftung reagiert das Immunsystem jedoch nicht erfolgreich auf die Infektion.",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.6530004143714905
+  ],
+  [
+    [
+      28,
+      27
+    ],
+    [
+      "Das Immunsystem beschädigt dann den eigenen Körper.",
+      "Es ist normal, dass körpereigene Abwehrzellen im Kampf gegen eine Infektion Botenstoffe ausschütten, die weitere Botenstoffe im Körper aktivieren und bestimmte Reaktionen in Gang setzen, die letztlich die Krankheitserreger bekämpfen."
+    ],
+    0.4340386986732483
+  ],
+  [
+    [
+      29,
+      30
+    ],
+    [
+      "Ärzte wissen aber nicht:",
+      "Lebenswichtige Organe wie Nieren, Herz oder Lunge funktionieren nicht mehr richtig."
+    ],
+    0.49834293127059937
+  ],
+  [
+    [
+      30,
+      30
+    ],
+    [
+      "Warum reagiert das Immunsystem so?",
+      "Lebenswichtige Organe wie Nieren, Herz oder Lunge funktionieren nicht mehr richtig."
+    ],
+    0.44913285970687866
+  ],
+  [
+    [
+      31,
+      30
+    ],
+    [
+      "Bei einer Blutvergiftung funktionieren lebenswichtige Organe nicht mehr richtig.",
+      "Lebenswichtige Organe wie Nieren, Herz oder Lunge funktionieren nicht mehr richtig."
+    ],
+    0.6440503597259521
+  ],
+  [
+    [
+      32,
+      32
+    ],
+    [
+      "Deshalb ist eine Blutvergiftung sehr gefährlich.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.44983693957328796
+  ],
+  [
+    [
+      33,
+      32
+    ],
+    [
+      "Für manche Menschen ist das Risiko für eine Blutvergiftung besonders hoch.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.48287802934646606
+  ],
+  [
+    [
+      34,
+      32
+    ],
+    [
+      "Dazu gehören zum Beispiel Menschen mit einem geschwächten Immunsystem.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.45311686396598816
+  ],
+  [
+    [
+      35,
+      32
+    ],
+    [
+      "Das können zum Beispiel Personen mit Diabetes oder Krebserkrankung sein.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.5962966084480286
+  ],
+  [
+    [
+      36,
+      33
+    ],
+    [
+      "Besonders gefährdet sind aber auch: Frühchen.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.681981086730957
+  ],
+  [
+    [
+      37,
+      33
+    ],
+    [
+      "Frühchen sind zu früh geborene Babys.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.457716166973114
+  ],
+  [
+    [
+      38,
+      33
+    ],
+    [
+      "Sehr alte Menschen.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.5442994236946106
+  ],
+  [
+    [
+      39,
+      43
+    ],
+    [
+      "Frisch operierte Patienten.",
+      "Beispielsweise können die Nierenwerte auffällig sein."
+    ],
+    0.35038623213768005
+  ],
+  [
+    [
+      40,
+      47
+    ],
+    [
+      "Patienten auf der Intensivstation.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.5517637133598328
+  ],
+  [
+    [
+      41,
+      47
+    ],
+    [
+      "Personen ohne Milz.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.29029813408851624
+  ],
+  [
+    [
+      42,
+      47
+    ],
+    [
+      "Die Milz ist ein Organ im Bauch.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.3037302792072296
+  ],
+  [
+    [
+      43,
+      47
+    ],
+    [
+      "Sie gehören zu einer dieser Gruppen?",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.3766937255859375
+  ],
+  [
+    [
+      44,
+      47
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.299594521522522
+  ],
+  [
+    [
+      45,
+      47
+    ],
+    [
+      "Der Arzt kann eine Impfung gegen bestimmte Bakterien empfehlen.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.45834168791770935
+  ],
+  [
+    [
+      46,
+      47
+    ],
+    [
+      "Auch manche Medikamente können das Immunsystem schwächen.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.4248085021972656
+  ],
+  [
+    [
+      47,
+      47
+    ],
+    [
+      "Sie nehmen Medikamente?",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.3062226176261902
+  ],
+  [
+    [
+      48,
+      47
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt oder Apotheker.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.3229900300502777
+  ],
+  [
+    [
+      49,
+      47
+    ],
+    [
+      "Lesen Sie auch den Beipackzettel der Medikamente.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.43175452947616577
+  ],
+  [
+    [
+      50,
+      47
+    ],
+    [
+      "Personen mit einer Blutvergiftung müssen sofort ins Krankenhaus.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.5344220399856567
+  ],
+  [
+    [
+      51,
+      47
+    ],
+    [
+      "Eine Blutvergiftung ist nämlich lebensgefährlich.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.5230752825737
+  ],
+  [
+    [
+      52,
+      47
+    ],
+    [
+      "Eine Person hat eine Blutvergiftung?",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.49512192606925964
+  ],
+  [
+    [
+      53,
+      47
+    ],
+    [
+      "Dann wird sie auf der Intensivstation behandelt.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.6769201159477234
+  ],
+  [
+    [
+      54,
+      48
+    ],
+    [
+      "Die Ärzte stabilisieren den Kreislauf mit Medikamenten und unterstützen die Organfunktionen.",
+      "Eine spezifische Therapie gegen die Sepsis gibt es nicht."
+    ],
+    0.43216753005981445
+  ],
+  [
+    [
+      55,
+      48
+    ],
+    [
+      "Außerdem bekommt die betroffene Person Antibiotika gegen die Infektion.",
+      "Eine spezifische Therapie gegen die Sepsis gibt es nicht."
+    ],
+    0.5570300221443176
+  ],
+  [
+    [
+      56,
+      55
+    ],
+    [
+      "Die Niere arbeitet nicht mehr richtig?",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.6840227842330933
+  ],
+  [
+    [
+      57,
+      55
+    ],
+    [
+      "Dann wird eine Dialyse gemacht.",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.48825544118881226
+  ],
+  [
+    [
+      58,
+      55
+    ],
+    [
+      "Die Dialyse reinigt das Blut.",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.45238789916038513
+  ],
+  [
+    [
+      59,
+      56
+    ],
+    [
+      "Außerdem erhalten Patienten bei einer Blutvergiftung oft Sauerstoff und werden beatmet.",
+      "Oft erhalten die Patienten Sauerstoffgabe und eine Beatmung ."
+    ],
+    0.6259390115737915
+  ],
+  [
+    [
+      60,
+      58
+    ],
+    [
+      "Eine Blutvergiftung kann verschiedene Folgen haben.",
+      "Oft wissen die Ärzte nicht, wo die Infektion ihren Ausgang genommen haben könnte."
+    ],
+    0.441967248916626
+  ],
+  [
+    [
+      61,
+      60
+    ],
+    [
+      "Zu den Folgen gehören zum Beispiel: Muskelschwäche Bewegungsstörungen Nervenschäden",
+      "Auf den Aufnahmen erkennen sie zum Beispiel Flüssigkeits- oder Eiteransammlungen in Körperhöhlen oder Organen – mögliche Hinweise auf den Infektionsherd."
+    ],
+    0.5416003465652466
+  ],
+  [
+    [
+      62,
+      79
+    ],
+    [
+      "Albträume Depressionen",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.5367337465286255
+  ],
+  [
+    [
+      63,
+      79
+    ],
+    [
+      "Sie leiden unter den Folgen einer Blutvergiftung?",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.515434205532074
+  ],
+  [
+    [
+      64,
+      79
+    ],
+    [
+      "Dann kann Ihnen vielleicht die Teilnahme an einer Selbsthilfe-Gruppe helfen.",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.3846631348133087
+  ],
+  [
+    [
+      65,
+      79
+    ],
+    [
+      "Dort treffen Sie andere Betroffene.",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.465392142534256
+  ],
+  [
+    [
+      66,
+      80
+    ],
+    [
+      "In einer Selbsthilfe-Gruppe können Betroffene über ihre Erfahrungen sprechen.",
+      "Die Selbsthilfegruppe Deutsche Sepsis-Hilfe e.V. informiert und versteht sich als Ansprechpartner für Betroffene und Angehörige."
+    ],
+    0.4882385730743408
+  ],
+  [
+    [
+      67,
+      81
+    ],
+    [
+      "Sie wollen noch mehr über die Blutvergiftung lesen?",
+      "Weite Informationen finden Sie auch bei der Deutschen Sepsis-Gesellschaft ."
+    ],
+    0.41546985507011414
+  ],
+  [
+    [
+      68,
+      81
+    ],
+    [
+      "Mehr Informationen über die Blutvergiftung finden Sie hier .",
+      "Weite Informationen finden Sie auch bei der Deutschen Sepsis-Gesellschaft ."
+    ],
+    0.49815675616264343
+  ],
+  [
+    [
+      69,
+      81
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Weite Informationen finden Sie auch bei der Deutschen Sepsis-Gesellschaft ."
+    ],
+    0.300915390253067
+  ],
+  [
+    [
+      70,
+      81
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Weite Informationen finden Sie auch bei der Deutschen Sepsis-Gesellschaft ."
+    ],
+    0.4487363398075104
+  ]
+]

@@ -1,0 +1,838 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In Deutschland ist ein normaler Insektenstich meist nicht gefährlich.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.8975896239280701
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Deshalb können Sie den Insektenstich meist selbst versorgen.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.6216093897819519
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Einen Insektenstich versorgen Sie so:",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.48248693346977234
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Der Stachel der Biene steckt noch in der Haut?",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.673665463924408
+  ],
+  [
+    [
+      4,
+      6
+    ],
+    [
+      "Dann entfernen Sie den Stachel vorsichtig.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.7731523513793945
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Am besten schieben Sie den Stachel seitlich heraus.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.5329504013061523
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Benutzen Sie dafür eine stumpfe Kante, zum Beispiel einer Kreditkarte.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.7598132491111755
+  ],
+  [
+    [
+      7,
+      6
+    ],
+    [
+      "Streichen Sie mit der Karte über den Stich.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.7810298800468445
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Hinweis: Sie möchten den Stachel mit einer Pinzette herausziehen?",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.8328471779823303
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Dann müssen Sie sehr vorsichtig sein.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.6245205402374268
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Berühren Sie nicht die Giftblase.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.7846284508705139
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Die Giftblase ist oben am Stachel.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.2619868814945221
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "In der Giftblaseist das Insektengift.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.22662855684757233
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Sie berühren die Giftblase?",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.8107008934020996
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Dann kann mehrInsektengift in die Wunde kommen.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.7180904746055603
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Kühlen Sie den Insektenstich.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.6308344006538391
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Wickeln Sie ein Kältepack oder Eiswürfel in ein Tuch.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.7635942101478577
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "Legen Sie das Tuch auf den Stich.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.6644232869148254
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Achtung: Legen Sie Kältepacks oder Eiswürfel nicht direkt auf die Haut.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.7218166589736938
+  ],
+  [
+    [
+      19,
+      7
+    ],
+    [
+      "Die Kälte kann der Haut schaden.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.4827871322631836
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Cremen Sie den Stich mit einem speziellen Gel oder einer speziellen Salbe ein.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.7910357117652893
+  ],
+  [
+    [
+      21,
+      7
+    ],
+    [
+      "Die Gele und Salben lindern den Juckreiz.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.5592941641807556
+  ],
+  [
+    [
+      22,
+      7
+    ],
+    [
+      "Sie bekommen ein passendes Mittel gegen Insektenstiche in der Apotheke.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.7844695448875427
+  ],
+  [
+    [
+      23,
+      12
+    ],
+    [
+      "Auch Hitze kann bei einem Insektenstich helfen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6815906167030334
+  ],
+  [
+    [
+      24,
+      12
+    ],
+    [
+      "Sie können zum Beispiel einen Hitze-Stift kaufen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7238020896911621
+  ],
+  [
+    [
+      25,
+      12
+    ],
+    [
+      "Die Hitze hilft gegen den Juckreiz.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.42386141419410706
+  ],
+  [
+    [
+      26,
+      12
+    ],
+    [
+      "Einige Insektenstiche können gefährlich sein.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7599325776100159
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "In den folgenden Situationen müssen Sie den Rettungsdienst rufen:",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.5589663982391357
+  ],
+  [
+    [
+      28,
+      12
+    ],
+    [
+      "Der Stich ist im Mund oder im Rachen der betroffenen Person.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.29900556802749634
+  ],
+  [
+    [
+      29,
+      12
+    ],
+    [
+      "Die betroffene Person hat sehr viele Insektenstiche gleichzeitig bekommen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.5384309887886047
+  ],
+  [
+    [
+      30,
+      12
+    ],
+    [
+      "Die betroffene Person reagiert allergisch auf den Insektenstich.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.5744355320930481
+  ],
+  [
+    [
+      31,
+      12
+    ],
+    [
+      "Achtung: Insektenstiche im Mund und Rachen können lebensgefährlich sein.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6605560183525085
+  ],
+  [
+    [
+      32,
+      12
+    ],
+    [
+      "Insektenstiche in diesen Bereichen können stark anschwellen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6429433226585388
+  ],
+  [
+    [
+      33,
+      12
+    ],
+    [
+      "Dann können Betroffene manchmal nicht mehr atmen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7397637963294983
+  ],
+  [
+    [
+      34,
+      12
+    ],
+    [
+      "Eine Person hat einen Insektenstich im Mund oder Rachen?",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.4985486567020416
+  ],
+  [
+    [
+      35,
+      12
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7129150629043579
+  ],
+  [
+    [
+      36,
+      12
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.032313272356987
+  ],
+  [
+    [
+      37,
+      12
+    ],
+    [
+      "So können Sie Erste Hilfe leisten:",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7029110789299011
+  ],
+  [
+    [
+      38,
+      12
+    ],
+    [
+      "Geben Sie der betroffenen Person einen Eiswürfel zum Lutschen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6995808482170105
+  ],
+  [
+    [
+      39,
+      12
+    ],
+    [
+      "Wickeln Sie der betroffenen Person kühle Umschläge um den Hals.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7250998020172119
+  ],
+  [
+    [
+      40,
+      12
+    ],
+    [
+      "Eine Person wurde sehr häufig von einer Wespe, einer Biene oder einer Hornisse gestochen?",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.5100163221359253
+  ],
+  [
+    [
+      41,
+      12
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7129150629043579
+  ],
+  [
+    [
+      42,
+      12
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.032313272356987
+  ],
+  [
+    [
+      43,
+      12
+    ],
+    [
+      "Die Person kann auf die große Menge Insektengift allergisch reagieren.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6543228626251221
+  ],
+  [
+    [
+      44,
+      12
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.5188546180725098
+  ],
+  [
+    [
+      45,
+      12
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.8149433135986328
+  ],
+  [
+    [
+      46,
+      12
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.731438159942627
+  ],
+  [
+    [
+      47,
+      13
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.17180116474628448
+  ],
+  [
+    [
+      48,
+      13
+    ],
+    [
+      "Anzeichen für eine allergische Reaktion sind zum Beispiel:",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.7280436158180237
+  ],
+  [
+    [
+      49,
+      13
+    ],
+    [
+      "Atemnot Schwindel",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.505397379398346
+  ],
+  [
+    [
+      50,
+      13
+    ],
+    [
+      "Herzklopfen starke Schwellungen Quaddeln auf der Haut.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.895921528339386
+  ],
+  [
+    [
+      51,
+      13
+    ],
+    [
+      "Quaddeln sind rote geschwollene Flecken auf der Haut.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.7620205879211426
+  ],
+  [
+    [
+      52,
+      13
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.7689203023910522
+  ],
+  [
+    [
+      53,
+      14
+    ],
+    [
+      "Und die Person weiß von der Allergie.",
+      "Insektenstiche in der Augengegend besser ebenfalls vom Arzt untersuchen lassen."
+    ],
+    0.5810344219207764
+  ],
+  [
+    [
+      54,
+      15
+    ],
+    [
+      "Dann hat die Person vielleicht ein Notfall-Set für Allergiker bei sich.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8109679222106934
+  ],
+  [
+    [
+      55,
+      16
+    ],
+    [
+      "Nutzen Sie das Notfall-Set.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.445144385099411
+  ],
+  [
+    [
+      56,
+      16
+    ],
+    [
+      "Das Notfall-Set besteht aus:",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.34016358852386475
+  ],
+  [
+    [
+      57,
+      16
+    ],
+    [
+      "Einem Medikament mit Kortison .",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.5283787250518799
+  ],
+  [
+    [
+      58,
+      16
+    ],
+    [
+      "Kortison hilft gegen Entzündungen.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.5355784296989441
+  ],
+  [
+    [
+      59,
+      16
+    ],
+    [
+      "Einem Antihistaminikum .",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.31932586431503296
+  ],
+  [
+    [
+      60,
+      16
+    ],
+    [
+      "Antihistamin hilft gegen allergische Reaktionen.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.5723841190338135
+  ],
+  [
+    [
+      61,
+      16
+    ],
+    [
+      "Einer Adrenalin-Fertigspritze .",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.19647671282291412
+  ],
+  [
+    [
+      62,
+      16
+    ],
+    [
+      "Die Adrenalin-Fertigspritze stabilisiert den Kreislauf.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.32185837626457214
+  ],
+  [
+    [
+      63,
+      16
+    ],
+    [
+      "So versorgen Sie Allergiker mit dem Notfall-Set: Entfernen Sie zuerst den Stachel aus der Haut.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.579904317855835
+  ],
+  [
+    [
+      64,
+      17
+    ],
+    [
+      "Geben Sie der betroffenen Person das Medikament mit Kortison und das Antihistaminikum.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.7447482347488403
+  ],
+  [
+    [
+      65,
+      17
+    ],
+    [
+      "Entsichern Sie die Adrenalin-Fertigspritze.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.31449413299560547
+  ],
+  [
+    [
+      66,
+      17
+    ],
+    [
+      "Setzen Sie die Spritze seitlich auf den Oberschenkel.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.5103920698165894
+  ],
+  [
+    [
+      67,
+      17
+    ],
+    [
+      "Lösen Sie die Spritze aus.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.40923383831977844
+  ],
+  [
+    [
+      68,
+      17
+    ],
+    [
+      "Achtung: Der Betroffene atmet nicht mehr?",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.48647093772888184
+  ],
+  [
+    [
+      69,
+      17
+    ],
+    [
+      "Dann beginnen Sie mit der Wiederbelebung .",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.3995780050754547
+  ],
+  [
+    [
+      70,
+      17
+    ],
+    [
+      "Das Video zeigt Ihnen:",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.30396178364753723
+  ],
+  [
+    [
+      71,
+      17
+    ],
+    [
+      "Das können Sie bei einem Insektenstich tun.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.5554209351539612
+  ],
+  [
+    [
+      72,
+      17
+    ],
+    [
+      "Sie wollen noch mehr über Insektenstiche lesen?",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.5442624092102051
+  ],
+  [
+    [
+      73,
+      17
+    ],
+    [
+      "Mehr Informationen über Insektenstich finden Sie hier .",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.3374879062175751
+  ],
+  [
+    [
+      74,
+      18
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.6343569159507751
+  ],
+  [
+    [
+      75,
+      19
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst."
+    ],
+    0.6225016713142395
+  ]
+]

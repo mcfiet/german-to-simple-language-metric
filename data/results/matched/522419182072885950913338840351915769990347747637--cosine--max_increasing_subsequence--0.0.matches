@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      5
+    ],
+    [
+      "Bei einer Divertikulitis ist der Darm krank.",
+      "Diese ist harmlos und bedarf keiner Behandlung."
+    ],
+    0.6348382234573364
+  ],
+  [
+    [
+      1,
+      5
+    ],
+    [
+      "Der Darm ist ein Organ im Bauch.",
+      "Diese ist harmlos und bedarf keiner Behandlung."
+    ],
+    0.2721078097820282
+  ],
+  [
+    [
+      2,
+      5
+    ],
+    [
+      "Der Darm ist wie ein langer Schlauch.",
+      "Diese ist harmlos und bedarf keiner Behandlung."
+    ],
+    0.4478849172592163
+  ],
+  [
+    [
+      3,
+      6
+    ],
+    [
+      "Im Darm wird das Essen verdaut.",
+      "Treten jedoch Beschwerden auf, liegt eine songenannte Divertikelkrankheit vor."
+    ],
+    0.15451380610466003
+  ],
+  [
+    [
+      4,
+      6
+    ],
+    [
+      "Der Darm hat außen herum eine Darmwand.",
+      "Treten jedoch Beschwerden auf, liegt eine songenannte Divertikelkrankheit vor."
+    ],
+    0.46590644121170044
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "Die Darmwand kann an manchen Stellen dünn sein.",
+      "Die Divertikel können sich entzünden und dann starke Beschwerden und Komplikationen hervorrufen."
+    ],
+    0.7156877517700195
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Deshalb kann sie ausleiern oder ausbeulen.",
+      "Die Divertikel können sich entzünden und dann starke Beschwerden und Komplikationen hervorrufen."
+    ],
+    0.6465608477592468
+  ],
+  [
+    [
+      7,
+      7
+    ],
+    [
+      "Die Ausbuchtungen heißen: Divertikel .",
+      "Die Divertikel können sich entzünden und dann starke Beschwerden und Komplikationen hervorrufen."
+    ],
+    0.6030766367912292
+  ],
+  [
+    [
+      8,
+      7
+    ],
+    [
+      "Divertikel sind meist harmlos.",
+      "Die Divertikel können sich entzünden und dann starke Beschwerden und Komplikationen hervorrufen."
+    ],
+    0.5270735025405884
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Aber manchmal können sich die Divertikel entzünden.",
+      "Die Divertikel können sich entzünden und dann starke Beschwerden und Komplikationen hervorrufen."
+    ],
+    0.8865494132041931
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Entzünden sich die Divertikel?",
+      "Die Divertikel können sich entzünden und dann starke Beschwerden und Komplikationen hervorrufen."
+    ],
+    0.8782255053520203
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Dann sagt der Arzt dazu: Divertikulitis.",
+      "Entzündungen dieser Divertikel ( Sigmadivertikulitis ), bei denen es sich üblicherweise um Pseudodivertikel handelt, äußern sich dementsprechend mit starken Schmerzen im linken Unterbauch (siehe Abschnitt Symptome), die sich aber auch über den gesamten Bauchraum erstrecken können."
+    ],
+    0.4793449938297272
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Manchmal kann eine Divertikulitis gefährliche Folgen haben.",
+      "Entzündungen dieser Divertikel ( Sigmadivertikulitis ), bei denen es sich üblicherweise um Pseudodivertikel handelt, äußern sich dementsprechend mit starken Schmerzen im linken Unterbauch (siehe Abschnitt Symptome), die sich aber auch über den gesamten Bauchraum erstrecken können."
+    ],
+    0.695802628993988
+  ],
+  [
+    [
+      13,
+      11
+    ],
+    [
+      "Das Gewebe um den Darm kann sich zum Beispiel entzünden.",
+      "Entzündungen dieser Divertikel ( Sigmadivertikulitis ), bei denen es sich üblicherweise um Pseudodivertikel handelt, äußern sich dementsprechend mit starken Schmerzen im linken Unterbauch (siehe Abschnitt Symptome), die sich aber auch über den gesamten Bauchraum erstrecken können."
+    ],
+    0.7506911754608154
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Dann bildet sich vielleicht Eiter.",
+      "Entzündungen dieser Divertikel ( Sigmadivertikulitis ), bei denen es sich üblicherweise um Pseudodivertikel handelt, äußern sich dementsprechend mit starken Schmerzen im linken Unterbauch (siehe Abschnitt Symptome), die sich aber auch über den gesamten Bauchraum erstrecken können."
+    ],
+    0.6646153926849365
+  ],
+  [
+    [
+      15,
+      21
+    ],
+    [
+      "Die eitrigen Stellen heißen: Abszess.",
+      "Mit zunehmendem Aufkommen eines \"westlichen Lebensstils\" in asiatischen und afrikanischen Ländern steigt auch dort die Zahl der Menschen mit einer Divertikulose."
+    ],
+    0.6276360154151917
+  ],
+  [
+    [
+      16,
+      23
+    ],
+    [
+      "Eine Divertikulitis verursacht verschiedene Beschwerden wie zum Beispiel:",
+      "Entzünden sich die Divertikel jedoch, kommt es zu Symptomen wie: Bauchschmerzen , bei der Sigma-Divertikulitis typischerweise im linken Unterbach."
+    ],
+    0.6650664210319519
+  ],
+  [
+    [
+      17,
+      24
+    ],
+    [
+      "Schmerzen im linken unteren Teil des Bauches",
+      "Bei der Divertikulitis im Coecum oder einer Entzündung des Meckel-Divertikels im rechten Mittel- oder Unterbauch."
+    ],
+    0.8178403973579407
+  ],
+  [
+    [
+      18,
+      26
+    ],
+    [
+      "Blähungen Durchfall",
+      "Verdauungsstörungen, wie Verstopfung, Durchfall oder starke Blähungen"
+    ],
+    0.8246665000915527
+  ],
+  [
+    [
+      19,
+      26
+    ],
+    [
+      "Fieber",
+      "Verdauungsstörungen, wie Verstopfung, Durchfall oder starke Blähungen"
+    ],
+    0.41022592782974243
+  ],
+  [
+    [
+      20,
+      26
+    ],
+    [
+      "Verstopfung",
+      "Verdauungsstörungen, wie Verstopfung, Durchfall oder starke Blähungen"
+    ],
+    0.7532254457473755
+  ],
+  [
+    [
+      21,
+      48
+    ],
+    [
+      "Sie haben diese Beschwerden?",
+      "Divertikel, die keine Beschwerden verursachen, müssen nicht behandelt werden."
+    ],
+    0.7126863598823547
+  ],
+  [
+    [
+      22,
+      51
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.4443768560886383
+  ],
+  [
+    [
+      23,
+      51
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.5961533188819885
+  ],
+  [
+    [
+      24,
+      51
+    ],
+    [
+      "Divertikulitis bekommen meist ältere Menschen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.7388153076171875
+  ],
+  [
+    [
+      25,
+      51
+    ],
+    [
+      "Im Alter wird das Bindegewebe nämlich schwächer.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.20493385195732117
+  ],
+  [
+    [
+      26,
+      51
+    ],
+    [
+      "Die Darmwand kann dann ausleiern.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.6166625022888184
+  ],
+  [
+    [
+      27,
+      51
+    ],
+    [
+      "An den dünnen Stellen können Divertikel entstehen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.4319187104701996
+  ],
+  [
+    [
+      28,
+      51
+    ],
+    [
+      "Die Divertikel können sich entzünden.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.660089373588562
+  ],
+  [
+    [
+      29,
+      51
+    ],
+    [
+      "Das passiert aber nur selten.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.5709306001663208
+  ],
+  [
+    [
+      30,
+      51
+    ],
+    [
+      "Manche Dinge erhöhen das Risiko für eine Divertikulitis.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.738579273223877
+  ],
+  [
+    [
+      31,
+      51
+    ],
+    [
+      "Dazu gehören zum Beispiel: chronische Verstopfung Übergewicht zu wenig Bewegung zu viel rotes Fleisch wie Rind oder Schwein",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.806316614151001
+  ],
+  [
+    [
+      32,
+      51
+    ],
+    [
+      "Sie haben Schmerzen im Bauchraum?",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.35905566811561584
+  ],
+  [
+    [
+      33,
+      51
+    ],
+    [
+      "Dann sprechen Sie mit einem Arzt.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.49428197741508484
+  ],
+  [
+    [
+      34,
+      51
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.5961533188819885
+  ],
+  [
+    [
+      35,
+      51
+    ],
+    [
+      "Die Entzündung ist leicht?",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.4813884198665619
+  ],
+  [
+    [
+      36,
+      51
+    ],
+    [
+      "Sie haben kein Fieber und auch keine Immunschwäche?",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.7675859332084656
+  ],
+  [
+    [
+      37,
+      51
+    ],
+    [
+      "Dann kann der Körper eine Divertikulitis oft selbst bekämpfen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.8074963688850403
+  ],
+  [
+    [
+      38,
+      51
+    ],
+    [
+      "Der Arzt sagt dann vielleicht:",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.2822045683860779
+  ],
+  [
+    [
+      39,
+      51
+    ],
+    [
+      "Sie sollten viel trinken.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.6774887442588806
+  ],
+  [
+    [
+      40,
+      51
+    ],
+    [
+      "Dadurch wird der Stuhl weich und kann so besser an den entzündeten Stellen vorbeikommen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.7681657671928406
+  ],
+  [
+    [
+      41,
+      51
+    ],
+    [
+      "Der Stuhlgang bereitet dann weniger Schmerzen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.47269514203071594
+  ],
+  [
+    [
+      42,
+      51
+    ],
+    [
+      "Sie sollten auch eine Zeit lang gut verträgliche Nahrung essen.",
+      "Dies ist jedoch nur möglich, wenn die Patienten ausreichend trinken und genügend leichte oder flüssige Kost zu sich nehmen können."
+    ],
+    0.8124808669090271
+  ],
+  [
+    [
+      43,
+      52
+    ],
+    [
+      "Der Arzt untersucht Sie in regelmäßigen Abständen.",
+      "Eine engmaschige ärztliche Kontrolle ist hierbei erforderlich."
+    ],
+    0.4015640914440155
+  ],
+  [
+    [
+      44,
+      52
+    ],
+    [
+      "Ist die Entzündung stärker?",
+      "Eine engmaschige ärztliche Kontrolle ist hierbei erforderlich."
+    ],
+    0.6646758913993835
+  ],
+  [
+    [
+      45,
+      52
+    ],
+    [
+      "Dann bekommen Sie vielleicht Antibiotika.",
+      "Eine engmaschige ärztliche Kontrolle ist hierbei erforderlich."
+    ],
+    0.2363019436597824
+  ],
+  [
+    [
+      46,
+      52
+    ],
+    [
+      "Antibiotika sind Medikamente gegen die Krankheit.",
+      "Eine engmaschige ärztliche Kontrolle ist hierbei erforderlich."
+    ],
+    0.5797142386436462
+  ],
+  [
+    [
+      47,
+      52
+    ],
+    [
+      "Die Entzündung ist stark?",
+      "Eine engmaschige ärztliche Kontrolle ist hierbei erforderlich."
+    ],
+    0.6794445514678955
+  ],
+  [
+    [
+      48,
+      66
+    ],
+    [
+      "Dann müssen Sie vielleicht ins Krankenhaus.",
+      "Außerdem kann eine Operation bei wiederholten Entzündungen mit daraus folgenden Verengungen, nach einer Entzündung mit Komplikationen und wenn andere Behandlungsmaßnahmen nicht angeschlagen haben, sinnvoll sein."
+    ],
+    0.4470337927341461
+  ],
+  [
+    [
+      49,
+      69
+    ],
+    [
+      "Manchmal ist eine Operation nötig.",
+      "Ist sie trotzdem notwendig, wird eine \"einzeitige Operation\" angestrebt."
+    ],
+    0.867048978805542
+  ],
+  [
+    [
+      50,
+      69
+    ],
+    [
+      "Das kommt aber nur selten vor.",
+      "Ist sie trotzdem notwendig, wird eine \"einzeitige Operation\" angestrebt."
+    ],
+    0.5145593285560608
+  ],
+  [
+    [
+      51,
+      69
+    ],
+    [
+      "Ist die Divertikulitis abgeheilt?",
+      "Ist sie trotzdem notwendig, wird eine \"einzeitige Operation\" angestrebt."
+    ],
+    0.7514994144439697
+  ],
+  [
+    [
+      52,
+      71
+    ],
+    [
+      "Dann untersucht Sie der Arzt meistens noch einmal.",
+      "Hier entfernt der Operateur beim ersten Eingriff das entsprechende Darmstück und legt einen künstlicher Darmausgang (Anus praeter) an, um die Stelle, an der der Darm zusammengenäht wurde, zu entlasten."
+    ],
+    0.6760287880897522
+  ],
+  [
+    [
+      53,
+      72
+    ],
+    [
+      "Vielleicht ist auch eine Darmspiegelung notwendig.",
+      "Der künstliche Darmausgang wird dann nach einiger Zeit in einer zweiten Operation wieder verschlossen."
+    ],
+    0.544522762298584
+  ],
+  [
+    [
+      54,
+      73
+    ],
+    [
+      "Bei einer Darmspiegelung wird Ihr Darm mit einer Kamera untersucht.",
+      "Sie können selbst dazu beitragen, der Entstehung von Darmdivertikeln vorzubeugen:"
+    ],
+    0.5659839510917664
+  ],
+  [
+    [
+      55,
+      73
+    ],
+    [
+      "Jeder Mensch kann selbst etwas gegen Divertikel tun.",
+      "Sie können selbst dazu beitragen, der Entstehung von Darmdivertikeln vorzubeugen:"
+    ],
+    0.5155872106552124
+  ],
+  [
+    [
+      56,
+      73
+    ],
+    [
+      "So kann man eine Divertikulitis vielleicht vermeiden:",
+      "Sie können selbst dazu beitragen, der Entstehung von Darmdivertikeln vorzubeugen:"
+    ],
+    0.5200619101524353
+  ],
+  [
+    [
+      57,
+      74
+    ],
+    [
+      "Essen Sie viel Obst und Gemüse .",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.9601903557777405
+  ],
+  [
+    [
+      58,
+      74
+    ],
+    [
+      "Essen Sie am besten fünf Portionen am Tag.",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.3362860679626465
+  ],
+  [
+    [
+      59,
+      74
+    ],
+    [
+      "Essen Sie Vollkornprodukte wie Vollkornbrot oder Vollkornnudeln.",
+      "Essen Sie mehr Obst und Gemüse:"
+    ],
+    0.822739839553833
+  ],
+  [
+    [
+      60,
+      76
+    ],
+    [
+      "Essen Sie wenig rotes Fleisch .",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.8581224679946899
+  ],
+  [
+    [
+      61,
+      76
+    ],
+    [
+      "Zu rotem Fleisch gehören Schwein oder Rind.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.4522944390773773
+  ],
+  [
+    [
+      62,
+      76
+    ],
+    [
+      "Trinken Sie am besten zwei Liter Wasser am Tag.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.3596096336841583
+  ],
+  [
+    [
+      63,
+      76
+    ],
+    [
+      "Sie können auch ungesüßten Tee trinken.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.7912381291389465
+  ],
+  [
+    [
+      64,
+      76
+    ],
+    [
+      "Achtung: Manche Menschen mit Herzkrankheiten oder Nierenkrankheiten dürfen nur eine bestimmte Menge trinken.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.7114426493644714
+  ],
+  [
+    [
+      65,
+      76
+    ],
+    [
+      "Diese Menschen sollten deshalb vorher mit ihrem Arzt sprechen.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.6753189563751221
+  ],
+  [
+    [
+      66,
+      76
+    ],
+    [
+      "Bewegen Sie sich regelmäßig.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.8206322193145752
+  ],
+  [
+    [
+      67,
+      76
+    ],
+    [
+      "Gehen Sie zum Beispiel eine halbe Stunde am Tag spazieren.",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.5676009058952332
+  ],
+  [
+    [
+      68,
+      76
+    ],
+    [
+      "Achten Sie auf ein normales Körpergewicht .",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.7813621163368225
+  ],
+  [
+    [
+      69,
+      76
+    ],
+    [
+      "Sie wollen noch mehr über Divertikulitis lesen?",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.7662190794944763
+  ],
+  [
+    [
+      70,
+      76
+    ],
+    [
+      "Mehr Informationen über Divertikulitis finden Sie hier .",
+      "Ziehen Sie diese Weißmehlprodukten (zum Beispiel helles Brötchen oder heller Toast) vor Essen Sie nicht zu viel rotes Fleisch Achten Sie auf Normalgewicht"
+    ],
+    0.6363127827644348
+  ],
+  [
+    [
+      71,
+      83
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wichtiger Hinweis: Dieser Artikel enthält nur allgemeine Hinweise und darf nicht zur Selbstdiagnose oder –behandlung verwendet werden."
+    ],
+    0.4511670172214508
+  ],
+  [
+    [
+      72,
+      85
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.7674562931060791
+  ]
+]

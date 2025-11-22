@@ -1,0 +1,970 @@
+[
+  [
+    [
+      0,
+      5
+    ],
+    [
+      "Der Darm ist ein wichtiges Organ im Bauch.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.46179142594337463
+  ],
+  [
+    [
+      1,
+      5
+    ],
+    [
+      "Der Darm hat die Form eines langen Schlauchs.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.38374653458595276
+  ],
+  [
+    [
+      2,
+      5
+    ],
+    [
+      "Im Darm wird das Essen verdaut.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.10843296349048615
+  ],
+  [
+    [
+      3,
+      5
+    ],
+    [
+      "Der Dickdarm ist der letzte Abschnitt vom Darm.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.5785844326019287
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Der Dickdarm ist wichtig für die Verdauung.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.5003148913383484
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Der Dickdarm nimmt das Wasser aus der verdauten Nahrung auf.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.652131974697113
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Und der Dickdarm schiebt den Stuhl zum Darmausgang.",
+      "Der Dickdarm beginnt im rechten Unterbauch, wo er sich an den Dünndarm anschließt, und geht im linken Unterbauch in den Mastdarm über, der am After endet."
+    ],
+    0.5924589037895203
+  ],
+  [
+    [
+      7,
+      9
+    ],
+    [
+      "Bei Dickdarmkrebs wächst ein Tumor im Dickdarm.",
+      "Dickdarmkrebs entwickelt sich häufig aus Darmpolypen."
+    ],
+    0.34914693236351013
+  ],
+  [
+    [
+      10,
+      9
+    ],
+    [
+      "Diese Zellen vermehren sich.",
+      "Dickdarmkrebs entwickelt sich häufig aus Darmpolypen."
+    ],
+    0.26475006341934204
+  ],
+  [
+    [
+      11,
+      9
+    ],
+    [
+      "Die Zellen können sich nämlich teilen.",
+      "Dickdarmkrebs entwickelt sich häufig aus Darmpolypen."
+    ],
+    0.19397525489330292
+  ],
+  [
+    [
+      13,
+      11
+    ],
+    [
+      "Die Zellteilung ist wichtig für den Körper.",
+      "Das Kolonkarzinom entwickelt sich in den meisten Fällen aus Dickdarmpolypen."
+    ],
+    0.08759894222021103
+  ],
+  [
+    [
+      14,
+      12
+    ],
+    [
+      "Durch die Zellteilung kann sich nämlich das Gewebe im Körper erneuern.",
+      "Das sind gutartige Wucherungen der Darmschleimhaut, die in der Regel in den Darm hineinragen."
+    ],
+    0.12116047739982605
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Solches Gewebe ist zum Beispiel die Haut.",
+      "Das sind gutartige Wucherungen der Darmschleimhaut, die in der Regel in den Darm hineinragen."
+    ],
+    0.11979079246520996
+  ],
+  [
+    [
+      16,
+      12
+    ],
+    [
+      "Manchmal teilen sich die Zellen unkontrolliert.",
+      "Das sind gutartige Wucherungen der Darmschleimhaut, die in der Regel in den Darm hineinragen."
+    ],
+    0.11884456127882004
+  ],
+  [
+    [
+      17,
+      15
+    ],
+    [
+      "Dann entstehen vielleicht zu viele neue Zellen.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.01535799726843834
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Dazu sagt man auch: Tumor.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.80511474609375
+  ],
+  [
+    [
+      19,
+      15
+    ],
+    [
+      "Nicht jeder Tumor ist bösartig.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.7952337265014648
+  ],
+  [
+    [
+      20,
+      15
+    ],
+    [
+      "Ein Tumor kann gutartig sein.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.789939284324646
+  ],
+  [
+    [
+      21,
+      15
+    ],
+    [
+      "Ein gutartiger Tumor verursacht keinen Krebs.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.6170868873596191
+  ],
+  [
+    [
+      22,
+      15
+    ],
+    [
+      "Ein Tumor kann auch bösartig sein.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.7779906988143921
+  ],
+  [
+    [
+      23,
+      15
+    ],
+    [
+      "Dann beschädigt der Tumor umliegendes Gewebe.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.7150567770004272
+  ],
+  [
+    [
+      24,
+      15
+    ],
+    [
+      "Und ein bösartiger Tumor breitet sich auf andere Organe aus.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.7998933792114258
+  ],
+  [
+    [
+      25,
+      15
+    ],
+    [
+      "Ein bösartiger Tumor verursacht Krebs.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.6138262152671814
+  ],
+  [
+    [
+      26,
+      15
+    ],
+    [
+      "Ein Tumor kann an verschiedenen Stellen des Körpers wachsen.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.7794084548950195
+  ],
+  [
+    [
+      27,
+      15
+    ],
+    [
+      "Bei Dickdarmkrebs wächst der Tumor im Dickdarm.",
+      "Nur etwa fünf von 100 Adenomen entwickeln sich zu einem bösartigen Tumor."
+    ],
+    0.37036263942718506
+  ],
+  [
+    [
+      30,
+      40
+    ],
+    [
+      "Oder der Arzt findet zufällig Anzeichen für Krebs im Blut der Person.",
+      "Ebenso sollte eine Änderung der Stuhlgewohnheiten aufmerksam werden lassen:"
+    ],
+    0.4049028754234314
+  ],
+  [
+    [
+      31,
+      40
+    ],
+    [
+      "Vielleicht stellt der Arzt eine Blutarmut fest.",
+      "Ebenso sollte eine Änderung der Stuhlgewohnheiten aufmerksam werden lassen:"
+    ],
+    0.3765062093734741
+  ],
+  [
+    [
+      32,
+      40
+    ],
+    [
+      "Eine Blutarmut kann ein Anzeichen für Blutungen im Darm sein.",
+      "Ebenso sollte eine Änderung der Stuhlgewohnheiten aufmerksam werden lassen:"
+    ],
+    0.05296029523015022
+  ],
+  [
+    [
+      33,
+      41
+    ],
+    [
+      "Und Blutungen im Darm können ein Anzeichen für Krebs sein.",
+      "Plötzlich auftretende Durchfälle, Verstopfung oder beides im Wechsel können auf Darmkrebs hindeuten."
+    ],
+    0.04566500708460808
+  ],
+  [
+    [
+      38,
+      42
+    ],
+    [
+      "Müdigkeit Erschöpfung",
+      "Weitere mögliche Beschwerden sind Leistungsminderung, Müdigkeit , eventuell Gewichtsverlust oder Fieber ."
+    ],
+    0.09895392507314682
+  ],
+  [
+    [
+      39,
+      43
+    ],
+    [
+      "starke Gewichtsabnahme",
+      "Teilweise sind starke Bauchschmerzen das einzige Symptom."
+    ],
+    0.04877269268035889
+  ],
+  [
+    [
+      43,
+      56
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.20609809458255768
+  ],
+  [
+    [
+      44,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5699399709701538
+  ],
+  [
+    [
+      45,
+      56
+    ],
+    [
+      "Und der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.6242699027061462
+  ],
+  [
+    [
+      46,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5699399709701538
+  ],
+  [
+    [
+      47,
+      56
+    ],
+    [
+      "Und der Arzt fragt Sie nach Ihren Beschwerden.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5740925669670105
+  ],
+  [
+    [
+      48,
+      56
+    ],
+    [
+      "Vielleicht macht der Arzt eine Darmspiegelung.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5868518948554993
+  ],
+  [
+    [
+      49,
+      56
+    ],
+    [
+      "Bei einer Darmspiegelung wird der Darm mit einer Kamera untersucht.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.44213756918907166
+  ],
+  [
+    [
+      50,
+      56
+    ],
+    [
+      "Manchmal entnimmt der Arzt auch Gewebe aus dem Darm.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5305334329605103
+  ],
+  [
+    [
+      51,
+      56
+    ],
+    [
+      "Dann untersucht der Arzt das Gewebe.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5649083852767944
+  ],
+  [
+    [
+      52,
+      56
+    ],
+    [
+      "Vielleicht untersucht der Arzt auch Ihr Blut.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5535807609558105
+  ],
+  [
+    [
+      53,
+      56
+    ],
+    [
+      "So kann der Arzt sehen: Haben Sie vielleicht Krebs?",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.40765541791915894
+  ],
+  [
+    [
+      54,
+      56
+    ],
+    [
+      "Manchmal macht der Arzt auch weitere Untersuchungen.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.617551863193512
+  ],
+  [
+    [
+      55,
+      56
+    ],
+    [
+      "Der Krebs kann sich nämlich auf andere Organe ausbreiten.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.3335723876953125
+  ],
+  [
+    [
+      59,
+      56
+    ],
+    [
+      "Ihr Arzt stellt fest:",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.22357988357543945
+  ],
+  [
+    [
+      60,
+      56
+    ],
+    [
+      "Sie haben bereits Metastasen an anderen Organen?",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.01699206791818142
+  ],
+  [
+    [
+      61,
+      56
+    ],
+    [
+      "Dann spricht der Arzt mit Ihnen über die weitere Behandlung.",
+      "An auffälligen Stellen entnimmt der Arzt Gewebeproben ( Biopsie )."
+    ],
+    0.5737389922142029
+  ],
+  [
+    [
+      65,
+      57
+    ],
+    [
+      "Polypen im Darm .",
+      "Gutartige Schleimhautwucherungen – die sogenannten Polypen – werden nach Möglichkeit endoskopisch abgetragen."
+    ],
+    0.44046294689178467
+  ],
+  [
+    [
+      66,
+      57
+    ],
+    [
+      "Polypen sind kleine Ausstülpungen in der Schleimhaut.",
+      "Gutartige Schleimhautwucherungen – die sogenannten Polypen – werden nach Möglichkeit endoskopisch abgetragen."
+    ],
+    0.5007767677307129
+  ],
+  [
+    [
+      67,
+      57
+    ],
+    [
+      "Polypen können an verschiedenen Stellen im Körper wachsen.",
+      "Gutartige Schleimhautwucherungen – die sogenannten Polypen – werden nach Möglichkeit endoskopisch abgetragen."
+    ],
+    0.5568177700042725
+  ],
+  [
+    [
+      68,
+      57
+    ],
+    [
+      "Polypen können zum Beispiel im Dickdarm wachsen.",
+      "Gutartige Schleimhautwucherungen – die sogenannten Polypen – werden nach Möglichkeit endoskopisch abgetragen."
+    ],
+    0.3978816568851471
+  ],
+  [
+    [
+      69,
+      57
+    ],
+    [
+      "Die Polypen sind zuerst nicht gefährlich.",
+      "Gutartige Schleimhautwucherungen – die sogenannten Polypen – werden nach Möglichkeit endoskopisch abgetragen."
+    ],
+    0.7250253558158875
+  ],
+  [
+    [
+      70,
+      57
+    ],
+    [
+      "Aber aus den Polypen kann Krebs entstehen.",
+      "Gutartige Schleimhautwucherungen – die sogenannten Polypen – werden nach Möglichkeit endoskopisch abgetragen."
+    ],
+    0.31757739186286926
+  ],
+  [
+    [
+      75,
+      74
+    ],
+    [
+      "Dann ist Ihr Risiko für Dickdarmkrebs erhöht.",
+      "Im Stadium 0 ist der Krebs nur oberflächlich und stellt eigentlich nur eine Vorstufe zum Krebs dar."
+    ],
+    0.008516740053892136
+  ],
+  [
+    [
+      80,
+      74
+    ],
+    [
+      "Rotes Fleisch ist zum Beispiel vom Rind oder vom Schwein.",
+      "Im Stadium 0 ist der Krebs nur oberflächlich und stellt eigentlich nur eine Vorstufe zum Krebs dar."
+    ],
+    0.05978844314813614
+  ],
+  [
+    [
+      81,
+      74
+    ],
+    [
+      "Dann ist Ihr Risiko für Dickdarmkrebs erhöht.",
+      "Im Stadium 0 ist der Krebs nur oberflächlich und stellt eigentlich nur eine Vorstufe zum Krebs dar."
+    ],
+    0.008516740053892136
+  ],
+  [
+    [
+      85,
+      74
+    ],
+    [
+      "Viele von den Stoffen in Tabak können Krebs auslösen.",
+      "Im Stadium 0 ist der Krebs nur oberflächlich und stellt eigentlich nur eine Vorstufe zum Krebs dar."
+    ],
+    0.8544130921363831
+  ],
+  [
+    [
+      86,
+      78
+    ],
+    [
+      "Sie sind Raucher?",
+      "Im Stadium IV sind Tochtergeschwülste in anderen Organen (Fernmetastasen) vorhanden."
+    ],
+    0.06233036890625954
+  ],
+  [
+    [
+      88,
+      92
+    ],
+    [
+      "Auch passives Rauchen erhöht das Risiko für Dickdarmkrebs.",
+      "Auf diese Weise werden Krebszellen abgetötet, die möglicherweise noch im Körper vorhanden sind, die für den Nachweis mit bildgebenden Verfahren aber noch zu klein sind."
+    ],
+    0.005713129881769419
+  ],
+  [
+    [
+      90,
+      102
+    ],
+    [
+      "Eine Person raucht nicht selbst.",
+      "Das heißt sobald ein Schema nicht mehr wirkt, kann auf ein anderes gewechselt werden."
+    ],
+    0.08720000088214874
+  ],
+  [
+    [
+      103,
+      109
+    ],
+    [
+      "Meist entfernt der Arzt den Tumor in einer Operation.",
+      "Der Tumor dieser Patienten weist eine so genannte Mikrosatelliteninstabilität (abgekürzt MSI-H) auf."
+    ],
+    0.6852869987487793
+  ],
+  [
+    [
+      105,
+      109
+    ],
+    [
+      "Bei der Operation entfernt der Arzt nämlich auch einen Teil des Darms.",
+      "Der Tumor dieser Patienten weist eine so genannte Mikrosatelliteninstabilität (abgekürzt MSI-H) auf."
+    ],
+    0.36719194054603577
+  ],
+  [
+    [
+      106,
+      109
+    ],
+    [
+      "Der Tumor ist sehr groß?",
+      "Der Tumor dieser Patienten weist eine so genannte Mikrosatelliteninstabilität (abgekürzt MSI-H) auf."
+    ],
+    0.8214877247810364
+  ],
+  [
+    [
+      108,
+      109
+    ],
+    [
+      "Eine bestimmte Art von Strahlung schadet den Krebszellen.",
+      "Der Tumor dieser Patienten weist eine so genannte Mikrosatelliteninstabilität (abgekürzt MSI-H) auf."
+    ],
+    0.075181744992733
+  ],
+  [
+    [
+      109,
+      109
+    ],
+    [
+      "Die Krebszellen sterben und der Tumor wird kleiner.",
+      "Der Tumor dieser Patienten weist eine so genannte Mikrosatelliteninstabilität (abgekürzt MSI-H) auf."
+    ],
+    0.7860459685325623
+  ],
+  [
+    [
+      110,
+      126
+    ],
+    [
+      "Nach der Strahlentherapie kann der Arzt kleine Reste des Tumors in einer Operation entfernen.",
+      "Deswegen werden sie nun statt der chemischen Tests im Rahmen der Früherkennungsuntersuchungen eingesetzt."
+    ],
+    0.6282212734222412
+  ],
+  [
+    [
+      111,
+      128
+    ],
+    [
+      "Manchmal haben sich bereits Metastasen gebildet.",
+      "Findet sich Blut im Stuhl, hilft eine Darmspiegelung die Quelle der Blutung zu orten."
+    ],
+    0.08167251944541931
+  ],
+  [
+    [
+      112,
+      131
+    ],
+    [
+      "Das heißt: Der Krebs hat sich auch auf andere Organe ausgebreitet.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.8980445861816406
+  ],
+  [
+    [
+      113,
+      131
+    ],
+    [
+      "Dann bekommt der Patient eine Chemotherapie.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.29864850640296936
+  ],
+  [
+    [
+      114,
+      131
+    ],
+    [
+      "Bei einer Chemotherapie bekommt der Patient Medikamente gegen den Krebs.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.9140865802764893
+  ],
+  [
+    [
+      115,
+      131
+    ],
+    [
+      "Die Medikamente sollen den Krebs stoppen.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.8227917551994324
+  ],
+  [
+    [
+      117,
+      131
+    ],
+    [
+      "Dann breitet sich der Krebs nicht weiter aus.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.8911617994308472
+  ],
+  [
+    [
+      120,
+      136
+    ],
+    [
+      "Dann können Sie einiges tun: nicht rauchen .",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.11369023472070694
+  ],
+  [
+    [
+      122,
+      136
+    ],
+    [
+      "Dann sollten Sie mit dem Rauchen aufhören.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.11250229179859161
+  ],
+  [
+    [
+      125,
+      136
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.07534285634756088
+  ],
+  [
+    [
+      128,
+      136
+    ],
+    [
+      "Sie sind übergewichtig?",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.161385178565979
+  ],
+  [
+    [
+      129,
+      136
+    ],
+    [
+      "Dann sollten Sie ihr Gewicht verringern.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.10449931770563126
+  ],
+  [
+    [
+      131,
+      136
+    ],
+    [
+      "Trinken Sie nur selten Alkohol.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.1590215116739273
+  ],
+  [
+    [
+      132,
+      136
+    ],
+    [
+      "Essen Sie selten Fleisch.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.1456088274717331
+  ],
+  [
+    [
+      134,
+      136
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.07534285634756088
+  ],
+  [
+    [
+      137,
+      136
+    ],
+    [
+      "Gehen Sie regelmäßig zur Früherkennung.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.13072910904884338
+  ],
+  [
+    [
+      144,
+      136
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.08053942024707794
+  ],
+  [
+    [
+      147,
+      136
+    ],
+    [
+      "Sie hatten bereits Dickdarmkrebs?",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.03527386859059334
+  ],
+  [
+    [
+      148,
+      136
+    ],
+    [
+      "Dann gehen Sie regelmäßig zur Nachsorge-Untersuchung.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.11262320727109909
+  ],
+  [
+    [
+      152,
+      136
+    ],
+    [
+      "So kann der Arzt Sie rechtzeitig behandeln.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.07175983488559723
+  ],
+  [
+    [
+      154,
+      136
+    ],
+    [
+      "So oft sollten Sie zur Nachsorge kommen.",
+      "Sie sollte mindestens alle zehn Jahre wiederholt werden."
+    ],
+    0.15406924486160278
+  ],
+  [
+    [
+      156,
+      141
+    ],
+    [
+      "Mehr Informationen über Dickdarmkrebs finden Sie hier .",
+      "Mehr Informationen finden Sie auch auf den Seiten des Krebsinformationsdienst"
+    ],
+    0.03908790275454521
+  ],
+  [
+    [
+      158,
+      141
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Mehr Informationen finden Sie auch auf den Seiten des Krebsinformationsdienst"
+    ],
+    0.025159500539302826
+  ]
+]

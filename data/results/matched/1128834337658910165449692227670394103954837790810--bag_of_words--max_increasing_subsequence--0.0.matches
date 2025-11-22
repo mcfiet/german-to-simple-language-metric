@@ -1,0 +1,343 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?",
+      "Herzinfarkt :"
+    ],
+    0.5025801062583923
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.032504238188266754
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Nummer ist:",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.16803602874279022
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.19002790749073029
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel nicht mehr lächeln.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.10766161978244781
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "Die betroffene Person hat Sehstörungen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.13458757102489471
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Die betroffene Person hat Problemen beim Sprechen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.13431736826896667
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Die betroffene Person fühlt sich schwindelig.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.1119673028588295
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Die Verstopfung von dem Gefäß muss schnell gelöst werden.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.11636118590831757
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Wird die Verstopfung im Blutgefäß nicht gelöst?",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.09536049515008926
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.018837079405784607
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.092203289270401
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Das sollten Sie tun:"
+    ],
+    0.5175002217292786
+  ],
+  [
+    [
+      36,
+      8
+    ],
+    [
+      "Rufen Sie zuerst den Rettungsdienst.",
+      "Das sollten Sie tun:"
+    ],
+    0.4827048182487488
+  ],
+  [
+    [
+      38,
+      8
+    ],
+    [
+      "112. Sie haben den Rettungsdienst gerufen?",
+      "Das sollten Sie tun:"
+    ],
+    0.4422925114631653
+  ],
+  [
+    [
+      39,
+      8
+    ],
+    [
+      "Dann können Sie jetzt Erste Hilfe leisten.",
+      "Das sollten Sie tun:"
+    ],
+    0.4165986478328705
+  ],
+  [
+    [
+      40,
+      8
+    ],
+    [
+      "Folgendes können Sie tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.6575823426246643
+  ],
+  [
+    [
+      41,
+      8
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.26308920979499817
+  ],
+  [
+    [
+      42,
+      8
+    ],
+    [
+      "Reden Sie mit der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.26281142234802246
+  ],
+  [
+    [
+      43,
+      8
+    ],
+    [
+      "Lockern Sie zu enge Kleidung der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.2581825852394104
+  ],
+  [
+    [
+      44,
+      8
+    ],
+    [
+      "Entfernen Sie Zahnprothesen der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.25998932123184204
+  ],
+  [
+    [
+      45,
+      8
+    ],
+    [
+      "Geben Sie der betroffenen Person nichts zu essen oder zu trinken.",
+      "Das sollten Sie tun:"
+    ],
+    0.25507545471191406
+  ],
+  [
+    [
+      47,
+      8
+    ],
+    [
+      "Richten Sie den Oberkörper der betroffenen Person etwas auf.",
+      "Das sollten Sie tun:"
+    ],
+    0.2579895555973053
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Legen Sie ihr zum Beispiel ein Kissen in den Rücken.",
+      "Das sollten Sie tun:"
+    ],
+    0.496740460395813
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "Oder erbricht sie sich?",
+      "Das sollten Sie tun:"
+    ],
+    0.5627618432044983
+  ],
+  [
+    [
+      51,
+      8
+    ],
+    [
+      "Dann legen Sie die Person in die stabile Seitenlage .",
+      "Das sollten Sie tun:"
+    ],
+    0.24324853718280792
+  ],
+  [
+    [
+      53,
+      8
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Das sollten Sie tun:"
+    ],
+    0.49603205919265747
+  ],
+  [
+    [
+      54,
+      8
+    ],
+    [
+      "Merken Sie sich: Wann haben die Anzeichen angefangen?",
+      "Das sollten Sie tun:"
+    ],
+    0.3986700177192688
+  ],
+  [
+    [
+      57,
+      8
+    ],
+    [
+      "Mehr Informationen finden Sie hier.",
+      "Das sollten Sie tun:"
+    ],
+    0.5221027731895447
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.7323172092437744
+  ],
+  [
+    [
+      61,
+      13
+    ],
+    [
+      "Mehr Informationen in Einfacher Sprache zu diesen Themen finden Sie in diesen Texten:",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.23216821253299713
+  ]
+]

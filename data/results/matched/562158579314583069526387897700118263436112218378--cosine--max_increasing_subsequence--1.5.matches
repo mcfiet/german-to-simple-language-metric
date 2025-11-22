@@ -1,0 +1,332 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Unterkühlung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.842519998550415
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Ein anderer Kälteschaden ist die Erfrierung.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8270588517189026
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "Durch den normalen Blutfluss geht nämlich Wärme verloren.",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.7444585561752319
+  ],
+  [
+    [
+      13,
+      27
+    ],
+    [
+      "Zusätzlich erhöht der Körper die Wärme-Bildung durch Muskelarbeit.",
+      "Dadurch liegt die gefühlte Hauttemperatur deutlich unter der gemessenen Lufttemperatur (\"Wind-Chill-Effekt\") und die Wärmeverluste steigen."
+    ],
+    0.8849453926086426
+  ],
+  [
+    [
+      15,
+      27
+    ],
+    [
+      "Durch das Zittern arbeiten die Muskeln und Wärme entsteht.",
+      "Dadurch liegt die gefühlte Hauttemperatur deutlich unter der gemessenen Lufttemperatur (\"Wind-Chill-Effekt\") und die Wärmeverluste steigen."
+    ],
+    0.754567563533783
+  ],
+  [
+    [
+      16,
+      27
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen der Unterkühlung.",
+      "Dadurch liegt die gefühlte Hauttemperatur deutlich unter der gemessenen Lufttemperatur (\"Wind-Chill-Effekt\") und die Wärmeverluste steigen."
+    ],
+    0.781555712223053
+  ],
+  [
+    [
+      19,
+      54
+    ],
+    [
+      "Stadium 1: Die Körpertemperatur der betroffenen Person liegt bei 32 bis 35 Grad.",
+      "Unterkühlung Stadium 1: Es beginnt mit Muskelzittern, der Betroffene atmet tief und der Puls ist erhöht (Körpertemperatur: 35 bis 32 °C)."
+    ],
+    0.7818104028701782
+  ],
+  [
+    [
+      24,
+      60
+    ],
+    [
+      "Stadium 2: Die Körpertemperatur liegt bei 28 bis 32 Grad.",
+      "Unterkühlung Stadium 3 bis 5:"
+    ],
+    0.7821241021156311
+  ],
+  [
+    [
+      29,
+      60
+    ],
+    [
+      "Stadium 3 bis 5: Die Körpertemperatur liegt jetzt bei unter 28 Grad.",
+      "Unterkühlung Stadium 3 bis 5:"
+    ],
+    0.864779531955719
+  ],
+  [
+    [
+      30,
+      61
+    ],
+    [
+      "Es besteht Lebensgefahr.",
+      "Es besteht Lebensgefahr."
+    ],
+    1.0
+  ],
+  [
+    [
+      35,
+      63
+    ],
+    [
+      "In einigen Fällen ist eine Wiederbelebung noch möglich.",
+      "Bei einer Körpertemperatur von unter 24 Grad Celsius kommt es zum Atem- und Kreislaufstillstand, eine Wiederbelebung ist in Einzelfällen möglich."
+    ],
+    0.7642822265625
+  ],
+  [
+    [
+      39,
+      66
+    ],
+    [
+      "Das Gehirn kann nämlich auch bei niedrigen Temperaturen überleben.",
+      "Der Grund: Vereinfacht gesagt kann das Gehirn bei niedrigen Temperaturen länger überleben, weil der Stoffwechsel bei der extremen Unterkühlung verlangsamt abläuft."
+    ],
+    0.8451821804046631
+  ],
+  [
+    [
+      49,
+      67
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "Experten warnen darum: Manche Betroffene wirken wie (schein-)tot, können aber mit einem minimalen Kreislauf – wie beim Winterschlaf der Tiere – immer noch am Leben sein."
+    ],
+    0.8006863594055176
+  ],
+  [
+    [
+      52,
+      81
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Schwere Erfrierungen äußern sich – allerdings erst spät – durch eine blauschwarze Verfärbung der Haut."
+    ],
+    0.8396695852279663
+  ],
+  [
+    [
+      55,
+      120
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.8561414480209351
+  ],
+  [
+    [
+      57,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.8930652737617493
+  ],
+  [
+    [
+      60,
+      121
+    ],
+    [
+      "Und Funktionskleidung trocknet schnell Wechseln Sie Ihre feuchte Kleidung regelmäßig gegen trockene Kleidung Tragen Sie eine Mütze.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.8780569434165955
+  ],
+  [
+    [
+      62,
+      121
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7648888826370239
+  ],
+  [
+    [
+      63,
+      123
+    ],
+    [
+      "Fäustlinge halten die Finger besser warm als Finger-Handschuhe",
+      "Fäustlinge halten die Hände bei kalten Temperaturen besser warm als Fingerhandschuhe, auch das Mitführen von Wärempackungen kann helfen."
+    ],
+    0.8401133418083191
+  ],
+  [
+    [
+      65,
+      127
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske Ziehen Sie passende Schuhe an.",
+      "Kaufen Sie Winterstiefel deshalb lieber eine Nummer größer und ziehen dicke Socken an."
+    ],
+    0.8907071948051453
+  ],
+  [
+    [
+      67,
+      128
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.8787524700164795
+  ],
+  [
+    [
+      69,
+      131
+    ],
+    [
+      "Sie genügend",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7760533094406128
+  ],
+  [
+    [
+      72,
+      133
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8496125340461731
+  ],
+  [
+    [
+      82,
+      133
+    ],
+    [
+      "Und ziehen Sie ihr trockene Kleidung an.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.7415826320648193
+  ],
+  [
+    [
+      84,
+      133
+    ],
+    [
+      "Dann wickeln Sie die betroffene Person in eine Decke.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8081527352333069
+  ],
+  [
+    [
+      88,
+      133
+    ],
+    [
+      "Sie können die Person nicht an einen warmen Ort bringen?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8913962244987488
+  ],
+  [
+    [
+      91,
+      133
+    ],
+    [
+      "Legen Sie eine Rettungsfolie oder eine Decke unter die Person.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.7891761064529419
+  ],
+  [
+    [
+      93,
+      133
+    ],
+    [
+      "Dann decken Sie die Person vorsichtig zu.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.7623410224914551
+  ],
+  [
+    [
+      97,
+      133
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.808064341545105
+  ],
+  [
+    [
+      101,
+      133
+    ],
+    [
+      "Wickeln Sie die Person in eine warme Decke.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.7715364694595337
+  ]
+]

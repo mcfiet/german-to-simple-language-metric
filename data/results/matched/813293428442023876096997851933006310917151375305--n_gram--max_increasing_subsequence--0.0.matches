@@ -1,0 +1,640 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie sind nach KÃ¶ln gezogen?",
+      "Wenn Sie eine Wohnung in Köln bezogen haben, sind Sie verpflichtet, sich innerhalb von vierzehn Tagen bei der Meldebehörde anzumelden."
+    ],
+    0.0696183368563652
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann mÃ¼ssen Sie Ihren Wohnsitz innerhalbÂ von 2Â Wochen anmelden.",
+      "Es besteht die Möglichkeit, eine Anmeldung zum Nebenwohnsitz vorzunehmen."
+    ],
+    0.4808918535709381
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "ZusÃ¤tzlich kÃ¶nnen Sie einen 2. Wohnsitz anmelden.",
+      "Es besteht die Möglichkeit, eine Anmeldung zum Nebenwohnsitz vorzunehmen."
+    ],
+    0.5438143014907837
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Also einen Wohnsitz, in dem Sie nicht hauptsÃ¤chlich wohnen.",
+      "Es besteht die Möglichkeit, eine Anmeldung zum Nebenwohnsitz vorzunehmen."
+    ],
+    0.4731900691986084
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Diesen 2. Wohnsitz nennen wir Neben-Wohnsitz.",
+      "Es besteht die Möglichkeit, eine Anmeldung zum Nebenwohnsitz vorzunehmen."
+    ],
+    0.48538586497306824
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Was brauche ich, um einen Neben-Wohnsitz in KÃ¶ln anzumelden?",
+      "Es besteht die Möglichkeit, eine Anmeldung zum Nebenwohnsitz vorzunehmen."
+    ],
+    0.5575774908065796
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Sie brauchen dazu: Ihren Personal-Ausweis Oder Ihren Reise-Pass Oder den Pass von Ihrem Heimat-Land",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.1345636546611786
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Das schwere Wort dafÃ¼r ist: Aufenthalts-Genehmigung.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.0014541790587827563
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Sie dÃ¼rfen in Deutschland bleiben.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.3013453483581543
+  ],
+  [
+    [
+      12,
+      2
+    ],
+    [
+      "die Ausweise von allen Personen, die mit Ihnen umziehen das Anmelde-Formular Sie mÃ¼ssen das Formular nicht alleine ausfÃ¼llen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.110836461186409
+  ],
+  [
+    [
+      15,
+      2
+    ],
+    [
+      "Sie brauchen diese ErklÃ¤rung nicht:",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.1656186282634735
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Wenn Sie in KÃ¶ln schon einen Haupt-Wohnsitz haben.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.13796362280845642
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Oder wenn Sie in KÃ¶ln schon einen Neben-Wohnsitz haben.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.12020334601402283
+  ],
+  [
+    [
+      18,
+      2
+    ],
+    [
+      "BestÃ¤tigung vom Vermieter oder der Vermieterin.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.0024157287552952766
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Der Vermieter oder die Vermieterin muss die BestÃ¤tigung ausfÃ¼llen:",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.0019084257073700428
+  ],
+  [
+    [
+      20,
+      2
+    ],
+    [
+      "Sie mÃ¼ssen die BestÃ¤tigung 2 Wochen nach Ihrem Umzug ausfÃ¼llen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.0701138973236084
+  ],
+  [
+    [
+      21,
+      2
+    ],
+    [
+      "Dann mÃ¼ssen Sie die BestÃ¤tigung im Amt abgeben.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.19534248113632202
+  ],
+  [
+    [
+      22,
+      2
+    ],
+    [
+      "Â Wenn Sie keine Wohnung mieten , sondern in Ihre eigene Wohnung ziehen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.13220953941345215
+  ],
+  [
+    [
+      24,
+      2
+    ],
+    [
+      "Dann mÃ¼ssen Sie die BestÃ¤tigung nicht abgeben.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.1954825520515442
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Sondern dann mÃ¼ssen Sie diese Papiere abgeben:",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.21018469333648682
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Wenn Sie eine Wohnung kaufen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.22891950607299805
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Oder wenn Sie ein Haus kaufen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.44529488682746887
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Oder wenn Sie ein Grund-StÃ¼ck kaufen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.4124802052974701
+  ],
+  [
+    [
+      32,
+      2
+    ],
+    [
+      "Dann mÃ¼ssen Sie uns",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.21912962198257446
+  ],
+  [
+    [
+      41,
+      2
+    ],
+    [
+      "Oder schreibt fÃ¼r Sie eine Urkunde.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.2129044234752655
+  ],
+  [
+    [
+      42,
+      2
+    ],
+    [
+      "Zum Beispiel: Wenn Sie ein Haus kaufen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.44955387711524963
+  ],
+  [
+    [
+      43,
+      2
+    ],
+    [
+      "Dann machen Sie einen Notar-Vertrag.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.46650806069374084
+  ],
+  [
+    [
+      44,
+      2
+    ],
+    [
+      "Sie mÃ¼ssenÂ uns Ihren Â Vertrag zeigen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.08379305899143219
+  ],
+  [
+    [
+      46,
+      2
+    ],
+    [
+      "Ihren Neben-Wohnsitz melden Sie dort an: im Kunden-Zentrum Innenstadt in einem der Kunden-ZentrenÂ in KÃ¶ln.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.13207057118415833
+  ],
+  [
+    [
+      47,
+      2
+    ],
+    [
+      "Sie mÃ¼ssen zu einer dieser Stellen kommen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.08636943995952606
+  ],
+  [
+    [
+      49,
+      2
+    ],
+    [
+      "Sie fÃ¼llen das Formular zum Anmelden von dem 2. Wohnsitz aus.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.06061331927776337
+  ],
+  [
+    [
+      51,
+      2
+    ],
+    [
+      "Das kÃ¶nnen Sie im Internet tun.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.3844533860683441
+  ],
+  [
+    [
+      53,
+      2
+    ],
+    [
+      "Wenn Sie beim AusfÃ¼llen Hilfe brauchen, fragen Sie uns danach.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.46890464425086975
+  ],
+  [
+    [
+      54,
+      2
+    ],
+    [
+      "Drucken Sie bitte die ErklÃ¤rung zum Neben-Wohnsitz und das Formular zum Anmelden von Ihrem 2. Wohnsitz nach dem AusfÃ¼llen aus.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.0779251679778099
+  ],
+  [
+    [
+      56,
+      2
+    ],
+    [
+      "Mit diesen Formularen und den anderen Unterlagen kommen Sie zu uns.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.4420338273048401
+  ],
+  [
+    [
+      57,
+      2
+    ],
+    [
+      "Was ist der Unterschied zwischen der Haupt-Wohnung und der Neben-Wohnung?",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.004912897944450378
+  ],
+  [
+    [
+      63,
+      2
+    ],
+    [
+      "Oder die Sie nur fÃ¼r bestimmte Sachen nutzen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.2182593047618866
+  ],
+  [
+    [
+      64,
+      2
+    ],
+    [
+      "Zum PrÃ¼fen kann es sein, dass wir uns die Wohnungen ansehen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.003713006153702736
+  ],
+  [
+    [
+      66,
+      2
+    ],
+    [
+      "Dann kann jemand anderes fÃ¼r Sie zu uns kommen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.2114393413066864
+  ],
+  [
+    [
+      67,
+      2
+    ],
+    [
+      "Diesem Menschen mÃ¼ssen Sie vertrauen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.21608425676822662
+  ],
+  [
+    [
+      71,
+      2
+    ],
+    [
+      "Auf dem Papier erlauben Sie einem Menschen, etwas fÃ¼r Sie zu tun.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.3788096606731415
+  ],
+  [
+    [
+      72,
+      2
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.4431077241897583
+  ],
+  [
+    [
+      73,
+      2
+    ],
+    [
+      "Sie mÃ¼ssen das Papier unterschreiben.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.09358131140470505
+  ],
+  [
+    [
+      74,
+      2
+    ],
+    [
+      "Zum Beispiel kÃ¶nnen Sie Ihrem besten Freund eine Vollmacht schreiben:",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.3248137831687927
+  ],
+  [
+    [
+      76,
+      2
+    ],
+    [
+      "Sie kÃ¶nnen das nÃ¤mlich nicht selber tun, weil Sie zum Beispiel krank im Bett liegen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.3450307846069336
+  ],
+  [
+    [
+      77,
+      2
+    ],
+    [
+      "Der Mensch, der fÃ¼r Sie zu uns kommt, muss uns die Vollmacht zeigen.",
+      "Weitere Infos finden Sie weiter unten."
+    ],
+    0.19061151146888733
+  ],
+  [
+    [
+      78,
+      3
+    ],
+    [
+      "Er muss uns auch seinen Personal-Ausweis oder Reise-Pass zeigen.",
+      "Benötigt werden Personalausweis oder Reisepass Nationalpass mit Aufenthaltsgenehmigung oder Visum"
+    ],
+    0.46819770336151123
+  ],
+  [
+    [
+      79,
+      9
+    ],
+    [
+      "Was kostet das Anmelden von einem Neben-Wohnsitz?",
+      "Erklärung zum Nebenwohnsitz"
+    ],
+    0.7046849727630615
+  ],
+  [
+    [
+      80,
+      9
+    ],
+    [
+      "Das Anmelden von Ihrem Neben-Wohnsitz ist kostenlos.",
+      "Erklärung zum Nebenwohnsitz"
+    ],
+    0.6700860857963562
+  ],
+  [
+    [
+      81,
+      9
+    ],
+    [
+      "Wenn Sie Ihren Neben-Wohnsitz erfolgreich angemeldet haben, mÃ¼ssen Sie aber eine Steuer fÃ¼r die 2. Wohnung bezahlen.",
+      "Erklärung zum Nebenwohnsitz"
+    ],
+    0.6540247797966003
+  ],
+  [
+    [
+      83,
+      9
+    ],
+    [
+      "In welchem Gesetz stehen die Regeln zum Anmelden von einem Neben-Wohnsitz?",
+      "Erklärung zum Nebenwohnsitz"
+    ],
+    0.7006350755691528
+  ],
+  [
+    [
+      84,
+      9
+    ],
+    [
+      "Die Regeln zum Anmelden von einem Neben-Wohnsitz stehen im Bundes-Melde-Gesetz.",
+      "Erklärung zum Nebenwohnsitz"
+    ],
+    0.6048397421836853
+  ],
+  [
+    [
+      85,
+      39
+    ],
+    [
+      "Die AbkÃ¼rzung dafÃ¼r ist: BMG.",
+      "Die Anmeldung ist gebührenfrei."
+    ],
+    0.07754042744636536
+  ],
+  [
+    [
+      86,
+      40
+    ],
+    [
+      "Neues Melde-Gesetz",
+      "Rechtliche Voraussetzungen Bundesmeldegesetz"
+    ],
+    0.8086960911750793
+  ],
+  [
+    [
+      87,
+      40
+    ],
+    [
+      "Seit November 2015 gibt es ein neues Melde-Gesetz.",
+      "Rechtliche Voraussetzungen Bundesmeldegesetz"
+    ],
+    0.7701504826545715
+  ],
+  [
+    [
+      88,
+      40
+    ],
+    [
+      "Und es gibt neue Gesetze zum: Anmelden von Ihrem Wohn-Sitz",
+      "Rechtliche Voraussetzungen Bundesmeldegesetz"
+    ],
+    0.26640576124191284
+  ],
+  [
+    [
+      89,
+      40
+    ],
+    [
+      "Ummelden von Ihrem Wohn-Sitz",
+      "Rechtliche Voraussetzungen Bundesmeldegesetz"
+    ],
+    0.2673182189464569
+  ],
+  [
+    [
+      90,
+      40
+    ],
+    [
+      "Abmelden von Ihrem Wohn-Sitz",
+      "Rechtliche Voraussetzungen Bundesmeldegesetz"
+    ],
+    0.26723626255989075
+  ]
+]

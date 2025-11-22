@@ -1,0 +1,508 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben Ihren Führerschein frei-willig abgegeben?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.6899036765098572
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Ihnen wurde der Führerschein weggenommen?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.8553427457809448
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Oder das Straßen-Verkehrs-Amt .",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.5719798803329468
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Sie bekommen ein Fahr-Verbot:",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.8128628730773926
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sie müssen dann einen Antrag beim Amt stellen, wenn Sie den Führerschein wieder haben wollen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6611853241920471
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Ein Pass-Foto",
+      "Ein aktuelles biometrisches Passfoto"
+    ],
+    1.0
+  ],
+  [
+    [
+      20,
+      4
+    ],
+    [
+      "Das Foto muss aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.8207597732543945
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Das heißt: Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.9105133414268494
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.7761020064353943
+  ],
+  [
+    [
+      70,
+      7
+    ],
+    [
+      "Für den Nachweis gibt es ein Muster .",
+      "Nachweis Sehvermögen"
+    ],
+    0.628255307674408
+  ],
+  [
+    [
+      72,
+      11
+    ],
+    [
+      "Hier können Sie den Seh-Test machen:",
+      "Hierfür benötigen Sie eine in der Fahrerlaubnisverordnung (FeV) vorgeschriebene Musterbescheinigung (Anlage 5 FeV), über den die Ärztin oder der Arzt aber im Regelfall verfügt."
+    ],
+    0.6627979874610901
+  ],
+  [
+    [
+      73,
+      13
+    ],
+    [
+      "Bei Ihrem Augen-Arzt oder Ihrer Augen-Ärztin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.6389886140823364
+  ],
+  [
+    [
+      74,
+      13
+    ],
+    [
+      "Oder bei einem Arzt oder einer Ärztin für Arbeits-Medizin und Betriebs-Medizin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.6763275265693665
+  ],
+  [
+    [
+      80,
+      13
+    ],
+    [
+      "Sie bekommen die Bescheinigung meistens von Ihrem Arzt oder Ihrer Ärztin.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.8073378205299377
+  ],
+  [
+    [
+      84,
+      13
+    ],
+    [
+      "Auf dem Papier muss der Arzt oder die Ärztin aufschreiben, ob Sie als Fahrer oder Fahrerin geeignet sind.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.6045936942100525
+  ],
+  [
+    [
+      85,
+      13
+    ],
+    [
+      "Wenn Ihr Arzt oder Ihre Ärztin keinen Vordruck vom Amt hat, kann er oder sie die Ärzte-Kammer danach fragen.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.6045608520507812
+  ],
+  [
+    [
+      86,
+      14
+    ],
+    [
+      "Wichtig: Die Bescheinigung darf nicht älter als 1 Jahr sein!",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.7999926209449768
+  ],
+  [
+    [
+      90,
+      19
+    ],
+    [
+      "Wie gut Sie sich orientieren können.",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.6931238770484924
+  ],
+  [
+    [
+      91,
+      19
+    ],
+    [
+      "Wie gut Sie sich konzentrieren können.",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.6747224926948547
+  ],
+  [
+    [
+      94,
+      19
+    ],
+    [
+      "Wo Sie den Test machen können, fragen Sie am besten Unternehmen wie Bus-Unternehmen Taxi-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.7188929915428162
+  ],
+  [
+    [
+      95,
+      19
+    ],
+    [
+      "Miet-Wagen-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    1.0
+  ],
+  [
+    [
+      97,
+      20
+    ],
+    [
+      "Sie brauchen einen Nachweis über eine Weiter-Bildung nach dem Berufs-Fahrer-Qualifizierungs-Gesetz .",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.9471045136451721
+  ],
+  [
+    [
+      100,
+      21
+    ],
+    [
+      "Mehr Infos finden Sie auf der Seite:",
+      "Weitere Informationen finden Sie auf der Seite Berufsqualifizierung und Weiterbildung (siehe unter Ähnliche Dienstleistungen)"
+    ],
+    0.8730103373527527
+  ],
+  [
+    [
+      103,
+      28
+    ],
+    [
+      "2. Oder wenn Sie 8 Punkte oder mehr im Fahr-Eignungs-Register haben.",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.6583138108253479
+  ],
+  [
+    [
+      104,
+      28
+    ],
+    [
+      "Das Fahr-Eignungs-Register ist eine Liste.",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.6199135780334473
+  ],
+  [
+    [
+      108,
+      28
+    ],
+    [
+      "3. Oder wenn Ihnen der Führerschein in der Probe-Zeit weggenommen wurde.",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.7463071942329407
+  ],
+  [
+    [
+      111,
+      28
+    ],
+    [
+      "Dann können Sie den Antrag sofort stellen .",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.6197139620780945
+  ],
+  [
+    [
+      112,
+      28
+    ],
+    [
+      "Wichtig:",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.5747527480125427
+  ],
+  [
+    [
+      115,
+      28
+    ],
+    [
+      "Die Abkürzung dafür ist: MPU .",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.58358234167099
+  ],
+  [
+    [
+      116,
+      42
+    ],
+    [
+      "Manche sagen zur MPU auch: Idioten-Test.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.6021475195884705
+  ],
+  [
+    [
+      118,
+      42
+    ],
+    [
+      "Sie müssen eine MPU machen:",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    1.0
+  ],
+  [
+    [
+      119,
+      43
+    ],
+    [
+      "1. Wenn Sie betrunken gefahren sind.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.6957091093063354
+  ],
+  [
+    [
+      120,
+      43
+    ],
+    [
+      "Zum Beispiel: Mit 1,6 oder mehr Promille.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.7545852065086365
+  ],
+  [
+    [
+      121,
+      43
+    ],
+    [
+      "2. Wenn Sie immer wieder mit Alkohol im Verkehr auffallen.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.7986481785774231
+  ],
+  [
+    [
+      124,
+      44
+    ],
+    [
+      "Oder wenn Sie 8 oder mehr Punkte im Fahr-Eignungs-Register haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.8606907725334167
+  ],
+  [
+    [
+      125,
+      47
+    ],
+    [
+      "Wer ist für mich zuständig?",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.8855358958244324
+  ],
+  [
+    [
+      126,
+      47
+    ],
+    [
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangs-Buchstaben von Ihrem Nach-Namen .",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.9517987966537476
+  ],
+  [
+    [
+      127,
+      48
+    ],
+    [
+      "Sie erreichen Ihren Sach-Bearbeiter oder Ihre Sach-Bearbeiterin unter diesen Telefon-Nummern: Buchstabe A bis F : 02 21 / 22 12 62 35 Buchstabe G bis KI : 02 21 / 22 12 65 01 Buchstabe KL bis Q : 02 21 / 22 12 68 17 Buchstabe R bis Z : 02 21 / 22 12 62 32",
+      "Sie erreichen Ihre Sachbearbeiter*in unter folgenden Telefonnummern:"
+    ],
+    0.9405144453048706
+  ],
+  [
+    [
+      129,
+      49
+    ],
+    [
+      "Seit 2013 gibt es in Deutschland den EU -Führerschein .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.6476365327835083
+  ],
+  [
+    [
+      134,
+      50
+    ],
+    [
+      "Aber wenn Sie einen neuen Führer-Schein bekommen, bekommen Sie jetzt immer den EU -Führer-Schein .",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.5629186630249023
+  ],
+  [
+    [
+      138,
+      50
+    ],
+    [
+      "Die Adresse finden Sie unter der Überschrift:",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.583418607711792
+  ],
+  [
+    [
+      145,
+      52
+    ],
+    [
+      "Dann müssen Sie zusätzlich 28,60 Euro bezahlen.",
+      "Gebühren"
+    ],
+    0.6416361331939697
+  ],
+  [
+    [
+      146,
+      56
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.8963000178337097
+  ],
+  [
+    [
+      147,
+      56
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.6565495133399963
+  ],
+  [
+    [
+      148,
+      56
+    ],
+    [
+      "Oder Sie können mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.8482679724693298
+  ],
+  [
+    [
+      151,
+      56
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.7374489903450012
+  ]
+]

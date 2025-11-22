@@ -1,0 +1,211 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Manchmal hat eine Person einen Herzstillstand .",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6947250962257385
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das bedeutet: Das Herz schlägt nicht mehr.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6462051868438721
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "ein schwerer Unfall ein Herzinfarkt Herzkrankheiten ein Schlaganfall",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6168593168258667
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das Herz schlägt nicht mehr?",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6616662740707397
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Dann pumpt das Herz nicht mehr genügend Blut ins Gehirn und in den Körper.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6153181791305542
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Und die betroffene Person hört auf zu atmen.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.7530916929244995
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Das Herz schlägt mehrere Minuten nicht?",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6413551568984985
+  ],
+  [
+    [
+      9,
+      4
+    ],
+    [
+      "Dann stirbt die betroffene Person.",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.698546826839447
+  ],
+  [
+    [
+      10,
+      12
+    ],
+    [
+      "Deshalb ist schnelle Erste Hilfe wichtig.",
+      "Sollten sich andere Personen in der Nähe befinden, holen Sie sich Hilfe und fordern Sie eine davon auf, den Rettungsdienst anzurufen."
+    ],
+    0.6296364665031433
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "Dann versuchen Sie die Person wiederzubeleben.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7801671028137207
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Das Fachwort für die Wiederbelebung ist: Reanimation.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7508107423782349
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Beginnen Sie dann sofort mit der Wiederbelebung.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.9207184314727783
+  ],
+  [
+    [
+      20,
+      20
+    ],
+    [
+      "Eine Wiederbelebung geht so: 1. Strecken Sie den Kopf der betroffenen Person nach oben.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.7741937041282654
+  ],
+  [
+    [
+      22,
+      20
+    ],
+    [
+      "Drücken Sie dafür den Brustkorb der betroffenen Person mit verschränkten Händen 30 Mal kräftig nach unten.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.7827947735786438
+  ],
+  [
+    [
+      24,
+      20
+    ],
+    [
+      "4. Drücken Sie den Brustkorb der betroffenen Person wieder 30 Mal kräftig nach unten.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.808800220489502
+  ],
+  [
+    [
+      25,
+      29
+    ],
+    [
+      "5. Geben Sie der betroffenen Person wieder zwei Atemspenden .",
+      "Ihren Mund legen Sie nun um die Nase des Verletzten."
+    ],
+    0.6415765285491943
+  ],
+  [
+    [
+      26,
+      37
+    ],
+    [
+      "Wiederholen Sie diese Vorgänge.",
+      "Diese ist gleich der Ein-Helfer-Methode bezüglich des Ablaufs."
+    ],
+    0.6257510185241699
+  ],
+  [
+    [
+      29,
+      39
+    ],
+    [
+      "Beginnen Sie sofort mit der Herzdruckmassage.",
+      "Anschließend erfolgen zwei Atemspenden und wieder der sofortige Beginn von 30 Herzdruckmassagen."
+    ],
+    0.7808827757835388
+  ],
+  [
+    [
+      30,
+      44
+    ],
+    [
+      "Die Herzdruckmassage ist wichtiger als die Atemspenden.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.7826805710792542
+  ]
+]

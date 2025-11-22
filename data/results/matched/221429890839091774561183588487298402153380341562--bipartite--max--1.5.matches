@@ -1,0 +1,387 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Manchmal hat eine Person einen Herzstillstand .",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6501783728599548
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Folgende Dinge können zum Beispiel einen Herzstillstand verursachen:",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.5864284634590149
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Und die betroffene Person hört auf zu atmen.",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.6319029927253723
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Das ist lebensgefährlich.",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.6494912505149841
+  ],
+  [
+    [
+      9,
+      36
+    ],
+    [
+      "Dann stirbt die betroffene Person.",
+      "Anschließend wieder zweimal beatmen Behalten Sie diesen 30:2-Rhythmus bei, bis die Person aufwacht, wieder normal atmet oder die Rettungskräfte eintreffen"
+    ],
+    0.6738746762275696
+  ],
+  [
+    [
+      10,
+      42
+    ],
+    [
+      "Deshalb ist schnelle Erste Hilfe wichtig.",
+      "Auch wichtig:"
+    ],
+    0.8024868369102478
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Eine Person hat einen Herzstillstand?",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6218914985656738
+  ],
+  [
+    [
+      12,
+      36
+    ],
+    [
+      "Dann versuchen Sie die Person wiederzubeleben.",
+      "Anschließend wieder zweimal beatmen Behalten Sie diesen 30:2-Rhythmus bei, bis die Person aufwacht, wieder normal atmet oder die Rettungskräfte eintreffen"
+    ],
+    0.7935217022895813
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Eine betroffene Person atmet nicht mehr?",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.723714292049408
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.9003744125366211
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Dann rufen Sie als erstes die Notrufnummer 112 .",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.6867095828056335
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Beginnen Sie dann sofort mit der Wiederbelebung.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.9235402941703796
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Für die Wiederbelebung sollte die betroffene Person auf einem harten Untergrund liegen.",
+      "Sie sollte möglichst auf einer harten Unterlage durchgeführt werden."
+    ],
+    0.587702214717865
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Und die Person muss auf dem Rücken liegen.",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.71583491563797
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Eine Wiederbelebung geht so: 1. Strecken Sie den Kopf der betroffenen Person nach oben.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.6595673561096191
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "2. Beginnen Sie dann sofort mit einer Herzdruckmassage.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7639843225479126
+  ],
+  [
+    [
+      22,
+      38
+    ],
+    [
+      "Drücken Sie dafür den Brustkorb der betroffenen Person mit verschränkten Händen 30 Mal kräftig nach unten.",
+      "Beginnen Sie mit 30 x Drücken."
+    ],
+    0.7334776520729065
+  ],
+  [
+    [
+      23,
+      19
+    ],
+    [
+      "Drücken Sie ungefähr zwei Mal pro Sekunden.",
+      "Etwa zwei Kompressionen pro Sekunde"
+    ],
+    0.7640190124511719
+  ],
+  [
+    [
+      24,
+      20
+    ],
+    [
+      "4. Drücken Sie den Brustkorb der betroffenen Person wieder 30 Mal kräftig nach unten.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.7362778186798096
+  ],
+  [
+    [
+      25,
+      36
+    ],
+    [
+      "5. Geben Sie der betroffenen Person wieder zwei Atemspenden .",
+      "Anschließend wieder zweimal beatmen Behalten Sie diesen 30:2-Rhythmus bei, bis die Person aufwacht, wieder normal atmet oder die Rettungskräfte eintreffen"
+    ],
+    0.6003950834274292
+  ],
+  [
+    [
+      26,
+      6
+    ],
+    [
+      "Wiederholen Sie diese Vorgänge.",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.7568190097808838
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Machen Sie mit der Wiederbelebung solange weiter, bis Hilfe kommt.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.8407725095748901
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Diese Dinge sollten Sie bei der Wiederbelebung beachten:",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7095216512680054
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Beginnen Sie sofort mit der Herzdruckmassage.",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.8859727382659912
+  ],
+  [
+    [
+      30,
+      44
+    ],
+    [
+      "Die Herzdruckmassage ist wichtiger als die Atemspenden.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.6290576457977295
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Machen Sie bei der Herzdruckmassage möglichst keine Pausen .",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.6910346746444702
+  ],
+  [
+    [
+      32,
+      20
+    ],
+    [
+      "Wichtig: Drücken Sie den Brustkorb kräftig nach unten.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.6827076077461243
+  ],
+  [
+    [
+      33,
+      5
+    ],
+    [
+      "Haben Sie keine Angst.",
+      "Sie sollten nicht aus Angst, Mund zu Mund beatmen zu müssen, auf eine Reanimation verzichten."
+    ],
+    0.7369704842567444
+  ],
+  [
+    [
+      34,
+      5
+    ],
+    [
+      "Sie können nichts falschmachen.",
+      "Sie sollten nicht aus Angst, Mund zu Mund beatmen zu müssen, auf eine Reanimation verzichten."
+    ],
+    0.6399483680725098
+  ],
+  [
+    [
+      37,
+      40
+    ],
+    [
+      "Der Defibrillator kann Ihnen bei der Wiederbelebung helfen.",
+      "Dieser Zyklus zur Wiederbelebung bei Erwachsenen in einem Rhythmus von 30:2 ist bis zum Wiedererlangen des Bewusstseins, Wiedereinsetzen der Atmung oder dem Eintreffen des Rettungsdienstes fortzusetzen."
+    ],
+    0.6555802822113037
+  ],
+  [
+    [
+      39,
+      6
+    ],
+    [
+      "Die elektrischen Impulse können das Herz der betroffenen Person wieder in den richtigen Rhythmus bringen.",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.6090201735496521
+  ],
+  [
+    [
+      40,
+      40
+    ],
+    [
+      "Ist ein Defibrillator in der Nähe?",
+      "Dieser Zyklus zur Wiederbelebung bei Erwachsenen in einem Rhythmus von 30:2 ist bis zum Wiedererlangen des Bewusstseins, Wiedereinsetzen der Atmung oder dem Eintreffen des Rettungsdienstes fortzusetzen."
+    ],
+    0.6593117713928223
+  ],
+  [
+    [
+      41,
+      12
+    ],
+    [
+      "Dann soll eine andere Person den Defibrillator holen.",
+      "Sollten sich andere Personen in der Nähe befinden, holen Sie sich Hilfe und fordern Sie eine davon auf, den Rettungsdienst anzurufen."
+    ],
+    0.7127884030342102
+  ],
+  [
+    [
+      42,
+      17
+    ],
+    [
+      "Schalten Sie den Defibrillator an.",
+      "Drücken Sie mit gestreckten Armen und geradem Rücken den Brustkorb fünf bis sechs Zentimeter ein."
+    ],
+    0.6594828367233276
+  ],
+  [
+    [
+      44,
+      6
+    ],
+    [
+      "Sie möchten noch mehr über Wiederbelebung lesen?",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.6029528379440308
+  ]
+]

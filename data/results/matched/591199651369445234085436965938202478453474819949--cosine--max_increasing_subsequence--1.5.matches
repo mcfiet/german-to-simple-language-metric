@@ -1,0 +1,233 @@
+[
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Die Dreimonatsspritze enthält eine große Menge Hormone.",
+      "Die Dreimonatsspritze enthält eine hohe Gestagendosis."
+    ],
+    0.8516454100608826
+  ],
+  [
+    [
+      8,
+      7
+    ],
+    [
+      "Diese Frauen können keine anderen Verhütungsmittel nehmen.",
+      "Die Methode eignet sich in erster Linie für Frauen, die andere Verhütungsmittel nicht vertragen oder keine Verhütungspillen anwenden können, etwa wegen einer chronischen Magen-Darm-Erkrankung."
+    ],
+    0.8408265709877014
+  ],
+  [
+    [
+      11,
+      7
+    ],
+    [
+      "Die Frau verträgt andere Verhütungsmittel nicht.",
+      "Die Methode eignet sich in erster Linie für Frauen, die andere Verhütungsmittel nicht vertragen oder keine Verhütungspillen anwenden können, etwa wegen einer chronischen Magen-Darm-Erkrankung."
+    ],
+    0.7506793141365051
+  ],
+  [
+    [
+      21,
+      21
+    ],
+    [
+      "Die Eizelle wird nach dem Eisprung nicht befruchtet?",
+      "Das enthaltene Gestagen hemmt den Eisprung und unterdrückt den Aufbau der Gebärmutterschleimhaut, sodass eine gegebenenfalls befruchtete Eizelle sich nicht einnisten kann."
+    ],
+    0.7905845046043396
+  ],
+  [
+    [
+      23,
+      21
+    ],
+    [
+      "Sie löst sich dann auf und fließt als Monatsblutung aus dem Körper hinaus.",
+      "Das enthaltene Gestagen hemmt den Eisprung und unterdrückt den Aufbau der Gebärmutterschleimhaut, sodass eine gegebenenfalls befruchtete Eizelle sich nicht einnisten kann."
+    ],
+    0.7780694365501404
+  ],
+  [
+    [
+      34,
+      22
+    ],
+    [
+      "Die Gestagene machen den Schleim im Gebärmutterhals dickflüssiger.",
+      "Auch macht das Hormon den Schleim im Gebärmutterhals dickflüssiger."
+    ],
+    0.8154654502868652
+  ],
+  [
+    [
+      35,
+      24
+    ],
+    [
+      "Deshalb können die Spermien nicht mehr so gut in die Gebärmutter eindringen.",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.8642252087593079
+  ],
+  [
+    [
+      49,
+      24
+    ],
+    [
+      "Können Sie die Dreimonatsspritze weiter anwenden?",
+      "Sie können praktisch nicht mehr in die Gebärmutter eindringen."
+    ],
+    0.8252384662628174
+  ],
+  [
+    [
+      56,
+      26
+    ],
+    [
+      "Die Anwenderinnen bekommen alle drei Monate eine Spritze.",
+      "Die Anwenderinnen müssen \"nur\" alle drei Monate eine Spritze bekommen."
+    ],
+    0.9472710490226746
+  ],
+  [
+    [
+      57,
+      29
+    ],
+    [
+      "Sie können die Dreimonatsspritze also nicht so leicht vergessen.",
+      "Positiv zu vermerken ist, dass Menstruationsschmerzen nachlassen können und dass Einnahmefehler, wie sie bei der Pille möglich sind, entfallen."
+    ],
+    0.8280244469642639
+  ],
+  [
+    [
+      63,
+      30
+    ],
+    [
+      "Hinweis: Es gibt etwa eine Woche Spielraum.",
+      "Wird der richtige Zeitpunkt für die Folgeinjektion verpasst, gibt es noch ein paar Tage Spielraum, nämlich die 13. Woche."
+    ],
+    0.7644884586334229
+  ],
+  [
+    [
+      71,
+      35
+    ],
+    [
+      "Manche Medikamente können die Wirkung des Gestagens beeinträchtigen.",
+      "Einige Medikamente , zum Beispiel bestimmte Antibiotika, können die Wirkung des Gestagens beeinträchtigen."
+    ],
+    0.9402956962585449
+  ],
+  [
+    [
+      73,
+      36
+    ],
+    [
+      "Auch Wechselwirkungen sind möglich.",
+      "Daneben sind weitere Wechselwirkungen bekannt."
+    ],
+    0.8720848560333252
+  ],
+  [
+    [
+      75,
+      37
+    ],
+    [
+      "Dann sprechen Sie mit ihrem Arzt.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.7288419008255005
+  ],
+  [
+    [
+      90,
+      37
+    ],
+    [
+      "Dann sprechen Sie unbedingt mit Ihrem Arzt.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.775873064994812
+  ],
+  [
+    [
+      101,
+      37
+    ],
+    [
+      "Sie haben ungeklärte Blutungen.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.7199624180793762
+  ],
+  [
+    [
+      106,
+      37
+    ],
+    [
+      "Sie haben eine schwere Lebererkrankung.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.7229019403457642
+  ],
+  [
+    [
+      107,
+      37
+    ],
+    [
+      "Sie haben eine Stoffwechselerkrankung.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.75075364112854
+  ],
+  [
+    [
+      116,
+      37
+    ],
+    [
+      "Sie haben eine Stoffwechselstörung.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.751228392124176
+  ],
+  [
+    [
+      117,
+      37
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt über Vorerkrankungen.",
+      "Darüber informieren Sie außerdem der behandelnde Arzt und Ihre Apotheke."
+    ],
+    0.8252865076065063
+  ],
+  [
+    [
+      119,
+      61
+    ],
+    [
+      "Hinweis: Die Dreimonatsspritze schützt nicht vor Geschlechtskrankheiten.",
+      "Die Dreimonatsspritze kann zwar vor ungewollten Schwangerschaften schützen, aber nicht vor sexuell übertragbaren Krankheiten wie HIV / Aids ."
+    ],
+    0.759116530418396
+  ]
+]

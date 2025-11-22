@@ -1,0 +1,1322 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie ziehen nach Köln um?",
+      "Sie ziehen um nach Köln?"
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann müssen Sie Ihre neue Adresse bei uns anmelden.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.8916428089141846
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Bis wann muss ich meinen neuen Wohnsitz anmelden?",
+      "Benötigt werden Personalausweis Reisepass falls vorhanden oder wenn Sie keinen Personalausweis besitzen."
+    ],
+    0.4179554581642151
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Spätestens 2 Wochen nach dem Umzug zur neuen Adresse müssen Sie sich anmelden.",
+      "Bei einer Anmeldung im Familienverband benötigen wir die Ausweisdokumente aller zuziehenden Personen Anmeldeformular mit Unterschrift der oder des Meldepflichtigen Sie erhalten das Formular in den Kundenzentren oder unter Downloads und Infos zum Herunterladen."
+    ],
+    0.6407951712608337
+  ],
+  [
+    [
+      4,
+      9
+    ],
+    [
+      "Wo melde ich meinen Wohnsitz an?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.252679705619812
+  ],
+  [
+    [
+      5,
+      9
+    ],
+    [
+      "Ihren neuen Wohnsitz melden Sie dort an: im Kunden-Zentrum Innenstadt oder in einem anderen Kunden-Zentrum in Köln",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5028384923934937
+  ],
+  [
+    [
+      6,
+      9
+    ],
+    [
+      "Die Adressen von allen Kunden-Zentren in Köln finden Sie unter der Überschrift: Weitere Infos.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5165563821792603
+  ],
+  [
+    [
+      7,
+      9
+    ],
+    [
+      "Was brauche ich für das Anmelden von meinem Wohnsitz?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.38338541984558105
+  ],
+  [
+    [
+      8,
+      9
+    ],
+    [
+      "Sie brauchen dazu: Ihren Personal-Ausweis oder Ihren Reise-Pass die Ausweise von allen Personen, die mit Ihnen umziehen das Anmelde-Formular Bestätigung vom Vermieter oder der Vermieterin.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.862846314907074
+  ],
+  [
+    [
+      9,
+      9
+    ],
+    [
+      "Der Vermieter oder die Vermieterin muss die Bestätigung ausfüllen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.73577481508255
+  ],
+  [
+    [
+      10,
+      9
+    ],
+    [
+      "Sie müssen die Bestätigung 2 Wochen nach Ihrem Umzug ausfüllen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6736570596694946
+  ],
+  [
+    [
+      11,
+      9
+    ],
+    [
+      "Dann müssen Sie die Bestätigung im Amt abgeben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.684036135673523
+  ],
+  [
+    [
+      12,
+      9
+    ],
+    [
+      "Wenn Sie keine Wohnung mieten , sondern in Ihre eigene Wohnung ziehen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7919052839279175
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Oder in ein eigenes Haus ziehen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.36296674609184265
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Dann müssen Sie die Bestätigung nicht abgeben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.898587703704834
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "Sondern dann müssen Sie diese Papiere abgeben:",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8568171858787537
+  ],
+  [
+    [
+      17,
+      9
+    ],
+    [
+      "Das Grund-Buch ist eine Liste mit: allen Grund-Stücken allen Eigentümern Ihr Name steht im Grund-Buch:",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4563596248626709
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Wenn Sie eine Wohnung kaufen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7713437080383301
+  ],
+  [
+    [
+      19,
+      9
+    ],
+    [
+      "Oder wenn Sie ein Haus kaufen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6047880053520203
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Oder wenn Sie ein Grund-Stück kaufen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6496769189834595
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Sie müssen uns 1",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.37482455372810364
+  ],
+  [
+    [
+      22,
+      9
+    ],
+    [
+      "Kopie vom Grund-Buch zeigen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.27595698833465576
+  ],
+  [
+    [
+      23,
+      9
+    ],
+    [
+      "Oder Ihren Vertrag mit dem Notar.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.46462342143058777
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Ein Notar ist eine Person.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.40657103061676025
+  ],
+  [
+    [
+      25,
+      9
+    ],
+    [
+      "Die Person macht für Sie einen Vertrag.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7406203746795654
+  ],
+  [
+    [
+      26,
+      9
+    ],
+    [
+      "Oder schreibt für Sie eine Urkunde.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7542381882667542
+  ],
+  [
+    [
+      27,
+      9
+    ],
+    [
+      "Zum Beispiel: Wenn Sie ein Haus kaufen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5253815054893494
+  ],
+  [
+    [
+      28,
+      9
+    ],
+    [
+      "Dann machen Sie einen Notar-Vertrag.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7318499088287354
+  ],
+  [
+    [
+      29,
+      9
+    ],
+    [
+      "Sie müssen uns 1",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.37482455372810364
+  ],
+  [
+    [
+      30,
+      9
+    ],
+    [
+      "Kopie von diesem Vertrag zeigen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4778723120689392
+  ],
+  [
+    [
+      31,
+      9
+    ],
+    [
+      "Wie melde ich meinen Wohnsitz an?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.31307312846183777
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Sie füllen das Anmelde-Formular aus.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6039550304412842
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Das können Sie im Internet tun.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4561057984828949
+  ],
+  [
+    [
+      34,
+      9
+    ],
+    [
+      "Die Formulare sind in Alltags-Sprache .",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.3308787941932678
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Wenn Sie beim Ausfüllen Hilfe brauchen, fragen Sie uns danach.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7836042642593384
+  ],
+  [
+    [
+      36,
+      9
+    ],
+    [
+      "Drucken Sie bitte das Anmelde-Formular und das Bei-Blatt nach dem Ausfüllen aus.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6339384913444519
+  ],
+  [
+    [
+      37,
+      9
+    ],
+    [
+      "Wichtig: Sie müssen beide Formulare unterschreiben .",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7988131642341614
+  ],
+  [
+    [
+      38,
+      9
+    ],
+    [
+      "Sie müssen zu uns ins Kunden-Zentrum kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6382526159286499
+  ],
+  [
+    [
+      39,
+      9
+    ],
+    [
+      "Sie müssen beide Formulare und alle anderen Papiere mitbringen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7660191655158997
+  ],
+  [
+    [
+      40,
+      9
+    ],
+    [
+      "Wenn Sie aus dem Ausland zuziehen",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6335284113883972
+  ],
+  [
+    [
+      41,
+      9
+    ],
+    [
+      "Wenn Sie aus dem Ausland nach Köln ziehen, müssen Sie uns auch diese Papiere zeigen: Ihren Pass von dem Land, aus dem Sie kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7119524478912354
+  ],
+  [
+    [
+      42,
+      9
+    ],
+    [
+      "Mit diesem Pass müssen Sie uns eine Aufenthalts-Genehmigung oder ein Visum zeigen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7818251252174377
+  ],
+  [
+    [
+      43,
+      9
+    ],
+    [
+      "Das ist eine Erlaubnis, dass Sie in Deutschland wohnen dürfen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6589369177818298
+  ],
+  [
+    [
+      44,
+      9
+    ],
+    [
+      "Als verheirateter Mensch oder als Mensch, der in einer Lebens-Partnerschaft lebt, brauchen Sie dann zusätzlich:",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6689590811729431
+  ],
+  [
+    [
+      45,
+      9
+    ],
+    [
+      "Ehe-Urkunde / Kopie aus dem Ehe-Register oder Lebens-Partnerschafts-Urkunde",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.39797917008399963
+  ],
+  [
+    [
+      46,
+      9
+    ],
+    [
+      "Geburts-Urkunden von Ihren Kindern , die mit Ihnen umziehen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6604114770889282
+  ],
+  [
+    [
+      47,
+      9
+    ],
+    [
+      "Deren Geburts-Urkunden brauchen Sie, wenn diese unter 18 Jahre alt sind.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5414826273918152
+  ],
+  [
+    [
+      48,
+      9
+    ],
+    [
+      "Wichtig: Wenn Sie Urkunden aus dem Ausland vorzeigen müssen, beachten Sie bitte: Ausländische Urkunden in anderen Sprachen müssen ins Deutsche übersetzt werden.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.778131365776062
+  ],
+  [
+    [
+      49,
+      9
+    ],
+    [
+      "Zum Beispiel: Ihre Urkunde aus der Türkei ist in türkischer Sprache.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4535938799381256
+  ],
+  [
+    [
+      50,
+      9
+    ],
+    [
+      "Für das Amt in Deutschland muss die Urkunde in deutsche Sprache übersetzt werden.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4819219410419464
+  ],
+  [
+    [
+      51,
+      9
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6194416880607605
+  ],
+  [
+    [
+      52,
+      9
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6408316493034363
+  ],
+  [
+    [
+      53,
+      9
+    ],
+    [
+      "Also ein Experte mit Ausbildung.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.344709187746048
+  ],
+  [
+    [
+      54,
+      9
+    ],
+    [
+      "Es ist nicht möglich, die Urkunden selbst zu übersetzen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6996375918388367
+  ],
+  [
+    [
+      55,
+      9
+    ],
+    [
+      "Auch wenn Sie die Sprache gut beherrschen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.791443407535553
+  ],
+  [
+    [
+      56,
+      9
+    ],
+    [
+      "Es sind nur Übersetzungen von diesen Experten erlaubt.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5367116332054138
+  ],
+  [
+    [
+      57,
+      9
+    ],
+    [
+      "Wer Experte ist, legt der Staat fest.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4200904667377472
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Er prüft die Übersetzer und Dolmetscher.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4964424669742584
+  ],
+  [
+    [
+      59,
+      9
+    ],
+    [
+      "Dann gibt er Ihnen eine offizielle Arbeits-Erlaubnis.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6303240060806274
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Das schwere Wort dafür ist: \"öffentlich bestellt oder beeidigt\".",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5097662210464478
+  ],
+  [
+    [
+      61,
+      9
+    ],
+    [
+      "Das heißt: Der Staat hat sie geprüft.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.22077159583568573
+  ],
+  [
+    [
+      62,
+      9
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7617893815040588
+  ],
+  [
+    [
+      63,
+      9
+    ],
+    [
+      "Wichtig: Urkunden und Übersetzungen müssen im Original vorgelegt werden.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5468292236328125
+  ],
+  [
+    [
+      64,
+      9
+    ],
+    [
+      "Sie können keine Kopien abgeben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8396405577659607
+  ],
+  [
+    [
+      65,
+      9
+    ],
+    [
+      "Wichtig ist auch: Wenn Sie aus dem Ausland nach Deutschland ziehen, müssen Sie selbst zu uns kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7918452024459839
+  ],
+  [
+    [
+      66,
+      9
+    ],
+    [
+      "Dann können Sie keine Vollmacht für eine andere Person schreiben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.9069593548774719
+  ],
+  [
+    [
+      67,
+      9
+    ],
+    [
+      "Was ist, wenn ich zum Anmelden nicht selber kommen kann?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5268957018852234
+  ],
+  [
+    [
+      68,
+      9
+    ],
+    [
+      "Wenn Sie innerhalb von Deutschland umziehen, dann kann jemand anderes für Sie zu uns kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8145620822906494
+  ],
+  [
+    [
+      69,
+      9
+    ],
+    [
+      "Diesem Menschen müssen Sie vertrauen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.784554123878479
+  ],
+  [
+    [
+      70,
+      9
+    ],
+    [
+      "Sie müssen diesem Menschen schriftlich erlauben, für Sie zum Anmelden von Ihrem Wohnsitz zu uns zu kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7420665621757507
+  ],
+  [
+    [
+      71,
+      9
+    ],
+    [
+      "Diese Erlaubnis heißt Vollmacht .",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.643192708492279
+  ],
+  [
+    [
+      72,
+      9
+    ],
+    [
+      "Eine Vollmacht ist ein Papier.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.40098512172698975
+  ],
+  [
+    [
+      73,
+      9
+    ],
+    [
+      "Auf dem Papier erlauben Sie einem Menschen, etwas für Sie zu tun.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7072708010673523
+  ],
+  [
+    [
+      74,
+      9
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6106731295585632
+  ],
+  [
+    [
+      75,
+      9
+    ],
+    [
+      "Sie müssen das Papier unterschreiben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7345811128616333
+  ],
+  [
+    [
+      76,
+      9
+    ],
+    [
+      "Zum Beispiel können Sie Ihrem besten Freund eine Vollmacht schreiben:",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7892820835113525
+  ],
+  [
+    [
+      77,
+      9
+    ],
+    [
+      "Damit Ihr Freund Ihren Personal-Ausweis bei der Behörde abholt.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6530173420906067
+  ],
+  [
+    [
+      78,
+      9
+    ],
+    [
+      "Sie können das nämlich nicht selber tun, weil Sie zum Beispiel krank im Bett liegen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6884016394615173
+  ],
+  [
+    [
+      79,
+      9
+    ],
+    [
+      "Der Mensch, der für Sie zu uns kommt, muss uns die Vollmacht zeigen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7613189220428467
+  ],
+  [
+    [
+      80,
+      9
+    ],
+    [
+      "Er muss uns auch seinen Personal-Ausweis oder Reise-Pass zeigen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6458742022514343
+  ],
+  [
+    [
+      81,
+      9
+    ],
+    [
+      "Wenn Sie aus dem Ausland nach Deutschland ziehen, müssen Sie selbst zu uns kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7488783597946167
+  ],
+  [
+    [
+      82,
+      9
+    ],
+    [
+      "Wie lasse ich meine Adresse",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.29638952016830444
+  ],
+  [
+    [
+      84,
+      9
+    ],
+    [
+      "Dazu müssen Sie nichts weiter tun.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7537565231323242
+  ],
+  [
+    [
+      85,
+      9
+    ],
+    [
+      "Wir ändern diese Angaben, wenn Sie Ihren neuen Wohnsitz bei uns anmelden.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7793976068496704
+  ],
+  [
+    [
+      86,
+      9
+    ],
+    [
+      "Wie kann ich mein Auto oder Motor-Rad umschreiben lassen?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4401278793811798
+  ],
+  [
+    [
+      87,
+      9
+    ],
+    [
+      "Sie ziehen von einer anderen Stadt in Deutschland nach Köln um?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.5487890243530273
+  ],
+  [
+    [
+      88,
+      9
+    ],
+    [
+      "Dann können Sie gleichzeitig mit dem Anmelden von Ihrem Wohnsitz Ihr Auto auf die neue Adresse umschreiben lassen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7611438035964966
+  ],
+  [
+    [
+      89,
+      9
+    ],
+    [
+      "Oder Ihr Motor-Rad.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.33069080114364624
+  ],
+  [
+    [
+      90,
+      9
+    ],
+    [
+      "Dazu müssen Sie zu einer dieser Stellen kommen:",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7849494218826294
+  ],
+  [
+    [
+      91,
+      9
+    ],
+    [
+      "Kunden-Zentrum Innenstadt KFZ -Zulassungs-Stelle Poll.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.2213030457496643
+  ],
+  [
+    [
+      92,
+      9
+    ],
+    [
+      "Das ist die Stelle, welche die Zulassung von Autos und Motor-Rädern regelt.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6251999735832214
+  ],
+  [
+    [
+      93,
+      9
+    ],
+    [
+      "Achtung: Sie können nur Montag bis Freitag zu uns kommen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6715279817581177
+  ],
+  [
+    [
+      94,
+      9
+    ],
+    [
+      "Am Samstag können wir die Fahrzeug-Papiere nicht ändern .",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.48771798610687256
+  ],
+  [
+    [
+      95,
+      9
+    ],
+    [
+      "Auch wenn das Kunden-Zentrum geöffnet ist.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.519042432308197
+  ],
+  [
+    [
+      96,
+      9
+    ],
+    [
+      "Wenn Sie hierfür ins Kunden-Zentrum Innenstadt kommen, müssen Sie bestimmte Dinge beachten.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8133835792541504
+  ],
+  [
+    [
+      97,
+      9
+    ],
+    [
+      "Was passiert mit den Daten, mit denen ich angemeldet bin?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.39975878596305847
+  ],
+  [
+    [
+      98,
+      9
+    ],
+    [
+      "Wir gebrauchen Ihre Daten nur für die Abläufe bei uns.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7781561017036438
+  ],
+  [
+    [
+      99,
+      9
+    ],
+    [
+      "Es passiert nichts damit, was Sie nicht wollen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6609711050987244
+  ],
+  [
+    [
+      100,
+      9
+    ],
+    [
+      "Sie können dem Weitergeben von Ihren Daten an andere Stellen widersprechen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7695798873901367
+  ],
+  [
+    [
+      101,
+      9
+    ],
+    [
+      "Dann geben wir niemals Ihre Daten an diese Stellen weiter.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8106496930122375
+  ],
+  [
+    [
+      102,
+      9
+    ],
+    [
+      "Widersprechen können Sie beim Anmelden von Ihrem Wohnsitz.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.708130955696106
+  ],
+  [
+    [
+      103,
+      9
+    ],
+    [
+      "Sie können aber auch später noch dem Weitergeben von Ihren Daten widersprechen.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8064917325973511
+  ],
+  [
+    [
+      104,
+      9
+    ],
+    [
+      "An bestimmte Stellen dürfen wir Ihre Daten nur dann weitergeben, wenn Sie der Weitergabe zugestimmt haben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.8497445583343506
+  ],
+  [
+    [
+      105,
+      9
+    ],
+    [
+      "Zum Beispiel: Sie kommen nur dann ins Telefon-Buch, wenn Sie dem zugestimmt haben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.7080908417701721
+  ],
+  [
+    [
+      106,
+      9
+    ],
+    [
+      "Wenn nicht, darf man Sie nicht ins Telefon-Buch schreiben.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6903001666069031
+  ],
+  [
+    [
+      107,
+      9
+    ],
+    [
+      "Muss ich für das Anmelden etwas bezahlen?",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.4466792941093445
+  ],
+  [
+    [
+      108,
+      9
+    ],
+    [
+      "Nein.",
+      "Wenn Sie persönlich vorsprechen und die Anmeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.08220957964658737
+  ],
+  [
+    [
+      109,
+      13
+    ],
+    [
+      "Das Anmelden von Ihrem Wohnsitz ist kostenlos.",
+      "Für den Zuzug Minderjähriger mit nur einem Elternteil, ist das Einverständnis des anderen Elternteils erforderlich."
+    ],
+    0.4962637722492218
+  ],
+  [
+    [
+      110,
+      19
+    ],
+    [
+      "Neues Melde-Gesetz",
+      "Es reicht nicht aus, den Mietvertrag vorzulegen."
+    ],
+    0.0945153757929802
+  ],
+  [
+    [
+      111,
+      19
+    ],
+    [
+      "Seit November 2015 gibt es ein neues Melde-Gesetz.",
+      "Es reicht nicht aus, den Mietvertrag vorzulegen."
+    ],
+    0.3601686656475067
+  ],
+  [
+    [
+      112,
+      29
+    ],
+    [
+      "Und es gibt neue Gesetze zum: Anmelden von Ihrem Wohn-Sitz",
+      "Zudem ist es bei Zuzug aus dem Ausland nicht möglich, dass an Ihrer Stelle eine bevollmächtigte Person vorspricht."
+    ],
+    0.6072930693626404
+  ],
+  [
+    [
+      113,
+      31
+    ],
+    [
+      "Ummelden von Ihrem Wohn-Sitz",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.5409920811653137
+  ],
+  [
+    [
+      114,
+      31
+    ],
+    [
+      "Abmelden von Ihrem Wohn-Sitz",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.5356492400169373
+  ],
+  [
+    [
+      115,
+      31
+    ],
+    [
+      "Dazu müssen Sie jetzt immer 1",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.25356483459472656
+  ],
+  [
+    [
+      116,
+      31
+    ],
+    [
+      "Bestätigung vom Vermieter oder der Vermieterin abgeben.",
+      "Laut Bundesmeldegesetz müssen Sie bei einer An- und Ummeldung eine Bescheinigung der Vermieterin oder des Vermieters vorlegen."
+    ],
+    0.7569339871406555
+  ],
+  [
+    [
+      117,
+      39
+    ],
+    [
+      "Dafür haben Sie jetzt 2 Wochen Zeit.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.5932690501213074
+  ],
+  [
+    [
+      118,
+      39
+    ],
+    [
+      "Früher hatten Sie nur 1 Woche Zeit.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.4819028377532959
+  ],
+  [
+    [
+      119,
+      54
+    ],
+    [
+      "Weitere Infos",
+      "Die Vollmacht können Sie unter Downloads und Infos herunterladen."
+    ],
+    0.5199218392372131
+  ],
+  [
+    [
+      120,
+      59
+    ],
+    [
+      "Ähnliche Themen *",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.5483970642089844
+  ],
+  [
+    [
+      121,
+      59
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.4047369360923767
+  ]
+]

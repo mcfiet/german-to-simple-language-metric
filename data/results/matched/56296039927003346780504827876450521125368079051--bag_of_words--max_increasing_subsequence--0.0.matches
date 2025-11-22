@@ -1,0 +1,508 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen Sozial-Hilfe beantragen?",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.9105983972549438
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Aber Sie haben keine deutsche Staats-Angehörigkeit?",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.6893183588981628
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Staats-Angehörigkeit bedeutet:",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.20782294869422913
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Zum Beispiel: weil Sie dort geboren wurden oder eingewandert sind.",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.5371625423431396
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Manche Menschen haben eine doppelte Staats- Angehörigkeit .",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.01336301676928997
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Das heißt: sie gehören zu 2 Ländern.",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.501909613609314
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Zum Beispiel zu Deutschland und zu der Türkei.",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.03921187296509743
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Auch Ausländer und Ausländerinnen können in Deutschland soziale Leistungen bekommen.",
+      "Als Ausländerin oder Ausländer können Sie grundsätzlich soziale Leistungen erhalten."
+    ],
+    0.7169597148895264
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Welche Leistungen können Sie bekommen?",
+      "Danach entscheidet sich, wer für Sie zuständig ist und welche Leistungen Sie bekommen."
+    ],
+    0.907162070274353
+  ],
+  [
+    [
+      11,
+      3
+    ],
+    [
+      "Wie alt Sie sind.",
+      "Danach entscheidet sich, wer für Sie zuständig ist und welche Leistungen Sie bekommen."
+    ],
+    0.7140172123908997
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Wo Sie wohnen.",
+      "Danach entscheidet sich, wer für Sie zuständig ist und welche Leistungen Sie bekommen."
+    ],
+    0.7179515957832336
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Wichtig: Wenn Ihr Wohn-Ort ausländer-rechtlich-beschränkt ist:",
+      "Danach entscheidet sich, wer für Sie zuständig ist und welche Leistungen Sie bekommen."
+    ],
+    0.005480940919369459
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Dann können Sie soziale Leistungen nur an Ihrem Wohn-Ort bekommen.",
+      "Danach entscheidet sich, wer für Sie zuständig ist und welche Leistungen Sie bekommen."
+    ],
+    0.8347336649894714
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Ausländer-rechtlich-beschränkt heißt: Sie dürfen nur dort soziale Leistungen beantragen, wo Sie auch wohnen.",
+      "Danach entscheidet sich, wer für Sie zuständig ist und welche Leistungen Sie bekommen."
+    ],
+    0.855853796005249
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Sie haben das Recht: für eine bestimmte Zeit in Deutschland zu leben.",
+      "Damit Sie in Köln die richtigen Ansprechpartnerinnen oder Ansprechpartner finden, beachten Sie bitte die folgenden Erklärungen."
+    ],
+    0.6793595552444458
+  ],
+  [
+    [
+      18,
+      5
+    ],
+    [
+      "Zum Beispiel: Wenn Ihr Heimat-Land Sie schlecht behandelt.",
+      "Damit Sie in Köln die richtigen Ansprechpartnerinnen oder Ansprechpartner finden, beachten Sie bitte die folgenden Erklärungen."
+    ],
+    0.7866750359535217
+  ],
+  [
+    [
+      19,
+      5
+    ],
+    [
+      "Sie müssen einen Antrag bei einem Amt stellen, um Asyl zu bekommen.",
+      "Damit Sie in Köln die richtigen Ansprechpartnerinnen oder Ansprechpartner finden, beachten Sie bitte die folgenden Erklärungen."
+    ],
+    0.5091345310211182
+  ],
+  [
+    [
+      20,
+      5
+    ],
+    [
+      "Sie sind in der Zeit ein Asyl-Bewerber .",
+      "Damit Sie in Köln die richtigen Ansprechpartnerinnen oder Ansprechpartner finden, beachten Sie bitte die folgenden Erklärungen."
+    ],
+    0.7380846738815308
+  ],
+  [
+    [
+      22,
+      5
+    ],
+    [
+      "Dann dürfen Sie in Deutschland für eine bestimmte Zeit bleiben.",
+      "Damit Sie in Köln die richtigen Ansprechpartnerinnen oder Ansprechpartner finden, beachten Sie bitte die folgenden Erklärungen."
+    ],
+    0.7215694189071655
+  ],
+  [
+    [
+      23,
+      5
+    ],
+    [
+      "Sie sind dann ein Asyl-Berechtigter .",
+      "Damit Sie in Köln die richtigen Ansprechpartnerinnen oder Ansprechpartner finden, beachten Sie bitte die folgenden Erklärungen."
+    ],
+    0.8145344257354736
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Das Asyl-Bewerber-Leistungs-Gesetz regelt: Welche und wie viele Leistungen jemand vom Staat bekommt.",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.7516559958457947
+  ],
+  [
+    [
+      26,
+      7
+    ],
+    [
+      "Die Abkürzung für Asyl-Bewerber-Leistungs-Gesetz ist: AsylblG .",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.9310626983642578
+  ],
+  [
+    [
+      27,
+      7
+    ],
+    [
+      "Dieses Gesetz gilt in der Regel für:",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.21961039304733276
+  ],
+  [
+    [
+      28,
+      8
+    ],
+    [
+      "Ausländische Flüchtlinge",
+      "Ausländische Flüchtlinge Asylbewerberinnen und Asylbewerber Geduldete Ausländerinnen und Ausländer"
+    ],
+    0.5683658719062805
+  ],
+  [
+    [
+      29,
+      8
+    ],
+    [
+      "Asyl-Bewerber und Asyl-Bewerberinnen Geduldete Ausländer und Ausländerinnen Geduldete Ausländer und Ausländerinnen sind Menschen, die in Deutschland leben und keine Aufenthalts-Erlaubnis haben.",
+      "Ausländische Flüchtlinge Asylbewerberinnen und Asylbewerber Geduldete Ausländerinnen und Ausländer"
+    ],
+    0.7303459644317627
+  ],
+  [
+    [
+      30,
+      9
+    ],
+    [
+      "Zum Beispiel: Weil das Amt Nein gesagt hat zu Ihrem Antrag.",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.05622973293066025
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie einen Antrag stellen.",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.5935245156288147
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Wo kann ich den Antrag stellen?",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.0783914253115654
+  ],
+  [
+    [
+      34,
+      9
+    ],
+    [
+      "Den Antrag für diese Hilfen stellen Sie hier:",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.46628817915916443
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Bei der Stelle für Leistungen nach dem Asyl-Bewerber-Leistungs-Gesetz.",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.7732508182525635
+  ],
+  [
+    [
+      37,
+      10
+    ],
+    [
+      "Das ist die Telefon-Nummer : 02 21 / 22 19 85 50 Ausländische erwerbs-fähige Personen Erwerbs-fähig heißt:",
+      "Ausländische erwerbsfähige Personen"
+    ],
+    0.32737046480178833
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "Sie können arbeiten und für sich selbst sorgen.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7798153162002563
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Sie können beim Job-Center Köln Arbeitslosen-Geld 2 beantragen, wenn: Sie erwerbs-fähig sind.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7977211475372314
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Sie noch nicht 65 Jahre alt sind.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7888862490653992
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "das Asyl-Bewerber-Leistungs-Gesetz für Sie nicht zutrifft.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7227874398231506
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Sonstige Anspruchs-Berechtigte",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.1062152311205864
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Sie gehören nicht zu den genannten Gruppen?",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7272352576255798
+  ],
+  [
+    [
+      44,
+      11
+    ],
+    [
+      "Dann können Sie Sozial-Hilfe beantragen.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.6736968755722046
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Den Antrag für Sozial-Hilfe stellen Sie bei der zuständigen Außen-Stelle vom Amt für Soziales und Senioren .",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.46622610092163086
+  ],
+  [
+    [
+      46,
+      11
+    ],
+    [
+      "Die Adressen von diesen Stellen finden Sie unter den Links bei \"Weitere Infos\".",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.5681626200675964
+  ],
+  [
+    [
+      47,
+      11
+    ],
+    [
+      "Muss ich beim Amt vorsprechen?",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.0035283840261399746
+  ],
+  [
+    [
+      49,
+      14
+    ],
+    [
+      "Bitte machen Sie einen Termin für ein persönliches Gespräch aus.",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.8719644546508789
+  ],
+  [
+    [
+      50,
+      14
+    ],
+    [
+      "Rufen Sie vorher bei der zuständigen Dienst-Stelle an.",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.9371725916862488
+  ],
+  [
+    [
+      51,
+      14
+    ],
+    [
+      "Die Adressen von diesen Stellen finden Sie unter den Links bei \"Weitere Infos\".",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.6171750426292419
+  ],
+  [
+    [
+      52,
+      15
+    ],
+    [
+      "Muss ich Gebühren bezahlen?",
+      "Gebühren"
+    ],
+    0.33576974272727966
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Sozial-Gesetz-Buch, Zwölftes Buch ( SGB XII )",
+      "Rechtliche Voraussetzungen - Asylbewerberleistungsgesetz (AsylblG) - Sozialgesetzbuch, Zweites Buch (SGB II) - Sozialgesetzbuch, Zwölftes Buch (SGB XII)"
+    ],
+    0.7394461631774902
+  ]
+]

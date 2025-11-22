@@ -1,0 +1,530 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Manchmal hat eine Person einen Herzstillstand .",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6947250962257385
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das bedeutet: Das Herz schlägt nicht mehr.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6462051868438721
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Folgende Dinge können zum Beispiel einen Herzstillstand verursachen:",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.5395731925964355
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "ein schwerer Unfall ein Herzinfarkt Herzkrankheiten ein Schlaganfall",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6168593168258667
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das Herz schlägt nicht mehr?",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6616662740707397
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Dann pumpt das Herz nicht mehr genügend Blut ins Gehirn und in den Körper.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6153181791305542
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Und die betroffene Person hört auf zu atmen.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.7530916929244995
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Das ist lebensgefährlich.",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.561958372592926
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Das Herz schlägt mehrere Minuten nicht?",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.2693648636341095
+  ],
+  [
+    [
+      9,
+      4
+    ],
+    [
+      "Dann stirbt die betroffene Person.",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.698546826839447
+  ],
+  [
+    [
+      10,
+      12
+    ],
+    [
+      "Deshalb ist schnelle Erste Hilfe wichtig.",
+      "Sollten sich andere Personen in der Nähe befinden, holen Sie sich Hilfe und fordern Sie eine davon auf, den Rettungsdienst anzurufen."
+    ],
+    0.6296364665031433
+  ],
+  [
+    [
+      11,
+      12
+    ],
+    [
+      "Eine Person hat einen Herzstillstand?",
+      "Sollten sich andere Personen in der Nähe befinden, holen Sie sich Hilfe und fordern Sie eine davon auf, den Rettungsdienst anzurufen."
+    ],
+    0.4087051749229431
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "Dann versuchen Sie die Person wiederzubeleben.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7801671028137207
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Das Fachwort für die Wiederbelebung ist: Reanimation.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7508107423782349
+  ],
+  [
+    [
+      14,
+      13
+    ],
+    [
+      "Eine betroffene Person atmet nicht mehr?",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.26334279775619507
+  ],
+  [
+    [
+      15,
+      13
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.27223214507102966
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "Dann rufen Sie als erstes die Notrufnummer 112 .",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.3771112859249115
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Beginnen Sie dann sofort mit der Wiederbelebung.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.9207184314727783
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Für die Wiederbelebung sollte die betroffene Person auf einem harten Untergrund liegen.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.5634424090385437
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Und die Person muss auf dem Rücken liegen.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.37993741035461426
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Eine Wiederbelebung geht so: 1. Strecken Sie den Kopf der betroffenen Person nach oben.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.6741676926612854
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "2. Beginnen Sie dann sofort mit einer Herzdruckmassage.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.44522225856781006
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Drücken Sie dafür den Brustkorb der betroffenen Person mit verschränkten Händen 30 Mal kräftig nach unten.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.34330040216445923
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Drücken Sie ungefähr zwei Mal pro Sekunden.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.35745611786842346
+  ],
+  [
+    [
+      24,
+      13
+    ],
+    [
+      "4. Drücken Sie den Brustkorb der betroffenen Person wieder 30 Mal kräftig nach unten.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.3966597616672516
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "5. Geben Sie der betroffenen Person wieder zwei Atemspenden .",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.49404048919677734
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Wiederholen Sie diese Vorgänge.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.594292163848877
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Machen Sie mit der Wiederbelebung solange weiter, bis Hilfe kommt.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7208545207977295
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Diese Dinge sollten Sie bei der Wiederbelebung beachten:",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7312620878219604
+  ],
+  [
+    [
+      29,
+      13
+    ],
+    [
+      "Beginnen Sie sofort mit der Herzdruckmassage.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.416395902633667
+  ],
+  [
+    [
+      30,
+      13
+    ],
+    [
+      "Die Herzdruckmassage ist wichtiger als die Atemspenden.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.1957443356513977
+  ],
+  [
+    [
+      31,
+      13
+    ],
+    [
+      "Machen Sie bei der Herzdruckmassage möglichst keine Pausen .",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.24962225556373596
+  ],
+  [
+    [
+      32,
+      13
+    ],
+    [
+      "Wichtig: Drücken Sie den Brustkorb kräftig nach unten.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.3318433165550232
+  ],
+  [
+    [
+      33,
+      13
+    ],
+    [
+      "Haben Sie keine Angst.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.2907847762107849
+  ],
+  [
+    [
+      34,
+      13
+    ],
+    [
+      "Sie können nichts falschmachen.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.37194544076919556
+  ],
+  [
+    [
+      35,
+      13
+    ],
+    [
+      "An vielen Orten gibt es einen Defibrillator .",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.2796562910079956
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Sie erkennen einen Defibrillator an einem grünen Hinweisschild mit einem Herz-Symbol.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.2664419710636139
+  ],
+  [
+    [
+      37,
+      13
+    ],
+    [
+      "Der Defibrillator kann Ihnen bei der Wiederbelebung helfen.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.69645094871521
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Der Defibrillator gibt elektrische Impulse ab.",
+      "Den anderen Handballen legen Sie darüber."
+    ],
+    0.28338682651519775
+  ],
+  [
+    [
+      39,
+      15
+    ],
+    [
+      "Die elektrischen Impulse können das Herz der betroffenen Person wieder in den richtigen Rhythmus bringen.",
+      "Den anderen Handballen legen Sie darüber."
+    ],
+    0.14274868369102478
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Ist ein Defibrillator in der Nähe?",
+      "Den anderen Handballen legen Sie darüber."
+    ],
+    0.5406535267829895
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Dann soll eine andere Person den Defibrillator holen.",
+      "Den anderen Handballen legen Sie darüber."
+    ],
+    0.7077838778495789
+  ],
+  [
+    [
+      42,
+      20
+    ],
+    [
+      "Schalten Sie den Defibrillator an.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.49569791555404663
+  ],
+  [
+    [
+      43,
+      21
+    ],
+    [
+      "Der Defibrillator sagt Ihnen dann: Das sollen Sie als nächstes machen.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.6911227703094482
+  ],
+  [
+    [
+      44,
+      21
+    ],
+    [
+      "Sie möchten noch mehr über Wiederbelebung lesen?",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.45906078815460205
+  ],
+  [
+    [
+      45,
+      29
+    ],
+    [
+      "Mehr Informationen zur Wiederbelebung finden Sie hier .",
+      "Ihren Mund legen Sie nun um die Nase des Verletzten."
+    ],
+    0.35730689764022827
+  ],
+  [
+    [
+      46,
+      37
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Diese ist gleich der Ein-Helfer-Methode bezüglich des Ablaufs."
+    ],
+    0.4266250729560852
+  ],
+  [
+    [
+      47,
+      42
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Auch wichtig:"
+    ],
+    0.4778594970703125
+  ]
+]

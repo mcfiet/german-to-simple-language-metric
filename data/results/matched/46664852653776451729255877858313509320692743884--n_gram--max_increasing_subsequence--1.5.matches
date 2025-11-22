@@ -1,0 +1,354 @@
+[
+  [
+    [
+      0,
+      4
+    ],
+    [
+      "Die Blase ist ein wichtiges Organ im unteren Bauch.",
+      "Meistens geht der Tumor von der Blasenschleimhaut (Urothel) aus."
+    ],
+    0.7329061627388
+  ],
+  [
+    [
+      1,
+      4
+    ],
+    [
+      "In der Blase sammelt sich der Urin.",
+      "Meistens geht der Tumor von der Blasenschleimhaut (Urothel) aus."
+    ],
+    0.7796906232833862
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Ist viel Urin in der Blase?",
+      "Meistens geht der Tumor von der Blasenschleimhaut (Urothel) aus."
+    ],
+    0.7674587368965149
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Bei Blasenkrebs wächst ein Tumor in der Blase.",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.863032341003418
+  ],
+  [
+    [
+      21,
+      6
+    ],
+    [
+      "Von Blasenkrebs sind fast nur Menschen über 70 Jahren betroffen.",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.8938871026039124
+  ],
+  [
+    [
+      22,
+      6
+    ],
+    [
+      "Jüngere Menschen bekommen sehr selten Blasenkrebs.",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.9390622973442078
+  ],
+  [
+    [
+      25,
+      6
+    ],
+    [
+      "Das heißt: Die Anzeichen können Zeichen für Blasenkrebs sein.",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.8728649616241455
+  ],
+  [
+    [
+      34,
+      6
+    ],
+    [
+      "Sie haben Anzeichen für Blasenkrebs?",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.9237385392189026
+  ],
+  [
+    [
+      43,
+      6
+    ],
+    [
+      "Haben Sie einen Tumor in der Blase?",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.6097972989082336
+  ],
+  [
+    [
+      44,
+      6
+    ],
+    [
+      "Manchmal entnimmt der Arzt auch Gewebe aus der Blase.",
+      "In Deutschland erkranken jedes Jahr zirka 16.000 Menschen an Blasenkrebs."
+    ],
+    0.6187113523483276
+  ],
+  [
+    [
+      55,
+      15
+    ],
+    [
+      "Blasenkrebs ist eine seltene Krebserkrankung.",
+      "Bestimmte chemische Stoffe – die aromatischen Amine – gelten als krebserregend und werden mit der Entstehung von Blasenkrebs in Verbindung gebracht."
+    ],
+    0.9141225218772888
+  ],
+  [
+    [
+      56,
+      15
+    ],
+    [
+      "Blasenkrebs kann verschiedene Ursachen haben.",
+      "Bestimmte chemische Stoffe – die aromatischen Amine – gelten als krebserregend und werden mit der Entstehung von Blasenkrebs in Verbindung gebracht."
+    ],
+    0.8810468316078186
+  ],
+  [
+    [
+      58,
+      33
+    ],
+    [
+      "Rauchen kann Blasenkrebs auslösen.",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8817965388298035
+  ],
+  [
+    [
+      63,
+      33
+    ],
+    [
+      "Dann ist Ihr Risiko für Blasenkrebs erhöht.",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8715258836746216
+  ],
+  [
+    [
+      73,
+      33
+    ],
+    [
+      "Manche Medikamente können das Risiko von Blasenkrebs erhöhen.",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8874906897544861
+  ],
+  [
+    [
+      81,
+      33
+    ],
+    [
+      "Dann ist Ihr Risiko für Blasenkrebs vielleicht erhöht.",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8695844411849976
+  ],
+  [
+    [
+      83,
+      33
+    ],
+    [
+      "Dann ist das Risiko für Blasenkrebs vielleicht größer.",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8726829290390015
+  ],
+  [
+    [
+      86,
+      33
+    ],
+    [
+      "Haben andere Menschen in Ihrer Familie Blasenkrebs?",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8729492425918579
+  ],
+  [
+    [
+      87,
+      33
+    ],
+    [
+      "Dann kann auch Ihr Risiko für Blasenkrebs größer sein.",
+      "Bei Verdacht auf Blasenkrebs führt der Urologe zunächst eine körperliche Untersuchung durch und testet auf Blut im Urin."
+    ],
+    0.8579174876213074
+  ],
+  [
+    [
+      89,
+      35
+    ],
+    [
+      "Sie haben Blasenkrebs?",
+      "Zusätzliche Informationen erhält der Arzt, indem er Blase und Nieren mittels Ultraschall ( Sonografie ) untersucht."
+    ],
+    0.64426589012146
+  ],
+  [
+    [
+      92,
+      35
+    ],
+    [
+      "Manchmal spritzt der Arzt dabei auch ein Medikament in die Blase.",
+      "Zusätzliche Informationen erhält der Arzt, indem er Blase und Nieren mittels Ultraschall ( Sonografie ) untersucht."
+    ],
+    0.852536678314209
+  ],
+  [
+    [
+      95,
+      35
+    ],
+    [
+      "Dann muss der Arzt vielleicht die gesamte Blase entfernen.",
+      "Zusätzliche Informationen erhält der Arzt, indem er Blase und Nieren mittels Ultraschall ( Sonografie ) untersucht."
+    ],
+    0.8570238351821899
+  ],
+  [
+    [
+      96,
+      35
+    ],
+    [
+      "Der Arzt ersetzt die Blase dann durch eine künstliche Urin-Ableitung.",
+      "Zusätzliche Informationen erhält der Arzt, indem er Blase und Nieren mittels Ultraschall ( Sonografie ) untersucht."
+    ],
+    0.835858166217804
+  ],
+  [
+    [
+      97,
+      50
+    ],
+    [
+      "Der Tumor ist sehr groß?",
+      "Der Tumor wandert in das unter der Schleimhaut gelegene Bindegewebe (Lamina propria) ein"
+    ],
+    0.6595499515533447
+  ],
+  [
+    [
+      100,
+      50
+    ],
+    [
+      "Deshalb schrumpft der Tumor.",
+      "Der Tumor wandert in das unter der Schleimhaut gelegene Bindegewebe (Lamina propria) ein"
+    ],
+    0.663067638874054
+  ],
+  [
+    [
+      101,
+      50
+    ],
+    [
+      "Nach der Strahlentherapie entfernt der Arzt kleine Reste von dem Tumor in einer Operation.",
+      "Der Tumor wandert in das unter der Schleimhaut gelegene Bindegewebe (Lamina propria) ein"
+    ],
+    0.5698525309562683
+  ],
+  [
+    [
+      105,
+      50
+    ],
+    [
+      "Bei der Nachsorge kann der Arzt einen neuen Tumor rechtzeitig erkennen und behandeln.",
+      "Der Tumor wandert in das unter der Schleimhaut gelegene Bindegewebe (Lamina propria) ein"
+    ],
+    0.5587872862815857
+  ],
+  [
+    [
+      106,
+      56
+    ],
+    [
+      "Sie möchten Ihr Risiko für Blasenkrebs verringern?",
+      "Ein Harnblasenkrebs im Frühstadium"
+    ],
+    0.6163744926452637
+  ],
+  [
+    [
+      110,
+      78
+    ],
+    [
+      "Rauchen ist eine häufige Ursache für Krebs.",
+      "Mehr Infos finden Sie unter www.krebsinformationsdienst.de"
+    ],
+    0.8491926789283752
+  ],
+  [
+    [
+      129,
+      78
+    ],
+    [
+      "Der Krebs kann nämlich wiederkommen.",
+      "Mehr Infos finden Sie unter www.krebsinformationsdienst.de"
+    ],
+    0.7279508113861084
+  ],
+  [
+    [
+      134,
+      78
+    ],
+    [
+      "Sie wollen noch mehr über Blasenkrebs lesen?",
+      "Mehr Infos finden Sie unter www.krebsinformationsdienst.de"
+    ],
+    0.41733914613723755
+  ],
+  [
+    [
+      135,
+      78
+    ],
+    [
+      "Mehr Informationen über Blasenkrebs finden Sie hier .",
+      "Mehr Infos finden Sie unter www.krebsinformationsdienst.de"
+    ],
+    0.43200039863586426
+  ]
+]

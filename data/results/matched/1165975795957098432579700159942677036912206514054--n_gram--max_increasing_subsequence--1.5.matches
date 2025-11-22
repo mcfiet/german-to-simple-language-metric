@@ -1,0 +1,684 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben die Frau oder den Mann fÃ¼rs Leben gefunden?",
+      "Sie wollen heiraten?"
+    ],
+    0.2903420627117157
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und Sie wollen jetzt heiraten?",
+      "Sie wollen heiraten?"
+    ],
+    0.8267172574996948
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Dann mÃ¼ssen Sie dies beim Standes-Amt anmelden .",
+      "Die Anmeldung können Sie frühestens sechs Monate vor der Hochzeit vornehmen."
+    ],
+    0.3149597942829132
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Wann kann ich eine Ehe anmelden?",
+      "Die Anmeldung können Sie frühestens sechs Monate vor der Hochzeit vornehmen."
+    ],
+    0.3394355773925781
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "Sie kÃ¶nnen Ihren Wunsch-Termin schon vor dem Anmelden vormerken .",
+      "Damit Sie Ihre Trauung frühzeitig planen können, bieten wir Ihnen die Möglichkeit, Ihren Wunschtermin schon vor der Anmeldung vorzumerken."
+    ],
+    0.3086411952972412
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Damit Sie Ihre Trauung gut planen kÃ¶nnen.",
+      "Damit Sie Ihre Trauung frühzeitig planen können, bieten wir Ihnen die Möglichkeit, Ihren Wunschtermin schon vor der Anmeldung vorzumerken."
+    ],
+    0.3524743318557739
+  ],
+  [
+    [
+      13,
+      35
+    ],
+    [
+      "Trau-Termin heiÃt: der Termin, an dem Sie heiraten wollen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.3802042603492737
+  ],
+  [
+    [
+      15,
+      35
+    ],
+    [
+      "Das hÃ¤ngt davon ab, in welcher Lage Sie sind.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6861876845359802
+  ],
+  [
+    [
+      16,
+      35
+    ],
+    [
+      "Hier finden Sie nacheinander beschrieben, was Sie in den mÃ¶glichen Lagen brauchen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6429899334907532
+  ],
+  [
+    [
+      17,
+      35
+    ],
+    [
+      "Â 1. Das brauchen Sie in jedem Fall:",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.5959452986717224
+  ],
+  [
+    [
+      19,
+      35
+    ],
+    [
+      "Und Sie wohnen beide in KÃ¶ln?",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.4611504077911377
+  ],
+  [
+    [
+      21,
+      35
+    ],
+    [
+      "Dann mÃ¼ssen Sie zum Anmelden im Standes-Amt Folgendes mitbringen:",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.2683831453323364
+  ],
+  [
+    [
+      28,
+      35
+    ],
+    [
+      "Â Diese beglaubigte Kopie mÃ¼ssen Sie abgeben.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.2930391728878021
+  ],
+  [
+    [
+      35,
+      35
+    ],
+    [
+      "Wenn Sie zusammen Kinder haben, brauchen Sie auch: eine neue Geburts-Urkunde , auf der Sie beide als Eltern stehen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6729336380958557
+  ],
+  [
+    [
+      41,
+      35
+    ],
+    [
+      "Â Wenn Sie Urkunden aus dem Ausland vorzeigen mÃ¼ssen, beachten Sie bitte: AuslÃ¤ndische Urkunden in anderen Sprachen mÃ¼ssen ins Deutsche Ã¼bersetzt werden.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.27300235629081726
+  ],
+  [
+    [
+      48,
+      35
+    ],
+    [
+      "Auch wenn Sie die Sprache gut beherrschen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.5963032841682434
+  ],
+  [
+    [
+      54,
+      35
+    ],
+    [
+      "Das heiÃt: Der Staat hat sie geprÃ¼ft.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.5391536951065063
+  ],
+  [
+    [
+      69,
+      35
+    ],
+    [
+      "Dann brauchen Sie eine erweiterte Melde-Bescheinigung.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.48583418130874634
+  ],
+  [
+    [
+      71,
+      35
+    ],
+    [
+      "In welchem Ort Sie gemeldet sind.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.5731363892555237
+  ],
+  [
+    [
+      72,
+      35
+    ],
+    [
+      "Also: In welchem Ort Sie wohnen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6804245114326477
+  ],
+  [
+    [
+      73,
+      35
+    ],
+    [
+      "Diese Bescheinigung bekommen Sie beim Einwohner-Melde-Amt von dem Ort, in dem Sie wohnen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6301631927490234
+  ],
+  [
+    [
+      74,
+      35
+    ],
+    [
+      "Wichtig: Wenn Sie beide nicht in KÃ¶ln wohnen , mÃ¼ssen Sie die Ehe auch beim Standes-Amt in Ihrem Heimat-Ort anmelden.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.40706905722618103
+  ],
+  [
+    [
+      76,
+      35
+    ],
+    [
+      "Und Sie mÃ¼ssen die Papiere beim Standes-Amt in KÃ¶ln zeigen.",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.2642461657524109
+  ],
+  [
+    [
+      79,
+      43
+    ],
+    [
+      "Oder das Standes-Amt in Ihrem Heimat-Ort schickt uns die Papiere direkt zu.",
+      "Sie erhalten die Abschrift bei dem Standesamt, das Ihre Geburt beurkundet hat."
+    ],
+    0.4142114520072937
+  ],
+  [
+    [
+      81,
+      45
+    ],
+    [
+      "Achtung: Bitte warten Sie auf eine Nachricht von uns.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.7037599682807922
+  ],
+  [
+    [
+      82,
+      45
+    ],
+    [
+      "Bitte schicken Sie uns keine Nachricht.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.663705587387085
+  ],
+  [
+    [
+      89,
+      45
+    ],
+    [
+      "Darauf muss stehen: dass Sie diese letzte Ehe oder Lebens-Partnerschaft aufgelÃ¶st haben.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.29564785957336426
+  ],
+  [
+    [
+      90,
+      45
+    ],
+    [
+      "Â Wenn Sie die letzte Ehe oder Lebens-Partnerschaft erst vor kurzem aufgelÃ¶st haben, steht die AuflÃ¶sung vielleicht noch nicht darin.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4478727877140045
+  ],
+  [
+    [
+      91,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie uns auch das Urteil der Scheidung zeigen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3135051131248474
+  ],
+  [
+    [
+      97,
+      45
+    ],
+    [
+      "Wenn Sie zu einem bestimmten Datum heiraten wollen, dann kÃ¶nnen Sie den Termin vormerken.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.48897784948349
+  ],
+  [
+    [
+      102,
+      45
+    ],
+    [
+      "Sie kÃ¶nnen sich nicht mehr vormerken lassen, wenn Sie in den nÃ¤chsten 40 Tagen heiraten wollen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4455745220184326
+  ],
+  [
+    [
+      111,
+      45
+    ],
+    [
+      "Wir trauen Sie auÃerhalb der Ãffnungs-Zeiten .",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4564327299594879
+  ],
+  [
+    [
+      112,
+      45
+    ],
+    [
+      "Sie mÃ¼ssen sich nicht an die Ãffnungs-Zeiten halten.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.28360435366630554
+  ],
+  [
+    [
+      120,
+      45
+    ],
+    [
+      "Zum Beispiel: Weil Sie noch nicht alt genug sind.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.44644153118133545
+  ],
+  [
+    [
+      121,
+      45
+    ],
+    [
+      "Oder weil Sie nicht in Deutschland gemeldet sind.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.36259394884109497
+  ],
+  [
+    [
+      124,
+      45
+    ],
+    [
+      "Und Sie brauchen eine Bescheinigung vom Arzt oder der Ãrztin.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.37936681509017944
+  ],
+  [
+    [
+      134,
+      45
+    ],
+    [
+      "Das heiÃt: Die Person weiÃ, was Sie tut.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.36035656929016113
+  ],
+  [
+    [
+      136,
+      45
+    ],
+    [
+      "Bei Fragen rufen Sie uns bitte an.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.697303831577301
+  ],
+  [
+    [
+      141,
+      45
+    ],
+    [
+      "Dazu brauchen Sie eine Vollmacht.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.6462715864181519
+  ],
+  [
+    [
+      149,
+      45
+    ],
+    [
+      "Dann fragen Sie jemanden danach.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.6220742464065552
+  ],
+  [
+    [
+      150,
+      45
+    ],
+    [
+      "Â Drucken Sie das Formular dann aus.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.6243506073951721
+  ],
+  [
+    [
+      151,
+      45
+    ],
+    [
+      "Dann unterschreiben Sie das Formular.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.6385670900344849
+  ],
+  [
+    [
+      158,
+      45
+    ],
+    [
+      "Dass Sie zu einem bestimmten Staat gehÃ¶ren.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.6103090047836304
+  ],
+  [
+    [
+      164,
+      45
+    ],
+    [
+      "DafÃ¼r mÃ¼ssen Sie noch einmal etwa 40 bis 60 Euro bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.30583295226097107
+  ],
+  [
+    [
+      168,
+      45
+    ],
+    [
+      "Diese Kosten richten sich nach dem Ort :",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4743892550468445
+  ],
+  [
+    [
+      172,
+      45
+    ],
+    [
+      "Die Kosten richten sich auch nach der Uhr-Zeit :",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4639614224433899
+  ],
+  [
+    [
+      175,
+      45
+    ],
+    [
+      "Ein Beispiel fÃ¼r die verschiedenen Kosten: Wenn Sie innerhalb der Ãffnungs-Zeiten heiraten:",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3705027401447296
+  ],
+  [
+    [
+      176,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Rathaus-Spanischer Bau nichts dazu bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3040529191493988
+  ],
+  [
+    [
+      177,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Historischen Rathaus 34 Euro bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.30402079224586487
+  ],
+  [
+    [
+      179,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Rathaus-Spanischer Bau 66 Euro dazu bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3026517331600189
+  ],
+  [
+    [
+      180,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Historischen Rathaus 113 Euro dazu bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3032427132129669
+  ],
+  [
+    [
+      181,
+      45
+    ],
+    [
+      "Â Wenn Sie nicht im Rathaus heiraten wollen:",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4054953455924988
+  ],
+  [
+    [
+      182,
+      45
+    ],
+    [
+      "Dann kÃ¶nnen Sie auch auÃerhalb vom Rathaus heiraten.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3065912127494812
+  ],
+  [
+    [
+      184,
+      45
+    ],
+    [
+      "Wenn Sie dort innerhalb der Ãffnungs-Zeiten heiraten:",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4022339880466461
+  ],
+  [
+    [
+      185,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie 292 Euro bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.3142053186893463
+  ],
+  [
+    [
+      186,
+      45
+    ],
+    [
+      "Wenn Sie dort auÃerhalb der Ãffnungs-Zeiten heiraten:",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.36463531851768494
+  ],
+  [
+    [
+      187,
+      45
+    ],
+    [
+      "Dann mÃ¼ssen Sie noch einmal 66 Euro zusÃ¤tzlich bezahlen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.32125839591026306
+  ],
+  [
+    [
+      193,
+      45
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank fÃ¼r Ihr Konto bekommen.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.4521239697933197
+  ],
+  [
+    [
+      196,
+      45
+    ],
+    [
+      "Dazu geben Sie Ihre Geheim-Nummer in ein GerÃ¤t ein.",
+      "Sollten Sie im Ausland geboren sein, beachten Sie bitte die besonderen Hinweise unter \"Einige spezielle Anforderungen\"."
+    ],
+    0.6400905251502991
+  ],
+  [
+    [
+      199,
+      67
+    ],
+    [
+      "In welchem Gesetz stehen die Regeln zur Ehe?",
+      "Sollte die Auflösung Ihrer Ehe oder Lebenspartnerschaft im Ausland erfolgt sein, wird dringend eine Beratung beim Standesamt empfohlen, da die Auflösung unter Umständen für den deutschen Rechtsbereich anerkannt werden muss."
+    ],
+    0.3251264691352844
+  ],
+  [
+    [
+      200,
+      124
+    ],
+    [
+      "Die Regeln zur Ehe stehen im Personen-Stands-Gesetz.",
+      "Personenstandsgesetz (PStG), Verordnung zur Ausführung des Personenstandsgesetzes (PStVO)"
+    ],
+    0.4235770106315613
+  ],
+  [
+    [
+      202,
+      124
+    ],
+    [
+      "Und in der Verordnung zur AusfÃ¼hrung des Personen-Stands-Gesetzes .",
+      "Personenstandsgesetz (PStG), Verordnung zur Ausführung des Personenstandsgesetzes (PStVO)"
+    ],
+    0.6923624277114868
+  ]
+]

@@ -1,0 +1,420 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie suchen eine Person?",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.9231207966804504
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zum Beispiel: Sie wollen mit jemandem aus Ihrer Familie Kontakt aufnehmen .",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.6577196717262268
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Oder Sie planen ein Klassen-Treffen mit Ihren Schul-Freunden von früher.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.626724362373352
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Sie haben einen rechtlichen Grund dazu.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.6559251546859741
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Zum Beispiel: Die Person schuldet Ihnen Geld.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.6670564413070679
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Dann können Sie bei uns erfahren, welche Adresse die Person zuletzt in Köln hatte.",
+      "Dann können Sie beantragen, die letzte in Köln gespeicherte Anschrift zu erfahren."
+    ],
+    0.7548152804374695
+  ],
+  [
+    [
+      13,
+      22
+    ],
+    [
+      "1. Einfache Melde-Auskunft",
+      "Einfache Meldeauskunft Kann mit den von Ihnen mitgeteilten Daten eine Person eindeutig festgestellt werden, dann erhalten Sie die Auskunft über folgende Daten: Vornamen und Familiennamen Doktorgrad und letzte bekannte Anschrift"
+    ],
+    0.7505190968513489
+  ],
+  [
+    [
+      14,
+      22
+    ],
+    [
+      "Wenn wir die Person eindeutig feststellen können, bekommen Sie diese Infos:",
+      "Einfache Meldeauskunft Kann mit den von Ihnen mitgeteilten Daten eine Person eindeutig festgestellt werden, dann erhalten Sie die Auskunft über folgende Daten: Vornamen und Familiennamen Doktorgrad und letzte bekannte Anschrift"
+    ],
+    0.7266479730606079
+  ],
+  [
+    [
+      15,
+      22
+    ],
+    [
+      "Vorname und Nachname Doktor-Titel, wenn die Person einen hat letzte bekannte Adresse .",
+      "Einfache Meldeauskunft Kann mit den von Ihnen mitgeteilten Daten eine Person eindeutig festgestellt werden, dann erhalten Sie die Auskunft über folgende Daten: Vornamen und Familiennamen Doktorgrad und letzte bekannte Anschrift"
+    ],
+    0.8050874471664429
+  ],
+  [
+    [
+      19,
+      22
+    ],
+    [
+      "Sie können online nach der Person suchen.",
+      "Einfache Meldeauskunft Kann mit den von Ihnen mitgeteilten Daten eine Person eindeutig festgestellt werden, dann erhalten Sie die Auskunft über folgende Daten: Vornamen und Familiennamen Doktorgrad und letzte bekannte Anschrift"
+    ],
+    0.6162835955619812
+  ],
+  [
+    [
+      20,
+      22
+    ],
+    [
+      "Dann bekommen Sie sofort eine einfache Melde-Auskunft.",
+      "Einfache Meldeauskunft Kann mit den von Ihnen mitgeteilten Daten eine Person eindeutig festgestellt werden, dann erhalten Sie die Auskunft über folgende Daten: Vornamen und Familiennamen Doktorgrad und letzte bekannte Anschrift"
+    ],
+    0.7932078242301941
+  ],
+  [
+    [
+      21,
+      25
+    ],
+    [
+      "2. Erweiterte Melde-Auskunft",
+      "Erweiterte Meldeauskunft"
+    ],
+    1.0
+  ],
+  [
+    [
+      22,
+      25
+    ],
+    [
+      "Erweiterte Melde-Auskunft bedeutet, dass wir Ihnen noch mehr Infos zu der Person geben.",
+      "Erweiterte Meldeauskunft"
+    ],
+    1.0
+  ],
+  [
+    [
+      23,
+      25
+    ],
+    [
+      "Sie können nur dann eine erweiterte Melde-Auskunft bekommen, wenn Sie einen wichtigen Grund dafür haben.",
+      "Erweiterte Meldeauskunft"
+    ],
+    0.938207745552063
+  ],
+  [
+    [
+      25,
+      25
+    ],
+    [
+      "Wenn wir Ihnen eine erweiterte Melde-Auskunft geben, schreiben wir der Person, die Sie suchen:",
+      "Erweiterte Meldeauskunft"
+    ],
+    0.938207745552063
+  ],
+  [
+    [
+      26,
+      26
+    ],
+    [
+      "über die Melde-Auskunft.",
+      "Soweit es sich nicht nur beispielsweise um ein Klassentreffen handelt, sondern Sie ein berechtigtes Interesse nachweisen können, dürfen Ihnen über die Daten einer einfachen Meldeauskunft hinaus weitere melderechtliche Daten zu der gesuchten Person mitgeteilt werden."
+    ],
+    1.0
+  ],
+  [
+    [
+      29,
+      26
+    ],
+    [
+      "Zum Beispiel: Wenn die Person Ihnen Geld schuldet.",
+      "Soweit es sich nicht nur beispielsweise um ein Klassentreffen handelt, sondern Sie ein berechtigtes Interesse nachweisen können, dürfen Ihnen über die Daten einer einfachen Meldeauskunft hinaus weitere melderechtliche Daten zu der gesuchten Person mitgeteilt werden."
+    ],
+    0.6412366032600403
+  ],
+  [
+    [
+      31,
+      26
+    ],
+    [
+      "Als Beweis können Sie uns eine Rechnung zeigen, die Sie der Person geschrieben haben.",
+      "Soweit es sich nicht nur beispielsweise um ein Klassentreffen handelt, sondern Sie ein berechtigtes Interesse nachweisen können, dürfen Ihnen über die Daten einer einfachen Meldeauskunft hinaus weitere melderechtliche Daten zu der gesuchten Person mitgeteilt werden."
+    ],
+    0.6881817579269409
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "In so einem Fall informieren wir die Person nicht über die Melde-Auskunft.",
+      "Soweit es sich nicht nur beispielsweise um ein Klassentreffen handelt, sondern Sie ein berechtigtes Interesse nachweisen können, dürfen Ihnen über die Daten einer einfachen Meldeauskunft hinaus weitere melderechtliche Daten zu der gesuchten Person mitgeteilt werden."
+    ],
+    0.6867519617080688
+  ],
+  [
+    [
+      34,
+      29
+    ],
+    [
+      "Sie suchen eine Person, die seit langem nicht mehr in Köln wohnt?",
+      "Archivauskunft Wollen Sie eine Auskunft über eine Person erhalten, die vor längerer Zeit in Köln wohnhaft war und danach verzogen ist?"
+    ],
+    0.7348800897598267
+  ],
+  [
+    [
+      40,
+      29
+    ],
+    [
+      "Oder nachdem die Person gestorben ist.",
+      "Archivauskunft Wollen Sie eine Auskunft über eine Person erhalten, die vor längerer Zeit in Köln wohnhaft war und danach verzogen ist?"
+    ],
+    0.7636749148368835
+  ],
+  [
+    [
+      42,
+      31
+    ],
+    [
+      "Es gibt 3",
+      "Da für eine Archivauskunft eine zeitaufwendige Suche in alten Unterlagen notwendig ist, beträgt die Bearbeitungsdauer bis zu 6 Wochen, und es fallen höhere Gebühren an."
+    ],
+    0.6666967868804932
+  ],
+  [
+    [
+      48,
+      36
+    ],
+    [
+      "Dann bekommen Sie die Infos sofort.",
+      "Nach Angabe der erforderlichen Daten zur Person, Eingabe Ihrer Bankverbindung und erfolgreicher Prüfung Ihrer Daten erhalten Sie sofort die Melderegisterauskunft."
+    ],
+    0.7088993787765503
+  ],
+  [
+    [
+      62,
+      37
+    ],
+    [
+      "Andere Zahlungs-Weisen sind online leider nicht möglich.",
+      "Eine Einfache Melderegisterauskunft auf Rechnung oder andere Zahlungsweisen sind online leider nicht möglich."
+    ],
+    0.9738731980323792
+  ],
+  [
+    [
+      65,
+      40
+    ],
+    [
+      "Oder einem anderen Kunden-Zentrum in Köln.",
+      "Sie können für Ihre Anfrage ohne Termin in einem Kundenzentrum vorsprechen oder Ihre Anfrage schriftlich an die Abteilung Einwohnerwesen richten."
+    ],
+    0.7025030255317688
+  ],
+  [
+    [
+      67,
+      40
+    ],
+    [
+      "Sie können ohne Termin zu uns kommen.",
+      "Sie können für Ihre Anfrage ohne Termin in einem Kundenzentrum vorsprechen oder Ihre Anfrage schriftlich an die Abteilung Einwohnerwesen richten."
+    ],
+    0.7403666377067566
+  ],
+  [
+    [
+      70,
+      40
+    ],
+    [
+      "Sie können auch einen Brief schreiben an die Abteilung Einwohner-Wesen .",
+      "Sie können für Ihre Anfrage ohne Termin in einem Kundenzentrum vorsprechen oder Ihre Anfrage schriftlich an die Abteilung Einwohnerwesen richten."
+    ],
+    0.8083589673042297
+  ],
+  [
+    [
+      71,
+      43
+    ],
+    [
+      "Schicken Sie den Brief an die Adresse:",
+      "Wenn Sie eine Archivauskunft zu Meldedaten aus der Zeit vor 1986 benötigen, können Sie sich mit einer schriftlichen Anfrage auch direkt an das Historische Archiv wenden."
+    ],
+    0.6129819750785828
+  ],
+  [
+    [
+      76,
+      43
+    ],
+    [
+      "Sie suchen.",
+      "Wenn Sie eine Archivauskunft zu Meldedaten aus der Zeit vor 1986 benötigen, können Sie sich mit einer schriftlichen Anfrage auch direkt an das Historische Archiv wenden."
+    ],
+    0.7920345664024353
+  ],
+  [
+    [
+      77,
+      43
+    ],
+    [
+      "die Infos zu dieser Person, die Sie kennen.",
+      "Wenn Sie eine Archivauskunft zu Meldedaten aus der Zeit vor 1986 benötigen, können Sie sich mit einer schriftlichen Anfrage auch direkt an das Historische Archiv wenden."
+    ],
+    0.6239110231399536
+  ],
+  [
+    [
+      99,
+      47
+    ],
+    [
+      "Was kostet eine Melde-Auskunft?",
+      "Gebühren bei Vorsprache in einem Kundenzentrum oder bei schriftlicher Anfrage: 11 Euro für eine einfache Meldeauskunft 15 Euro für eine erweiterte Meldeauskunft 19,50 Euro für eine Archivauskunft mit einfacher Recherche 24,50 Euro für eine Archivauskunft mit komplexer Recherche"
+    ],
+    0.6530269384384155
+  ],
+  [
+    [
+      102,
+      47
+    ],
+    [
+      "19 Euro 50 Cent für eine Archiv-Auskunft mit einfacher Suche.",
+      "Gebühren bei Vorsprache in einem Kundenzentrum oder bei schriftlicher Anfrage: 11 Euro für eine einfache Meldeauskunft 15 Euro für eine erweiterte Meldeauskunft 19,50 Euro für eine Archivauskunft mit einfacher Recherche 24,50 Euro für eine Archivauskunft mit komplexer Recherche"
+    ],
+    0.8647716045379639
+  ],
+  [
+    [
+      103,
+      47
+    ],
+    [
+      "24 Euro 50 Cent für eine Archiv-Auskunft mit umfassender Suche .",
+      "Gebühren bei Vorsprache in einem Kundenzentrum oder bei schriftlicher Anfrage: 11 Euro für eine einfache Meldeauskunft 15 Euro für eine erweiterte Meldeauskunft 19,50 Euro für eine Archivauskunft mit einfacher Recherche 24,50 Euro für eine Archivauskunft mit komplexer Recherche"
+    ],
+    0.8166835308074951
+  ],
+  [
+    [
+      105,
+      49
+    ],
+    [
+      "Wichtig: Sie müssen auch bezahlen , wenn wir Ihren Antrag auf Melde-Auskunft ablehnen .",
+      "Sofern Sie eine schriftliche Anfrage wegen einer einfachen oder erweiterten Meldeauskunft an die Abteilung Einwohnerwesen senden möchten, müssen Sie die Gebühr vorab überweisen und Ihrer Anfrage eine Kopie des Kontoauszugs beifügen."
+    ],
+    0.6327307224273682
+  ],
+  [
+    [
+      120,
+      50
+    ],
+    [
+      "Auf unser Konto bei der Sparkasse Köln-Bonn .",
+      "Bitte überweisen Sie die Gebühr auf folgendes Konto bei der Sparkasse KölnBonn:"
+    ],
+    0.7207832932472229
+  ],
+  [
+    [
+      122,
+      51
+    ],
+    [
+      "IBAN :",
+      "IBAN:"
+    ],
+    1.0
+  ],
+  [
+    [
+      123,
+      52
+    ],
+    [
+      "DE89 3705 0198 0093 1329 75 BIC : COLSDE33XXX Verwendungs-Zweck : Buchungsstelle 9709.000.1230.7",
+      "DE89 3705 0198 0093 1329 75 BIC: COLSDE33XXX Verwendungszweck: Buchungsstelle 9709.000.1230.7"
+    ],
+    1.0
+  ],
+  [
+    [
+      131,
+      53
+    ],
+    [
+      "Die Regeln stehen in Paragraf 44 und 45 .",
+      "Rechtliche Voraussetzungen §§ 44 und 45 Bundesmeldegesetz (BMG)"
+    ],
+    0.6503427624702454
+  ]
+]

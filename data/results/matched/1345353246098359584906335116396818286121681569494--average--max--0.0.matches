@@ -1,0 +1,585 @@
+[
+  [
+    [
+      0,
+      8
+    ],
+    [
+      "Wenn Sie einen Schwer-Behinderten-Ausweis haben:",
+      "Gebühren"
+    ],
+    0.2271115630865097
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann können Sie kostenlos mit Bus und Bahn fahren.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.16353869438171387
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dafür brauchen Sie ein Beiblatt mit Wert-Marke .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.1710653156042099
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Ein Beiblatt ist ein zusätzliches Papier.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.11439589411020279
+  ],
+  [
+    [
+      4,
+      8
+    ],
+    [
+      "Mit welchen Bussen und Bahnen darf ich kostenlos fahren?",
+      "Gebühren"
+    ],
+    0.18516412377357483
+  ],
+  [
+    [
+      5,
+      8
+    ],
+    [
+      "Diese Busse und Bahnen dürfen Sie mit dem Beiblatt kostenlos nutzen:",
+      "Gebühren"
+    ],
+    0.19732390344142914
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Busse Straßen-Bahnen U-Bahnen S-Bahnen",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.168773353099823
+  ],
+  [
+    [
+      7,
+      8
+    ],
+    [
+      "Wichtig: Sie können in anderen Zügen nur kostenlos fahren:",
+      "Gebühren"
+    ],
+    0.23293432593345642
+  ],
+  [
+    [
+      8,
+      8
+    ],
+    [
+      "Wenn dort der Fahr-Schein vom Verkehrs-Verbund gilt.",
+      "Gebühren"
+    ],
+    0.19786067306995392
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Wie viel kostet das Beiblatt mit Wert-Marke?",
+      "Gebühren"
+    ],
+    0.12110869586467743
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "Sie bekommen das Beiblatt manchmal kostenlos .",
+      "Gebühren"
+    ],
+    0.181477889418602
+  ],
+  [
+    [
+      11,
+      8
+    ],
+    [
+      "Manchmal müssen Sie dafür aber auch etwas bezahlen .",
+      "Gebühren"
+    ],
+    0.2642875015735626
+  ],
+  [
+    [
+      12,
+      7
+    ],
+    [
+      "Das Beiblatt ist kostenlos:",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.09914124011993408
+  ],
+  [
+    [
+      13,
+      8
+    ],
+    [
+      "Wenn Sie einen Schwer-behinderten-Ausweis haben:",
+      "Gebühren"
+    ],
+    0.13210542500019073
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Mit dem Merk-Zeichen H .",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.12787652015686035
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "H bedeutet: Sie sind eine hilflose Person .",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.174173504114151
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Mit dem Merk-Zeichen BL .",
+      "Das Beiblatt zu Ihrem Ausweis erhalten Sie kostenlos als Hilflose Person mit dem Merkzeichen \"H\" oder Blinder mit dem Merkzeichen \"BL\""
+    ],
+    0.1261807531118393
+  ],
+  [
+    [
+      17,
+      8
+    ],
+    [
+      "BL bedeutet:",
+      "Gebühren"
+    ],
+    0.12359850853681564
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Sie sind blind .",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.10431273281574249
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Sie bekommen das Beiblatt auch kostenlos:",
+      "Gebühren"
+    ],
+    0.21141423285007477
+  ],
+  [
+    [
+      20,
+      8
+    ],
+    [
+      "Wenn Sie arbeits-los sind.",
+      "Gebühren"
+    ],
+    0.12247361242771149
+  ],
+  [
+    [
+      21,
+      8
+    ],
+    [
+      "Und Sie Arbeitslosen-Geld 2 bekommen.",
+      "Gebühren"
+    ],
+    0.1746484786272049
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "Ansonsten müssen Sie das Beiblatt bezahlen .",
+      "Gebühren"
+    ],
+    0.27868589758872986
+  ],
+  [
+    [
+      23,
+      8
+    ],
+    [
+      "Das Beiblatt kostet 80 Euro:",
+      "Gebühren"
+    ],
+    0.1384211927652359
+  ],
+  [
+    [
+      24,
+      8
+    ],
+    [
+      "Wenn in Ihrem Ausweis das Merk-Zeichen steht: G:",
+      "Gebühren"
+    ],
+    0.13923557102680206
+  ],
+  [
+    [
+      25,
+      8
+    ],
+    [
+      "Dann Sie sind geh-behindert .",
+      "Gebühren"
+    ],
+    0.09650077670812607
+  ],
+  [
+    [
+      26,
+      8
+    ],
+    [
+      "aG: Dann Sie sind besonders geh-behindert .",
+      "Gebühren"
+    ],
+    0.10895095765590668
+  ],
+  [
+    [
+      27,
+      8
+    ],
+    [
+      "GL: Sie sind gehör-los .",
+      "Gebühren"
+    ],
+    0.09141508489847183
+  ],
+  [
+    [
+      28,
+      8
+    ],
+    [
+      "Dann müssen Sie 80 Euro für das Beiblatt bezahlen.",
+      "Gebühren"
+    ],
+    0.20536042749881744
+  ],
+  [
+    [
+      29,
+      8
+    ],
+    [
+      "Wichtig: Wenn in Ihrem Ausweis das Merk-Zeichen steht: G:",
+      "Gebühren"
+    ],
+    0.1514023393392563
+  ],
+  [
+    [
+      30,
+      8
+    ],
+    [
+      "Dann Sie sind geh-behindert .",
+      "Gebühren"
+    ],
+    0.09650077670812607
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "GL: Sie sind gehör-los .",
+      "Gebühren"
+    ],
+    0.09141508489847183
+  ],
+  [
+    [
+      32,
+      8
+    ],
+    [
+      "Dann können Sie entscheiden:",
+      "Gebühren"
+    ],
+    0.24869705736637115
+  ],
+  [
+    [
+      33,
+      8
+    ],
+    [
+      "Entweder Sie bezahlen das Beiblatt für Bus und Bahn .",
+      "Gebühren"
+    ],
+    0.1951863169670105
+  ],
+  [
+    [
+      34,
+      8
+    ],
+    [
+      "Dann können Sie kostenlos Bus und Bahn fahren.",
+      "Gebühren"
+    ],
+    0.18297231197357178
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Oder Sie müssen weniger Steuer für Ihr Auto bezahlen.",
+      "Gebühren"
+    ],
+    0.2652657926082611
+  ],
+  [
+    [
+      36,
+      0
+    ],
+    [
+      "Wie bekomme ich das Beiblatt mit Wert-Marke?",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.08610526472330093
+  ],
+  [
+    [
+      37,
+      8
+    ],
+    [
+      "Wir schicken Ihnen den Antrag für das Beiblatt.",
+      "Gebühren"
+    ],
+    0.16749747097492218
+  ],
+  [
+    [
+      38,
+      8
+    ],
+    [
+      "Sie müssen den Antrag ausfüllen.",
+      "Gebühren"
+    ],
+    0.2980293035507202
+  ],
+  [
+    [
+      39,
+      8
+    ],
+    [
+      "Und uns den fertigen Antrag schicken .",
+      "Gebühren"
+    ],
+    0.17157286405563354
+  ],
+  [
+    [
+      40,
+      8
+    ],
+    [
+      "Wir prüfen Ihren Antrag.",
+      "Gebühren"
+    ],
+    0.23551085591316223
+  ],
+  [
+    [
+      41,
+      0
+    ],
+    [
+      "Dann schicken wir Ihnen das Beiblatt .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.1267632693052292
+  ],
+  [
+    [
+      42,
+      0
+    ],
+    [
+      "Wir helfen Ihnen gerne.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.14190883934497833
+  ],
+  [
+    [
+      43,
+      8
+    ],
+    [
+      "Wenn Sie Fragen haben.",
+      "Gebühren"
+    ],
+    0.19809593260288239
+  ],
+  [
+    [
+      44,
+      8
+    ],
+    [
+      "Muss ich für den Antrag Geld bezahlen?",
+      "Gebühren"
+    ],
+    0.24925562739372253
+  ],
+  [
+    [
+      45,
+      9
+    ],
+    [
+      "Nein.",
+      "Es fallen keine Gebühren an."
+    ],
+    0.09795365482568741
+  ],
+  [
+    [
+      46,
+      8
+    ],
+    [
+      "Sie müssen nichts für den Antrag bezahlen.",
+      "Gebühren"
+    ],
+    0.30489382147789
+  ],
+  [
+    [
+      47,
+      8
+    ],
+    [
+      "Wo stehen die Gesetze zum Beiblatt mit Wert-Marke?",
+      "Gebühren"
+    ],
+    0.1461125910282135
+  ],
+  [
+    [
+      48,
+      10
+    ],
+    [
+      "Die Gesetze zum Schwer-Behinderten-Ausweis und dem Beiblatt mit Wert-Marke stehen in den Paragrafen 228 bis 237 im Sozial-Gesetz-Buch 9 .",
+      "Rechtliche Voraussetzungen §§ 145 - 147, Sozialgesetzbuch IX"
+    ],
+    0.16803163290023804
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.1071467325091362
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Das Zeichen für Paragraf ist: §",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.16794461011886597
+  ],
+  [
+    [
+      51,
+      6
+    ],
+    [
+      "Weitere Informationen *",
+      "Weiterführende Links Vorsprache"
+    ],
+    0.37773776054382324
+  ],
+  [
+    [
+      52,
+      6
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V ., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Weiterführende Links Vorsprache"
+    ],
+    0.1285821944475174
+  ]
+]

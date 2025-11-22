@@ -1,0 +1,189 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Manchmal hat eine Person einen Herzstillstand .",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.4348185062408447
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Und die betroffene Person hört auf zu atmen.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.45334774255752563
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Dann stirbt die betroffene Person.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.4290526509284973
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Eine Person hat einen Herzstillstand?",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.4353869557380676
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Dann versuchen Sie die Person wiederzubeleben.",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.5636202692985535
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Eine betroffene Person atmet nicht mehr?",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.4190131723880768
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.5204482674598694
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Beginnen Sie dann sofort mit der Wiederbelebung.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.7158276438713074
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Eine Wiederbelebung geht so: 1. Strecken Sie den Kopf der betroffenen Person nach oben.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.5245463848114014
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Wiederholen Sie diese Vorgänge.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.599303662776947
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Machen Sie mit der Wiederbelebung solange weiter, bis Hilfe kommt.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.64523845911026
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Diese Dinge sollten Sie bei der Wiederbelebung beachten:",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.6399784088134766
+  ],
+  [
+    [
+      29,
+      33
+    ],
+    [
+      "Beginnen Sie sofort mit der Herzdruckmassage.",
+      "Aber halten Sie sich nicht zu lange mit der Überprüfung auf - wichtig ist ein sofortiges Fortsetzen der Herzdruckmassage!"
+    ],
+    0.8169472217559814
+  ],
+  [
+    [
+      31,
+      33
+    ],
+    [
+      "Machen Sie bei der Herzdruckmassage möglichst keine Pausen .",
+      "Aber halten Sie sich nicht zu lange mit der Überprüfung auf - wichtig ist ein sofortiges Fortsetzen der Herzdruckmassage!"
+    ],
+    0.8532631397247314
+  ],
+  [
+    [
+      32,
+      35
+    ],
+    [
+      "Wichtig: Drücken Sie den Brustkorb kräftig nach unten.",
+      "Gehen Sie dann unverzüglich in die Anfangsposition und drücken Sie erneut 30 Mal auf den Brustkorb."
+    ],
+    0.7040136456489563
+  ],
+  [
+    [
+      33,
+      38
+    ],
+    [
+      "Haben Sie keine Angst.",
+      "Beginnen Sie mit 30 x Drücken."
+    ],
+    0.5872991681098938
+  ],
+  [
+    [
+      34,
+      38
+    ],
+    [
+      "Sie können nichts falschmachen.",
+      "Beginnen Sie mit 30 x Drücken."
+    ],
+    0.5457953810691833
+  ]
+]

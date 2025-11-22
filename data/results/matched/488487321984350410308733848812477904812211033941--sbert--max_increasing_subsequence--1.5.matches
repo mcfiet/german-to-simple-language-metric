@@ -1,0 +1,541 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen deutscher Bürger oder deutsche Bürgerin werden?",
+      "Um die deutsche Staatsangehörigkeit durch Einbürgerung zu erlangen, stehen mehrere Rechtsgrundlagen zur Verfügung, die überwiegend im Staatsangehörigkeitsgesetz (StAG) geregelt sind."
+    ],
+    0.6933819651603699
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Gehen Sie bitte zur Beratung, bevor Sie den Antrag stellen.",
+      "Bei der Beratung kann sich aber herausstellen, dass weitere Unterlagen erforderlich sind."
+    ],
+    0.6891856789588928
+  ],
+  [
+    [
+      6,
+      4
+    ],
+    [
+      "Sie können den Antrag zur Einbürgerung stellen:",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.8833639621734619
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Für sie muss der gesetzliche Vertreter den Antrag stellen.",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.6051899194717407
+  ],
+  [
+    [
+      13,
+      4
+    ],
+    [
+      "Auf dieser Seite erklären wir: Was Sie für die Einbürgerung brauchen.",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.8211489915847778
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Was brauche ich für die Einbürgerung?",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.8587421178817749
+  ],
+  [
+    [
+      17,
+      4
+    ],
+    [
+      "Antrag zur Einbürgerung",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.9642232656478882
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Füllen Sie danach den Antrag aus.",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.5944674611091614
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Unterschreiben Sie den Antrag bitte erst im Amt .",
+      "Benötigt werden Einbürgerungsantrag"
+    ],
+    0.6092761754989624
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Pass-Foto",
+      "Aktuelles Passfoto"
+    ],
+    0.8331802487373352
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Das Foto soll aktuell sein.",
+      "Aktuelles Passfoto"
+    ],
+    0.6900470852851868
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "Lebenslauf",
+      "Lebenslauf"
+    ],
+    1.0
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Ihren Lebenslauf können Sie mit der Hand schreiben.",
+      "Der Lebenslauf kann sowohl per Hand als auch mit Computer oder Schreibmaschine geschrieben sein."
+    ],
+    0.8576052188873291
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Oder am Computer.",
+      "Der Lebenslauf kann sowohl per Hand als auch mit Computer oder Schreibmaschine geschrieben sein."
+    ],
+    0.6333369612693787
+  ],
+  [
+    [
+      34,
+      10
+    ],
+    [
+      "Das sollte in Ihrem Lebenslauf stehen: Ihre Ausbildung in der Schule und im Beruf .",
+      "Er sollte einen kompletten schulischen und beruflichen Werdegang enthalten."
+    ],
+    0.7761820554733276
+  ],
+  [
+    [
+      35,
+      11
+    ],
+    [
+      "Wenn Sie Mitglied in einem Verein sind.",
+      "Sollten Sie sich in einem Verein oder einer Organisation ehrenamtlich betätigen, nehmen Sie dies bitte auf, wenn Sie besondere Integrationsleistungen geltend machen wollen."
+    ],
+    0.7066824436187744
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "Oder wenn Sie ehrenamtlich arbeiten .",
+      "Sollten Sie sich in einem Verein oder einer Organisation ehrenamtlich betätigen, nehmen Sie dies bitte auf, wenn Sie besondere Integrationsleistungen geltend machen wollen."
+    ],
+    0.7415361404418945
+  ],
+  [
+    [
+      37,
+      12
+    ],
+    [
+      "Pass oder Reise-Ausweis oder ein elektronischer Aufenthalts-Titel",
+      "Nationalpass oder Reiseausweis"
+    ],
+    0.8304320573806763
+  ],
+  [
+    [
+      45,
+      12
+    ],
+    [
+      "Der eAT gilt als Ersatz für einen Pass.",
+      "Nationalpass oder Reiseausweis"
+    ],
+    0.6284617781639099
+  ],
+  [
+    [
+      46,
+      13
+    ],
+    [
+      "Wenn Sie noch keinen eAT haben, muss der aktuelle Aufenthalts-Titel in Ihrem Pass stehen.",
+      "Bei Antragstellung muss ein gültiger Nationalpass oder Reiseausweis vorliegen."
+    ],
+    0.8072603940963745
+  ],
+  [
+    [
+      47,
+      15
+    ],
+    [
+      "Geburts-Urkunde",
+      "Geburtsurkunde Sollten Sie nicht in Deutschland geboren sein und daher nicht über eine deutsche Geburtsurkunde verfügen, ist eine internationale Geburtsurkunde oder die Originalurkunde mit beglaubigter Übersetzung vorzulegen."
+    ],
+    0.6163848638534546
+  ],
+  [
+    [
+      48,
+      15
+    ],
+    [
+      "Wenn Sie nicht in Deutschland geboren sind und keine deutsche Geburts-Urkunde haben, dann müssen Sie eine inter-nationale Geburts-Urkunde zeigen.",
+      "Geburtsurkunde Sollten Sie nicht in Deutschland geboren sein und daher nicht über eine deutsche Geburtsurkunde verfügen, ist eine internationale Geburtsurkunde oder die Originalurkunde mit beglaubigter Übersetzung vorzulegen."
+    ],
+    0.9305315017700195
+  ],
+  [
+    [
+      50,
+      16
+    ],
+    [
+      "Wenn Sie in Köln geboren sind und eine aktuelle Urkunde brauchen, dann benutzen Sie bitte den Urkunden-Service vom Standes-Amt .",
+      "Für den Fall, dass Sie in Köln geboren wurden und eine aktuelle Urkunde benötigen, können Sie den Online-Service des Standesamtes nutzen."
+    ],
+    0.9351216554641724
+  ],
+  [
+    [
+      51,
+      20
+    ],
+    [
+      "Weitere Urkunden",
+      "Weitere Urkunden"
+    ],
+    1.0
+  ],
+  [
+    [
+      53,
+      21
+    ],
+    [
+      "Das heißt: Wenn Sie verheiratet sind.",
+      "Falls Sie nicht ledig sind, sind die Ehe- oder Lebenspartnerschaftsurkunde oder eine beglaubigte Abschrift/"
+    ],
+    0.7367609143257141
+  ],
+  [
+    [
+      54,
+      21
+    ],
+    [
+      "Oder wenn Sie geschieden sind.",
+      "Falls Sie nicht ledig sind, sind die Ehe- oder Lebenspartnerschaftsurkunde oder eine beglaubigte Abschrift/"
+    ],
+    0.7010756134986877
+  ],
+  [
+    [
+      57,
+      23
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie Deutsch sprechen.",
+      "Nachweis der Deutschkenntnisse Ihre Deutschkenntnisse weisen Sie entweder durch einen Abschluss einer allgemeinbildenden deutschen Schule (Hauptschule, Realschule, Gymnasium oder Gesamtschule) nach oder Sie legen ein Deutsch-Zertifikat mit dem Niveau B 1 vor."
+    ],
+    0.7547654509544373
+  ],
+  [
+    [
+      58,
+      23
+    ],
+    [
+      "Als Nachweis für Ihre Deutsch-Kenntnisse müssen Sie uns einen Abschluss von einer deutschen Schule zeigen: Haupt-Schule, Real-Schule, Gymnasium oder Gesamt-Schule Oder Sie zeigen uns Ihr Deutsch-Zertifikat mit dem Niveau B 1 .",
+      "Nachweis der Deutschkenntnisse Ihre Deutschkenntnisse weisen Sie entweder durch einen Abschluss einer allgemeinbildenden deutschen Schule (Hauptschule, Realschule, Gymnasium oder Gesamtschule) nach oder Sie legen ein Deutsch-Zertifikat mit dem Niveau B 1 vor."
+    ],
+    0.9586687088012695
+  ],
+  [
+    [
+      59,
+      24
+    ],
+    [
+      "Das Deutsch-Zertifikat muss von einem Telc-Träger sein.",
+      "Das Deutsch-Zertifikat muss von einem*einer Telc (The European Language Certificates)-Träger*in, zum Beispiel der Volkshochschule Köln, ausgestellt worden sein."
+    ],
+    0.8410077691078186
+  ],
+  [
+    [
+      60,
+      24
+    ],
+    [
+      "Die Abkürzung Telc steht für: The European Language Certificates",
+      "Das Deutsch-Zertifikat muss von einem*einer Telc (The European Language Certificates)-Träger*in, zum Beispiel der Volkshochschule Köln, ausgestellt worden sein."
+    ],
+    0.7602586150169373
+  ],
+  [
+    [
+      61,
+      24
+    ],
+    [
+      "Das ist Englisch und bedeutet: Europäische Sprach-Zertifikate Zertifikat bedeutet:",
+      "Das Deutsch-Zertifikat muss von einem*einer Telc (The European Language Certificates)-Träger*in, zum Beispiel der Volkshochschule Köln, ausgestellt worden sein."
+    ],
+    0.708241879940033
+  ],
+  [
+    [
+      64,
+      25
+    ],
+    [
+      "Nachweis über staats-bürgerliche Kenntnisse",
+      "Nachweis der staatsbürgerlichen Kenntnisse Ihre staatsbürgerlichen Kenntnisse weisen Sie entweder durch einen Abschluss einer allgemeinbildenden deutschen Schule (Hauptschule, Realschule, Gymnasium oder Gesamtschule) nach oder Sie legen den Nachweis eines erfolgreich abgeschlossenen Einbürgerungstests vor."
+    ],
+    0.6259995102882385
+  ],
+  [
+    [
+      65,
+      25
+    ],
+    [
+      "Sie müssen Ihre staats-bürgerlichen Kenntnisse nachweisen.",
+      "Nachweis der staatsbürgerlichen Kenntnisse Ihre staatsbürgerlichen Kenntnisse weisen Sie entweder durch einen Abschluss einer allgemeinbildenden deutschen Schule (Hauptschule, Realschule, Gymnasium oder Gesamtschule) nach oder Sie legen den Nachweis eines erfolgreich abgeschlossenen Einbürgerungstests vor."
+    ],
+    0.7044163942337036
+  ],
+  [
+    [
+      66,
+      25
+    ],
+    [
+      "Das heißt: Sie müssen zeigen, was Sie wissen zu Deutscher Politik Deutscher Kunst und Kultur Deutscher Tradition und Geschichte Als Nachweis können Sie uns 1. Ihren Abschluss von einer deutschen Schule zeigen.",
+      "Nachweis der staatsbürgerlichen Kenntnisse Ihre staatsbürgerlichen Kenntnisse weisen Sie entweder durch einen Abschluss einer allgemeinbildenden deutschen Schule (Hauptschule, Realschule, Gymnasium oder Gesamtschule) nach oder Sie legen den Nachweis eines erfolgreich abgeschlossenen Einbürgerungstests vor."
+    ],
+    0.7288720607757568
+  ],
+  [
+    [
+      67,
+      25
+    ],
+    [
+      "Zum Beispiel: Abschluss von der Haupt-Schule, Abschluss von der Real-Schule, Abschluss vom Gymnasium oder Abschluss von der Gesamt-Schule 2. Oder den Abschluss vom Einbürgerungs-Test .",
+      "Nachweis der staatsbürgerlichen Kenntnisse Ihre staatsbürgerlichen Kenntnisse weisen Sie entweder durch einen Abschluss einer allgemeinbildenden deutschen Schule (Hauptschule, Realschule, Gymnasium oder Gesamtschule) nach oder Sie legen den Nachweis eines erfolgreich abgeschlossenen Einbürgerungstests vor."
+    ],
+    0.6766574382781982
+  ],
+  [
+    [
+      68,
+      26
+    ],
+    [
+      "Den Test können Sie in Köln nur bei der Volks-Hoch-Schule machen.",
+      "Den Einbürgerungstest können Sie in Köln zum Beispiel an der Volkshochschule machen."
+    ],
+    0.818053662776947
+  ],
+  [
+    [
+      69,
+      28
+    ],
+    [
+      "Nachweis über Ihr Einkommen",
+      "Einkommensnachweis"
+    ],
+    0.910010576248169
+  ],
+  [
+    [
+      70,
+      28
+    ],
+    [
+      "Sie müssen Nachweise über Ihr Einkommen in den letzten 3 Monaten zeigen.",
+      "Einkommensnachweis"
+    ],
+    0.7307658195495605
+  ],
+  [
+    [
+      71,
+      29
+    ],
+    [
+      "Zum Beispiel: Gehalts-Abrechnungen Ihren Arbeits-Vertrag Konto-Auszüge von der Bank.",
+      "Bei Arbeitnehmer*innen sind der aktuelle Arbeitsvertrag sowie die Lohn-/Gehaltsabrechnungen der letzten drei Monate vorzulegen."
+    ],
+    0.7034572958946228
+  ],
+  [
+    [
+      78,
+      31
+    ],
+    [
+      "Oder schreiben Sie uns:",
+      "So finden Sie uns"
+    ],
+    0.7010238170623779
+  ],
+  [
+    [
+      80,
+      36
+    ],
+    [
+      "Sie müssen den Antrag persönlich bei uns abgeben.",
+      "Wir empfehlen Ihnen vor Antragstellung eine persönliche Beratung in Anspruch zu nehmen."
+    ],
+    0.7442059516906738
+  ],
+  [
+    [
+      84,
+      36
+    ],
+    [
+      "Muss ich persönlich vorsprechen?",
+      "Wir empfehlen Ihnen vor Antragstellung eine persönliche Beratung in Anspruch zu nehmen."
+    ],
+    0.6336272358894348
+  ],
+  [
+    [
+      87,
+      42
+    ],
+    [
+      "Bevor Sie den Antrag auf Einbürgerung stellen, rufen Sie bitte zur Beratung das Beratungs-Büro an.",
+      "Weitere Links zu den Themen Integration und Einbürgerung Vorsprache Wir empfehlen Ihnen vor Antragstellung eine persönliche Beratung in Anspruch zu nehmen."
+    ],
+    0.85924232006073
+  ],
+  [
+    [
+      88,
+      44
+    ],
+    [
+      "Nach der Beratung bekommen Sie den Antrag und ein Merk-Blatt .",
+      "Nach der Beratung erhalten Sie per E-Mail oder per Post ein Merkblatt mit allen wichtigen Informationen und Unterlagen für die Antragstellung, sowie den Antragsvordruck."
+    ],
+    0.8138523697853088
+  ],
+  [
+    [
+      89,
+      44
+    ],
+    [
+      "Darin stehen alle wichtigen Infos und Unterlagen für den Antrag.",
+      "Nach der Beratung erhalten Sie per E-Mail oder per Post ein Merkblatt mit allen wichtigen Informationen und Unterlagen für die Antragstellung, sowie den Antragsvordruck."
+    ],
+    0.7100818753242493
+  ],
+  [
+    [
+      97,
+      47
+    ],
+    [
+      "Die Einbürgerung kostet 255 Euro pro Person .",
+      "Die Einbürgerungsgebühr beträgt 255 Euro pro antragstellende Person."
+    ],
+    0.9777228832244873
+  ],
+  [
+    [
+      98,
+      48
+    ],
+    [
+      "51 Euro für Kinder unter 18 Jahren ohne Einkommen.",
+      "Für minderjährige Kinder, die mit eingebürgert werden und kein eigenes Einkommen haben, reduziert sich die Gebühr auf 51 Euro."
+    ],
+    0.8712624311447144
+  ],
+  [
+    [
+      99,
+      49
+    ],
+    [
+      "51 Euro für heimat-lose Ausländer und Ausländerinnen.",
+      "Die Gebühr für Einbürgerungen nach dem \"Gesetz über die Rechtsstellung heimatloser Ausländer im Bundesgebiet\" beträgt einheitlich 51 Euro pro Person."
+    ],
+    0.8079485893249512
+  ],
+  [
+    [
+      101,
+      51
+    ],
+    [
+      "Die Anzahlung entspricht 75 Prozent von der Gebühr!",
+      "Bei Antragstellung sind 75 Prozent der Verwaltungsgebühren zu bezahlen."
+    ],
+    0.933829665184021
+  ]
+]

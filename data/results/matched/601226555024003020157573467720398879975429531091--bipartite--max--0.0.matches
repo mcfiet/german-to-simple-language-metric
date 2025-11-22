@@ -1,0 +1,1377 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ihr Auto ist weg?",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      9
+    ],
+    [
+      "Es steht nicht mehr da, wo Sie es abgestellt haben?",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.6948243975639343
+  ],
+  [
+    [
+      2,
+      9
+    ],
+    [
+      "Dann wurde Ihr Auto vielleicht abgeschleppt.",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.723345160484314
+  ],
+  [
+    [
+      3,
+      9
+    ],
+    [
+      "Oder Ihr Auto wurde gestohlen .",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.6593215465545654
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Auf dieser Seite erklären wir, was Sie tun können.",
+      "An wen können Sie sich wenden?"
+    ],
+    0.6419579982757568
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Und wie Sie Ihr Auto zurück bekommen.",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.7564606666564941
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Wo bekomme ich Infos und Hilfe?",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.48160549998283386
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Manchmal ist der Ordnungs- und Verkehrs-Dienst noch vor Ort.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.8704603314399719
+  ],
+  [
+    [
+      8,
+      10
+    ],
+    [
+      "Dann können Sie fragen:",
+      "Danach können Sie sich direkt an die betreffende Firma zwecks Abholung wenden."
+    ],
+    0.8289676904678345
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Ob und wohin Ihr Fahrzeug abgeschleppt wird.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.8679677248001099
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Oder Sie rufen bei uns an.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6724143028259277
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Service-Telefon: 02 21 / 22 13 20 00 Ordnungs- und Verkehrs-Dienst der Stadt Köln",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Willy-Brandt-Platz 3 50679 Köln",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    1.0
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Sie können zu diesen Zeiten beim Service-Telefon anrufen:",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.6341126561164856
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Montag bis Donnerstag 7 bis 0 Uhr Freitag 7 bis 1 Uhr Samstag 9 bis 1 Uhr Sonntage und Feiertage 9 bis 0 Uhr Außerhalb dieser Zeiten rufen Sie bitte die Polizei Köln .",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Telefon-Nummer 02 21 / 22 90 .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6902328133583069
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Wichtig: Wenn die Polizei und der Ordnungs- und Verkehrs-Dienst keine Infos zu Ihrem Fahrzeug haben, dann wurde es vielleicht gestohlen .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.8127573728561401
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Dann müssen Sie zur Polizei gehen .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7378109693527222
+  ],
+  [
+    [
+      18,
+      16
+    ],
+    [
+      "Und Sie müssen den Diebstahl anzeigen .",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.5625669360160828
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Wo kann ich mein Fahrzeug abholen?",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.7189188003540039
+  ],
+  [
+    [
+      20,
+      6
+    ],
+    [
+      "Bitte rufen Sie immer zuerst beim Ordnungs- und Verkehrs-Dienst an.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7934159636497498
+  ],
+  [
+    [
+      21,
+      6
+    ],
+    [
+      "Telefon-Nummer: 02 21 / 22 13 20 00",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7083189487457275
+  ],
+  [
+    [
+      22,
+      9
+    ],
+    [
+      "Bitte fragen Sie nach:",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.797845721244812
+  ],
+  [
+    [
+      23,
+      9
+    ],
+    [
+      "Welche Firma hat mein Fahrzeug abgeschleppt?",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.7436569333076477
+  ],
+  [
+    [
+      24,
+      8
+    ],
+    [
+      "Wo kann ich mein Fahrzeug abholen?",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.7189188003540039
+  ],
+  [
+    [
+      25,
+      6
+    ],
+    [
+      "Wir geben Ihnen dann die Adresse von der Abschlepp-Firma.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6121153831481934
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Sie können dann bei der Abschlepp-Firma anrufen .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.8506076335906982
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Und persönlich zur Abschlepp-Firma gehen.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5337880849838257
+  ],
+  [
+    [
+      28,
+      4
+    ],
+    [
+      "Hier finden Sie eine Übersicht mit Abschlepp-Firmen in Köln.",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Die Firmen schleppen für den Ordnungs- und Verkehrs-Dienst ab:",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6214494705200195
+  ],
+  [
+    [
+      30,
+      11
+    ],
+    [
+      "Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 02 21 / 95 68 60 Firma Schlimbach",
+      "Folgende Firmen führen in Köln Abschleppaufträge des Ordnungs- und Verkehrsdienstes aus: Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 0221 / 956860 Firma Schlimbach Bergisch"
+    ],
+    0.6933079361915588
+  ],
+  [
+    [
+      31,
+      11
+    ],
+    [
+      "Bergisch",
+      "Folgende Firmen führen in Köln Abschleppaufträge des Ordnungs- und Verkehrsdienstes aus: Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 0221 / 956860 Firma Schlimbach Bergisch"
+    ],
+    1.0
+  ],
+  [
+    [
+      32,
+      12
+    ],
+    [
+      "Gladbacher Straße",
+      "Gladbacher Straße"
+    ],
+    1.0
+  ],
+  [
+    [
+      33,
+      13
+    ],
+    [
+      "240 51063 Köln-Buchheim Telefon: 02 21 / 96 44 490 Firma Christophorus Höninger Weg 4 bis 10 50969 Köln-Zollstock Telefon: 02 21 / 80 01 800 Telefax: 02 21 / 80 01 80 10 Firma Pahlke Möhlstraße 28 51069 Köln-Dellbrück Telefon: 02 21 / 96 84 740 F irma Pahlke Hansestraße 9 51149 Köln-Gremberghoven Telefon: 0 22 03 / 18 69 30 6",
+      "240 51063 Köln-Buchheim Telefon: 0221 / 964449-0 Firma Christophorus Höninger"
+    ],
+    0.8438694477081299
+  ],
+  [
+    [
+      34,
+      16
+    ],
+    [
+      "Was muss ich zum Abholen mitbringen?",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.5972131490707397
+  ],
+  [
+    [
+      35,
+      17
+    ],
+    [
+      "Wenn Sie das Auto bei der Abschlepp-Firma abholen wollen, müssen Sie diese Papiere mitbringen:",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.919882595539093
+  ],
+  [
+    [
+      36,
+      18
+    ],
+    [
+      "Ihren Personal-Ausweis den Fahrzeug-Schein vom abgeschleppten Fahrzeug.",
+      "Ihren Personalausweis den Fahrzeugschein des abgeschleppten Autos bzw. die Zulassungsbescheinigung Teil I"
+    ],
+    0.8267991542816162
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Oder die Zulassungs-Bescheinigung Teil 1 .",
+      "Ihren Personalausweis den Fahrzeugschein des abgeschleppten Autos bzw. die Zulassungsbescheinigung Teil I"
+    ],
+    0.7127548456192017
+  ],
+  [
+    [
+      38,
+      3
+    ],
+    [
+      "Das ist ein Papier vom Amt.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.5040726661682129
+  ],
+  [
+    [
+      39,
+      8
+    ],
+    [
+      "Das Papier bekommen Sie von uns, wenn Sie Ihr Fahrzeug beim Amt anmelden.",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.6998159885406494
+  ],
+  [
+    [
+      40,
+      17
+    ],
+    [
+      "Damit können Sie der Abschlepp-Firma zeigen:",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.821872889995575
+  ],
+  [
+    [
+      41,
+      3
+    ],
+    [
+      "Das Fahrzeug gehört mir.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.6521546244621277
+  ],
+  [
+    [
+      42,
+      19
+    ],
+    [
+      "Wichtig: Sie können die Abschlepp-Kosten sofort bezahlen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.8860352039337158
+  ],
+  [
+    [
+      43,
+      17
+    ],
+    [
+      "Das heißt: Sie zahlen sofort bei der Abschlepp-Firma.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.7392061352729797
+  ],
+  [
+    [
+      44,
+      0
+    ],
+    [
+      "Dann bekommen Sie Ihr Fahrzeug zurück.",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.796560525894165
+  ],
+  [
+    [
+      45,
+      8
+    ],
+    [
+      "Wenn Sie nicht sofort bezahlen , bekommen Sie Ihr Fahrzeug nicht sofort zurück .",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.7221900224685669
+  ],
+  [
+    [
+      46,
+      6
+    ],
+    [
+      "Dann entscheidet der Ordnungs- und Verkehrs-Dienst was mit Ihrem Fahrzeug passiert.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7399826049804688
+  ],
+  [
+    [
+      47,
+      0
+    ],
+    [
+      "Also: Ob Sie Ihr Fahrzeug zurück bekommen.",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.7297937870025635
+  ],
+  [
+    [
+      48,
+      17
+    ],
+    [
+      "Oder ob Ihr Fahrzeug bei der Abschlepp-Firma bleibt.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.6679168939590454
+  ],
+  [
+    [
+      49,
+      3
+    ],
+    [
+      "Wie viel kostet das Abschleppen?",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.5354743003845215
+  ],
+  [
+    [
+      50,
+      22
+    ],
+    [
+      "Es gibt 3 Arten von Kosten, wenn Ihr Fahrzeug abgeschleppt wurde:",
+      "Es entstehen drei verschiedene Arten von Kosten, wenn Ihr Fahrzeug abgeschleppt werden musste:"
+    ],
+    0.8501455187797546
+  ],
+  [
+    [
+      51,
+      21
+    ],
+    [
+      "1. Die Kosten für das Abschleppen",
+      "Welche Kosten entstehen?"
+    ],
+    0.5545137524604797
+  ],
+  [
+    [
+      52,
+      17
+    ],
+    [
+      "Das ist das Geld für die Abschlepp-Firma.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5517144203186035
+  ],
+  [
+    [
+      53,
+      8
+    ],
+    [
+      "Die Kosten können Sie bezahlen, wenn Sie Ihr Fahrzeug abholen.",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.8791762590408325
+  ],
+  [
+    [
+      54,
+      16
+    ],
+    [
+      "Wie viel Sie bezahlen müssen, hängt von vielen Fragen ab:",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.5491056442260742
+  ],
+  [
+    [
+      55,
+      6
+    ],
+    [
+      "Was für ein Fahrzeug haben Sie?",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7472336292266846
+  ],
+  [
+    [
+      56,
+      3
+    ],
+    [
+      "Zum Beispiel: Auto, Bus oder LKW .",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.49545818567276
+  ],
+  [
+    [
+      57,
+      9
+    ],
+    [
+      "Wann wurde Ihr Fahrzeug abgeschleppt?",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.7867841720581055
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Wie lange steht Ihr Fahrzeug bei der Abschlepp-Firma?",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.7054015398025513
+  ],
+  [
+    [
+      59,
+      17
+    ],
+    [
+      "Sie können bei der Abschlepp-Firma anrufen .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.9006054997444153
+  ],
+  [
+    [
+      60,
+      21
+    ],
+    [
+      "Und nach den Kosten fragen.",
+      "Welche Kosten entstehen?"
+    ],
+    0.4675588011741638
+  ],
+  [
+    [
+      61,
+      6
+    ],
+    [
+      "Wenn die Abschlepp-Firma beauftragt worden ist, müssen Sie immer Geld bezahlen.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6563204526901245
+  ],
+  [
+    [
+      62,
+      8
+    ],
+    [
+      "Auch wenn Sie Ihr Fahrzeug umparken, bevor der Abschlepp-Wagen kommt.",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.6601608991622925
+  ],
+  [
+    [
+      63,
+      6
+    ],
+    [
+      "Sie werden dann nicht mehr abgeschleppt .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7927269339561462
+  ],
+  [
+    [
+      64,
+      19
+    ],
+    [
+      "Aber Sie müssen die Fahrt vom Abschlepp-Wagen bezahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.6795611381530762
+  ],
+  [
+    [
+      65,
+      6
+    ],
+    [
+      "2.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.5072236657142639
+  ],
+  [
+    [
+      66,
+      4
+    ],
+    [
+      "Die Verwaltungs-Gebühren an die Stadt Köln",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      67,
+      4
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug abgeholt haben, bekommen Sie einen Brief von der Stadt Köln.",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      68,
+      19
+    ],
+    [
+      "In dem Brief steht: Wie viel Geld Sie bezahlen müssen für den Ordnungs- und Verkehrs-Dienst.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.6149446368217468
+  ],
+  [
+    [
+      69,
+      6
+    ],
+    [
+      "3.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.48853349685668945
+  ],
+  [
+    [
+      70,
+      7
+    ],
+    [
+      "Die Strafe für Falsch",
+      "In diesem Fall ist für die Aufnahme einer Diebstahlanzeige ausschließlich die Polizei zuständig."
+    ],
+    0.5845181941986084
+  ],
+  [
+    [
+      71,
+      6
+    ],
+    [
+      "Parken",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.540052592754364
+  ],
+  [
+    [
+      72,
+      25
+    ],
+    [
+      "Falsch Parken ist eine Ordnungs-Widrigkeit .",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.6043174862861633
+  ],
+  [
+    [
+      73,
+      0
+    ],
+    [
+      "Das bedeutet:",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.6190625429153442
+  ],
+  [
+    [
+      74,
+      3
+    ],
+    [
+      "Es ist gegen das Gesetz .",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.5988362431526184
+  ],
+  [
+    [
+      75,
+      6
+    ],
+    [
+      "Sie bekommen dafür eine Strafe .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.5986167788505554
+  ],
+  [
+    [
+      76,
+      19
+    ],
+    [
+      "Sie bekommen eine Verwarnung.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.6468965411186218
+  ],
+  [
+    [
+      77,
+      19
+    ],
+    [
+      "Dann müssen Sie Verwarn-Geld zahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.7623708248138428
+  ],
+  [
+    [
+      78,
+      6
+    ],
+    [
+      "Oder Sie bekommen eine Anzeige .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6367506980895996
+  ],
+  [
+    [
+      79,
+      19
+    ],
+    [
+      "Dann müssen Sie eine Geld-Buße zahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.7327048778533936
+  ],
+  [
+    [
+      80,
+      4
+    ],
+    [
+      "Wie viel Geld Sie bezahlen müssen, steht im Brief von der Stadt Köln.",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      81,
+      3
+    ],
+    [
+      "Die Höhe der Strafe ist immer unterschiedlich.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.6252254843711853
+  ],
+  [
+    [
+      82,
+      23
+    ],
+    [
+      "Allgemein gilt:",
+      "Generell gilt: Eine direkte Zahlung vor Ort reduziert die von Ihnen zu zahlenden Verwaltungsgebühren!"
+    ],
+    0.6436353921890259
+  ],
+  [
+    [
+      83,
+      16
+    ],
+    [
+      "Sie müssen weniger Verwaltungs-Gebühren zahlen, wenn Sie direkt bei der Abschlepp-Firma bezahlen .",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.7250032424926758
+  ],
+  [
+    [
+      84,
+      24
+    ],
+    [
+      "Muss ich persönlich ins Amt?",
+      "Vorsprache"
+    ],
+    0.43701258301734924
+  ],
+  [
+    [
+      85,
+      20
+    ],
+    [
+      "Nein.",
+      "Falls Sie nicht sofort bezahlen, entscheidet der Ordnungs- und Verkehrsdienst über die Herausgabe des Fahrzeuges."
+    ],
+    0.3506508767604828
+  ],
+  [
+    [
+      86,
+      17
+    ],
+    [
+      "Sie müssen nicht ins Amt kommen.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.6175946593284607
+  ],
+  [
+    [
+      87,
+      17
+    ],
+    [
+      "Wir schicken Ihnen einen Brief nach Hause .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.43393051624298096
+  ],
+  [
+    [
+      88,
+      17
+    ],
+    [
+      "Dann müssen Sie uns das Geld überweisen .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.7111549377441406
+  ],
+  [
+    [
+      89,
+      9
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.5660017132759094
+  ],
+  [
+    [
+      90,
+      9
+    ],
+    [
+      "Die Gesetze zum Abschleppen stehen hier:",
+      "Bitte erfragen Sie zunächst in jedem Fall bei der Funkzentrale des Ordnungs- und Verkehrsdienstes (Rufnummer siehe oben), welche der hier folgenden Abschleppfirmen Ihr Fahrzeug abgeschleppt hat und wo es bis zur Abholung steht."
+    ],
+    0.6302136182785034
+  ],
+  [
+    [
+      91,
+      28
+    ],
+    [
+      "Verwaltungs-Vollstreckungs-Gesetz Nord-Rhein-Westfalen",
+      "Rechtliche Voraussetzungen § 77 Verwaltungsvollstreckungsgesetz Nordrhein-Westfalen (NW) in Verbindung mit §§ 7a und 11 der Kostenordnung Nordrhein-Westfalen (NW)"
+    ],
+    1.0
+  ],
+  [
+    [
+      92,
+      28
+    ],
+    [
+      "Paragraf § 77",
+      "Rechtliche Voraussetzungen § 77 Verwaltungsvollstreckungsgesetz Nordrhein-Westfalen (NW) in Verbindung mit §§ 7a und 11 der Kostenordnung Nordrhein-Westfalen (NW)"
+    ],
+    0.733619213104248
+  ],
+  [
+    [
+      93,
+      21
+    ],
+    [
+      "Die Gesetze zu den Kosten für das Abschleppen stehen hier:",
+      "Welche Kosten entstehen?"
+    ],
+    0.6429532766342163
+  ],
+  [
+    [
+      94,
+      28
+    ],
+    [
+      "Kosten-Ordnung Nord-Rhein-Westfalen",
+      "Rechtliche Voraussetzungen § 77 Verwaltungsvollstreckungsgesetz Nordrhein-Westfalen (NW) in Verbindung mit §§ 7a und 11 der Kostenordnung Nordrhein-Westfalen (NW)"
+    ],
+    1.0
+  ],
+  [
+    [
+      95,
+      28
+    ],
+    [
+      "Paragraf § 7a und § 11",
+      "Rechtliche Voraussetzungen § 77 Verwaltungsvollstreckungsgesetz Nordrhein-Westfalen (NW) in Verbindung mit §§ 7a und 11 der Kostenordnung Nordrhein-Westfalen (NW)"
+    ],
+    0.866809606552124
+  ],
+  [
+    [
+      96,
+      3
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.4666171967983246
+  ],
+  [
+    [
+      97,
+      7
+    ],
+    [
+      "Das Zeichen für Paragraf ist: §",
+      "In diesem Fall ist für die Aufnahme einer Diebstahlanzeige ausschließlich die Polizei zuständig."
+    ],
+    0.5923524498939514
+  ],
+  [
+    [
+      98,
+      3
+    ],
+    [
+      "Hier können Sie das Gesetz im Internet lesen:",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.5488052368164062
+  ],
+  [
+    [
+      99,
+      6
+    ],
+    [
+      "Kontakt zum Ordnungs- und Verkehrs-Dienst",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7176583409309387
+  ],
+  [
+    [
+      100,
+      4
+    ],
+    [
+      "Adresse: Ordnungs- und Verkehrsdienst Willy-Brandt-Platz 3 50679 Köln",
+      "Köln"
+    ],
+    1.0
+  ],
+  [
+    [
+      101,
+      6
+    ],
+    [
+      "Hilfen für Menschen mit Behinderung: Es gibt Behinderten-Parkplätze .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.4470743238925934
+  ],
+  [
+    [
+      102,
+      22
+    ],
+    [
+      "Es gibt Aufzüge für Menschen im Rollstuhl.",
+      "Es entstehen drei verschiedene Arten von Kosten, wenn Ihr Fahrzeug abgeschleppt werden musste:"
+    ],
+    0.40882888436317444
+  ],
+  [
+    [
+      103,
+      6
+    ],
+    [
+      "Öffnungs-Zeiten: Montag bis Freitag von 8 bis 12 Uhr",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.8522826433181763
+  ],
+  [
+    [
+      104,
+      10
+    ],
+    [
+      "Sie können auch einen Termin machen .",
+      "Danach können Sie sich direkt an die betreffende Firma zwecks Abholung wenden."
+    ],
+    0.5857803821563721
+  ],
+  [
+    [
+      105,
+      6
+    ],
+    [
+      "Dann können Sie zu einer anderen Zeit kommen.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6437005996704102
+  ],
+  [
+    [
+      106,
+      6
+    ],
+    [
+      "Dann müssen Sie sich nicht an die Öffnungs-Zeiten halten.",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7981270551681519
+  ],
+  [
+    [
+      107,
+      6
+    ],
+    [
+      "Service-Telefon: Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Telefon-Nummer: 02 21 / 22 13 20 00 Fax-Nummer:",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.8331639170646667
+  ],
+  [
+    [
+      108,
+      6
+    ],
+    [
+      "02 21 / 22 12 72 09 Sie können uns auch eine Nachricht schreiben:",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6081022024154663
+  ],
+  [
+    [
+      109,
+      3
+    ],
+    [
+      "Wie komme ich zum Amt?",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.37089696526527405
+  ],
+  [
+    [
+      110,
+      6
+    ],
+    [
+      "Stadt-Bahn-Linien 1 und 9 Haltestellen: Bahnhof Deutz/",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.704547643661499
+  ],
+  [
+    [
+      111,
+      11
+    ],
+    [
+      "Messe und Deutz-Fachhochschule",
+      "Folgende Firmen führen in Köln Abschleppaufträge des Ordnungs- und Verkehrsdienstes aus: Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 0221 / 956860 Firma Schlimbach Bergisch"
+    ],
+    0.4401565492153168
+  ],
+  [
+    [
+      112,
+      6
+    ],
+    [
+      "Stadt-Bahn-Linien 3 und 4 Haltestelle:",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.8038844466209412
+  ],
+  [
+    [
+      113,
+      12
+    ],
+    [
+      "Bahnhof Deutz-Messe",
+      "Gladbacher Straße"
+    ],
+    0.3181620240211487
+  ],
+  [
+    [
+      114,
+      6
+    ],
+    [
+      "LANXESS arena",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.27802813053131104
+  ],
+  [
+    [
+      115,
+      3
+    ],
+    [
+      "Bus-Linien",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.5090603828430176
+  ],
+  [
+    [
+      116,
+      6
+    ],
+    [
+      "150, 153 und 156 Haltestelle: Bahnhof Deutz-Messe",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.5459163784980774
+  ],
+  [
+    [
+      117,
+      6
+    ],
+    [
+      "LANXESS arena",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.27802813053131104
+  ],
+  [
+    [
+      118,
+      6
+    ],
+    [
+      "Bus-Linie 153 Haltestelle: Deutz-Fachhochschule",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.44400227069854736
+  ],
+  [
+    [
+      119,
+      6
+    ],
+    [
+      "S-Bahn-Linien S 6, S 11, S 12, S 13 Haltestelle:",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.5225456357002258
+  ],
+  [
+    [
+      120,
+      12
+    ],
+    [
+      "Bahnhof Deutz-Messe",
+      "Gladbacher Straße"
+    ],
+    0.3181620240211487
+  ],
+  [
+    [
+      121,
+      12
+    ],
+    [
+      "Deutsche Bahn Haltestelle:",
+      "Gladbacher Straße"
+    ],
+    0.44484707713127136
+  ],
+  [
+    [
+      122,
+      12
+    ],
+    [
+      "Bahnhof Deutz-Messe",
+      "Gladbacher Straße"
+    ],
+    0.3181620240211487
+  ],
+  [
+    [
+      123,
+      11
+    ],
+    [
+      "Weitere Informationen *",
+      "Folgende Firmen führen in Köln Abschleppaufträge des Ordnungs- und Verkehrsdienstes aus: Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 0221 / 956860 Firma Schlimbach Bergisch"
+    ],
+    0.5637853145599365
+  ],
+  [
+    [
+      124,
+      4
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Köln"
+    ],
+    0.6099568009376526
+  ]
+]

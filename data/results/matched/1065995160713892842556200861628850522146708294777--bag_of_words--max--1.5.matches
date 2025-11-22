@@ -1,0 +1,992 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In manche Länder können Sie nur reisen, wenn Sie einen gültigen Reise-Pass haben.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8738473057746887
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Wenn Sie in ein solches Land reisen und keinen gültigen Reise-Pass haben, dann müssen Sie bei uns einen Reise-Pass beantragen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9442259073257446
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Auf den Reise-Pass müssen Sie dann 3 bis 4 Wochen warten.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9277393221855164
+  ],
+  [
+    [
+      4,
+      56
+    ],
+    [
+      "Auf den Express-Pass müssen Sie nur 3 bis 4 Tage warten.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6972278356552124
+  ],
+  [
+    [
+      5,
+      33
+    ],
+    [
+      "Wenn Sie den Reise-Pass sofort brauchen, dann können Sie bei uns einen vorläufigen Reise-Pass bekommen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9110251069068909
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Zum Beispiel: Wenn Sie nicht mehr warten können, bis wir Ihnen einen endgültigen Reise-Pass machen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9032021760940552
+  ],
+  [
+    [
+      8,
+      56
+    ],
+    [
+      "Weil Sie in den nächsten Tagen ins Ausland reisen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.797105610370636
+  ],
+  [
+    [
+      9,
+      33
+    ],
+    [
+      "Dann können Sie einen vorläufigen Reise-Pass beantragen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9166471362113953
+  ],
+  [
+    [
+      11,
+      67
+    ],
+    [
+      "Wie bekomme ich einen vorläufigen Reise-Pass?",
+      "Gebühren 26 Euro für einen vorläufigen maschinenlesbaren Reisepass"
+    ],
+    0.9679062366485596
+  ],
+  [
+    [
+      12,
+      33
+    ],
+    [
+      "Um einen vorläufigen Reise-Pass zu beantragen, müssen Sie zu uns in ein Kunden-Zentrum in Köln kommen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8932870030403137
+  ],
+  [
+    [
+      13,
+      56
+    ],
+    [
+      "In dieser Liste finden Sie alle Kunden-Zentren in Köln.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8374360799789429
+  ],
+  [
+    [
+      14,
+      56
+    ],
+    [
+      "Klicken Sie auf ein Kunden-Zentrum in Ihrer Nähe.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8353558778762817
+  ],
+  [
+    [
+      15,
+      56
+    ],
+    [
+      "Dann sehen Sie die Adresse und die Öffnungs-Zeiten.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7539057731628418
+  ],
+  [
+    [
+      18,
+      56
+    ],
+    [
+      "Wenn Sie nicht mit Haupt-Wohnsitz in Köln gemeldet sind, dann brauchen wir eine schriftliche Erlaubnis vom Amt in Ihrer Heimat.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.5963056087493896
+  ],
+  [
+    [
+      19,
+      33
+    ],
+    [
+      "Das heißt: Wenn Sie nicht dauerhaft in Köln wohnen, dann muss das Amt in Ihrem Heimat-Ort schriftlich erlauben, dass wir Ihnen einen vorläufigen Reise-Pass geben.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8999962210655212
+  ],
+  [
+    [
+      22,
+      33
+    ],
+    [
+      "Nur mit der Erlaubnis bekommen Sie einen vorläufigen Reise-Pass.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.930417001247406
+  ],
+  [
+    [
+      23,
+      56
+    ],
+    [
+      "Sie dürfen den Not-Dienst nur im Notfall nutzen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.805869460105896
+  ],
+  [
+    [
+      24,
+      56
+    ],
+    [
+      "Das heißt: Wenn Sie vor Ihrer Reise noch genug Zeit haben.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6776337027549744
+  ],
+  [
+    [
+      25,
+      50
+    ],
+    [
+      "Und Sie auch zu den normalen Öffnungs-Zeiten kommen können.",
+      "Sie enthalten Informationen und besondere Regelungen bezüglich der vorzulegenden Unterlagen, und Sie können dort bei Bedarf eine Einverständniserklärung des zweiten Elternteils herunterladen."
+    ],
+    0.8337653279304504
+  ],
+  [
+    [
+      26,
+      56
+    ],
+    [
+      "Dann dürfen Sie den Not-Dienst nicht nutzen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7594370245933533
+  ],
+  [
+    [
+      27,
+      56
+    ],
+    [
+      "Sie müssen nachweisen, dass es ein Not-Fall ist.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.755969226360321
+  ],
+  [
+    [
+      28,
+      56
+    ],
+    [
+      "Als Nachweis können Sie Ihr Flug-Ticket zeigen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.749222993850708
+  ],
+  [
+    [
+      31,
+      33
+    ],
+    [
+      "Wichtig: Wenn Sie einen vorläufigen Reise-Pass für Ihr Kind brauchen, dann muss mindestens 1 Eltern-Teil mit dem Kind zu uns kommen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8956153392791748
+  ],
+  [
+    [
+      34,
+      56
+    ],
+    [
+      "Vom anderen Eltern-Teil müssen Sie uns eine Kopie vom Ausweis zeigen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6455996632575989
+  ],
+  [
+    [
+      35,
+      50
+    ],
+    [
+      "Und Sie müssen uns eine Vollmacht vom anderen Eltern-Teil zeigen.",
+      "Sie enthalten Informationen und besondere Regelungen bezüglich der vorzulegenden Unterlagen, und Sie können dort bei Bedarf eine Einverständniserklärung des zweiten Elternteils herunterladen."
+    ],
+    0.6631557941436768
+  ],
+  [
+    [
+      37,
+      56
+    ],
+    [
+      "Sie erlauben einer Person, etwas für Sie zu tun.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8685113191604614
+  ],
+  [
+    [
+      38,
+      56
+    ],
+    [
+      "Die Erlaubnis müssen Sie auch unterschreiben .",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7782462239265442
+  ],
+  [
+    [
+      39,
+      56
+    ],
+    [
+      "Bitte lesen Sie auch die Infos zu Ausweisen für Kinder und Jugendliche.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.822075366973877
+  ],
+  [
+    [
+      40,
+      67
+    ],
+    [
+      "Was brauche ich für einen vorläufigen Reise-Pass?",
+      "Gebühren 26 Euro für einen vorläufigen maschinenlesbaren Reisepass"
+    ],
+    0.9750359058380127
+  ],
+  [
+    [
+      41,
+      0
+    ],
+    [
+      "Wenn Sie einen vorläufigen Reise-Pass beantragen, dann müssen Sie uns diese Papiere zeigen: Ihren alten Reise-Pass",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8988463878631592
+  ],
+  [
+    [
+      42,
+      0
+    ],
+    [
+      "Wenn Sie den vorläufigen Reise-Pass bekommen, dann behalten wir den alten Reise-Pass.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8956630229949951
+  ],
+  [
+    [
+      43,
+      3
+    ],
+    [
+      "Oder wir machen den alten Reise-Pass ungültig.",
+      "Benötigt werden Alter Reisepass"
+    ],
+    0.9188113808631897
+  ],
+  [
+    [
+      44,
+      3
+    ],
+    [
+      "Und geben Ihnen dann den alten Reise-Pass zurück.",
+      "Benötigt werden Alter Reisepass"
+    ],
+    0.9119096994400024
+  ],
+  [
+    [
+      46,
+      33
+    ],
+    [
+      "Wenn Sie bisher nur einen Kinder-Reise-Pass hatten und jetzt einen vorläufigen Reise-Pass bekommen, dann behalten wir den Kinder-Reise-Pass.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.867315411567688
+  ],
+  [
+    [
+      50,
+      0
+    ],
+    [
+      "Sie müssen uns Ihren Personal-Ausweis zeigen, wenn Sie Ihren alten Reise-Pass verloren haben.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8491043448448181
+  ],
+  [
+    [
+      51,
+      0
+    ],
+    [
+      "Oder wenn Sie bisher keinen Reise-Pass hatten.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9408714175224304
+  ],
+  [
+    [
+      53,
+      0
+    ],
+    [
+      "Wenn Sie ledig sind und einen neuen Reise-Pass beantragen, dann bringen Sie bitte Ihre Geburts-Urkunde mit.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8630456328392029
+  ],
+  [
+    [
+      56,
+      56
+    ],
+    [
+      "Ledig heißt: Dass Sie nicht verheiratet sind.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8119410872459412
+  ],
+  [
+    [
+      57,
+      56
+    ],
+    [
+      "Oder dass Sie noch nie verheiratet waren.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8184671998023987
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Ihre Ehe- oder Lebens-Partnerschafts-Urkunde",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.7982327938079834
+  ],
+  [
+    [
+      59,
+      12
+    ],
+    [
+      "Wenn Sie verheiratet oder verpartnert sind, dann brauchen wir von Ihnen: eine Ehe-Urkunde , einen Auszug aus dem Ehe-Register oder eine Lebens-Partnerschafts-Urkunde .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.5842207670211792
+  ],
+  [
+    [
+      60,
+      56
+    ],
+    [
+      "Wir brauchen diese Urkunde auch, wenn Sie geschieden oder verwitwet sind.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6673660278320312
+  ],
+  [
+    [
+      65,
+      14
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.6822874546051025
+  ],
+  [
+    [
+      68,
+      56
+    ],
+    [
+      "Auch wenn Sie die Sprache gut beherrschen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7521970272064209
+  ],
+  [
+    [
+      73,
+      14
+    ],
+    [
+      "Das schwere Wort dafür ist: öffentlich bestellt oder beeidigt.",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.6234121918678284
+  ],
+  [
+    [
+      74,
+      56
+    ],
+    [
+      "Das heißt: Der Staat hat sie geprüft.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8294875025749207
+  ],
+  [
+    [
+      75,
+      56
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8039094805717468
+  ],
+  [
+    [
+      76,
+      56
+    ],
+    [
+      "Sie müssen die Urkunden und Übersetzungen im Original abgeben.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7630566358566284
+  ],
+  [
+    [
+      77,
+      50
+    ],
+    [
+      "Sie können keine Kopien von Urkunden und Übersetzungen abgeben.",
+      "Sie enthalten Informationen und besondere Regelungen bezüglich der vorzulegenden Unterlagen, und Sie können dort bei Bedarf eine Einverständniserklärung des zweiten Elternteils herunterladen."
+    ],
+    0.8208602666854858
+  ],
+  [
+    [
+      78,
+      33
+    ],
+    [
+      "ein Pass-Foto von Ihnen Wenn Sie einen vorläufigen Reise-Pass beantragen, dann müssen Sie uns 1",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9222341179847717
+  ],
+  [
+    [
+      80,
+      0
+    ],
+    [
+      "Wenn Sie gleichzeitig einen endgültigen Reise-Pass beantragen, dann brauchen wir 2 Pass-Fotos von Ihnen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8752090334892273
+  ],
+  [
+    [
+      82,
+      17
+    ],
+    [
+      "Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.6742753386497498
+  ],
+  [
+    [
+      83,
+      56
+    ],
+    [
+      "Sie können das Foto nicht als E-Mail schicken.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8005350232124329
+  ],
+  [
+    [
+      91,
+      19
+    ],
+    [
+      "Die Augen sind offen.",
+      "Die Regelungen sind in einer Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.5939037203788757
+  ],
+  [
+    [
+      94,
+      56
+    ],
+    [
+      "Befolgen Sie bitte die Regeln für Pass-Fotos.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8286969065666199
+  ],
+  [
+    [
+      95,
+      19
+    ],
+    [
+      "Die Regeln stehen in der Foto-Muster-Tafel .",
+      "Die Regelungen sind in einer Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.5809251666069031
+  ],
+  [
+    [
+      97,
+      33
+    ],
+    [
+      "Sie können nur im Notfall einen vorläufigen Reise-Pass beantragen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9221423864364624
+  ],
+  [
+    [
+      98,
+      56
+    ],
+    [
+      "Zum Beispiel: Wenn Sie in den nächsten Tagen ins Ausland reisen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7196820974349976
+  ],
+  [
+    [
+      99,
+      0
+    ],
+    [
+      "Wenn Sie nicht auf Ihren endgültigen Reise-Pass warten können.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.924339771270752
+  ],
+  [
+    [
+      100,
+      56
+    ],
+    [
+      "Oder wenn Sie nicht 3 Tage auf einen Express-Pass warten können.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6209492087364197
+  ],
+  [
+    [
+      101,
+      33
+    ],
+    [
+      "Nur dann können Sie einen vorläufigen Reise-Pass bekommen.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9284743070602417
+  ],
+  [
+    [
+      102,
+      56
+    ],
+    [
+      "Sie müssen nachweisen, dass es ein Notfall ist.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.755969226360321
+  ],
+  [
+    [
+      103,
+      56
+    ],
+    [
+      "Als Nachweis können Sie Ihr Flug-Ticket zeigen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.749222993850708
+  ],
+  [
+    [
+      106,
+      0
+    ],
+    [
+      "Verlust-Anzeige Wenn Sie Ihren Reise-Pass verloren haben, dann müssen Sie uns eine Verlust-Anzeige zeigen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8182621002197266
+  ],
+  [
+    [
+      107,
+      56
+    ],
+    [
+      "Das ist ein Papier, auf dem steht: Ihr Name und was Sie verloren haben.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7776651978492737
+  ],
+  [
+    [
+      108,
+      25
+    ],
+    [
+      "Sie können die Verlust-Anzeige am Computer ausfüllen .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.9081548452377319
+  ],
+  [
+    [
+      109,
+      25
+    ],
+    [
+      "Dann müssen Sie die Verlust-Anzeige ausdrucken .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.772040605545044
+  ],
+  [
+    [
+      110,
+      33
+    ],
+    [
+      "Wenn Sie einen vorläufigen Reise-Pass beantragen, dann zeigen Sie uns bitte die Verlust-Anzeige.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9162479639053345
+  ],
+  [
+    [
+      111,
+      26
+    ],
+    [
+      "eine Bescheinigung von der Polizei",
+      "Bescheinigung der Polizei"
+    ],
+    0.7177149057388306
+  ],
+  [
+    [
+      112,
+      0
+    ],
+    [
+      "Wenn Ihr Reise-Pass gestohlen wurde, dann müssen Sie zur Polizei gehen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9129990935325623
+  ],
+  [
+    [
+      114,
+      50
+    ],
+    [
+      "Dann bekommen Sie eine Bescheinigung von der Polizei .",
+      "Sie enthalten Informationen und besondere Regelungen bezüglich der vorzulegenden Unterlagen, und Sie können dort bei Bedarf eine Einverständniserklärung des zweiten Elternteils herunterladen."
+    ],
+    0.7542431354522705
+  ],
+  [
+    [
+      115,
+      0
+    ],
+    [
+      "Wenn Sie den neuen Reise-Pass beantragen, dann müssen Sie uns die Bescheinigung von der Polizei zeigen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.841105580329895
+  ],
+  [
+    [
+      116,
+      3
+    ],
+    [
+      "Wie lange ist der vorläufige Reise-Pass gültig?",
+      "Benötigt werden Alter Reisepass"
+    ],
+    0.9489595293998718
+  ],
+  [
+    [
+      117,
+      30
+    ],
+    [
+      "Ein vorläufiger Reise-Pass ist 1 Jahr gültig .",
+      "Ein vorläufiger Reisepass ist ein Jahr gültig."
+    ],
+    0.9760400652885437
+  ],
+  [
+    [
+      118,
+      33
+    ],
+    [
+      "Sie können einen vorläufigen Reise-Pass nicht verlängern lassen .",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.9397895336151123
+  ],
+  [
+    [
+      119,
+      67
+    ],
+    [
+      "Wann bekomme ich den vorläufigen Reise-Pass?",
+      "Gebühren 26 Euro für einen vorläufigen maschinenlesbaren Reisepass"
+    ],
+    0.9585615992546082
+  ],
+  [
+    [
+      120,
+      33
+    ],
+    [
+      "Wenn Sie uns alle nötigen Papiere zeigen, dann bekommen Sie den vorläufigen Reise-Pass sofort.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.944108784198761
+  ],
+  [
+    [
+      123,
+      0
+    ],
+    [
+      "Für Reisen außerhalb von Europa brauchen Sie einen Reise-Pass.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.9191442131996155
+  ],
+  [
+    [
+      124,
+      56
+    ],
+    [
+      "Manchmal brauchen Sie auch ein Visum für Ihre Reise.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6920101046562195
+  ],
+  [
+    [
+      126,
+      56
+    ],
+    [
+      "Welchen Pass Sie für Ihre Reise brauchen, erfahren Sie beim Auswärtigen Amt .",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8096098899841309
+  ],
+  [
+    [
+      127,
+      55
+    ],
+    [
+      "Beim Auswärtigen Amt sagen Sie Ihnen: Ob Sie für Ihre Reise einen Reise-Pass brauchen, oder ob Sie ein Visum brauchen, oder ob ein Personal-Ausweis ausreicht.",
+      "Ob Sie für Ihr Reiseziel einen Reisepass oder ein Visum benötigen oder ob ein Personalausweis ausreicht, erfragen Sie bitte beim Auswärtigen Amt."
+    ],
+    0.8746037483215332
+  ],
+  [
+    [
+      128,
+      30
+    ],
+    [
+      "Wie viel kostet ein vorläufiger Reise-Pass?",
+      "Ein vorläufiger Reisepass ist ein Jahr gültig."
+    ],
+    0.9632714986801147
+  ],
+  [
+    [
+      129,
+      30
+    ],
+    [
+      "Ein vorläufiger Reise-Pass kostet 26 Euro .",
+      "Ein vorläufiger Reisepass ist ein Jahr gültig."
+    ],
+    0.962619960308075
+  ],
+  [
+    [
+      130,
+      0
+    ],
+    [
+      "Wenn Sie Ihren alten Reise-Pass verloren haben, dann müssen Sie zusätzlich 1,50 Euro für die Verlust-Anzeige bezahlen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.8516019582748413
+  ],
+  [
+    [
+      131,
+      56
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8244771361351013
+  ],
+  [
+    [
+      132,
+      50
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Sie enthalten Informationen und besondere Regelungen bezüglich der vorzulegenden Unterlagen, und Sie können dort bei Bedarf eine Einverständniserklärung des zweiten Elternteils herunterladen."
+    ],
+    0.8177695274353027
+  ],
+  [
+    [
+      133,
+      56
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7859480977058411
+  ],
+  [
+    [
+      134,
+      65
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.5984043478965759
+  ],
+  [
+    [
+      135,
+      56
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8191519975662231
+  ],
+  [
+    [
+      136,
+      56
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8267066478729248
+  ]
+]

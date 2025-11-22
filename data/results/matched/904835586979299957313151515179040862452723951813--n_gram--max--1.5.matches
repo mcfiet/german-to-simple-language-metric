@@ -1,0 +1,453 @@
+[
+  [
+    [
+      0,
+      26
+    ],
+    [
+      "Bei einer Vergiftung schädigt ein giftiger Stoff den Körper.",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.7959168553352356
+  ],
+  [
+    [
+      1,
+      26
+    ],
+    [
+      "Der giftige Stoff kann auf verschiedene Arten in den Körper gelangen:",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.7928637266159058
+  ],
+  [
+    [
+      7,
+      29
+    ],
+    [
+      "Personen vergiften sich zum Beispiel mit Medikamenten Reinigungsmitteln Pflanzenschutzmitteln Pflanzen",
+      "Nicht selten vergiften sie sich so zum Beispiel mit Haushaltsreinigern, Pflanzen oder Medikamenten."
+    ],
+    0.7884281873703003
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sie glauben:",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5792995691299438
+  ],
+  [
+    [
+      9,
+      35
+    ],
+    [
+      "Jemand hat eine Vergiftung?",
+      "Vergiftungsunfälle bei Kindern"
+    ],
+    0.8639016151428223
+  ],
+  [
+    [
+      13,
+      29
+    ],
+    [
+      "Eine Person hat sich vergiftet?",
+      "Nicht selten vergiften sie sich so zum Beispiel mit Haushaltsreinigern, Pflanzen oder Medikamenten."
+    ],
+    0.6668336987495422
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Dann nehmen Sie möglichst das Gift mit.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8301171660423279
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Sie können zum Beispiel die Medikamentenschachtel den Behälter oder ein Blatt von der Pflanze mitnehmen",
+      "Gefragt wird zum Beispiel nach der Bezeichnung des Mittels, Hersteller, Dosis, Name der Pflanze."
+    ],
+    0.4583926796913147
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Und Sie warten auf den Rettungswagen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5119740962982178
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Dann können Sie zusätzlich den Giftnotruf anrufen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.881646454334259
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Der Giftnotruf sagt Ihnen: Das müssen Sie bei einer Vergiftung tun.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8807704448699951
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Jedes Bundesland hat einen eigenen Giftnotruf.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8682132363319397
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Sie können den Giftnotruf jederzeit anrufen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8608812689781189
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Hier finden Sie eine Liste mit allen Nummern des Giftnotrufs: Berlin und Brandenburg Telefon: 030 / 19240 Nordrhein-Westfalen Telefon: 0228 / 19240 Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen Telefon: 0361 / 730730",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.6037464737892151
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Der Giftnotruf braucht einige Informationen von Ihnen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8595950603485107
+  ],
+  [
+    [
+      28,
+      1
+    ],
+    [
+      "Der Giftnotruf muss zum Beispiel wissen:",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8535637855529785
+  ],
+  [
+    [
+      29,
+      35
+    ],
+    [
+      "Hat sich ein Kind vergiftet?",
+      "Vergiftungsunfälle bei Kindern"
+    ],
+    0.7838032245635986
+  ],
+  [
+    [
+      30,
+      29
+    ],
+    [
+      "Oder hat sich ein Erwachsener vergiftet?",
+      "Nicht selten vergiften sie sich so zum Beispiel mit Haushaltsreinigern, Pflanzen oder Medikamenten."
+    ],
+    0.772153913974762
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Wann hat die betroffene Person das Gift eingenommen?",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.7313703894615173
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Der Giftnotruf fragt zum Beispiel nach dem Namen und dem Hersteller des Mittels.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8476775288581848
+  ],
+  [
+    [
+      38,
+      29
+    ],
+    [
+      "Eine Person hat sich mit einem Medikament vergiftet?",
+      "Nicht selten vergiften sie sich so zum Beispiel mit Haushaltsreinigern, Pflanzen oder Medikamenten."
+    ],
+    0.6661972403526306
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Dann fragt der Giftnotruf auch nach der Dosis des Medikaments.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8459083437919617
+  ],
+  [
+    [
+      45,
+      1
+    ],
+    [
+      "Der Giftnotruf muss Sie vielleicht zurückrufen Hinweis:",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8742987513542175
+  ],
+  [
+    [
+      46,
+      1
+    ],
+    [
+      "Manchmal müssen Sie sich selbst vor dem Gift schützen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8392167687416077
+  ],
+  [
+    [
+      47,
+      26
+    ],
+    [
+      "Zum Beispiel bei einer Vergiftung mit giftigen Pflanzenschutzmitteln.",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.7933103442192078
+  ],
+  [
+    [
+      48,
+      29
+    ],
+    [
+      "Eine Person hat sich mit Pflanzenschutzmitteln vergiftet?",
+      "Nicht selten vergiften sie sich so zum Beispiel mit Haushaltsreinigern, Pflanzen oder Medikamenten."
+    ],
+    0.6991219520568848
+  ],
+  [
+    [
+      49,
+      2
+    ],
+    [
+      "Dann tragen Sie Handschuhe und einen Mund-Nasen-Schutz.",
+      "Schildern Sie, was passiert ist."
+    ],
+    0.4434496760368347
+  ],
+  [
+    [
+      53,
+      17
+    ],
+    [
+      "Mehr Informationen über die stabile Seitenlage finden Sie hier .",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.5221527218818665
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.4937061667442322
+  ],
+  [
+    [
+      58,
+      26
+    ],
+    [
+      "Durch Erbrechen kann das Gift die Speiseröhre verletzen.",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.8476913571357727
+  ],
+  [
+    [
+      64,
+      1
+    ],
+    [
+      "Sie erst den Giftnotruf Geben Sie der betroffenen Person keine Milch zu trinken.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8184026479721069
+  ],
+  [
+    [
+      65,
+      26
+    ],
+    [
+      "Durch die Milch kann der Darm das Gift schneller aufnehmen Kinder vergiften sich häufig mit Reinigungsmitteln, Pflanzen oder Medikamenten",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.8022375106811523
+  ],
+  [
+    [
+      66,
+      35
+    ],
+    [
+      "Sie können Kinder vor einer Vergiftung schützen.",
+      "Vergiftungsunfälle bei Kindern"
+    ],
+    0.8514680862426758
+  ],
+  [
+    [
+      67,
+      17
+    ],
+    [
+      "Beachten Sie dafür diese Tipps:",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.5578321218490601
+  ],
+  [
+    [
+      68,
+      1
+    ],
+    [
+      "Lagern Sie gefährliche Mittel nie in Reichweite von Kindern Lagern Sie Medikamente immer in einem verschlossenen Behälter Lagern Sie giftige Mittel nie neben Lebensmitteln Füllen Sie giftige Mittel nicht in andere Verpackungen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.7711721658706665
+  ],
+  [
+    [
+      69,
+      1
+    ],
+    [
+      "Füllen Sie zum Beispiel keine giftigen Flüssigkeiten in Trinkflaschen.",
+      "Genaue Informationen erhalten Sie zudem bei einem der deutschen Giftnotrufe."
+    ],
+    0.8246158361434937
+  ],
+  [
+    [
+      71,
+      26
+    ],
+    [
+      "Und man kann den giftigen Stoff mit einem ungefährlichen Stoff verwechseln",
+      "Milch beschleunigt in vielen Fällen die Giftaufnahme aus dem Darm ."
+    ],
+    0.7106038928031921
+  ],
+  [
+    [
+      72,
+      35
+    ],
+    [
+      "Sie möchten mehr Informationen zu Vergiftungen bei Kindern bekommen?",
+      "Vergiftungsunfälle bei Kindern"
+    ],
+    0.8661170601844788
+  ],
+  [
+    [
+      73,
+      2
+    ],
+    [
+      "Dann klicken Sie hier .",
+      "Schildern Sie, was passiert ist."
+    ],
+    0.5361689329147339
+  ],
+  [
+    [
+      76,
+      35
+    ],
+    [
+      "Sie wollen noch mehr über Vergiftungen lesen?",
+      "Vergiftungsunfälle bei Kindern"
+    ],
+    0.8546838164329529
+  ],
+  [
+    [
+      77,
+      0
+    ],
+    [
+      "Mehr Informationen über Vergiftungen finden Sie hier.",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.853104829788208
+  ]
+]

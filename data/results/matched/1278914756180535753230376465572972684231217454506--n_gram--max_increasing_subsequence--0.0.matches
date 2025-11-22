@@ -1,0 +1,728 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Grippe ist eine ansteckende Krankheit.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.4439445436000824
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Fachwort für Grippe ist: Influenza.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.6684820652008057
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Grippe entsteht durch Viren.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.4299054443836212
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Viren werden durch Körper-Flüssigkeiten übertragen:",
+      "Es gibt verschiedene Typen von Influenza-Viren (A, B, C)."
+    ],
+    0.10185883939266205
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Eine Grippe ist kein grippaler Infekt.",
+      "Am häufigsten und am gefährlichsten ist das Influenza-Virus Typ A."
+    ],
+    0.007282251957803965
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Das Influenza-Virus wird über die Schleimhäute übertragen.",
+      "Am häufigsten und am gefährlichsten ist das Influenza-Virus Typ A."
+    ],
+    0.7784328460693359
+  ],
+  [
+    [
+      7,
+      9
+    ],
+    [
+      "Schleimhäute sind zum Beispiel in Mund oder Nase.",
+      "Sie befallen Schleimhautzellen, zum Beispiel in der Nase, und vermehren sich dort."
+    ],
+    0.3563627600669861
+  ],
+  [
+    [
+      8,
+      9
+    ],
+    [
+      "In den Schleimhäuten vermehren sich die Viren.",
+      "Sie befallen Schleimhautzellen, zum Beispiel in der Nase, und vermehren sich dort."
+    ],
+    0.3881821930408478
+  ],
+  [
+    [
+      9,
+      33
+    ],
+    [
+      "Und sie können dann übertragen werden beim:",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.1556311994791031
+  ],
+  [
+    [
+      10,
+      47
+    ],
+    [
+      "Niesen Husten",
+      "Inhalieren kann zum Beispiel bei Husten und einer laufenden Nase sinnvoll sein."
+    ],
+    0.14748476445674896
+  ],
+  [
+    [
+      11,
+      48
+    ],
+    [
+      "Händeschütteln",
+      "Glieder- und Kopfschmerzen lassen sich mit Schmerzmitteln lindern."
+    ],
+    0.02549179084599018
+  ],
+  [
+    [
+      12,
+      51
+    ],
+    [
+      "Sprechen Küssen",
+      "Wer fiebert und schwitzt sollte außerdem darauf achten, die verlorene Flüssigkeitsmenge durch ausreichendes Trinken wieder aufzunehmen."
+    ],
+    0.05688392370939255
+  ],
+  [
+    [
+      13,
+      51
+    ],
+    [
+      "Influenza-Viren überleben auch auf Gegenständen wie zum Beispiel Türklinken.",
+      "Wer fiebert und schwitzt sollte außerdem darauf achten, die verlorene Flüssigkeitsmenge durch ausreichendes Trinken wieder aufzunehmen."
+    ],
+    0.030019784346222878
+  ],
+  [
+    [
+      14,
+      52
+    ],
+    [
+      "Deshalb kann man sich mit den Viren auch dann anstecken, wenn man solche Gegenstände berührt.",
+      "Mit diesen allgemeinen Maßnahmen ist eine Infektion bei unkompliziertem Verlauf nach wenigen Tagen überstanden."
+    ],
+    0.02530040219426155
+  ],
+  [
+    [
+      15,
+      53
+    ],
+    [
+      "Ein Virus verursacht die Grippe.",
+      "Medikamente gegen Grippe"
+    ],
+    0.9430557489395142
+  ],
+  [
+    [
+      16,
+      55
+    ],
+    [
+      "Das Virus heißt: Influenza-Virus.",
+      "Oseltamivir und Zanamivir hemmen die Neuraminidase, eines der Oberflächenmoleküle des Virus."
+    ],
+    0.3086748421192169
+  ],
+  [
+    [
+      17,
+      57
+    ],
+    [
+      "Das Influenza-Virus ist ein Krankheitserreger.",
+      "Alle antiviralen Medikamente sollten bereits innerhalb von 48 Stunden nach Krankheitsbeginn eingenommen beziehungsweise angewandt werden."
+    ],
+    0.29073596000671387
+  ],
+  [
+    [
+      18,
+      60
+    ],
+    [
+      "Manche Personen bekommen schneller eine Grippe als andere.",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.6641491055488586
+  ],
+  [
+    [
+      19,
+      61
+    ],
+    [
+      "Diese Personen haben nämlich häufig ein schwächeres Immunsystem.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.1197585016489029
+  ],
+  [
+    [
+      20,
+      61
+    ],
+    [
+      "Deshalb können sie schneller an Grippe erkranken:",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.20039579272270203
+  ],
+  [
+    [
+      21,
+      61
+    ],
+    [
+      "Schwangere Babys Personen mit Diabetes oder anderen Stoffwechselkrankheiten.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.36438220739364624
+  ],
+  [
+    [
+      22,
+      61
+    ],
+    [
+      "Zu Diabetes sagt man auch Zuckerkrankheit.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.49957603216171265
+  ],
+  [
+    [
+      23,
+      61
+    ],
+    [
+      "Personen mit Tumor-Erkrankung",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.6321827173233032
+  ],
+  [
+    [
+      24,
+      61
+    ],
+    [
+      "Personen mit Lungen-Erkrankung",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.6300361156463623
+  ],
+  [
+    [
+      25,
+      61
+    ],
+    [
+      "Personen mit HIV-Erkrankung",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.6197441220283508
+  ],
+  [
+    [
+      26,
+      61
+    ],
+    [
+      "Personen mit Herz-Erkrankung",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.6107733845710754
+  ],
+  [
+    [
+      27,
+      61
+    ],
+    [
+      "Personen mit Unterernährung.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.12387806922197342
+  ],
+  [
+    [
+      28,
+      61
+    ],
+    [
+      "Personen über 65 Jahren",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.12920725345611572
+  ],
+  [
+    [
+      29,
+      61
+    ],
+    [
+      "Auch bestimmte Medikamente können das Immunsystem unterdrücken.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.05023433640599251
+  ],
+  [
+    [
+      31,
+      61
+    ],
+    [
+      "Die Anzeichen einer Grippe sind sehr plötzlich .",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.0069692060351371765
+  ],
+  [
+    [
+      32,
+      61
+    ],
+    [
+      "Betroffene fühlen sich dann schnell sehr krank.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.45215120911598206
+  ],
+  [
+    [
+      33,
+      61
+    ],
+    [
+      "Die Beschwerden sind:",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.17979423701763153
+  ],
+  [
+    [
+      35,
+      61
+    ],
+    [
+      "Sie denken:",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.06306500732898712
+  ],
+  [
+    [
+      37,
+      61
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.15359140932559967
+  ],
+  [
+    [
+      38,
+      61
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.18438325822353363
+  ],
+  [
+    [
+      40,
+      61
+    ],
+    [
+      "Danach geht es Ihnen langsam wieder besser.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.1190684512257576
+  ],
+  [
+    [
+      41,
+      61
+    ],
+    [
+      "Aber eine Grippe schwächt den Körper.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.001985318260267377
+  ],
+  [
+    [
+      42,
+      61
+    ],
+    [
+      "Deshalb können weitere Erkrankungen hinzukommen wie zum Beispiel: Lungen-Entzündung und schwerer Husten Ohren-Entzündung und Ohrenschmerzen Herzmuskel-Entzündung mit Atemnot",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.45572420954704285
+  ],
+  [
+    [
+      43,
+      61
+    ],
+    [
+      "Diese Folge-Erkrankungen können die Grippe gefährlich machen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.2346760779619217
+  ],
+  [
+    [
+      44,
+      61
+    ],
+    [
+      "Deshalb sollten Sie bei Grippe immer zum Arzt gehen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.0292075015604496
+  ],
+  [
+    [
+      45,
+      61
+    ],
+    [
+      "Sprechen Sie mit einem Arzt.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.14575378596782684
+  ],
+  [
+    [
+      46,
+      61
+    ],
+    [
+      "Der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.1459450125694275
+  ],
+  [
+    [
+      47,
+      61
+    ],
+    [
+      "Vielleicht verschreibt er Ihnen spezielle Medikamente gegen die Grippe.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.034142062067985535
+  ],
+  [
+    [
+      48,
+      61
+    ],
+    [
+      "Bei Grippe helfen vor allem: viel Ruhe viel trinken Achtung:",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.0020904859993606806
+  ],
+  [
+    [
+      49,
+      61
+    ],
+    [
+      "Manche Menschen mit Herzkrankheiten oder Nierenkrankheiten dürfen nur eine bestimmte Menge trinken.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.36188963055610657
+  ],
+  [
+    [
+      50,
+      61
+    ],
+    [
+      "Diese Menschen sollten deshalb vorher mit ihrem Arzt sprechen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.06068575009703636
+  ],
+  [
+    [
+      51,
+      61
+    ],
+    [
+      "Sie haben Husten und die Nase läuft?",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.0280056893825531
+  ],
+  [
+    [
+      53,
+      61
+    ],
+    [
+      "Sie haben starke Schmerzen?",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.11189154535531998
+  ],
+  [
+    [
+      54,
+      61
+    ],
+    [
+      "Dann können Medikamente helfen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.06048624590039253
+  ],
+  [
+    [
+      55,
+      61
+    ],
+    [
+      "Sie möchten eine Grippe vermeiden?",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.004529363475739956
+  ],
+  [
+    [
+      56,
+      61
+    ],
+    [
+      "Dann waschen Sie sich regelmäßig die Hände .",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.16006505489349365
+  ],
+  [
+    [
+      57,
+      61
+    ],
+    [
+      "Benutzen Sie zum Abtrocknen saubere Handtücher oder Papierhandtücher.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.17745459079742432
+  ],
+  [
+    [
+      58,
+      61
+    ],
+    [
+      "Gegen Grippe gibt es auch eine Impfung.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.005554175470024347
+  ],
+  [
+    [
+      60,
+      61
+    ],
+    [
+      "Deshalb muss eine Impfung gegen Grippe jedes Jahr erfolgen.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.0055075050331652164
+  ],
+  [
+    [
+      61,
+      61
+    ],
+    [
+      "Manche Menschen sollten sich auf jeden Fall gegen Grippe impfen lassen:",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.03687762841582298
+  ],
+  [
+    [
+      63,
+      61
+    ],
+    [
+      "Das sind Menschen mit der Zuckerkrankheit.",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.5176920890808105
+  ],
+  [
+    [
+      64,
+      61
+    ],
+    [
+      "Personen mit Immunschwäche",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.11655759066343307
+  ],
+  [
+    [
+      65,
+      61
+    ],
+    [
+      "Personen mit chronischer Lebererkrankung",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.6118152141571045
+  ],
+  [
+    [
+      66,
+      61
+    ],
+    [
+      "Personen mit chronischer Nierenerkrankung",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.5998936891555786
+  ],
+  [
+    [
+      67,
+      61
+    ],
+    [
+      "Personen mit Herzkrankheiten",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.3457928001880646
+  ],
+  [
+    [
+      68,
+      61
+    ],
+    [
+      "Personen mit Atemwegserkrankungen wie zum Beispiel",
+      "Bei Personen ohne Vorerkrankungen sind sie in der Regel nicht notwendig."
+    ],
+    0.6168546080589294
+  ],
+  [
+    [
+      69,
+      66
+    ],
+    [
+      "Asthma",
+      "Dazu zählen unter anderem Menschen mit Abwehrschwäche, Diabetes oder chronischen Leber-, Nieren-, Herz- oder Atemwegskrankheiten wie Asthma oder COPD."
+    ],
+    0.10533913969993591
+  ],
+  [
+    [
+      70,
+      73
+    ],
+    [
+      "Sie wollen noch mehr über Grippe lesen?",
+      "Bei Erkältungs- und Grippeepidemien kann es sinnvoll sein, auf die Begrüßung per Handschlag zu verzichten, um einer möglichen Ansteckung vorzubeugen."
+    ],
+    0.7712281942367554
+  ],
+  [
+    [
+      71,
+      73
+    ],
+    [
+      "Mehr Informationen über Grippe finden Sie hier .",
+      "Bei Erkältungs- und Grippeepidemien kann es sinnvoll sein, auf die Begrüßung per Handschlag zu verzichten, um einer möglichen Ansteckung vorzubeugen."
+    ],
+    0.7558483481407166
+  ],
+  [
+    [
+      72,
+      73
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Bei Erkältungs- und Grippeepidemien kann es sinnvoll sein, auf die Begrüßung per Handschlag zu verzichten, um einer möglichen Ansteckung vorzubeugen."
+    ],
+    0.13371533155441284
+  ],
+  [
+    [
+      73,
+      74
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Hände richtig waschen – unser Video zeigt, wie das geht:"
+    ],
+    0.06631156802177429
+  ]
+]

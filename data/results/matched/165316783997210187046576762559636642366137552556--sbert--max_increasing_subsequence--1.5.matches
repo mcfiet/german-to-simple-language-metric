@@ -1,0 +1,541 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie sind Schüler oder Schüler-in?",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.6712250709533691
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie haben wenig Geld zum Leben?",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.6482417583465576
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Wenn Sie eine förderungs-fähige Schule besuchen, dann können Sie Geld vom Amt bekommen.",
+      "Dann haben Sie möglicherweise einen Anspruch auf Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), wenn Sie eine förderungsfähige Ausbildungsstätte (Schule) besuchen."
+    ],
+    0.7889204025268555
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Dazu sagen wir: Ausbildungs-Förderung .",
+      "Dann haben Sie möglicherweise einen Anspruch auf Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), wenn Sie eine förderungsfähige Ausbildungsstätte (Schule) besuchen."
+    ],
+    0.6485299468040466
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Das steht für: Bundes-Ausbildungs-Förderungs-Gesetz .",
+      "Dann haben Sie möglicherweise einen Anspruch auf Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), wenn Sie eine förderungsfähige Ausbildungsstätte (Schule) besuchen."
+    ],
+    0.7616376876831055
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Alle sollen sich ihren Beruf selbst aussuchen .",
+      "Damit soll Ihnen - unabhängig von der wirtschaftlichen Situation Ihrer Familie - die Ausbildung ermöglicht werden, für die Sie sich nach Ihren Interessen und Fähigkeiten entschieden haben."
+    ],
+    0.6456140279769897
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Alle sollen selbst bestimmen können, was sie lernen und arbeiten wollen.",
+      "Damit soll Ihnen - unabhängig von der wirtschaftlichen Situation Ihrer Familie - die Ausbildung ermöglicht werden, für die Sie sich nach Ihren Interessen und Fähigkeiten entschieden haben."
+    ],
+    0.719632625579834
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Alle sollen die Ausbildung machen , die sie machen wollen und können.",
+      "Damit soll Ihnen - unabhängig von der wirtschaftlichen Situation Ihrer Familie - die Ausbildung ermöglicht werden, für die Sie sich nach Ihren Interessen und Fähigkeiten entschieden haben."
+    ],
+    0.7260538339614868
+  ],
+  [
+    [
+      13,
+      12
+    ],
+    [
+      "Was sind förderungs-fähige Schulen?",
+      "Übersicht der Schulformen, für die BAföG gewährt werden kann weiterführende allgemeinbildende Schulen (nur unter besonderen Voraussetzungen)"
+    ],
+    0.6915443539619446
+  ],
+  [
+    [
+      14,
+      12
+    ],
+    [
+      "Förderungs-fähige Schulen bedeutet:",
+      "Übersicht der Schulformen, für die BAföG gewährt werden kann weiterführende allgemeinbildende Schulen (nur unter besonderen Voraussetzungen)"
+    ],
+    0.7296206951141357
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Für die Schulen können Sie BAföG bekommen :",
+      "Übersicht der Schulformen, für die BAföG gewährt werden kann weiterführende allgemeinbildende Schulen (nur unter besonderen Voraussetzungen)"
+    ],
+    0.660009503364563
+  ],
+  [
+    [
+      16,
+      12
+    ],
+    [
+      "Weiter-führende Schulen",
+      "Übersicht der Schulformen, für die BAföG gewährt werden kann weiterführende allgemeinbildende Schulen (nur unter besonderen Voraussetzungen)"
+    ],
+    0.709221363067627
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Berufs-Aufbau-Schulen Fach-Ober-Schulen mit abgeschlossener Berufs-Ausbildung",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.7505123615264893
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Fach-Schulen mit abgeschlossener Berufs-Ausbildung",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.7688312530517578
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Berufs-Fach-Schulen: ab Klasse 10 Fach-Schulen und Fach-Ober-Schulen ohne abgeschlossene Berufs-Ausbildung",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.8017159700393677
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Berufs-Fach-Schulen und Fach-Schulen: ab Klasse 11 ohne abgeschlossene Berufs-Ausbildung",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.7821457386016846
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Wenn die Ausbildung mindestens 2 Jahre dauert.",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.605492353439331
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Wenn Sie einen berufs-qualifizierenden Abschluss bekommen.",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.5659976005554199
+  ],
+  [
+    [
+      24,
+      13
+    ],
+    [
+      "Abend-Haupt-Schulen",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.5465611219406128
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Abend-Real-Schulen ab dem 3. Semester also: ab dem 13. Monat",
+      "Berufsfachschulen ab Klasse 10 (nur unter besonderen Voraussetzungen) Fach- und Fachoberschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen (nur unter besonderen Voraussetzungen) Berufsfach- und Fachschulklassen, die eine abgeschlossene Berufsausbildung nicht voraussetzen, ab Klasse 11, sofern sie in einem zumindest zweijährigen Bildungsgang einen berufsqualifizierenden Abschluss vermitteln Abendhaupt- und Abendrealschulen Berufsaufbauschulen Fachoberschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Fachschulklassen, die eine abgeschlossene Berufsausbildung voraussetzen Abendgymnasium"
+    ],
+    0.5637006163597107
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Abend-Gymnasium ab dem 4. Semester also: ab dem 19. Monat Kolleg",
+      "Vorsprache"
+    ],
+    0.6725177764892578
+  ],
+  [
+    [
+      32,
+      15
+    ],
+    [
+      "Sie müssen uns diese Papiere schicken:",
+      "Vorsprache"
+    ],
+    0.5988115668296814
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Dazu sagen wir auch: Haupt-Antrag .",
+      "Vorsprache"
+    ],
+    0.6412964463233948
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Dann müssen Sie uns das Form-Blatt zuschicken .",
+      "Vorsprache"
+    ],
+    0.6264284253120422
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Wichtig: Sie müssen alle Angaben belegen .",
+      "Vorsprache"
+    ],
+    0.5420077443122864
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Dass alle Angaben im Antrag richtig sind.",
+      "Vorsprache"
+    ],
+    0.6028318405151367
+  ],
+  [
+    [
+      46,
+      15
+    ],
+    [
+      "Werdegang",
+      "Vorsprache"
+    ],
+    0.691762387752533
+  ],
+  [
+    [
+      50,
+      15
+    ],
+    [
+      "Dazu sagen wir auch: Werde-gang .",
+      "Vorsprache"
+    ],
+    0.6763628721237183
+  ],
+  [
+    [
+      56,
+      15
+    ],
+    [
+      "Dann müssen Sie uns die Anlage zuschicken .",
+      "Vorsprache"
+    ],
+    0.5754863023757935
+  ],
+  [
+    [
+      59,
+      15
+    ],
+    [
+      "Form-Blatt 2: Schul-Bescheinigung",
+      "Vorsprache"
+    ],
+    0.6026833057403564
+  ],
+  [
+    [
+      61,
+      15
+    ],
+    [
+      "Dazu sagen wir auch: Schul-Bescheinigung .",
+      "Vorsprache"
+    ],
+    0.5511566400527954
+  ],
+  [
+    [
+      62,
+      15
+    ],
+    [
+      "Sie müssen uns das Form-Blatt zuschicken .",
+      "Vorsprache"
+    ],
+    0.613750696182251
+  ],
+  [
+    [
+      71,
+      15
+    ],
+    [
+      "Dann müssen Sie uns das Form-Blatt zuschicken .",
+      "Vorsprache"
+    ],
+    0.6264284253120422
+  ],
+  [
+    [
+      78,
+      15
+    ],
+    [
+      "Achtung:",
+      "Vorsprache"
+    ],
+    0.7004722356796265
+  ],
+  [
+    [
+      86,
+      16
+    ],
+    [
+      "Sie müssen nicht ins Amt.",
+      "Eine persönliche Vorsprache ist nicht zwingend erforderlich."
+    ],
+    0.658645510673523
+  ],
+  [
+    [
+      93,
+      16
+    ],
+    [
+      "Sie müssen nicht persönlich zu uns kommen.",
+      "Eine persönliche Vorsprache ist nicht zwingend erforderlich."
+    ],
+    0.6789286732673645
+  ],
+  [
+    [
+      94,
+      17
+    ],
+    [
+      "Aber manchmal kann ein Gespräch helfen.",
+      "Zur Klärung individueller Fragen ist aber im Einzelfall eine persönliche Vorsprache sinnvoll."
+    ],
+    0.6134108901023865
+  ],
+  [
+    [
+      95,
+      17
+    ],
+    [
+      "Zum Beispiel: Wenn Sie Fragen haben.",
+      "Zur Klärung individueller Fragen ist aber im Einzelfall eine persönliche Vorsprache sinnvoll."
+    ],
+    0.6793105602264404
+  ],
+  [
+    [
+      96,
+      17
+    ],
+    [
+      "Wenn Sie eine Beratung brauchen.",
+      "Zur Klärung individueller Fragen ist aber im Einzelfall eine persönliche Vorsprache sinnvoll."
+    ],
+    0.642857551574707
+  ],
+  [
+    [
+      97,
+      18
+    ],
+    [
+      "Sie können den Antrag mit allen Papieren mit der Post schicken .",
+      "Sie können den ausgefüllten Antrag mit allen weiteren Unterlagen dem Amt für Ausbildungsförderung mit der Post zuschicken oder in einen fristwahrenden Briefkasten der Stadt Köln einwerfen."
+    ],
+    0.7392769455909729
+  ],
+  [
+    [
+      104,
+      18
+    ],
+    [
+      "Wichtig: Sie müssen den Antrag bis zur Frist in den Brief-Kasten werfen.",
+      "Sie können den ausgefüllten Antrag mit allen weiteren Unterlagen dem Amt für Ausbildungsförderung mit der Post zuschicken oder in einen fristwahrenden Briefkasten der Stadt Köln einwerfen."
+    ],
+    0.6141414642333984
+  ],
+  [
+    [
+      105,
+      19
+    ],
+    [
+      "Wir sagen Ihnen dann: Ob wir Ihren Antrag bekommen haben.",
+      "Sie werden dann über den Antragseingang und eventuell fehlende oder unvollständige Unterlagen informiert."
+    ],
+    0.5701606273651123
+  ],
+  [
+    [
+      109,
+      19
+    ],
+    [
+      "Wenn Sie Ihren Antrag beim Amt abgeben.",
+      "Sie werden dann über den Antragseingang und eventuell fehlende oder unvollständige Unterlagen informiert."
+    ],
+    0.6863383650779724
+  ],
+  [
+    [
+      111,
+      23
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.7218570113182068
+  ],
+  [
+    [
+      114,
+      23
+    ],
+    [
+      "In dem Gesetz steht:",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.7603411674499512
+  ],
+  [
+    [
+      116,
+      25
+    ],
+    [
+      "Wichtig: Die Ausbildung soll zu Ihnen passen.",
+      "Die Ausbildung muss dem Grunde nach förderungsfähig sein und der Antragsteller die persönlichen Voraussetzungen erfüllen."
+    ],
+    0.8049116134643555
+  ],
+  [
+    [
+      118,
+      25
+    ],
+    [
+      "Die Ausbildung muss förderungs-fähig sein.",
+      "Die Ausbildung muss dem Grunde nach förderungsfähig sein und der Antragsteller die persönlichen Voraussetzungen erfüllen."
+    ],
+    0.8251497745513916
+  ],
+  [
+    [
+      121,
+      25
+    ],
+    [
+      "Sie müssen die Voraussetzungen erfüllen.",
+      "Die Ausbildung muss dem Grunde nach förderungsfähig sein und der Antragsteller die persönlichen Voraussetzungen erfüllen."
+    ],
+    0.6662411689758301
+  ],
+  [
+    [
+      125,
+      25
+    ],
+    [
+      "Amt für Ausbildungsförderung",
+      "Die Ausbildung muss dem Grunde nach förderungsfähig sein und der Antragsteller die persönlichen Voraussetzungen erfüllen."
+    ],
+    0.7223985195159912
+  ]
+]

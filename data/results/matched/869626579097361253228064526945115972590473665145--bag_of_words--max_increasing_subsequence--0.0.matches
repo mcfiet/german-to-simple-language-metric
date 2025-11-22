@@ -1,0 +1,255 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Auf dem Boden vom Fußball·feld muss Gras sein.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.008526870049536228
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Gras darf auch aus Plastik sein.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.025261301547288895
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Aber nur wenn es erlaubtes Gras aus Plastik ist.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.012664252892136574
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Das Gras muss entweder echt sein oder aus Plastik.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.037374865263700485
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Hauptsache das Gras ist grün.",
+      "Kunstrasenfelder sind grün."
+    ],
+    0.07110770791769028
+  ],
+  [
+    [
+      6,
+      4
+    ],
+    [
+      "Das Fußball·feld hat vier Ecken.",
+      "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf."
+    ],
+    0.04186778515577316
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Auf dem Fußball·feld sind viele Linien.",
+      "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf."
+    ],
+    0.10920721292495728
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Die Linien dürfen keinem wehtun.",
+      "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf."
+    ],
+    0.18737177550792694
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Manchmal geht die Stange vom Tor kaputt.",
+      "(…) Falls die Querlatte verschoben wird oder bricht, wird das Spiel unterbrochen, bis sie repariert oder wieder in die richtige Lage gebracht wurde."
+    ],
+    0.014707219786942005
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Dann muss die Stange repariert werden.",
+      "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden."
+    ],
+    0.27606528997421265
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Aber manchmal klappt das nicht.",
+      "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden."
+    ],
+    0.08959615975618362
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Dann ist das Spiel für heute zu Ende.",
+      "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden."
+    ],
+    0.36073172092437744
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Die Fahnen sollen bunt sein.",
+      "(…) Es sind möglichst Fahnen in lebhafter Farbe zu verwenden."
+    ],
+    0.2318023145198822
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Das Tor darf silbern sein.",
+      "Sämtliche Bälle müssen kugelförmig sein."
+    ],
+    0.029222508892416954
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "Die Fußbälle müssen rund sein.",
+      "Sämtliche Bälle müssen kugelförmig sein."
+    ],
+    0.10619449615478516
+  ],
+  [
+    [
+      16,
+      10
+    ],
+    [
+      "Manchmal verliert ein Spieler aus Versehen einen Schuh.",
+      "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen."
+    ],
+    0.6766434907913208
+  ],
+  [
+    [
+      17,
+      10
+    ],
+    [
+      "Dann muss er den Schuh ganz schnell wieder anziehen.",
+      "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen."
+    ],
+    0.09321270883083344
+  ],
+  [
+    [
+      19,
+      12
+    ],
+    [
+      "Vielleicht schießt der Spieler vorher sogar ein Tor.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.8320850133895874
+  ],
+  [
+    [
+      20,
+      12
+    ],
+    [
+      "Dann zählt das Tor trotzdem.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.39069435000419617
+  ],
+  [
+    [
+      21,
+      12
+    ],
+    [
+      "Manchmal schießt ein Spieler ein Tor.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.8034409880638123
+  ],
+  [
+    [
+      22,
+      12
+    ],
+    [
+      "Dann dürfen sich alle Spieler freuen.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.8159459829330444
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Aber sie sollen nicht doll tanzen oder trödeln.",
+      "„Choreografierte“ Jubelszenen werden aber nicht gefördert und dürfen zu keiner übermäßigen Zeitverzögerung führen."
+    ],
+    0.03680087625980377
+  ],
+  [
+    [
+      24,
+      15
+    ],
+    [
+      "Manchmal rennen Spieler vor Freude vom Platz.",
+      "Die Spieler sind gehalten, so rasch wie möglich zurückzukehren."
+    ],
+    0.8101279735565186
+  ]
+]

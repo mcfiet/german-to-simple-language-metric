@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      11
+    ],
+    [
+      "Fieber ist eine deutlich erhöhte Körpertemperatur.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.6707473397254944
+  ],
+  [
+    [
+      1,
+      11
+    ],
+    [
+      "Normalerweise liegt die Körpertemperatur beim Menschen zwischen 36,5 und 37,5 Grad.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.6707625985145569
+  ],
+  [
+    [
+      2,
+      11
+    ],
+    [
+      "Die Körpertemperatur einer Person ist höher als 38 Grad?",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.6657736897468567
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Dann hat die Person Fieber.",
+      "Bei Fieber schwanken die Werte ebenfalls tageszeitabhängig."
+    ],
+    0.7300442457199097
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Hinweis: Ältere Menschen haben eine niedrigere Körpertemperatur.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.7389065027236938
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Deshalb haben ältere Menschen schon ab einer Temperatur von 37,8 Grad Fieber.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.4611786901950836
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Fieber ist keine Krankheit.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.7083960175514221
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Fieber ist eine wichtige Schutzreaktion des Körpers.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.6208892464637756
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "Die erhöhte Temperatur hilft gegen schädliche Bakterien und Viren.",
+      "Die Temperatur lässt sich digital ablesen."
+    ],
+    0.7406543493270874
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Deshalb ist Fieber oft ein Anzeichen für eine Entzündung im Körper.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.6561301946640015
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Fieber kann aber auch gefährlich werden.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.6423032879829407
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Ist die Körpertemperatur einer erwachsenen Person 39 Grad und höher?",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.6650130152702332
+  ],
+  [
+    [
+      12,
+      36
+    ],
+    [
+      "Dann sollte diese Person zum Arzt gehen.",
+      "Wichtig: Das Kind sollte vorher nicht auf dem jeweiligen Ohr liegen."
+    ],
+    0.04092755168676376
+  ],
+  [
+    [
+      13,
+      21
+    ],
+    [
+      "Sie wollen wissen:",
+      "Sie in der Apotheke"
+    ],
+    0.720361053943634
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Habe ich Fieber?",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.6433281898498535
+  ],
+  [
+    [
+      15,
+      27
+    ],
+    [
+      "Dann können Sie Ihre Körpertemperatur mit einem Fieber-Thermometer messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6661391258239746
+  ],
+  [
+    [
+      16,
+      24
+    ],
+    [
+      "Es gibt verschiedene Fieber-Thermometer.",
+      "Dabei kann es allerdings auch zu Fehlmessungen kommen."
+    ],
+    0.009626074694097042
+  ],
+  [
+    [
+      18,
+      12
+    ],
+    [
+      "Kontakt-Thermometer und Infrarot-Thermometer.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.24900229275226593
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Ein Kontakt-Thermometer misst die Körpertemperatur direkt auf der Haut .",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.5819553732872009
+  ],
+  [
+    [
+      20,
+      12
+    ],
+    [
+      "Dabei berührt das Thermometer die Haut.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.6772031188011169
+  ],
+  [
+    [
+      21,
+      12
+    ],
+    [
+      "Die meisten Kontakt-Thermometer sind digital.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.3338783383369446
+  ],
+  [
+    [
+      22,
+      12
+    ],
+    [
+      "Das bedeutet: Die Temperatur wird auf einem kleinen Bildschirm am Thermometer angezeigt.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.6789731383323669
+  ],
+  [
+    [
+      23,
+      12
+    ],
+    [
+      "Das Thermometer funktioniert mit einer Batterie.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.7225673794746399
+  ],
+  [
+    [
+      24,
+      2
+    ],
+    [
+      "Ein Infrarot-Thermometer misst die Infrarot-Strahlung des Körpers.",
+      "Zunächst drosselt der Körper dabei die Durchblutung an Beinen und Armen, damit es im Körperinneren wärmer wird – deshalb die kalten Füße und Hände."
+    ],
+    0.2126110941171646
+  ],
+  [
+    [
+      25,
+      11
+    ],
+    [
+      "Dann berechnet das Thermometer die Körpertemperatur.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.5118799209594727
+  ],
+  [
+    [
+      26,
+      12
+    ],
+    [
+      "Dabei berührt das Thermometer nicht die Haut.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.6755256056785583
+  ],
+  [
+    [
+      27,
+      27
+    ],
+    [
+      "Ein Infrarot-Thermometer braucht nur wenige Sekunden zum Messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7064966559410095
+  ],
+  [
+    [
+      28,
+      13
+    ],
+    [
+      "Infrarot-Thermometer sind auch digital.",
+      "Die Temperatur lässt sich digital ablesen."
+    ],
+    0.033065859228372574
+  ],
+  [
+    [
+      29,
+      27
+    ],
+    [
+      "Sie können Ihre Körpertemperatur an verschiedenen Körperstellen messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6762559413909912
+  ],
+  [
+    [
+      30,
+      30
+    ],
+    [
+      "Geeignet sind: After Mund",
+      "Die Messung im Mund ist - korrekt durchgeführt - relativ verlässlich."
+    ],
+    0.09253118187189102
+  ],
+  [
+    [
+      31,
+      31
+    ],
+    [
+      "Achsel",
+      "Bei einer Messung unter der Achsel können Abweichungen von bis zu zwei Grad entstehen."
+    ],
+    0.18634268641471863
+  ],
+  [
+    [
+      32,
+      36
+    ],
+    [
+      "Ohr",
+      "Wichtig: Das Kind sollte vorher nicht auf dem jeweiligen Ohr liegen."
+    ],
+    0.6129838228225708
+  ],
+  [
+    [
+      33,
+      23
+    ],
+    [
+      "Stirn",
+      "Stirnthermometer: Auch hier messen Infrarotstrahlen die Temperatur, aber an der Stirn."
+    ],
+    0.12235540896654129
+  ],
+  [
+    [
+      34,
+      27
+    ],
+    [
+      "So messen Sie richtig am After :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8254948258399963
+  ],
+  [
+    [
+      35,
+      27
+    ],
+    [
+      "Am After können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6105256080627441
+  ],
+  [
+    [
+      36,
+      28
+    ],
+    [
+      "Fetten Sie die Spitze des Thermometers mit einer fettigen Creme ein.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.3740698993206024
+  ],
+  [
+    [
+      37,
+      22
+    ],
+    [
+      "Dafür eignet sich zum Beispiel Vaseline.",
+      "nach einem Gerät, das sich für das Alter des Kindes eignet."
+    ],
+    0.1428188979625702
+  ],
+  [
+    [
+      38,
+      28
+    ],
+    [
+      "Legen Sie sich am besten auf die Seite oder auf den Rücken.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.577918529510498
+  ],
+  [
+    [
+      39,
+      28
+    ],
+    [
+      "Dann führen Sie die Spitze des Thermometers in den After ein.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.3413313925266266
+  ],
+  [
+    [
+      40,
+      25
+    ],
+    [
+      "Die Messung am After ist sehr genau.",
+      "Die Po-Methode ist am genauesten."
+    ],
+    0.4568643271923065
+  ],
+  [
+    [
+      41,
+      27
+    ],
+    [
+      "So messen Sie richtig im Mund :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8472811579704285
+  ],
+  [
+    [
+      42,
+      27
+    ],
+    [
+      "Im Mund können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6191828846931458
+  ],
+  [
+    [
+      43,
+      27
+    ],
+    [
+      "Trinken Sie 30 Minuten vor dem Messen keine kalten oder warmen Getränke.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8553124666213989
+  ],
+  [
+    [
+      44,
+      27
+    ],
+    [
+      "Und essen Sie 30 Minuten vor dem Messen keine kalten oder warmen Speisen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8540911674499512
+  ],
+  [
+    [
+      45,
+      28
+    ],
+    [
+      "Legen Sie die Spitze des Thermometers unter die Zunge.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.490617960691452
+  ],
+  [
+    [
+      46,
+      28
+    ],
+    [
+      "Schließen Sie während des Messens die Lippen.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.5638777017593384
+  ],
+  [
+    [
+      47,
+      21
+    ],
+    [
+      "Hinweis: Sie haben Schnupfen?",
+      "Sie in der Apotheke"
+    ],
+    0.6730368137359619
+  ],
+  [
+    [
+      48,
+      28
+    ],
+    [
+      "Oder Sie können nicht gut durch die Nase atmen?",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.6257505416870117
+  ],
+  [
+    [
+      49,
+      27
+    ],
+    [
+      "Dann messen Sie die Körpertemperatur nicht im Mund.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6623619198799133
+  ],
+  [
+    [
+      50,
+      27
+    ],
+    [
+      "So messen Sie richtig unter der Achsel :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8480371236801147
+  ],
+  [
+    [
+      51,
+      27
+    ],
+    [
+      "Unter der Achsel können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6237339973449707
+  ],
+  [
+    [
+      52,
+      28
+    ],
+    [
+      "Legen Sie die Spitze des Thermometers in die Achselhöhle.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.47082802653312683
+  ],
+  [
+    [
+      53,
+      21
+    ],
+    [
+      "Dann legen sie den Arm dicht an den Körper an.",
+      "Sie in der Apotheke"
+    ],
+    0.5288997292518616
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "So messen Sie richtig im Ohr :",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.8126511573791504
+  ],
+  [
+    [
+      55,
+      36
+    ],
+    [
+      "Für das Fiebermessen im Ohr brauchen Sie ein Ohr-Thermometer.",
+      "Wichtig: Das Kind sollte vorher nicht auf dem jeweiligen Ohr liegen."
+    ],
+    0.4914918541908264
+  ],
+  [
+    [
+      56,
+      16
+    ],
+    [
+      "Das Ohr-Thermometer ist ein besonderes Infrarot-Thermometer.",
+      "Ohrthermometer:"
+    ],
+    0.39592835307121277
+  ],
+  [
+    [
+      57,
+      36
+    ],
+    [
+      "Ziehen Sie das Ohr während des Messens mit der Hand leicht nach hinten oben.",
+      "Wichtig: Das Kind sollte vorher nicht auf dem jeweiligen Ohr liegen."
+    ],
+    0.5327689051628113
+  ],
+  [
+    [
+      58,
+      1
+    ],
+    [
+      "So weitet sich der Gehörgang.",
+      "So wehrt der Organismus Infekte besser ab."
+    ],
+    0.18526342511177063
+  ],
+  [
+    [
+      59,
+      27
+    ],
+    [
+      "Führen Sie das Thermometer zum Messen in den Gehörgang ein.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6908435821533203
+  ],
+  [
+    [
+      60,
+      16
+    ],
+    [
+      "Die meisten Ohrthermometer haben eine Schutzkappe.",
+      "Ohrthermometer:"
+    ],
+    0.5755411386489868
+  ],
+  [
+    [
+      61,
+      25
+    ],
+    [
+      "Die Schutzkappe ist wichtig:",
+      "Die Po-Methode ist am genauesten."
+    ],
+    0.4505501985549927
+  ],
+  [
+    [
+      62,
+      12
+    ],
+    [
+      "Ohne die Schutzkappe misst das Thermometer nicht.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.6535005569458008
+  ],
+  [
+    [
+      63,
+      36
+    ],
+    [
+      "Hinweis: Sie liegen vor dem Fiebermessen auf einem Ohr?",
+      "Wichtig: Das Kind sollte vorher nicht auf dem jeweiligen Ohr liegen."
+    ],
+    0.5054191946983337
+  ],
+  [
+    [
+      64,
+      36
+    ],
+    [
+      "Dann ist das Ohr meist wärmer.",
+      "Wichtig: Das Kind sollte vorher nicht auf dem jeweiligen Ohr liegen."
+    ],
+    0.6444606781005859
+  ],
+  [
+    [
+      65,
+      33
+    ],
+    [
+      "Messen Sie die Körpertemperatur deshalb in dem anderen Ohr.",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.6574963331222534
+  ],
+  [
+    [
+      66,
+      27
+    ],
+    [
+      "So messen Sie richtig an der Stirn :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8278208374977112
+  ],
+  [
+    [
+      67,
+      27
+    ],
+    [
+      "An der Stirn können Sie die Körpertemperatur mit einem Infrarot-Thermometer messen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6075291037559509
+  ],
+  [
+    [
+      68,
+      27
+    ],
+    [
+      "Halten Sie das Thermometer zum Messen an die Stirn.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.6666234135627747
+  ],
+  [
+    [
+      69,
+      12
+    ],
+    [
+      "Das Thermometer berührt die Stirn dabei nicht.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.6313316226005554
+  ],
+  [
+    [
+      70,
+      21
+    ],
+    [
+      "Sie wollen noch mehr über das Fiebermessen lesen?",
+      "Sie in der Apotheke"
+    ],
+    0.5177643895149231
+  ],
+  [
+    [
+      71,
+      21
+    ],
+    [
+      "Mehr Informationen finden Sie hier .",
+      "Sie in der Apotheke"
+    ],
+    0.7187398672103882
+  ],
+  [
+    [
+      72,
+      11
+    ],
+    [
+      "Achtung : Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.008392073214054108
+  ],
+  [
+    [
+      73,
+      2
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Zunächst drosselt der Körper dabei die Durchblutung an Beinen und Armen, damit es im Körperinneren wärmer wird – deshalb die kalten Füße und Hände."
+    ],
+    0.5459175109863281
+  ]
+]

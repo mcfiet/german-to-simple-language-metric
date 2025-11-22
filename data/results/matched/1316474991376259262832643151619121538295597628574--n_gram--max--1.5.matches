@@ -1,0 +1,706 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Die Pille ist ein Verhütungsmittel.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9140187501907349
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Die Pille schützt vor einer Schwangerschaft.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9135453104972839
+  ],
+  [
+    [
+      2,
+      27
+    ],
+    [
+      "Es gibt verschiedene Arten der Pille.",
+      "Dementsprechend heißen solche Pillen Ovulationshemmer."
+    ],
+    0.8922080397605896
+  ],
+  [
+    [
+      3,
+      141
+    ],
+    [
+      "Es gibt zum Beispiel die Mikropille.",
+      "Letzteres ist eine Gegenanzeige für die Mikropille ."
+    ],
+    0.9257273077964783
+  ],
+  [
+    [
+      4,
+      54
+    ],
+    [
+      "Und es gibt die Minipille.",
+      "Anders die Desogestrel enthaltende Minipille:"
+    ],
+    0.8957486152648926
+  ],
+  [
+    [
+      6,
+      38
+    ],
+    [
+      "Die Mikropille enthält die Hormone Gestagen und Östrogen.",
+      "Im Wesentlichen sind es heute niedrig dosierte Kombinationspillen mit Östrogen und Gestagen ( Mikropillen )."
+    ],
+    0.8986819982528687
+  ],
+  [
+    [
+      7,
+      38
+    ],
+    [
+      "Deshalb nennt man die Mikropille auch: Kombinationspille.",
+      "Im Wesentlichen sind es heute niedrig dosierte Kombinationspillen mit Östrogen und Gestagen ( Mikropillen )."
+    ],
+    0.9129376411437988
+  ],
+  [
+    [
+      8,
+      220
+    ],
+    [
+      "Die Minipille enthält nur das Hormon Gestagen.",
+      "Bei der herkömmlichen Minipille liegt er zwischen 0,5 und 3 bis 4."
+    ],
+    0.8884999752044678
+  ],
+  [
+    [
+      12,
+      29
+    ],
+    [
+      "In die Gebärmutter-Schleimhaut kann sich die befruchtete Eizelle einnisten und so ein Baby entstehen.",
+      "Die Spermien können im Prinzip nicht mehr in die Gebärmutter gelangen."
+    ],
+    0.5886030197143555
+  ],
+  [
+    [
+      14,
+      29
+    ],
+    [
+      "Dann wird die Gebärmutter-Schleimhaut in diesem Monat nicht gebraucht.",
+      "Die Spermien können im Prinzip nicht mehr in die Gebärmutter gelangen."
+    ],
+    0.5957335829734802
+  ],
+  [
+    [
+      18,
+      2
+    ],
+    [
+      "Das nennt man auch: weiblicher Zyklus.",
+      "Um das zu verstehen, muss man zunächst wissen, was ein natürlicher Zyklus ist."
+    ],
+    0.5600239038467407
+  ],
+  [
+    [
+      19,
+      9
+    ],
+    [
+      "Während des weiblichen Zyklus produziert der Körper Geschlechtshormone.",
+      "Die Eierstöcke werden zyklusabhängig von den Hormonen FSH (follikelstimulierendes Hormon) und LH (luteinisierendes Hormon) aus der Hirnanhangdrüse gesteuert."
+    ],
+    0.544214129447937
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Die Geschlechtshormone sind Östrogen und Gestagen.",
+      "Die weiblichen Geschlechtshormone – Östrogene und Gestagene (Progesteron) – regeln den Menstruationszyklus."
+    ],
+    0.715276300907135
+  ],
+  [
+    [
+      21,
+      180
+    ],
+    [
+      "In der Pille sind künstliche Geschlechtshormone.",
+      "Der Blutdruck steigt womöglich unter der Pille an."
+    ],
+    0.8878874778747559
+  ],
+  [
+    [
+      22,
+      43
+    ],
+    [
+      "Die künstlichen Geschlechtshormone verändern den natürlichen Zyklus der Frau.",
+      "Dahinter steht die Idee, dass dies dem natürlichen Zyklus der Frau nahekommt."
+    ],
+    0.5525887608528137
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Sie nehmen die Pille?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.911677896976471
+  ],
+  [
+    [
+      26,
+      29
+    ],
+    [
+      "Und die Schleimhaut in Ihrer Gebärmutter baut sich nicht mehr auf.",
+      "Die Spermien können im Prinzip nicht mehr in die Gebärmutter gelangen."
+    ],
+    0.5711742043495178
+  ],
+  [
+    [
+      28,
+      1
+    ],
+    [
+      "Sie müssen die Pille regelmäßig nehmen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9204424023628235
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Sie müssen die Pille jeden Tag zur selben Uhrzeit nehmen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9190070629119873
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Sie haben einmal die Pille vergessen?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9255812764167786
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "Oder Sie haben die Pille nicht rechtzeitig eingenommen?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9164952039718628
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Dann wirkt die Pille vielleicht nicht mehr.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9182850122451782
+  ],
+  [
+    [
+      34,
+      27
+    ],
+    [
+      "Es gibt verschiedene Arten der Pille.",
+      "Dementsprechend heißen solche Pillen Ovulationshemmer."
+    ],
+    0.8922080397605896
+  ],
+  [
+    [
+      35,
+      180
+    ],
+    [
+      "Alle Arten der Pille wirken verschieden.",
+      "Der Blutdruck steigt womöglich unter der Pille an."
+    ],
+    0.8754118084907532
+  ],
+  [
+    [
+      36,
+      1
+    ],
+    [
+      "Und alle Arten der Pille haben verschiedene Vorgaben für die Einnahme.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8778334259986877
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Ihr Frauenarzt kann Ihnen eine passende Pille empfehlen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8840864896774292
+  ],
+  [
+    [
+      42,
+      216
+    ],
+    [
+      "Und er ersetzt nicht das Gespräch mit Ihrem Frauenarzt.",
+      "Bei 0,3 sind es drei von 1000 Frauen."
+    ],
+    0.6101561784744263
+  ],
+  [
+    [
+      43,
+      1
+    ],
+    [
+      "Sie wollen die Pille nehmen?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9190949201583862
+  ],
+  [
+    [
+      44,
+      216
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Frauenarzt.",
+      "Bei 0,3 sind es drei von 1000 Frauen."
+    ],
+    0.5601336359977722
+  ],
+  [
+    [
+      45,
+      1
+    ],
+    [
+      "Die Pille hat verschiedene Vorteile.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9105489253997803
+  ],
+  [
+    [
+      46,
+      180
+    ],
+    [
+      "Die verschiedenen Arten der Pille haben unterschiedliche Vorteile.",
+      "Der Blutdruck steigt womöglich unter der Pille an."
+    ],
+    0.8768081665039062
+  ],
+  [
+    [
+      47,
+      1
+    ],
+    [
+      "Zu den allgemeinen Vorteilen der Pille gehören zum Beispiel: Die Pille ist ein sehr sicheres Verhütungsmittel.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9297150373458862
+  ],
+  [
+    [
+      48,
+      1
+    ],
+    [
+      "Die Pille ist einfach zu nehmen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9133709669113159
+  ],
+  [
+    [
+      49,
+      1
+    ],
+    [
+      "Durch die Pille kommt die Monatsblutung meist regelmäßig.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9158342480659485
+  ],
+  [
+    [
+      50,
+      1
+    ],
+    [
+      "Die Pille kann die Monatsblutung schwächer machen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9079169034957886
+  ],
+  [
+    [
+      51,
+      1
+    ],
+    [
+      "Die Pille führt oft zu einer kürzeren Monatsblutung.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8969190716743469
+  ],
+  [
+    [
+      52,
+      180
+    ],
+    [
+      "Manche Arten der Pille wirken auch gegen Akne.",
+      "Der Blutdruck steigt womöglich unter der Pille an."
+    ],
+    0.8904815316200256
+  ],
+  [
+    [
+      53,
+      220
+    ],
+    [
+      "Die Minipille enthält nur das Hormon Gestagen.",
+      "Bei der herkömmlichen Minipille liegt er zwischen 0,5 und 3 bis 4."
+    ],
+    0.8884999752044678
+  ],
+  [
+    [
+      55,
+      220
+    ],
+    [
+      "Zu den speziellen Vorteilen der Minipille gehören zum Beispiel:",
+      "Bei der herkömmlichen Minipille liegt er zwischen 0,5 und 3 bis 4."
+    ],
+    0.9030578136444092
+  ],
+  [
+    [
+      56,
+      27
+    ],
+    [
+      "Manche Frauen haben Nebenwirkungen von dem künstlichen Östrogen in der Pille.",
+      "Dementsprechend heißen solche Pillen Ovulationshemmer."
+    ],
+    0.8336679935455322
+  ],
+  [
+    [
+      57,
+      56
+    ],
+    [
+      "Die Minipille hat kein Östrogen.",
+      "Entsprechende Minipillen heißen daher östrogenfreie Ovulationshemmer."
+    ],
+    0.903303325176239
+  ],
+  [
+    [
+      59,
+      220
+    ],
+    [
+      "Frauen können die Minipille auch beim Stillen von ihrem Baby nehmen.",
+      "Bei der herkömmlichen Minipille liegt er zwischen 0,5 und 3 bis 4."
+    ],
+    0.8235430121421814
+  ],
+  [
+    [
+      60,
+      1
+    ],
+    [
+      "Die Pille kann unterschiedliche Nebenwirkungen haben.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8836154341697693
+  ],
+  [
+    [
+      64,
+      180
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen der Pille gehören zum Beispiel:",
+      "Der Blutdruck steigt womöglich unter der Pille an."
+    ],
+    0.8661749362945557
+  ],
+  [
+    [
+      68,
+      187
+    ],
+    [
+      "Erhöhtes Risiko für Gebärmutterhals-Krebs",
+      "Auch das Risiko für Gebärmutterhalskrebs nimmt zu."
+    ],
+    0.661719024181366
+  ],
+  [
+    [
+      69,
+      1
+    ],
+    [
+      "Bei manchen Frauen verursacht die Pille auch seelische Nebenwirkungen, wie zum Beispiel: nervöse oder depressive Verstimmung Energielosigkeit Depressionen",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8678977489471436
+  ],
+  [
+    [
+      70,
+      137
+    ],
+    [
+      "Manche Nebenwirkungen können sich nach einer längeren Einnahme wieder verbessern.",
+      "Zum Glück ist das eine insgesamt eher seltene Nebenwirkung."
+    ],
+    0.6228931546211243
+  ],
+  [
+    [
+      71,
+      1
+    ],
+    [
+      "Hinweis: Die Pille verursacht bei Ihnen Nebenwirkungen?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8976874947547913
+  ],
+  [
+    [
+      72,
+      216
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Frauenarzt.",
+      "Bei 0,3 sind es drei von 1000 Frauen."
+    ],
+    0.5601336359977722
+  ],
+  [
+    [
+      73,
+      27
+    ],
+    [
+      "Vielleicht vertragen Sie eine andere Pille besser.",
+      "Dementsprechend heißen solche Pillen Ovulationshemmer."
+    ],
+    0.9034170508384705
+  ],
+  [
+    [
+      74,
+      216
+    ],
+    [
+      "Ihr Frauenarzt kann Sie beraten.",
+      "Bei 0,3 sind es drei von 1000 Frauen."
+    ],
+    0.6136635541915894
+  ],
+  [
+    [
+      76,
+      1
+    ],
+    [
+      "Und Sie nehmen die Pille?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9095768928527832
+  ],
+  [
+    [
+      78,
+      1
+    ],
+    [
+      "Neben der Pille können auch andere Dinge dieses Risiko zusätzlich erhöhen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.8919792771339417
+  ],
+  [
+    [
+      85,
+      180
+    ],
+    [
+      "Sie nehmen neben der Pille noch andere Medikamente ein?",
+      "Der Blutdruck steigt womöglich unter der Pille an."
+    ],
+    0.8788453340530396
+  ],
+  [
+    [
+      88,
+      113
+    ],
+    [
+      "Bestimmte andere Medikamente können die Wirkung der Pille schwächen.",
+      "Starker Durchfall oder Erbrechen können die Wirksamkeit der Pille verringern."
+    ],
+    0.8885576128959656
+  ],
+  [
+    [
+      91,
+      113
+    ],
+    [
+      "Johanniskraut Hinweis: Auch Durchfall und Erbrechen können die Wirkung der Pille schwächen.",
+      "Starker Durchfall oder Erbrechen können die Wirksamkeit der Pille verringern."
+    ],
+    0.891847550868988
+  ],
+  [
+    [
+      92,
+      1
+    ],
+    [
+      "Die Pille ist dann kein sicheres Verhütungsmittel mehr.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9074060320854187
+  ],
+  [
+    [
+      93,
+      1
+    ],
+    [
+      "Manche Frauen sollten nicht die Pille nehmen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9023158550262451
+  ],
+  [
+    [
+      94,
+      216
+    ],
+    [
+      "Zu diesen Frauen gehören: schwangere Frauen Frauen mit einer Leber-Krankheit Frauen mit Diabetes Frauen mit starkem Bluthochdruck",
+      "Bei 0,3 sind es drei von 1000 Frauen."
+    ],
+    0.7950324416160583
+  ],
+  [
+    [
+      95,
+      136
+    ],
+    [
+      "Sie hatten in Ihrem Leben bereits einen Herzinfarkt oder eine Thrombose?",
+      "Bei einer Thrombose verengt oder verschließt ein Blutpfropf ein Blutgefäß, beispielsweise eine Beinvene."
+    ],
+    0.5245698094367981
+  ],
+  [
+    [
+      96,
+      1
+    ],
+    [
+      "Dann sollten Sie nicht die Pille nehmen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9131162762641907
+  ],
+  [
+    [
+      98,
+      1
+    ],
+    [
+      "Auch dann sollten Sie nicht die Pille nehmen.",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9115296602249146
+  ],
+  [
+    [
+      99,
+      1
+    ],
+    [
+      "Sie wollen noch mehr über die Pille lesen?",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.92940354347229
+  ],
+  [
+    [
+      100,
+      1
+    ],
+    [
+      "Mehr Informationen über die Pille finden Sie hier .",
+      "Doch wie funktioniert die Pille eigentlich?"
+    ],
+    0.9242076873779297
+  ]
+]

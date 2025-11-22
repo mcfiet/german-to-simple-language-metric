@@ -1,0 +1,827 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine akute Bronchitis ist eine Erkrankung der Atemwege.",
+      "Häufig tritt eine akute Bronchitis im Rahmen einer Erkältung auf."
+    ],
+    0.9644580483436584
+  ],
+  [
+    [
+      1,
+      26
+    ],
+    [
+      "Bei einer akuten Bronchitis ist die Schleimhaut in den Bronchien entzündet.",
+      "Manchmal kann ein überempfindliches, ein hyperreagibles Bronchialsystem die Folge einer akuten Bronchitis sein."
+    ],
+    0.9834384322166443
+  ],
+  [
+    [
+      2,
+      47
+    ],
+    [
+      "Eine Bronchitis kann akut sein.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9743726253509521
+  ],
+  [
+    [
+      4,
+      47
+    ],
+    [
+      "Eine akute Bronchitis dauert etwa zwei Wochen.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9783700108528137
+  ],
+  [
+    [
+      5,
+      47
+    ],
+    [
+      "Hinweis: Akute Bronchitis ist oft ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9749760031700134
+  ],
+  [
+    [
+      6,
+      60
+    ],
+    [
+      "Eine Bronchitis kann aber auch chronisch sein ( chronische Bronchitis ).",
+      "Sehr selten verursachen Pilze eine Bronchitis."
+    ],
+    0.970391035079956
+  ],
+  [
+    [
+      7,
+      76
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "Über eine Blutuntersuchung können auch die Entzündungswerte wie CRP (C-reaktives Protein), BSG (Blutsenkungs-Geschwindigkeit) und die Zahl der weißen Blutkörperchen ( Leukozyten ) ermittelt werden."
+    ],
+    0.2798497974872589
+  ],
+  [
+    [
+      8,
+      78
+    ],
+    [
+      "Chronische Entzündungen kommen oft wieder.",
+      "Des Weiteren überprüft der Arzt, ob möglicherweise eine Lungenentzündung, (allergisches) Asthma und bei länger bestehender Symptomatik eine chronische Bronchitis vorliegt."
+    ],
+    0.1378137767314911
+  ],
+  [
+    [
+      9,
+      79
+    ],
+    [
+      "Das wichtigste Anzeichen für eine akute Bronchitis ist der typische Husten .",
+      "Eine akute Bronchitis lässt sich mit Hausmitteln und – wenn nötig – mit hustenstillenden oder schleimlösenden Medikamenten behandeln."
+    ],
+    0.951491117477417
+  ],
+  [
+    [
+      10,
+      90
+    ],
+    [
+      "Anfangs ist der Husten meist trocken.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.9038019180297852
+  ],
+  [
+    [
+      11,
+      90
+    ],
+    [
+      "Nachts und morgens ist der Husten oft besonders schlimm:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.896126389503479
+  ],
+  [
+    [
+      12,
+      90
+    ],
+    [
+      "Eine betroffene Person hat beim Husten Schmerzen in der Brust.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.8135164976119995
+  ],
+  [
+    [
+      13,
+      90
+    ],
+    [
+      "Nach einigen Tagen bildet sich zäher Schleim in den Bronchien.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.0033328551799058914
+  ],
+  [
+    [
+      14,
+      90
+    ],
+    [
+      "Der Husten verändert sich:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.9440295100212097
+  ],
+  [
+    [
+      15,
+      90
+    ],
+    [
+      "Er ist dann nicht mehr trocken.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.03209995850920677
+  ],
+  [
+    [
+      16,
+      90
+    ],
+    [
+      "Der Husten ist dann schleimig.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.8411165475845337
+  ],
+  [
+    [
+      17,
+      90
+    ],
+    [
+      "Eine akute Bronchitis tritt oft zusammen mit einer Erkältung auf.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.0004258757398929447
+  ],
+  [
+    [
+      18,
+      90
+    ],
+    [
+      "Zusätzlich zum Husten kommen dann häufig typische Beschwerden einer Erkältung hinzu wie zum Beispiel:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.7904886603355408
+  ],
+  [
+    [
+      19,
+      95
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen Halsschmerzen",
+      "Eine Kombination aus hustenstillenden und –lösenden Mitteln ist normalerweise nicht sinnvoll, da beide gegensätzliche Wirkungen haben."
+    ],
+    0.009157095104455948
+  ],
+  [
+    [
+      20,
+      95
+    ],
+    [
+      "Schmerzen beim Schlucken",
+      "Eine Kombination aus hustenstillenden und –lösenden Mitteln ist normalerweise nicht sinnvoll, da beide gegensätzliche Wirkungen haben."
+    ],
+    0.021027687937021255
+  ],
+  [
+    [
+      23,
+      96
+    ],
+    [
+      "In den meisten Fällen sind Viren die Ursache für eine akute Bronchitis.",
+      "Manchmal kommt dennoch eine Kombination infrage."
+    ],
+    0.055992625653743744
+  ],
+  [
+    [
+      24,
+      96
+    ],
+    [
+      "Verschiedene Viren-Arten können eine akute Bronchitis auslösen wie zum Beispiel Grippe-Viren.",
+      "Manchmal kommt dennoch eine Kombination infrage."
+    ],
+    0.051387716084718704
+  ],
+  [
+    [
+      25,
+      96
+    ],
+    [
+      "Manchmal sind aber auch Bakterien die Ursache für eine akute Bronchitis.",
+      "Manchmal kommt dennoch eine Kombination infrage."
+    ],
+    0.05641276016831398
+  ],
+  [
+    [
+      26,
+      97
+    ],
+    [
+      "In seltenen Fällen verursachen Pilze die Bronchitis.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.02297780103981495
+  ],
+  [
+    [
+      28,
+      97
+    ],
+    [
+      "Die Viren können sich leicht über den Speichel auf andere Menschen übertragen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4181855022907257
+  ],
+  [
+    [
+      29,
+      97
+    ],
+    [
+      "Sie haben eine akute Bronchitis?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.015324425883591175
+  ],
+  [
+    [
+      30,
+      97
+    ],
+    [
+      "Dann sollten Sie diese Dinge vermeiden:",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.40514734387397766
+  ],
+  [
+    [
+      31,
+      97
+    ],
+    [
+      "Husten Sie andere Menschen nicht an.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3366614580154419
+  ],
+  [
+    [
+      32,
+      97
+    ],
+    [
+      "Niesen Sie andere Menschen nicht an.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.472699910402298
+  ],
+  [
+    [
+      33,
+      97
+    ],
+    [
+      "Küssen Sie andere Menschen nicht.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.47958192229270935
+  ],
+  [
+    [
+      34,
+      97
+    ],
+    [
+      "Nutzen Sie eigene Tassen und eigenes Besteck.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4060865640640259
+  ],
+  [
+    [
+      35,
+      97
+    ],
+    [
+      "Waschen Sie regelmäßig Ihre Hände mit Seife.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5611084699630737
+  ],
+  [
+    [
+      36,
+      97
+    ],
+    [
+      "Für gesunde Menschen ist eine akute Bronchitis oft nicht gefährlich.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.021174656227231026
+  ],
+  [
+    [
+      37,
+      97
+    ],
+    [
+      "Nur in seltenen Fällen müssen betroffene Menschen Medikamente nehmen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.15634794533252716
+  ],
+  [
+    [
+      39,
+      97
+    ],
+    [
+      "Aber Sie können die Heilung unterstützen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.19220687448978424
+  ],
+  [
+    [
+      40,
+      97
+    ],
+    [
+      "Während der Erkrankung sollten Sie: sich schonen, keinen Sport machen, nicht rauchen und bei Fieber im Bett bleiben.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5252317190170288
+  ],
+  [
+    [
+      41,
+      97
+    ],
+    [
+      "Sie haben starke Beschwerden?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.2578754723072052
+  ],
+  [
+    [
+      42,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5667658448219299
+  ],
+  [
+    [
+      43,
+      97
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3382534682750702
+  ],
+  [
+    [
+      44,
+      97
+    ],
+    [
+      "In der Apotheke bekommen Sie spezielle Hustenmittel.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.23337198793888092
+  ],
+  [
+    [
+      45,
+      97
+    ],
+    [
+      "Lassen Sie sich vom Apotheker beraten.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4784322679042816
+  ],
+  [
+    [
+      47,
+      97
+    ],
+    [
+      "Nehmen Sie die Mittel gegen Husten deshalb nicht über längere Zeit ein.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.2335452437400818
+  ],
+  [
+    [
+      48,
+      97
+    ],
+    [
+      "Sie können auch Mittel gegen den Schleim nehmen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.21230947971343994
+  ],
+  [
+    [
+      49,
+      97
+    ],
+    [
+      "Diese Mittel lösen den Schleim in den Bronchien.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.03767232224345207
+  ],
+  [
+    [
+      50,
+      97
+    ],
+    [
+      "So können Sie den Schleim leichter abhusten.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.30280962586402893
+  ],
+  [
+    [
+      52,
+      97
+    ],
+    [
+      "Sie in der Apotheke",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.14137516915798187
+  ],
+  [
+    [
+      53,
+      97
+    ],
+    [
+      "nach einem passenden Hustenmittel oder fragen Sie Ihren Arzt",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.28760260343551636
+  ],
+  [
+    [
+      56,
+      97
+    ],
+    [
+      "Inhalieren Sie mehrmals am Tag mit Salzwasser.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4360392093658447
+  ],
+  [
+    [
+      57,
+      97
+    ],
+    [
+      "Das löst den Schleim und macht das Husten angenehmer.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.0871652290225029
+  ],
+  [
+    [
+      58,
+      97
+    ],
+    [
+      "Trinken Sie viel Wasser oder Tee.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4149458408355713
+  ],
+  [
+    [
+      59,
+      97
+    ],
+    [
+      "Auch das löst den Schleim.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.16427093744277954
+  ],
+  [
+    [
+      60,
+      97
+    ],
+    [
+      "Achtung: Sie haben eine Herzerkrankung?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.1691962033510208
+  ],
+  [
+    [
+      61,
+      97
+    ],
+    [
+      "Oder Sie haben eine Nierenerkrankung?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.17234480381011963
+  ],
+  [
+    [
+      62,
+      97
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht so viel trinken.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3550179898738861
+  ],
+  [
+    [
+      63,
+      97
+    ],
+    [
+      "Besprechen Sie die Trinkmenge deshalb mit Ihrem Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.627063512802124
+  ],
+  [
+    [
+      66,
+      97
+    ],
+    [
+      "Ihre Beschwerden werden auch nach mehreren Tagen nicht besser?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.0009925843914970756
+  ],
+  [
+    [
+      67,
+      97
+    ],
+    [
+      "Sie haben hohes Fieber?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.1263461709022522
+  ],
+  [
+    [
+      68,
+      97
+    ],
+    [
+      "Sie schwitzen nachts stark?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.14591744542121887
+  ],
+  [
+    [
+      69,
+      97
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.11756516993045807
+  ],
+  [
+    [
+      70,
+      97
+    ],
+    [
+      "Sie keuchen oder pfeifen beim Atmen?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.2743391692638397
+  ],
+  [
+    [
+      71,
+      97
+    ],
+    [
+      "Sie haben starke Husten-Anfälle?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.14131249487400055
+  ],
+  [
+    [
+      72,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5667658448219299
+  ],
+  [
+    [
+      73,
+      97
+    ],
+    [
+      "Achtung: Für manche Menschen ist eine akute Bronchitis immer gefährlich.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.024347297847270966
+  ],
+  [
+    [
+      74,
+      97
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel:",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.1949952095746994
+  ],
+  [
+    [
+      75,
+      97
+    ],
+    [
+      "Menschen mit einer zusätzlichen chronischen Erkrankung der Atemwege alte Menschen schwangere Frauen",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3621669113636017
+  ],
+  [
+    [
+      76,
+      97
+    ],
+    [
+      "Menschen mit Immunschwäche",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.2442587912082672
+  ],
+  [
+    [
+      77,
+      97
+    ],
+    [
+      "Diese Personen sollten bei einer akuten Bronchitis immer zum Arzt gehen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.05512075126171112
+  ],
+  [
+    [
+      78,
+      97
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine akute Bronchitis?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.019994132220745087
+  ],
+  [
+    [
+      79,
+      97
+    ],
+    [
+      "Und Sie haben sehr starke Beschwerden?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.30581483244895935
+  ],
+  [
+    [
+      80,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5667658448219299
+  ],
+  [
+    [
+      81,
+      97
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3382534682750702
+  ],
+  [
+    [
+      82,
+      97
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bronchitis lesen?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.015037687495350838
+  ],
+  [
+    [
+      83,
+      98
+    ],
+    [
+      "Mehr Informationen über akute Bronchitis finden Sie hier .",
+      "Ein Antibiotikum kann nur helfen, wenn die akute Bronchitis durch Bakterien verursacht wird."
+    ],
+    0.9481701850891113
+  ],
+  [
+    [
+      84,
+      98
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Ein Antibiotikum kann nur helfen, wenn die akute Bronchitis durch Bakterien verursacht wird."
+    ],
+    0.016855137422680855
+  ],
+  [
+    [
+      85,
+      108
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.3121742904186249
+  ]
+]

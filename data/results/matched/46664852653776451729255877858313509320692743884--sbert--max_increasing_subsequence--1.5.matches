@@ -1,0 +1,409 @@
+[
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Bei Blasenkrebs wächst ein Tumor in der Blase.",
+      "Harnblasenkrebs (Harnblasenkarzinom) tritt vorwiegend im höheren Lebensalter auf."
+    ],
+    0.6439803838729858
+  ],
+  [
+    [
+      21,
+      0
+    ],
+    [
+      "Von Blasenkrebs sind fast nur Menschen über 70 Jahren betroffen.",
+      "Harnblasenkrebs (Harnblasenkarzinom) tritt vorwiegend im höheren Lebensalter auf."
+    ],
+    0.74326092004776
+  ],
+  [
+    [
+      22,
+      0
+    ],
+    [
+      "Jüngere Menschen bekommen sehr selten Blasenkrebs.",
+      "Harnblasenkrebs (Harnblasenkarzinom) tritt vorwiegend im höheren Lebensalter auf."
+    ],
+    0.6791104674339294
+  ],
+  [
+    [
+      23,
+      2
+    ],
+    [
+      "Männer erkranken häufiger an Blasenkrebs als Frauen.",
+      "Harnblasenkrebs betrifft Männer häufiger als Frauen."
+    ],
+    0.9614437222480774
+  ],
+  [
+    [
+      24,
+      4
+    ],
+    [
+      "Die Anzeichen für Blasenkrebs sind unspezifisch.",
+      "Meistens geht der Tumor von der Blasenschleimhaut (Urothel) aus."
+    ],
+    0.6277847290039062
+  ],
+  [
+    [
+      25,
+      4
+    ],
+    [
+      "Das heißt: Die Anzeichen können Zeichen für Blasenkrebs sein.",
+      "Meistens geht der Tumor von der Blasenschleimhaut (Urothel) aus."
+    ],
+    0.6431565284729004
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "Anzeichen für Blasenkrebs sind zum Beispiel:",
+      "Grundsätzlich sind bösartige Geschwülste der ableitenden Harnwege wie Harnleiter, Harnröhre, Nierenbecken und Blase im Vergleich zu anderen Krebsarten eher selten."
+    ],
+    0.6686335206031799
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "Sie haben häufig Harndrang.",
+      "Unter ihnen befinden sich häufig Raucher."
+    ],
+    0.5998544096946716
+  ],
+  [
+    [
+      57,
+      7
+    ],
+    [
+      "Dazu gehören zum Beispiel: Rauchen .",
+      "Unter ihnen befinden sich häufig Raucher."
+    ],
+    0.8647738099098206
+  ],
+  [
+    [
+      58,
+      12
+    ],
+    [
+      "Rauchen kann Blasenkrebs auslösen.",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.8510701656341553
+  ],
+  [
+    [
+      59,
+      12
+    ],
+    [
+      "Rauchen kann auch andere Krebsarten auslösen.",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.8698199391365051
+  ],
+  [
+    [
+      60,
+      12
+    ],
+    [
+      "In Tabak sind verschiedene Stoffe enthalten.",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.7855826020240784
+  ],
+  [
+    [
+      61,
+      12
+    ],
+    [
+      "Viele von den Stoffen in Tabak können Krebs auslösen.",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.9238883852958679
+  ],
+  [
+    [
+      64,
+      12
+    ],
+    [
+      "Auch passives Rauchen erhöht das Risiko für Blasenkrebs.",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.7912572622299194
+  ],
+  [
+    [
+      65,
+      12
+    ],
+    [
+      "Passives Rauchen bedeutet:",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.6246909499168396
+  ],
+  [
+    [
+      67,
+      12
+    ],
+    [
+      "Aber die Person atmet den Zigaretten-Rauch von anderen Personen ein.",
+      "Viele der im Zigarettenrauch enthaltenen Substanzen wirken krebserregend."
+    ],
+    0.7099395990371704
+  ],
+  [
+    [
+      68,
+      17
+    ],
+    [
+      "Schadstoffe am Arbeitsplatz.",
+      "Heute arbeiten Beschäftigte jedoch nur noch unter strengen Sicherheitsvorkehrungen mit gesundheitsgefährdenden Stoffen."
+    ],
+    0.7396996021270752
+  ],
+  [
+    [
+      69,
+      17
+    ],
+    [
+      "Manche Menschen arbeiten mit gefährlichen chemischen Stoffen.",
+      "Heute arbeiten Beschäftigte jedoch nur noch unter strengen Sicherheitsvorkehrungen mit gesundheitsgefährdenden Stoffen."
+    ],
+    0.7048336267471313
+  ],
+  [
+    [
+      70,
+      18
+    ],
+    [
+      "Manche dieser Stoffe können Krebs auslösen.",
+      "Auch bestimmte Medikamente können das Risiko für Harnblasenkrebs erhöhen."
+    ],
+    0.8226677179336548
+  ],
+  [
+    [
+      73,
+      18
+    ],
+    [
+      "Manche Medikamente können das Risiko von Blasenkrebs erhöhen.",
+      "Auch bestimmte Medikamente können das Risiko für Harnblasenkrebs erhöhen."
+    ],
+    0.9738023281097412
+  ],
+  [
+    [
+      80,
+      18
+    ],
+    [
+      "Sie hatten bereits eine andere Krebsart und haben Strahlentherapie bekommen?",
+      "Auch bestimmte Medikamente können das Risiko für Harnblasenkrebs erhöhen."
+    ],
+    0.6044535040855408
+  ],
+  [
+    [
+      81,
+      18
+    ],
+    [
+      "Dann ist Ihr Risiko für Blasenkrebs vielleicht erhöht.",
+      "Auch bestimmte Medikamente können das Risiko für Harnblasenkrebs erhöhen."
+    ],
+    0.8386367559432983
+  ],
+  [
+    [
+      83,
+      18
+    ],
+    [
+      "Dann ist das Risiko für Blasenkrebs vielleicht größer.",
+      "Auch bestimmte Medikamente können das Risiko für Harnblasenkrebs erhöhen."
+    ],
+    0.8185983300209045
+  ],
+  [
+    [
+      87,
+      18
+    ],
+    [
+      "Dann kann auch Ihr Risiko für Blasenkrebs größer sein.",
+      "Auch bestimmte Medikamente können das Risiko für Harnblasenkrebs erhöhen."
+    ],
+    0.8306660652160645
+  ],
+  [
+    [
+      88,
+      32
+    ],
+    [
+      "Ihr Arzt hat festgestellt:",
+      "Ein Arzt sollte solche Beschwerden deshalb frühzeitig abklären."
+    ],
+    0.6245747804641724
+  ],
+  [
+    [
+      89,
+      56
+    ],
+    [
+      "Sie haben Blasenkrebs?",
+      "Ein Harnblasenkrebs im Frühstadium"
+    ],
+    0.7660834789276123
+  ],
+  [
+    [
+      93,
+      56
+    ],
+    [
+      "Durch das Medikament kann kein neuer Tumor in der Blase entstehen.",
+      "Ein Harnblasenkrebs im Frühstadium"
+    ],
+    0.6724163293838501
+  ],
+  [
+    [
+      95,
+      61
+    ],
+    [
+      "Dann muss der Arzt vielleicht die gesamte Blase entfernen.",
+      "Dafür führt der Operateur einen Schlauch mit einer daran befindlichen elektrischen Schlinge in die Blase ein und entfernt das betroffene Gewebe über die Harnröhre."
+    ],
+    0.7333595156669617
+  ],
+  [
+    [
+      96,
+      65
+    ],
+    [
+      "Der Arzt ersetzt die Blase dann durch eine künstliche Urin-Ableitung.",
+      "Neben der gesamten Harnblase, muss der Operateur bei Männern zusätzlich Prostata und Samenbläschen entnehmen."
+    ],
+    0.7123419642448425
+  ],
+  [
+    [
+      98,
+      69
+    ],
+    [
+      "Dann bekommen betroffene Personen zuerst eine Strahlentherapie.",
+      "Ebenso, wenn sich der Krebs in einem fortgeschrittenen Stadium befindet – die Strahlentherapie lindert hierbei die Beschwerden."
+    ],
+    0.7059776782989502
+  ],
+  [
+    [
+      99,
+      69
+    ],
+    [
+      "Die Strahlung zerstört die Krebszellen.",
+      "Ebenso, wenn sich der Krebs in einem fortgeschrittenen Stadium befindet – die Strahlentherapie lindert hierbei die Beschwerden."
+    ],
+    0.7096595764160156
+  ],
+  [
+    [
+      102,
+      71
+    ],
+    [
+      "Sie hatten eine Operation?",
+      "Sie kann vor oder nach der Operation erfolgen."
+    ],
+    0.7712870240211487
+  ],
+  [
+    [
+      112,
+      72
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Welches Vorgehen im Einzelfall das bessere ist, besprechen die Ärzte mit dem Patienten."
+    ],
+    0.7704616785049438
+  ],
+  [
+    [
+      113,
+      72
+    ],
+    [
+      "Ihr Arzt kann Sie beraten und Ihnen verschiedene Hilfen vorschlagen.",
+      "Welches Vorgehen im Einzelfall das bessere ist, besprechen die Ärzte mit dem Patienten."
+    ],
+    0.7786939144134521
+  ],
+  [
+    [
+      131,
+      72
+    ],
+    [
+      "Dann kann der Arzt Sie rechtzeitig behandeln.",
+      "Welches Vorgehen im Einzelfall das bessere ist, besprechen die Ärzte mit dem Patienten."
+    ],
+    0.7553297281265259
+  ],
+  [
+    [
+      132,
+      72
+    ],
+    [
+      "Ihr Arzt bespricht auch mit Ihnen:",
+      "Welches Vorgehen im Einzelfall das bessere ist, besprechen die Ärzte mit dem Patienten."
+    ],
+    0.7617800235748291
+  ],
+  [
+    [
+      133,
+      77
+    ],
+    [
+      "So oft sollten Sie zur Nachsorge kommen.",
+      "Da es auch nach der Behandlung zu einem Rückfall kommen kann, müssen Patienten regelmäßig zur Nachkontrolle gehen."
+    ],
+    0.6363741159439087
+  ]
+]

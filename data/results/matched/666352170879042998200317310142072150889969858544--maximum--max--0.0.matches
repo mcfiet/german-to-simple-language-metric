@@ -1,0 +1,2092 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben Ihren Führerschein frei-willig abgegeben?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.5840696692466736
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Ihnen wurde der Führerschein weggenommen?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.7191844582557678
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zum Beispiel: Weil das ein Gericht entschieden hat.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.4811670780181885
+  ],
+  [
+    [
+      3,
+      29
+    ],
+    [
+      "Oder das Straßen-Verkehrs-Amt .",
+      "Bescheinigung über das Sehvermögen"
+    ],
+    0.5067009329795837
+  ],
+  [
+    [
+      4,
+      29
+    ],
+    [
+      "Das nennt man: Fahr-Verbot .",
+      "Bescheinigung über das Sehvermögen"
+    ],
+    0.4059140086174011
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Sie bekommen ein Fahr-Verbot:",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.6154465675354004
+  ],
+  [
+    [
+      6,
+      43
+    ],
+    [
+      "Wenn Sie viele Fehler im Verkehr gemacht haben.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.608069121837616
+  ],
+  [
+    [
+      7,
+      43
+    ],
+    [
+      "Wenn Sie betrunken gefahren sind.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.589705765247345
+  ],
+  [
+    [
+      8,
+      44
+    ],
+    [
+      "Oder Drogen genommen haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.5509960055351257
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Es gibt ein befristetes Fahr-Verbot.",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.46111831068992615
+  ],
+  [
+    [
+      10,
+      44
+    ],
+    [
+      "Das heißt: Das Fahr-Verbot gilt nur eine bestimmte Zeit .",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.5067272782325745
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Danach bekommen Sie den Führerschein automatisch zurück.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5738433003425598
+  ],
+  [
+    [
+      12,
+      27
+    ],
+    [
+      "Sie müssen nichts dafür tun.",
+      "Online-Schulungen können wir nicht anerkennen."
+    ],
+    0.5653319358825684
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Wenn das Fahr-Verbot nicht befristet ist, bekommen Sie den Führerschein nicht automatisch zurück.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6050829887390137
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Das nennt man: Führerschein-Entziehung .",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.3410974144935608
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sie müssen dann einen Antrag beim Amt stellen, wenn Sie den Führerschein wieder haben wollen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.7620320320129395
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Und Sie müssen verschiedene Papiere zeigen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5658609867095947
+  ],
+  [
+    [
+      17,
+      8
+    ],
+    [
+      "Welche Papiere brauche ich dazu?",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.4359155595302582
+  ],
+  [
+    [
+      18,
+      30
+    ],
+    [
+      "Diese Papiere brauchen Sie immer :",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5958208441734314
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Ein Pass-Foto",
+      "Ein aktuelles biometrisches Passfoto"
+    ],
+    0.8279368877410889
+  ],
+  [
+    [
+      20,
+      4
+    ],
+    [
+      "Das Foto muss aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.699483335018158
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Das heißt: Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.8884780406951904
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.6643344163894653
+  ],
+  [
+    [
+      23,
+      51
+    ],
+    [
+      "Bio-metrie-tauglich heißt: Die Person ist gut zu erkennen.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.4649704396724701
+  ],
+  [
+    [
+      24,
+      4
+    ],
+    [
+      "Das Gesicht ist gut zu sehen.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.42879238724708557
+  ],
+  [
+    [
+      25,
+      28
+    ],
+    [
+      "Der Kopf ist gerade.",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.3911210000514984
+  ],
+  [
+    [
+      26,
+      26
+    ],
+    [
+      "Die Augen sind offen.",
+      "Die Stadt Köln akzeptiert grundsätzlich nur Nachweise über Erste-Hilfe-Schulungen, die in Präsenz durchgeführt worden sind."
+    ],
+    0.5241978168487549
+  ],
+  [
+    [
+      27,
+      51
+    ],
+    [
+      "Der Mund ist geschlossen.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.42688748240470886
+  ],
+  [
+    [
+      28,
+      51
+    ],
+    [
+      "Der Hinter-Grund ist einfarbig.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.4356175363063812
+  ],
+  [
+    [
+      29,
+      3
+    ],
+    [
+      "Es gibt ein Merk-Blatt mit Regeln für Pass-Fotos.",
+      "Ein aktuelles biometrisches Passfoto"
+    ],
+    0.47236645221710205
+  ],
+  [
+    [
+      30,
+      30
+    ],
+    [
+      "Bitte befolgen Sie die Regeln.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.6379906535148621
+  ],
+  [
+    [
+      31,
+      29
+    ],
+    [
+      "Das Merk-Blatt heißt: Foto-Muster-Tafel .",
+      "Bescheinigung über das Sehvermögen"
+    ],
+    0.37009939551353455
+  ],
+  [
+    [
+      32,
+      19
+    ],
+    [
+      "Sie können auch in einem Foto-Laden nachfragen.",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.5976389050483704
+  ],
+  [
+    [
+      33,
+      42
+    ],
+    [
+      "Und Pass-Fotos machen lassen.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.40510597825050354
+  ],
+  [
+    [
+      35,
+      42
+    ],
+    [
+      "Beim Erste-Hilfe-Kurs lernen Sie: Was Sie im Notfall tun müssen.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.5016721487045288
+  ],
+  [
+    [
+      36,
+      18
+    ],
+    [
+      "Zum Beispiel:",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.3598150610923767
+  ],
+  [
+    [
+      37,
+      54
+    ],
+    [
+      "Bei einem Unfall.",
+      "Bei einer Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz fallen zusätzlich Gebühren für Ausstellung eines Fahrerqualifizierungsnachweis an."
+    ],
+    0.47393956780433655
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Der Kurs besteht aus 9 Unterrichts-Einheiten.",
+      "Die Erste-Hilfe-Schulung beinhaltet neun Unterrichtseinheiten zu je 45 Minuten und gilt für alle Führerscheinklassen."
+    ],
+    0.4319823384284973
+  ],
+  [
+    [
+      39,
+      35
+    ],
+    [
+      "1",
+      "Sie benötigen eine Bescheinigung nach dem Muster der Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung."
+    ],
+    0.3912621736526489
+  ],
+  [
+    [
+      40,
+      23
+    ],
+    [
+      "Einheit dauert 45 Minuten .",
+      "Die Erste-Hilfe-Schulung beinhaltet neun Unterrichtseinheiten zu je 45 Minuten und gilt für alle Führerscheinklassen."
+    ],
+    0.5240702629089355
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Wenn Sie alle Einheiten gemacht haben, dann bekommen Sie einen Nachweis .",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.635617733001709
+  ],
+  [
+    [
+      42,
+      23
+    ],
+    [
+      "Der Nachweis gilt für alle Führer-Schein-Klassen .",
+      "Die Erste-Hilfe-Schulung beinhaltet neun Unterrichtseinheiten zu je 45 Minuten und gilt für alle Führerscheinklassen."
+    ],
+    0.6194738745689392
+  ],
+  [
+    [
+      43,
+      18
+    ],
+    [
+      "Zum Beispiel:",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.3598150610923767
+  ],
+  [
+    [
+      44,
+      31
+    ],
+    [
+      "Für Autos",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.5160691738128662
+  ],
+  [
+    [
+      45,
+      31
+    ],
+    [
+      "Für LKW",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.5026419758796692
+  ],
+  [
+    [
+      46,
+      31
+    ],
+    [
+      "Für Mopeds",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.48958805203437805
+  ],
+  [
+    [
+      47,
+      30
+    ],
+    [
+      "Hier können Sie die Erste-Hilfe-Kurse machen:",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.602760910987854
+  ],
+  [
+    [
+      48,
+      24
+    ],
+    [
+      "Deutsches Rotes Kreuz",
+      "Kurse werden unter anderem vom Deutschen Roten Kreuz, dem Malteser Hilfsdienst, der Johanniter-Unfall-Hilfe oder dem Arbeiter-Samariter-Bund durchgeführt."
+    ],
+    0.5058991312980652
+  ],
+  [
+    [
+      49,
+      24
+    ],
+    [
+      "Malteser Hilfs-Dienst Johanniter",
+      "Kurse werden unter anderem vom Deutschen Roten Kreuz, dem Malteser Hilfsdienst, der Johanniter-Unfall-Hilfe oder dem Arbeiter-Samariter-Bund durchgeführt."
+    ],
+    0.5992335081100464
+  ],
+  [
+    [
+      50,
+      19
+    ],
+    [
+      "Unfall-Hilfe",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.4476971924304962
+  ],
+  [
+    [
+      51,
+      46
+    ],
+    [
+      "Arbeiter",
+      "Zuständigkeit"
+    ],
+    0.45259401202201843
+  ],
+  [
+    [
+      52,
+      46
+    ],
+    [
+      "Samariter Bund",
+      "Zuständigkeit"
+    ],
+    0.32517489790916443
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Hinweis: Sie brauchen keinen neuen Nachweis , wenn Sie schon einen Erste-Hilfe-Kurs gemacht haben.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6065071821212769
+  ],
+  [
+    [
+      54,
+      42
+    ],
+    [
+      "Seh-Test",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.28885582089424133
+  ],
+  [
+    [
+      55,
+      1
+    ],
+    [
+      "Sie müssen manchmal einen Seh-Test machen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6295069456100464
+  ],
+  [
+    [
+      56,
+      30
+    ],
+    [
+      "Das hängt von der Führerschein-Klasse ab.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.4832521677017212
+  ],
+  [
+    [
+      57,
+      14
+    ],
+    [
+      "Das heißt: Ob es ein Führerschein für ein Auto ist.",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.4563274085521698
+  ],
+  [
+    [
+      58,
+      1
+    ],
+    [
+      "Oder für einen LKW .",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.4208795726299286
+  ],
+  [
+    [
+      59,
+      31
+    ],
+    [
+      "Für Motorrad und Auto und Traktor gilt: Sie müssen einen Seh-Test machen.",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.5721190571784973
+  ],
+  [
+    [
+      60,
+      18
+    ],
+    [
+      "Zum Beispiel:",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.3598150610923767
+  ],
+  [
+    [
+      61,
+      13
+    ],
+    [
+      "Bei einem Optiker oder einer Optikerin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5958639979362488
+  ],
+  [
+    [
+      62,
+      18
+    ],
+    [
+      "Wichtig: Nicht alle Optiker dürfen diesen Seh-Test machen.",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.4687046408653259
+  ],
+  [
+    [
+      63,
+      45
+    ],
+    [
+      "Fragen",
+      "Informationen zur medizinisch-psychologischen Untersuchung"
+    ],
+    0.5075326561927795
+  ],
+  [
+    [
+      64,
+      50
+    ],
+    [
+      "Sie",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.6861333847045898
+  ],
+  [
+    [
+      65,
+      30
+    ],
+    [
+      "bitte bei der Fahr-Schule, wo Sie den Seh-Test machen können.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5588312745094299
+  ],
+  [
+    [
+      66,
+      20
+    ],
+    [
+      "Nach dem Seh-Test bekommen Sie einen Nachweis.",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.5770345330238342
+  ],
+  [
+    [
+      67,
+      36
+    ],
+    [
+      "Der Nachweis vom Seh-Test ist 2 Jahre gültig .",
+      "Die Bescheinigung ist zwei Jahre gültig."
+    ],
+    0.6527389883995056
+  ],
+  [
+    [
+      68,
+      31
+    ],
+    [
+      "Für LKW gilt:",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.5650830268859863
+  ],
+  [
+    [
+      69,
+      1
+    ],
+    [
+      "Sie brauchen einen besonderen Nachweis :",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6644221544265747
+  ],
+  [
+    [
+      70,
+      8
+    ],
+    [
+      "Für den Nachweis gibt es ein Muster .",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.48667585849761963
+  ],
+  [
+    [
+      71,
+      35
+    ],
+    [
+      "Das Muster finden Sie in der Fahr-Erlaubnis-Verordnung Anlage 6 Nummer 2.1",
+      "Sie benötigen eine Bescheinigung nach dem Muster der Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung."
+    ],
+    0.830123245716095
+  ],
+  [
+    [
+      72,
+      1
+    ],
+    [
+      "Hier können Sie den Seh-Test machen:",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5574184656143188
+  ],
+  [
+    [
+      73,
+      13
+    ],
+    [
+      "Bei Ihrem Augen-Arzt oder Ihrer Augen-Ärztin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.593733012676239
+  ],
+  [
+    [
+      74,
+      13
+    ],
+    [
+      "Oder bei einem Arzt oder einer Ärztin für Arbeits-Medizin und Betriebs-Medizin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.6727800965309143
+  ],
+  [
+    [
+      75,
+      36
+    ],
+    [
+      "Der Nachweis vom Seh-Test ist 2 Jahre gültig .",
+      "Die Bescheinigung ist zwei Jahre gültig."
+    ],
+    0.6527389883995056
+  ],
+  [
+    [
+      76,
+      13
+    ],
+    [
+      "Diese Papiere brauchen Sie manchmal : Eignungs-Bescheinigung vom Arzt oder der Ärztin Eine Eignungs-Bescheinigung ist ein Papier auf dem steht:",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5728748440742493
+  ],
+  [
+    [
+      77,
+      30
+    ],
+    [
+      "Ob Sie für etwas geeignet sind.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.4718916118144989
+  ],
+  [
+    [
+      78,
+      43
+    ],
+    [
+      "Zum Beispiel: Ob Sie als Bus-Fahrer geeignet sind.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.4522343575954437
+  ],
+  [
+    [
+      79,
+      30
+    ],
+    [
+      "Die Bescheinigung brauchen Sie nur für LKW und Busse .",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.6735446453094482
+  ],
+  [
+    [
+      80,
+      13
+    ],
+    [
+      "Sie bekommen die Bescheinigung meistens von Ihrem Arzt oder Ihrer Ärztin.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.7866376042366028
+  ],
+  [
+    [
+      81,
+      12
+    ],
+    [
+      "Sie können sich Ihren Arzt oder Ihre Ärztin selbst aussuchen.",
+      "Sollte Ihre Ärztin oder Ihr Arzt nicht über den notwendigen amtlichen Vordruck verfügen, kann er oder sie sich an die Ärztekammer wenden."
+    ],
+    0.7112667560577393
+  ],
+  [
+    [
+      82,
+      30
+    ],
+    [
+      "Es gibt einen Vordruck für die Bescheinigung .",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.6011783480644226
+  ],
+  [
+    [
+      83,
+      43
+    ],
+    [
+      "Das ist ein Papier vom Amt mit einem vorgeschriebenen Text.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.4671691060066223
+  ],
+  [
+    [
+      84,
+      13
+    ],
+    [
+      "Auf dem Papier muss der Arzt oder die Ärztin aufschreiben, ob Sie als Fahrer oder Fahrerin geeignet sind.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.6344038248062134
+  ],
+  [
+    [
+      85,
+      12
+    ],
+    [
+      "Wenn Ihr Arzt oder Ihre Ärztin keinen Vordruck vom Amt hat, kann er oder sie die Ärzte-Kammer danach fragen.",
+      "Sollte Ihre Ärztin oder Ihr Arzt nicht über den notwendigen amtlichen Vordruck verfügen, kann er oder sie sich an die Ärztekammer wenden."
+    ],
+    0.7726033926010132
+  ],
+  [
+    [
+      86,
+      14
+    ],
+    [
+      "Wichtig: Die Bescheinigung darf nicht älter als 1 Jahr sein!",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.8247705698013306
+  ],
+  [
+    [
+      87,
+      30
+    ],
+    [
+      "Leistungs-Test für Busse",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.4560500383377075
+  ],
+  [
+    [
+      88,
+      13
+    ],
+    [
+      "In dem Test prüfen wir Ihre Leistungen als Bus-Fahrer oder Bus-Fahrerin.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5326162576675415
+  ],
+  [
+    [
+      89,
+      38
+    ],
+    [
+      "Zum Beispiel: Wie gut Sie reagieren können.",
+      "Wann können Sie die Wiedererlaubnis beantragen?"
+    ],
+    0.5155497789382935
+  ],
+  [
+    [
+      90,
+      30
+    ],
+    [
+      "Wie gut Sie sich orientieren können.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.601291835308075
+  ],
+  [
+    [
+      91,
+      30
+    ],
+    [
+      "Wie gut Sie sich konzentrieren können.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5669819116592407
+  ],
+  [
+    [
+      92,
+      30
+    ],
+    [
+      "Achtung: 1. Sie brauchen diesen Nachweis nur für Busse .",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5505018830299377
+  ],
+  [
+    [
+      93,
+      18
+    ],
+    [
+      "2. Sie können den Test nur bei bestimmten Stellen machen.",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.6328026056289673
+  ],
+  [
+    [
+      94,
+      19
+    ],
+    [
+      "Wo Sie den Test machen können, fragen Sie am besten Unternehmen wie Bus-Unternehmen Taxi-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.6587465405464172
+  ],
+  [
+    [
+      95,
+      19
+    ],
+    [
+      "Miet-Wagen-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.6635942459106445
+  ],
+  [
+    [
+      96,
+      30
+    ],
+    [
+      "Nachweis für Berufs-Fahrer und Berufs-Fahrerinnen",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5131038427352905
+  ],
+  [
+    [
+      97,
+      20
+    ],
+    [
+      "Sie brauchen einen Nachweis über eine Weiter-Bildung nach dem Berufs-Fahrer-Qualifizierungs-Gesetz .",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.7914374470710754
+  ],
+  [
+    [
+      98,
+      0
+    ],
+    [
+      "Das ist ein Gesetz für den Beruf als Fahrer oder Fahrerin.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.48955386877059937
+  ],
+  [
+    [
+      99,
+      30
+    ],
+    [
+      "Zum Beispiel: Regeln für die Arbeit als LKW -Fahrer.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5298198461532593
+  ],
+  [
+    [
+      100,
+      21
+    ],
+    [
+      "Mehr Infos finden Sie auf der Seite:",
+      "Weitere Informationen finden Sie auf der Seite Berufsqualifizierung und Weiterbildung (siehe unter Ähnliche Dienstleistungen)"
+    ],
+    0.7157549262046814
+  ],
+  [
+    [
+      101,
+      1
+    ],
+    [
+      "Wann kann ich den Antrag stellen?",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5544995069503784
+  ],
+  [
+    [
+      102,
+      1
+    ],
+    [
+      "Sie können den Antrag frühestens 6 Monate vor dem Ende vom Fahr-Verbot stellen, wenn: 1. Das Gericht Ihnen den Führerschein weggenommen hat.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6140950918197632
+  ],
+  [
+    [
+      103,
+      44
+    ],
+    [
+      "2. Oder wenn Sie 8 Punkte oder mehr im Fahr-Eignungs-Register haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.7187026739120483
+  ],
+  [
+    [
+      104,
+      51
+    ],
+    [
+      "Das Fahr-Eignungs-Register ist eine Liste.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.5598331093788147
+  ],
+  [
+    [
+      105,
+      19
+    ],
+    [
+      "In die Liste schreibt das Amt alle schweren Fehler, die Sie im Verkehr gemacht haben.",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.5516424179077148
+  ],
+  [
+    [
+      106,
+      30
+    ],
+    [
+      "Für die Fehler im Verkehr bekommen Sie Punkte .",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5860270261764526
+  ],
+  [
+    [
+      107,
+      1
+    ],
+    [
+      "Wenn Sie 8 Punkte haben, müssen Sie den Führerschein abgeben.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6549049615859985
+  ],
+  [
+    [
+      108,
+      39
+    ],
+    [
+      "3. Oder wenn Ihnen der Führerschein in der Probe-Zeit weggenommen wurde.",
+      "Wurde Ihnen die Fahrerlaubnis gerichtlich entzogen oder wurde Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister oder wegen wiederholter Verstöße innerhalb der Probezeit durch die Führerscheinstelle entzogen?"
+    ],
+    0.6530263423919678
+  ],
+  [
+    [
+      109,
+      43
+    ],
+    [
+      "Weil Sie viele Fehler im Verkehr gemacht haben.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.5656325221061707
+  ],
+  [
+    [
+      110,
+      41
+    ],
+    [
+      "Wenn Sie den Führerschein aus anderen Gründen abgeben mussten, dann gibt es keine besonderen Fristen für den Antrag.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.663140594959259
+  ],
+  [
+    [
+      111,
+      1
+    ],
+    [
+      "Dann können Sie den Antrag sofort stellen .",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6992366313934326
+  ],
+  [
+    [
+      112,
+      50
+    ],
+    [
+      "Wichtig:",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.499064177274704
+  ],
+  [
+    [
+      113,
+      1
+    ],
+    [
+      "Manchmal müssen Sie einen besonderen Test machen, bevor Sie den Führerschein zurück-bekommen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6495580673217773
+  ],
+  [
+    [
+      114,
+      45
+    ],
+    [
+      "Der Test heißt: Medizinisch-psychologische Untersuchung.",
+      "Informationen zur medizinisch-psychologischen Untersuchung"
+    ],
+    0.42212530970573425
+  ],
+  [
+    [
+      115,
+      36
+    ],
+    [
+      "Die Abkürzung dafür ist: MPU .",
+      "Die Bescheinigung ist zwei Jahre gültig."
+    ],
+    0.513097882270813
+  ],
+  [
+    [
+      116,
+      42
+    ],
+    [
+      "Manche sagen zur MPU auch: Idioten-Test.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.48947468400001526
+  ],
+  [
+    [
+      117,
+      42
+    ],
+    [
+      "Wir können erst entscheiden, ob Sie eine MPU machen müssen, wenn wir alle nötigen Papiere für den Antrag von Ihnen haben.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.6676332354545593
+  ],
+  [
+    [
+      118,
+      42
+    ],
+    [
+      "Sie müssen eine MPU machen:",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.7359662652015686
+  ],
+  [
+    [
+      119,
+      43
+    ],
+    [
+      "1. Wenn Sie betrunken gefahren sind.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.536394476890564
+  ],
+  [
+    [
+      120,
+      43
+    ],
+    [
+      "Zum Beispiel: Mit 1,6 oder mehr Promille.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.6079168319702148
+  ],
+  [
+    [
+      121,
+      43
+    ],
+    [
+      "2. Wenn Sie immer wieder mit Alkohol im Verkehr auffallen.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.6894701719284058
+  ],
+  [
+    [
+      122,
+      44
+    ],
+    [
+      "3. Wenn Sie Drogen genommen haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.5953441858291626
+  ],
+  [
+    [
+      123,
+      28
+    ],
+    [
+      "4.",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.4432833194732666
+  ],
+  [
+    [
+      124,
+      44
+    ],
+    [
+      "Oder wenn Sie 8 oder mehr Punkte im Fahr-Eignungs-Register haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.7532461881637573
+  ],
+  [
+    [
+      125,
+      47
+    ],
+    [
+      "Wer ist für mich zuständig?",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.6655271649360657
+  ],
+  [
+    [
+      126,
+      47
+    ],
+    [
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangs-Buchstaben von Ihrem Nach-Namen .",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.9360101819038391
+  ],
+  [
+    [
+      127,
+      48
+    ],
+    [
+      "Sie erreichen Ihren Sach-Bearbeiter oder Ihre Sach-Bearbeiterin unter diesen Telefon-Nummern: Buchstabe A bis F : 02 21 / 22 12 62 35 Buchstabe G bis KI : 02 21 / 22 12 65 01 Buchstabe KL bis Q : 02 21 / 22 12 68 17 Buchstabe R bis Z : 02 21 / 22 12 62 32",
+      "Sie erreichen Ihre Sachbearbeiter*in unter folgenden Telefonnummern:"
+    ],
+    0.6009697318077087
+  ],
+  [
+    [
+      128,
+      49
+    ],
+    [
+      "Der neue EU-Führerschein",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.29617512226104736
+  ],
+  [
+    [
+      129,
+      49
+    ],
+    [
+      "Seit 2013 gibt es in Deutschland den EU -Führerschein .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.5486659407615662
+  ],
+  [
+    [
+      130,
+      30
+    ],
+    [
+      "Die Abkürzung EU steht für: Europäische Union .",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.45925629138946533
+  ],
+  [
+    [
+      131,
+      28
+    ],
+    [
+      "Der Führer-Schein gilt in der ganzen EU .",
+      "Hinweis: Eine erneute Schulung in Erster Hilfe ist nicht erforderlich, wenn Sie bereits bei der Erteilung der entzogenen Fahrerlaubnis an einer Schulung in Erster Hilfe (nach dem 1. April 2015) oder einer Ausbildung in Erster Hilfe teilgenommen haben und diese nachweisen können."
+    ],
+    0.5230252146720886
+  ],
+  [
+    [
+      132,
+      19
+    ],
+    [
+      "Das heißt: Er gilt in den meisten Ländern in Europa.",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.4411809742450714
+  ],
+  [
+    [
+      133,
+      36
+    ],
+    [
+      "Die alten Führerscheine bleiben weiterhin gültig .",
+      "Die Bescheinigung ist zwei Jahre gültig."
+    ],
+    0.5824554562568665
+  ],
+  [
+    [
+      134,
+      1
+    ],
+    [
+      "Aber wenn Sie einen neuen Führer-Schein bekommen, bekommen Sie jetzt immer den EU -Führer-Schein .",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.63539057970047
+  ],
+  [
+    [
+      135,
+      12
+    ],
+    [
+      "Muss ich persönlich ins Amt gehen?",
+      "Sollte Ihre Ärztin oder Ihr Arzt nicht über den notwendigen amtlichen Vordruck verfügen, kann er oder sie sich an die Ärztekammer wenden."
+    ],
+    0.35257449746131897
+  ],
+  [
+    [
+      136,
+      38
+    ],
+    [
+      "Ja.",
+      "Wann können Sie die Wiedererlaubnis beantragen?"
+    ],
+    0.13555742800235748
+  ],
+  [
+    [
+      137,
+      1
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5751584768295288
+  ],
+  [
+    [
+      138,
+      21
+    ],
+    [
+      "Die Adresse finden Sie unter der Überschrift:",
+      "Weitere Informationen finden Sie auf der Seite Berufsqualifizierung und Weiterbildung (siehe unter Ähnliche Dienstleistungen)"
+    ],
+    0.6510876417160034
+  ],
+  [
+    [
+      139,
+      1
+    ],
+    [
+      "Wo bekomme ich den Führerschein wieder?",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.43648761510849
+  ],
+  [
+    [
+      140,
+      29
+    ],
+    [
+      "Wie viel kostet das?",
+      "Bescheinigung über das Sehvermögen"
+    ],
+    0.35672807693481445
+  ],
+  [
+    [
+      141,
+      53
+    ],
+    [
+      "Sie müssen bis zu 256 Euro bezahlen.",
+      "Bis zu 256 Euro, abhängig vom Aufwand."
+    ],
+    0.6858074069023132
+  ],
+  [
+    [
+      142,
+      46
+    ],
+    [
+      "Achtung:",
+      "Zuständigkeit"
+    ],
+    0.5085602402687073
+  ],
+  [
+    [
+      143,
+      43
+    ],
+    [
+      "Manchmal müssen Sie mehr Geld bezahlen.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.5616956949234009
+  ],
+  [
+    [
+      144,
+      20
+    ],
+    [
+      "Zum Beispiel: Wenn Sie eine Weiterbildung gemacht haben nach dem Berufs-Fahrer-Qualifizierungs-Gesetz .",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.6029196381568909
+  ],
+  [
+    [
+      145,
+      1
+    ],
+    [
+      "Dann müssen Sie zusätzlich 28,60 Euro bezahlen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5029233694076538
+  ],
+  [
+    [
+      146,
+      56
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.7067893147468567
+  ],
+  [
+    [
+      147,
+      56
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.6140352487564087
+  ],
+  [
+    [
+      148,
+      56
+    ],
+    [
+      "Oder Sie können mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.7675602436065674
+  ],
+  [
+    [
+      149,
+      51
+    ],
+    [
+      "Eine EC -Karte ist eine Karte aus Plastik.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.48277148604393005
+  ],
+  [
+    [
+      150,
+      30
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5773268342018127
+  ],
+  [
+    [
+      151,
+      56
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5997650623321533
+  ],
+  [
+    [
+      152,
+      30
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.4848187267780304
+  ],
+  [
+    [
+      153,
+      25
+    ],
+    [
+      "Die Gesetze zum Führer-Schein stehen in der Fahr-Erlaubnis-Verordnung .",
+      "Die Teilnahmebescheinigung der umfassenden Ausbildung in Erster Hilfe kann ebenfalls anerkannt werden."
+    ],
+    0.5834188461303711
+  ],
+  [
+    [
+      154,
+      11
+    ],
+    [
+      "In Paragraf § 20 .",
+      "Hierfür benötigen Sie eine in der Fahrerlaubnisverordnung (FeV) vorgeschriebene Musterbescheinigung (Anlage 5 FeV), über den die Ärztin oder der Arzt aber im Regelfall verfügt."
+    ],
+    0.4555893540382385
+  ],
+  [
+    [
+      155,
+      14
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.4728632867336273
+  ],
+  [
+    [
+      156,
+      47
+    ],
+    [
+      "Das Zeichen für Paragraf ist: § Wo bekomme ich den Führerschein wieder?",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.4587484300136566
+  ],
+  [
+    [
+      157,
+      51
+    ],
+    [
+      "Das ist unsere Adresse:",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.44878697395324707
+  ],
+  [
+    [
+      158,
+      35
+    ],
+    [
+      "Führerscheinstelle Ottmar-Pohl-Platz 1",
+      "Sie benötigen eine Bescheinigung nach dem Muster der Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung."
+    ],
+    0.4240502119064331
+  ],
+  [
+    [
+      159,
+      26
+    ],
+    [
+      "51103 Köln",
+      "Die Stadt Köln akzeptiert grundsätzlich nur Nachweise über Erste-Hilfe-Schulungen, die in Präsenz durchgeführt worden sind."
+    ],
+    0.3020413815975189
+  ],
+  [
+    [
+      160,
+      52
+    ],
+    [
+      "Öffnungs-Zeiten",
+      "Gebühren"
+    ],
+    0.49250245094299316
+  ],
+  [
+    [
+      161,
+      10
+    ],
+    [
+      "Montag bis Freitag von 8 bis 12 Uhr",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.44228479266166687
+  ],
+  [
+    [
+      162,
+      1
+    ],
+    [
+      "Sie können auch einen Termin machen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.6381487250328064
+  ],
+  [
+    [
+      163,
+      30
+    ],
+    [
+      "Dann müssen Sie sich nicht an die Öffnungs-Zeiten halten.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.7317968606948853
+  ],
+  [
+    [
+      164,
+      1
+    ],
+    [
+      "Sie wollen einen Termin bei uns machen?",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5841423869132996
+  ],
+  [
+    [
+      165,
+      30
+    ],
+    [
+      "Dann rufen Sie uns an.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5082674026489258
+  ],
+  [
+    [
+      166,
+      10
+    ],
+    [
+      "Telefon : 02 21 / 22 12 61 55 Oder schreiben Sie uns.",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.42239055037498474
+  ],
+  [
+    [
+      167,
+      8
+    ],
+    [
+      "Dafür gibt es ein sicheres Kontakt-Formular .",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.509655237197876
+  ],
+  [
+    [
+      168,
+      27
+    ],
+    [
+      "Sie können uns auch eine E-Mail schreiben.",
+      "Online-Schulungen können wir nicht anerkennen."
+    ],
+    0.5491262078285217
+  ],
+  [
+    [
+      169,
+      11
+    ],
+    [
+      "Also eine Nachricht im Internet.",
+      "Hierfür benötigen Sie eine in der Fahrerlaubnisverordnung (FeV) vorgeschriebene Musterbescheinigung (Anlage 5 FeV), über den die Ärztin oder der Arzt aber im Regelfall verfügt."
+    ],
+    0.4774837791919708
+  ],
+  [
+    [
+      170,
+      29
+    ],
+    [
+      "Ist das Amt zugänglich für Menschen mit Behinderung?",
+      "Bescheinigung über das Sehvermögen"
+    ],
+    0.48835036158561707
+  ],
+  [
+    [
+      171,
+      51
+    ],
+    [
+      "Der Eingangs-Bereich ist voll zugänglich.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.45343491435050964
+  ],
+  [
+    [
+      172,
+      8
+    ],
+    [
+      "Es gibt Behinderten-Park-Plätze .",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.5314310789108276
+  ],
+  [
+    [
+      173,
+      23
+    ],
+    [
+      "Es gibt Aufzüge für Rollstuhl-Fahrer und Fahrerinnen.",
+      "Die Erste-Hilfe-Schulung beinhaltet neun Unterrichtseinheiten zu je 45 Minuten und gilt für alle Führerscheinklassen."
+    ],
+    0.4893108010292053
+  ],
+  [
+    [
+      174,
+      8
+    ],
+    [
+      "Es gibt Hilfen für Blinde und Seh-Behinderte .",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.4682500958442688
+  ],
+  [
+    [
+      175,
+      23
+    ],
+    [
+      "Es gibt Klos für Rollstuhl-Fahrer und Fahrerinnen.",
+      "Die Erste-Hilfe-Schulung beinhaltet neun Unterrichtseinheiten zu je 45 Minuten und gilt für alle Führerscheinklassen."
+    ],
+    0.47625717520713806
+  ],
+  [
+    [
+      176,
+      8
+    ],
+    [
+      "Wie komme ich zur Führerschein-Stelle?",
+      "Hier gibt es unterschiedliche Voraussetzungen je nach Führerscheinklasse, siehe dazu unten: Informationen zur Bescheinigung Sehvermögen."
+    ],
+    0.4866010844707489
+  ],
+  [
+    [
+      177,
+      43
+    ],
+    [
+      "Sie können mit Bus oder Bahn zu uns kommen.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.5800030827522278
+  ],
+  [
+    [
+      178,
+      31
+    ],
+    [
+      "Zum Beispiel: Stadt-Bahn-Linien 1 und 9 Halte-Stelle: Kalk Kapelle",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.3997666537761688
+  ],
+  [
+    [
+      179,
+      36
+    ],
+    [
+      "Die Halte-Stelle ist rollstuhl-gerecht.",
+      "Die Bescheinigung ist zwei Jahre gültig."
+    ],
+    0.5122724175453186
+  ],
+  [
+    [
+      180,
+      10
+    ],
+    [
+      "Stadt-Bahn-Linien 1 und 9 Halte-Stelle:",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.48615607619285583
+  ],
+  [
+    [
+      181,
+      52
+    ],
+    [
+      "Kalk Post",
+      "Gebühren"
+    ],
+    0.18358305096626282
+  ],
+  [
+    [
+      182,
+      6
+    ],
+    [
+      "Die Halte-Stelle ist nicht rollstuhl-gerecht.",
+      "Die Vorlage eines Lichtbildes in digitaler Form ist nicht gestattet."
+    ],
+    0.5374749898910522
+  ],
+  [
+    [
+      183,
+      49
+    ],
+    [
+      "Bus-Linie 159 Halte-Stellen:",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.3588954210281372
+  ],
+  [
+    [
+      184,
+      31
+    ],
+    [
+      "Kalk Kapelle und Kalk Post S-Bahn-Linien S",
+      "Für die Klassen A, A2, A1 und AM (Motorrad), B und BE (Personenkraftwagen), sowie L und T (Traktoren) gilt:"
+    ],
+    0.37956714630126953
+  ],
+  [
+    [
+      185,
+      10
+    ],
+    [
+      "12 und S 13 Halte-Stelle:",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.5703067183494568
+  ],
+  [
+    [
+      187,
+      6
+    ],
+    [
+      "Die Halte-Stelle ist nicht rollstuhl-gerecht.",
+      "Die Vorlage eines Lichtbildes in digitaler Form ist nicht gestattet."
+    ],
+    0.5374749898910522
+  ],
+  [
+    [
+      188,
+      10
+    ],
+    [
+      "Regional-Bahn RB 25 Halte-Stelle:",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.3373473286628723
+  ],
+  [
+    [
+      190,
+      6
+    ],
+    [
+      "Die Halte-Stelle ist nicht rollstuhl-gerecht.",
+      "Die Vorlage eines Lichtbildes in digitaler Form ist nicht gestattet."
+    ],
+    0.5374749898910522
+  ],
+  [
+    [
+      191,
+      21
+    ],
+    [
+      "Weitere Informationen *",
+      "Weitere Informationen finden Sie auf der Seite Berufsqualifizierung und Weiterbildung (siehe unter Ähnliche Dienstleistungen)"
+    ],
+    0.7118063569068909
+  ],
+  [
+    [
+      192,
+      30
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.418503075838089
+  ]
+]

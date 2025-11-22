@@ -1,0 +1,904 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Blut ist für den Körper sehr wichtig.",
+      "Kleinere Blutverluste ersetzt ein gesunder Körper durch die vermehrte Neubildung von Blut ."
+    ],
+    0.4233786165714264
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Blut bringt nämlich Sauerstoff und Nährstoffe zu den Organen.",
+      "Kleinere Blutverluste ersetzt ein gesunder Körper durch die vermehrte Neubildung von Blut ."
+    ],
+    0.4311063587665558
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Das Blut fließt durch die Blutgefäße durch den ganzen Körper.",
+      "Kleinere Blutverluste ersetzt ein gesunder Körper durch die vermehrte Neubildung von Blut ."
+    ],
+    0.6144458055496216
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Normalweise kann der Körper selbst Blut bilden.",
+      "Kleinere Blutverluste ersetzt ein gesunder Körper durch die vermehrte Neubildung von Blut ."
+    ],
+    0.4739612340927124
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Eine Person hatte einen Unfall?",
+      "Auch ein länger andauernder (chronischer) Blutverlust kann eine Bluttransfusion nötig machen."
+    ],
+    0.3774159550666809
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Dann verliert der Körper vielleicht sehr viel Blut.",
+      "Ab wann eine Bluttransfusion nötig ist, hängt neben der Menge des verlorenen Blutes auch vom individuellen Gesundheitszustand der Betroffenen ab."
+    ],
+    0.5350309014320374
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Dann kann der Körper vielleicht nicht genug Blut selbst bilden.",
+      "Ab wann eine Bluttransfusion nötig ist, hängt neben der Menge des verlorenen Blutes auch vom individuellen Gesundheitszustand der Betroffenen ab."
+    ],
+    0.5165201425552368
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Betroffene Personen brauchen dann eine Blut-Transfusion.",
+      "Ab wann eine Bluttransfusion nötig ist, hängt neben der Menge des verlorenen Blutes auch vom individuellen Gesundheitszustand der Betroffenen ab."
+    ],
+    0.5973198413848877
+  ],
+  [
+    [
+      8,
+      8
+    ],
+    [
+      "Das bedeutet: Die betroffene Person bekommt Blut im Krankenhaus.",
+      "Das heißt, nur ärztliches Personal darf über die Gabe entscheiden und führt diese dann auch selbst durch."
+    ],
+    0.45401594042778015
+  ],
+  [
+    [
+      9,
+      9
+    ],
+    [
+      "Bei einer Blut-Transfusion bekommt die Person eigenes Blut oder Blut von einer anderen Person.",
+      "Vor einer Bluttransfusion muss eine Aufklärung erfolgen."
+    ],
+    0.5679144263267517
+  ],
+  [
+    [
+      10,
+      15
+    ],
+    [
+      "Das Blut wird über die Venen gegeben.",
+      "Es darf nur Blut gegeben werden, welches auch vertragen wird, da sonst lebensbedrohliche Abwehrreaktionen gegen das Spenderblut auftreten können."
+    ],
+    0.6243500709533691
+  ],
+  [
+    [
+      11,
+      15
+    ],
+    [
+      "Venen transportieren das Blut zum Herzen.",
+      "Es darf nur Blut gegeben werden, welches auch vertragen wird, da sonst lebensbedrohliche Abwehrreaktionen gegen das Spenderblut auftreten können."
+    ],
+    0.5206015706062317
+  ],
+  [
+    [
+      12,
+      18
+    ],
+    [
+      "Venen und Arterien bilden zusammen die Blutgefäße im Körper.",
+      "Kommt es zu Verklumpungen in der Probe, bedeutet dies eine Unverträglichkeit und die Blutkonserve darf nicht gegeben werden."
+    ],
+    0.5168004035949707
+  ],
+  [
+    [
+      13,
+      18
+    ],
+    [
+      "Ein Patient braucht eine Blut-Transfusion?",
+      "Kommt es zu Verklumpungen in der Probe, bedeutet dies eine Unverträglichkeit und die Blutkonserve darf nicht gegeben werden."
+    ],
+    0.49338874220848083
+  ],
+  [
+    [
+      14,
+      18
+    ],
+    [
+      "Dann spricht der Arzt mit dem Patienten.",
+      "Kommt es zu Verklumpungen in der Probe, bedeutet dies eine Unverträglichkeit und die Blutkonserve darf nicht gegeben werden."
+    ],
+    0.445108562707901
+  ],
+  [
+    [
+      15,
+      19
+    ],
+    [
+      "Der Arzt erklärt den Ablauf der Blut-Transfusion.",
+      "Um eine Verwechslung von Blutkonserven zu vermeiden, gibt es unmittelbar vor der Transfusion zusätzlich den sogenannten Bedside-Test."
+    ],
+    0.5079780220985413
+  ],
+  [
+    [
+      16,
+      20
+    ],
+    [
+      "Und der Arzt erklärt auch die Risiken.",
+      "Hierbei wird direkt an der Patientin oder dem Patient („neben dem Bett“) die Verträglichkeit ein letztes Mal getestet."
+    ],
+    0.5138579607009888
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Der Patient muss mit einer Blut-Transfusion einverstanden sein.",
+      "Hierbei wird direkt an der Patientin oder dem Patient („neben dem Bett“) die Verträglichkeit ein letztes Mal getestet."
+    ],
+    0.48028671741485596
+  ],
+  [
+    [
+      18,
+      20
+    ],
+    [
+      "Der Patient ist mit einer Blut-Transfusion einverstanden?",
+      "Hierbei wird direkt an der Patientin oder dem Patient („neben dem Bett“) die Verträglichkeit ein letztes Mal getestet."
+    ],
+    0.4719524681568146
+  ],
+  [
+    [
+      19,
+      20
+    ],
+    [
+      "Dann muss er eine Einverständniserklärung unterschreiben.",
+      "Hierbei wird direkt an der Patientin oder dem Patient („neben dem Bett“) die Verträglichkeit ein letztes Mal getestet."
+    ],
+    0.4073503911495209
+  ],
+  [
+    [
+      20,
+      20
+    ],
+    [
+      "Bei einem Notfall darf der Arzt aber immer eine Blut-Transfusion durchführen.",
+      "Hierbei wird direkt an der Patientin oder dem Patient („neben dem Bett“) die Verträglichkeit ein letztes Mal getestet."
+    ],
+    0.5218707919120789
+  ],
+  [
+    [
+      21,
+      20
+    ],
+    [
+      "Als erstes bekommt der Patient einen Venenzugang.",
+      "Hierbei wird direkt an der Patientin oder dem Patient („neben dem Bett“) die Verträglichkeit ein letztes Mal getestet."
+    ],
+    0.508522093296051
+  ],
+  [
+    [
+      22,
+      24
+    ],
+    [
+      "Das heißt: Der Arzt führt einen kleinen Plastikschlauch in die Vene wird ein.",
+      "Die Bluttransfusion erfolgt wie eine normale Infusion – das Blut tropft aus einem Beutel in die Vene."
+    ],
+    0.5636919736862183
+  ],
+  [
+    [
+      23,
+      26
+    ],
+    [
+      "Über diesen Schlauch bekommt der Patient später das Blut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.5510455369949341
+  ],
+  [
+    [
+      24,
+      26
+    ],
+    [
+      "Der Arzt prüft mehrmals:",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.2928470969200134
+  ],
+  [
+    [
+      25,
+      26
+    ],
+    [
+      "Verträgt der Patient die Blutkonserve?",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6263918280601501
+  ],
+  [
+    [
+      26,
+      26
+    ],
+    [
+      "Erst dann bekommt der Patient die Blut-Transfusion.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.5841596722602844
+  ],
+  [
+    [
+      27,
+      26
+    ],
+    [
+      "Blut besteht aus Plasma und Zellen.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.5061391592025757
+  ],
+  [
+    [
+      28,
+      26
+    ],
+    [
+      "Im Blut sind zum Beispiel: rote Blutzellen weiße Blutzellen Blutplättchen Blutplasma.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.4528329074382782
+  ],
+  [
+    [
+      29,
+      26
+    ],
+    [
+      "Blutplasma ist eine Flüssigkeit.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.4762857258319855
+  ],
+  [
+    [
+      30,
+      26
+    ],
+    [
+      "Bei einer Blut-Transfusion bekommt ein Patient Blut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.5476783514022827
+  ],
+  [
+    [
+      31,
+      26
+    ],
+    [
+      "Das Blut nennt man auch: Blutkonserve.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6035926342010498
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "Es gibt verschiedene Arten von Blutkonserven: Blutkonserven aus Vollblut .",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.50848388671875
+  ],
+  [
+    [
+      33,
+      26
+    ],
+    [
+      "Das ist Blut mit allen Bestandteilen.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.47238460183143616
+  ],
+  [
+    [
+      34,
+      26
+    ],
+    [
+      "Blutkonserven aus einzelnen Bestandteilen .",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.49438801407814026
+  ],
+  [
+    [
+      35,
+      26
+    ],
+    [
+      "Meistens braucht der Patient nämlich kein Vollblut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6975696086883545
+  ],
+  [
+    [
+      36,
+      26
+    ],
+    [
+      "Der Patient bekommt zum Beispiel nur rote Blutzellen.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.446975439786911
+  ],
+  [
+    [
+      37,
+      26
+    ],
+    [
+      "Oder der Patient bekommt nur Blutplasma.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6069475412368774
+  ],
+  [
+    [
+      38,
+      34
+    ],
+    [
+      "Das Blut kommt von Blut-Spendern?",
+      "Bei der Fremdblutspende stammt das Blut von jemand Fremden, bei der Eigenblutspende wird es den Behandelten selbst im Vorfeld entnommen."
+    ],
+    0.5520803928375244
+  ],
+  [
+    [
+      39,
+      37
+    ],
+    [
+      "Dann heißt es: Fremdblut .",
+      "Allerdings wird für die Aufbereitung des Spenderbluts, bis es als Konserve eingelagert werden kann, etwas Zeit benötigt."
+    ],
+    0.3246702253818512
+  ],
+  [
+    [
+      40,
+      38
+    ],
+    [
+      "Das Fremdblut wird genau auf Krankheiten untersucht.",
+      "Drei bis sechs Wochen vor der Operation muss das Blut abgenommen werden."
+    ],
+    0.3988807201385498
+  ],
+  [
+    [
+      41,
+      38
+    ],
+    [
+      "Das Blut kommt vom Patienten selbst?",
+      "Drei bis sechs Wochen vor der Operation muss das Blut abgenommen werden."
+    ],
+    0.45048657059669495
+  ],
+  [
+    [
+      42,
+      38
+    ],
+    [
+      "Dann heißt es: Eigenblut .",
+      "Drei bis sechs Wochen vor der Operation muss das Blut abgenommen werden."
+    ],
+    0.2766653597354889
+  ],
+  [
+    [
+      43,
+      38
+    ],
+    [
+      "Dazu wird dem Patienten zum Beispiel vor einer Operation Blut entnommen.",
+      "Drei bis sechs Wochen vor der Operation muss das Blut abgenommen werden."
+    ],
+    0.5773372650146484
+  ],
+  [
+    [
+      44,
+      38
+    ],
+    [
+      "Eigenblut muss man mindestens drei bis sechs Wochen vor einer Operation geben.",
+      "Drei bis sechs Wochen vor der Operation muss das Blut abgenommen werden."
+    ],
+    0.7639231085777283
+  ],
+  [
+    [
+      45,
+      42
+    ],
+    [
+      "Eine Blut-Transfusion kann verschiedene Gründe haben.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.5845828056335449
+  ],
+  [
+    [
+      46,
+      42
+    ],
+    [
+      "Gründe für eine Blut-Transfusion sind zum Beispiel: eine Operation .",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.46992960572242737
+  ],
+  [
+    [
+      47,
+      42
+    ],
+    [
+      "Manchmal braucht ein Patient während einer Operation eine Blut-Transfusion.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.5560305118560791
+  ],
+  [
+    [
+      48,
+      42
+    ],
+    [
+      "So eine Operation ist zum Beispiel eine Herzoperation oder eine Operation an den Blutgefäßen.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.4520634114742279
+  ],
+  [
+    [
+      49,
+      42
+    ],
+    [
+      "ein Unfall .",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.18524496257305145
+  ],
+  [
+    [
+      50,
+      42
+    ],
+    [
+      "Eine Person hat einen schweren Unfall und hat viel Blut verloren?",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.4245219826698303
+  ],
+  [
+    [
+      51,
+      42
+    ],
+    [
+      "Dann braucht diese Person vielleicht eine Blut-Transfusion.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.5648791193962097
+  ],
+  [
+    [
+      52,
+      42
+    ],
+    [
+      "manche Erkrankungen .",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.4922887980937958
+  ],
+  [
+    [
+      53,
+      42
+    ],
+    [
+      "Bei manchen Erkrankungen verlieren betroffene Personen viel Blut.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.4276326894760132
+  ],
+  [
+    [
+      54,
+      42
+    ],
+    [
+      "Zu diesen Erkrankungen gehören zum Beispiel Krebs-Erkrankungen oder Leukämie.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.375810444355011
+  ],
+  [
+    [
+      55,
+      42
+    ],
+    [
+      "Dann brauchen die betroffenen Personen vielleicht auch eine Blut-Transfusion.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.6048245429992676
+  ],
+  [
+    [
+      56,
+      42
+    ],
+    [
+      "Eine Blut-Transfusion hat immer auch Risiken.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.6593195796012878
+  ],
+  [
+    [
+      57,
+      44
+    ],
+    [
+      "Risiken einer Blut-Transfusion sind zum Beispiel: ein Bluterguss oder eine Entzündung an der Einstichstelle kleine Klumpen im Blut",
+      "Dazu können Blutergüsse oder Infektionen an der Einstichstelle gehören."
+    ],
+    0.6671218276023865
+  ],
+  [
+    [
+      58,
+      47
+    ],
+    [
+      "Fieber",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.6896183490753174
+  ],
+  [
+    [
+      59,
+      47
+    ],
+    [
+      "Schüttelfrost",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.8844114542007446
+  ],
+  [
+    [
+      60,
+      47
+    ],
+    [
+      "Unwohlsein",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.8844114542007446
+  ],
+  [
+    [
+      61,
+      49
+    ],
+    [
+      "Manchmal bekommt der Patient Blut mit einer falschen Blutgruppe.",
+      "Beispielsweise erhält ein Mensch mit der Blutgruppe A Blut mit der Blutgruppe B."
+    ],
+    0.7157351970672607
+  ],
+  [
+    [
+      62,
+      50
+    ],
+    [
+      "Dann lösen sich vielleicht die roten Blutkörperchen auf.",
+      "Es kann dann zur Abwehrreaktion des Immunsystems gegen das Spenderblut mit Zerstörung zahlreicher roter Blutkörperchen kommen, einer sogenannten Hämolyse."
+    ],
+    0.5136148929595947
+  ],
+  [
+    [
+      63,
+      50
+    ],
+    [
+      "Das kann für den Patienten sehr gefährlich sein.",
+      "Es kann dann zur Abwehrreaktion des Immunsystems gegen das Spenderblut mit Zerstörung zahlreicher roter Blutkörperchen kommen, einer sogenannten Hämolyse."
+    ],
+    0.4631628692150116
+  ],
+  [
+    [
+      64,
+      51
+    ],
+    [
+      "Deshalb prüft der Arzt vor der Blut-Transfusion mehrmals:",
+      "Dabei drohen Kreislaufschock, Nierenversagen und Störungen der Blutgerinnung."
+    ],
+    0.548468291759491
+  ],
+  [
+    [
+      65,
+      51
+    ],
+    [
+      "Verträgt der Patient die Blutkonserve?",
+      "Dabei drohen Kreislaufschock, Nierenversagen und Störungen der Blutgerinnung."
+    ],
+    0.5430431962013245
+  ],
+  [
+    [
+      66,
+      53
+    ],
+    [
+      "Bei einer Blut-Transfusion können auch Viren übertragen werden.",
+      "Trotz strenger gesetzlicher Vorschriften im Transfusionsgesetz und sorgfältiger Untersuchung der gespendeten Blutpräparate lässt sich nicht mit absoluter Sicherheit ausschließen, dass bei der Blutübertragung auch Krankheitserreger weitergegeben werden."
+    ],
+    0.6226017475128174
+  ],
+  [
+    [
+      67,
+      54
+    ],
+    [
+      "Die Viren können Krankheiten auslösen.",
+      "Dazu zählen beispielsweise Hepatitis -Viren, die eine Leberentzündung verursachen können und HI-Viren, die zu AIDS führen können."
+    ],
+    0.6578521132469177
+  ],
+  [
+    [
+      68,
+      54
+    ],
+    [
+      "HI-Viren können zu AIDS führen.",
+      "Dazu zählen beispielsweise Hepatitis -Viren, die eine Leberentzündung verursachen können und HI-Viren, die zu AIDS führen können."
+    ],
+    0.7961668968200684
+  ],
+  [
+    [
+      69,
+      56
+    ],
+    [
+      "Viren werden aber nur selten übertragen.",
+      "Zum Beispiel liegt sie für die Übertragung von Hepatitis C oder HIV bei deutlich weniger als 1 zu 1 Million, ist also sehr unwahrscheinlich."
+    ],
+    0.4549950957298279
+  ],
+  [
+    [
+      70,
+      56
+    ],
+    [
+      "Das Blut wird nämlich genau untersucht.",
+      "Zum Beispiel liegt sie für die Übertragung von Hepatitis C oder HIV bei deutlich weniger als 1 zu 1 Million, ist also sehr unwahrscheinlich."
+    ],
+    0.3961597979068756
+  ],
+  [
+    [
+      71,
+      57
+    ],
+    [
+      "Eine Blut-Transfusion kann zu allergischen Reaktionen führen.",
+      "Allergische Reaktionen auf eine Bluttransfusion können von einem juckenden Hautausschlag bis hin zu einem allergischen Schock mit Kreislauf- und Atemversagen reichen."
+    ],
+    0.7044636607170105
+  ],
+  [
+    [
+      72,
+      57
+    ],
+    [
+      "Betroffene Personen haben dann vielleicht einen juckenden Hautausschlag.",
+      "Allergische Reaktionen auf eine Bluttransfusion können von einem juckenden Hautausschlag bis hin zu einem allergischen Schock mit Kreislauf- und Atemversagen reichen."
+    ],
+    0.5250599384307861
+  ],
+  [
+    [
+      73,
+      57
+    ],
+    [
+      "Selten kann auch ein allergischer Schock auftreten.",
+      "Allergische Reaktionen auf eine Bluttransfusion können von einem juckenden Hautausschlag bis hin zu einem allergischen Schock mit Kreislauf- und Atemversagen reichen."
+    ],
+    0.5591967701911926
+  ],
+  [
+    [
+      74,
+      60
+    ],
+    [
+      "Das bedeutet:",
+      "Sie bewirkt eine Beeinträchtigung der betroffenen Organe."
+    ],
+    0.3172207772731781
+  ],
+  [
+    [
+      75,
+      60
+    ],
+    [
+      "Der Kreislauf bricht zusammen.",
+      "Sie bewirkt eine Beeinträchtigung der betroffenen Organe."
+    ],
+    0.31890007853507996
+  ],
+  [
+    [
+      76,
+      60
+    ],
+    [
+      "Der Patient hört dann vielleicht auf zu atmen.",
+      "Sie bewirkt eine Beeinträchtigung der betroffenen Organe."
+    ],
+    0.3114449679851532
+  ],
+  [
+    [
+      77,
+      62
+    ],
+    [
+      "Deshalb muss ein Patient für eine Blut-Transfusion immer ins Krankenhaus.",
+      "Christof Weinstock, Leiter der Abteilung Blutgruppenserologie und Immunhämatologie im Institut für Klinische Transfusionsmedizin und Immungenetik Ulm."
+    ],
+    0.39365866780281067
+  ],
+  [
+    [
+      78,
+      62
+    ],
+    [
+      "Sie wollen noch mehr über die Blut-Transfusion lesen?",
+      "Christof Weinstock, Leiter der Abteilung Blutgruppenserologie und Immunhämatologie im Institut für Klinische Transfusionsmedizin und Immungenetik Ulm."
+    ],
+    0.2830590605735779
+  ],
+  [
+    [
+      79,
+      62
+    ],
+    [
+      "Mehr Informationen über die Bluttransfusion finden Sie hier .",
+      "Christof Weinstock, Leiter der Abteilung Blutgruppenserologie und Immunhämatologie im Institut für Klinische Transfusionsmedizin und Immungenetik Ulm."
+    ],
+    0.30603891611099243
+  ],
+  [
+    [
+      80,
+      62
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Christof Weinstock, Leiter der Abteilung Blutgruppenserologie und Immunhämatologie im Institut für Klinische Transfusionsmedizin und Immungenetik Ulm."
+    ],
+    0.212641179561615
+  ],
+  [
+    [
+      81,
+      62
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Christof Weinstock, Leiter der Abteilung Blutgruppenserologie und Immunhämatologie im Institut für Klinische Transfusionsmedizin und Immungenetik Ulm."
+    ],
+    0.27180132269859314
+  ]
+]

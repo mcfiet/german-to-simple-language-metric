@@ -1,0 +1,849 @@
+[
+  [
+    [
+      0,
+      7
+    ],
+    [
+      "Eine Person hatte einen Unfall?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16403284668922424
+  ],
+  [
+    [
+      1,
+      7
+    ],
+    [
+      "Dann ist diese Person vielleicht bewusstlos.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.29407981038093567
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Bewusstlos bedeutet: Eine Person reagiert nicht auf Ansprache und Reize.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2578960061073303
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Die Person atmet aber noch selbstständig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2412298023700714
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Die stabile Seitenlage ist eine wichtige Erste-Hilfe-Maßnahme.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.12102237343788147
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "Die stabile Seitenlage schützt bewusstlose Personen nämlich vor dem Ersticken.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17816179990768433
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Eine Person ist bewusstlos?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2404729276895523
+  ],
+  [
+    [
+      7,
+      7
+    ],
+    [
+      "Dann kann das gefährlich sein.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.23037852346897125
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Personen haben nämlich keine Schutzreflexe mehr.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.22736015915870667
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Die Personen können dann zum Beispiel nicht mehr schlucken oder würgen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19071929156780243
+  ],
+  [
+    [
+      11,
+      7
+    ],
+    [
+      "Die Muskulatur von bewusstlosen Personen ist nämlich schlaff.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.22316402196884155
+  ],
+  [
+    [
+      12,
+      7
+    ],
+    [
+      "Deshalb kann die Zunge nach hinten fallen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2093929946422577
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Und die Zunge kann die Atemwege verschließen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.23615461587905884
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Bei bewusstlosen Personen können Blut oder Erbrochenes schneller in die Atemwege gelangen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19279345870018005
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Im schlimmsten Fall können die Personen daran ersticken.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19960233569145203
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Die stabile Seitenlage verhindert ein Ersticken.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.12704665958881378
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "In der stabilen Seitenlage bleiben die Atemwege nämlich frei.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18935787677764893
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Blut oder Erbrochenes können dann nicht mehr so leicht in die Atemwege gelangen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.24642162024974823
+  ],
+  [
+    [
+      19,
+      7
+    ],
+    [
+      "Deshalb ist die stabile Seitenlage eine wichtige Erste-Hilfe-Maßnahme.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16991043090820312
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Sie sehen einen Unfall?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.1669265329837799
+  ],
+  [
+    [
+      21,
+      7
+    ],
+    [
+      "Dann sollten Sie folgende Dinge tun:",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16302001476287842
+  ],
+  [
+    [
+      22,
+      7
+    ],
+    [
+      "Sichern Sie als erstes die Unfallstelle.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16661971807479858
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Rufen Sie dann den Notruf .",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.1381046622991562
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Die Notrufnummer ist: 112 .",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.07649108022451401
+  ],
+  [
+    [
+      25,
+      7
+    ],
+    [
+      "Kümmern Sie sich dann um die verletzte Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2313353419303894
+  ],
+  [
+    [
+      26,
+      7
+    ],
+    [
+      "Sprechen Sie die Person zuerst an .",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.22823438048362732
+  ],
+  [
+    [
+      27,
+      7
+    ],
+    [
+      "Rütteln Sie dann vorsichtig an der Schulter.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19109007716178894
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Die betroffene Person reagiert nicht?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2637850344181061
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Dann ist die Person wahrscheinlich bewusstlos.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.28642117977142334
+  ],
+  [
+    [
+      30,
+      7
+    ],
+    [
+      "Prüfen Sie die Atmung der betroffenen Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.20721344649791718
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "Kippen Sie dazu den Kopf der betroffenen Person leicht nach hinten.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19228282570838928
+  ],
+  [
+    [
+      32,
+      7
+    ],
+    [
+      "Und heben Sie das Kinn an.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.13085605204105377
+  ],
+  [
+    [
+      33,
+      7
+    ],
+    [
+      "Öffnen Sie dann den Mund der Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.1744801551103592
+  ],
+  [
+    [
+      34,
+      7
+    ],
+    [
+      "Ist irgendein Gegenstand im Mund?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16414828598499298
+  ],
+  [
+    [
+      35,
+      7
+    ],
+    [
+      "Dann entfernen Sie diesen Gegenstand.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17534543573856354
+  ],
+  [
+    [
+      36,
+      7
+    ],
+    [
+      "Lehnen Sie sich näher an die Person heran.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19900910556316376
+  ],
+  [
+    [
+      37,
+      7
+    ],
+    [
+      "Können Sie Atem-Geräusche hören?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16826435923576355
+  ],
+  [
+    [
+      38,
+      7
+    ],
+    [
+      "Bewegt sich der Bauch?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.20797254145145416
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die Person atmet nicht?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2305373102426529
+  ],
+  [
+    [
+      40,
+      7
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.26087671518325806
+  ],
+  [
+    [
+      41,
+      7
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.12561698257923126
+  ],
+  [
+    [
+      42,
+      7
+    ],
+    [
+      "Die Person atmet normal?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17261090874671936
+  ],
+  [
+    [
+      43,
+      7
+    ],
+    [
+      "Dann bringen Sie die betroffene Person in die stabile Seitenlage.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17069506645202637
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Sie möchten eine bewusstlose Person in die stabile Seitenlage bringen?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18937046825885773
+  ],
+  [
+    [
+      45,
+      7
+    ],
+    [
+      "Dann beachten Sie diese Dinge:",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19503626227378845
+  ],
+  [
+    [
+      46,
+      8
+    ],
+    [
+      "1. Drehen Sie die betroffene Person zuerst auf den Rücken.",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.15470021963119507
+  ],
+  [
+    [
+      47,
+      8
+    ],
+    [
+      "2. Knien",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.008648457936942577
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Sie",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.38612228631973267
+  ],
+  [
+    [
+      49,
+      8
+    ],
+    [
+      "sich neben die Person.",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.15362851321697235
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "3. Strecken",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.0327032171189785
+  ],
+  [
+    [
+      51,
+      8
+    ],
+    [
+      "Sie",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.38612228631973267
+  ],
+  [
+    [
+      52,
+      8
+    ],
+    [
+      "beide Arme der betroffenen Person nach unten aus.",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.14270149171352386
+  ],
+  [
+    [
+      53,
+      14
+    ],
+    [
+      "Die Armen sollten neben dem Körper liegen.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.2012159824371338
+  ],
+  [
+    [
+      54,
+      14
+    ],
+    [
+      "4. Nehmen Sie dann den näheren Arm.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.16460095345973969
+  ],
+  [
+    [
+      55,
+      14
+    ],
+    [
+      "Sie sitzen links neben der Person?",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.17388196289539337
+  ],
+  [
+    [
+      56,
+      14
+    ],
+    [
+      "Dann nehmen Sie den linken Arm.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.21901069581508636
+  ],
+  [
+    [
+      57,
+      14
+    ],
+    [
+      "Sie sitzen rechts neben der Person?",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.18464121222496033
+  ],
+  [
+    [
+      58,
+      14
+    ],
+    [
+      "Dann nehmen Sie den rechten Arm.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.230696901679039
+  ],
+  [
+    [
+      59,
+      14
+    ],
+    [
+      "Legen Sie den Arm angewinkelt nach oben.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.22157201170921326
+  ],
+  [
+    [
+      60,
+      14
+    ],
+    [
+      "Die Handfläche zeigt nach oben.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.16109402477741241
+  ],
+  [
+    [
+      61,
+      14
+    ],
+    [
+      "5. Legen Sie den anderen Arm quer über die Brust.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.18482868373394012
+  ],
+  [
+    [
+      62,
+      14
+    ],
+    [
+      "Legen Sie den Handrücken an die Wange der verletzten Person.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.21229910850524902
+  ],
+  [
+    [
+      63,
+      14
+    ],
+    [
+      "6. Ziehen Sie mit Ihrer freien Hand das entfernte Bein zu sich.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.1932913213968277
+  ],
+  [
+    [
+      64,
+      14
+    ],
+    [
+      "Rollen Sie die Person vorsichtig auf die Seite.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.2553901970386505
+  ],
+  [
+    [
+      65,
+      14
+    ],
+    [
+      "7. Lagern Sie das obere Bein in einem rechten Winkel zur Hüfte der betroffenen Person.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.15690894424915314
+  ],
+  [
+    [
+      66,
+      14
+    ],
+    [
+      "Das Bein hält die verletzte Person stabil auf der Seite.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.14294901490211487
+  ],
+  [
+    [
+      67,
+      15
+    ],
+    [
+      "8. Kippen Sie den Kopf der betroffenen Person leicht nach hinten.",
+      "Heben und senken sie sich?"
+    ],
+    0.19666722416877747
+  ],
+  [
+    [
+      68,
+      15
+    ],
+    [
+      "Nutzen Sie dafür die Hand unter der Wange der betroffenen Person.",
+      "Heben und senken sie sich?"
+    ],
+    0.2107650488615036
+  ],
+  [
+    [
+      69,
+      15
+    ],
+    [
+      "Der Kopf soll nicht mehr verrutschen.",
+      "Heben und senken sie sich?"
+    ],
+    0.19478265941143036
+  ],
+  [
+    [
+      70,
+      15
+    ],
+    [
+      "Prüfen Sie immer wieder:",
+      "Heben und senken sie sich?"
+    ],
+    0.28143563866615295
+  ],
+  [
+    [
+      71,
+      15
+    ],
+    [
+      "Atmet die betroffene Person noch?",
+      "Heben und senken sie sich?"
+    ],
+    0.19734123349189758
+  ],
+  [
+    [
+      72,
+      15
+    ],
+    [
+      "Bleiben Sie bei der verletzten Person.",
+      "Heben und senken sie sich?"
+    ],
+    0.1772615760564804
+  ],
+  [
+    [
+      73,
+      15
+    ],
+    [
+      "Warten Sie auf die Rettungskräfte.",
+      "Heben und senken sie sich?"
+    ],
+    0.24538642168045044
+  ],
+  [
+    [
+      74,
+      15
+    ],
+    [
+      "Sie wollen noch mehr über die stabile Seitenlage lesen?",
+      "Heben und senken sie sich?"
+    ],
+    0.2238510400056839
+  ],
+  [
+    [
+      75,
+      15
+    ],
+    [
+      "Mehr Informationen über die stabile Seitenlage finden Sie hier.",
+      "Heben und senken sie sich?"
+    ],
+    0.16159304976463318
+  ],
+  [
+    [
+      76,
+      15
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Heben und senken sie sich?"
+    ],
+    0.08388601988554001
+  ],
+  [
+    [
+      77,
+      19
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Sind mehrere Helfer vor Ort, sollten Sie jemanden anweisen, einen Notruf zu tätigen, während Sie selbst unverzüglich mit den Wiederbelebungsmaßnahmen beginnen."
+    ],
+    0.14231334626674652
+  ]
+]

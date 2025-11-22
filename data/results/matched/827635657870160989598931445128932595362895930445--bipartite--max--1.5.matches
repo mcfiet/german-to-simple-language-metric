@@ -1,0 +1,893 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Schilddrüse ist ein Organ im Hals.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.8209715485572815
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Schilddrüse befindet sich unter dem Kehlkopf an der Luftröhre.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.774265468120575
+  ],
+  [
+    [
+      2,
+      59
+    ],
+    [
+      "Die Schilddrüse produziert wichtige Hormone wie zum Beispiel:",
+      "Sind die Ultraschallergebnisse auffällig, zum Beispiel wenn eine Vergrößerung oder knotige Veränderungen vorliegen, kann eine Funktionsprüfung mittels Schilddrüsenszintigrafie klären, wie und in welchem Umfang die Schilddrüse Jod aufnimmt."
+    ],
+    0.7413495182991028
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Thyroxin Trijodthyronin Diese Hormone beeinflussen wichtige Körperfunktionen wie:",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.6932386755943298
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Stoffwechsel Kreislauf",
+      "Die Schilddrüsenhormone beeinflussen neben Stoffwechsel, Kreislauf und Wachstum auch unser psychisches Wohlbefinden."
+    ],
+    1.0
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Wachstum psychisches Wohlbefinden",
+      "Die Schilddrüsenhormone beeinflussen neben Stoffwechsel, Kreislauf und Wachstum auch unser psychisches Wohlbefinden."
+    ],
+    1.0
+  ],
+  [
+    [
+      6,
+      4
+    ],
+    [
+      "Bei einer Schilddrüsenüberfunktion produziert die Schilddrüse zu viele Hormone.",
+      "Produziert die Schilddrüse zu viele Hormone, liegt eine Überfunktion (Hyperthyreose) vor."
+    ],
+    0.8593515753746033
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Manchmal ist die Schilddrüse dann größer als normal.",
+      "Steckt ein Jodmangel hinter der Überfunktion, ist die vergrößerte Schilddrüse häufig als Vorwölbung im Halsbereich zu sehen."
+    ],
+    0.7106136083602905
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Diese Wölbung nennt man auch: Kropf.",
+      "Meist ist das auch mit einer Vergrößerung der Schilddrüse verbunden (Kropf)."
+    ],
+    0.6137331128120422
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Von dieser Vergrößerung sind oft Frauen betroffen.",
+      "Vorwiegend Frauen sind davon betroffen."
+    ],
+    0.7517890930175781
+  ],
+  [
+    [
+      11,
+      59
+    ],
+    [
+      "Anzeichen für eine Schilddrüsenüberfunktion sind zum Beispiel:",
+      "Sind die Ultraschallergebnisse auffällig, zum Beispiel wenn eine Vergrößerung oder knotige Veränderungen vorliegen, kann eine Funktionsprüfung mittels Schilddrüsenszintigrafie klären, wie und in welchem Umfang die Schilddrüse Jod aufnimmt."
+    ],
+    0.7726012468338013
+  ],
+  [
+    [
+      12,
+      28
+    ],
+    [
+      "Probleme beim Schlucken Heiserkeit",
+      "Schluckbeschwerden, Heiserkeit oder Probleme beim Zuknöpfen des Kragenknopfes können Anzeichen einer vergrößerten Schilddrüse sein."
+    ],
+    0.9112943410873413
+  ],
+  [
+    [
+      13,
+      110
+    ],
+    [
+      "Nervosität oder Probleme bei der Konzentration",
+      "Zu den Risiken zählt, dass bei der Operation der Stimmbandnerv verletzt werden kann oder dass die für den Kalziumstoffwechsel wichtige Nebenschilddrüse beeinträchtigt wird."
+    ],
+    0.7501134276390076
+  ],
+  [
+    [
+      14,
+      30
+    ],
+    [
+      "Schlafstörungen",
+      "Weitere mögliche Symptome einer Schilddrüsenüberfunktion sind: Nervosität, Reizbarkeit, Rastlosigkeit, Konzentrationsschwäche Zittern Schlafstörungen"
+    ],
+    1.0
+  ],
+  [
+    [
+      15,
+      33
+    ],
+    [
+      "Gewichtsabnahme",
+      "Gewichtsverlust trotz guten Appetits Warme, feuchte Haut, Schweißausbrüche, Wärmeunverträglichkeit Haarausfall , brüchige Nägel"
+    ],
+    0.8933935761451721
+  ],
+  [
+    [
+      16,
+      34
+    ],
+    [
+      "Durchfall",
+      "Durchfall Muskelschwäche, Muskelschmerzen Menstruationsstörungen;"
+    ],
+    1.0
+  ],
+  [
+    [
+      17,
+      34
+    ],
+    [
+      "hoher Blutdruck oder Herzrasen der Hemdkragen lässt sich nicht mehr zumachen der Körper zittert die Haut ist warm und schwitzt die Muskeln schmerzen",
+      "Durchfall Muskelschwäche, Muskelschmerzen Menstruationsstörungen;"
+    ],
+    0.6829425096511841
+  ],
+  [
+    [
+      18,
+      19
+    ],
+    [
+      "Sie haben solche Anzeichen bei sich bemerkt?",
+      "Nehmen Betroffene längere Zeit zuviel Jod auf oder bekommen sie bestimmte Medikamente verabreicht – oder etwa jodhaltige Kontrastmittel, die bei bestimmten bildgebenden Untersuchungsverfahren verwendet werden – kann dies dazu führen, dass die kranken, unreguliert arbeitenden Areale plötzlich zu viel Schilddrüsenhormone abgeben."
+    ],
+    0.6303976774215698
+  ],
+  [
+    [
+      19,
+      93
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Sie verlangsamen so den Herzschlag und können das bei manchen Patienten mit Hyperthyreose auftretende Zittern mildern."
+    ],
+    0.6185084581375122
+  ],
+  [
+    [
+      21,
+      14
+    ],
+    [
+      "Die Hauptursache für Schilddrüsenüberfunktion ist Morbus Basedow .",
+      "Typisch für den Morbus Basedow ist, dass sich der Autoimmunprozess nicht nur an der Schilddrüse, sondern auch am Gewebe der Augenhöhlen (endokrine Orbitopathie) und an der Haut des Unterschenkels (prätibiales Myxödem) bemerkbar macht (siehe Abschnitt \"Symptome\")."
+    ],
+    0.8417414426803589
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "Morbus Basedow ist eine Autoimmunerkrankung.",
+      "Die Ursachen sind zwar vielfältig, doch mehr als 95 Prozent der Hyperthyreosen werden durch die Basedowsche Erkrankung (Morbus Basedow ) oder durch eine Autonomie verursacht."
+    ],
+    0.8936303853988647
+  ],
+  [
+    [
+      23,
+      81
+    ],
+    [
+      "Dabei produziert der Körper Abwehrstoffe gegen die eigene Schilddrüse.",
+      "Zwar hemmen Thyreostatika die Produktion der Schilddrüsenhormone."
+    ],
+    0.6589177250862122
+  ],
+  [
+    [
+      24,
+      0
+    ],
+    [
+      "Diese Abwehrstoffe regen die Schilddrüse an.",
+      "Die Schilddrüse ist ein schmetterlingsförmiges Organ, das sich unterhalb des Kehlkopfes an die Luftröhre schmiegt."
+    ],
+    0.7332519292831421
+  ],
+  [
+    [
+      25,
+      81
+    ],
+    [
+      "Deshalb produziert die Schilddrüse mehr Hormone als der Körper eigentlich braucht.",
+      "Zwar hemmen Thyreostatika die Produktion der Schilddrüsenhormone."
+    ],
+    0.6621683239936829
+  ],
+  [
+    [
+      26,
+      67
+    ],
+    [
+      "Oft ist die Schilddrüse dann auch größer.",
+      "Basedowsche Erkrankung: Sie tritt eher bei jüngeren Patienten auf, die Schilddrüse kann nur mäßig, aber auch stärker vergrößert sein und in der Regel liegen keine Knoten vor."
+    ],
+    0.7493635416030884
+  ],
+  [
+    [
+      27,
+      8
+    ],
+    [
+      "Eine Schilddrüsenüberfunktion kann aber auch durch eine funktionelle Autonomie verursacht werden.",
+      "Die Ursachen sind zwar vielfältig, doch mehr als 95 Prozent der Hyperthyreosen werden durch die Basedowsche Erkrankung (Morbus Basedow ) oder durch eine Autonomie verursacht."
+    ],
+    0.8048486113548279
+  ],
+  [
+    [
+      28,
+      15
+    ],
+    [
+      "Dann produzieren Teile der Schilddrüse oder sogar die gesamte Schilddrüse eigenständig Hormone.",
+      "Eine funktionelle Autonomie bedeutet: Teile der Schilddrüse (einzelne Knoten beziehungsweise \"autonome Adenome\") oder das gesamte Schilddrüsengewebe bilden selbstständig Hormone."
+    ],
+    0.7682794332504272
+  ],
+  [
+    [
+      30,
+      18
+    ],
+    [
+      "Die Schilddrüse produziert mehr Hormone als der Körper braucht?",
+      "Häufig produzieren die gesunden Schilddrüsenregionen zum Ausgleich weniger Hormone, wodurch der Hormonspiegel im Lot gehalten werden kann."
+    ],
+    0.6827695965766907
+  ],
+  [
+    [
+      31,
+      4
+    ],
+    [
+      "Dann liegt eine Schilddrüsenüberfunktion vor.",
+      "Produziert die Schilddrüse zu viele Hormone, liegt eine Überfunktion (Hyperthyreose) vor."
+    ],
+    0.8077305555343628
+  ],
+  [
+    [
+      32,
+      84
+    ],
+    [
+      "Meistens reguliert die Schilddrüse sich selbst.",
+      "Dann erfolgt die Operation oder Radiojodtherapie frühzeitig, noch bevor sich die hormonelle Situation normalisiert hat – trotz noch vorhandener Überfunktion."
+    ],
+    0.7359236478805542
+  ],
+  [
+    [
+      33,
+      18
+    ],
+    [
+      "Die gesunden Zellen produzieren dann weniger Hormone.",
+      "Häufig produzieren die gesunden Schilddrüsenregionen zum Ausgleich weniger Hormone, wodurch der Hormonspiegel im Lot gehalten werden kann."
+    ],
+    0.7862831354141235
+  ],
+  [
+    [
+      34,
+      19
+    ],
+    [
+      "Eine betroffene Person nimmt jedoch Jod oder bestimmte Medikamente ein?",
+      "Nehmen Betroffene längere Zeit zuviel Jod auf oder bekommen sie bestimmte Medikamente verabreicht – oder etwa jodhaltige Kontrastmittel, die bei bestimmten bildgebenden Untersuchungsverfahren verwendet werden – kann dies dazu führen, dass die kranken, unreguliert arbeitenden Areale plötzlich zu viel Schilddrüsenhormone abgeben."
+    ],
+    0.6720516085624695
+  ],
+  [
+    [
+      35,
+      27
+    ],
+    [
+      "Dann kann der Hormonspiegel wieder ansteigen.",
+      "Auch bei einer zu hoch dosierten Schilddrüsenhormontherapie kann es zu Hyperthyreose-Symptomen kommen, die nach einer Anpassung der Dosis aber wieder verschwinden."
+    ],
+    0.7326499819755554
+  ],
+  [
+    [
+      36,
+      21
+    ],
+    [
+      "Eine Autonomie der Schilddrüse entsteht häufig durch Jodmangel.",
+      "Die Ursache einer Schilddrüsenautonomie ist oft eine länger bestehende, durch Jodmangel bedingte, Vergrößerung der Schilddrüse (Jodmangelstruma / Kropf)."
+    ],
+    0.8207012414932251
+  ],
+  [
+    [
+      37,
+      84
+    ],
+    [
+      "Dann vergrößert sich die Schilddrüse.",
+      "Dann erfolgt die Operation oder Radiojodtherapie frühzeitig, noch bevor sich die hormonelle Situation normalisiert hat – trotz noch vorhandener Überfunktion."
+    ],
+    0.8265088200569153
+  ],
+  [
+    [
+      38,
+      93
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Sie verlangsamen so den Herzschlag und können das bei manchen Patienten mit Hyperthyreose auftretende Zittern mildern."
+    ],
+    0.681045413017273
+  ],
+  [
+    [
+      39,
+      129
+    ],
+    [
+      "Der Arzt untersucht Sie:",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.6435645818710327
+  ],
+  [
+    [
+      41,
+      129
+    ],
+    [
+      "So kann der Arzt eine vergrößerte Schilddrüse feststellen.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.7594508528709412
+  ],
+  [
+    [
+      42,
+      57
+    ],
+    [
+      "Der Arzt untersucht auch das Blut.",
+      "Das Erscheinungsbild im Ultraschall kann dem Arzt auch bereits Hinweise auf die Ursache der Vergrößerung geben."
+    ],
+    0.6623981595039368
+  ],
+  [
+    [
+      43,
+      57
+    ],
+    [
+      "Außerdem kann der Arzt einen Ultraschall machen.",
+      "Das Erscheinungsbild im Ultraschall kann dem Arzt auch bereits Hinweise auf die Ursache der Vergrößerung geben."
+    ],
+    0.7948011159896851
+  ],
+  [
+    [
+      44,
+      57
+    ],
+    [
+      "Mit einem Ultraschall kontrolliert der Arzt die Größe und das Aussehen der Schilddrüse.",
+      "Das Erscheinungsbild im Ultraschall kann dem Arzt auch bereits Hinweise auf die Ursache der Vergrößerung geben."
+    ],
+    0.662373423576355
+  ],
+  [
+    [
+      46,
+      93
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Sie verlangsamen so den Herzschlag und können das bei manchen Patienten mit Hyperthyreose auftretende Zittern mildern."
+    ],
+    0.6185084581375122
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Die Ursache ist Morbus Basedow?",
+      "Die Ursachen sind zwar vielfältig, doch mehr als 95 Prozent der Hyperthyreosen werden durch die Basedowsche Erkrankung (Morbus Basedow ) oder durch eine Autonomie verursacht."
+    ],
+    0.8917200565338135
+  ],
+  [
+    [
+      49,
+      45
+    ],
+    [
+      "Dann heilt die Schilddrüsenüberfunktion manchmal von selbst.",
+      "Andere mögliche Auslöser einer Krise sind Infektionen, Trauma, Operationen, das Absetzen von Schilddrüsenmedikamenten und Stresssituationen – aber auch nur dann, wenn bereits eine schwer behandelbare Schilddrüsenüberfunktion vorliegt."
+    ],
+    0.7280073165893555
+  ],
+  [
+    [
+      50,
+      76
+    ],
+    [
+      "Medikamente können jedoch gegen die Symptome helfen.",
+      "Medikamente, welche die Schilddrüsenfunktion hemmen (Thyreostatika), können auch die Symptome einer Autonomie lindern."
+    ],
+    0.7864534258842468
+  ],
+  [
+    [
+      51,
+      93
+    ],
+    [
+      "Sprechen Sie deshalb mit Ihrem Arzt.",
+      "Sie verlangsamen so den Herzschlag und können das bei manchen Patienten mit Hyperthyreose auftretende Zittern mildern."
+    ],
+    0.6670928597450256
+  ],
+  [
+    [
+      52,
+      86
+    ],
+    [
+      "Oft verschreibt der Arzt Thyreostatika.",
+      "Bei der Basedowschen Erkrankung werden die Thyreostatika zunächst über etwa zwölf Monate gegeben."
+    ],
+    0.6333932280540466
+  ],
+  [
+    [
+      53,
+      106
+    ],
+    [
+      "Diese Medikamente hemmen die Hormonproduktion in der Schilddrüse.",
+      "Eine Operation wird in Erwägung gezogen, wenn die vergrößerte Schilddrüse auf die Luftröhre drückt oder wenn zahlreiche Knoten mit erhöhter Hormonproduktion nachgewiesen wurden."
+    ],
+    0.7689169049263
+  ],
+  [
+    [
+      54,
+      18
+    ],
+    [
+      "So soll die Menge an Hormonen im Körper wieder normalisiert werden.",
+      "Häufig produzieren die gesunden Schilddrüsenregionen zum Ausgleich weniger Hormone, wodurch der Hormonspiegel im Lot gehalten werden kann."
+    ],
+    0.6311152577400208
+  ],
+  [
+    [
+      55,
+      120
+    ],
+    [
+      "Danach ist häufig eine Operation notwendig.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.7833021879196167
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Vielleicht ist auch eine Radiojodtherapie notwendig.",
+      "Drückt das entzündlich geschwollene Gewebe so stark auf den Sehnerv, dass dieser in Gefahr ist, kann eine entlastende Operation nötig sein."
+    ],
+    0.7650610208511353
+  ],
+  [
+    [
+      57,
+      107
+    ],
+    [
+      "Manchmal muss die Schilddrüse durch eine Operation entfernt werden.",
+      "Auch beim Verdacht auf einen bösartigen Tumor wird die Schilddrüse durch eine Operation entfernt oder verkleinert."
+    ],
+    0.8144294023513794
+  ],
+  [
+    [
+      58,
+      116
+    ],
+    [
+      "Oder die Schilddrüse muss verkleinert werden.",
+      "Um die mit der Basedowschen Erkrankung einhergehenden Augen-Symptome zu behandeln, sollte zunächst die Schilddrüsenfunktion mit Medikamenten, einer Radiojodtherapie oder einer Operation normalisiert werden."
+    ],
+    0.7716754078865051
+  ],
+  [
+    [
+      59,
+      57
+    ],
+    [
+      "Das kann verschiedene Gründe haben.",
+      "Das Erscheinungsbild im Ultraschall kann dem Arzt auch bereits Hinweise auf die Ursache der Vergrößerung geben."
+    ],
+    0.6816631555557251
+  ],
+  [
+    [
+      60,
+      52
+    ],
+    [
+      "Nach einer Operation sind die Schilddrüsenhormone sofort weniger.",
+      "Bei einer Überfunktion der Schilddrüse liegt der TSH-Wert meist unterhalb des Normbereichs, während die Schilddrüsenhormonwerte im Blut erhöht (manifeste Hyperthyreose) oder noch normal sind (latente oder kompensierte Hyperthyreose)."
+    ],
+    0.7474486231803894
+  ],
+  [
+    [
+      61,
+      45
+    ],
+    [
+      "Aber eine Operation hat immer auch Risiken.",
+      "Andere mögliche Auslöser einer Krise sind Infektionen, Trauma, Operationen, das Absetzen von Schilddrüsenmedikamenten und Stresssituationen – aber auch nur dann, wenn bereits eine schwer behandelbare Schilddrüsenüberfunktion vorliegt."
+    ],
+    0.7160475254058838
+  ],
+  [
+    [
+      62,
+      114
+    ],
+    [
+      "Nach einer Operation muss der Patient Schilddrüsenhormone und Jodid einnehmen.",
+      "Im Allgemeinen ist nach der Operation die Einnahme von Schilddrüsenhormonen und Jodid notwenig."
+    ],
+    0.7359855771064758
+  ],
+  [
+    [
+      63,
+      110
+    ],
+    [
+      "Dadurch soll eine Unterfunktion von der Schilddrüse verhindert werden.",
+      "Zu den Risiken zählt, dass bei der Operation der Stimmbandnerv verletzt werden kann oder dass die für den Kalziumstoffwechsel wichtige Nebenschilddrüse beeinträchtigt wird."
+    ],
+    0.7060943841934204
+  ],
+  [
+    [
+      64,
+      14
+    ],
+    [
+      "Und die Schilddrüse wächst dann nicht mehr so schnell an.",
+      "Typisch für den Morbus Basedow ist, dass sich der Autoimmunprozess nicht nur an der Schilddrüse, sondern auch am Gewebe der Augenhöhlen (endokrine Orbitopathie) und an der Haut des Unterschenkels (prätibiales Myxödem) bemerkbar macht (siehe Abschnitt \"Symptome\")."
+    ],
+    0.6192706823348999
+  ],
+  [
+    [
+      65,
+      94
+    ],
+    [
+      "Bei einer Radiojodtherapie wird Gewebe durch radioaktive Strahlung zerstört:",
+      "Das Prinzip: Zerstörung von Gewebe durch radioaktive Strahlung."
+    ],
+    0.6628998517990112
+  ],
+  [
+    [
+      66,
+      95
+    ],
+    [
+      "Der Patient bekommt radioaktives Jod.",
+      "Dabei wird dem Patienten radioaktives Jod verabreicht."
+    ],
+    0.7112343311309814
+  ],
+  [
+    [
+      67,
+      26
+    ],
+    [
+      "Manche Zellen in der Schilddrüse produzieren zu viele Hormone.",
+      "Wird in der Frühschwangerschaft ein bestimmtes Hormon, das im Mutterkuchen gebildet wird ( HCG ), in zu großen Mengen produziert, kann dies ebenfalls zu einer vorübergehend auftretenden Überfunktion führen, oft verbunden mit Übelkeit und heftigem Erbrechen."
+    ],
+    0.7527766227722168
+  ],
+  [
+    [
+      68,
+      97
+    ],
+    [
+      "Das Jod zerstört genau diese Zellen.",
+      "Denn solche Zellen nehmen vermehrt radioaktives Jod auf."
+    ],
+    0.6163450479507446
+  ],
+  [
+    [
+      69,
+      100
+    ],
+    [
+      "Und die Patienten scheiden das radioaktive Jod dann wieder aus.",
+      "Da Betroffene während der Behandlung auch radioaktives Jod ausscheiden, werden sie bei gutartigen Schilddrüsenerkrankungen für drei, in Ausnahmefällen bis maximal fünf Tage isoliert in speziellen Abteilungen der Krankenhäuser untergebracht."
+    ],
+    0.6145198345184326
+  ],
+  [
+    [
+      70,
+      108
+    ],
+    [
+      "Die Radiojodtherapie funktioniert oft sehr gut.",
+      "Muss sehr schnell eine normale Schilddrüsenfunktion hergestellt werden und gelingt dies nicht durch Medikamente, steht ebenfalls die Schilddrüsenoperation im Vordergrund."
+    ],
+    0.6504259705543518
+  ],
+  [
+    [
+      71,
+      108
+    ],
+    [
+      "Danach haben die Patienten vielleicht eine Schilddrüsenunterfunktion .",
+      "Muss sehr schnell eine normale Schilddrüsenfunktion hergestellt werden und gelingt dies nicht durch Medikamente, steht ebenfalls die Schilddrüsenoperation im Vordergrund."
+    ],
+    0.7660966515541077
+  ],
+  [
+    [
+      72,
+      19
+    ],
+    [
+      "Deshalb müssen sie Tabletten nehmen.",
+      "Nehmen Betroffene längere Zeit zuviel Jod auf oder bekommen sie bestimmte Medikamente verabreicht – oder etwa jodhaltige Kontrastmittel, die bei bestimmten bildgebenden Untersuchungsverfahren verwendet werden – kann dies dazu führen, dass die kranken, unreguliert arbeitenden Areale plötzlich zu viel Schilddrüsenhormone abgeben."
+    ],
+    0.7238155007362366
+  ],
+  [
+    [
+      73,
+      123
+    ],
+    [
+      "Die Radiojodtherapie erfolgt im Krankenhaus.",
+      "Die Behandlung der Hyperthyreose, vor allem der Augensymptome im Rahmen einer Basedow-Erkrankung (endokrine Orbitopathie) muss in spezialisierten Zentren erfolgen und erfordert eine gute Zusammenarbeit zwischen den behandelnden Ärzten und Ärztinnen verschiedener Fachrichtungen."
+    ],
+    0.8016999363899231
+  ],
+  [
+    [
+      74,
+      43
+    ],
+    [
+      "Sie möchten eine Schilddrüsenüberfunktion vermeiden?",
+      "Jodhaltige Röntgenkontrastmittel oder Medikamente können eine bereits schwere Schilddrüsenüberfunktion bis hin zur thyreotoxischen Krise verschlimmern."
+    ],
+    0.744028627872467
+  ],
+  [
+    [
+      75,
+      19
+    ],
+    [
+      "Dann nehmen Sie ausreichend Jod zu sich.",
+      "Nehmen Betroffene längere Zeit zuviel Jod auf oder bekommen sie bestimmte Medikamente verabreicht – oder etwa jodhaltige Kontrastmittel, die bei bestimmten bildgebenden Untersuchungsverfahren verwendet werden – kann dies dazu führen, dass die kranken, unreguliert arbeitenden Areale plötzlich zu viel Schilddrüsenhormone abgeben."
+    ],
+    0.6467742919921875
+  ],
+  [
+    [
+      76,
+      59
+    ],
+    [
+      "Jod ist zum Beispiel in Seefisch.",
+      "Sind die Ultraschallergebnisse auffällig, zum Beispiel wenn eine Vergrößerung oder knotige Veränderungen vorliegen, kann eine Funktionsprüfung mittels Schilddrüsenszintigrafie klären, wie und in welchem Umfang die Schilddrüse Jod aufnimmt."
+    ],
+    0.7954468131065369
+  ],
+  [
+    [
+      78,
+      125
+    ],
+    [
+      "Manche Menschen brauchen viel Jod.",
+      "Besonders Schwangere, Stillende und Jugendliche benötigen viel Jod."
+    ],
+    0.7697464227676392
+  ],
+  [
+    [
+      80,
+      125
+    ],
+    [
+      "Jugendliche",
+      "Besonders Schwangere, Stillende und Jugendliche benötigen viel Jod."
+    ],
+    1.0
+  ],
+  [
+    [
+      81,
+      93
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Sie verlangsamen so den Herzschlag und können das bei manchen Patienten mit Hyperthyreose auftretende Zittern mildern."
+    ],
+    0.681045413017273
+  ],
+  [
+    [
+      84,
+      19
+    ],
+    [
+      "Mit diesen Lebensmitteln nehmen Sie ausreichend Jod zu sich.",
+      "Nehmen Betroffene längere Zeit zuviel Jod auf oder bekommen sie bestimmte Medikamente verabreicht – oder etwa jodhaltige Kontrastmittel, die bei bestimmten bildgebenden Untersuchungsverfahren verwendet werden – kann dies dazu führen, dass die kranken, unreguliert arbeitenden Areale plötzlich zu viel Schilddrüsenhormone abgeben."
+    ],
+    0.6345975995063782
+  ],
+  [
+    [
+      85,
+      129
+    ],
+    [
+      "Haben andere Menschen in Ihrer Familie eine Schilddrüsenerkrankung?",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.6748484373092651
+  ],
+  [
+    [
+      86,
+      75
+    ],
+    [
+      "Dann gehen Sie regelmäßig zum Arzt.",
+      "Dann kommen andere Therapieformen wie eine Operation oder die Behandlung mit radioaktivem Jod (Radiojodtherapie) zum Einsatz."
+    ],
+    0.6496900320053101
+  ],
+  [
+    [
+      87,
+      129
+    ],
+    [
+      "Der Arzt untersucht Ihre Schilddrüse.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.7152020335197449
+  ],
+  [
+    [
+      88,
+      129
+    ],
+    [
+      "Dann kann der Arzt eine Schilddrüsenüberfunktion früh erkennen.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.7207837104797363
+  ],
+  [
+    [
+      89,
+      67
+    ],
+    [
+      "Sie wollen noch mehr über die Schilddrüsenüberfunktion lesen?",
+      "Basedowsche Erkrankung: Sie tritt eher bei jüngeren Patienten auf, die Schilddrüse kann nur mäßig, aber auch stärker vergrößert sein und in der Regel liegen keine Knoten vor."
+    ],
+    0.6556282639503479
+  ],
+  [
+    [
+      92,
+      8
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Ursachen sind zwar vielfältig, doch mehr als 95 Prozent der Hyperthyreosen werden durch die Basedowsche Erkrankung (Morbus Basedow ) oder durch eine Autonomie verursacht."
+    ],
+    0.6575602889060974
+  ]
+]

@@ -1,0 +1,508 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In Deutschland müssen Sie manche Fahrzeuge zulassen , bevor Sie damit auf der Straße fahren dürfen.",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.5506982803344727
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Autos Motorräder LKW s Sie wollen ein neues Fahrzeug zulassen ?",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.7054433226585388
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Wenn Sie ein neues Fahrzeug zulassen wollen, dann müssen Sie uns diese Papiere zeigen:",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.6862701177597046
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Sie bekommen die Zulassungs-Bescheinigung Teil 2, wenn Sie ein Fahrzeug kaufen .",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.554818332195282
+  ],
+  [
+    [
+      17,
+      0
+    ],
+    [
+      "Wenn Sie Ihr neues Fahrzeug zulassen wollen, zeigen Sie uns bitte die Zulassungs-Bescheinigung Teil 2 .",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.6062695384025574
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "Das Fahrzeug wurde bisher noch nicht zugelassen.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.7151986956596375
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Es gibt noch keine Zulassungs-Bescheinigung für das Fahrzeug.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.5798074007034302
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "EWG-Übereinstimmungs-Bescheinigung",
+      "EWG-Übereinstimmungsbescheinigung (COC-Papier)"
+    ],
+    0.75
+  ],
+  [
+    [
+      45,
+      4
+    ],
+    [
+      "Personal-Ausweis oder Pass vom Halter oder der Halterin",
+      "Personalausweis oder Pass der zukünftigen Halterin oder des zukünftigen Halters Vollmacht bei Vertretung zusätzlich"
+    ],
+    0.764554500579834
+  ],
+  [
+    [
+      48,
+      5
+    ],
+    [
+      "Bei Firmen-Fahrzeugen: Auszug aus dem Handels-Register oder die Gewerbe-Anmeldung",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - das Formular finden Sie bei \"Downloads und Infos\" Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.6187926530838013
+  ],
+  [
+    [
+      52,
+      6
+    ],
+    [
+      "Bei Personen unter 18 Jahren: Ausweis und Einverständnis-Erklärung von den Erziehungs-Berechtigten oder vom Vormund",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5712447166442871
+  ],
+  [
+    [
+      55,
+      6
+    ],
+    [
+      "Das ist die Person, die die Verantwortung für das Kind hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6866324543952942
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "SEPA-Mandat für die Kraft-Fahrzeug-Steuer",
+      "SEPA-Lastschriftmandat für den Einzug der Kraftfahrzeugsteuer"
+    ],
+    0.5836448669433594
+  ],
+  [
+    [
+      67,
+      11
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Ohne dieses Mandat darf die Zulassungsbehörde einen Antrag auf Zulassung eines Fahrzeuges nicht bearbeiten."
+    ],
+    0.6349435448646545
+  ],
+  [
+    [
+      68,
+      12
+    ],
+    [
+      "Die Erlaubnis brauchen wir auch: Wenn wir Ihre Daten schon zu einem anderen Fahrzeug haben.",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.7001911997795105
+  ],
+  [
+    [
+      73,
+      14
+    ],
+    [
+      "Wichtig: Auf dem Mandat müssen 2 Unterschriften sein: 1. Die Unterschrift vom Konto-Inhaber oder der Konto-Inhaberin.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.6090038418769836
+  ],
+  [
+    [
+      74,
+      14
+    ],
+    [
+      "2. Die Unterschrift vom Fahrzeug-Halter oder der Fahrzeug-Halterin.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.6796020269393921
+  ],
+  [
+    [
+      75,
+      14
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.620771586894989
+  ],
+  [
+    [
+      79,
+      16
+    ],
+    [
+      "Achtung: Wenn Sie kein Konto haben: Dann müssen Sie vorher zum Haupt-Zoll-Amt in Köln.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.6614416837692261
+  ],
+  [
+    [
+      88,
+      17
+    ],
+    [
+      "Wichtiger Hinweis: Wir bearbeiten gerade unsere Internet-Seite.",
+      "Beachten Sie zum SEPA -Mandat auch unsere allgemeinen Informationen:"
+    ],
+    0.5572322010993958
+  ],
+  [
+    [
+      90,
+      19
+    ],
+    [
+      "Das heißt: Sie können die Internet-Seite nicht benutzen an:",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5584167838096619
+  ],
+  [
+    [
+      93,
+      19
+    ],
+    [
+      "Sie können die Seite danach wieder benutzen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5729220509529114
+  ],
+  [
+    [
+      96,
+      19
+    ],
+    [
+      "Wenn Sie lieber persönlich zur Zulassungs-Stelle kommen möchten:",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.595359206199646
+  ],
+  [
+    [
+      107,
+      19
+    ],
+    [
+      "Sie können ein Fahrzeug auf eine Person unter 18 Jahren zulassen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5941588878631592
+  ],
+  [
+    [
+      111,
+      19
+    ],
+    [
+      "Sie müssen dann einen Nachweis für die Behinderung zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5913696885108948
+  ],
+  [
+    [
+      113,
+      19
+    ],
+    [
+      "Bitte fragen Sie vorher, ob Sie das Fahrzeug auf die Person unter 18 Jahren zulassen können.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5798372030258179
+  ],
+  [
+    [
+      114,
+      19
+    ],
+    [
+      "Wichtig: Wenn Sie ein Fahrzeug zulassen wollen auf eine Person unter 18 Jahren, müssen Sie uns eine Einverständnis-Erklärung zeigen von beiden Eltern .",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6246574521064758
+  ],
+  [
+    [
+      119,
+      19
+    ],
+    [
+      "Dann muss nur diese Person ihren Ausweis zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5616161227226257
+  ],
+  [
+    [
+      122,
+      19
+    ],
+    [
+      "Oder wenn sich eine andere Person um das Kind kümmert.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5715451836585999
+  ],
+  [
+    [
+      123,
+      19
+    ],
+    [
+      "Dann müssen Sie uns nur 1 Ausweis zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.559277355670929
+  ],
+  [
+    [
+      127,
+      19
+    ],
+    [
+      "Sie können Ihr Fahrzeug auch online zulassen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6138191223144531
+  ],
+  [
+    [
+      128,
+      19
+    ],
+    [
+      "Oder Sie können persönlich kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6764822602272034
+  ],
+  [
+    [
+      133,
+      19
+    ],
+    [
+      "Sie können auch persönlich zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6921500563621521
+  ],
+  [
+    [
+      135,
+      19
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7227563858032227
+  ],
+  [
+    [
+      136,
+      19
+    ],
+    [
+      "Die Person muss uns dann eine Vollmacht zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6591117978096008
+  ],
+  [
+    [
+      138,
+      19
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5687633752822876
+  ],
+  [
+    [
+      139,
+      21
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.8458068370819092
+  ],
+  [
+    [
+      140,
+      21
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7429671287536621
+  ],
+  [
+    [
+      141,
+      21
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7375901341438293
+  ],
+  [
+    [
+      143,
+      22
+    ],
+    [
+      "Und die Person muss uns ihren Ausweis oder Pass zeigen.",
+      "Bitte beachten Sie, dass zusätzlich zur Vollmacht Personalausweis oder Pass der Vertreterin oder des Vertreters vorzulegen sind."
+    ],
+    0.5716208815574646
+  ],
+  [
+    [
+      145,
+      27
+    ],
+    [
+      "Das Zulassen von einem neuen Fahrzeug kostet 27 Euro.",
+      "Gebühren 27 Euro"
+    ],
+    0.6045427918434143
+  ],
+  [
+    [
+      152,
+      28
+    ],
+    [
+      "Wenn Ihre Fahrzeug-Daten nicht beim Kraft-Fahrt-Bundes-Amt verfügbar sind.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.7070135474205017
+  ],
+  [
+    [
+      153,
+      28
+    ],
+    [
+      "Oder nicht im Fahrzeug-Register von der Stadt Köln verfügbar sind.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.6431840062141418
+  ],
+  [
+    [
+      154,
+      30
+    ],
+    [
+      "Dann müssen Sie zusätzlich 15,30 Euro bezahlen.",
+      "Sie können das Wunschkennzeichen auch vorab online oder telefonisch zu einem Aufpreis von 2,60 Euro reservieren."
+    ],
+    0.5888459086418152
+  ],
+  [
+    [
+      155,
+      35
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können auch per ec-Karte mit PIN-Nummer oder GeldKarte entrichtet werden."
+    ],
+    0.6111563444137573
+  ],
+  [
+    [
+      157,
+      35
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können auch per ec-Karte mit PIN-Nummer oder GeldKarte entrichtet werden."
+    ],
+    0.5776453614234924
+  ]
+]

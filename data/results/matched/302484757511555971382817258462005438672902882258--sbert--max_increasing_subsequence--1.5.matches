@@ -1,0 +1,563 @@
+[
+  [
+    [
+      0,
+      2
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Schon bei Temperaturen um den Gefrierpunkt können Kälteschäden auftreten – wenn die passenden Faktoren zusammenkommen."
+    ],
+    0.7745958566665649
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Ein Kälteschaden entsteht durch eine zu lange Zeit in der Kälte.",
+      "Schon bei Temperaturen um den Gefrierpunkt können Kälteschäden auftreten – wenn die passenden Faktoren zusammenkommen."
+    ],
+    0.9012258052825928
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Schon bei Temperaturen um den Gefrierpunkt können Kälteschäden auftreten – wenn die passenden Faktoren zusammenkommen."
+    ],
+    0.7670454978942871
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Das bedeutet: Die Kälte hat das Gewebe an bestimmten Stellen des Körpers beschädigt.",
+      "Schon bei Temperaturen um den Gefrierpunkt können Kälteschäden auftreten – wenn die passenden Faktoren zusammenkommen."
+    ],
+    0.7830231189727783
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Schon bei Temperaturen um den Gefrierpunkt können Kälteschäden auftreten – wenn die passenden Faktoren zusammenkommen."
+    ],
+    0.8533192873001099
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.7943808436393738
+  ],
+  [
+    [
+      6,
+      10
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Es kommt zu einer Unterkühlung (Hypothermie)."
+    ],
+    0.762047529220581
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Mehr Informationen zum Thema Unterkühlung finden Sie hier .",
+      "Unterkühlung"
+    ],
+    0.7941831350326538
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "Eine Person ist sehr lange in der Kälte?",
+      "Der Körper versucht durch eine Engstellung der Gefäße in den äußeren Körperregionen und durch Kältezittern, die Temperatur im Körperkern aufrechtzuerhalten."
+    ],
+    0.6408264636993408
+  ],
+  [
+    [
+      11,
+      15
+    ],
+    [
+      "Deshalb wird es vielleicht nicht mehr gut durchblutet.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.7387306094169617
+  ],
+  [
+    [
+      13,
+      15
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.6625512838363647
+  ],
+  [
+    [
+      14,
+      48
+    ],
+    [
+      "Finger Zehen",
+      "Es kann zu lokalen Erfrierungen an Fingern und Fußzehen kommen."
+    ],
+    0.7092355489730835
+  ],
+  [
+    [
+      18,
+      51
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen von Erfrierungen.",
+      "Ärzte"
+    ],
+    0.6921746730804443
+  ],
+  [
+    [
+      20,
+      70
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.9399123191833496
+  ],
+  [
+    [
+      22,
+      70
+    ],
+    [
+      "Erfrierung ersten Grades",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.8402259349822998
+  ],
+  [
+    [
+      23,
+      72
+    ],
+    [
+      "Die betroffene Hautstelle ist blass.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.8930566310882568
+  ],
+  [
+    [
+      24,
+      72
+    ],
+    [
+      "Manchmal ist sie auch grau-weiß oder gelb-weiß.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.652135968208313
+  ],
+  [
+    [
+      26,
+      72
+    ],
+    [
+      "Und die betroffene Hautstelle ist taub.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.6511699557304382
+  ],
+  [
+    [
+      27,
+      74
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.8067845702171326
+  ],
+  [
+    [
+      28,
+      74
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.8350349068641663
+  ],
+  [
+    [
+      29,
+      76
+    ],
+    [
+      "Stufe 2:",
+      "Grad 2: Es bilden sich"
+    ],
+    0.8186153173446655
+  ],
+  [
+    [
+      30,
+      76
+    ],
+    [
+      "Erfrierung zweiten Grades",
+      "Grad 2: Es bilden sich"
+    ],
+    0.8053597807884216
+  ],
+  [
+    [
+      31,
+      77
+    ],
+    [
+      "An der betroffenen Hautstellen bilden sich Blasen.",
+      "(zum Teil blutgefüllte) Blasen und die erfrorene Stelle wird rot-bläulich."
+    ],
+    0.7006974220275879
+  ],
+  [
+    [
+      32,
+      77
+    ],
+    [
+      "Einige dieser Blasen sind mit Blut gefüllt.",
+      "(zum Teil blutgefüllte) Blasen und die erfrorene Stelle wird rot-bläulich."
+    ],
+    0.7686610817909241
+  ],
+  [
+    [
+      33,
+      78
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.7339511513710022
+  ],
+  [
+    [
+      34,
+      78
+    ],
+    [
+      "Die Schmerzen können aber auch geringer sein.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.748344361782074
+  ],
+  [
+    [
+      35,
+      80
+    ],
+    [
+      "Stufe 3:",
+      "Grad 3 und 4:"
+    ],
+    0.8175485730171204
+  ],
+  [
+    [
+      36,
+      80
+    ],
+    [
+      "Erfrierung dritten und vierten Grades",
+      "Grad 3 und 4:"
+    ],
+    0.8732187151908875
+  ],
+  [
+    [
+      38,
+      81
+    ],
+    [
+      "Die Haut ist blau oder schwarz verfärbt.",
+      "Schwere Erfrierungen äußern sich – allerdings erst spät – durch eine blauschwarze Verfärbung der Haut."
+    ],
+    0.8138314485549927
+  ],
+  [
+    [
+      41,
+      84
+    ],
+    [
+      "In manchen Fällen muss das betroffene Gewebe durch eine Operation entfernt werden.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.7328808307647705
+  ],
+  [
+    [
+      42,
+      85
+    ],
+    [
+      "Hinweis: Oft zeigt sich erst einige Tage später, wie stark die Erfrierung ist.",
+      "Wie schlimm eine Erfrierung ist, lässt sich teilweise erst nach einigen Tagen beurteilen."
+    ],
+    0.8106131553649902
+  ],
+  [
+    [
+      78,
+      85
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Wie schlimm eine Erfrierung ist, lässt sich teilweise erst nach einigen Tagen beurteilen."
+    ],
+    0.6809887886047363
+  ],
+  [
+    [
+      83,
+      86
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.7128158807754517
+  ],
+  [
+    [
+      84,
+      90
+    ],
+    [
+      "Die Nummer ist:",
+      "Rufen Sie die 112 an."
+    ],
+    0.6338961720466614
+  ],
+  [
+    [
+      85,
+      90
+    ],
+    [
+      "112. Sie glauben:",
+      "Rufen Sie die 112 an."
+    ],
+    0.7781689763069153
+  ],
+  [
+    [
+      87,
+      91
+    ],
+    [
+      "Dann bringen Sie diese Person an einen warmen Ort.",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.7774768471717834
+  ],
+  [
+    [
+      88,
+      92
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.8606501221656799
+  ],
+  [
+    [
+      90,
+      105
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.8675841093063354
+  ],
+  [
+    [
+      91,
+      106
+    ],
+    [
+      "Nutzen Sie dafür ein Wasserbad.",
+      "Hierzu eignet sich am besten ein Wasserbad mit körperwarmem, nicht zu heißem Wasser."
+    ],
+    0.8693063259124756
+  ],
+  [
+    [
+      92,
+      108
+    ],
+    [
+      "Achtung: Das Auftauen der Finger oder Zehen kann sehr schmerzhaft sein.",
+      "Tauen dabei Finger oder Fußzehen wieder auf, kann dies sehr weh tun und erfordert gegebenenfalls sogar die Einnahme von Schmerzmitteln."
+    ],
+    0.8967495560646057
+  ],
+  [
+    [
+      93,
+      108
+    ],
+    [
+      "Vielleicht muss die betroffene Person Schmerzmittel einnehmen.",
+      "Tauen dabei Finger oder Fußzehen wieder auf, kann dies sehr weh tun und erfordert gegebenenfalls sogar die Einnahme von Schmerzmitteln."
+    ],
+    0.7444156408309937
+  ],
+  [
+    [
+      96,
+      109
+    ],
+    [
+      "Und jeder Finger und jede Zehe soll einzeln eingewickelt sein.",
+      "Zuletzt die betroffenen Hautbereiche mit einem sterilen lockeren Verband einwickeln – jeden Finger und jede Zehe einzeln."
+    ],
+    0.8140945434570312
+  ],
+  [
+    [
+      98,
+      110
+    ],
+    [
+      "Dann können Sie die erfrorenen Finger in den Achselhöhlen aufwärmen oder warme Hände auf erfrorene Stellen im Gesicht legen.",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.8905138969421387
+  ],
+  [
+    [
+      99,
+      111
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Vorsicht: Erfrorene Körperteile nicht mit Schnee einreiben."
+    ],
+    0.9649750590324402
+  ],
+  [
+    [
+      100,
+      112
+    ],
+    [
+      "Öffnen Sie keine Blasen.",
+      "Keine Blasen öffnen, dies kann zu Infektionen führen."
+    ],
+    0.74131178855896
+  ],
+  [
+    [
+      101,
+      112
+    ],
+    [
+      "Durch offene Blasen können Infektionen entstehen.",
+      "Keine Blasen öffnen, dies kann zu Infektionen führen."
+    ],
+    0.8678731918334961
+  ],
+  [
+    [
+      102,
+      113
+    ],
+    [
+      "Lassen Sie die betroffene Person keine Zigarette rauchen.",
+      "Der Betroffene sollte nicht rauchen, da dies die Blutgefäße verengt."
+    ],
+    0.8630480170249939
+  ],
+  [
+    [
+      104,
+      114
+    ],
+    [
+      "Massieren Sie die betroffenen Stellen nicht .",
+      "Betreffende Stellen vorsichtshalber nicht massieren, da dies bei schwereren Erfrierungen schaden kann."
+    ],
+    0.8690345287322998
+  ],
+  [
+    [
+      105,
+      115
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Die Haut nicht mit trockener oder zu starker Hitze erwärmen – also zum Beispiel durch einen Fön, ein Heizkissen, Lagerfeuer oder an der Heizung."
+    ],
+    0.8810858726501465
+  ],
+  [
+    [
+      106,
+      116
+    ],
+    [
+      "Die erfrorene Haut ist nämlich taub.",
+      "Da die erfrorene Haut ohne Gefühl ist, kann es zu Verbrennungen kommen."
+    ],
+    0.7014061212539673
+  ],
+  [
+    [
+      107,
+      116
+    ],
+    [
+      "Es könnte zu Verbrennungen kommen.",
+      "Da die erfrorene Haut ohne Gefühl ist, kann es zu Verbrennungen kommen."
+    ],
+    0.6557441353797913
+  ]
+]

@@ -1,0 +1,453 @@
+[
+  [
+    [
+      0,
+      18
+    ],
+    [
+      "Sie haben sich leicht verletzt?",
+      "Sie in der Apotheke"
+    ],
+    0.8672716617584229
+  ],
+  [
+    [
+      1,
+      18
+    ],
+    [
+      "Sie haben sich zum Beispiel das Knie aufgeschlagen?",
+      "Sie in der Apotheke"
+    ],
+    0.8613193035125732
+  ],
+  [
+    [
+      2,
+      18
+    ],
+    [
+      "Oder Sie haben sich in den Finger geschnitten?",
+      "Sie in der Apotheke"
+    ],
+    0.8744831085205078
+  ],
+  [
+    [
+      3,
+      18
+    ],
+    [
+      "Oder Sie haben eine kleine Verbrennung?",
+      "Sie in der Apotheke"
+    ],
+    0.769480288028717
+  ],
+  [
+    [
+      4,
+      18
+    ],
+    [
+      "Leichte Verletzungen können Sie oft selbst versorgen.",
+      "Sie in der Apotheke"
+    ],
+    0.8856320381164551
+  ],
+  [
+    [
+      8,
+      18
+    ],
+    [
+      "Oder Sie haben sehr starke Schmerzen?",
+      "Sie in der Apotheke"
+    ],
+    0.868175208568573
+  ],
+  [
+    [
+      9,
+      18
+    ],
+    [
+      "Dann sollten Sie den Rettungsdienst rufen.",
+      "Sie in der Apotheke"
+    ],
+    0.7727289199829102
+  ],
+  [
+    [
+      11,
+      18
+    ],
+    [
+      "Sie haben sich verbrannt?",
+      "Sie in der Apotheke"
+    ],
+    0.8899229764938354
+  ],
+  [
+    [
+      16,
+      18
+    ],
+    [
+      "Benutzen Sie dafür eine Pinzette.",
+      "Sie in der Apotheke"
+    ],
+    0.9032032489776611
+  ],
+  [
+    [
+      17,
+      18
+    ],
+    [
+      "Hinweis: Ziehen Sie die Splitter ganz heraus.",
+      "Sie in der Apotheke"
+    ],
+    0.7274816632270813
+  ],
+  [
+    [
+      28,
+      18
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich.",
+      "Sie in der Apotheke"
+    ],
+    0.9284825921058655
+  ],
+  [
+    [
+      29,
+      18
+    ],
+    [
+      "Oder tragen Sie Einmal-Handschuhe.",
+      "Sie in der Apotheke"
+    ],
+    0.9285700917243958
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Hinweis: Sie haben Allergien?",
+      "Sie in der Apotheke"
+    ],
+    0.8905437588691711
+  ],
+  [
+    [
+      38,
+      18
+    ],
+    [
+      "Dann fragen Sie den Apotheker:",
+      "Sie in der Apotheke"
+    ],
+    0.8339570760726929
+  ],
+  [
+    [
+      43,
+      18
+    ],
+    [
+      "Für größere Wunden können Sie eine sterile Kompresse benutzen.",
+      "Sie in der Apotheke"
+    ],
+    0.6254687309265137
+  ],
+  [
+    [
+      50,
+      18
+    ],
+    [
+      "Ein Apotheker kann Sie zu den verschiedenen Pflastersorten beraten.",
+      "Sie in der Apotheke"
+    ],
+    0.9040359258651733
+  ],
+  [
+    [
+      55,
+      18
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Sie in der Apotheke"
+    ],
+    0.8252438306808472
+  ],
+  [
+    [
+      63,
+      18
+    ],
+    [
+      "Sie wissen nicht: Bin ich gegen Tetanus geimpft?",
+      "Sie in der Apotheke"
+    ],
+    0.769307017326355
+  ],
+  [
+    [
+      64,
+      18
+    ],
+    [
+      "Dann schauen Sie in Ihren Impfpass.",
+      "Sie in der Apotheke"
+    ],
+    0.8205853700637817
+  ],
+  [
+    [
+      66,
+      18
+    ],
+    [
+      "Sie sind gestürzt?",
+      "Sie in der Apotheke"
+    ],
+    0.9341209530830383
+  ],
+  [
+    [
+      67,
+      18
+    ],
+    [
+      "Dann haben Sie vielleicht eine Schürfwunde.",
+      "Sie in der Apotheke"
+    ],
+    0.7670353055000305
+  ],
+  [
+    [
+      72,
+      18
+    ],
+    [
+      "Kleine Schürfwunden können Sie selbst versorgen.",
+      "Sie in der Apotheke"
+    ],
+    0.8351597785949707
+  ],
+  [
+    [
+      78,
+      18
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sie in der Apotheke"
+    ],
+    0.7596675753593445
+  ],
+  [
+    [
+      80,
+      18
+    ],
+    [
+      "Sie haben eine kleine Schnittwunde?",
+      "Sie in der Apotheke"
+    ],
+    0.7847265601158142
+  ],
+  [
+    [
+      95,
+      18
+    ],
+    [
+      "Sie haben eine Platzwunde?",
+      "Sie in der Apotheke"
+    ],
+    0.8869897723197937
+  ],
+  [
+    [
+      96,
+      18
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sie in der Apotheke"
+    ],
+    0.7596675753593445
+  ],
+  [
+    [
+      104,
+      18
+    ],
+    [
+      "Sie haben eine Stichwunde?",
+      "Sie in der Apotheke"
+    ],
+    0.885765552520752
+  ],
+  [
+    [
+      106,
+      18
+    ],
+    [
+      "Sie haben sich zum Beispiel an einem Nagel verletzt?",
+      "Sie in der Apotheke"
+    ],
+    0.8422218561172485
+  ],
+  [
+    [
+      108,
+      18
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Sie in der Apotheke"
+    ],
+    0.8252438306808472
+  ],
+  [
+    [
+      109,
+      18
+    ],
+    [
+      "Oder rufen Sie den Rettungsdienst.",
+      "Sie in der Apotheke"
+    ],
+    0.8392224311828613
+  ],
+  [
+    [
+      111,
+      18
+    ],
+    [
+      "Ein Tier kratzt oder beißt Sie?",
+      "Sie in der Apotheke"
+    ],
+    0.9137644171714783
+  ],
+  [
+    [
+      118,
+      18
+    ],
+    [
+      "Schauen Sie in Ihren Impfpass.",
+      "Sie in der Apotheke"
+    ],
+    0.9034874439239502
+  ],
+  [
+    [
+      121,
+      18
+    ],
+    [
+      "Sie haben eine leichte Verbrennung?",
+      "Sie in der Apotheke"
+    ],
+    0.7861716151237488
+  ],
+  [
+    [
+      126,
+      18
+    ],
+    [
+      "Sie haben große und starke Verbrennungen?",
+      "Sie in der Apotheke"
+    ],
+    0.8910592198371887
+  ],
+  [
+    [
+      127,
+      18
+    ],
+    [
+      "Dann rufen Sie den Rettungsdienst.",
+      "Sie in der Apotheke"
+    ],
+    0.7766153216362
+  ],
+  [
+    [
+      130,
+      18
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Sie in der Apotheke"
+    ],
+    0.8447669148445129
+  ],
+  [
+    [
+      134,
+      18
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Sie in der Apotheke"
+    ],
+    0.6872730255126953
+  ],
+  [
+    [
+      138,
+      18
+    ],
+    [
+      "Aber machen Sie den Verband nicht zu fest.",
+      "Sie in der Apotheke"
+    ],
+    0.8456021547317505
+  ],
+  [
+    [
+      139,
+      18
+    ],
+    [
+      "Sie können auch mit der Hand direkt auf den Verband drücken.",
+      "Sie in der Apotheke"
+    ],
+    0.8512251973152161
+  ],
+  [
+    [
+      141,
+      25
+    ],
+    [
+      "Sie wollen noch mehr über die Versorgung von Wunden lesen?",
+      "Prüfen Sie bei allen offenen Wunden, ob Sie noch gegen Tetanus geschützt sind."
+    ],
+    0.818439245223999
+  ],
+  [
+    [
+      142,
+      25
+    ],
+    [
+      "Mehr Informationen über die Versorgung von Wunden finden Sie hier .",
+      "Prüfen Sie bei allen offenen Wunden, ob Sie noch gegen Tetanus geschützt sind."
+    ],
+    0.8172359466552734
+  ]
+]

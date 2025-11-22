@@ -1,0 +1,640 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Antazida sind Medikamente gegen Sodbrennen.",
+      "Sodbrennen ist einfach unangenehm."
+    ],
+    0.5060750842094421
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Info: Sodbrennen",
+      "Sodbrennen ist einfach unangenehm."
+    ],
+    0.24721476435661316
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Der Magen ist ein wichtiges Organ im oberen Bauch.",
+      "Sodbrennen ist einfach unangenehm."
+    ],
+    0.4625155031681061
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Der Magen ist durch die Speiseröhre mit dem Mund verbunden.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.5974081158638
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Durch die Speiseröhre gelangt die Nahrung in den Magen.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.8611165285110474
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Im Magen wird die Nahrung zerkleinert und durchmischt.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.514321506023407
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Dabei hilft der Magensaft.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.659220814704895
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Der Magensaft wird von der Magenschleimhaut produziert.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.49119889736175537
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Bei Sodbrennen gelangt Magensaft aus dem Magen in die Speiseröhre.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.7400092482566833
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Betroffene Personen spüren ein unangenehmes Brennen in der Speiseröhre.",
+      "Auslöser ist Magensäure, die zurück in die Speiseröhre gelangt."
+    ],
+    0.7435349225997925
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Dieses Brennen heißt: Sodbrennen.",
+      "Spezielle Medikamente können das Brennen lindern."
+    ],
+    0.7074497938156128
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Gegen Sodbrennen gibt es verschiedene Medikamente.",
+      "Spezielle Medikamente können das Brennen lindern."
+    ],
+    0.6064294576644897
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Medikamente gegen Sodbrennen sind zum Beispiel Antazida.",
+      "Apotheker sprechen dabei zum Beispiel von Antazida oder Protonenpumpenhemmern."
+    ],
+    0.7142615914344788
+  ],
+  [
+    [
+      13,
+      12
+    ],
+    [
+      "Es gibt Antazida mit verschiedenen Wirkstoffen.",
+      "Die Medikamente gibt es zum Kauen oder in Beutelchen."
+    ],
+    0.6639999747276306
+  ],
+  [
+    [
+      14,
+      12
+    ],
+    [
+      "Neben Antazida gibt es auch andere Medikamente gegen Sodbrennen.",
+      "Die Medikamente gibt es zum Kauen oder in Beutelchen."
+    ],
+    0.7484250664710999
+  ],
+  [
+    [
+      15,
+      16
+    ],
+    [
+      "Diese anderen Medikamente heißen:",
+      "Wichtig bei aluminiumhaltigen Antazida: \"Direkt danach keine säurehaltigen Getränke, zum Beispiel Orangensaft trinken, da dies sonst die Aufnahme von Aluminium in den Körper begünstigt\", rät Apothekerin Kelm."
+    ],
+    0.7097188830375671
+  ],
+  [
+    [
+      16,
+      16
+    ],
+    [
+      "Protonenpumpenhemmer H2-Blocker",
+      "Wichtig bei aluminiumhaltigen Antazida: \"Direkt danach keine säurehaltigen Getränke, zum Beispiel Orangensaft trinken, da dies sonst die Aufnahme von Aluminium in den Körper begünstigt\", rät Apothekerin Kelm."
+    ],
+    0.4782279133796692
+  ],
+  [
+    [
+      17,
+      16
+    ],
+    [
+      "Manchmal produziert der Magen zu viel Magensaft.",
+      "Wichtig bei aluminiumhaltigen Antazida: \"Direkt danach keine säurehaltigen Getränke, zum Beispiel Orangensaft trinken, da dies sonst die Aufnahme von Aluminium in den Körper begünstigt\", rät Apothekerin Kelm."
+    ],
+    0.6834628582000732
+  ],
+  [
+    [
+      18,
+      16
+    ],
+    [
+      "Dann kann der Magensaft in die Speiseröhre gelangen.",
+      "Wichtig bei aluminiumhaltigen Antazida: \"Direkt danach keine säurehaltigen Getränke, zum Beispiel Orangensaft trinken, da dies sonst die Aufnahme von Aluminium in den Körper begünstigt\", rät Apothekerin Kelm."
+    ],
+    0.7376804947853088
+  ],
+  [
+    [
+      19,
+      16
+    ],
+    [
+      "In der Speiseröhre verursacht der Magensaft Sodbrennen.",
+      "Wichtig bei aluminiumhaltigen Antazida: \"Direkt danach keine säurehaltigen Getränke, zum Beispiel Orangensaft trinken, da dies sonst die Aufnahme von Aluminium in den Körper begünstigt\", rät Apothekerin Kelm."
+    ],
+    0.4915617108345032
+  ],
+  [
+    [
+      20,
+      16
+    ],
+    [
+      "Antazida binden den Magensaft.",
+      "Wichtig bei aluminiumhaltigen Antazida: \"Direkt danach keine säurehaltigen Getränke, zum Beispiel Orangensaft trinken, da dies sonst die Aufnahme von Aluminium in den Körper begünstigt\", rät Apothekerin Kelm."
+    ],
+    0.6167800426483154
+  ],
+  [
+    [
+      21,
+      23
+    ],
+    [
+      "Das Sodbrennen lässt nach.",
+      "Arzneistoffe wie Omeprazol lindern nicht sofort die Beschwerden, da erst im Körper die aktive Form des Wirkstoffes entsteht."
+    ],
+    0.3478952646255493
+  ],
+  [
+    [
+      22,
+      23
+    ],
+    [
+      "Hinweis: Antazida bekämpfen nur das Sodbrennen.",
+      "Arzneistoffe wie Omeprazol lindern nicht sofort die Beschwerden, da erst im Körper die aktive Form des Wirkstoffes entsteht."
+    ],
+    0.6230319738388062
+  ],
+  [
+    [
+      23,
+      23
+    ],
+    [
+      "Aber Antazida helfen nicht gegen die Ursache des Sodbrennens.",
+      "Arzneistoffe wie Omeprazol lindern nicht sofort die Beschwerden, da erst im Körper die aktive Form des Wirkstoffes entsteht."
+    ],
+    0.7926753759384155
+  ],
+  [
+    [
+      24,
+      35
+    ],
+    [
+      "Meist ist Sodbrennen harmlos.",
+      "Ratsamer als Sodbrennen zu bekämpfen ist, es zu vermeiden."
+    ],
+    0.47904229164123535
+  ],
+  [
+    [
+      25,
+      36
+    ],
+    [
+      "Aber manchmal kann das Sodbrennen auch eine ernste Ursache haben.",
+      "Steckt keine Krankheit oder ein anderer Grund dahinter, spielt oft der Lebensstil eine Rolle."
+    ],
+    0.7700399160385132
+  ],
+  [
+    [
+      26,
+      38
+    ],
+    [
+      "Sie haben häufig Sodbrennen?",
+      "Rauchen Sie nicht."
+    ],
+    0.817654013633728
+  ],
+  [
+    [
+      27,
+      38
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Rauchen Sie nicht."
+    ],
+    0.6862576603889465
+  ],
+  [
+    [
+      28,
+      38
+    ],
+    [
+      "Der Arzt untersucht Sie und kann feststellen:",
+      "Rauchen Sie nicht."
+    ],
+    0.6536835432052612
+  ],
+  [
+    [
+      29,
+      38
+    ],
+    [
+      "Welche Ursache hat das Sodbrennen?",
+      "Rauchen Sie nicht."
+    ],
+    0.32225456833839417
+  ],
+  [
+    [
+      30,
+      38
+    ],
+    [
+      "Das Video zeigt Ihnen: Was müssen Sie bei der Anwendung von Antazida beachten?",
+      "Rauchen Sie nicht."
+    ],
+    0.5683611035346985
+  ],
+  [
+    [
+      31,
+      38
+    ],
+    [
+      "Antazida wirken nicht gegen die Ursache des Sodbrennens.",
+      "Rauchen Sie nicht."
+    ],
+    0.33511972427368164
+  ],
+  [
+    [
+      32,
+      38
+    ],
+    [
+      "Und Antazida können Sodbrennen nicht vorbeugen.",
+      "Rauchen Sie nicht."
+    ],
+    0.7175770998001099
+  ],
+  [
+    [
+      33,
+      38
+    ],
+    [
+      "Nehmen Sie Antazida deshalb nur bei Bedarf ein.",
+      "Rauchen Sie nicht."
+    ],
+    0.7332950234413147
+  ],
+  [
+    [
+      34,
+      38
+    ],
+    [
+      "Antazida gibt es als Kautabletten oder in kleinen Beuteln.",
+      "Rauchen Sie nicht."
+    ],
+    0.4171040952205658
+  ],
+  [
+    [
+      35,
+      38
+    ],
+    [
+      "Sie möchten Antazida als Kautablette nehmen?",
+      "Rauchen Sie nicht."
+    ],
+    0.7565139532089233
+  ],
+  [
+    [
+      36,
+      38
+    ],
+    [
+      "Dann zerkauen Sie die Kautabletten gründlich.",
+      "Rauchen Sie nicht."
+    ],
+    0.790662944316864
+  ],
+  [
+    [
+      37,
+      38
+    ],
+    [
+      "Sie möchten Antazida im Beutel nehmen?",
+      "Rauchen Sie nicht."
+    ],
+    0.573637843132019
+  ],
+  [
+    [
+      38,
+      38
+    ],
+    [
+      "Dann beachten Sie den Beipackzettel.",
+      "Rauchen Sie nicht."
+    ],
+    0.7215491533279419
+  ],
+  [
+    [
+      39,
+      38
+    ],
+    [
+      "Oder fragen Sie Ihren Apotheker:",
+      "Rauchen Sie nicht."
+    ],
+    0.7794492840766907
+  ],
+  [
+    [
+      40,
+      38
+    ],
+    [
+      "Wie nehme ich das Medikament richtig?",
+      "Rauchen Sie nicht."
+    ],
+    0.4176788330078125
+  ],
+  [
+    [
+      42,
+      38
+    ],
+    [
+      "Am besten wirken Antazida ein bis zwei Stunden nach einer Mahlzeit.",
+      "Rauchen Sie nicht."
+    ],
+    0.2065153270959854
+  ],
+  [
+    [
+      43,
+      38
+    ],
+    [
+      "Sie haben Antazida genommen?",
+      "Rauchen Sie nicht."
+    ],
+    0.7575124502182007
+  ],
+  [
+    [
+      44,
+      38
+    ],
+    [
+      "Dann sollten Sie keine säurehaltigen Getränke trinken.",
+      "Rauchen Sie nicht."
+    ],
+    0.8567784428596497
+  ],
+  [
+    [
+      45,
+      38
+    ],
+    [
+      "Säurehaltige Getränke sind zum Beispiel:",
+      "Rauchen Sie nicht."
+    ],
+    0.31294500827789307
+  ],
+  [
+    [
+      46,
+      38
+    ],
+    [
+      "Früchtetee Orangensaft Limonade",
+      "Rauchen Sie nicht."
+    ],
+    0.22964493930339813
+  ],
+  [
+    [
+      47,
+      38
+    ],
+    [
+      "Betroffene Personen vertragen Antazida in der Regel sehr gut.",
+      "Rauchen Sie nicht."
+    ],
+    0.4128532111644745
+  ],
+  [
+    [
+      48,
+      38
+    ],
+    [
+      "Antazida haben meist keine Nebenwirkungen.",
+      "Rauchen Sie nicht."
+    ],
+    0.527910590171814
+  ],
+  [
+    [
+      49,
+      38
+    ],
+    [
+      "Sie nehmen Antazida gleichzeitig mit anderen mit anderen Medikamenten ein?",
+      "Rauchen Sie nicht."
+    ],
+    0.6173149347305298
+  ],
+  [
+    [
+      50,
+      38
+    ],
+    [
+      "Dann können Wechselwirkungen entstehen.",
+      "Rauchen Sie nicht."
+    ],
+    0.6379050612449646
+  ],
+  [
+    [
+      51,
+      38
+    ],
+    [
+      "Sprechen Sie mit Ihrem Apotheker.",
+      "Rauchen Sie nicht."
+    ],
+    0.7130399942398071
+  ],
+  [
+    [
+      52,
+      38
+    ],
+    [
+      "Der Apotheker gibt Ihnen alle wichtigen Informationen.",
+      "Rauchen Sie nicht."
+    ],
+    0.3740794360637665
+  ],
+  [
+    [
+      53,
+      38
+    ],
+    [
+      "Sie nehmen Antazida?",
+      "Rauchen Sie nicht."
+    ],
+    0.7949836254119873
+  ],
+  [
+    [
+      54,
+      38
+    ],
+    [
+      "Dann sollten Sie zwei bis drei Stunden davor und danach keine anderen Medikamente einnehmen.",
+      "Rauchen Sie nicht."
+    ],
+    0.6594808101654053
+  ],
+  [
+    [
+      55,
+      38
+    ],
+    [
+      "Sie wollen noch mehr über Antazida lesen?",
+      "Rauchen Sie nicht."
+    ],
+    0.7960654497146606
+  ],
+  [
+    [
+      56,
+      40
+    ],
+    [
+      "Mehr Informationen über Antazida finden Sie hier .",
+      "Verzichten Sie auf scharfe Gewürze."
+    ],
+    0.6749234795570374
+  ],
+  [
+    [
+      57,
+      40
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Verzichten Sie auf scharfe Gewürze."
+    ],
+    0.3848343789577484
+  ],
+  [
+    [
+      58,
+      42
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "So können Sie Sodbrennen vielfach entgegenwirken."
+    ],
+    0.49415892362594604
+  ]
+]

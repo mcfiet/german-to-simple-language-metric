@@ -1,0 +1,915 @@
+[
+  [
+    [
+      0,
+      2
+    ],
+    [
+      "Das neue Corona-Virus verbreitet sich gerade sehr schnell in der Welt:",
+      "Das Coronavirus überträgt sich über eine Tröpfcheninfektion, aber auch über die Aufnahme kleinerer virushaltiger Teilchen – sogenannter Aerosole, die beim Husten, Niesen und Sprechen in die Luft geraten und von anderen Personen eingeatmet werden können."
+    ],
+    0.7420226335525513
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Es wird vor allem durch Tröpfchen-Infektion auf andere Personen übertragen.",
+      "Das Coronavirus überträgt sich über eine Tröpfcheninfektion, aber auch über die Aufnahme kleinerer virushaltiger Teilchen – sogenannter Aerosole, die beim Husten, Niesen und Sprechen in die Luft geraten und von anderen Personen eingeatmet werden können."
+    ],
+    0.8058248162269592
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Durch Husten oder Niesen können sich die Viren verbreiten.",
+      "Das Coronavirus überträgt sich über eine Tröpfcheninfektion, aber auch über die Aufnahme kleinerer virushaltiger Teilchen – sogenannter Aerosole, die beim Husten, Niesen und Sprechen in die Luft geraten und von anderen Personen eingeatmet werden können."
+    ],
+    0.8727118968963623
+  ],
+  [
+    [
+      4,
+      51
+    ],
+    [
+      "So stecken sich immer mehr Menschen mit der Krankheit COVID-19 an.",
+      "Wichtig ist auch, sich selbst auf Symptome zu beobachten, die für eine Erkrankung an Covid-19 sprechen könnten."
+    ],
+    0.7887132167816162
+  ],
+  [
+    [
+      5,
+      54
+    ],
+    [
+      "Hatten Sie näheren Kontakt zu einer infizierten Person?",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8097754120826721
+  ],
+  [
+    [
+      6,
+      29
+    ],
+    [
+      "Dann müssen Sie in Quarantäne .",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.7363678216934204
+  ],
+  [
+    [
+      7,
+      22
+    ],
+    [
+      "Das bedeutet: Sie dürfen keinen Kontakt zu anderen Personen haben.",
+      "Wenn Sie selbst die Information erhalten haben, dass sie engen Kontakt zu einer Person mit einem positiven PCR-Test auf SARS-CoV-2 hatten, wäre es gut, wenn Sie ab diesem Zeitpunkt Ihre Kontakte möglichst reduzieren beziehungsweise sich komplett von anderen absondern, wenn Ihnen das möglich ist."
+    ],
+    0.8485206961631775
+  ],
+  [
+    [
+      8,
+      25
+    ],
+    [
+      "Und Sie beobachten:",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7358975410461426
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "So sollen andere Personen vor der Ansteckung geschützt werden.",
+      "Das Coronavirus überträgt sich über eine Tröpfcheninfektion, aber auch über die Aufnahme kleinerer virushaltiger Teilchen – sogenannter Aerosole, die beim Husten, Niesen und Sprechen in die Luft geraten und von anderen Personen eingeatmet werden können."
+    ],
+    0.8078515529632568
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Und so können sich die Corona-Viren nicht weiterverbreiten.",
+      "Die Quarantäne soll dazu beitragen, dass sich übertragbare Krankheiten wie Covid-19 nicht unkontrolliert ausbreiten."
+    ],
+    0.840147852897644
+  ],
+  [
+    [
+      12,
+      25
+    ],
+    [
+      "Hinweis: Sie haben sich mit dem Corona-Virus angesteckt?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7428309321403503
+  ],
+  [
+    [
+      13,
+      54
+    ],
+    [
+      "Dann müssen Sie in Isolation.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7741789817810059
+  ],
+  [
+    [
+      15,
+      53
+    ],
+    [
+      "Sie haben selbst keine Beschwerden?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.8231022953987122
+  ],
+  [
+    [
+      16,
+      22
+    ],
+    [
+      "Aber Sie hatten näheren Kontakt zu einer infizierten Person?",
+      "Wenn Sie selbst die Information erhalten haben, dass sie engen Kontakt zu einer Person mit einem positiven PCR-Test auf SARS-CoV-2 hatten, wäre es gut, wenn Sie ab diesem Zeitpunkt Ihre Kontakte möglichst reduzieren beziehungsweise sich komplett von anderen absondern, wenn Ihnen das möglich ist."
+    ],
+    0.850953996181488
+  ],
+  [
+    [
+      17,
+      54
+    ],
+    [
+      "Dann müssen Sie vielleicht in Quarantäne.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7736595273017883
+  ],
+  [
+    [
+      18,
+      8
+    ],
+    [
+      "Eine infizierte Person hat keine Beschwerden?",
+      "Denn eine Übertragung ist auch dann möglich, wenn die infizierte Person selbst keine Symptome hatte."
+    ],
+    0.767154335975647
+  ],
+  [
+    [
+      19,
+      54
+    ],
+    [
+      "Dann können Sie sich trotzdem bei der Person anstecken.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8653935790061951
+  ],
+  [
+    [
+      20,
+      54
+    ],
+    [
+      "In bestimmten Fällen können Sie sich schneller anstecken:",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7683972120285034
+  ],
+  [
+    [
+      21,
+      54
+    ],
+    [
+      "Sie haben engen Kontakt mit der Person.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7985647320747375
+  ],
+  [
+    [
+      22,
+      54
+    ],
+    [
+      "Sie haben lange Kontakt mit der Person.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7937573194503784
+  ],
+  [
+    [
+      23,
+      54
+    ],
+    [
+      "Sie haben keinen Mund-Nasen-Schutz getragen.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7569326162338257
+  ],
+  [
+    [
+      24,
+      50
+    ],
+    [
+      "Sie haben keinen Abstand zu der Person gehalten.",
+      "Also: konsequent Abstand zu diesen gefährdeten Menschen halten."
+    ],
+    0.8485368490219116
+  ],
+  [
+    [
+      25,
+      22
+    ],
+    [
+      "Nach dem Kontakt zu einer infizierten Person wissen Sie nicht sofort:",
+      "Wenn Sie selbst die Information erhalten haben, dass sie engen Kontakt zu einer Person mit einem positiven PCR-Test auf SARS-CoV-2 hatten, wäre es gut, wenn Sie ab diesem Zeitpunkt Ihre Kontakte möglichst reduzieren beziehungsweise sich komplett von anderen absondern, wenn Ihnen das möglich ist."
+    ],
+    0.8216632604598999
+  ],
+  [
+    [
+      28,
+      30
+    ],
+    [
+      "Und Sie haben meist erst nach ein paar Tagen Beschwerden.",
+      "Diese dauert nun aber nur noch zehn Tage."
+    ],
+    0.7365089654922485
+  ],
+  [
+    [
+      29,
+      12
+    ],
+    [
+      "Das kann fünf bis sieben Tage dauern.",
+      "Institut kann es zehn bis 14 Tage dauern, bis Krankheitszeichen zutage treten."
+    ],
+    0.7902922630310059
+  ],
+  [
+    [
+      30,
+      29
+    ],
+    [
+      "Deshalb müssen Sie in Quarantäne.",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.797193706035614
+  ],
+  [
+    [
+      31,
+      4
+    ],
+    [
+      "Sie hatten engen Kontakt zu einer Person?",
+      "Sie sollen möglichst keine Kontakte zu anderen Menschen haben, bis sie wieder genesen sind."
+    ],
+    0.8147218823432922
+  ],
+  [
+    [
+      34,
+      4
+    ],
+    [
+      "Sie hatten Kontakt zu einer infizierten Person?",
+      "Sie sollen möglichst keine Kontakte zu anderen Menschen haben, bis sie wieder genesen sind."
+    ],
+    0.820324718952179
+  ],
+  [
+    [
+      35,
+      54
+    ],
+    [
+      "Dann treffen Sie möglichst wenige Menschen.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8151953220367432
+  ],
+  [
+    [
+      36,
+      22
+    ],
+    [
+      "Wenn es möglich ist: Gehen Sie in Quarantäne.",
+      "Wenn Sie selbst die Information erhalten haben, dass sie engen Kontakt zu einer Person mit einem positiven PCR-Test auf SARS-CoV-2 hatten, wäre es gut, wenn Sie ab diesem Zeitpunkt Ihre Kontakte möglichst reduzieren beziehungsweise sich komplett von anderen absondern, wenn Ihnen das möglich ist."
+    ],
+    0.7636010646820068
+  ],
+  [
+    [
+      38,
+      24
+    ],
+    [
+      "Oder rufen Sie Ihren Hausarzt an.",
+      "Rufen Sie beim örtlichen Gesundheitsamt, in Ihrer hausärztlichen Praxis oder beim ärztlichen Bereitschaftsdienst an."
+    ],
+    0.7486424446105957
+  ],
+  [
+    [
+      40,
+      25
+    ],
+    [
+      "Das müssen Sie jetzt tun.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7672276496887207
+  ],
+  [
+    [
+      41,
+      53
+    ],
+    [
+      "Achtung: Sie glauben:",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.7976893186569214
+  ],
+  [
+    [
+      43,
+      53
+    ],
+    [
+      "Sie haben zum Beispiel Fieber oder Husten?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.7958495020866394
+  ],
+  [
+    [
+      44,
+      4
+    ],
+    [
+      "Dann bleiben Sie unbedingt zu Hause!",
+      "Sie sollen möglichst keine Kontakte zu anderen Menschen haben, bis sie wieder genesen sind."
+    ],
+    0.7715458273887634
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Rufen Sie Ihren Hausarzt an.",
+      "Rufen Sie beim örtlichen Gesundheitsamt, in Ihrer hausärztlichen Praxis oder beim ärztlichen Bereitschaftsdienst an."
+    ],
+    0.7699775695800781
+  ],
+  [
+    [
+      46,
+      25
+    ],
+    [
+      "Ihr Hausarzt glaubt: Sie haben sich mit dem neuen Corona-Virus angesteckt?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7718883752822876
+  ],
+  [
+    [
+      48,
+      54
+    ],
+    [
+      "Ihr Hausarzt kann Sie zu Hause oder in der Arztpraxis testen.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8133763074874878
+  ],
+  [
+    [
+      49,
+      54
+    ],
+    [
+      "Folgen Sie den Anweisungen Ihres Arztes.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7955107092857361
+  ],
+  [
+    [
+      50,
+      54
+    ],
+    [
+      "Sie möchten mehr über die verschiedenen Corona-Tests erfahren?",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8451367616653442
+  ],
+  [
+    [
+      51,
+      54
+    ],
+    [
+      "Mehr Informationen zu den verschiedenen Corona-Tests finden Sie hier .",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7766219973564148
+  ],
+  [
+    [
+      52,
+      53
+    ],
+    [
+      "Sie haben keine Beschwerden?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.8064640164375305
+  ],
+  [
+    [
+      53,
+      4
+    ],
+    [
+      "Dann können Sie meist zu Hause in Quarantäne bleiben.",
+      "Sie sollen möglichst keine Kontakte zu anderen Menschen haben, bis sie wieder genesen sind."
+    ],
+    0.8065646886825562
+  ],
+  [
+    [
+      54,
+      53
+    ],
+    [
+      "Bitte beachten Sie folgende Dinge:",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.8033910393714905
+  ],
+  [
+    [
+      55,
+      4
+    ],
+    [
+      "Bleiben Sie zu Hause.",
+      "Sie sollen möglichst keine Kontakte zu anderen Menschen haben, bis sie wieder genesen sind."
+    ],
+    0.7558621168136597
+  ],
+  [
+    [
+      56,
+      50
+    ],
+    [
+      "Vermeiden Sie den Kontakt zu anderen Personen.",
+      "Also: konsequent Abstand zu diesen gefährdeten Menschen halten."
+    ],
+    0.8390523791313171
+  ],
+  [
+    [
+      57,
+      54
+    ],
+    [
+      "Lassen Sie sich nicht von anderen Personen besuchen.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8606372475624084
+  ],
+  [
+    [
+      58,
+      54
+    ],
+    [
+      "Sie wohnen mit anderen Personen zusammen?",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7485076189041138
+  ],
+  [
+    [
+      59,
+      50
+    ],
+    [
+      "Dann vermeiden Sie den Kontakt zu diesen Personen.",
+      "Also: konsequent Abstand zu diesen gefährdeten Menschen halten."
+    ],
+    0.8451887965202332
+  ],
+  [
+    [
+      60,
+      54
+    ],
+    [
+      "Bleiben Sie in einem eigenen Zimmer.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7393604516983032
+  ],
+  [
+    [
+      61,
+      54
+    ],
+    [
+      "Essen Sie nicht mit Ihren Mitbewohnern zusammen.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7687525153160095
+  ],
+  [
+    [
+      62,
+      25
+    ],
+    [
+      "Nutzen Sie das Badezimmer zu unterschiedlichen Zeiten.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.8388762474060059
+  ],
+  [
+    [
+      64,
+      25
+    ],
+    [
+      "Und lüften Sie das Badezimmer regelmäßig.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7699621915817261
+  ],
+  [
+    [
+      66,
+      54
+    ],
+    [
+      "Waschen Sie sich regelmäßig die Hände.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8163527846336365
+  ],
+  [
+    [
+      68,
+      54
+    ],
+    [
+      "Tragen Sie einen Mund-Nasen-Schutz.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7658122181892395
+  ],
+  [
+    [
+      69,
+      54
+    ],
+    [
+      "Sie möchten mehr über den Mund-Nasen-Schutz erfahren?",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8147242069244385
+  ],
+  [
+    [
+      70,
+      54
+    ],
+    [
+      "Hier finden Sie weitere Informationen über den Mund-Nasen-Schutz.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7793248891830444
+  ],
+  [
+    [
+      73,
+      25
+    ],
+    [
+      "Dann müssen Sie besonders vorsichtig sein.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.8604263067245483
+  ],
+  [
+    [
+      74,
+      53
+    ],
+    [
+      "Das können Sie während der Quarantäne tun: Beobachten Sie: Bekommen Sie Beschwerden?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.878567099571228
+  ],
+  [
+    [
+      75,
+      25
+    ],
+    [
+      "Sie können jeden Tag Ihre Temperatur messen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.723900318145752
+  ],
+  [
+    [
+      78,
+      54
+    ],
+    [
+      "Sie können sich während der Quarantäne selbst testen.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8753516674041748
+  ],
+  [
+    [
+      80,
+      53
+    ],
+    [
+      "Dann rufen Sie Ihren Arzt oder das Gesundheitsamt an.",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.8260782957077026
+  ],
+  [
+    [
+      81,
+      25
+    ],
+    [
+      "Ihr Arzt sagt Ihnen: Das müssen Sie jetzt tun.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7772461175918579
+  ],
+  [
+    [
+      82,
+      53
+    ],
+    [
+      "Sie bekommen Fieber oder andere Beschwerden?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.9142189025878906
+  ],
+  [
+    [
+      83,
+      53
+    ],
+    [
+      "Dann rufen Sie Ihr Gesundheitsamt oder ihren Arzt an.",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.7622527480125427
+  ],
+  [
+    [
+      84,
+      53
+    ],
+    [
+      "Sie müssen zum Arzt?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.7611477971076965
+  ],
+  [
+    [
+      87,
+      30
+    ],
+    [
+      "Dann werden Sie vielleicht erst fünf bis sieben Tage später krank.",
+      "Diese dauert nun aber nur noch zehn Tage."
+    ],
+    0.7820257544517517
+  ],
+  [
+    [
+      91,
+      29
+    ],
+    [
+      "Betroffene Personen ohne Beschwerden sollen mindestens fünf Tage in Quarantäne bleiben.",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.7667625546455383
+  ],
+  [
+    [
+      92,
+      29
+    ],
+    [
+      "Treffen Sie in dieser Zeit keine anderen Menschen.",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.8111459612846375
+  ],
+  [
+    [
+      93,
+      54
+    ],
+    [
+      "Vermeiden Sie den Kontakt zu Personen aus der Risikogruppe.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8069813251495361
+  ],
+  [
+    [
+      94,
+      29
+    ],
+    [
+      "Sie sind in Quarantäne?",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.7337841987609863
+  ],
+  [
+    [
+      95,
+      25
+    ],
+    [
+      "Dann machen Sie täglich einen Corona-Test.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.7514712810516357
+  ],
+  [
+    [
+      97,
+      65
+    ],
+    [
+      "Und der Corona-Test ist negativ ?",
+      "Aber auch, wenn man in Quarantäne ist, ist dem oft der Fall."
+    ],
+    0.7494333386421204
+  ],
+  [
+    [
+      98,
+      54
+    ],
+    [
+      "Dann dürfen Sie die Quarantäne beenden.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.8169913291931152
+  ],
+  [
+    [
+      99,
+      34
+    ],
+    [
+      "Das Gesundheitsamt entscheidet:",
+      "Das Gesundheitsamt legt das Vorgehen im Einzelfall immer individuell fest."
+    ],
+    0.7653879523277283
+  ],
+  [
+    [
+      100,
+      29
+    ],
+    [
+      "Sie müssen in Quarantäne?",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.7732030153274536
+  ],
+  [
+    [
+      102,
+      20
+    ],
+    [
+      "In manchen Fällen bekommen Sie während der Quarantäne aber kein Gehalt:",
+      "Bei hohen Inzidenzen kam und kommt es in Deutschland immer wieder dazu, dass die lokalen Gesundheitsbehörden mit der Ermittlung der Kontaktpersonen nicht mehr nachkamen oder -kommen."
+    ],
+    0.7301247715950012
+  ],
+  [
+    [
+      103,
+      53
+    ],
+    [
+      "Sie sind nicht gegen das Corona-Virus geimpft?",
+      "Falls Sie Fieber oder andere Symptome feststellen, sollten Sie umgehend das zuständige Gesundheitsamt kontaktieren."
+    ],
+    0.7674850225448608
+  ],
+  [
+    [
+      104,
+      66
+    ],
+    [
+      "Es gibt aber keine medizinischen Gründe gegen eine Impfung?",
+      "Es gibt aber auch Ausnahmen:"
+    ],
+    0.8665956258773804
+  ],
+  [
+    [
+      105,
+      29
+    ],
+    [
+      "Oder Sie waren in einem Risikogebiet?",
+      "Alle anderen Kontaktpersonen müssen sich weiterhin in Quarantäne begeben."
+    ],
+    0.732127845287323
+  ],
+  [
+    [
+      106,
+      54
+    ],
+    [
+      "Dann bekommen Sie während der Quarantäne kein Gehalt.",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7478830814361572
+  ],
+  [
+    [
+      107,
+      54
+    ],
+    [
+      "Sie wollen noch mehr über Quarantäne bei einer Corona-Infektion lesen?",
+      "Falls Sie den Rettungsdienst benötigen oder die Hilfe Ihrer hausärztlichen Praxis aufgrund anderer Gesundheitsprobleme brauchen sollten, weisen Sie bitte beim Telefonat darauf hin, dass Sie sich in Quarantäne befinden."
+    ],
+    0.7957538366317749
+  ],
+  [
+    [
+      110,
+      6
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Erkrankte, die in die Klinik müssen, werden dort isoliert."
+    ],
+    0.7979498505592346
+  ]
+]

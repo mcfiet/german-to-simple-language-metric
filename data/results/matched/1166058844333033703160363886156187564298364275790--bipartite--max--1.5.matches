@@ -1,0 +1,1157 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie sind von einem anderen Ort in Deutschland nach Köln gezogen?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.7160838842391968
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Sie haben ein Fahrzeug von außerhalb gekauft?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.5895484089851379
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Und Sie wollen Ihr Fahrzeug jetzt in Köln zulassen?",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7545884847640991
+  ],
+  [
+    [
+      3,
+      23
+    ],
+    [
+      "Das schwere Wort dafür ist: Standort-Wechsel .",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.5741989612579346
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das bedeutet: Ihr Fahrzeug war bis jetzt an einem anderen Ort in Deutschland zugelassen.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.7360687851905823
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Jetzt lassen Sie Ihr Fahrzeug nach Köln umschreiben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8492010235786438
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Sie können das Fahrzeug dann zulassen auf den bisherigen Halter oder die bisherige Halterin einen neuen Halter oder eine neue Halterin Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Dabei kann das Fahrzeug entweder auf die bisherige Halterin oder den bisherigen Halter als auch auf eine neue Halterin oder einen neuen Halter zugelassen werden."
+    ],
+    0.891849160194397
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Auf dieser Seite erklären wir, wie Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6609401702880859
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Wenn Sie von außerhalb nach Köln umziehen , lesen Sie bitte auch die Infos zum \"Umzug und neu in Köln\".",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7861877083778381
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Wenn Sie ein Fahrzeug nach Köln umschreiben wollen, dann müssen Sie uns diese Papiere zeigen: Zulassungs-Bescheinigung Teil 1 und Teil 2",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6600035429000854
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Wenn Sie ein Fahrzeug kaufen, dann bekommen Sie die Zulassungs-Bescheinigung Teil 2. Früher hieß das: Fahrzeug-Brief .",
+      "Dann möchten Sie einen sogenannten Standortwechsel durchführen."
+    ],
+    0.572048008441925
+  ],
+  [
+    [
+      12,
+      12
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 2 ist ein Nachweis für den Besitz .",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6591650247573853
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6506917476654053
+  ],
+  [
+    [
+      14,
+      45
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden , dann bekommen Sie die Zulassungs-Bescheinigung Teil 1 .",
+      "Kennzeichen bekommen Sie bei den ortsansässigen Schilderherstellern."
+    ],
+    0.6189298629760742
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Früher hieß das: Fahrzeug-Schein.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.6362324357032776
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 1 ist ein Nachweis das Anmelden.",
+      "Die Vorlage der Zulassungsbescheinigung Teil II ist allerdings nur erforderlich, wenn ein Halter- und/oder Kennzeichenwechsel stattfindet."
+    ],
+    0.727605938911438
+  ],
+  [
+    [
+      17,
+      33
+    ],
+    [
+      "Damit zeigen Sie:",
+      "Bitte beachten Sie, dass zusätzlich zur Vollmacht Personalausweis oder Pass der Vertreterin oder des Vertreters vorzulegen sind."
+    ],
+    0.6645427942276001
+  ],
+  [
+    [
+      18,
+      23
+    ],
+    [
+      "Mein Fahrzeug ist beim Amt gemeldet.",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.6117793917655945
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben wollen, dann zeigen Sie uns Ihre Zulassungs-Bescheinigung Teil 1 .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6873112320899963
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Oder Ihren Fahrzeug-Schein .",
+      "Nachweis über die gültige Hauptuntersuchung durch den Fahrzeugschein/die Zulassungbescheinigung Teil I oder den letzten Bericht über die Hauptuntersuchung."
+    ],
+    0.6301130056381226
+  ],
+  [
+    [
+      21,
+      30
+    ],
+    [
+      "Sie müssen uns auch Ihre Zulassungs-Bescheinigung Teil 2 oder Ihren Fahrzeug-Brief zeigen: wenn sich der Halter oder die Halterin ändert oder wenn sich das Kenn-Zeichen ändert.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.628055214881897
+  ],
+  [
+    [
+      22,
+      7
+    ],
+    [
+      "Personal-Ausweis oder Pass vom Halter oder der Halterin",
+      "Personalausweis oder Pass der zukünftigen Halterin beziehungsweise des zukünftigen Halters Vollmacht bei Vertretung zusätzlich"
+    ],
+    0.8052465319633484
+  ],
+  [
+    [
+      23,
+      2
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Dabei kann das Fahrzeug entweder auf die bisherige Halterin oder den bisherigen Halter als auch auf eine neue Halterin oder einen neuen Halter zugelassen werden."
+    ],
+    0.7646716833114624
+  ],
+  [
+    [
+      24,
+      33
+    ],
+    [
+      "Die Person muss uns Ihren Personal-Ausweis oder Pass zeigen.",
+      "Bitte beachten Sie, dass zusätzlich zur Vollmacht Personalausweis oder Pass der Vertreterin oder des Vertreters vorzulegen sind."
+    ],
+    0.6547622680664062
+  ],
+  [
+    [
+      25,
+      8
+    ],
+    [
+      "Versicherungs-Bestätigung",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Download und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    1.0
+  ],
+  [
+    [
+      26,
+      0
+    ],
+    [
+      "In Deutschland muss jedes zugelassene Fahrzeug versichert sein.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.6503198146820068
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "Das heißt: Sie brauchen eine Kfz-Versicherung für Ihr Fahrzeug.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6037938594818115
+  ],
+  [
+    [
+      28,
+      8
+    ],
+    [
+      "Sie müssen uns einen Nachweis von der Versicherung zeigen.",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Download und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.6384886503219604
+  ],
+  [
+    [
+      30,
+      12
+    ],
+    [
+      "Die Abkürzung dafür ist: eVB-Nummer.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5808447599411011
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Nachweis über die Haupt-Untersuchung (TÜV)",
+      "Nachweis über die gültige Hauptuntersuchung durch den Fahrzeugschein/die Zulassungbescheinigung Teil I oder den letzten Bericht über die Hauptuntersuchung."
+    ],
+    0.8843730688095093
+  ],
+  [
+    [
+      33,
+      3
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie die Haupt-Untersuchung bestanden haben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7766129374504089
+  ],
+  [
+    [
+      35,
+      35
+    ],
+    [
+      "Dazu können Sie uns diese Papiere zeigen:",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.6418309807777405
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Kennzeichen-Schilder Wenn wir Ihr altes Kennzeichen tauschen sollen gegen ein neues Kölner Kennzeichen , dann müssen Sie Ihre Kennzeichen-Schilder mitbringen!",
+      "Kennzeichenschilder bei noch zugelassenen Fahrzeugen, wenn das bisherige Kennzeichen durch ein Kölner Kennzeichen ersetzt werden soll."
+    ],
+    0.6011261343955994
+  ],
+  [
+    [
+      37,
+      3
+    ],
+    [
+      "Sie können auch Ihr altes Kennzeichen behalten , wenn Sie innerhalb von Deutschland umziehen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.5910855531692505
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Dann müssen Sie Ihr Kennzeichen nicht tauschen .",
+      "Seit dem 1. Oktober 2019 können Sie auch das Kennzeichen eines bislang in einer anderen Stadt noch zugelassenen und nun in Köln zu registrierenden Kraftfahrzeuges übernehmen."
+    ],
+    0.720798134803772
+  ],
+  [
+    [
+      39,
+      14
+    ],
+    [
+      "Das Ändern vom Kennzeichen ist freiwillig .",
+      "Seit dem 1. Januar 2015 ist es bei Umzügen innerhalb Deutschlands möglich, das bisherige Kennzeichen beizubehalten."
+    ],
+    0.7216589450836182
+  ],
+  [
+    [
+      41,
+      3
+    ],
+    [
+      "Wenn Sie in Deutschland ein Fahrzeug zulassen, dann müssen Sie Steuern dafür bezahlen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6634992361068726
+  ],
+  [
+    [
+      42,
+      12
+    ],
+    [
+      "Das schwere Wort dafür ist: Kraft-Fahrzeug-Steuer.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6162473559379578
+  ],
+  [
+    [
+      43,
+      12
+    ],
+    [
+      "Die Abkürzung ist: Kfz-Steuer.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.603924572467804
+  ],
+  [
+    [
+      45,
+      27
+    ],
+    [
+      "Sie müssen das Abbuchen von Ihrem Konto vorher erlauben.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.609029233455658
+  ],
+  [
+    [
+      47,
+      3
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen, dann müssen Sie uns diese Erlaubnis geben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.705463707447052
+  ],
+  [
+    [
+      48,
+      27
+    ],
+    [
+      "Damit das Amt die Steuer von Ihrem Konto abbuchen kann.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.6231621503829956
+  ],
+  [
+    [
+      49,
+      3
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6689451932907104
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "Die Erlaubnis brauchen wir auch: Wenn wir Ihre Daten schon zu einem anderen Fahrzeug haben.",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.6753585934638977
+  ],
+  [
+    [
+      51,
+      3
+    ],
+    [
+      "Zum Beispiel: Weil Sie 2 Autos haben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6011391282081604
+  ],
+  [
+    [
+      52,
+      32
+    ],
+    [
+      "Sie können das Mandat am Computer ausfüllen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.8841462135314941
+  ],
+  [
+    [
+      53,
+      40
+    ],
+    [
+      "Dann müssen Sie es ausdrucken.",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.7273240089416504
+  ],
+  [
+    [
+      54,
+      32
+    ],
+    [
+      "Und am Ende müssen Sie es unterschreiben.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6070648431777954
+  ],
+  [
+    [
+      56,
+      25
+    ],
+    [
+      "2. Die Unterschrift vom Fahrzeug-Halter oder der Fahrzeug-Halterin.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.7331488728523254
+  ],
+  [
+    [
+      57,
+      38
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "Diese Gebühren erhöhen sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.7289658784866333
+  ],
+  [
+    [
+      58,
+      12
+    ],
+    [
+      "Manchmal bezahlt eine Person die Kfz-Steuer.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6075279712677002
+  ],
+  [
+    [
+      59,
+      12
+    ],
+    [
+      "Obwohl eine andere Person das Auto nutzt.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7025741338729858
+  ],
+  [
+    [
+      60,
+      3
+    ],
+    [
+      "Deshalb brauchen wir immer beide Unterschriften .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.5751528739929199
+  ],
+  [
+    [
+      61,
+      27
+    ],
+    [
+      "Achtung: Wenn Sie kein Konto haben: Dann müssen Sie vorher zum Haupt-Zoll-Amt .",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.6971433758735657
+  ],
+  [
+    [
+      62,
+      27
+    ],
+    [
+      "Das Haupt-Zoll-Amt ist für die Kfz-Steuer zuständig.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.690064549446106
+  ],
+  [
+    [
+      63,
+      3
+    ],
+    [
+      "Wichtig: Sie müssen zum Haupt-Zoll-Amt gehen, bevor Sie Ihr Fahrzeug bei uns umschreiben lassen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6568009853363037
+  ],
+  [
+    [
+      64,
+      23
+    ],
+    [
+      "Das ist die Adresse :",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.8829817175865173
+  ],
+  [
+    [
+      65,
+      27
+    ],
+    [
+      "Haupt-Zoll-Amt Köln",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    1.0
+  ],
+  [
+    [
+      66,
+      27
+    ],
+    [
+      "Stolberger Straße 200 50933 Köln Lesen Sie bitte die weiteren Informationen zum SEPA-Mandat.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.7374846935272217
+  ],
+  [
+    [
+      67,
+      3
+    ],
+    [
+      "Fragen Sie jemanden um Hilfe, wenn Sie etwas nicht verstehen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6041251420974731
+  ],
+  [
+    [
+      68,
+      13
+    ],
+    [
+      "Wie kann ich ein Fahrzeug umschreiben?",
+      "Kennzeichenschilder bei noch zugelassenen Fahrzeugen, wenn das bisherige Kennzeichen durch ein Kölner Kennzeichen ersetzt werden soll."
+    ],
+    0.6040053963661194
+  ],
+  [
+    [
+      69,
+      17
+    ],
+    [
+      "1. Sie können das Umschreiben online vorbereiten .",
+      "Online"
+    ],
+    0.75501948595047
+  ],
+  [
+    [
+      70,
+      32
+    ],
+    [
+      "Das heißt: Sie können es am Computer vorbereiten.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7391222715377808
+  ],
+  [
+    [
+      71,
+      17
+    ],
+    [
+      "2. Sie können dann online einen Termin ausmachen.",
+      "Online"
+    ],
+    0.75501948595047
+  ],
+  [
+    [
+      72,
+      32
+    ],
+    [
+      "Das heißt: Sie können am Computer einen Termin machen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6890347003936768
+  ],
+  [
+    [
+      73,
+      15
+    ],
+    [
+      "3. Sie müssen dann persönlich zur Zulassungs-Stelle kommen.",
+      "Seit dem 1. Oktober 2019 können Sie auch das Kennzeichen eines bislang in einer anderen Stadt noch zugelassenen und nun in Köln zu registrierenden Kraftfahrzeuges übernehmen."
+    ],
+    0.6961161494255066
+  ],
+  [
+    [
+      75,
+      12
+    ],
+    [
+      "Was ist, wenn ich das Fahrzeug als Firmen-Fahrzeug nutze?",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6299639344215393
+  ],
+  [
+    [
+      76,
+      3
+    ],
+    [
+      "Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie zur Zulassungs-Stelle in Köln kommen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6995333433151245
+  ],
+  [
+    [
+      77,
+      23
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln Wichtig : Wenn Sie das Fahrzeug als Firmen-Fahrzeug benutzen, dann müssen Sie uns zusätzlich diese Papiere zeigen:",
+      "Das SEPA -Mandat ist auch dann nötig, wenn die Daten bereits zu einem anderen Fahrzeug erfasst wurden."
+    ],
+    0.5959556698799133
+  ],
+  [
+    [
+      79,
+      12
+    ],
+    [
+      "Sie können ein Fahrzeug auf eine Person unter 18 Jahren zulassen.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6015499830245972
+  ],
+  [
+    [
+      80,
+      12
+    ],
+    [
+      "Das ist aber nur in manchen Fällen möglich.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7592771053314209
+  ],
+  [
+    [
+      81,
+      12
+    ],
+    [
+      "Zum Beispiel wenn die Person unter 18 Jahren: Eine Fahr-Erlaubnis für das Fahrzeug hat.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.664565920829773
+  ],
+  [
+    [
+      82,
+      12
+    ],
+    [
+      "Oder die Person eine schwere Behinderung hat.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6592127084732056
+  ],
+  [
+    [
+      83,
+      3
+    ],
+    [
+      "Bitte fragen Sie vorher: Ob Sie das Fahrzeug zulassen können auf die Person unter 18 Jahren.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.6593616604804993
+  ],
+  [
+    [
+      84,
+      30
+    ],
+    [
+      "Wichtig: Wenn Sie ein Fahrzeug zulassen wollen auf eine Person unter 18 Jahren, müssen Sie eine Einverständnis-Erklärung zeigen von beiden Eltern.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6391735076904297
+  ],
+  [
+    [
+      86,
+      11
+    ],
+    [
+      "Beide Eltern müssen die Erklärung unterschreiben.",
+      "Bei Minderjährigen Einverständniserklärung beider Eltern oder des Vormundes sowie deren Ausweisdokumente"
+    ],
+    0.6930243968963623
+  ],
+  [
+    [
+      88,
+      12
+    ],
+    [
+      "Ausnahme: Wenn nur 1 Person das Sorge-Recht hat.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6685692667961121
+  ],
+  [
+    [
+      89,
+      30
+    ],
+    [
+      "Dann muss nur diese Person ihren Ausweis zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5820222496986389
+  ],
+  [
+    [
+      90,
+      12
+    ],
+    [
+      "Das heißt: Wenn nur die Mutter das Sorge-Recht hat.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6906285881996155
+  ],
+  [
+    [
+      91,
+      12
+    ],
+    [
+      "Oder wenn nur der Vater das Sorge-Recht hat.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7014626860618591
+  ],
+  [
+    [
+      92,
+      12
+    ],
+    [
+      "Oder wenn sich eine andere Person um das Kind kümmert.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6646215319633484
+  ],
+  [
+    [
+      93,
+      15
+    ],
+    [
+      "Dann müssen Sie uns nur 1 Ausweis zeigen.",
+      "Seit dem 1. Oktober 2019 können Sie auch das Kennzeichen eines bislang in einer anderen Stadt noch zugelassenen und nun in Köln zu registrierenden Kraftfahrzeuges übernehmen."
+    ],
+    0.6015581488609314
+  ],
+  [
+    [
+      94,
+      2
+    ],
+    [
+      "Und einen Nachweis über das Sorge-Recht.",
+      "Dabei kann das Fahrzeug entweder auf die bisherige Halterin oder den bisherigen Halter als auch auf eine neue Halterin oder einen neuen Halter zugelassen werden."
+    ],
+    0.5875208973884583
+  ],
+  [
+    [
+      97,
+      30
+    ],
+    [
+      "Sie müssen persönlich zur Zulassungs-Stelle kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7310717105865479
+  ],
+  [
+    [
+      98,
+      30
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6817837357521057
+  ],
+  [
+    [
+      99,
+      30
+    ],
+    [
+      "Die Person muss uns dann eine Vollmacht zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6840341687202454
+  ],
+  [
+    [
+      100,
+      12
+    ],
+    [
+      "Eine Vollmacht ist ein Papier, auf dem steht:",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6070145964622498
+  ],
+  [
+    [
+      101,
+      40
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.6448339819908142
+  ],
+  [
+    [
+      102,
+      32
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.8052839040756226
+  ],
+  [
+    [
+      103,
+      32
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.799183189868927
+  ],
+  [
+    [
+      104,
+      32
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.799183189868927
+  ],
+  [
+    [
+      105,
+      30
+    ],
+    [
+      "Beim Zulassen muss die Person uns die Vollmacht zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5806297063827515
+  ],
+  [
+    [
+      106,
+      8
+    ],
+    [
+      "Und die Person muss uns ihren Ausweis oder Pass zeigen.",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Download und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.584010124206543
+  ],
+  [
+    [
+      107,
+      7
+    ],
+    [
+      "Zusätzlich muss die Person uns den Personalausweis oder Pass des Halters oder der Halterin zeigen.",
+      "Personalausweis oder Pass der zukünftigen Halterin beziehungsweise des zukünftigen Halters Vollmacht bei Vertretung zusätzlich"
+    ],
+    0.7223111391067505
+  ],
+  [
+    [
+      109,
+      39
+    ],
+    [
+      "Das Umschreiben kostet 27,50 Euro, wenn sich der Halter oder die Halterin nicht ändert.",
+      "Wunschkennzeichen kosten 10,20 Euro."
+    ],
+    0.7344915866851807
+  ],
+  [
+    [
+      110,
+      37
+    ],
+    [
+      "Das Umschreiben kostet 29,60 Euro, wenn sich der Halter oder die Halterin ändert.",
+      "Gebühren 27,50 Euro ohne Wechsel der Halterin beziehungsweise des Halters 29,60 Euro mit Wechsel der Halterin beziehungsweise des Halters"
+    ],
+    0.606241762638092
+  ],
+  [
+    [
+      112,
+      43
+    ],
+    [
+      "Manchmal müssen Sie weitere Gebühren bezahlen!",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.759676456451416
+  ],
+  [
+    [
+      113,
+      46
+    ],
+    [
+      "Zum Beispiel: Für Ihre Kennzeichen.",
+      "Im Kundenzentrum Innenstadt halten wir für Sie vorgeprägte Kennzeichen bereit."
+    ],
+    0.6381140351295471
+  ],
+  [
+    [
+      114,
+      43
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.9301319718360901
+  ],
+  [
+    [
+      115,
+      15
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Seit dem 1. Oktober 2019 können Sie auch das Kennzeichen eines bislang in einer anderen Stadt noch zugelassenen und nun in Köln zu registrierenden Kraftfahrzeuges übernehmen."
+    ],
+    0.6264141798019409
+  ],
+  [
+    [
+      116,
+      43
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.7232679724693298
+  ],
+  [
+    [
+      117,
+      12
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.583729088306427
+  ],
+  [
+    [
+      118,
+      27
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.668736457824707
+  ],
+  [
+    [
+      119,
+      43
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Gebühren können Sie auch per ec-Karte mit PIN-Nummer oder mit der GeldKarte bezahlen."
+    ],
+    0.7598650455474854
+  ],
+  [
+    [
+      120,
+      28
+    ],
+    [
+      "Weitere Informationen *",
+      "Beachten Sie zum SEPA -Mandat auch unsere allgemeinen Informationen: Umzug und Neu in Köln"
+    ],
+    0.661552906036377
+  ]
+]

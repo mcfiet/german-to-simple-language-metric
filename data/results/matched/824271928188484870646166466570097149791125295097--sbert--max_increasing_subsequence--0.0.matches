@@ -1,0 +1,959 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Krampfadern sind Blutgefäße.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.8305401802062988
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie transportieren das sauerstoffarme Blut zum Herzen.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.5184879302978516
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Krampfadern sind also Venen.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.8483750224113464
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Aber diese Venen sind dauerhaft geweitet.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.847222626209259
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Krampfadern verlaufen unter der Haut.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.6109415292739868
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Trotzdem kann man Krampfadern oft sehen:",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.41340142488479614
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Sie treten nämlich unter der Haut hervor und sehen aus wie ein Knoten oder wie ein dicker Strang.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.5784773826599121
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Durch die Haut schimmern Krampfadern bläulich.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.6172155141830444
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Sie kommen vor allem an den Beinen vor.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.31069862842559814
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Aber es gibt sie auch am Becken.",
+      "Krampfadern sind dauerhaft erweiterte, unregelmäßig geschlängelte Venen."
+    ],
+    0.3884395658969879
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Der Arzt sagt zu Krampfadern: Varikose .",
+      "Ärzte sprechen auch von Varikose, Varikosis oder Varizen."
+    ],
+    0.8544355630874634
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Oft leiden schon Jugendliche oder junge Erwachsene unter Krampfadern.",
+      "Gelegentlich verursachen diese auch örtliche Schmerzen."
+    ],
+    0.5602997541427612
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Krampfadern können verschiedene Ursachen haben.",
+      "Gelegentlich verursachen diese auch örtliche Schmerzen."
+    ],
+    0.7526284456253052
+  ],
+  [
+    [
+      13,
+      16
+    ],
+    [
+      "Ärzte unterscheiden zwischen primärer Varikose und sekundärer Varikose .",
+      "Ärzte unterscheiden eine primäre und eine sekundäre Varikose ."
+    ],
+    0.9722177386283875
+  ],
+  [
+    [
+      14,
+      17
+    ],
+    [
+      "Bei einer primären Varikose werden Krampfadern durch verschiedene Ursachen ausgelöst wie zum Beispiel: Veranlagung .",
+      "Bei der primären Form des Krampfaderleidens sind die Ursachen vielfältig und nicht vollständig klar."
+    ],
+    0.6985987424850464
+  ],
+  [
+    [
+      15,
+      21
+    ],
+    [
+      "Eine Veranlagung ist eine angeborene Eigenschaft.",
+      "Das ist der bedeutenste unter den genannten Risikofaktoren."
+    ],
+    0.3500637412071228
+  ],
+  [
+    [
+      16,
+      22
+    ],
+    [
+      "Haben andere Menschen in Ihrer Familie Krampfadern?",
+      "Von Krampfadern betroffen sind mehr Frauen (etwa 15 Prozent) als Männer (etwa 11 Prozent)."
+    ],
+    0.3915063440799713
+  ],
+  [
+    [
+      17,
+      22
+    ],
+    [
+      "Dann können auch Sie leichter Krampfadern bekommen.",
+      "Von Krampfadern betroffen sind mehr Frauen (etwa 15 Prozent) als Männer (etwa 11 Prozent)."
+    ],
+    0.3774482011795044
+  ],
+  [
+    [
+      18,
+      22
+    ],
+    [
+      "Geschlecht .",
+      "Von Krampfadern betroffen sind mehr Frauen (etwa 15 Prozent) als Männer (etwa 11 Prozent)."
+    ],
+    0.498216837644577
+  ],
+  [
+    [
+      19,
+      22
+    ],
+    [
+      "Frauen bekommen häufiger Krampfadern als Männer.",
+      "Von Krampfadern betroffen sind mehr Frauen (etwa 15 Prozent) als Männer (etwa 11 Prozent)."
+    ],
+    0.8948359489440918
+  ],
+  [
+    [
+      20,
+      23
+    ],
+    [
+      "Schwangerschaft .",
+      "Dass Frauen bei Krampfadern vorne liegen, hängt wohl auch damit zusammen, dass die weiblichen Geschlechtshormone vom Typ der Östrogene die Struktur der Venenwand und Venenklappen beeinflussen."
+    ],
+    0.35510921478271484
+  ],
+  [
+    [
+      21,
+      23
+    ],
+    [
+      "In der Schwangerschaft werden Hormone ausgeschüttet.",
+      "Dass Frauen bei Krampfadern vorne liegen, hängt wohl auch damit zusammen, dass die weiblichen Geschlechtshormone vom Typ der Östrogene die Struktur der Venenwand und Venenklappen beeinflussen."
+    ],
+    0.6028743386268616
+  ],
+  [
+    [
+      22,
+      23
+    ],
+    [
+      "Diese Hormone erhöhen das Risiko für Krampfadern.",
+      "Dass Frauen bei Krampfadern vorne liegen, hängt wohl auch damit zusammen, dass die weiblichen Geschlechtshormone vom Typ der Östrogene die Struktur der Venenwand und Venenklappen beeinflussen."
+    ],
+    0.6719620823860168
+  ],
+  [
+    [
+      23,
+      28
+    ],
+    [
+      "die berufliche Tätigkeit .",
+      "Dies macht sich verstärkt in der zweiten Lebenshälfte bemerkbar."
+    ],
+    0.3751809000968933
+  ],
+  [
+    [
+      24,
+      28
+    ],
+    [
+      "Sie arbeiten überwiegend im Stehen und bei warmen Temperaturen?",
+      "Dies macht sich verstärkt in der zweiten Lebenshälfte bemerkbar."
+    ],
+    0.2525051236152649
+  ],
+  [
+    [
+      25,
+      28
+    ],
+    [
+      "Dann können Sie leichter Krampfadern bekommen.",
+      "Dies macht sich verstärkt in der zweiten Lebenshälfte bemerkbar."
+    ],
+    0.4805867671966553
+  ],
+  [
+    [
+      26,
+      28
+    ],
+    [
+      "wenig Bewegung",
+      "Dies macht sich verstärkt in der zweiten Lebenshälfte bemerkbar."
+    ],
+    0.2801085114479065
+  ],
+  [
+    [
+      27,
+      30
+    ],
+    [
+      "Übergewicht",
+      "Liegt Krampfadern eine andere Erkrankung zugrunde, handelt es sich um eine sekundäre Varikose."
+    ],
+    0.21974629163742065
+  ],
+  [
+    [
+      28,
+      30
+    ],
+    [
+      "Bei einer sekundären Varikose löst eine andere Krankheit die Krampfadern aus.",
+      "Liegt Krampfadern eine andere Erkrankung zugrunde, handelt es sich um eine sekundäre Varikose."
+    ],
+    0.9426581859588623
+  ],
+  [
+    [
+      29,
+      34
+    ],
+    [
+      "Zu diesen Krankheiten gehören zum Beispiel eine Thrombose oder eine Herzschwäche.",
+      "Eine weitere Ursache von Krampfadern kann eine Herzschwäche sein – falls vor allem die rechte Herzhälfte betroffen ist, eine Rechtsherzschwäche."
+    ],
+    0.7713042497634888
+  ],
+  [
+    [
+      30,
+      34
+    ],
+    [
+      "Thrombose :",
+      "Eine weitere Ursache von Krampfadern kann eine Herzschwäche sein – falls vor allem die rechte Herzhälfte betroffen ist, eine Rechtsherzschwäche."
+    ],
+    0.37405475974082947
+  ],
+  [
+    [
+      31,
+      34
+    ],
+    [
+      "Bei einer Thrombose bildet sich ein feiner Klumpen aus Blut in einem Blutgefäß.",
+      "Eine weitere Ursache von Krampfadern kann eine Herzschwäche sein – falls vor allem die rechte Herzhälfte betroffen ist, eine Rechtsherzschwäche."
+    ],
+    0.4545162320137024
+  ],
+  [
+    [
+      32,
+      35
+    ],
+    [
+      "Dadurch kann das Blutgefäß verstopfen.",
+      "Die gestörte Herzfunktion kann unter anderem dazu führen, dass der Druck in den Beinvenen steigt."
+    ],
+    0.5866897106170654
+  ],
+  [
+    [
+      33,
+      35
+    ],
+    [
+      "Herzschwäche: Durch eine Herzschwäche kann der Druck in den Blutgefäßen der Beine steigen.",
+      "Die gestörte Herzfunktion kann unter anderem dazu führen, dass der Druck in den Beinvenen steigt."
+    ],
+    0.9305984973907471
+  ],
+  [
+    [
+      34,
+      36
+    ],
+    [
+      "Dann schwellen die Beine an.",
+      "Typischerweise kommt es dann zu Beinschwellungen (Ödemen) und zu Erweiterungen der Beinvenen."
+    ],
+    0.664559006690979
+  ],
+  [
+    [
+      35,
+      36
+    ],
+    [
+      "Die Blutgefäße der Beine können sich erweitern und Krampfadern können sich bilden.",
+      "Typischerweise kommt es dann zu Beinschwellungen (Ödemen) und zu Erweiterungen der Beinvenen."
+    ],
+    0.8301789164543152
+  ],
+  [
+    [
+      36,
+      36
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für Krampfadern in den Beinen wie zum Beispiel:",
+      "Typischerweise kommt es dann zu Beinschwellungen (Ödemen) und zu Erweiterungen der Beinvenen."
+    ],
+    0.8224445581436157
+  ],
+  [
+    [
+      37,
+      45
+    ],
+    [
+      "unangenehmes Spannen Schweregefühl",
+      "Viele Betroffene leiden unter einem Spannungs- und Schweregefühl oder auch Schmerzen in den Beinen nach langem Stehen oder Sitzen."
+    ],
+    0.6642330884933472
+  ],
+  [
+    [
+      38,
+      47
+    ],
+    [
+      "Kribbeln oder Brennen",
+      "Hochlagerung der Beine oder Kühlung bringen Erleichterung."
+    ],
+    0.49048513174057007
+  ],
+  [
+    [
+      39,
+      47
+    ],
+    [
+      "Wärmegefühl",
+      "Hochlagerung der Beine oder Kühlung bringen Erleichterung."
+    ],
+    0.5516871213912964
+  ],
+  [
+    [
+      40,
+      49
+    ],
+    [
+      "Schwellungen Unruhegefühl am Abend oder in der Nacht",
+      "Zwar klagen Betroffene auch häufiger über (nächtliche) Wadenkrämpfe, aber diese sind nicht typisch für das Krampfaderleiden."
+    ],
+    0.7019254565238953
+  ],
+  [
+    [
+      41,
+      49
+    ],
+    [
+      "Die Beschwerden können vor allem am Abend zunehmen.",
+      "Zwar klagen Betroffene auch häufiger über (nächtliche) Wadenkrämpfe, aber diese sind nicht typisch für das Krampfaderleiden."
+    ],
+    0.7340556979179382
+  ],
+  [
+    [
+      42,
+      62
+    ],
+    [
+      "Auch warme Temperaturen verstärken die Beschwerden.",
+      "Die Symptome sind Rötung, Überwärmung und Schmerzen an der entsprechenden Stelle."
+    ],
+    0.7763578295707703
+  ],
+  [
+    [
+      43,
+      104
+    ],
+    [
+      "Bei Frauen können die Anzeichen kurz vor der Monatsblutung stärker sein.",
+      "Möglichst schon bei den ersten Anzeichen, die auf ein Venenproblem hinweisen (siehe Kapitel Symptome), ist ein Gang zum Hausarzt ratsam."
+    ],
+    0.5737436413764954
+  ],
+  [
+    [
+      44,
+      123
+    ],
+    [
+      "Sie möchten das Risiko für Krampfadern verringern?",
+      "Viele Personen mit einem erhöhten Risiko für Krampfadern möchten gerne vorbeugend etwas gegen das Leiden tun."
+    ],
+    0.6795578002929688
+  ],
+  [
+    [
+      45,
+      124
+    ],
+    [
+      "Dann können Sie einige Dinge tun:",
+      "Teilweise ist das durchaus möglich, der Versuch lohnt sich auf jeden Fall."
+    ],
+    0.64256352186203
+  ],
+  [
+    [
+      46,
+      126
+    ],
+    [
+      "Vermeiden Sie Übergewicht.",
+      "Gewicht im Normalbereich halten regelmäßiger Ausdauersport, zum Beispiel Walking Venengymnastik kalte Unterschenkel- oder Kniegüsse nach Kneipp (bei Vorerkrankungen nur nach Rücksprache mit dem Arzt)"
+    ],
+    0.5738121271133423
+  ],
+  [
+    [
+      47,
+      135
+    ],
+    [
+      "Bewegen Sie sich viel und nehmen Sie zum Beispiel öfter die Treppe.",
+      "Beispielsweise einfach mal Treppen steigen, statt den Aufzug zu benutzen!"
+    ],
+    0.7690695524215698
+  ],
+  [
+    [
+      48,
+      136
+    ],
+    [
+      "Machen Sie Venen-Gymnastik.",
+      "Zudem gibt es einfache, aber sehr wirkungsvolle venengymnastische Übungen."
+    ],
+    0.7103050351142883
+  ],
+  [
+    [
+      49,
+      136
+    ],
+    [
+      "Das sind besondere Übungen für die Beine und Unterschenkel.",
+      "Zudem gibt es einfache, aber sehr wirkungsvolle venengymnastische Übungen."
+    ],
+    0.7598958611488342
+  ],
+  [
+    [
+      50,
+      141
+    ],
+    [
+      "Machen Sie kalte Unterschenkel-Güsse.",
+      "Durch den Kontakt mit kaltem Wasser ziehen sich die erweiterten Venen zusammen."
+    ],
+    0.4840753674507141
+  ],
+  [
+    [
+      51,
+      141
+    ],
+    [
+      "Duschen Sie dafür die Unterschenkel kurz mit kaltem Wasser ab.",
+      "Durch den Kontakt mit kaltem Wasser ziehen sich die erweiterten Venen zusammen."
+    ],
+    0.46279001235961914
+  ],
+  [
+    [
+      52,
+      141
+    ],
+    [
+      "Sie glauben: Ich habe vielleicht Krampfadern?",
+      "Durch den Kontakt mit kaltem Wasser ziehen sich die erweiterten Venen zusammen."
+    ],
+    0.30078205466270447
+  ],
+  [
+    [
+      53,
+      142
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Bei schwerer chronisch-venöser Insuffizienz können – nach ärztlicher Anweisung und in ausgewählten Fällen - weitere Maßnahmen zur Anwendung kommen wie manuelle oder apparative Lymphdrainagen."
+    ],
+    0.4396742582321167
+  ],
+  [
+    [
+      54,
+      142
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen Informationen über mögliche Behandlungen.",
+      "Bei schwerer chronisch-venöser Insuffizienz können – nach ärztlicher Anweisung und in ausgewählten Fällen - weitere Maßnahmen zur Anwendung kommen wie manuelle oder apparative Lymphdrainagen."
+    ],
+    0.5589611530303955
+  ],
+  [
+    [
+      55,
+      142
+    ],
+    [
+      "Zu den möglichen Behandlungen gehören: Lymphdrainage .",
+      "Bei schwerer chronisch-venöser Insuffizienz können – nach ärztlicher Anweisung und in ausgewählten Fällen - weitere Maßnahmen zur Anwendung kommen wie manuelle oder apparative Lymphdrainagen."
+    ],
+    0.7424705028533936
+  ],
+  [
+    [
+      56,
+      142
+    ],
+    [
+      "Die Lymphdrainage ist eine besondere Massage.",
+      "Bei schwerer chronisch-venöser Insuffizienz können – nach ärztlicher Anweisung und in ausgewählten Fällen - weitere Maßnahmen zur Anwendung kommen wie manuelle oder apparative Lymphdrainagen."
+    ],
+    0.5804858207702637
+  ],
+  [
+    [
+      57,
+      143
+    ],
+    [
+      "Dabei wird die Durchblutung der Beine angeregt.",
+      "Damit gelingt eine Entstauung des betroffenen Beins, vor allem dann, wenn die Kompressionstherapie mit Verbänden uns speziellen Strümpfen allein nicht ausreichend effektiv ist."
+    ],
+    0.6641770005226135
+  ],
+  [
+    [
+      58,
+      144
+    ],
+    [
+      "Venenmittel .",
+      "Venenmittel gibt es in der Apotheke in Form von Sprays, Salben oder Gels zum Auftragen auf die Haut sowie als Kapseln zum Einnehmen."
+    ],
+    0.6184253692626953
+  ],
+  [
+    [
+      59,
+      144
+    ],
+    [
+      "Venenmittel gibt es als Spray, Salbe oder Kapsel.",
+      "Venenmittel gibt es in der Apotheke in Form von Sprays, Salben oder Gels zum Auftragen auf die Haut sowie als Kapseln zum Einnehmen."
+    ],
+    0.8450636863708496
+  ],
+  [
+    [
+      60,
+      146
+    ],
+    [
+      "Venenmittel wirken abschwellend.",
+      "Venenmittel können und sollen eine notwendige Kompressionstherapie nicht ersetzen."
+    ],
+    0.707058846950531
+  ],
+  [
+    [
+      61,
+      146
+    ],
+    [
+      "Sie helfen gegen angeschwollene Beine.",
+      "Venenmittel können und sollen eine notwendige Kompressionstherapie nicht ersetzen."
+    ],
+    0.5159754753112793
+  ],
+  [
+    [
+      62,
+      146
+    ],
+    [
+      "Aber Venenmittel ersetzen eine Kompressionstherapie nicht .",
+      "Venenmittel können und sollen eine notwendige Kompressionstherapie nicht ersetzen."
+    ],
+    0.9293828010559082
+  ],
+  [
+    [
+      63,
+      146
+    ],
+    [
+      "Kompressionstherapie .",
+      "Venenmittel können und sollen eine notwendige Kompressionstherapie nicht ersetzen."
+    ],
+    0.7416337728500366
+  ],
+  [
+    [
+      64,
+      146
+    ],
+    [
+      "Bei der Kompressionstherapie werden die Venen zusammengedrückt.",
+      "Venenmittel können und sollen eine notwendige Kompressionstherapie nicht ersetzen."
+    ],
+    0.869203507900238
+  ],
+  [
+    [
+      65,
+      154
+    ],
+    [
+      "So kann das Blut besser zum Herzen fließen.",
+      "Der wichtigste Mechanismus besteht darin, den Blutfluss zum Herzen zu verbessern, indem die Venendurchmesser von oberflächlichen und tiefen Venen eingeengt werden."
+    ],
+    0.810741126537323
+  ],
+  [
+    [
+      66,
+      163
+    ],
+    [
+      "Für diese Behandlung gibt es besondere Verbände und Strümpfe.",
+      "Sie sind mit einem Klettverschluss verstellbar, so dass sie in der Regel vom Patienten selbst oder von den Angehörigen passend nachreguliert werden können."
+    ],
+    0.730307936668396
+  ],
+  [
+    [
+      67,
+      168
+    ],
+    [
+      "Sklerosierung .",
+      "Durch Injektion eines Verödungsmittels in die Vene wird künstlich eine Venenentzündung erzeugt, sodass die Venenwände von innen miteinander verkleben."
+    ],
+    0.3782634437084198
+  ],
+  [
+    [
+      68,
+      168
+    ],
+    [
+      "Dabei gibt der Arzt ein Mittel in die Blutgefäße der Krampfadern.",
+      "Durch Injektion eines Verödungsmittels in die Vene wird künstlich eine Venenentzündung erzeugt, sodass die Venenwände von innen miteinander verkleben."
+    ],
+    0.734824001789093
+  ],
+  [
+    [
+      69,
+      168
+    ],
+    [
+      "Dieses Mittel verklebt die Wände der Blutgefäße.",
+      "Durch Injektion eines Verödungsmittels in die Vene wird künstlich eine Venenentzündung erzeugt, sodass die Venenwände von innen miteinander verkleben."
+    ],
+    0.7498897314071655
+  ],
+  [
+    [
+      70,
+      168
+    ],
+    [
+      "Deshalb werden sie nicht mehr durchblutet.",
+      "Durch Injektion eines Verödungsmittels in die Vene wird künstlich eine Venenentzündung erzeugt, sodass die Venenwände von innen miteinander verkleben."
+    ],
+    0.5912375450134277
+  ],
+  [
+    [
+      71,
+      169
+    ],
+    [
+      "Mit der Zeit vernarben diese Gefäße.",
+      "Mit der Zeit vernarben sie."
+    ],
+    0.937566339969635
+  ],
+  [
+    [
+      72,
+      169
+    ],
+    [
+      "Nach wenigen Wochen kann man sie dann nicht mehr sehen.",
+      "Mit der Zeit vernarben sie."
+    ],
+    0.6014242768287659
+  ],
+  [
+    [
+      73,
+      171
+    ],
+    [
+      "Im Anschluss an die Sklerosierung macht der Arzt eine Kompressionstherapie .",
+      "Im Anschluss daran erfolgt eine Kompressionstherapie für einige Stunden bis wenige Tage."
+    ],
+    0.6816574335098267
+  ],
+  [
+    [
+      74,
+      172
+    ],
+    [
+      "Eine Behandlung reicht oft nicht aus.",
+      "In der Regel sind mehrere Therapiesitzungen notwendig."
+    ],
+    0.6876680850982666
+  ],
+  [
+    [
+      75,
+      173
+    ],
+    [
+      "Der Arzt muss das Verfahren meist nach einem Jahr wiederholen.",
+      "Da die Anlage zu Krampfadern bestehen bleibt, muss das Verfahren meistens nach ein oder zwei Jahren wiederholt werden."
+    ],
+    0.7897849082946777
+  ],
+  [
+    [
+      76,
+      182
+    ],
+    [
+      "Thermische Verfahren .",
+      "Da bei den Eingriffen hohe Temperaturen erzeugt werden, muss das Gewebe um die Krampfader herum vor Hitzeschäden geschützt werden."
+    ],
+    0.6454575061798096
+  ],
+  [
+    [
+      77,
+      182
+    ],
+    [
+      "Bei thermischen Verfahren werden die Wände der Blutgefäße mit Hitze behandelt.",
+      "Da bei den Eingriffen hohe Temperaturen erzeugt werden, muss das Gewebe um die Krampfader herum vor Hitzeschäden geschützt werden."
+    ],
+    0.7718285918235779
+  ],
+  [
+    [
+      78,
+      189
+    ],
+    [
+      "Die behandelten Wände der Blutgefäße verkleben.",
+      "Die komplette oder teilweise Entfernung von Krampfadern hat zum Ziel, die Funktion der verbleibenden Venen zu erhalten beziehungsweise zurückzugewinnen."
+    ],
+    0.7377661466598511
+  ],
+  [
+    [
+      79,
+      205
+    ],
+    [
+      "Mit der Zeit bilden sich die behandelten Krampfadern zurück.",
+      "Nach einiger Zeit bilden sich diese zurück und veröden."
+    ],
+    0.7758744955062866
+  ],
+  [
+    [
+      80,
+      252
+    ],
+    [
+      "Operative Entfernung der Krampfadern .",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.8167763948440552
+  ],
+  [
+    [
+      81,
+      252
+    ],
+    [
+      "Bei der Operation macht der Arzt nur wenige und kleine Schnitte.",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.6904115676879883
+  ],
+  [
+    [
+      82,
+      252
+    ],
+    [
+      "Dann entfernt der Arzt die Krampfadern.",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.778997004032135
+  ],
+  [
+    [
+      83,
+      252
+    ],
+    [
+      "Sie wollen noch mehr über Krampfadern lesen?",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.3362255394458771
+  ],
+  [
+    [
+      84,
+      252
+    ],
+    [
+      "Mehr Informationen über Krampfadern finden Sie hier .",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.43143710494041443
+  ],
+  [
+    [
+      85,
+      252
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.12080439925193787
+  ],
+  [
+    [
+      86,
+      252
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wenn nicht, ist eine chirurgische Wundreinigung (Débridement) notwendig."
+    ],
+    0.21623872220516205
+  ]
+]

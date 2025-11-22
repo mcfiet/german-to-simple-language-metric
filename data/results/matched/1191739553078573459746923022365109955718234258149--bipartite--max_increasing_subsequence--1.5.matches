@@ -1,0 +1,255 @@
+[
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Sie versorgen das Herz mit Blut.",
+      "Drei solche Gefäße versorgen die Vorder-, Seiten- und Hinterwand des Herzmuskels mit Blut."
+    ],
+    0.6236086487770081
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Wird die Verstopfung im Blutgefäß nicht gelöst?",
+      "Wenn der Blutfluß nicht schnell wiederhergestellt werden kann, sind die Herzmuskelzellen im Versorgungsgebiet der verschlossenen Arterie nach spätestens zwei bis vier Stunden abgestorben."
+    ],
+    0.7632399201393127
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Dann sterben Muskelzellen im Herz ab.",
+      "Wenn der Blutfluß nicht schnell wiederhergestellt werden kann, sind die Herzmuskelzellen im Versorgungsgebiet der verschlossenen Arterie nach spätestens zwei bis vier Stunden abgestorben."
+    ],
+    0.619002103805542
+  ],
+  [
+    [
+      14,
+      10
+    ],
+    [
+      "Durch die Rohre fließt Blut.",
+      "Durch das schädigende Einwirken bestimmter Risikofaktoren (zum Beispiel erhöhte Blutfette, Rauchen, Diabetes mellitus, Bluthochdruck etc.) auf die Zellen der Gefäßinnenwand bilden sich in den Herzkranzgefäßen sogenannte Plaques."
+    ],
+    0.6495234370231628
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Diese Ablagerungen heißen auch: Plaques.",
+      "Das sind Ablagerungen, die hauptsächlich Cholesterin, Kalk und Entzündungszellen enthalten und zum Blutstrom hin mit einer feinen Bindegewebskappe abgedeckt sind."
+    ],
+    0.6665645241737366
+  ],
+  [
+    [
+      17,
+      11
+    ],
+    [
+      "Die Ablagerungen enthalten verschiedene Stoffe.",
+      "Das sind Ablagerungen, die hauptsächlich Cholesterin, Kalk und Entzündungszellen enthalten und zum Blutstrom hin mit einer feinen Bindegewebskappe abgedeckt sind."
+    ],
+    0.7418556213378906
+  ],
+  [
+    [
+      18,
+      11
+    ],
+    [
+      "Zum Beispiel: Fett Kalk oder Entzündungszellen",
+      "Das sind Ablagerungen, die hauptsächlich Cholesterin, Kalk und Entzündungszellen enthalten und zum Blutstrom hin mit einer feinen Bindegewebskappe abgedeckt sind."
+    ],
+    0.7050760388374329
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Die Ablagerungen auf den Zellen sind abgedeckt.",
+      "Das sind Ablagerungen, die hauptsächlich Cholesterin, Kalk und Entzündungszellen enthalten und zum Blutstrom hin mit einer feinen Bindegewebskappe abgedeckt sind."
+    ],
+    0.7338272929191589
+  ],
+  [
+    [
+      23,
+      16
+    ],
+    [
+      "Es entsteht ein Blutgerinnsel und das Blutgefäß kann komplett verstopfen.",
+      "Dieses Gerinnsel verschließt das Blutgefäß."
+    ],
+    0.7735999226570129
+  ],
+  [
+    [
+      24,
+      16
+    ],
+    [
+      "Das verstopfte Blutgefäß kann das Herz jetzt nicht mehr richtig mit Blut versorgen.",
+      "Dieses Gerinnsel verschließt das Blutgefäß."
+    ],
+    0.758058488368988
+  ],
+  [
+    [
+      25,
+      26
+    ],
+    [
+      "Es kommt zum Herzinfarkt.",
+      "Sind größere Bereiche des Herzmuskels betroffen und narbig verändert, schränkt dies die Funktion des Herzens ein – es kommt zu einer Herzschwäche (Herzinsuffizienz)."
+    ],
+    0.6479838490486145
+  ],
+  [
+    [
+      29,
+      28
+    ],
+    [
+      "Manche Dinge erhöhen das Risiko für einen Herzinfarkt.",
+      "Zu den wichtigsten, durch Lebensweise und Medikamente beeinflussbaren Risikofaktoren für eine koronare Herzkrankheit zählen: erhöhte Blutfette (vor allem das LDL -Cholesterin und Lipoprotein (a) ) Bluthochdruck Zuckerkrankheit (Diabetes mellitus)"
+    ],
+    0.6979293823242188
+  ],
+  [
+    [
+      31,
+      28
+    ],
+    [
+      "Bluthochdruck",
+      "Zu den wichtigsten, durch Lebensweise und Medikamente beeinflussbaren Risikofaktoren für eine koronare Herzkrankheit zählen: erhöhte Blutfette (vor allem das LDL -Cholesterin und Lipoprotein (a) ) Bluthochdruck Zuckerkrankheit (Diabetes mellitus)"
+    ],
+    1.0
+  ],
+  [
+    [
+      32,
+      29
+    ],
+    [
+      "Diabetes Rauchen ungesundes Essen",
+      "Rauchen ungesunde Ernährung"
+    ],
+    0.7705837488174438
+  ],
+  [
+    [
+      33,
+      30
+    ],
+    [
+      "Übergewicht und zu wenig Bewegung",
+      "Übergewicht Bewegungsmangel"
+    ],
+    0.8404465913772583
+  ],
+  [
+    [
+      34,
+      31
+    ],
+    [
+      "Stress",
+      "Stress"
+    ],
+    1.0
+  ],
+  [
+    [
+      35,
+      45
+    ],
+    [
+      "Jeder Mensch kann selber etwas gegen einen Herzinfarkt tun.",
+      "Ein Herzinfarkt kann sich ankündigen."
+    ],
+    0.5873429179191589
+  ],
+  [
+    [
+      36,
+      46
+    ],
+    [
+      "Zum Beispiel: nicht rauchen gesund essen",
+      "Verdächtig sind zum Beispiel Schmerzen hinter dem Brustbein, die bei Belastung oder psychischem Stress auftreten, und dann wieder verschwinden."
+    ],
+    0.6224853992462158
+  ],
+  [
+    [
+      39,
+      46
+    ],
+    [
+      "zum Beispiel spazieren gehen oder Sport machen.",
+      "Verdächtig sind zum Beispiel Schmerzen hinter dem Brustbein, die bei Belastung oder psychischem Stress auftreten, und dann wieder verschwinden."
+    ],
+    0.6725420355796814
+  ],
+  [
+    [
+      41,
+      47
+    ],
+    [
+      "Dann sollten Sie mit einem Arzt sprechen.",
+      "Treten solche Beschwerden immer wieder auf, sollten Sie dies unbedingt mit dem Arzt besprechen."
+    ],
+    0.8401546478271484
+  ],
+  [
+    [
+      42,
+      83
+    ],
+    [
+      "Bluthochdruck oder Diabetes können nämlich zu einem Herzinfarkt führen.",
+      "Komplikationen wie Herzrhythmusstörungen , Entwicklung einer Herzschwäche oder Blutungen nach Kathetereingriffen können so sofort erkannt und behandelt werden."
+    ],
+    0.6311474442481995
+  ],
+  [
+    [
+      44,
+      90
+    ],
+    [
+      "Mehr Informationen über den Herzinfarkt finden Sie hier .",
+      "Mehr dazu finden Sie im Abschnitt \"Vorbeugen\"."
+    ],
+    0.6183775663375854
+  ],
+  [
+    [
+      46,
+      127
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "In der Regel sind es systolische Werte von unter 135-140 mmHg, aber nicht unter 110 mmHg und diastolische Werte von unter 80 mmHG."
+    ],
+    0.5986753106117249
+  ]
+]

@@ -1,0 +1,376 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Wenn Sie einen Schwer-Behinderten-Ausweis haben:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.24090678989887238
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Dann können Sie kostenlos mit Bus und Bahn fahren.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.1272323876619339
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dafür brauchen Sie ein Beiblatt mit Wert-Marke .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.9419679045677185
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Ein Beiblatt ist ein zusätzliches Papier.",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8767708539962769
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Mit welchen Bussen und Bahnen darf ich kostenlos fahren?",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.03804958239197731
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Diese Busse und Bahnen dürfen Sie mit dem Beiblatt kostenlos nutzen:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.858017086982727
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Wichtig: Sie können in anderen Zügen nur kostenlos fahren:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.1071951612830162
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Wie viel kostet das Beiblatt mit Wert-Marke?",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.9148784875869751
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Sie bekommen das Beiblatt manchmal kostenlos .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8547916412353516
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Manchmal müssen Sie dafür aber auch etwas bezahlen .",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.133891299366951
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Das Beiblatt ist kostenlos:",
+      "Zu Ihrem Schwerbehindertenausweis können Sie ein Beiblatt mit einer Wertmarke beantragen."
+    ],
+    0.8336002230644226
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Wenn Sie einen Schwer-behinderten-Ausweis haben:",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.21951282024383545
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "H bedeutet: Sie sind eine hilflose Person .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.206067755818367
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Sie sind blind .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.23578637838363647
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Sie bekommen das Beiblatt auch kostenlos:",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.2156301587820053
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Wenn Sie arbeits-los sind.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.2131483256816864
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Und Sie Arbeitslosen-Geld 2 bekommen.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.24280062317848206
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Ansonsten müssen Sie das Beiblatt bezahlen .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.052864402532577515
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Dann Sie sind geh-behindert .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.17206361889839172
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "aG: Dann Sie sind besonders geh-behindert .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.1687503457069397
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "GL: Sie sind gehör-los .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.18220055103302002
+  ],
+  [
+    [
+      28,
+      1
+    ],
+    [
+      "Dann müssen Sie 80 Euro für das Beiblatt bezahlen.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.052450455725193024
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Dann Sie sind geh-behindert .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.17206361889839172
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "GL: Sie sind gehör-los .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.18220055103302002
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Dann können Sie entscheiden:",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.25234299898147583
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Entweder Sie bezahlen das Beiblatt für Bus und Bahn .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.053390808403491974
+  ],
+  [
+    [
+      34,
+      1
+    ],
+    [
+      "Dann können Sie kostenlos Bus und Bahn fahren.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.49851343035697937
+  ],
+  [
+    [
+      35,
+      1
+    ],
+    [
+      "Oder Sie müssen weniger Steuer für Ihr Auto bezahlen.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.17124933004379272
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Sie müssen den Antrag ausfüllen.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.17742569744586945
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Und uns den fertigen Antrag schicken .",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.006093453150242567
+  ],
+  [
+    [
+      43,
+      1
+    ],
+    [
+      "Wenn Sie Fragen haben.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.23224163055419922
+  ],
+  [
+    [
+      46,
+      1
+    ],
+    [
+      "Sie müssen nichts für den Antrag bezahlen.",
+      "Damit können Sie im öffentlichen Nahverkehr kostenlos Busse, Straßenbahnen, U-Bahnen und S-Bahnen nutzen."
+    ],
+    0.14737944304943085
+  ],
+  [
+    [
+      47,
+      4
+    ],
+    [
+      "Wo stehen die Gesetze zum Beiblatt mit Wert-Marke?",
+      "Für das Beiblatt müssen Sie jährlich 91 Euro bezahlen als: Gehbehinderter mit dem Merkzeichen \"G\" außergewöhnlich Gehbehinderter mit dem Merkzeichen \"aG\" oder Gehörloser mit dem Merkzeichen \"GL\" Wenn Sie Arbeitslosengeld II beziehen, dann erhalten Sie das Beiblatt kostenlos."
+    ],
+    0.3950672149658203
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Eine persönliche Vorsprache ist nicht erforderlich."
+    ],
+    0.017167629674077034
+  ]
+]

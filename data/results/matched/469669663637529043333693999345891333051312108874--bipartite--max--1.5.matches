@@ -1,0 +1,926 @@
+[
+  [
+    [
+      0,
+      8
+    ],
+    [
+      "Eine Impfung schützt vor Infektionskrankheiten.",
+      "Impfungen können vor vielen Infektionskrankheiten schützen."
+    ],
+    0.7097035646438599
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Infektionskrankheiten entstehen durch Krankheitserreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.8803385496139526
+  ],
+  [
+    [
+      2,
+      31
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel:",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.9066263437271118
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Bakterien Viren",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    1.0
+  ],
+  [
+    [
+      4,
+      41
+    ],
+    [
+      "Sie bekommen eine Impfung gegen eine Krankheit?",
+      "Es gibt nur wenige Gründe, die tatsächlich gegen eine Impfung sprechen können."
+    ],
+    0.7161862254142761
+  ],
+  [
+    [
+      5,
+      42
+    ],
+    [
+      "Dann können Sie diese Krankheit nicht mehr so leicht bekommen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6545937061309814
+  ],
+  [
+    [
+      6,
+      9
+    ],
+    [
+      "Durch die Impfung kann Ihr Körper den Krankheitserreger nämlich besser abwehren.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6374855041503906
+  ],
+  [
+    [
+      7,
+      42
+    ],
+    [
+      "Sie werden dann meist nicht krank.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6603407263755798
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "Bei einer Impfung bekommen Sie von Ihrem Arzt einen Impfstoff.",
+      "Kommen bei einer Impfung Teile eines Erregers oder abgetötete Erreger zum Einsatz, spricht man von einem Totimpfstoff ."
+    ],
+    0.6441347002983093
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Sie bekommen den Impfstoff mit einer Spritze.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.6490505933761597
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Oder Sie bekommen den Impfstoff als Lösung zum Einnehmen.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.6730229258537292
+  ],
+  [
+    [
+      11,
+      31
+    ],
+    [
+      "Nach der Impfung bildet ihr Körper Abwehrstoffe gegen die Erreger aus dem Impfstoff.",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6635029911994934
+  ],
+  [
+    [
+      12,
+      37
+    ],
+    [
+      "Das Fachwort für Abwehrstoffe ist: Antikörper .",
+      "Letztlich wird das Paul-Ehrlich-Institut, das für die Sicherheit von Impfstoffen in Deutschland zuständig ist, informiert und geht dem Fall nach."
+    ],
+    0.6848865151405334
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Ihr Körper kommt später wieder in Kontakt mit diesen Erregern?",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.7201496362686157
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Sie haben zum Beispiel Kontakt mit einer erkrankten Person?",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.6082491278648376
+  ],
+  [
+    [
+      15,
+      2
+    ],
+    [
+      "Dann erkennt Ihr Körper den Erreger.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.6490498781204224
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Totimpfstoffe können auch nur bestimmte Teile des Erregers enthalten.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.6598709225654602
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Die toten Erreger sind nicht gefährlich.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.7299646735191345
+  ],
+  [
+    [
+      24,
+      31
+    ],
+    [
+      "Totimpfstoffe sind zum Beispiel: Tetanus Hepatitis B",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6077800393104553
+  ],
+  [
+    [
+      27,
+      3
+    ],
+    [
+      "Die Erreger können sich im Körper vermehren.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.7573028802871704
+  ],
+  [
+    [
+      28,
+      19
+    ],
+    [
+      "Aber die Erreger können keine Erkrankung auslösen.",
+      "Ab 60 Jahren stehen auch Impfungen gegen bestimmte Erreger auf dem Programm, die bei Senioren häufiger zu schweren Krankheitsverläufen führen, wie Pneumokokken oder die Virusgrippe (Influenza)."
+    ],
+    0.714925229549408
+  ],
+  [
+    [
+      29,
+      9
+    ],
+    [
+      "Manchmal reagiert das Immunsystem trotzdem sehr stark.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6103416681289673
+  ],
+  [
+    [
+      30,
+      31
+    ],
+    [
+      "Dann fühlen Sie sich nach der Impfung krank.",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6287224888801575
+  ],
+  [
+    [
+      31,
+      34
+    ],
+    [
+      "Die Beschwerden verschwinden nach einigen Tagen wieder.",
+      "Auch das Auftreten von Durchfall nach einer Rotavirenimpfung oder von einem Hautauschlag einige Wochen nach der Windpockenimpfung zählen beispielsweise noch zu den normalen Impfreaktionen."
+    ],
+    0.7026112079620361
+  ],
+  [
+    [
+      32,
+      31
+    ],
+    [
+      "Lebendimpfstoffe sind zum Beispiel:",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.75
+  ],
+  [
+    [
+      33,
+      47
+    ],
+    [
+      "Masern Mumps Röteln Windpocken",
+      "Es gibt Impfungen gegen zahlreiche ansteckende Krankheiten wie FSME, Keuchhusten oder Hepatitis B. Dazu, welche für einen selbst sinnvoll sein können, informiert am besten der Hausarzt."
+    ],
+    0.5911408066749573
+  ],
+  [
+    [
+      34,
+      14
+    ],
+    [
+      "Die ständige Impfkommission am Robert Koch",
+      "Die ständige Impfkomission (STIKO) am Robert Koch"
+    ],
+    0.9401064515113831
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Institut erarbeitet die Impfempfehlungen für Deutschland.",
+      "Institut erarbeitet die Impfempfehlungen für Deutschland."
+    ],
+    1.0
+  ],
+  [
+    [
+      36,
+      26
+    ],
+    [
+      "Die Abkürzung für ständige Impfkommission ist: STIKO.",
+      "Die Krankenkassen übernehmen üblicherweise die Kosten für die von der STIKO allgemein empfohlenen Impfungen."
+    ],
+    0.6478561758995056
+  ],
+  [
+    [
+      38,
+      17
+    ],
+    [
+      "Die Impfempfehlungen der STIKO finden Sie in diesem Impfkalender.",
+      "Die meisten Impfungen finden in der Kindheit statt."
+    ],
+    0.649420440196991
+  ],
+  [
+    [
+      40,
+      12
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Bei den Pocken ist dies zum Beispiel gelungen und auch die Kinderlähmung kommt heute in Europa eigentlich nicht mehr vor."
+    ],
+    0.6606776714324951
+  ],
+  [
+    [
+      42,
+      25
+    ],
+    [
+      "Sprechen Sie mit Ihrem Hausarzt.",
+      "Lassen Sie sich die Termine am besten mit Bleistift im Impfpass notieren."
+    ],
+    0.6859359741210938
+  ],
+  [
+    [
+      43,
+      24
+    ],
+    [
+      "Ihr Hausarzt kann Ihnen sagen:",
+      "Ihr Arzt kann Ihnen anhand Ihres Impfpasses Auskunft dazu geben, wann die nächste Auffrischung bei Ihnen fällig ist."
+    ],
+    0.8631547093391418
+  ],
+  [
+    [
+      44,
+      29
+    ],
+    [
+      "Diese Impfungen sind für Sie wichtig.",
+      "Gleiches gilt für andere Impfungen, die aufgrund ihrer beruflichen Tätigkeit notwendig sind."
+    ],
+    0.7515609860420227
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Ihr Hausarzt überprüft auch Ihren Impfausweis.",
+      "Ihr Arzt kann Ihnen anhand Ihres Impfpasses Auskunft dazu geben, wann die nächste Auffrischung bei Ihnen fällig ist."
+    ],
+    0.6046424508094788
+  ],
+  [
+    [
+      46,
+      28
+    ],
+    [
+      "Impfungen sind aus zwei Gründen wichtig:",
+      "Ist eine Reise aus beruflichen Gründen notwendig, sollte der Arbeitgeber die Kosten übernehmen."
+    ],
+    0.6254923939704895
+  ],
+  [
+    [
+      47,
+      27
+    ],
+    [
+      "1. Sie schützen sich selbst.",
+      "Bei Reiseimpfungen kann es jedoch sein, dass Sie selbst zum Geldbeutel greifen müssen."
+    ],
+    0.608913779258728
+  ],
+  [
+    [
+      48,
+      48
+    ],
+    [
+      "Sie sind gegen eine Krankheit geimpft?",
+      "Einige der Krankheiten, gegen die geimpft werden kann, listen wir hier auf."
+    ],
+    0.7671398520469666
+  ],
+  [
+    [
+      49,
+      42
+    ],
+    [
+      "Dann können Sie diese Krankheit meist nicht mehr bekommen.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6611452698707581
+  ],
+  [
+    [
+      51,
+      48
+    ],
+    [
+      "Sie sind gegen eine Krankheit geimpft?",
+      "Einige der Krankheiten, gegen die geimpft werden kann, listen wir hier auf."
+    ],
+    0.7671398520469666
+  ],
+  [
+    [
+      52,
+      42
+    ],
+    [
+      "Dann können Sie andere Menschen meist nicht anstecken.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.6941106915473938
+  ],
+  [
+    [
+      53,
+      48
+    ],
+    [
+      "Viele Menschen sind geimpft?",
+      "Einige der Krankheiten, gegen die geimpft werden kann, listen wir hier auf."
+    ],
+    0.754679262638092
+  ],
+  [
+    [
+      55,
+      9
+    ],
+    [
+      "Und diese Menschen stecken niemanden an.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6155875325202942
+  ],
+  [
+    [
+      56,
+      41
+    ],
+    [
+      "Hinweis: Nicht alle Menschen können eine Impfung bekommen.",
+      "Es gibt nur wenige Gründe, die tatsächlich gegen eine Impfung sprechen können."
+    ],
+    0.6673290729522705
+  ],
+  [
+    [
+      57,
+      32
+    ],
+    [
+      "Das kann verschiedene Gründe haben.",
+      "Das Immunsystem setzt sich mit der Impfung auseinander, dabei können diese Beschwerden entstehen."
+    ],
+    0.5819873213768005
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Diese Menschen können sich also nicht selbst schützen.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.8214305639266968
+  ],
+  [
+    [
+      59,
+      37
+    ],
+    [
+      "Für diese Menschen ist deshalb besonders wichtig:",
+      "Letztlich wird das Paul-Ehrlich-Institut, das für die Sicherheit von Impfstoffen in Deutschland zuständig ist, informiert und geht dem Fall nach."
+    ],
+    0.6614139080047607
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Viele andere Menschen lassen sich impfen.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6325873136520386
+  ],
+  [
+    [
+      61,
+      9
+    ],
+    [
+      "Dann ist das Risiko für diese Menschen nämlich geringer.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6698011159896851
+  ],
+  [
+    [
+      63,
+      46
+    ],
+    [
+      "Dann muss dieser Impfstoff gut getestet werden.",
+      "Ist die Impfung nicht dringend, kann man den Termin natürlich trotzdem verlegen, wenn es einem nicht gut geht."
+    ],
+    0.597076416015625
+  ],
+  [
+    [
+      64,
+      3
+    ],
+    [
+      "Erst dann kann der Impfstoff zugelassen werden.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.6733527779579163
+  ],
+  [
+    [
+      66,
+      9
+    ],
+    [
+      "Zuerst testen die Wissenschaftler den Impfstoff an Tieren.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6039822101593018
+  ],
+  [
+    [
+      67,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      68,
+      2
+    ],
+    [
+      "Bilden die Tiere Antikörper durch den Impfstoff?",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.7069810032844543
+  ],
+  [
+    [
+      69,
+      2
+    ],
+    [
+      "Können diese Antikörper die Erreger stoppen?",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.7003459334373474
+  ],
+  [
+    [
+      71,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      72,
+      31
+    ],
+    [
+      "Vertragen die Testpersonen den Impfstoff?",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.7602480053901672
+  ],
+  [
+    [
+      73,
+      47
+    ],
+    [
+      "Gibt es Nebenwirkungen?",
+      "Es gibt Impfungen gegen zahlreiche ansteckende Krankheiten wie FSME, Keuchhusten oder Hepatitis B. Dazu, welche für einen selbst sinnvoll sein können, informiert am besten der Hausarzt."
+    ],
+    0.7444764375686646
+  ],
+  [
+    [
+      76,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      77,
+      3
+    ],
+    [
+      "Bildet der Körper von Menschen auch Antikörper durch den Impfstoff?",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.6930601596832275
+  ],
+  [
+    [
+      80,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      81,
+      9
+    ],
+    [
+      "Schützt der Impfstoff sicher vor der Krankheit?",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.7215309143066406
+  ],
+  [
+    [
+      82,
+      9
+    ],
+    [
+      "Wie lange schützt der Impfstoff vor der Krankheit?",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6861027479171753
+  ],
+  [
+    [
+      83,
+      22
+    ],
+    [
+      "Der Impfstoff hat alle Tests bestanden?",
+      "Der Impfschutz gegen Tetanus und Diptherie sollte beispielsweise bei Erwachsenen alle zehn Jahre aufgefrischt werden."
+    ],
+    0.6273956894874573
+  ],
+  [
+    [
+      84,
+      3
+    ],
+    [
+      "Dann wird der Impfstoff zugelassen.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.6506017446517944
+  ],
+  [
+    [
+      85,
+      31
+    ],
+    [
+      "Das bedeutet: Alle Menschen können den Impfstoff bekommen.",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.5872154235839844
+  ],
+  [
+    [
+      86,
+      41
+    ],
+    [
+      "Sie bekommen eine Impfung?",
+      "Es gibt nur wenige Gründe, die tatsächlich gegen eine Impfung sprechen können."
+    ],
+    0.7422510385513306
+  ],
+  [
+    [
+      87,
+      2
+    ],
+    [
+      "Dann bildet Ihr Körper Abwehrstoffe gegen den Erreger.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.7953506708145142
+  ],
+  [
+    [
+      88,
+      2
+    ],
+    [
+      "Und Ihr Immunsystem reagiert auf den Impfstoff.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.6205997467041016
+  ],
+  [
+    [
+      89,
+      34
+    ],
+    [
+      "Deshalb kann es nach der Impfung zu einer Impfreaktion kommen.",
+      "Auch das Auftreten von Durchfall nach einer Rotavirenimpfung oder von einem Hautauschlag einige Wochen nach der Windpockenimpfung zählen beispielsweise noch zu den normalen Impfreaktionen."
+    ],
+    0.6591839790344238
+  ],
+  [
+    [
+      90,
+      31
+    ],
+    [
+      "Beschwerden einer Impfreaktion können zum Beispiel sein: Schmerzen und Rötungen an der Einstichstelle Erschöpfung",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.7405320405960083
+  ],
+  [
+    [
+      91,
+      31
+    ],
+    [
+      "Grippeanzeichen wie Kopfschmerzen, Gliederschmerzen oder Fieber",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6666710376739502
+  ],
+  [
+    [
+      93,
+      34
+    ],
+    [
+      "Diese Beschwerden verschwinden normalerweise nach einigen Tagen.",
+      "Auch das Auftreten von Durchfall nach einer Rotavirenimpfung oder von einem Hautauschlag einige Wochen nach der Windpockenimpfung zählen beispielsweise noch zu den normalen Impfreaktionen."
+    ],
+    0.6988829970359802
+  ],
+  [
+    [
+      94,
+      37
+    ],
+    [
+      "Achtung:",
+      "Letztlich wird das Paul-Ehrlich-Institut, das für die Sicherheit von Impfstoffen in Deutschland zuständig ist, informiert und geht dem Fall nach."
+    ],
+    0.5811458826065063
+  ],
+  [
+    [
+      96,
+      36
+    ],
+    [
+      "Ihr Arzt meldet Impfkomplikationen dem Gesundheitsamt.",
+      "Der Arzt ist verpflichtet, solche Fälle an das Gesundheitsamt zu melden."
+    ],
+    0.5841759443283081
+  ],
+  [
+    [
+      97,
+      19
+    ],
+    [
+      "Manchmal führen diese seltenen Impfkomplikationen zu gesundheitlichen Schäden.",
+      "Ab 60 Jahren stehen auch Impfungen gegen bestimmte Erreger auf dem Programm, die bei Senioren häufiger zu schweren Krankheitsverläufen führen, wie Pneumokokken oder die Virusgrippe (Influenza)."
+    ],
+    0.6311333775520325
+  ],
+  [
+    [
+      99,
+      31
+    ],
+    [
+      "Bei Ihnen wurde ein Impfschaden festgestellt?",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6597144603729248
+  ],
+  [
+    [
+      100,
+      25
+    ],
+    [
+      "Dann sprechen Sie mit dem Gesundheitsamt.",
+      "Lassen Sie sich die Termine am besten mit Bleistift im Impfpass notieren."
+    ],
+    0.6073199510574341
+  ],
+  [
+    [
+      103,
+      20
+    ],
+    [
+      "Manche Menschen dürfen sich mit bestimmten Impfstoffen nicht impfen lassen.",
+      "Manche Impfungen, sogenannte Indikationsimpfungen, sind nicht allgemein empfohlen, können jedoch beispielsweise bei Reisen oder bestimmten beruflichen Tätigkeiten sinnvoll sein."
+    ],
+    0.6689540147781372
+  ],
+  [
+    [
+      104,
+      43
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen Menschen mit einer Immunschwäche Menschen mit einer Allergie gegen Bestandteile des Impfstoffs Menschen mit bestimmten akuten Krankheitssymptomen Sie sind sich unsicher?",
+      "Das gilt zum Beispiel bei Schwangerschaft angeborener oder erworbener Immunschwächekrankheit Allergie gegen Bestandteile des Impfstoffs"
+    ],
+    0.7112453579902649
+  ],
+  [
+    [
+      105,
+      24
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Ihr Arzt kann Ihnen anhand Ihres Impfpasses Auskunft dazu geben, wann die nächste Auffrischung bei Ihnen fällig ist."
+    ],
+    0.6172201037406921
+  ],
+  [
+    [
+      106,
+      24
+    ],
+    [
+      "Ihr Arzt gib Ihnen alle wichtigen Informationen.",
+      "Ihr Arzt kann Ihnen anhand Ihres Impfpasses Auskunft dazu geben, wann die nächste Auffrischung bei Ihnen fällig ist."
+    ],
+    0.6943166851997375
+  ],
+  [
+    [
+      107,
+      27
+    ],
+    [
+      "Sie wollen noch mehr über Impfungen lesen?",
+      "Bei Reiseimpfungen kann es jedoch sein, dass Sie selbst zum Geldbeutel greifen müssen."
+    ],
+    0.5953190326690674
+  ],
+  [
+    [
+      110,
+      12
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Bei den Pocken ist dies zum Beispiel gelungen und auch die Kinderlähmung kommt heute in Europa eigentlich nicht mehr vor."
+    ],
+    0.6606776714324951
+  ]
+]

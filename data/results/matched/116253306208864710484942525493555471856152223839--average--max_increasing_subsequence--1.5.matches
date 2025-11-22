@@ -1,0 +1,376 @@
+[
+  [
+    [
+      19,
+      14
+    ],
+    [
+      "Nicht jeder Tumor ist bösartig.",
+      "Doch nicht jedes Adenom entartet:"
+    ],
+    0.26122570037841797
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Ein Tumor kann gutartig sein.",
+      "Doch nicht jedes Adenom entartet:"
+    ],
+    0.20190872251987457
+  ],
+  [
+    [
+      22,
+      14
+    ],
+    [
+      "Ein Tumor kann auch bösartig sein.",
+      "Doch nicht jedes Adenom entartet:"
+    ],
+    0.22718386352062225
+  ],
+  [
+    [
+      34,
+      35
+    ],
+    [
+      "Die Anzeichen für Dickdarmkrebs sind oft nicht eindeutig.",
+      "Eine Heilung ist dann bereits oft nicht mehr möglich."
+    ],
+    0.22704313695430756
+  ],
+  [
+    [
+      36,
+      35
+    ],
+    [
+      "Die Anzeichen können aber auch auf eine andere Krankheit hindeuten.",
+      "Eine Heilung ist dann bereits oft nicht mehr möglich."
+    ],
+    0.2577918767929077
+  ],
+  [
+    [
+      37,
+      42
+    ],
+    [
+      "Mögliche Anzeichen für Dickdarmkrebs sind zum Beispiel: Blut im Stuhl Durchfall oder Verstopfung",
+      "Weitere mögliche Beschwerden sind Leistungsminderung, Müdigkeit , eventuell Gewichtsverlust oder Fieber ."
+    ],
+    0.23331692814826965
+  ],
+  [
+    [
+      41,
+      42
+    ],
+    [
+      "Sie haben Anzeichen für Dickdarmkrebs?",
+      "Weitere mögliche Beschwerden sind Leistungsminderung, Müdigkeit , eventuell Gewichtsverlust oder Fieber ."
+    ],
+    0.21106687188148499
+  ],
+  [
+    [
+      42,
+      42
+    ],
+    [
+      "Oder Sie haben Beschwerden?",
+      "Weitere mögliche Beschwerden sind Leistungsminderung, Müdigkeit , eventuell Gewichtsverlust oder Fieber ."
+    ],
+    0.21495628356933594
+  ],
+  [
+    [
+      49,
+      61
+    ],
+    [
+      "Bei einer Darmspiegelung wird der Darm mit einer Kamera untersucht.",
+      "Dann wird der Darm zusätzlich mit einer Computertomografie dargestellt."
+    ],
+    0.2214120477437973
+  ],
+  [
+    [
+      54,
+      62
+    ],
+    [
+      "Manchmal macht der Arzt auch weitere Untersuchungen.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.25028982758522034
+  ],
+  [
+    [
+      56,
+      62
+    ],
+    [
+      "Dort entstehen dann Tochtergeschwülste.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.21796366572380066
+  ],
+  [
+    [
+      58,
+      62
+    ],
+    [
+      "Die Metastasen können auch andere Organe als den Dickdarm betreffen.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.2465267926454544
+  ],
+  [
+    [
+      60,
+      62
+    ],
+    [
+      "Sie haben bereits Metastasen an anderen Organen?",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.257398396730423
+  ],
+  [
+    [
+      64,
+      62
+    ],
+    [
+      "Mögliche Ursachen sind zum Beispiel:",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.23973309993743896
+  ],
+  [
+    [
+      67,
+      62
+    ],
+    [
+      "Polypen können an verschiedenen Stellen im Körper wachsen.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.23298633098602295
+  ],
+  [
+    [
+      69,
+      62
+    ],
+    [
+      "Die Polypen sind zuerst nicht gefährlich.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.24162539839744568
+  ],
+  [
+    [
+      77,
+      62
+    ],
+    [
+      "Auch die Ernährung beeinflusst das Krebsrisiko.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.22704748809337616
+  ],
+  [
+    [
+      83,
+      62
+    ],
+    [
+      "Zigaretten enthalten Tabak.",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.21615372598171234
+  ],
+  [
+    [
+      95,
+      62
+    ],
+    [
+      "Sie haben eine dieser Erkrankungen?",
+      "Allerdings können bei dieser computerunterstützten bildgebenden Methode keine Proben entnommen und auch keine Polypen abgetragen werden."
+    ],
+    0.2462165206670761
+  ],
+  [
+    [
+      97,
+      85
+    ],
+    [
+      "Genetische Veranlagung .",
+      "Operation"
+    ],
+    0.4661412835121155
+  ],
+  [
+    [
+      103,
+      85
+    ],
+    [
+      "Meist entfernt der Arzt den Tumor in einer Operation.",
+      "Operation"
+    ],
+    0.2750609815120697
+  ],
+  [
+    [
+      105,
+      85
+    ],
+    [
+      "Bei der Operation entfernt der Arzt nämlich auch einen Teil des Darms.",
+      "Operation"
+    ],
+    0.24015159904956818
+  ],
+  [
+    [
+      107,
+      85
+    ],
+    [
+      "Dann bekommt der Patient vielleicht eine Strahlentherapie.",
+      "Operation"
+    ],
+    0.2390066385269165
+  ],
+  [
+    [
+      110,
+      85
+    ],
+    [
+      "Nach der Strahlentherapie kann der Arzt kleine Reste des Tumors in einer Operation entfernen.",
+      "Operation"
+    ],
+    0.246514230966568
+  ],
+  [
+    [
+      113,
+      85
+    ],
+    [
+      "Dann bekommt der Patient eine Chemotherapie.",
+      "Operation"
+    ],
+    0.24752454459667206
+  ],
+  [
+    [
+      114,
+      85
+    ],
+    [
+      "Bei einer Chemotherapie bekommt der Patient Medikamente gegen den Krebs.",
+      "Operation"
+    ],
+    0.265912264585495
+  ],
+  [
+    [
+      115,
+      85
+    ],
+    [
+      "Die Medikamente sollen den Krebs stoppen.",
+      "Operation"
+    ],
+    0.20210234820842743
+  ],
+  [
+    [
+      116,
+      85
+    ],
+    [
+      "Die Chemotherapie ist erfolgreich?",
+      "Operation"
+    ],
+    0.27905359864234924
+  ],
+  [
+    [
+      136,
+      85
+    ],
+    [
+      "Früherkennung .",
+      "Operation"
+    ],
+    0.5727005004882812
+  ],
+  [
+    [
+      139,
+      85
+    ],
+    [
+      "Eine dieser Untersuchungen ist zum Beispiel die Darmspiegelung.",
+      "Operation"
+    ],
+    0.2273806780576706
+  ],
+  [
+    [
+      142,
+      131
+    ],
+    [
+      "So kann der Arzt den Krebs früh erkennen und behandeln.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.20975784957408905
+  ],
+  [
+    [
+      149,
+      131
+    ],
+    [
+      "Der Krebs kann nämlich wiederkommen.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.21127495169639587
+  ],
+  [
+    [
+      152,
+      131
+    ],
+    [
+      "So kann der Arzt Sie rechtzeitig behandeln.",
+      "Bei der Untersuchung kann der Arzt nicht nur bereits vorhandenen Krebs diagnostizieren, sondern auch gutartige Schleimhautwucherungen abtragen und somit möglicherweise Krebs vorbeugen."
+    ],
+    0.20246249437332153
+  ],
+  [
+    [
+      156,
+      141
+    ],
+    [
+      "Mehr Informationen über Dickdarmkrebs finden Sie hier .",
+      "Mehr Informationen finden Sie auch auf den Seiten des Krebsinformationsdienst"
+    ],
+    0.1997298151254654
+  ]
+]

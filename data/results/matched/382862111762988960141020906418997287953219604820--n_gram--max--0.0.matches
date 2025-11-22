@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      47
+    ],
+    [
+      "Eine akute Bronchitis ist eine Erkrankung der Atemwege.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9728560447692871
+  ],
+  [
+    [
+      1,
+      26
+    ],
+    [
+      "Bei einer akuten Bronchitis ist die Schleimhaut in den Bronchien entzündet.",
+      "Manchmal kann ein überempfindliches, ein hyperreagibles Bronchialsystem die Folge einer akuten Bronchitis sein."
+    ],
+    0.9834384322166443
+  ],
+  [
+    [
+      2,
+      47
+    ],
+    [
+      "Eine Bronchitis kann akut sein.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9743726253509521
+  ],
+  [
+    [
+      3,
+      97
+    ],
+    [
+      "Dann heilt sie oft von selbst.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.1956884264945984
+  ],
+  [
+    [
+      4,
+      47
+    ],
+    [
+      "Eine akute Bronchitis dauert etwa zwei Wochen.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9783700108528137
+  ],
+  [
+    [
+      5,
+      47
+    ],
+    [
+      "Hinweis: Akute Bronchitis ist oft ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9749760031700134
+  ],
+  [
+    [
+      6,
+      102
+    ],
+    [
+      "Eine Bronchitis kann aber auch chronisch sein ( chronische Bronchitis ).",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.9789406657218933
+  ],
+  [
+    [
+      7,
+      34
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "Diese Veränderungen können die Atmung beeinträchtigen und in späteren Jahren unter anderem eine chronisch obstruktive Lungenerkrankung (COPD) begünstigen."
+    ],
+    0.3366751968860626
+  ],
+  [
+    [
+      8,
+      34
+    ],
+    [
+      "Chronische Entzündungen kommen oft wieder.",
+      "Diese Veränderungen können die Atmung beeinträchtigen und in späteren Jahren unter anderem eine chronisch obstruktive Lungenerkrankung (COPD) begünstigen."
+    ],
+    0.29643669724464417
+  ],
+  [
+    [
+      9,
+      79
+    ],
+    [
+      "Das wichtigste Anzeichen für eine akute Bronchitis ist der typische Husten .",
+      "Eine akute Bronchitis lässt sich mit Hausmitteln und – wenn nötig – mit hustenstillenden oder schleimlösenden Medikamenten behandeln."
+    ],
+    0.951491117477417
+  ],
+  [
+    [
+      10,
+      90
+    ],
+    [
+      "Anfangs ist der Husten meist trocken.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.9038019180297852
+  ],
+  [
+    [
+      11,
+      90
+    ],
+    [
+      "Nachts und morgens ist der Husten oft besonders schlimm:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.896126389503479
+  ],
+  [
+    [
+      12,
+      90
+    ],
+    [
+      "Eine betroffene Person hat beim Husten Schmerzen in der Brust.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.8135164976119995
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Nach einigen Tagen bildet sich zäher Schleim in den Bronchien.",
+      "Nach einigen Tagen bildet sich in den Bronchien vermehrt Sekret."
+    ],
+    0.9794787168502808
+  ],
+  [
+    [
+      14,
+      90
+    ],
+    [
+      "Der Husten verändert sich:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.9440295100212097
+  ],
+  [
+    [
+      15,
+      108
+    ],
+    [
+      "Er ist dann nicht mehr trocken.",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.21378186345100403
+  ],
+  [
+    [
+      16,
+      43
+    ],
+    [
+      "Der Husten ist dann schleimig.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.8931021690368652
+  ],
+  [
+    [
+      17,
+      47
+    ],
+    [
+      "Eine akute Bronchitis tritt oft zusammen mit einer Erkältung auf.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9740816354751587
+  ],
+  [
+    [
+      18,
+      90
+    ],
+    [
+      "Zusätzlich zum Husten kommen dann häufig typische Beschwerden einer Erkältung hinzu wie zum Beispiel:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.7904886603355408
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen Halsschmerzen",
+      "Dann kommt es zu Beginn meist zu typischen Erkältungsbeschwerden: Kopf- und Gliederschmerzen, Halsschmerzen , Heiserkeit und Schluckbeschwerden sowie Schnupfen und Abgeschlagenheit."
+    ],
+    0.25108450651168823
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Schmerzen beim Schlucken",
+      "Dann kommt es zu Beginn meist zu typischen Erkältungsbeschwerden: Kopf- und Gliederschmerzen, Halsschmerzen , Heiserkeit und Schluckbeschwerden sowie Schnupfen und Abgeschlagenheit."
+    ],
+    0.26350489258766174
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Schnupfen",
+      "Dann kommt es zu Beginn meist zu typischen Erkältungsbeschwerden: Kopf- und Gliederschmerzen, Halsschmerzen , Heiserkeit und Schluckbeschwerden sowie Schnupfen und Abgeschlagenheit."
+    ],
+    0.06098787859082222
+  ],
+  [
+    [
+      22,
+      82
+    ],
+    [
+      "Fieber",
+      "Körperliche Schonung, Sport vorübergehend pausieren, bei Fieber Bettruhe Nicht rauchen"
+    ],
+    0.2655962109565735
+  ],
+  [
+    [
+      23,
+      74
+    ],
+    [
+      "In den meisten Fällen sind Viren die Ursache für eine akute Bronchitis.",
+      "In den meisten Fällen genügt das, um die Diagnose \"akute Bronchitis\" zu stellen."
+    ],
+    0.9529185891151428
+  ],
+  [
+    [
+      24,
+      47
+    ],
+    [
+      "Verschiedene Viren-Arten können eine akute Bronchitis auslösen wie zum Beispiel Grippe-Viren.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9679040908813477
+  ],
+  [
+    [
+      25,
+      47
+    ],
+    [
+      "Manchmal sind aber auch Bakterien die Ursache für eine akute Bronchitis.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9591494202613831
+  ],
+  [
+    [
+      26,
+      60
+    ],
+    [
+      "In seltenen Fällen verursachen Pilze die Bronchitis.",
+      "Sehr selten verursachen Pilze eine Bronchitis."
+    ],
+    0.9794151186943054
+  ],
+  [
+    [
+      27,
+      47
+    ],
+    [
+      "Eine akute Bronchitis ist häufig ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9809468984603882
+  ],
+  [
+    [
+      28,
+      97
+    ],
+    [
+      "Die Viren können sich leicht über den Speichel auf andere Menschen übertragen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4181855022907257
+  ],
+  [
+    [
+      29,
+      47
+    ],
+    [
+      "Sie haben eine akute Bronchitis?",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.95802241563797
+  ],
+  [
+    [
+      30,
+      97
+    ],
+    [
+      "Dann sollten Sie diese Dinge vermeiden:",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.40514734387397766
+  ],
+  [
+    [
+      31,
+      91
+    ],
+    [
+      "Husten Sie andere Menschen nicht an.",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.6801378726959229
+  ],
+  [
+    [
+      32,
+      97
+    ],
+    [
+      "Niesen Sie andere Menschen nicht an.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.472699910402298
+  ],
+  [
+    [
+      33,
+      97
+    ],
+    [
+      "Küssen Sie andere Menschen nicht.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.47958192229270935
+  ],
+  [
+    [
+      34,
+      97
+    ],
+    [
+      "Nutzen Sie eigene Tassen und eigenes Besteck.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4060865640640259
+  ],
+  [
+    [
+      35,
+      97
+    ],
+    [
+      "Waschen Sie regelmäßig Ihre Hände mit Seife.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5611084699630737
+  ],
+  [
+    [
+      36,
+      47
+    ],
+    [
+      "Für gesunde Menschen ist eine akute Bronchitis oft nicht gefährlich.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9709382653236389
+  ],
+  [
+    [
+      37,
+      80
+    ],
+    [
+      "Nur in seltenen Fällen müssen betroffene Menschen Medikamente nehmen.",
+      "Nur in manchen Fällen sind Antibiotika erforderlich."
+    ],
+    0.31579193472862244
+  ],
+  [
+    [
+      38,
+      76
+    ],
+    [
+      "Die Entzündung heilt meist von selbst.",
+      "Über eine Blutuntersuchung können auch die Entzündungswerte wie CRP (C-reaktives Protein), BSG (Blutsenkungs-Geschwindigkeit) und die Zahl der weißen Blutkörperchen ( Leukozyten ) ermittelt werden."
+    ],
+    0.21495351195335388
+  ],
+  [
+    [
+      39,
+      73
+    ],
+    [
+      "Aber Sie können die Heilung unterstützen.",
+      "Zusätzlich werden meist auch die Ohren, die Nasennebenhöhlen, der Mund- und Rachenraum sowie die Lymphknoten am Hals untersucht."
+    ],
+    0.21070356667041779
+  ],
+  [
+    [
+      40,
+      97
+    ],
+    [
+      "Während der Erkrankung sollten Sie: sich schonen, keinen Sport machen, nicht rauchen und bei Fieber im Bett bleiben.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5252317190170288
+  ],
+  [
+    [
+      41,
+      97
+    ],
+    [
+      "Sie haben starke Beschwerden?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.2578754723072052
+  ],
+  [
+    [
+      42,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5667658448219299
+  ],
+  [
+    [
+      43,
+      97
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3382534682750702
+  ],
+  [
+    [
+      44,
+      90
+    ],
+    [
+      "In der Apotheke bekommen Sie spezielle Hustenmittel.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.7539196014404297
+  ],
+  [
+    [
+      45,
+      97
+    ],
+    [
+      "Lassen Sie sich vom Apotheker beraten.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4784322679042816
+  ],
+  [
+    [
+      46,
+      13
+    ],
+    [
+      "Hinweis: Das Husten ist wichtig für die Heilung der Bronchitis.",
+      "Husten und Auswurf länger als drei Monate am Stück in zwei aufeinander folgenden Jahren, sprechen Ärzte von einer chronischen Bronchitis."
+    ],
+    0.9376599192619324
+  ],
+  [
+    [
+      47,
+      7
+    ],
+    [
+      "Nehmen Sie die Mittel gegen Husten deshalb nicht über längere Zeit ein.",
+      "Sie haben einen sogenannten produktiven Husten."
+    ],
+    0.763241171836853
+  ],
+  [
+    [
+      48,
+      42
+    ],
+    [
+      "Sie können auch Mittel gegen den Schleim nehmen.",
+      "Die Zellen der gereizten Schleimhaut produzieren vermehrt zähes Sekret."
+    ],
+    0.3656579852104187
+  ],
+  [
+    [
+      49,
+      72
+    ],
+    [
+      "Diese Mittel lösen den Schleim in den Bronchien.",
+      "Dabei hört er unter Umständen Atemgeräusche, die durch den Schleim in den Bronchien hervorgerufen werden."
+    ],
+    0.9713113307952881
+  ],
+  [
+    [
+      50,
+      93
+    ],
+    [
+      "So können Sie den Schleim leichter abhusten.",
+      "Löst sich der Husten, müssen Sie also Schleim abhusten, dann können eventuell schleimlösende Medikamente helfen."
+    ],
+    0.6978700757026672
+  ],
+  [
+    [
+      51,
+      109
+    ],
+    [
+      "Fragen",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.12178991734981537
+  ],
+  [
+    [
+      52,
+      69
+    ],
+    [
+      "Sie in der Apotheke",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.2036346048116684
+  ],
+  [
+    [
+      53,
+      7
+    ],
+    [
+      "nach einem passenden Hustenmittel oder fragen Sie Ihren Arzt",
+      "Sie haben einen sogenannten produktiven Husten."
+    ],
+    0.7779021263122559
+  ],
+  [
+    [
+      55,
+      76
+    ],
+    [
+      "Sie können auch einfache Hausmittel gegen die Beschwerden nehmen:",
+      "Über eine Blutuntersuchung können auch die Entzündungswerte wie CRP (C-reaktives Protein), BSG (Blutsenkungs-Geschwindigkeit) und die Zahl der weißen Blutkörperchen ( Leukozyten ) ermittelt werden."
+    ],
+    0.2958172857761383
+  ],
+  [
+    [
+      56,
+      97
+    ],
+    [
+      "Inhalieren Sie mehrmals am Tag mit Salzwasser.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4360392093658447
+  ],
+  [
+    [
+      57,
+      43
+    ],
+    [
+      "Das löst den Schleim und macht das Husten angenehmer.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.8408950567245483
+  ],
+  [
+    [
+      58,
+      97
+    ],
+    [
+      "Trinken Sie viel Wasser oder Tee.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.4149458408355713
+  ],
+  [
+    [
+      59,
+      42
+    ],
+    [
+      "Auch das löst den Schleim.",
+      "Die Zellen der gereizten Schleimhaut produzieren vermehrt zähes Sekret."
+    ],
+    0.42582178115844727
+  ],
+  [
+    [
+      60,
+      88
+    ],
+    [
+      "Achtung: Sie haben eine Herzerkrankung?",
+      "Hinweis: Wer an einer Herz- oder Nierenerkrankung leidet, sollte die Trinkmenge mit einem Arzt absprechen Wadenwickel können bei erhöhter Temperatur und leichtem Fieber helfen."
+    ],
+    0.32855772972106934
+  ],
+  [
+    [
+      61,
+      88
+    ],
+    [
+      "Oder Sie haben eine Nierenerkrankung?",
+      "Hinweis: Wer an einer Herz- oder Nierenerkrankung leidet, sollte die Trinkmenge mit einem Arzt absprechen Wadenwickel können bei erhöhter Temperatur und leichtem Fieber helfen."
+    ],
+    0.3744219243526459
+  ],
+  [
+    [
+      62,
+      97
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht so viel trinken.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3550179898738861
+  ],
+  [
+    [
+      63,
+      97
+    ],
+    [
+      "Besprechen Sie die Trinkmenge deshalb mit Ihrem Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.627063512802124
+  ],
+  [
+    [
+      64,
+      99
+    ],
+    [
+      "In den meisten Fällen heilt eine Bronchitis von selbst.",
+      "Normalerweise heilt eine solche Bronchitis jedoch von selbst ab, ein Antibiotikum ist nicht nötig."
+    ],
+    0.9713689684867859
+  ],
+  [
+    [
+      65,
+      99
+    ],
+    [
+      "Aber manchmal kann eine Bronchitis auch gefährlich werden:",
+      "Normalerweise heilt eine solche Bronchitis jedoch von selbst ab, ein Antibiotikum ist nicht nötig."
+    ],
+    0.9727487564086914
+  ],
+  [
+    [
+      66,
+      1
+    ],
+    [
+      "Ihre Beschwerden werden auch nach mehreren Tagen nicht besser?",
+      "Dann kommt es zu Beginn meist zu typischen Erkältungsbeschwerden: Kopf- und Gliederschmerzen, Halsschmerzen , Heiserkeit und Schluckbeschwerden sowie Schnupfen und Abgeschlagenheit."
+    ],
+    0.34431418776512146
+  ],
+  [
+    [
+      67,
+      97
+    ],
+    [
+      "Sie haben hohes Fieber?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.1263461709022522
+  ],
+  [
+    [
+      68,
+      97
+    ],
+    [
+      "Sie schwitzen nachts stark?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.14591744542121887
+  ],
+  [
+    [
+      69,
+      97
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.11756516993045807
+  ],
+  [
+    [
+      70,
+      61
+    ],
+    [
+      "Sie keuchen oder pfeifen beim Atmen?",
+      "Sie betrifft in erster Linie Menschen mit einem geschwächten Immunsystem , zum Beispiel durch Blutkrebs oder AIDS."
+    ],
+    0.29224923253059387
+  ],
+  [
+    [
+      71,
+      90
+    ],
+    [
+      "Sie haben starke Husten-Anfälle?",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.8085894584655762
+  ],
+  [
+    [
+      72,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5667658448219299
+  ],
+  [
+    [
+      73,
+      47
+    ],
+    [
+      "Achtung: Für manche Menschen ist eine akute Bronchitis immer gefährlich.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9719964861869812
+  ],
+  [
+    [
+      74,
+      85
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel:",
+      "Wichtiger Hinweis: Ätherische Öle eignen sich insbesondere nicht für Menschen mit empfindlichen Atemwegen und nicht für Kleinkinder!"
+    ],
+    0.31468692421913147
+  ],
+  [
+    [
+      75,
+      20
+    ],
+    [
+      "Menschen mit einer zusätzlichen chronischen Erkrankung der Atemwege alte Menschen schwangere Frauen",
+      "Ältere Menschen, starke Raucher, Patienten mit einem geschwächten Abwehrsystem oder chronischen Vorerkrankungen beispielsweise an Herz oder Lunge können betroffen sein."
+    ],
+    0.523638129234314
+  ],
+  [
+    [
+      76,
+      85
+    ],
+    [
+      "Menschen mit Immunschwäche",
+      "Wichtiger Hinweis: Ätherische Öle eignen sich insbesondere nicht für Menschen mit empfindlichen Atemwegen und nicht für Kleinkinder!"
+    ],
+    0.35580873489379883
+  ],
+  [
+    [
+      77,
+      81
+    ],
+    [
+      "Diese Personen sollten bei einer akuten Bronchitis immer zum Arzt gehen.",
+      "Einfache Maßnahmen können den Verlauf einer akuten Bronchitis positiv beeinflussen und die Symptome lindern:"
+    ],
+    0.9628415107727051
+  ],
+  [
+    [
+      78,
+      47
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine akute Bronchitis?",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9564294219017029
+  ],
+  [
+    [
+      79,
+      97
+    ],
+    [
+      "Und Sie haben sehr starke Beschwerden?",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.30581483244895935
+  ],
+  [
+    [
+      80,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5667658448219299
+  ],
+  [
+    [
+      81,
+      97
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.3382534682750702
+  ],
+  [
+    [
+      82,
+      47
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bronchitis lesen?",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.972255289554596
+  ],
+  [
+    [
+      83,
+      47
+    ],
+    [
+      "Mehr Informationen über akute Bronchitis finden Sie hier .",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9608312845230103
+  ],
+  [
+    [
+      84,
+      88
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Hinweis: Wer an einer Herz- oder Nierenerkrankung leidet, sollte die Trinkmenge mit einem Arzt absprechen Wadenwickel können bei erhöhter Temperatur und leichtem Fieber helfen."
+    ],
+    0.2453092485666275
+  ],
+  [
+    [
+      85,
+      108
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.3121742904186249
+  ]
+]

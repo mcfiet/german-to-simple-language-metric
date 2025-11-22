@@ -1,0 +1,530 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Tilidin ist ein Medikament gegen sehr starke Schmerzen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9927017688751221
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Tilidin hilft zum Beispiel: nach Operationen bei Krebserkrankungen",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9945246577262878
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Sie möchten Tilidin nehmen?",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9771865010261536
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Hinweis: Tilidin verringert nur die Schmerzen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9947959184646606
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Tilidin bekämpft aber nicht die Ursache der Schmerzen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9937347769737244
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sprechen Sie vor der Einnahme von Tilidin mit Ihrem Arzt oder Apotheker.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9755769371986389
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Der Wirkstoff Tilidin gehört zu der Gruppe der Opioide.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.986643373966217
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Die Rezeptoren sind aktiv?",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.019663000479340553
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Dann werden die Schmerzen nicht mehr an das Gehirn weitergeleitet.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.017914455384016037
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Tilidin hilft aber nicht nur gegen Schmerzen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9921213984489441
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Tilidin beeinflusst auch die Stimmung und die Psyche der Patienten.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9949252605438232
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Die Patienten fühlen sich dann sehr gut.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.02395710162818432
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Deshalb nehmen manche Menschen Tilidin wie eine Droge.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9827598929405212
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Tilidin kann nämlich abhängig machen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9937825202941895
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Tilidin kann abhängig machen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9940963983535767
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9777796268463135
+  ],
+  [
+    [
+      26,
+      7
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht Autofahren.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.16490276157855988
+  ],
+  [
+    [
+      27,
+      7
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.13695140182971954
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Tilidin kann unterschiedliche Nebenwirkungen haben.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.0009603211074136198
+  ],
+  [
+    [
+      30,
+      7
+    ],
+    [
+      "Alle bekannten Nebenwirkungen finden Sie auf dem Beipackzettel des Medikaments.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.17511489987373352
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "In diesem Text werden nur die häufigsten Nebenwirkungen aufgezählt.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.12252970784902573
+  ],
+  [
+    [
+      32,
+      7
+    ],
+    [
+      "Der Text ist also nicht vollständig.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.1191256195306778
+  ],
+  [
+    [
+      33,
+      7
+    ],
+    [
+      "Und der Text ersetzt nicht den Beipackzettel oder den Besuch beim Arzt.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.12737807631492615
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Die häufigsten Nebenwirkungen von Tilidin sind: Schwindel Müdigkeit Schwitzen",
+      "Zu den häufigsten Nebenwirkungen von Tilidin gehören Schwindel , Benommenheit, Kopfschmerzen und Müdigkeit ."
+    ],
+    0.9934655427932739
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Benommenheit Kopfschmerzen",
+      "Zu den häufigsten Nebenwirkungen von Tilidin gehören Schwindel , Benommenheit, Kopfschmerzen und Müdigkeit ."
+    ],
+    0.05276281759142876
+  ],
+  [
+    [
+      36,
+      16
+    ],
+    [
+      "Außerdem kommt es oft zu Beschwerden im Magen-Darm-Trakt.",
+      "Im Magen-Darm-Trakt kann es zu Übelkeit , Bauchschmerzen und Durchfall , aber auch Verstopfung kommen."
+    ],
+    0.346230149269104
+  ],
+  [
+    [
+      37,
+      16
+    ],
+    [
+      "Dazu gehören zum Beispiel: Übelkeit Durchfall",
+      "Im Magen-Darm-Trakt kann es zu Übelkeit , Bauchschmerzen und Durchfall , aber auch Verstopfung kommen."
+    ],
+    0.1582849621772766
+  ],
+  [
+    [
+      38,
+      16
+    ],
+    [
+      "Verstopfung",
+      "Im Magen-Darm-Trakt kann es zu Übelkeit , Bauchschmerzen und Durchfall , aber auch Verstopfung kommen."
+    ],
+    0.24416735768318176
+  ],
+  [
+    [
+      39,
+      21
+    ],
+    [
+      "Achtung: Die Einnahme von Tilidin kann auch die Aufmerksamkeit und Reaktion einschränken.",
+      "Aus dem gleichen Grund sollte auch die gemeinsame Einnahme von Alkohol und Tilidin vermieden werden."
+    ],
+    0.9827538132667542
+  ],
+  [
+    [
+      40,
+      22
+    ],
+    [
+      "Die Einnahme von mehreren Wirkstoffen gleichzeitig kann Folgen haben.",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.678484320640564
+  ],
+  [
+    [
+      41,
+      25
+    ],
+    [
+      "Dazu sagt man auch: Wechselwirkungen.",
+      "Auch mit anderen Arzneimitteln, die den Serotonin-Haushalt beeinflussen, wie etwa bestimmte Antidepressiva, kann es schwerwiegende Wechselwirkungen geben."
+    ],
+    0.16501829028129578
+  ],
+  [
+    [
+      43,
+      25
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt nach möglichen Wechselwirkungen.",
+      "Auch mit anderen Arzneimitteln, die den Serotonin-Haushalt beeinflussen, wie etwa bestimmte Antidepressiva, kann es schwerwiegende Wechselwirkungen geben."
+    ],
+    0.048917192965745926
+  ],
+  [
+    [
+      44,
+      25
+    ],
+    [
+      "Wechselwirkungen können nämlich gefährlich sein.",
+      "Auch mit anderen Arzneimitteln, die den Serotonin-Haushalt beeinflussen, wie etwa bestimmte Antidepressiva, kann es schwerwiegende Wechselwirkungen geben."
+    ],
+    0.12812238931655884
+  ],
+  [
+    [
+      45,
+      25
+    ],
+    [
+      "Manche Medikamente können die Wirkung von Tilidin verstärken .",
+      "Auch mit anderen Arzneimitteln, die den Serotonin-Haushalt beeinflussen, wie etwa bestimmte Antidepressiva, kann es schwerwiegende Wechselwirkungen geben."
+    ],
+    0.011897926218807697
+  ],
+  [
+    [
+      46,
+      25
+    ],
+    [
+      "Zu diesen Medikamenten gehören zum Beispiel: Schlafmittel Antidepressiva.",
+      "Auch mit anderen Arzneimitteln, die den Serotonin-Haushalt beeinflussen, wie etwa bestimmte Antidepressiva, kann es schwerwiegende Wechselwirkungen geben."
+    ],
+    0.15854646265506744
+  ],
+  [
+    [
+      47,
+      26
+    ],
+    [
+      "Das sind Medikamente gegen Depressionen.",
+      "Besprechen Sie daher genau mit dem Arzt oder der Ärztin, welche Medikamente sie noch einnehmen und ob diese mit Tilidin wechselwirken können."
+    ],
+    0.017991485074162483
+  ],
+  [
+    [
+      48,
+      27
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Wer allergisch auf Tilidin reagiert, darf den Wirkstoff nicht anwenden."
+    ],
+    0.9768062829971313
+  ],
+  [
+    [
+      49,
+      30
+    ],
+    [
+      "Dann dürfen Sie keine Schlafmittel nehmen.",
+      "Es gibt keine gute Studienlage zur Einnahme von Tilidin in der Schwangerschaft."
+    ],
+    0.0016777565469965339
+  ],
+  [
+    [
+      50,
+      33
+    ],
+    [
+      "Und Sie dürfen keine Medikamente gegen Depressionen nehmen.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.03700818121433258
+  ],
+  [
+    [
+      52,
+      33
+    ],
+    [
+      "Und Sie nehmen Gerinnungshemmer?",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.038855746388435364
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.1664019376039505
+  ],
+  [
+    [
+      55,
+      33
+    ],
+    [
+      "Ihr Arzt überprüft regelmäßig ihr Blut.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.17123159766197205
+  ],
+  [
+    [
+      57,
+      33
+    ],
+    [
+      "Und Sie möchten auch ein anderes Schmerzmittel nehmen?",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.03879539668560028
+  ],
+  [
+    [
+      58,
+      33
+    ],
+    [
+      "Dann sprechen Sie zuerst mit Ihrem Arzt.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.16569438576698303
+  ],
+  [
+    [
+      59,
+      33
+    ],
+    [
+      "Ihr Arzt sagt Ihnen: Dieses Schmerzmittel dürfen Sie nehmen.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.11374764144420624
+  ],
+  [
+    [
+      62,
+      33
+    ],
+    [
+      "Dann sollten Sie keinen Alkohol trinken.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.008314624428749084
+  ],
+  [
+    [
+      66,
+      33
+    ],
+    [
+      "Bei einer Stoffwechsel-Erkrankung während der Schwangerschaft während der Stillzeit Sprechen Sie vor der Einnahme von Tilidin mit Ihrem Arzt.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.07751665264368057
+  ],
+  [
+    [
+      67,
+      33
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.20273564755916595
+  ]
+]

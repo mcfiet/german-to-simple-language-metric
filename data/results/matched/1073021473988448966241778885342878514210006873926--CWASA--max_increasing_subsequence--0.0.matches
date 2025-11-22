@@ -1,0 +1,1597 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben sich leicht verletzt?",
+      "Knie aufgeschlagen, in den Finger geschnitten, Kratzer oder Schramme eingefangen?"
+    ],
+    0.3386404514312744
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie haben sich zum Beispiel das Knie aufgeschlagen?",
+      "Knie aufgeschlagen, in den Finger geschnitten, Kratzer oder Schramme eingefangen?"
+    ],
+    0.45047903060913086
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Oder Sie haben sich in den Finger geschnitten?",
+      "Knie aufgeschlagen, in den Finger geschnitten, Kratzer oder Schramme eingefangen?"
+    ],
+    0.6060854196548462
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Oder Sie haben eine kleine Verbrennung?",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.45978811383247375
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Leichte Verletzungen können Sie oft selbst versorgen.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.6709853410720825
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Dafür müssen Sie die Wunde reinigen, desinfizieren, verbinden und beobachten.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6498936414718628
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Achtung: Die Verletzung ist nicht leicht?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4738641679286957
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.471596896648407
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Oder Sie haben sehr starke Schmerzen?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.459648072719574
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Dann sollten Sie den Rettungsdienst rufen.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.3701639175415039
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Die Nummer vom Rettungsdienst ist: 112 .",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.19249050319194794
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Sie haben sich verbrannt?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4361223876476288
+  ],
+  [
+    [
+      12,
+      2
+    ],
+    [
+      "Oder in der Wunde ist Schmutz?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.41103246808052063
+  ],
+  [
+    [
+      13,
+      2
+    ],
+    [
+      "Dann halten Sie die Wunde unter lauwarmes Leitungswasser.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5242162942886353
+  ],
+  [
+    [
+      14,
+      2
+    ],
+    [
+      "In der Wunde sind Splitter?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.393089234828949
+  ],
+  [
+    [
+      15,
+      2
+    ],
+    [
+      "Dann ziehen Sie die Splitter vorsichtig heraus.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.591840386390686
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Benutzen Sie dafür eine Pinzette.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6027150750160217
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Hinweis: Ziehen Sie die Splitter ganz heraus.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6327427625656128
+  ],
+  [
+    [
+      18,
+      2
+    ],
+    [
+      "Ein Teil des Splitters bleibt in der Wunde?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.368222177028656
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Dann kann sich die Wunde entzünden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5522422790527344
+  ],
+  [
+    [
+      20,
+      2
+    ],
+    [
+      "Die Splitter stecken tief in der Wunde?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4563625454902649
+  ],
+  [
+    [
+      21,
+      2
+    ],
+    [
+      "Dann ziehen Sie die Splitter nicht heraus.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6559386849403381
+  ],
+  [
+    [
+      22,
+      2
+    ],
+    [
+      "Verbinden Sie die Wunde mit einem sterilen Verband.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.525342583656311
+  ],
+  [
+    [
+      23,
+      2
+    ],
+    [
+      "Steril heißt: keimfrei.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.20405462384223938
+  ],
+  [
+    [
+      24,
+      2
+    ],
+    [
+      "Danach gehen Sie zum Arzt.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.3797808587551117
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.41313397884368896
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Hinweis: Wunden können sich schnell entzünden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4858589768409729
+  ],
+  [
+    [
+      27,
+      2
+    ],
+    [
+      "Fassen Sie deshalb die Wunde nicht mit schmutzigen Händen an.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6685881614685059
+  ],
+  [
+    [
+      28,
+      2
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5853481292724609
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Oder tragen Sie Einmal-Handschuhe.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.41953882575035095
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Sie haben die Wunde gereinigt?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5828821659088135
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Dann sollten Sie die Wunde desinfizieren.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6776195764541626
+  ],
+  [
+    [
+      32,
+      2
+    ],
+    [
+      "Beim Desinfizieren werden die Keime in der Wunde getötet.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4725293517112732
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "Die Wunde kann sich dann nicht so leicht entzünden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5978882312774658
+  ],
+  [
+    [
+      34,
+      2
+    ],
+    [
+      "Benutzen Sie ein Desinfektionsmittel für Wunden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4531083405017853
+  ],
+  [
+    [
+      35,
+      2
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden sollten Sie immer zu Hause haben.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.48072755336761475
+  ],
+  [
+    [
+      36,
+      2
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden können Sie in der Apotheke kaufen.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.4518335163593292
+  ],
+  [
+    [
+      37,
+      2
+    ],
+    [
+      "Hinweis: Sie haben Allergien?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.38039112091064453
+  ],
+  [
+    [
+      38,
+      2
+    ],
+    [
+      "Dann fragen Sie den Apotheker:",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.35955044627189636
+  ],
+  [
+    [
+      39,
+      2
+    ],
+    [
+      "Welches Desinfektionsmittel kann ich mit meiner Allergie benutzen?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.312302827835083
+  ],
+  [
+    [
+      40,
+      2
+    ],
+    [
+      "Sie haben die Wunde desinfiziert?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6024481654167175
+  ],
+  [
+    [
+      41,
+      2
+    ],
+    [
+      "Dann sollten Sie die Wunde verbinden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6701346039772034
+  ],
+  [
+    [
+      42,
+      21
+    ],
+    [
+      "Es gibt verschiedene Pflaster.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.36273759603500366
+  ],
+  [
+    [
+      43,
+      21
+    ],
+    [
+      "Für größere Wunden können Sie eine sterile Kompresse benutzen.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.6350441575050354
+  ],
+  [
+    [
+      44,
+      21
+    ],
+    [
+      "Eine Kompresse ist eine Wundauflage.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.48166945576667786
+  ],
+  [
+    [
+      45,
+      21
+    ],
+    [
+      "Die Kompresse kommt direkt auf die Wunde.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.5410111546516418
+  ],
+  [
+    [
+      46,
+      21
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.5894371867179871
+  ],
+  [
+    [
+      47,
+      21
+    ],
+    [
+      "Dann kann die Kompresse nicht mehr verrutschen.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.5021814107894897
+  ],
+  [
+    [
+      48,
+      22
+    ],
+    [
+      "Für kleine Wunden gibt es Feucht-Pflaster.",
+      "Mittlerweile gibt es auch für kleinere Wunden Feuchtpflaster und -kompressen mit einer gelhaltigen Auflage."
+    ],
+    0.6003974080085754
+  ],
+  [
+    [
+      49,
+      23
+    ],
+    [
+      "Feucht-Pflaster lassen die Wunde schneller heilen.",
+      "Damit sollen Verletzungen rascher abheilen."
+    ],
+    0.519008994102478
+  ],
+  [
+    [
+      50,
+      24
+    ],
+    [
+      "Ein Apotheker kann Sie zu den verschiedenen Pflastersorten beraten.",
+      "Lassen Sie sich in der Apotheke beraten."
+    ],
+    0.520710825920105
+  ],
+  [
+    [
+      51,
+      26
+    ],
+    [
+      "Beobachten Sie die Wunde.",
+      "Im Zweifelsfall fragen Sie Ihren Arzt."
+    ],
+    0.5227968692779541
+  ],
+  [
+    [
+      52,
+      27
+    ],
+    [
+      "Wie entwickelt sich die Wunde?",
+      "Heilt die Wunde gut?"
+    ],
+    0.5416017174720764
+  ],
+  [
+    [
+      53,
+      29
+    ],
+    [
+      "Wird die verletzte Stelle: dick, rot und warm?",
+      "Wird die Stelle zum Beispiel dick, rötet sich die Haut oder fühlt sie sich warm an, kann das auf eine Infektion hindeuten."
+    ],
+    0.5017048716545105
+  ],
+  [
+    [
+      54,
+      29
+    ],
+    [
+      "Dann hat sich die Wunde vielleicht entzündet.",
+      "Wird die Stelle zum Beispiel dick, rötet sich die Haut oder fühlt sie sich warm an, kann das auf eine Infektion hindeuten."
+    ],
+    0.4864768981933594
+  ],
+  [
+    [
+      55,
+      30
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Dann sofort untersuchen lassen!"
+    ],
+    0.2895910441875458
+  ],
+  [
+    [
+      56,
+      31
+    ],
+    [
+      "Der Arzt kann die entzündete Wunde richtig behandeln.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.44227710366249084
+  ],
+  [
+    [
+      57,
+      31
+    ],
+    [
+      "Eine offene Wunde kann Tetanus verursachen.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.3746113181114197
+  ],
+  [
+    [
+      58,
+      31
+    ],
+    [
+      "Tetanus heißt auch: Wundstarr-Krampf.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.32943642139434814
+  ],
+  [
+    [
+      59,
+      31
+    ],
+    [
+      "Durch kleine Verletzungen in der Haut können Erreger in den Körper gelangen.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.4962691068649292
+  ],
+  [
+    [
+      60,
+      31
+    ],
+    [
+      "Dort können die Erreger Krämpfe auslösen.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.4846322536468506
+  ],
+  [
+    [
+      61,
+      31
+    ],
+    [
+      "Diese Krämpfe sind gefährlich.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.501252293586731
+  ],
+  [
+    [
+      62,
+      31
+    ],
+    [
+      "Eine Tetanus-Impfung kann Sie gegen die Erreger schützen.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.4276062846183777
+  ],
+  [
+    [
+      63,
+      31
+    ],
+    [
+      "Sie wissen nicht: Bin ich gegen Tetanus geimpft?",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.3044094443321228
+  ],
+  [
+    [
+      64,
+      31
+    ],
+    [
+      "Dann schauen Sie in Ihren Impfpass.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.19443438947200775
+  ],
+  [
+    [
+      65,
+      31
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.18714702129364014
+  ],
+  [
+    [
+      66,
+      31
+    ],
+    [
+      "Sie sind gestürzt?",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.2777306139469147
+  ],
+  [
+    [
+      67,
+      31
+    ],
+    [
+      "Dann haben Sie vielleicht eine Schürfwunde.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.40913790464401245
+  ],
+  [
+    [
+      68,
+      31
+    ],
+    [
+      "Bei einer Schürfwunde ist nur die oberste Hautschicht verletzt.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.5789626836776733
+  ],
+  [
+    [
+      69,
+      32
+    ],
+    [
+      "Bei Schürfwunden werden viele Nerven-Enden freigelegt.",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.5699609518051147
+  ],
+  [
+    [
+      70,
+      32
+    ],
+    [
+      "Deshalb sind diese Wunden oft schmerzhaft.",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.5645353198051453
+  ],
+  [
+    [
+      71,
+      33
+    ],
+    [
+      "Schürfwunden heilen schnell ab.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.6708531379699707
+  ],
+  [
+    [
+      72,
+      33
+    ],
+    [
+      "Kleine Schürfwunden können Sie selbst versorgen.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.4349430799484253
+  ],
+  [
+    [
+      73,
+      34
+    ],
+    [
+      "In der Schürfwunde ist viel Schmutz?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.5649274587631226
+  ],
+  [
+    [
+      74,
+      34
+    ],
+    [
+      "Dann spülen Sie die Wunde gründlich aus.",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.5820266604423523
+  ],
+  [
+    [
+      75,
+      34
+    ],
+    [
+      "Danach desinfizieren Sie die Wunde.",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.5223982930183411
+  ],
+  [
+    [
+      76,
+      39
+    ],
+    [
+      "Kleben Sie ein Pflaster auf die Wunde.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.4804919362068176
+  ],
+  [
+    [
+      77,
+      39
+    ],
+    [
+      "Die Wunde ist sehr groß?",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.3623178005218506
+  ],
+  [
+    [
+      78,
+      39
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.24137809872627258
+  ],
+  [
+    [
+      79,
+      39
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.3658084571361542
+  ],
+  [
+    [
+      80,
+      39
+    ],
+    [
+      "Sie haben eine kleine Schnittwunde?",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.3975538909435272
+  ],
+  [
+    [
+      81,
+      39
+    ],
+    [
+      "Dann lassen Sie die Wunde kurz bluten.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.4459182024002075
+  ],
+  [
+    [
+      82,
+      39
+    ],
+    [
+      "Das Blut spült Schmutz und Krankheitserreger aus der Wunde.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.6383790373802185
+  ],
+  [
+    [
+      83,
+      39
+    ],
+    [
+      "Dann kleben Sie ein Pflaster auf die Wunde.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.48175713419914246
+  ],
+  [
+    [
+      84,
+      44
+    ],
+    [
+      "Die Schnittwunde ist sehr tief?",
+      "Auch eine Funktionsüberprüfung von Nerven und Sehnen ist bei tiefen Schnittwunden nötig."
+    ],
+    0.4695117175579071
+  ],
+  [
+    [
+      85,
+      45
+    ],
+    [
+      "Oder die Schnittwunde blutet stark?",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.4418669044971466
+  ],
+  [
+    [
+      86,
+      45
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.2173522412776947
+  ],
+  [
+    [
+      87,
+      45
+    ],
+    [
+      "Der Arzt versorgt die Schnittwunde.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.3836763799190521
+  ],
+  [
+    [
+      88,
+      45
+    ],
+    [
+      "Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.36561834812164307
+  ],
+  [
+    [
+      89,
+      45
+    ],
+    [
+      "Typische Stellen für Platzwunden sind: der Kopf das Knie der Ellenbogen Platzwunden können gefährlich sein.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.47044986486434937
+  ],
+  [
+    [
+      90,
+      45
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.6466512680053711
+  ],
+  [
+    [
+      91,
+      45
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.7019408345222473
+  ],
+  [
+    [
+      92,
+      46
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Solche Verletzungen infizieren sich leicht."
+    ],
+    0.4360330402851105
+  ],
+  [
+    [
+      93,
+      46
+    ],
+    [
+      "Platzwunden entzünden sich schnell.",
+      "Solche Verletzungen infizieren sich leicht."
+    ],
+    0.6209341287612915
+  ],
+  [
+    [
+      94,
+      50
+    ],
+    [
+      "Und Platzwunden können sehr stark bluten.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.4779103994369507
+  ],
+  [
+    [
+      95,
+      50
+    ],
+    [
+      "Sie haben eine Platzwunde?",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.3586913049221039
+  ],
+  [
+    [
+      96,
+      50
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.2603501081466675
+  ],
+  [
+    [
+      97,
+      50
+    ],
+    [
+      "Der Arzt versorgt die Wunde.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.38393205404281616
+  ],
+  [
+    [
+      98,
+      50
+    ],
+    [
+      "Stichwunden entstehen zum Beispiel durch:",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.47162100672721863
+  ],
+  [
+    [
+      99,
+      50
+    ],
+    [
+      "Messer Glasscherben",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.4640500247478485
+  ],
+  [
+    [
+      100,
+      50
+    ],
+    [
+      "Nägel",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.32649949193000793
+  ],
+  [
+    [
+      101,
+      50
+    ],
+    [
+      "Stichwunden sind gefährlich.",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.4926398694515228
+  ],
+  [
+    [
+      102,
+      52
+    ],
+    [
+      "Stichwunden sehen manchmal nicht schlimm aus.",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.473461776971817
+  ],
+  [
+    [
+      103,
+      52
+    ],
+    [
+      "Aber Stichwunden können sehr tief sein.",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.51137775182724
+  ],
+  [
+    [
+      104,
+      59
+    ],
+    [
+      "Sie haben eine Stichwunde?",
+      "Deshalb muss eine Bisswunde immer vom Arzt untersucht und professionell gereinigt werden."
+    ],
+    0.36731407046318054
+  ],
+  [
+    [
+      105,
+      62
+    ],
+    [
+      "Dann ziehen Sie den Gegenstand nicht selbst aus der Wunde.",
+      "Die Krankheit kann aber zum Beispiel auch von Fledermäusen übertragen werden."
+    ],
+    0.44407522678375244
+  ],
+  [
+    [
+      106,
+      66
+    ],
+    [
+      "Sie haben sich zum Beispiel an einem Nagel verletzt?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.48603588342666626
+  ],
+  [
+    [
+      107,
+      66
+    ],
+    [
+      "Dann ziehen Sie den Nagel nicht selbst aus der Wunde.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.43184199929237366
+  ],
+  [
+    [
+      108,
+      66
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.6536188125610352
+  ],
+  [
+    [
+      109,
+      66
+    ],
+    [
+      "Oder rufen Sie den Rettungsdienst.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.4262601435184479
+  ],
+  [
+    [
+      110,
+      66
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.4321447014808655
+  ],
+  [
+    [
+      111,
+      66
+    ],
+    [
+      "Ein Tier kratzt oder beißt Sie?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.34362807869911194
+  ],
+  [
+    [
+      112,
+      66
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.6221368908882141
+  ],
+  [
+    [
+      113,
+      66
+    ],
+    [
+      "Bisswunden und Kratzwunden können nämlich gefährlich sein.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.3765856921672821
+  ],
+  [
+    [
+      114,
+      66
+    ],
+    [
+      "Durch Bisse und Kratzer können Krankheitserreger in Ihren Körper gelangen.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.42789098620414734
+  ],
+  [
+    [
+      115,
+      66
+    ],
+    [
+      "Durch Bisswunden und Kratzwunden können Sie zum Beispiel Tetanus bekommen.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.5398240685462952
+  ],
+  [
+    [
+      116,
+      66
+    ],
+    [
+      "Tetanus kann sehr gefährlich sein.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.27872225642204285
+  ],
+  [
+    [
+      117,
+      66
+    ],
+    [
+      "Deshalb ist eine Tetanus-Impfung wichtig.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.2242778241634369
+  ],
+  [
+    [
+      118,
+      66
+    ],
+    [
+      "Schauen Sie in Ihren Impfpass.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.4039607644081116
+  ],
+  [
+    [
+      119,
+      66
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt:",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.48985713720321655
+  ],
+  [
+    [
+      120,
+      66
+    ],
+    [
+      "Bin ich gegen Tetanus geimpft?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.17185842990875244
+  ],
+  [
+    [
+      121,
+      66
+    ],
+    [
+      "Sie haben eine leichte Verbrennung?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.3499757945537567
+  ],
+  [
+    [
+      122,
+      66
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung unter lauwarmem Leitungswasser.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.33036065101623535
+  ],
+  [
+    [
+      123,
+      66
+    ],
+    [
+      "Kühlen Sie die Verbrennung nicht länger als fünf Minuten.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.33246299624443054
+  ],
+  [
+    [
+      124,
+      66
+    ],
+    [
+      "Auf der Verbrennung bilden sich Blasen?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.4271947741508484
+  ],
+  [
+    [
+      125,
+      66
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.5887238383293152
+  ],
+  [
+    [
+      126,
+      66
+    ],
+    [
+      "Sie haben große und starke Verbrennungen?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.37297728657722473
+  ],
+  [
+    [
+      127,
+      67
+    ],
+    [
+      "Dann rufen Sie den Rettungsdienst.",
+      "Sind größere Körperpartien betroffen, sofort den Rettungsdienst unter der Telefonnummer 112 rufen."
+    ],
+    0.44163256883621216
+  ],
+  [
+    [
+      128,
+      67
+    ],
+    [
+      "Die Nummer vom Rettungsdienst ist: 112 .",
+      "Sind größere Körperpartien betroffen, sofort den Rettungsdienst unter der Telefonnummer 112 rufen."
+    ],
+    0.4313080310821533
+  ],
+  [
+    [
+      129,
+      69
+    ],
+    [
+      "Starke Blutungen können sehr gefährlich sein.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.5686125755310059
+  ],
+  [
+    [
+      130,
+      69
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.5922929048538208
+  ],
+  [
+    [
+      131,
+      69
+    ],
+    [
+      "Die Nummer ist:",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.18300719559192657
+  ],
+  [
+    [
+      132,
+      70
+    ],
+    [
+      "112. Dann stoppen Sie die Blutung mit einem Druckverband.",
+      "Stillen Sie die Blutung – wenn möglich – mit einem Druckverband."
+    ],
+    0.6892595887184143
+  ],
+  [
+    [
+      133,
+      71
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.6187706589698792
+  ],
+  [
+    [
+      134,
+      71
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.6158603429794312
+  ],
+  [
+    [
+      135,
+      71
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.5986567139625549
+  ],
+  [
+    [
+      136,
+      71
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.5746141076087952
+  ],
+  [
+    [
+      137,
+      73
+    ],
+    [
+      "Hinweis: Der Verband soll auf die Wunde drücken.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.5876384973526001
+  ],
+  [
+    [
+      138,
+      73
+    ],
+    [
+      "Aber machen Sie den Verband nicht zu fest.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.4178069531917572
+  ],
+  [
+    [
+      139,
+      73
+    ],
+    [
+      "Sie können auch mit der Hand direkt auf den Verband drücken.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.7869288921356201
+  ],
+  [
+    [
+      140,
+      73
+    ],
+    [
+      "So können Sie die Blutung stoppen.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.43239328265190125
+  ],
+  [
+    [
+      141,
+      73
+    ],
+    [
+      "Sie wollen noch mehr über die Versorgung von Wunden lesen?",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.41781899333000183
+  ],
+  [
+    [
+      142,
+      74
+    ],
+    [
+      "Mehr Informationen über die Versorgung von Wunden finden Sie hier .",
+      "Mehr zum Thema lesen Sie im Beitrag Blutungen ."
+    ],
+    0.42032161355018616
+  ],
+  [
+    [
+      143,
+      74
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Mehr zum Thema lesen Sie im Beitrag Blutungen ."
+    ],
+    0.2981211841106415
+  ],
+  [
+    [
+      144,
+      74
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Mehr zum Thema lesen Sie im Beitrag Blutungen ."
+    ],
+    0.287138968706131
+  ]
+]

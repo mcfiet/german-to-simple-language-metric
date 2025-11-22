@@ -1,0 +1,1366 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Wenn Sie 16 Jahre alt werden:",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.4445667862892151
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann müssen Sie einen Personal-Ausweis haben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.1745346486568451
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Das schwere Wort dafür heißt: Personal-Ausweis-Pflicht .",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.0036329308059066534
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Es gibt eine Ausnahme :",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.18876908719539642
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Wenn Sie schon einen Reise-Pass haben, dann müssen Sie keinen Personal-Ausweis haben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.38168588280677795
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Wichtig ist: Sie müssen mindestens 1 Papier haben, mit dem Sie sich ausweisen können.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.27055057883262634
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Also einen Personal-Ausweis oder einen Reise-Pass.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.15743836760520935
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Einen Reise-Pass können Kinder schon ab 12 Jahren bekommen.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.4429735243320465
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Kinder unter 12 Jahren bekommen einen Kinder-Reise-Pass .",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.5264663696289062
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Damit können die Kinder mit ihren Eltern in andere Länder reisen:",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.265095978975296
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "In Länder, die nicht zur Europäischen Union gehören.",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.07915083318948746
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Zum Beispiel: Länder in Afrika, Asien oder Amerika.",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.15882204473018646
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Seit November 2010 gibt es einen neuen Personal-Ausweis .",
+      "Sie können Ihren Personalausweis oder Reisepass in jedem Kundenzentrum in Köln beantragen, unabhängig von Ihrem Wohnort."
+    ],
+    0.8799106478691101
+  ],
+  [
+    [
+      13,
+      4
+    ],
+    [
+      "Auf dieser Seite können Sie mehr dazu lesen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6202982068061829
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Was kann der neue Personal-Ausweis?",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0018320046365261078
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Der neue Personal-Ausweis sieht aus wie eine Plastik-Karte.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.08730433136224747
+  ],
+  [
+    [
+      16,
+      4
+    ],
+    [
+      "Darin ist ein Chip, auf dem Ihre persönlichen Daten gespeichert werden.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.008411606773734093
+  ],
+  [
+    [
+      18,
+      4
+    ],
+    [
+      "Auch Ihre Finger-Abdrücke werden darauf gespeichert.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.009679616428911686
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Mit diesen gespeicherten Daten können Sie sich im Internet ausweisen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.2861872911453247
+  ],
+  [
+    [
+      20,
+      4
+    ],
+    [
+      "Zum Beispiel: Wenn Sie etwas im Internet bestellen wollen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.49484512209892273
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Sie können gerne zu uns kommen, wenn Sie Fragen dazu haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5541496276855469
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Wir sagen Ihnen gerne: Was Sie mit dem neuen Personal-Ausweis alles machen können.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.1720782071352005
+  ],
+  [
+    [
+      23,
+      4
+    ],
+    [
+      "Wie bestelle ich den Personal-Ausweis?",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0019410658860579133
+  ],
+  [
+    [
+      24,
+      4
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen, um den neuen Personal-Ausweis zu bestellen:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0915629044175148
+  ],
+  [
+    [
+      27,
+      4
+    ],
+    [
+      "Wenn Sie noch nicht 16 Jahre alt sind:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4981105625629425
+  ],
+  [
+    [
+      28,
+      4
+    ],
+    [
+      "Dann muss eine erziehungs-berechtigte Person mit Ihnen kommen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.010328872129321098
+  ],
+  [
+    [
+      29,
+      4
+    ],
+    [
+      "Also Jemand, der für Sie die Verantwortung hat.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6100576519966125
+  ],
+  [
+    [
+      31,
+      4
+    ],
+    [
+      "Was brauche ich, um einen Personal-Ausweis zu bestellen?",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0007656853413209319
+  ],
+  [
+    [
+      32,
+      4
+    ],
+    [
+      "Sie brauchen: Ihren alten Personal-Ausweis wenn Sie einen haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.26178571581840515
+  ],
+  [
+    [
+      33,
+      4
+    ],
+    [
+      "Sie müssen Ihren alten Personal-Ausweis noch einmal mitbringen, wenn Sie Ihren neuen Ausweis abholen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.22464199364185333
+  ],
+  [
+    [
+      34,
+      4
+    ],
+    [
+      "Oder Ihren vorläufigen Personal-Ausweis , wenn Sie einen haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.1837490200996399
+  ],
+  [
+    [
+      35,
+      4
+    ],
+    [
+      "Weil Sie Ihren alten Ausweis oder den vorläufigen Ausweis an uns zurück geben müssen, wenn Sie Ihren neuen Ausweis bekommen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.19116979837417603
+  ],
+  [
+    [
+      36,
+      4
+    ],
+    [
+      "Wenn Sie keinen alten Personal-Ausweis haben:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.1908005177974701
+  ],
+  [
+    [
+      37,
+      4
+    ],
+    [
+      "Dann brauchen wir Ihren Reise-Pass .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.017442334443330765
+  ],
+  [
+    [
+      38,
+      4
+    ],
+    [
+      "Oder Ihren Kinder-Reise-Pass , wenn Sie einen haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4471828043460846
+  ],
+  [
+    [
+      39,
+      4
+    ],
+    [
+      "Eine Urkunde oder das Familien-Stammbuch",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.006962114479392767
+  ],
+  [
+    [
+      40,
+      4
+    ],
+    [
+      "Bitte bringen Sie immer Ihr Familien-Stammbuch mit.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6333552002906799
+  ],
+  [
+    [
+      43,
+      4
+    ],
+    [
+      ": Dann brauchen wir Ihre Geburts-Urkunde.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.018698502331972122
+  ],
+  [
+    [
+      44,
+      4
+    ],
+    [
+      "Wenn Sie verheiratet oder geschieden sind: Dann brauchen wir Ihre Ehe-Urkunde.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.45990264415740967
+  ],
+  [
+    [
+      45,
+      4
+    ],
+    [
+      "Wenn Sie in einer Lebens-Partnerschaft leben:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5257738828659058
+  ],
+  [
+    [
+      46,
+      4
+    ],
+    [
+      "Dann brauchen wir Ihre Lebens-Partnerschafts-Urkunde .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.017613312229514122
+  ],
+  [
+    [
+      47,
+      4
+    ],
+    [
+      "Lebens-Partnerschaft heißt: Wenn Sie eine Frau sind und mit einer Frau zusammen leben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.45522674918174744
+  ],
+  [
+    [
+      48,
+      4
+    ],
+    [
+      "Oder wenn Sie ein Mann sind und mit einem Mann zusammen leben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4280313551425934
+  ],
+  [
+    [
+      49,
+      4
+    ],
+    [
+      "Das schwere Wort dafür ist: Gleich-geschlechtliche Partnerschaft .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.008254614658653736
+  ],
+  [
+    [
+      50,
+      4
+    ],
+    [
+      "Wenn Ihre Urkunde im Ausland gemacht wurde:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0012244208483025432
+  ],
+  [
+    [
+      51,
+      4
+    ],
+    [
+      "Dann brauchen Sie eine Übersetzung von einem staatlich anerkannten Übersetzer.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5522897839546204
+  ],
+  [
+    [
+      52,
+      4
+    ],
+    [
+      "Wichtig: Sie müssen uns das Original von der Urkunde und das Original von der Übersetzung zeigen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4810933768749237
+  ],
+  [
+    [
+      55,
+      4
+    ],
+    [
+      "Mit geschlossenem Mund.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.040282830595970154
+  ],
+  [
+    [
+      57,
+      4
+    ],
+    [
+      "Wann kann ich meinen Personal-Ausweis abholen?",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.061147093772888184
+  ],
+  [
+    [
+      58,
+      4
+    ],
+    [
+      "Sie müssen 3 bis 4 Wochen auf den neuen Ausweis warten.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.1425304412841797
+  ],
+  [
+    [
+      59,
+      4
+    ],
+    [
+      "Wenn Sie nicht so lange warten können, dann können wir Ihnen für die Zeit dazwischen einen vorläufigen Personal-Ausweis geben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.1810426563024521
+  ],
+  [
+    [
+      60,
+      4
+    ],
+    [
+      "Den vorläufigen Ausweis bekommen Sie sofort .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.26939457654953003
+  ],
+  [
+    [
+      61,
+      4
+    ],
+    [
+      "Zum Beispiel: Wenn Sie bald ins Ausland reisen .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5103908181190491
+  ],
+  [
+    [
+      62,
+      4
+    ],
+    [
+      "Vorläufig bedeutet: Der Ausweis ist nur so lange gültig, bis Sie Ihren neuen Personal-Ausweis bekommen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.11737572401762009
+  ],
+  [
+    [
+      63,
+      4
+    ],
+    [
+      "Wenn Sie Ihren neuen Personal-Ausweis abholen, müssen Sie den vorläufigen Ausweis wieder abgeben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.2889268398284912
+  ],
+  [
+    [
+      66,
+      4
+    ],
+    [
+      "Dann können Sie den Personal-Ausweis bei uns abholen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.2517510950565338
+  ],
+  [
+    [
+      67,
+      4
+    ],
+    [
+      "Sie bekommen in dieser Zeit einen Brief von der Bundes-Druckerei .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.3181232810020447
+  ],
+  [
+    [
+      68,
+      4
+    ],
+    [
+      "Den Brief müssen Sie zu Hause gut aufheben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6183767914772034
+  ],
+  [
+    [
+      69,
+      4
+    ],
+    [
+      "Darin stehen wichtige Informationen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.01717258058488369
+  ],
+  [
+    [
+      71,
+      4
+    ],
+    [
+      "Die PIN -Nummer ist eine geheime Nummer, die nur Sie kennen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.387688010931015
+  ],
+  [
+    [
+      72,
+      4
+    ],
+    [
+      "Mit dieser Nummer können Sie sich im Internet ausweisen .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.2739019989967346
+  ],
+  [
+    [
+      73,
+      4
+    ],
+    [
+      "Ausweisen bedeutet, dass Sie sagen: Ja, das bin ich!",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.2673591077327728
+  ],
+  [
+    [
+      74,
+      4
+    ],
+    [
+      "Sie müssen mindestens 15 Jahre und 9 Monate alt sein:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.36098966002464294
+  ],
+  [
+    [
+      75,
+      4
+    ],
+    [
+      "Dann bekommen Sie eine PIN -Nummer.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5342869758605957
+  ],
+  [
+    [
+      76,
+      4
+    ],
+    [
+      "Sie dürfen sich aber erst ab 16 Jahren mit dem neuen Ausweis im Internet ausweisen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.08973019570112228
+  ],
+  [
+    [
+      77,
+      4
+    ],
+    [
+      "Sie bekommen auch ein geheimes Kenn-Wort .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.38669922947883606
+  ],
+  [
+    [
+      78,
+      4
+    ],
+    [
+      "Das ist dafür da, wenn Sie Ihren Personal-Ausweis verlieren.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.19215570390224457
+  ],
+  [
+    [
+      80,
+      4
+    ],
+    [
+      "Dort erfahren Sie auch, wann genau Sie Ihren Personal-Ausweis abholen können.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.3919728994369507
+  ],
+  [
+    [
+      81,
+      4
+    ],
+    [
+      "Dazu müssen Sie eine Nummer eingeben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5447353720664978
+  ],
+  [
+    [
+      82,
+      4
+    ],
+    [
+      "Diese Nummer steht auf dem Papier, das Sie von uns beim Anmelden bekommen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.51729416847229
+  ],
+  [
+    [
+      83,
+      4
+    ],
+    [
+      "Diese Nummer ist auch die Nummer von Ihrem neuen Personal-Ausweis.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0018205151427537203
+  ],
+  [
+    [
+      84,
+      4
+    ],
+    [
+      "Und wenn ich den neuen Personal-Ausweis nicht selbst abholen kann?",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.058837223798036575
+  ],
+  [
+    [
+      85,
+      4
+    ],
+    [
+      "Wenn Sie den Personal-Ausweis nicht selbst abholen können:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.24182568490505219
+  ],
+  [
+    [
+      86,
+      4
+    ],
+    [
+      "Dann können Sie jemandem den Auftrag geben:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5923002362251282
+  ],
+  [
+    [
+      87,
+      4
+    ],
+    [
+      "Ihren Ausweis für Sie abzuholen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.25452491641044617
+  ],
+  [
+    [
+      88,
+      4
+    ],
+    [
+      "Dazu füllen Sie ein Formular aus.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6262293457984924
+  ],
+  [
+    [
+      89,
+      4
+    ],
+    [
+      "Darauf steht der Name von der Person, die Ihren Ausweis abholt.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.07351453602313995
+  ],
+  [
+    [
+      90,
+      4
+    ],
+    [
+      "Dieses Formular heißt Vollmacht .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0024492372758686543
+  ],
+  [
+    [
+      91,
+      4
+    ],
+    [
+      "Sie können die Vollmacht direkt im Internet ausfüllen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.31695762276649475
+  ],
+  [
+    [
+      92,
+      4
+    ],
+    [
+      "Das Formular ist nicht in Leichter Sprache.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0006204903475008905
+  ],
+  [
+    [
+      93,
+      4
+    ],
+    [
+      "In dieser Vollmacht müssen Sie auch sagen:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6246475577354431
+  ],
+  [
+    [
+      94,
+      4
+    ],
+    [
+      "Ich habe den Brief von der Bundes-Druckerei erhalten.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.01039247214794159
+  ],
+  [
+    [
+      96,
+      4
+    ],
+    [
+      "Wenn Sie beim Ausfüllen Hilfe brauchen oder etwas nicht verstehen:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5136581063270569
+  ],
+  [
+    [
+      97,
+      4
+    ],
+    [
+      "Dann fragen Sie bitte Jemanden.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.664516031742096
+  ],
+  [
+    [
+      98,
+      4
+    ],
+    [
+      "Drucken Sie dann das Formular aus.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6101083159446716
+  ],
+  [
+    [
+      99,
+      4
+    ],
+    [
+      "Wichtig: Sie müssen das Formular unterschreiben!",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5651882290840149
+  ],
+  [
+    [
+      102,
+      4
+    ],
+    [
+      "Ausnahme: Wenn Sie noch nicht 24 Jahre alt sind:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.48293691873550415
+  ],
+  [
+    [
+      103,
+      4
+    ],
+    [
+      "Dann ist Ihr Personal-Ausweis nur 6 Jahre gültig.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.0019526073010638356
+  ],
+  [
+    [
+      104,
+      4
+    ],
+    [
+      "Wenn Sie noch einen alten Personal-Ausweis haben, der noch gültig ist:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.18812108039855957
+  ],
+  [
+    [
+      105,
+      4
+    ],
+    [
+      "Dann bleibt dieser bis zu dem Ablauf-Datum gültig .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.011104744859039783
+  ],
+  [
+    [
+      106,
+      4
+    ],
+    [
+      "Das Ablauf-Datum steht auf dem alten Personal-Ausweis.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.002043232088908553
+  ],
+  [
+    [
+      107,
+      4
+    ],
+    [
+      "Was mache ich, wenn ich den Personal-Ausweis verloren habe oder jemand ihn gestohlen hat?",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.008072979748249054
+  ],
+  [
+    [
+      108,
+      4
+    ],
+    [
+      "Wenn Sie Ihren alten Ausweis verloren haben:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.26096105575561523
+  ],
+  [
+    [
+      109,
+      4
+    ],
+    [
+      "Dann brauchen Sie eine Verlust-Anzeige .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6016087532043457
+  ],
+  [
+    [
+      110,
+      4
+    ],
+    [
+      "Das bedeutet: Sie müssen zur Polizei gehen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.5987812280654907
+  ],
+  [
+    [
+      111,
+      4
+    ],
+    [
+      "Dort müssen Sie sagen, dass Sie Ihren Ausweis verloren haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.453464537858963
+  ],
+  [
+    [
+      112,
+      4
+    ],
+    [
+      "Wenn Sie den neuen Personal-Ausweis verloren haben:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.1871580332517624
+  ],
+  [
+    [
+      113,
+      4
+    ],
+    [
+      "Dann müssen Sie ihn sperren lassen .",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6243904232978821
+  ],
+  [
+    [
+      114,
+      4
+    ],
+    [
+      "Dazu können Sie zur Melde-Behörde kommen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6236906051635742
+  ],
+  [
+    [
+      115,
+      4
+    ],
+    [
+      "Oder Sie rufen beim Sperr-Notruf an:",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6485350728034973
+  ],
+  [
+    [
+      116,
+      4
+    ],
+    [
+      "Telefon: 116 116 Wenn jemand Ihren Personal-Ausweis gestohlen hat: Dann müssen Sie auch zur Polizei gehen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.20750807225704193
+  ],
+  [
+    [
+      117,
+      4
+    ],
+    [
+      "Dort müssen Sie sagen, dass jemand Ihren Ausweis gestohlen hat.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.2887096107006073
+  ],
+  [
+    [
+      118,
+      4
+    ],
+    [
+      "Dafür bekommen Sie eine Bescheinigung.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6170098185539246
+  ],
+  [
+    [
+      119,
+      4
+    ],
+    [
+      "Bringen Sie diese Bescheinigung dann mit zu uns.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.6238113641738892
+  ],
+  [
+    [
+      120,
+      4
+    ],
+    [
+      "Bringen Sie diese Dokumente bitte auch mit: Wenn Sie den neuen Personal-Ausweis bestellen möchten.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.3485374450683594
+  ],
+  [
+    [
+      122,
+      4
+    ],
+    [
+      "22,80 Euro: wenn Sie noch nicht 24 Jahre alt sind.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.47340714931488037
+  ],
+  [
+    [
+      123,
+      4
+    ],
+    [
+      "37 Euro: wenn Sie über 24 Jahre alt sind.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4849165081977844
+  ],
+  [
+    [
+      126,
+      4
+    ],
+    [
+      "für das Freischalten im Internet, wenn Sie 16 Jahre alt werden.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4588697850704193
+  ],
+  [
+    [
+      127,
+      4
+    ],
+    [
+      "6 Euro: für das Ändern von der PIN -Nummer.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.004977353848516941
+  ],
+  [
+    [
+      128,
+      4
+    ],
+    [
+      "Zum Beispiel: wenn Sie die alte PIN -Nummer vergessen haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4598461091518402
+  ],
+  [
+    [
+      129,
+      4
+    ],
+    [
+      "6 Euro: damit Sie die Möglichkeit zum Ausweisen im Internet wieder nutzen können.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.24965666234493256
+  ],
+  [
+    [
+      130,
+      4
+    ],
+    [
+      "Zum Beispiel: wenn Sie ihren Personal-Ausweis verloren haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.19232632219791412
+  ],
+  [
+    [
+      131,
+      4
+    ],
+    [
+      "Und ihn gesperrt haben.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.05484664440155029
+  ],
+  [
+    [
+      132,
+      4
+    ],
+    [
+      "1,50 Euro: wenn Sie eine Verlust-Anzeige machen müssen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.4915117621421814
+  ],
+  [
+    [
+      134,
+      4
+    ],
+    [
+      "Wenn Sie Ihre Daten bei einem Umzug ändern müssen.",
+      "Beachten Sie bitte, dass Sie ihn dann auch dort abholen müssen, wo Sie ihn beantragt haben."
+    ],
+    0.517144501209259
+  ],
+  [
+    [
+      135,
+      33
+    ],
+    [
+      "Wenn Sie die Möglichkeit zum Ausweisen im Internet sperren müssen.",
+      "Diese zahlen Sie bitte mit den Gebühren für die Ausweisdokumente bei der Sachbearbeitung."
+    ],
+    0.804979145526886
+  ],
+  [
+    [
+      136,
+      47
+    ],
+    [
+      "Den Personal-Ausweis können Sie mit Bar-Geld bezahlen.",
+      "Sollten Sie kurzfristig einen Personalausweis benötigen, kann Ihnen ein vorläufiger Personalausweis ausgestellt werden."
+    ],
+    0.9422709941864014
+  ],
+  [
+    [
+      137,
+      67
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Bei Bedarf können Sie dort auch eine Einverständniserklärung des zweiten Elternteils herunterladen."
+    ],
+    0.5004063248634338
+  ],
+  [
+    [
+      138,
+      79
+    ],
+    [
+      "Sie können auch mit Ihrer EC -Karte bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.4486777186393738
+  ],
+  [
+    [
+      139,
+      79
+    ],
+    [
+      "Eine EC -Karte ist eine Karte aus Plastik.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.1306568682193756
+  ],
+  [
+    [
+      140,
+      93
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.5719520449638367
+  ],
+  [
+    [
+      141,
+      93
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.3791182339191437
+  ],
+  [
+    [
+      143,
+      93
+    ],
+    [
+      "Weitere Informationen *",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.257315993309021
+  ],
+  [
+    [
+      144,
+      154
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013",
+      "Die Gebühren können Sie bar oder mit der Girocard ( EC -Karte) und PIN-Nummer bezahlen."
+    ],
+    0.32117608189582825
+  ]
+]

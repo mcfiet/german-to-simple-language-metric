@@ -1,0 +1,959 @@
+[
+  [
+    [
+      0,
+      6
+    ],
+    [
+      "Schmerzmittel sind Medikamente.",
+      "Keinen Schmerz spüren!"
+    ],
+    0.19272394478321075
+  ],
+  [
+    [
+      1,
+      6
+    ],
+    [
+      "Sie helfen bei verschiedenen Schmerzen wie zum Beispiel:",
+      "Keinen Schmerz spüren!"
+    ],
+    0.1484813541173935
+  ],
+  [
+    [
+      2,
+      6
+    ],
+    [
+      "Kopfschmerzen Erkältung",
+      "Keinen Schmerz spüren!"
+    ],
+    0.344984233379364
+  ],
+  [
+    [
+      3,
+      6
+    ],
+    [
+      "Fieber",
+      "Keinen Schmerz spüren!"
+    ],
+    0.26086580753326416
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Manche Schmerzmittel können Sie ohne Rezept in der Apotheke kaufen.",
+      "Vermutlich schon immer setzten Menschen Substanzen ein, um ihre Beschwerden zu lindern."
+    ],
+    0.15512172877788544
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Solche Schmerzmittel sind zum Beispiel:",
+      "Vermutlich schon immer setzten Menschen Substanzen ein, um ihre Beschwerden zu lindern."
+    ],
+    0.18570542335510254
+  ],
+  [
+    [
+      6,
+      25
+    ],
+    [
+      "Paracetamol Acetylsalicylsäure Ibuprofen Diclofenac",
+      "Er rät bei leichtem Schmerz zu Substanzen wie ­etwa Acetylsalicylsäure , Ibuprofen , Diclofenac und Paracetamol ."
+    ],
+    0.34061381220817566
+  ],
+  [
+    [
+      7,
+      64
+    ],
+    [
+      "Jedes dieser Schmerzmittel hat andere Inhaltsstoffe.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.23426766693592072
+  ],
+  [
+    [
+      8,
+      64
+    ],
+    [
+      "Deshalb wirkt jedes von diesen Schmerzmitteln anders.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.25002655386924744
+  ],
+  [
+    [
+      9,
+      64
+    ],
+    [
+      "Eine Verletzung kann Gewebe im Körper beschädigen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.20721220970153809
+  ],
+  [
+    [
+      10,
+      64
+    ],
+    [
+      "Auch eine Entzündung kann Gewebe im Körper beschädigen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.24327608942985535
+  ],
+  [
+    [
+      11,
+      64
+    ],
+    [
+      "Dann entstehen Botenstoffe.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.23110724985599518
+  ],
+  [
+    [
+      12,
+      64
+    ],
+    [
+      "Die Botenstoffe heißen: Prostaglandine.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.1641903519630432
+  ],
+  [
+    [
+      13,
+      64
+    ],
+    [
+      "Sie leiten den Schmerz an das Gehirn weiter und wir empfinden den Schmerz.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.23260635137557983
+  ],
+  [
+    [
+      14,
+      64
+    ],
+    [
+      "Schmerzmittel hemmen die Herstellung dieser Botenstoffe.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.32842540740966797
+  ],
+  [
+    [
+      15,
+      64
+    ],
+    [
+      "So wird der Schmerz für eine bestimmte Zeit nicht an das Gehirn weitergeleitet.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2450077384710312
+  ],
+  [
+    [
+      16,
+      64
+    ],
+    [
+      "Die Botenstoffe sind aber auch wichtig für andere Körperfunktionen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.28198105096817017
+  ],
+  [
+    [
+      17,
+      64
+    ],
+    [
+      "Deshalb können Schmerzmittel Nebenwirkungen haben.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.30525732040405273
+  ],
+  [
+    [
+      18,
+      64
+    ],
+    [
+      "Zu A cetyl s alicyl s äure sagt man auch:",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.01863565295934677
+  ],
+  [
+    [
+      19,
+      64
+    ],
+    [
+      "ASS.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.030761005356907845
+  ],
+  [
+    [
+      22,
+      64
+    ],
+    [
+      "Durch das Medikament hören die Schmerzen auf.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.23326121270656586
+  ],
+  [
+    [
+      23,
+      64
+    ],
+    [
+      "ASS hilft aber auch bei Erkältungsbeschwerden.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.24241717159748077
+  ],
+  [
+    [
+      24,
+      64
+    ],
+    [
+      "ASS senkt nämlich das Fieber und es lindert die Entzündung im Körper.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.232974573969841
+  ],
+  [
+    [
+      25,
+      64
+    ],
+    [
+      "Bei Zahnschmerzen sollte ASS jedoch nicht genommen werden.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2667252719402313
+  ],
+  [
+    [
+      26,
+      64
+    ],
+    [
+      "Und Frauen sollten bei Regelschmerzen nicht ASS nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2370210736989975
+  ],
+  [
+    [
+      27,
+      64
+    ],
+    [
+      "Durch ASS gerinnt nämlich das Blut nicht mehr so gut.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2328060269355774
+  ],
+  [
+    [
+      28,
+      64
+    ],
+    [
+      "ASS beeinflusst die Blutgerinnung sehr lange.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.26784437894821167
+  ],
+  [
+    [
+      29,
+      64
+    ],
+    [
+      "Hinweis: Sie sind schwanger?",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.16116827726364136
+  ],
+  [
+    [
+      30,
+      64
+    ],
+    [
+      "Dann sprechen Sie erst mit Ihrem Arzt, bevor Sie ASS nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.15608297288417816
+  ],
+  [
+    [
+      31,
+      64
+    ],
+    [
+      "Kinder und Jugendliche dürfen kein ASS nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.18919424712657928
+  ],
+  [
+    [
+      32,
+      64
+    ],
+    [
+      "ASS kann bei diesen nämlich das Reye-Syndrom auslösen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.19932548701763153
+  ],
+  [
+    [
+      33,
+      64
+    ],
+    [
+      "Das Reye-Syndrom ist eine Erkrankung.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.1325317770242691
+  ],
+  [
+    [
+      34,
+      64
+    ],
+    [
+      "Das Reye-Syndrom kann das Gehirn und die Leber schädigen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.215908944606781
+  ],
+  [
+    [
+      35,
+      64
+    ],
+    [
+      "Das Reye-Syndrom ist sehr selten.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.12515795230865479
+  ],
+  [
+    [
+      36,
+      64
+    ],
+    [
+      "Aber das Reye-Syndrom ist sehr gefährlich.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.1856958419084549
+  ],
+  [
+    [
+      37,
+      64
+    ],
+    [
+      "Deshalb sollten Kinder und Jugendliche kein ASS nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.22601200640201569
+  ],
+  [
+    [
+      38,
+      64
+    ],
+    [
+      "Ibuprofen ist auch ein Schmerzmittel.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.191542848944664
+  ],
+  [
+    [
+      39,
+      64
+    ],
+    [
+      "Ibuprofen hilft besonders bei: rheumatoider Arthritis akuter Mittelohrentzündung",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.20246702432632446
+  ],
+  [
+    [
+      40,
+      64
+    ],
+    [
+      "Mandelentzündung Kopfschmerzen",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.29935064911842346
+  ],
+  [
+    [
+      42,
+      64
+    ],
+    [
+      "Ibuprofen beeinflusst die Blutgerinnung weniger als ASS.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2535820007324219
+  ],
+  [
+    [
+      44,
+      64
+    ],
+    [
+      "Deshalb hilft Ibuprofen besser bei Entzündungsschmerzen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.15194079279899597
+  ],
+  [
+    [
+      45,
+      64
+    ],
+    [
+      "Auch Kinder dürfen Ibuprofen bekommen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.20125608146190643
+  ],
+  [
+    [
+      46,
+      64
+    ],
+    [
+      "Achten Sie aber unbedingt auf die richtige Menge .",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.26314347982406616
+  ],
+  [
+    [
+      47,
+      64
+    ],
+    [
+      "Ihr Apotheker sagt Ihnen:",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.07603153586387634
+  ],
+  [
+    [
+      48,
+      64
+    ],
+    [
+      "So wird Ibuprofen bei Kindern richtig angewendet.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.20583470165729523
+  ],
+  [
+    [
+      49,
+      64
+    ],
+    [
+      "Schwangere Frauen sollten erst mit ihrem Arzt sprechen, bevor sie Ibuprofen nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.21668875217437744
+  ],
+  [
+    [
+      50,
+      64
+    ],
+    [
+      "In den ersten Monaten der Schwangerschaft ist Ibuprofen ungefährlich.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.18427279591560364
+  ],
+  [
+    [
+      51,
+      64
+    ],
+    [
+      "Aber ab der 28. Schwangerschaftswoche sollten Schwangere kein Ibuprofen mehr nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.17522940039634705
+  ],
+  [
+    [
+      52,
+      64
+    ],
+    [
+      "Diclofenac ist ein Schmerzmittel.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.1419462114572525
+  ],
+  [
+    [
+      53,
+      64
+    ],
+    [
+      "Es wirkt so ähnlich wie Ibuprofen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.22125984728336334
+  ],
+  [
+    [
+      54,
+      64
+    ],
+    [
+      "Aber manche Menschen vertragen Ibuprofen nicht.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3243926465511322
+  ],
+  [
+    [
+      55,
+      64
+    ],
+    [
+      "Sie vertragen Diclofenac vielleicht besser.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2553236484527588
+  ],
+  [
+    [
+      56,
+      64
+    ],
+    [
+      "Diclofenac hat nämlich andere Inhaltsstoffe als Ibuprofen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.22541667520999908
+  ],
+  [
+    [
+      57,
+      64
+    ],
+    [
+      "Diclofenac hilft auch gegen Schmerzen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.24603986740112305
+  ],
+  [
+    [
+      58,
+      64
+    ],
+    [
+      "Diclofenac hilft zum Beispiel bei:",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.11959017068147659
+  ],
+  [
+    [
+      59,
+      64
+    ],
+    [
+      "Gelenkschmerzen rheumatischen Beschwerden Rückenschmerzen",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3746941387653351
+  ],
+  [
+    [
+      60,
+      64
+    ],
+    [
+      "Prellungen Zerrungen Verstauchungen",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3898161053657532
+  ],
+  [
+    [
+      61,
+      64
+    ],
+    [
+      "Hinweis: Diclofenac gibt es auch als Salbe.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.19923527538776398
+  ],
+  [
+    [
+      62,
+      64
+    ],
+    [
+      "Aber nicht alle Menschen vertragen die Salbe auf der Haut.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3012309968471527
+  ],
+  [
+    [
+      63,
+      64
+    ],
+    [
+      "Sprechen Sie deshalb mit einem Arzt, bevor Sie Diclofenac nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.1950288563966751
+  ],
+  [
+    [
+      64,
+      64
+    ],
+    [
+      "Paracetamol ist ein Schmerzmittel.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.1579677313566208
+  ],
+  [
+    [
+      65,
+      64
+    ],
+    [
+      "Paracetamol hilft vor allem bei Schmerzen",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.20878168940544128
+  ],
+  [
+    [
+      66,
+      64
+    ],
+    [
+      "wie: Zahnschmerzen Regelschmerzen Kopfschmerzen",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3171343505382538
+  ],
+  [
+    [
+      67,
+      64
+    ],
+    [
+      "Paracetamol senkt außerdem Fieber.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.19790776073932648
+  ],
+  [
+    [
+      68,
+      64
+    ],
+    [
+      "Deshalb hilft es auch bei einer Grippe.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.24212557077407837
+  ],
+  [
+    [
+      69,
+      64
+    ],
+    [
+      "Paracetamol beeinflusst die Blutgerinnung nicht.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3543963134288788
+  ],
+  [
+    [
+      70,
+      64
+    ],
+    [
+      "Und Paracetamol schädigt die Magenschleimhaut nicht.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.3079529106616974
+  ],
+  [
+    [
+      71,
+      64
+    ],
+    [
+      "Schwangere Frauen dürfen Paracetamol nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.19813217222690582
+  ],
+  [
+    [
+      72,
+      64
+    ],
+    [
+      "Und auch Kinder dürfen Paracetamol nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.23819774389266968
+  ],
+  [
+    [
+      73,
+      64
+    ],
+    [
+      "Sprechen Sie trotzdem erst mit einem Arzt, bevor Sie oder ein Kind das Schmerzmittel nehmen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.18918798863887787
+  ],
+  [
+    [
+      74,
+      64
+    ],
+    [
+      "Achtung!",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.21392188966274261
+  ],
+  [
+    [
+      75,
+      64
+    ],
+    [
+      "Zu viel Paracetamol kann die Leber schädigen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.23473966121673584
+  ],
+  [
+    [
+      76,
+      64
+    ],
+    [
+      "Es kann sogar zu Leberversagen kommen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.26137974858283997
+  ],
+  [
+    [
+      77,
+      64
+    ],
+    [
+      "Leberversagen ist sehr gefährlich.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.25965791940689087
+  ],
+  [
+    [
+      78,
+      64
+    ],
+    [
+      "Achten Sie deshalb immer auf die richtige Menge von Paracetamol .",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2484118938446045
+  ],
+  [
+    [
+      79,
+      64
+    ],
+    [
+      "Schmerzmittel können Nebenwirkungen verursachen.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.34779828786849976
+  ],
+  [
+    [
+      80,
+      64
+    ],
+    [
+      "Nebenwirkungen können manchmal auch gefährlich sein.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.34753909707069397
+  ],
+  [
+    [
+      81,
+      64
+    ],
+    [
+      "Deshalb sollten Schmerzmittel sehr umsichtig verwendet werden:",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2915559709072113
+  ],
+  [
+    [
+      82,
+      64
+    ],
+    [
+      "Informieren Sie sich erst über die verschiedenen Schmerzmittel.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2828213572502136
+  ],
+  [
+    [
+      83,
+      64
+    ],
+    [
+      "Gehen Sie dann verantwortungsvoll mit dem jeweiligen Medikament um.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2053598016500473
+  ],
+  [
+    [
+      84,
+      64
+    ],
+    [
+      "Verwenden Sie das Schmerzmittel nur in der richtigen Menge.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.2324642539024353
+  ],
+  [
+    [
+      85,
+      64
+    ],
+    [
+      "Nehmen Sie das Schmerzmittel so wenig wie nötig.",
+      "Denn sie beseitigen nicht die Ursachen der Beschwerden."
+    ],
+    0.22782756388187408
+  ],
+  [
+    [
+      86,
+      72
+    ],
+    [
+      "Gehen Sie zum Arzt, wenn Ihre Schmerzen mehrere Tage dauern.",
+      "Schmerzfreie Menschen brauchen all das nicht."
+    ],
+    0.1834912896156311
+  ],
+  [
+    [
+      87,
+      73
+    ],
+    [
+      "Sie wollen noch mehr über Schmerzmittel lesen?",
+      "Doch leben sie wirklich besser?"
+    ],
+    0.2802676856517792
+  ],
+  [
+    [
+      88,
+      77
+    ],
+    [
+      "Mehr Informationen über Schmerzmittel finden Sie hier .",
+      "Betroffene verbrennen sich an heißen Herdplatten, erleiden Knochenbrüche, ohne es sofort zu bemerken."
+    ],
+    0.1493244618177414
+  ],
+  [
+    [
+      89,
+      80
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Weitgehend schmerzlos sind auch nur wenige Menschen."
+    ],
+    0.08762157708406448
+  ],
+  [
+    [
+      90,
+      80
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Weitgehend schmerzlos sind auch nur wenige Menschen."
+    ],
+    0.23535248637199402
+  ]
+]

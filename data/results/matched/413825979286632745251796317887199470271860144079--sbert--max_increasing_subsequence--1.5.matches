@@ -1,0 +1,431 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einer Verbrennung ist die Haut verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7245028614997864
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Verbrennung entsteht durch sehr große Hitze.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7083206176757812
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Ursachen einer Verbrennung sind zum Beispiel: ein offenes Feuer Strom",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.6472094058990479
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Wie schlimm eine Verbrennung ist, entscheiden zwei Punkte: 1. Wie hoch war die Temperatur?",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7085086703300476
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Bei einer Verbrennung verletzt große Hitze die Haut.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.773685872554779
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Bei einer Verbrennung ist eine schnelle Erste Hilfe wichtig.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7575435638427734
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Eine Person brennt?",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7044351100921631
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Werfen Sie zum Beispiel eine Branddecke über die brennende Person.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.8286696672439575
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Oder löschen Sie den Brand mit Wasser.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.8043107986450195
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Entfernen Sie dann die Kleidung und den Schmuck von der Person.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.6585965752601624
+  ],
+  [
+    [
+      26,
+      3
+    ],
+    [
+      "Die Kleidung und der Schmuck sind nämlich noch lange heiß.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.6105419397354126
+  ],
+  [
+    [
+      27,
+      5
+    ],
+    [
+      "Achtung: Sie können die Kleidung nicht entfernen?",
+      "Auf keinen Fall Kleidung abreißen!"
+    ],
+    0.8562169671058655
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "Dann reißen Sie die Kleidung auf keinen Fall von der Haut ab.",
+      "Auf keinen Fall Kleidung abreißen!"
+    ],
+    0.844152569770813
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Dann kühlen Sie die betroffene Stelle vorsichtig mit lauwarmem Leitungswasser.",
+      "Bei kleinflächigen Verbrennungen: Klagt der Patient über Schmerzen, betroffene Region vorsichtig mit Leitungswasser (circa 20 Grad Celsius) für maximal fünf Minuten kühlen."
+    ],
+    0.7111696600914001
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Kühlen Sie die betroffene Stelle nicht länger als fünf Minuten.",
+      "Bei kleinflächigen Verbrennungen: Klagt der Patient über Schmerzen, betroffene Region vorsichtig mit Leitungswasser (circa 20 Grad Celsius) für maximal fünf Minuten kühlen."
+    ],
+    0.7314141988754272
+  ],
+  [
+    [
+      32,
+      6
+    ],
+    [
+      "Sie kühlen die Verbrennung länger als fünf Minuten?",
+      "Bei kleinflächigen Verbrennungen: Klagt der Patient über Schmerzen, betroffene Region vorsichtig mit Leitungswasser (circa 20 Grad Celsius) für maximal fünf Minuten kühlen."
+    ],
+    0.704908549785614
+  ],
+  [
+    [
+      33,
+      7
+    ],
+    [
+      "Dann kann die verletzte Person eine Unterkühlung bekommen.",
+      "Dies hilft bei der Schmerzbekämpfung bis zum Eintreffen des Rettungsdienstes."
+    ],
+    0.7107693552970886
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Kühlen ist nur bei kleinen Verbrennungen hilfreich.",
+      "Es ist kein Spezialverband nötig, das lockere Anlegen eines beschichteten Brandwundenverbandtuchs ist ausreichend."
+    ],
+    0.6989163160324097
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Kleine Verbrennung bedeutet: Die Fläche ist höchstens so groß wie die Handfläche.",
+      "Verbrennungsareal ist circa vier Handflächen (inklusive der Finger) groß bedeutet, dass circa vier Prozent der Körperoberfläche verbrannt sind."
+    ],
+    0.7871907353401184
+  ],
+  [
+    [
+      37,
+      15
+    ],
+    [
+      "Die Verbrennung ist sehr groß?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.7542033195495605
+  ],
+  [
+    [
+      42,
+      15
+    ],
+    [
+      "Dann dürfen Sie die Verbrennung kühlen.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.6985199451446533
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Die Verbrennung ist an einer anderen Köperstelle?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.7632901668548584
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Dann dürfen Sie die Verbrennung nicht kühlen.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.6972696781158447
+  ],
+  [
+    [
+      48,
+      15
+    ],
+    [
+      "Dann kühlen Sie die verbrannten Stellen nicht .",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.6635966300964355
+  ],
+  [
+    [
+      56,
+      15
+    ],
+    [
+      "Die Verbrennung ist sehr groß.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.7542033195495605
+  ],
+  [
+    [
+      57,
+      15
+    ],
+    [
+      "Die Fläche der Verbrennung ist größer als die Handfläche.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.6997822523117065
+  ],
+  [
+    [
+      58,
+      15
+    ],
+    [
+      "Die Verbrennung ist sehr tief.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.7976541519165039
+  ],
+  [
+    [
+      72,
+      15
+    ],
+    [
+      "In bestimmten Situationen kann es schnell zu Verbrennungen kommen.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.7288044691085815
+  ],
+  [
+    [
+      73,
+      17
+    ],
+    [
+      "Sie möchten eine Verbrennung vermeiden?",
+      "Vorbeugen: Beim Grillen keine Brandbeschleuniger verwenden!"
+    ],
+    0.7710764408111572
+  ],
+  [
+    [
+      75,
+      17
+    ],
+    [
+      "Benutzen Sie beim Grillen keine Brandbeschleuniger.",
+      "Vorbeugen: Beim Grillen keine Brandbeschleuniger verwenden!"
+    ],
+    0.9719855785369873
+  ],
+  [
+    [
+      76,
+      18
+    ],
+    [
+      "Gehen Sie vorsichtig mit Feuer um.",
+      "Besonnen mit Feuer umgehen!"
+    ],
+    0.8467622399330139
+  ],
+  [
+    [
+      77,
+      20
+    ],
+    [
+      "Füllen Sie kein kochendes Wasser in Wärmflaschen.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.9764927625656128
+  ],
+  [
+    [
+      78,
+      20
+    ],
+    [
+      "Heißes Wasser reicht aus.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.7098276615142822
+  ],
+  [
+    [
+      82,
+      21
+    ],
+    [
+      "Stellen Sie den Wasserkocher weit entfernt von Kindern auf.",
+      "Wasserkocher und deren Kabel immer außer Reichweite von Kindern stellen."
+    ],
+    0.8139459490776062
+  ],
+  [
+    [
+      83,
+      21
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Wasserkochers nicht erreichen.",
+      "Wasserkocher und deren Kabel immer außer Reichweite von Kindern stellen."
+    ],
+    0.9143726825714111
+  ],
+  [
+    [
+      85,
+      22
+    ],
+    [
+      "Sie heiße Getränke nicht in die Nähe von Kindern.",
+      "Heiße Getränke außer Reichweite von Kindern abstellen, Tischdecken vermeiden, sie verleiten dazu, daran zu ziehen."
+    ],
+    0.9169455766677856
+  ],
+  [
+    [
+      86,
+      22
+    ],
+    [
+      "Vermeiden Sie Tischdecken.",
+      "Heiße Getränke außer Reichweite von Kindern abstellen, Tischdecken vermeiden, sie verleiten dazu, daran zu ziehen."
+    ],
+    0.6656891107559204
+  ],
+  [
+    [
+      89,
+      23
+    ],
+    [
+      "Bügeleisen nicht in die Nähe von Kindern.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.7716051340103149
+  ],
+  [
+    [
+      90,
+      23
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Bügeleisens nicht erreichen.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.8623704314231873
+  ]
+]

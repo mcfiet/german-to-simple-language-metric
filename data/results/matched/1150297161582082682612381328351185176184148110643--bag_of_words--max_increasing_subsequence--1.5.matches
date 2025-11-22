@@ -1,0 +1,442 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das heißt: Sie müssen Ihr Fahrzeug vorher beim Amt anmelden .",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.6747688055038452
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Dann dürfen Sie mit dem Fahrzeug auf der Straße fahren.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.6939356923103333
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Wenn Sie mit einem nicht zugelassenen Fahrzeug auf der Straße fahren wollen, dann brauchen Sie ein Kurz-Zeit-Kennzeichen.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.44979023933410645
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Oder wenn Sie ein Fahrzeug an einen anderen Ort bringen wollen.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.7466409206390381
+  ],
+  [
+    [
+      22,
+      0
+    ],
+    [
+      "Sie bekommen die Zulassungs-Bescheinigung Teil 1 , wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden .",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.588229775428772
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Oder Ihre Zulassungs-Bescheinigungen Teil 1 .",
+      "Benötigt werden Zulassungsbescheinigung Teil I oder Fahrzeugschein"
+    ],
+    0.4813286066055298
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Nachweis über die Haupt-Untersuchung (TÜV)",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.34237807989120483
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Also den Bericht über die Haupt-Untersuchung .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.6082010269165039
+  ],
+  [
+    [
+      42,
+      7
+    ],
+    [
+      "Zum Beispiel: Wenn Sie nicht aus Köln kommen.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.583827793598175
+  ],
+  [
+    [
+      46,
+      7
+    ],
+    [
+      "Wenn Ihr Haupt-Wohnsitz in Köln ist.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.6684180498123169
+  ],
+  [
+    [
+      47,
+      7
+    ],
+    [
+      "Oder wenn Ihr Firmen-Sitz in Köln ist.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.6422680616378784
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Was ist, wenn ich nicht aus Köln komme?",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.6494867205619812
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Wenn Ihr Haupt-Wohnsitz nicht in Köln ist oder wenn Ihr Firmen-Sitz nicht in Köln ist, dann müssen Sie einen weiteren Nachweis zeigen.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.6386947631835938
+  ],
+  [
+    [
+      53,
+      11
+    ],
+    [
+      "Nur so bekommen Sie ein Kurz-Zeit-Kennzeichen in Köln.",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.7959455251693726
+  ],
+  [
+    [
+      55,
+      11
+    ],
+    [
+      "Wenn Ihr Fahrzeug TÜV hat, dürfen Sie mit dem Kurz-Zeit-Kennzeichen auf der Straße fahren.",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.6752525568008423
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Wenn Ihr Fahrzeug keinen TÜV hat, dann dürfen Sie das Kurz-Zeit-Kennzeichen nur benutzen, um zum TÜV zu fahren .",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.63188236951828
+  ],
+  [
+    [
+      60,
+      11
+    ],
+    [
+      "Wo gilt das Kurz-Zeit-Kennzeichen?",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.9035043716430664
+  ],
+  [
+    [
+      61,
+      11
+    ],
+    [
+      "Das Kurz-Zeit-Kennzeichen gilt in ganz Deutschland.",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.8983748555183411
+  ],
+  [
+    [
+      62,
+      11
+    ],
+    [
+      "Aber das Kurz-Zeit-Kennzeichen gilt manchmal nicht in anderen Ländern .",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.9028929471969604
+  ],
+  [
+    [
+      63,
+      11
+    ],
+    [
+      "Wichtig: Bitte fragen Sie vorher, ob das Kurz-Zeit-Kennzeichen im Ausland gilt.",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.8391202092170715
+  ],
+  [
+    [
+      65,
+      11
+    ],
+    [
+      "Kurz-Zeit-Kennzeichen für Firmen-Fahrzeuge",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.8727020621299744
+  ],
+  [
+    [
+      66,
+      11
+    ],
+    [
+      "Sie können auch Kurz-Zeit-Kennzeichen für Firmen-Fahrzeuge bekommen.",
+      "In diesen Fällen wird das Kurzzeitkennzeichen durch die Zulassungsbehörde der Stadt/"
+    ],
+    0.8095861077308655
+  ],
+  [
+    [
+      69,
+      23
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen.",
+      "Grundsätzlich müssen Sie persönlich erscheinen."
+    ],
+    0.48445165157318115
+  ],
+  [
+    [
+      70,
+      24
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Sie können sich durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5257320404052734
+  ],
+  [
+    [
+      73,
+      27
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5426730513572693
+  ],
+  [
+    [
+      74,
+      27
+    ],
+    [
+      "Sie können die Vollmacht selbst auf ein Papier schreiben.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5269075632095337
+  ],
+  [
+    [
+      75,
+      27
+    ],
+    [
+      "Oder Sie benutzen unser Formular für die Vollmacht .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5943607687950134
+  ],
+  [
+    [
+      76,
+      27
+    ],
+    [
+      "Sie können das Formular am Computer ausfüllen .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7470372319221497
+  ],
+  [
+    [
+      77,
+      27
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6029287576675415
+  ],
+  [
+    [
+      78,
+      27
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5990586876869202
+  ],
+  [
+    [
+      79,
+      27
+    ],
+    [
+      "Hier können Sie das Formular herunter laden .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6959059238433838
+  ],
+  [
+    [
+      80,
+      27
+    ],
+    [
+      "Die Person kann dann für Sie zu uns kommen.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4117962718009949
+  ],
+  [
+    [
+      86,
+      27
+    ],
+    [
+      "Zum Beispiel: Wenn Sie aus dem Ausland sind.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.44849345088005066
+  ],
+  [
+    [
+      87,
+      27
+    ],
+    [
+      "Wenn Sie nicht in Deutschland leben.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4426898658275604
+  ],
+  [
+    [
+      94,
+      27
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5766039490699768
+  ],
+  [
+    [
+      95,
+      27
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5508116483688354
+  ],
+  [
+    [
+      96,
+      27
+    ],
+    [
+      "Oder Sie können mit Ihrer EC-Karte bezahlen.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5493596792221069
+  ],
+  [
+    [
+      98,
+      27
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4741132855415344
+  ],
+  [
+    [
+      99,
+      27
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.5785309672355652
+  ],
+  [
+    [
+      101,
+      34
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.4051860570907593
+  ]
+]

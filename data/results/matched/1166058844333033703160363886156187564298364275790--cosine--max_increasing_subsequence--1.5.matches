@@ -1,0 +1,530 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie sind von einem anderen Ort in Deutschland nach Köln gezogen?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8090468049049377
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Und Sie wollen Ihr Fahrzeug jetzt in Köln zulassen?",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.7002606391906738
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das bedeutet: Ihr Fahrzeug war bis jetzt an einem anderen Ort in Deutschland zugelassen.",
+      "Sie wollen ein Fahrzeug in Köln anmelden, das bisher an einem anderen Standort in Deutschland angemeldet war?"
+    ],
+    0.8787614703178406
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Jetzt lassen Sie Ihr Fahrzeug nach Köln umschreiben.",
+      "Dann möchten Sie einen sogenannten Standortwechsel durchführen."
+    ],
+    0.7647391557693481
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Sie können das Fahrzeug dann zulassen auf den bisherigen Halter oder die bisherige Halterin einen neuen Halter oder eine neue Halterin Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Dabei kann das Fahrzeug entweder auf die bisherige Halterin oder den bisherigen Halter als auch auf eine neue Halterin oder einen neuen Halter zugelassen werden."
+    ],
+    0.9581711888313293
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Auf dieser Seite erklären wir, wie Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8139832615852356
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Wenn Sie von außerhalb nach Köln umziehen , lesen Sie bitte auch die Infos zum \"Umzug und neu in Köln\".",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8836089372634888
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Wenn Sie ein Fahrzeug nach Köln umschreiben wollen, dann müssen Sie uns diese Papiere zeigen: Zulassungs-Bescheinigung Teil 1 und Teil 2",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7672604322433472
+  ],
+  [
+    [
+      11,
+      3
+    ],
+    [
+      "Wenn Sie ein Fahrzeug kaufen, dann bekommen Sie die Zulassungs-Bescheinigung Teil 2. Früher hieß das: Fahrzeug-Brief .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7191699147224426
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7017956972122192
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Damit zeigen Sie:",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7920486330986023
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug von außerhalb nach Köln umschreiben wollen, dann zeigen Sie uns Ihre Zulassungs-Bescheinigung Teil 1 .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8219876289367676
+  ],
+  [
+    [
+      24,
+      3
+    ],
+    [
+      "Die Person muss uns Ihren Personal-Ausweis oder Pass zeigen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7594097256660461
+  ],
+  [
+    [
+      28,
+      3
+    ],
+    [
+      "Sie müssen uns einen Nachweis von der Versicherung zeigen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7909210920333862
+  ],
+  [
+    [
+      33,
+      3
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie die Haupt-Untersuchung bestanden haben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8798001408576965
+  ],
+  [
+    [
+      35,
+      3
+    ],
+    [
+      "Dazu können Sie uns diese Papiere zeigen:",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8543812036514282
+  ],
+  [
+    [
+      36,
+      3
+    ],
+    [
+      "Kennzeichen-Schilder Wenn wir Ihr altes Kennzeichen tauschen sollen gegen ein neues Kölner Kennzeichen , dann müssen Sie Ihre Kennzeichen-Schilder mitbringen!",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.800762951374054
+  ],
+  [
+    [
+      37,
+      3
+    ],
+    [
+      "Sie können auch Ihr altes Kennzeichen behalten , wenn Sie innerhalb von Deutschland umziehen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.841835081577301
+  ],
+  [
+    [
+      38,
+      3
+    ],
+    [
+      "Dann müssen Sie Ihr Kennzeichen nicht tauschen .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7886066436767578
+  ],
+  [
+    [
+      41,
+      3
+    ],
+    [
+      "Wenn Sie in Deutschland ein Fahrzeug zulassen, dann müssen Sie Steuern dafür bezahlen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8434709310531616
+  ],
+  [
+    [
+      45,
+      3
+    ],
+    [
+      "Sie müssen das Abbuchen von Ihrem Konto vorher erlauben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7674021124839783
+  ],
+  [
+    [
+      47,
+      3
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen, dann müssen Sie uns diese Erlaubnis geben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8360028266906738
+  ],
+  [
+    [
+      49,
+      3
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7821447253227234
+  ],
+  [
+    [
+      50,
+      3
+    ],
+    [
+      "Die Erlaubnis brauchen wir auch: Wenn wir Ihre Daten schon zu einem anderen Fahrzeug haben.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8674724102020264
+  ],
+  [
+    [
+      53,
+      3
+    ],
+    [
+      "Dann müssen Sie es ausdrucken.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7142226099967957
+  ],
+  [
+    [
+      60,
+      3
+    ],
+    [
+      "Deshalb brauchen wir immer beide Unterschriften .",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7513642311096191
+  ],
+  [
+    [
+      66,
+      3
+    ],
+    [
+      "Stolberger Straße 200 50933 Köln Lesen Sie bitte die weiteren Informationen zum SEPA-Mandat.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.7112711071968079
+  ],
+  [
+    [
+      76,
+      3
+    ],
+    [
+      "Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie zur Zulassungs-Stelle in Köln kommen.",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.874574601650238
+  ],
+  [
+    [
+      77,
+      3
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln Wichtig : Wenn Sie das Fahrzeug als Firmen-Fahrzeug benutzen, dann müssen Sie uns zusätzlich diese Papiere zeigen:",
+      "Falls Sie das Fahrzeug umschreiben lassen wollen, weil Sie nach Köln zugezogen sind, beachten Sie bitte die Informationen, die wir Ihnen unter \"Umzug und neu in Köln\" zusammengestellt haben (siehe weiter unten)."
+    ],
+    0.8141264319419861
+  ],
+  [
+    [
+      80,
+      5
+    ],
+    [
+      "Das ist aber nur in manchen Fällen möglich.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.7056664228439331
+  ],
+  [
+    [
+      82,
+      5
+    ],
+    [
+      "Oder die Person eine schwere Behinderung hat.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.6976490020751953
+  ],
+  [
+    [
+      84,
+      30
+    ],
+    [
+      "Wichtig: Wenn Sie ein Fahrzeug zulassen wollen auf eine Person unter 18 Jahren, müssen Sie eine Einverständnis-Erklärung zeigen von beiden Eltern.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.8443111181259155
+  ],
+  [
+    [
+      86,
+      30
+    ],
+    [
+      "Beide Eltern müssen die Erklärung unterschreiben.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7762672901153564
+  ],
+  [
+    [
+      87,
+      30
+    ],
+    [
+      "Und beide Eltern müssen uns ihre Ausweise zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.741205632686615
+  ],
+  [
+    [
+      89,
+      30
+    ],
+    [
+      "Dann muss nur diese Person ihren Ausweis zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.8310670852661133
+  ],
+  [
+    [
+      92,
+      30
+    ],
+    [
+      "Oder wenn sich eine andere Person um das Kind kümmert.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7492276430130005
+  ],
+  [
+    [
+      98,
+      30
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.894812822341919
+  ],
+  [
+    [
+      99,
+      30
+    ],
+    [
+      "Die Person muss uns dann eine Vollmacht zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.8124628663063049
+  ],
+  [
+    [
+      101,
+      30
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7713929414749146
+  ],
+  [
+    [
+      102,
+      32
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.9214065074920654
+  ],
+  [
+    [
+      103,
+      32
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7939443588256836
+  ],
+  [
+    [
+      104,
+      32
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7822177410125732
+  ],
+  [
+    [
+      109,
+      38
+    ],
+    [
+      "Das Umschreiben kostet 27,50 Euro, wenn sich der Halter oder die Halterin nicht ändert.",
+      "Diese Gebühren erhöhen sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.7821872234344482
+  ],
+  [
+    [
+      110,
+      38
+    ],
+    [
+      "Das Umschreiben kostet 29,60 Euro, wenn sich der Halter oder die Halterin ändert.",
+      "Diese Gebühren erhöhen sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.752415657043457
+  ],
+  [
+    [
+      112,
+      40
+    ],
+    [
+      "Manchmal müssen Sie weitere Gebühren bezahlen!",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.8874170184135437
+  ],
+  [
+    [
+      115,
+      40
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.6995794177055359
+  ],
+  [
+    [
+      116,
+      40
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.7767795324325562
+  ],
+  [
+    [
+      119,
+      40
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Sie können sie aber auch vorab online oder telefonisch reservieren, dann betragen die Gebühren 12,80 Euro."
+    ],
+    0.844020426273346
+  ]
+]

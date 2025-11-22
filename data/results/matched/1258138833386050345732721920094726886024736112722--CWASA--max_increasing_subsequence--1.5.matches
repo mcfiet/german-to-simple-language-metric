@@ -1,0 +1,211 @@
+[
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8069177269935608
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.49540451169013977
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.49931973218917847
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5422965884208679
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4872244894504547
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5101754665374756
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5048657655715942
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5015148520469666
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.49404600262641907
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.5212518572807312
+  ],
+  [
+    [
+      34,
+      5
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.534695029258728
+  ],
+  [
+    [
+      35,
+      6
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.6049579977989197
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Kopf leicht nach vorne beugen."
+    ],
+    0.715901255607605
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.4994126856327057
+  ],
+  [
+    [
+      49,
+      8
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.729773223400116
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.6646774411201477
+  ],
+  [
+    [
+      51,
+      9
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.5293490290641785
+  ],
+  [
+    [
+      52,
+      9
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.5733246207237244
+  ],
+  [
+    [
+      55,
+      23
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5186439752578735
+  ]
+]

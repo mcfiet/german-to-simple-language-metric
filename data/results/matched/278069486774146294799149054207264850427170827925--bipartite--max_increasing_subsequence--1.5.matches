@@ -1,0 +1,618 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie brauchen einen Reise-Pass für Ihr Kind?",
+      "Sie benötigen ein Reisedokument für Ihr Kind?"
+    ],
+    0.8510399460792542
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Bei uns können Sie einen Kinder-Reise-Pass beantragen.",
+      "Für Kinder unter 12 Jahren können Sie einen Kinderreisepass beantragen."
+    ],
+    0.8056808710098267
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Der Kinder-Reise-Pass ist für Kinder unter 12 Jahren .",
+      "Für Kinder unter 12 Jahren können Sie einen Kinderreisepass beantragen."
+    ],
+    0.7621937394142151
+  ],
+  [
+    [
+      3,
+      5
+    ],
+    [
+      "Früher gab es einen Kinder- Ausweis .",
+      "Geburtsurkunde"
+    ],
+    0.5606613159179688
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Jetzt gibt es einen Kinder- Reise-Pass .",
+      "Geburtsurkunde"
+    ],
+    0.6184195280075073
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Der Kinder-Reise-Pass ersetzt den Kinder-Ausweis.",
+      "Geburtsurkunde"
+    ],
+    0.6674948334693909
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Was brauche ich, um einen Kinder-Reise-Pass zu beantragen?",
+      "Geburtsurkunde"
+    ],
+    0.6546515226364136
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Um einen Kinder-Reise-Pass zu bekommen, brauchen wir diese Papiere von Ihnen:",
+      "Geburtsurkunde"
+    ],
+    0.6546515226364136
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "Den alten Kinder-Reise-Pass",
+      "Geburtsurkunde"
+    ],
+    0.6546515226364136
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Wenn Sie den neuen Kinder-Reise-Pass bekommen, dann behalten wir den alten Pass.",
+      "Geburtsurkunde"
+    ],
+    0.6546515226364136
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "die Geburts-Urkunde",
+      "Geburtsurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Wenn Sie den neuen Reise-Pass beantragen, dann bringen Sie bitte eine Geburts-Urkunde mit.",
+      "Geburtsurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      14,
+      5
+    ],
+    [
+      "Oder einen Auszug aus dem Geburts-Register .",
+      "Geburtsurkunde"
+    ],
+    0.7752470970153809
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Oder einen Auszug aus dem Familien-Stamm-Buch .",
+      "Geburtsurkunde"
+    ],
+    0.6945483088493347
+  ],
+  [
+    [
+      16,
+      5
+    ],
+    [
+      "Urkunden aus dem Ausland müssen ins Deutsche übersetzt werden.",
+      "Geburtsurkunde"
+    ],
+    0.6084820032119751
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Zum Beispiel: Ihre Urkunde aus der Türkei ist in türkischer Sprache.",
+      "Geburtsurkunde"
+    ],
+    0.672417938709259
+  ],
+  [
+    [
+      18,
+      5
+    ],
+    [
+      "Für das Amt in Deutschland muss die Urkunde ins Deutsche übersetzt werden.",
+      "Geburtsurkunde"
+    ],
+    0.672417938709259
+  ],
+  [
+    [
+      19,
+      6
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.6711090803146362
+  ],
+  [
+    [
+      20,
+      6
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.7435159087181091
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Das schwere Wort dafür ist: öffentlich bestellt oder beeidigt .",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.5722706317901611
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "Sie müssen die Urkunden und Übersetzungen im Original abgeben.",
+      "Urkunden und Übersetzungen müssen Sie im Original vorlegen."
+    ],
+    0.9615917801856995
+  ],
+  [
+    [
+      32,
+      8
+    ],
+    [
+      "Sie können keine Kopie von Urkunden und Übersetzungen abgeben.",
+      "Urkunden und Übersetzungen müssen Sie im Original vorlegen."
+    ],
+    0.745754599571228
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "den Personal-Ausweis oder Reise-Pass von beiden Eltern oder von der erziehungs-berechtigten Person",
+      "Personalausweis oder Reisepass beider Elternteile beziehungsweise der allein erziehungsberechtigten Person"
+    ],
+    0.753645122051239
+  ],
+  [
+    [
+      38,
+      9
+    ],
+    [
+      "Wenn eine andere erziehungs-berechtigte Person zu uns kommt, dann muss die Person uns Ihren Ausweis oder Reise-Pass zeigen.",
+      "Personalausweis oder Reisepass beider Elternteile beziehungsweise der allein erziehungsberechtigten Person"
+    ],
+    0.6483889818191528
+  ],
+  [
+    [
+      41,
+      10
+    ],
+    [
+      "Die Person kann der Vater oder die Mutter sein.",
+      "Es genügt, wenn der vorsprechende Elternteil sein Ausweisdokument im Original vorlegt und von dem Elternteil, der nicht mitkommt, die Einverständniserklärung und eine Ausweiskopie mitbringt."
+    ],
+    0.6682482361793518
+  ],
+  [
+    [
+      42,
+      10
+    ],
+    [
+      "Aber auch eine andere Person kann erziehungs-berechtigt sein.",
+      "Es genügt, wenn der vorsprechende Elternteil sein Ausweisdokument im Original vorlegt und von dem Elternteil, der nicht mitkommt, die Einverständniserklärung und eine Ausweiskopie mitbringt."
+    ],
+    0.6040405631065369
+  ],
+  [
+    [
+      53,
+      15
+    ],
+    [
+      "Nachweis über das Sorge-Recht oder Nachweis über das Aufenthalts-Bestimmungs-Recht Sorge-Recht heißt:",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.6830039024353027
+  ],
+  [
+    [
+      57,
+      15
+    ],
+    [
+      "Wenn nur eine Person erziehungs-berechtigt ist, dann müssen Sie uns den Nachweis über das Sorge-Recht zeigen.",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.7861799597740173
+  ],
+  [
+    [
+      58,
+      15
+    ],
+    [
+      "Oder den Nachweis über das Aufenthalts-Bestimmungs-Recht .",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.7541809678077698
+  ],
+  [
+    [
+      59,
+      15
+    ],
+    [
+      "Aufenthalts-Bestimmungs-Recht heißt: Die Person hat das Recht über den Aufenthalt vom Kind zu bestimmen.",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.5635863542556763
+  ],
+  [
+    [
+      60,
+      15
+    ],
+    [
+      "Die Person darf entscheiden:",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.5906344652175903
+  ],
+  [
+    [
+      64,
+      16
+    ],
+    [
+      "Ein aktuelles und bio-metrie-taugliches Pass-Foto",
+      "Ein aktuelles biometrietaugliches Passfoto"
+    ],
+    0.75
+  ],
+  [
+    [
+      66,
+      17
+    ],
+    [
+      "Das Foto soll aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.8014047145843506
+  ],
+  [
+    [
+      67,
+      17
+    ],
+    [
+      "Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.9105133414268494
+  ],
+  [
+    [
+      72,
+      17
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.7761020064353943
+  ],
+  [
+    [
+      79,
+      19
+    ],
+    [
+      "Befolgen Sie bitte die Regeln für Pass-Fotos.",
+      "Beachten Sie dazu bitte die speziellen Anforderungen an die Passfotos."
+    ],
+    0.7841886281967163
+  ],
+  [
+    [
+      80,
+      20
+    ],
+    [
+      "Die Regeln stehen in der Foto-Muster-Tafel .",
+      "Die Regelungen sind in der Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.8609862923622131
+  ],
+  [
+    [
+      84,
+      24
+    ],
+    [
+      "Dann müssen Sie die Verlust-Anzeige ausdrucken.",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.6988127827644348
+  ],
+  [
+    [
+      87,
+      25
+    ],
+    [
+      "Wenn der alte Pass gestohlen wurde, dann müssen Sie zur Polizei gehen.",
+      "Bescheinigung der Polizei falls der bisherige Pass gestohlen wurde, wird die Bescheinigung der Polizei über den Diebstahl benötigt."
+    ],
+    0.6222720742225647
+  ],
+  [
+    [
+      88,
+      25
+    ],
+    [
+      "Und sagen, dass der Pass gestohlen wurde.",
+      "Bescheinigung der Polizei falls der bisherige Pass gestohlen wurde, wird die Bescheinigung der Polizei über den Diebstahl benötigt."
+    ],
+    0.6761233806610107
+  ],
+  [
+    [
+      89,
+      34
+    ],
+    [
+      "Dann bekommen Sie eine Bescheinigung von der Polizei.",
+      "Eine Fotografin oder einen Fotografen zur Anfertigung von Passfotos finden Sie über die Handwerkersuche der Handwerkskammer zu Köln."
+    ],
+    0.680778443813324
+  ],
+  [
+    [
+      93,
+      35
+    ],
+    [
+      "In dieser Liste finden Sie alle Kunden-Zentren in Köln.",
+      "Geben Sie als Suchbegriff einfach \"Fotograf Köln\" ein oder wählen in der Suchmaske der erweiterten Suche den gewünschten Landkreis und den Beruf Fotograf aus."
+    ],
+    0.6653358936309814
+  ],
+  [
+    [
+      94,
+      35
+    ],
+    [
+      "Klicken Sie auf ein Kunden-Zentrum in Ihrer Nähe.",
+      "Geben Sie als Suchbegriff einfach \"Fotograf Köln\" ein oder wählen in der Suchmaske der erweiterten Suche den gewünschten Landkreis und den Beruf Fotograf aus."
+    ],
+    0.6090238690376282
+  ],
+  [
+    [
+      99,
+      36
+    ],
+    [
+      "Wichtig: Ihr Kind muss mit Ihnen zu uns kommen, wenn Sie einen neuen Kinder-Reise-Pass beantragen .",
+      "Ihr Kind muss Sie stets begleiten"
+    ],
+    0.8027074337005615
+  ],
+  [
+    [
+      102,
+      39
+    ],
+    [
+      "Bitte lesen Sie auch die Infos zu Ausweisen für Minder-jährige .",
+      "Bitte beachten Sie die weiteren Hinweise zur Beantragung von Ausweisdokumenten für Minderjährige."
+    ],
+    0.6304417252540588
+  ],
+  [
+    [
+      103,
+      39
+    ],
+    [
+      "Darin steht, wie Sie Ausweise für Kinder beantragen können.",
+      "Bitte beachten Sie die weiteren Hinweise zur Beantragung von Ausweisdokumenten für Minderjährige."
+    ],
+    0.5732677578926086
+  ],
+  [
+    [
+      112,
+      45
+    ],
+    [
+      "Hinweise zu Kinder-Reise-Pässen, die vor dem 1. November 2007 ausgestellt wurden: Der Pass bleibt bis zum eingetragenen Datum gültig.",
+      "Kinderreisepässe, die seit dem 1. Januar 2021 ausgestellt oder verlängert werden, sind 12 Monate gültig."
+    ],
+    0.5968337655067444
+  ],
+  [
+    [
+      115,
+      49
+    ],
+    [
+      "Sie können den Pass auch ändern lassen.",
+      "Wenn Sie alle erforderlichen Unterlagen vorlegen können, wird der Kinderreisepass direkt ausgestellt."
+    ],
+    0.5548413991928101
+  ],
+  [
+    [
+      119,
+      49
+    ],
+    [
+      "Wenn Sie alle erforderlichen Papiere mitbringen, dann bekommen Sie den Kinder-Reise-Pass sofort .",
+      "Wenn Sie alle erforderlichen Unterlagen vorlegen können, wird der Kinderreisepass direkt ausgestellt."
+    ],
+    0.6660264134407043
+  ],
+  [
+    [
+      129,
+      50
+    ],
+    [
+      "Was muss ich beim Reisen noch beachten?",
+      "Reiseinformationen"
+    ],
+    0.6451706290245056
+  ],
+  [
+    [
+      134,
+      51
+    ],
+    [
+      "Zum Beispiel bei Reisen in die USA:",
+      "Wenn Ihr Kind nur einen vorläufigen Reisepass besitzt, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.6824424266815186
+  ],
+  [
+    [
+      135,
+      51
+    ],
+    [
+      "Manchmal brauchen Sie eine Einreise-Erlaubnis für eine Reise in die USA.",
+      "Wenn Ihr Kind nur einen vorläufigen Reisepass besitzt, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.7690691947937012
+  ],
+  [
+    [
+      136,
+      51
+    ],
+    [
+      "Diese Einreise-Erlaubnis heißt: Visum.",
+      "Wenn Ihr Kind nur einen vorläufigen Reisepass besitzt, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.6429455876350403
+  ],
+  [
+    [
+      139,
+      52
+    ],
+    [
+      "Sie können das Visum bei der amerikanischen Botschaft beantragen.",
+      "Das Visum können Sie bei der US -Botschaft oder dem amerikanischen Generalkonsulat beantragen."
+    ],
+    0.9587451219558716
+  ],
+  [
+    [
+      140,
+      52
+    ],
+    [
+      "Oder beim amerikanischen General-Konsulat.",
+      "Das Visum können Sie bei der US -Botschaft oder dem amerikanischen Generalkonsulat beantragen."
+    ],
+    0.722955048084259
+  ],
+  [
+    [
+      141,
+      55
+    ],
+    [
+      "Informieren Sie sich vor Ihrer Reise beim Auswärtigen Amt , ob der Pass in dem Land gültig ist, das Sie besuchen.",
+      "Vergewissern Sie sich vor Antritt der Reise, ob der Staat, in den Sie einreisen möchten, die Kinderreisepässe akzeptiert."
+    ],
+    0.6533111333847046
+  ]
+]

@@ -1,0 +1,794 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Bei einem Hörsturz können betroffene Personen plötzlich nicht mehr gut hören.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5593365430831909
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Ein Hörsturz hat keine erkennbare Ursache.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.3413400650024414
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Meist ist nur ein Ohr von dem Hörsturz betroffen.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.39627668261528015
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Ein Hörsturz ist kein Notfall.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.33122944831848145
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Aber betroffene Personen sollten trotzdem zum Arzt gehen.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6697335839271545
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Die Hörminderung kann nämlich ein Anzeichen für eine andere Erkrankung sein.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.46435192227363586
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Hinweis: Sie hören auf einem Ohr plötzlich schlecht?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4283609092235565
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Dann kann das auch andere Ursachen haben.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.48751944303512573
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Die Ursache kann zum Beispiel Ohrenschmalz oder eine Mittelohr-Entzündung sein.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.3983675539493561
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4853137731552124
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Der Arzt untersucht die Ursache für die Hörminderung.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.44935065507888794
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Ein Hörsturz kann verschiedene Anzeichen haben:",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.40946364402770996
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Sie hören auf einem Ohr plötzlich nichts?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4329468011856079
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Sie hören auf einem Ohr plötzlich schlecht?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4343133270740509
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Musik und Stimmen klingen anders als gewöhnlich?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.415060430765152
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sie erkennen nicht mehr, aus welcher Richtung ein Geräusch kommt?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4053507149219513
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Laute Geräusche sind unangenehm?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.33569714426994324
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "Ihr Ohr fühlt sich an wie in Watte gepackt?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.28368350863456726
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Sie haben ein Druckgefühl auf dem Ohr?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.35343101620674133
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Sie haben störende Ohrgeräusche?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.37521442770957947
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Ihnen ist schwindelig?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.32246914505958557
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Dann haben Sie vielleicht einen Hörsturz.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5418217778205872
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4853137731552124
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Der Arzt hilft Ihnen weiter.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4771764278411865
+  ],
+  [
+    [
+      24,
+      2
+    ],
+    [
+      "Bei einem Hörsturz erreicht der Schall das Innenohr.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.416647344827652
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Im Innenohr werden die Signale aber nicht mehr richtig weitergeleitet.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.590709388256073
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Ärzte wissen nicht genau:",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5166540145874023
+  ],
+  [
+    [
+      27,
+      2
+    ],
+    [
+      "Was sind die Ursachen von einem Hörsturz?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5542577505111694
+  ],
+  [
+    [
+      28,
+      2
+    ],
+    [
+      "Die Ursachen für einen Hörsturz könnten sein:",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5776817202568054
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Das Innenohr wird nicht richtig durchblutet.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5167033076286316
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Deshalb können die Zellen im Ohr nicht richtig arbeiten.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5545534491539001
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Und die Signale können dann nicht weitergeleitet werden.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.6285072565078735
+  ],
+  [
+    [
+      32,
+      2
+    ],
+    [
+      "Die Nervenzellen geben die Informationen falsch weiter.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5711027979850769
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "Im Ohr ist eine Entzündung oder eine Infektion.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5241656303405762
+  ],
+  [
+    [
+      34,
+      2
+    ],
+    [
+      "Stress.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.34823402762413025
+  ],
+  [
+    [
+      35,
+      2
+    ],
+    [
+      "Hinweis: Die Hörminderung entsteht zum Beispiel durch einen plötzlichen Knall und das ist die Ursache?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5246436595916748
+  ],
+  [
+    [
+      36,
+      2
+    ],
+    [
+      "Dann liegt kein Hörsturz vor.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.38508060574531555
+  ],
+  [
+    [
+      37,
+      2
+    ],
+    [
+      "Der Arzt spricht dann nämlich von einem Knalltrauma.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.4995492696762085
+  ],
+  [
+    [
+      38,
+      2
+    ],
+    [
+      "Die Ursache ist nicht erkennbar?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5643801689147949
+  ],
+  [
+    [
+      39,
+      2
+    ],
+    [
+      "Nur dann spricht der Arzt von einem Hörsturz.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5123187899589539
+  ],
+  [
+    [
+      40,
+      2
+    ],
+    [
+      "Sie hören plötzlich nicht mehr gut?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.4818055331707001
+  ],
+  [
+    [
+      41,
+      2
+    ],
+    [
+      "Dann sollten Sie zum Arzt gehen.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.39354968070983887
+  ],
+  [
+    [
+      42,
+      2
+    ],
+    [
+      "Der Arzt untersucht Sie und hilft Ihnen.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.3982853293418884
+  ],
+  [
+    [
+      43,
+      2
+    ],
+    [
+      "Ärzte kennen die Ursache für einen Hörsturz bislang nicht.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.6178790926933289
+  ],
+  [
+    [
+      44,
+      2
+    ],
+    [
+      "Aber es gibt verschiedene Behandlungen.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5698647499084473
+  ],
+  [
+    [
+      45,
+      2
+    ],
+    [
+      "Die Behandlungen haben Vorteile.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.4752802550792694
+  ],
+  [
+    [
+      46,
+      2
+    ],
+    [
+      "Die Behandlungen haben aber manchmal auch Nachteile.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5817230343818665
+  ],
+  [
+    [
+      47,
+      2
+    ],
+    [
+      "Sprechen Sie daher immer mit Ihrem Arzt.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.4382226765155792
+  ],
+  [
+    [
+      48,
+      2
+    ],
+    [
+      "Ihr Arzt sagt Ihnen: Welche Behandlung ist für Sie gut?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.3437885046005249
+  ],
+  [
+    [
+      49,
+      2
+    ],
+    [
+      "Was sind die Vorteile der Behandlung?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.5078654885292053
+  ],
+  [
+    [
+      50,
+      2
+    ],
+    [
+      "Was sind die Nebenwirkungen der Behandlung?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.522797167301178
+  ],
+  [
+    [
+      51,
+      2
+    ],
+    [
+      "Der Hörsturz ist nur leicht?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.49852117896080017
+  ],
+  [
+    [
+      52,
+      2
+    ],
+    [
+      "Und Sie haben keine starken Beschwerden?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.4825178384780884
+  ],
+  [
+    [
+      53,
+      2
+    ],
+    [
+      "Dann sollten Sie trotzdem zum Arzt gehen.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.4500526487827301
+  ],
+  [
+    [
+      54,
+      2
+    ],
+    [
+      "Der Arzt sagt dann vielleicht:",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.44258320331573486
+  ],
+  [
+    [
+      55,
+      2
+    ],
+    [
+      "Der Hörsturz heilt von allein.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.44356295466423035
+  ],
+  [
+    [
+      56,
+      2
+    ],
+    [
+      "Der Hörsturz ist schwerer?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.41737109422683716
+  ],
+  [
+    [
+      57,
+      2
+    ],
+    [
+      "Und Sie haben starke Beschwerden?",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.45815712213516235
+  ],
+  [
+    [
+      58,
+      2
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Kortison.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.48353198170661926
+  ],
+  [
+    [
+      59,
+      6
+    ],
+    [
+      "Kortison ist ein Medikament.",
+      "Ungeklärt ist leider, welche Behandlung am besten hilft."
+    ],
+    0.4448413848876953
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Kortison wirkt gegen Entzündungen und gegen Schwellungen.",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.44867971539497375
+  ],
+  [
+    [
+      61,
+      10
+    ],
+    [
+      "Der Arzt kann Ihnen Kortison als Tablette oder als Infusion geben.",
+      "Ob überhaupt eine Therapie nötig ist, muss individuell mit dem Arzt besprochen werden."
+    ],
+    0.4709894359111786
+  ],
+  [
+    [
+      62,
+      10
+    ],
+    [
+      "Eine Infusion ist eine Flüssigkeit.",
+      "Ob überhaupt eine Therapie nötig ist, muss individuell mit dem Arzt besprochen werden."
+    ],
+    0.5643444657325745
+  ],
+  [
+    [
+      63,
+      10
+    ],
+    [
+      "Diese bekommen Sie durch eine Vene.",
+      "Ob überhaupt eine Therapie nötig ist, muss individuell mit dem Arzt besprochen werden."
+    ],
+    0.41202107071876526
+  ],
+  [
+    [
+      64,
+      10
+    ],
+    [
+      "Achtung: Sprechen Sie vor der Behandlung immer mit Ihrem Arzt.",
+      "Ob überhaupt eine Therapie nötig ist, muss individuell mit dem Arzt besprochen werden."
+    ],
+    0.5442708730697632
+  ],
+  [
+    [
+      65,
+      11
+    ],
+    [
+      "Sie wissen nicht:",
+      "Denn – wichtig und tröstlich zu wissen – nicht selten heilt ein Hörsturz auch ganz von selbst wieder aus."
+    ],
+    0.6292842030525208
+  ],
+  [
+    [
+      66,
+      12
+    ],
+    [
+      "Ist die vorgeschlagene Behandlung wirklich gut für mich?",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.4275256395339966
+  ],
+  [
+    [
+      67,
+      12
+    ],
+    [
+      "Dann fragen Sie auch einen zweiten Arzt.",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.5448223948478699
+  ],
+  [
+    [
+      68,
+      12
+    ],
+    [
+      "Sie wollen noch mehr über den Hörsturz lesen?",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.7112779021263123
+  ],
+  [
+    [
+      69,
+      12
+    ],
+    [
+      "Mehr Informationen über den Hörsturz finden Sie hier .",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.6082850098609924
+  ],
+  [
+    [
+      70,
+      14
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Denn es gibt viele mögliche Gründe, wenn das Hörorgan auf einmal nicht mehr richtig funktioniert – eine Mittelohrentzündung kann ebenso schuld sein wie ein Pfropf aus Ohrenschmalz, der den Gehörgang verstopft."
+    ],
+    0.3369710445404053
+  ],
+  [
+    [
+      71,
+      14
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Denn es gibt viele mögliche Gründe, wenn das Hörorgan auf einmal nicht mehr richtig funktioniert – eine Mittelohrentzündung kann ebenso schuld sein wie ein Pfropf aus Ohrenschmalz, der den Gehörgang verstopft."
+    ],
+    0.5371923446655273
+  ]
+]

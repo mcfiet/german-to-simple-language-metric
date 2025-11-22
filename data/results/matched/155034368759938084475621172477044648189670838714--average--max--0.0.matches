@@ -1,0 +1,1102 @@
+[
+  [
+    [
+      0,
+      7
+    ],
+    [
+      "Bei einem Schock bekommt der Körper nicht genug Sauerstoff.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.1877938061952591
+  ],
+  [
+    [
+      1,
+      15
+    ],
+    [
+      "Deshalb kann der Körper nicht alle Organe mit Sauerstoff versorgen.",
+      "Heben und senken sie sich?"
+    ],
+    0.22652925550937653
+  ],
+  [
+    [
+      2,
+      15
+    ],
+    [
+      "Dann versorgt der Körper nur noch die wichtigsten Organe mit Sauerstoff.",
+      "Heben und senken sie sich?"
+    ],
+    0.2098453789949417
+  ],
+  [
+    [
+      3,
+      15
+    ],
+    [
+      "Die wichtigsten Organe sind: das Gehirn, das Herz und die Lunge.",
+      "Heben und senken sie sich?"
+    ],
+    0.20188792049884796
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Die anderen Organe bekommen nicht genug Sauerstoff?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.2531042993068695
+  ],
+  [
+    [
+      5,
+      15
+    ],
+    [
+      "Dann können die Organe beschädigt werden.",
+      "Heben und senken sie sich?"
+    ],
+    0.2430044561624527
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Deshalb ist ein Schock sehr gefährlich.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.21481451392173767
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Sie glauben:",
+      "Das sollten Sie tun:"
+    ],
+    0.27731695771217346
+  ],
+  [
+    [
+      8,
+      7
+    ],
+    [
+      "Eine Person hat einen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.15220552682876587
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.23794853687286377
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Die Nummer ist:",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.07478088140487671
+  ],
+  [
+    [
+      11,
+      7
+    ],
+    [
+      "112. Hinweis: Viele Menschen denken:",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.179827481508255
+  ],
+  [
+    [
+      12,
+      7
+    ],
+    [
+      "Ein Schock ist der seelische Zustand nach einem schlimmen Erlebnis.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.1570744514465332
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Der Arzt sagt dazu aber: akute Belastungsreaktion.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.1753322333097458
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Sie glauben: Ich habe einen seelischen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.16457948088645935
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Dann sprechen Sie mit einem Psychologen.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.21247152984142303
+  ],
+  [
+    [
+      16,
+      9
+    ],
+    [
+      "Der Psychologe kann Ihnen helfen.",
+      "Atmung prüfen:"
+    ],
+    0.13904424011707306
+  ],
+  [
+    [
+      17,
+      17
+    ],
+    [
+      "Ein Schock kann verschiedene Anzeichen haben.",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.1605510264635086
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Anzeichen für einen Schock sind zum Beispiel: blasse Haut kalter Schweiß schneller und schwacher Puls.",
+      "Heben und senken sie sich?"
+    ],
+    0.1911841332912445
+  ],
+  [
+    [
+      19,
+      14
+    ],
+    [
+      "Das Herz schlägt schnell.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.15596432983875275
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Der Blutdruck ist trotzdem niedrig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.150941863656044
+  ],
+  [
+    [
+      21,
+      15
+    ],
+    [
+      "Zittern",
+      "Heben und senken sie sich?"
+    ],
+    0.3436436355113983
+  ],
+  [
+    [
+      22,
+      7
+    ],
+    [
+      "Unruhe Angst",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.23554447293281555
+  ],
+  [
+    [
+      23,
+      3
+    ],
+    [
+      "Ein Schock kann verschiedene Ursachen haben.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.1610548198223114
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Es gibt diese Schockarten: 1. Volumenmangel-Schock",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.06103021278977394
+  ],
+  [
+    [
+      26,
+      7
+    ],
+    [
+      "Hypoglykämischer Schock",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.09022454172372818
+  ],
+  [
+    [
+      27,
+      0
+    ],
+    [
+      "3. Kardiogener Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.009395954199135303
+  ],
+  [
+    [
+      28,
+      0
+    ],
+    [
+      "4. Anaphylaktischer Schock 5. Septisch-toxischer Schock 6. Neurogener Schock 1. Volumenmangel-Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.005131961777806282
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Bei diesem Schock hat eine Person sehr viel Blut oder Wasser verloren.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17411905527114868
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Die Ursachen dieses Schocks sind: starker Blutverlust, zum Beispiel durch einen Unfall.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.1696198284626007
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Hoher Wasserverlust, zum Beispiel durch starken Durchfall.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.1759578436613083
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Hoher Verlust von Elektrolyten.",
+      "Atmung prüfen:"
+    ],
+    0.11927833408117294
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Elektrolyte sind wichtige Stoffe im Körper.",
+      "Atmung prüfen:"
+    ],
+    0.17514632642269135
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Elektrolyte sind zum Beispiel Eisen und Magnesium.",
+      "Heben und senken sie sich?"
+    ],
+    0.18899250030517578
+  ],
+  [
+    [
+      35,
+      0
+    ],
+    [
+      "2. Hypoglykämischer Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.007921241223812103
+  ],
+  [
+    [
+      36,
+      5
+    ],
+    [
+      "Dieser Schock tritt zum Beispiel bei Diabetikern auf.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.13158395886421204
+  ],
+  [
+    [
+      37,
+      7
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine starke Unterzuckerung.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19318951666355133
+  ],
+  [
+    [
+      38,
+      7
+    ],
+    [
+      "Das bedeutet: Der Blutzucker-Wert der Person ist viel zu niedrig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.15636377036571503
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die betroffene Person ist ansprechbar?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18768727779388428
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Dann geben Sie ihr ein Stück Traubenzucker.",
+      "Heben und senken sie sich?"
+    ],
+    0.17419613897800446
+  ],
+  [
+    [
+      41,
+      13
+    ],
+    [
+      "Oder geben Sie der Person ein anderes Lebensmittel mit Zucker.",
+      "Können Sie einen Luftzug oder Atemgeräusche wahrnehmen?"
+    ],
+    0.17702005803585052
+  ],
+  [
+    [
+      42,
+      0
+    ],
+    [
+      "3. Kardiogener Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.009395954199135303
+  ],
+  [
+    [
+      43,
+      7
+    ],
+    [
+      "Die Ursache dieses Schocks ist Herz-Versagen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19806843996047974
+  ],
+  [
+    [
+      44,
+      17
+    ],
+    [
+      "Auslöser von Herz-Versagen sind zum Beispiel Herzrhythmus-Störungen oder ein Herzinfarkt.",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.1808011680841446
+  ],
+  [
+    [
+      45,
+      7
+    ],
+    [
+      "Achtung: Eine Person hat einen kardiogenen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.13160233199596405
+  ],
+  [
+    [
+      46,
+      15
+    ],
+    [
+      "Dann bringen Sie die betroffene Person nicht in die Schocklage.",
+      "Heben und senken sie sich?"
+    ],
+    0.20362718403339386
+  ],
+  [
+    [
+      47,
+      15
+    ],
+    [
+      "Erhöhen Sie stattdessen den Oberkörper der Person.",
+      "Heben und senken sie sich?"
+    ],
+    0.23661766946315765
+  ],
+  [
+    [
+      48,
+      0
+    ],
+    [
+      "4. Anaphylaktischer Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.011465170420706272
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine starke allergische Reaktion.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.20648838579654694
+  ],
+  [
+    [
+      50,
+      0
+    ],
+    [
+      "5. Septisch-toxischer Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.010466773994266987
+  ],
+  [
+    [
+      51,
+      7
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine Blutvergiftung .",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19637085497379303
+  ],
+  [
+    [
+      52,
+      2
+    ],
+    [
+      "Bei einer Blutvergiftung sind zu viele Bakterien im Blut.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.16703826189041138
+  ],
+  [
+    [
+      53,
+      15
+    ],
+    [
+      "Bei einem septisch-toxischen Schock atmen die betroffenen Personen sehr schnell.",
+      "Heben und senken sie sich?"
+    ],
+    0.1749902367591858
+  ],
+  [
+    [
+      54,
+      15
+    ],
+    [
+      "Und sie haben hohes Fieber.",
+      "Heben und senken sie sich?"
+    ],
+    0.21238559484481812
+  ],
+  [
+    [
+      55,
+      0
+    ],
+    [
+      "6. Neurogener Schock",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.013225792907178402
+  ],
+  [
+    [
+      56,
+      7
+    ],
+    [
+      "Die Ursache dieses Schocks ist ein Nervenschaden.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.13571004569530487
+  ],
+  [
+    [
+      57,
+      3
+    ],
+    [
+      "Ein Nervenschaden kann zum Beispiel eine Verletzung im Rückenmark sein.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.14603886008262634
+  ],
+  [
+    [
+      58,
+      4
+    ],
+    [
+      "Sie glauben:",
+      "Das sollten Sie tun:"
+    ],
+    0.27731695771217346
+  ],
+  [
+    [
+      59,
+      7
+    ],
+    [
+      "Eine Person hat einen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.15220552682876587
+  ],
+  [
+    [
+      60,
+      5
+    ],
+    [
+      "Dann können Sie der betroffenen Person helfen.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.23457306623458862
+  ],
+  [
+    [
+      61,
+      8
+    ],
+    [
+      "So helfen Sie bei einem Schock:",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.18435999751091003
+  ],
+  [
+    [
+      62,
+      5
+    ],
+    [
+      "Rufen Sie den Rettungsdienst an.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.2866751551628113
+  ],
+  [
+    [
+      63,
+      7
+    ],
+    [
+      "Die Nummer ist 112.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.05615990608930588
+  ],
+  [
+    [
+      64,
+      7
+    ],
+    [
+      "Die betroffene Person blutet?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17443403601646423
+  ],
+  [
+    [
+      65,
+      15
+    ],
+    [
+      "Dann stillen Sie die Blutung Beruhigen",
+      "Heben und senken sie sich?"
+    ],
+    0.27882635593414307
+  ],
+  [
+    [
+      66,
+      5
+    ],
+    [
+      "Sie die betroffene Person.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.2398032546043396
+  ],
+  [
+    [
+      67,
+      5
+    ],
+    [
+      "Sprechen Sie der Person gut zu.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.23184265196323395
+  ],
+  [
+    [
+      68,
+      15
+    ],
+    [
+      "Halten Sie die betroffene Person warm.",
+      "Heben und senken sie sich?"
+    ],
+    0.21891044080257416
+  ],
+  [
+    [
+      69,
+      15
+    ],
+    [
+      "Legen Sie die Person zum Beispiel auf eine Decke und decken Sie die Person zu.",
+      "Heben und senken sie sich?"
+    ],
+    0.2259991466999054
+  ],
+  [
+    [
+      70,
+      5
+    ],
+    [
+      "Bringen Sie die betroffene Person in Schocklage .",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.19468528032302856
+  ],
+  [
+    [
+      71,
+      14
+    ],
+    [
+      "Legen Sie die Person auf den Rücken.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.24238121509552002
+  ],
+  [
+    [
+      72,
+      15
+    ],
+    [
+      "Legen Sie dann die Beine der Person hoch.",
+      "Heben und senken sie sich?"
+    ],
+    0.22666603326797485
+  ],
+  [
+    [
+      73,
+      15
+    ],
+    [
+      "Schieben Sie ihr dafür einen Gegenstand unter die Beine, zum Beispiel ein Kissen.",
+      "Heben und senken sie sich?"
+    ],
+    0.22633713483810425
+  ],
+  [
+    [
+      74,
+      5
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.23880711197853088
+  ],
+  [
+    [
+      75,
+      15
+    ],
+    [
+      "Kontrollieren Sie den Puls und die Atmung der betroffenen Person.",
+      "Heben und senken sie sich?"
+    ],
+    0.25810110569000244
+  ],
+  [
+    [
+      76,
+      7
+    ],
+    [
+      "Die betroffene Person ist bewusstlos?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.22621163725852966
+  ],
+  [
+    [
+      77,
+      15
+    ],
+    [
+      "Dann bringen Sie sie in die stabile Seitenlage .",
+      "Heben und senken sie sich?"
+    ],
+    0.22817203402519226
+  ],
+  [
+    [
+      78,
+      9
+    ],
+    [
+      "Die Atmung der betroffenen Person setzt aus?",
+      "Atmung prüfen:"
+    ],
+    0.1738898903131485
+  ],
+  [
+    [
+      79,
+      5
+    ],
+    [
+      "Oder der Kreislauf des Betroffenen bricht zusammen?",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.18927371501922607
+  ],
+  [
+    [
+      80,
+      5
+    ],
+    [
+      "Dann beginnen Sie mit der Wiederbelebung.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.20094677805900574
+  ],
+  [
+    [
+      81,
+      7
+    ],
+    [
+      "Die Schocklage ist nicht immer sinnvoll.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.21505261957645416
+  ],
+  [
+    [
+      82,
+      5
+    ],
+    [
+      "Bei einigen Anzeichen sollten Sie die betroffene Person nicht in die Schocklage bringen.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.2188681811094284
+  ],
+  [
+    [
+      83,
+      7
+    ],
+    [
+      "Dafür gibt es eine Merkregel.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.11669006198644638
+  ],
+  [
+    [
+      84,
+      2
+    ],
+    [
+      "Die Merkregel heißt: fünf B .",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.04263915494084358
+  ],
+  [
+    [
+      85,
+      9
+    ],
+    [
+      "Die fünf B stehen für: 1. Brust",
+      "Atmung prüfen:"
+    ],
+    0.06619763374328613
+  ],
+  [
+    [
+      86,
+      7
+    ],
+    [
+      "Die betroffene Person leidet unter:",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17181240022182465
+  ],
+  [
+    [
+      87,
+      2
+    ],
+    [
+      "Atemnot Schmerzen in der Brust einer Verletzung im Brustbereich einer akuten Herzerkrankung einem Herzinfarkt 2. Birne",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.15508735179901123
+  ],
+  [
+    [
+      88,
+      7
+    ],
+    [
+      "Die betroffene Person hat eine Verletzung am Kopf.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.15466029942035675
+  ],
+  [
+    [
+      89,
+      14
+    ],
+    [
+      "3. Bauch",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.10527198016643524
+  ],
+  [
+    [
+      90,
+      7
+    ],
+    [
+      "Die betroffene Person hat eine Verletzung oder Schmerzen im Bauchbereich.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.17174381017684937
+  ],
+  [
+    [
+      91,
+      14
+    ],
+    [
+      "4. Beine",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.09067375957965851
+  ],
+  [
+    [
+      92,
+      7
+    ],
+    [
+      "Die betroffene Person hat vielleicht einen Beinbruch.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18997472524642944
+  ],
+  [
+    [
+      94,
+      7
+    ],
+    [
+      "Die betroffene Person hat Verletzungen am Becken.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.14500178396701813
+  ],
+  [
+    [
+      95,
+      7
+    ],
+    [
+      "Oder sie hat Verletzungen an der Wirbelsäule.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.19394132494926453
+  ],
+  [
+    [
+      96,
+      5
+    ],
+    [
+      "Eines oder mehrere Anzeichen treffen auf die betroffene Person zu?",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.20341011881828308
+  ],
+  [
+    [
+      97,
+      15
+    ],
+    [
+      "Dann bringen Sie die betroffene Person nicht in die Schocklage.",
+      "Heben und senken sie sich?"
+    ],
+    0.20362718403339386
+  ],
+  [
+    [
+      98,
+      15
+    ],
+    [
+      "Sie wollen noch mehr über Schocks lesen?",
+      "Heben und senken sie sich?"
+    ],
+    0.21458064019680023
+  ],
+  [
+    [
+      99,
+      5
+    ],
+    [
+      "Mehr Informationen über Schocks finden Sie hier .",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.1700693964958191
+  ],
+  [
+    [
+      100,
+      5
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.13136695325374603
+  ],
+  [
+    [
+      101,
+      7
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18456687033176422
+  ]
+]

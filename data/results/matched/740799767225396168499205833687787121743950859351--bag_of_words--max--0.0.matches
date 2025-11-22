@@ -1,0 +1,607 @@
+[
+  [
+    [
+      0,
+      60
+    ],
+    [
+      "Das Knie ist ein Gelenk.",
+      "Chronische Bandverletzungen Wird eine Bandverletzung im Knie ignoriert, kann das Knie dauerhaft instabil werden."
+    ],
+    0.9724564552307129
+  ],
+  [
+    [
+      1,
+      129
+    ],
+    [
+      "Gelenke machen Körperteile beweglich.",
+      "Die Operation sollte nur stattfinden, wenn das Gelenk nicht überwärmt oder gerötet und wieder normal beweglich ist."
+    ],
+    0.03430585935711861
+  ],
+  [
+    [
+      2,
+      60
+    ],
+    [
+      "Das Knie verbindet Oberschenkel und Unterschenkel miteinander.",
+      "Chronische Bandverletzungen Wird eine Bandverletzung im Knie ignoriert, kann das Knie dauerhaft instabil werden."
+    ],
+    0.972744345664978
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Am Kniegelenk sind mehrere Bänder.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.8374866247177124
+  ],
+  [
+    [
+      4,
+      77
+    ],
+    [
+      "Die Bänder halten die Knochen im Kniegelenk zusammen.",
+      "Die Bänder selbst sind im Röntgenbild nicht darstellbar."
+    ],
+    0.8379290699958801
+  ],
+  [
+    [
+      5,
+      8
+    ],
+    [
+      "Und die Bänder machen das Gelenk stabil.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.8529523015022278
+  ],
+  [
+    [
+      6,
+      8
+    ],
+    [
+      "Das Kniegelenk wird durch diese Bänder gehalten:",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.8069344758987427
+  ],
+  [
+    [
+      7,
+      39
+    ],
+    [
+      "Außenband Innenband vorderes Kreuzband hinteres Kreuzband",
+      "Außer dem hinteren Kreuzband sind oft noch weitere Gelenkstrukturen verletzt."
+    ],
+    0.6700818538665771
+  ],
+  [
+    [
+      8,
+      18
+    ],
+    [
+      "Die Bänder im Knie können überdehnen.",
+      "Meistens reißen die Bänder im Knie – insbesondere das vordere Kreuzband – durch ein indirektes Trauma."
+    ],
+    0.8664328455924988
+  ],
+  [
+    [
+      9,
+      18
+    ],
+    [
+      "Die Bänder im Knie können sogar reißen.",
+      "Meistens reißen die Bänder im Knie – insbesondere das vordere Kreuzband – durch ein indirektes Trauma."
+    ],
+    0.878966748714447
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "In den meisten Fällen reißen dann mehrere Bänder auf einmal.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.9532024264335632
+  ],
+  [
+    [
+      11,
+      18
+    ],
+    [
+      "Die Bänder im Knie reißen teilweise?",
+      "Meistens reißen die Bänder im Knie – insbesondere das vordere Kreuzband – durch ein indirektes Trauma."
+    ],
+    0.879242479801178
+  ],
+  [
+    [
+      12,
+      66
+    ],
+    [
+      "Dann spricht der Arzt von einem Teilriss.",
+      "Deshalb wendet der Arzt bestimmte orthopädische Tests (Stabilitätsuntersuchungen) an."
+    ],
+    0.3869935870170593
+  ],
+  [
+    [
+      13,
+      19
+    ],
+    [
+      "Das Fachwort für einen Teilriss ist: Teilruptur.",
+      "Das bedeutet:"
+    ],
+    0.5444214344024658
+  ],
+  [
+    [
+      14,
+      18
+    ],
+    [
+      "Die Bänder im Knie reißen ganz?",
+      "Meistens reißen die Bänder im Knie – insbesondere das vordere Kreuzband – durch ein indirektes Trauma."
+    ],
+    0.8793669939041138
+  ],
+  [
+    [
+      15,
+      47
+    ],
+    [
+      "Dann spricht der Arzt von einem Bänderriss im Knie.",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9268844127655029
+  ],
+  [
+    [
+      16,
+      17
+    ],
+    [
+      "Das Fachwort für einen Bänderriss ist: Bandruptur.",
+      "So kommt es zu einem Bänderriss"
+    ],
+    0.9043207764625549
+  ],
+  [
+    [
+      17,
+      18
+    ],
+    [
+      "Die Bänder im Knie werden bei Bewegung beansprucht.",
+      "Meistens reißen die Bänder im Knie – insbesondere das vordere Kreuzband – durch ein indirektes Trauma."
+    ],
+    0.8672077059745789
+  ],
+  [
+    [
+      18,
+      8
+    ],
+    [
+      "Bei viel Bewegung werden die Bänder besonders beansprucht.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.8681789040565491
+  ],
+  [
+    [
+      19,
+      15
+    ],
+    [
+      "Das passiert vor allem oft beim Sport.",
+      "Das Risiko für Bandverletzungen steigt außerdem an, wenn das Aufwärmtraining vor dem Sport nur mangelhaft ist."
+    ],
+    0.6744097471237183
+  ],
+  [
+    [
+      20,
+      8
+    ],
+    [
+      "Dabei können die Bänder:",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.8894619345664978
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "zerren reißen",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.3037148416042328
+  ],
+  [
+    [
+      23,
+      95
+    ],
+    [
+      "Es gibt verschiedene Arten des Bänderrisses: Außen bandriss Innen bandriss Kreuz",
+      "= Hochlagern des betroffenen Beines"
+    ],
+    0.01778257265686989
+  ],
+  [
+    [
+      24,
+      19
+    ],
+    [
+      "bandriss Ist das Band komplett gerissen?",
+      "Das bedeutet:"
+    ],
+    0.40452951192855835
+  ],
+  [
+    [
+      25,
+      47
+    ],
+    [
+      "Dann spricht der Arzt von einem Bänderriss im Knie .",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9268844127655029
+  ],
+  [
+    [
+      26,
+      47
+    ],
+    [
+      "Ein Bänderriss im Knie kommt oft beim Sport vor.",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9247303009033203
+  ],
+  [
+    [
+      27,
+      96
+    ],
+    [
+      "Bei manchen Sportarten muss ein Sportler sehr schnell die Richtung wechseln.",
+      "Bei Knieverletzungen sollte ein Arzt aufgesucht werden um die genaue Diagnose zu sichern."
+    ],
+    0.4197289049625397
+  ],
+  [
+    [
+      28,
+      60
+    ],
+    [
+      "Dabei kann sich das Knie verdrehen und ein Band im Knie kann reißen.",
+      "Chronische Bandverletzungen Wird eine Bandverletzung im Knie ignoriert, kann das Knie dauerhaft instabil werden."
+    ],
+    0.9664304256439209
+  ],
+  [
+    [
+      29,
+      26
+    ],
+    [
+      "Zu solchen schnellen Sportarten gehören zum Beispiel: Fußball",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.3737192451953888
+  ],
+  [
+    [
+      30,
+      26
+    ],
+    [
+      "Handball",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.1788913607597351
+  ],
+  [
+    [
+      31,
+      26
+    ],
+    [
+      "Basketball",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.16404928267002106
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "Tennis",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.15427306294441223
+  ],
+  [
+    [
+      33,
+      47
+    ],
+    [
+      "Ein Bänderriss im Knie kann aber auch beim Skifahren oder bei anderen Sportarten passieren.",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9255700707435608
+  ],
+  [
+    [
+      34,
+      47
+    ],
+    [
+      "Sie möchten einen Bänderriss im Knie vermeiden?",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9260227084159851
+  ],
+  [
+    [
+      35,
+      67
+    ],
+    [
+      "Dann wärmen Sie sich vor dem Sport immer gut auf.",
+      "Sie helfen, diese Unterscheidung zu treffen."
+    ],
+    0.22635911405086517
+  ],
+  [
+    [
+      36,
+      60
+    ],
+    [
+      "Ein Bänderriss hat verschiedene Anzeichen wie zum Beispiel: plötzliche und starke Schmerzen, ein dickes und geschwollenes Knie, das Knie fühlt sich wackelig an, das Knie lässt sich nicht mehr gut bewegen.",
+      "Chronische Bandverletzungen Wird eine Bandverletzung im Knie ignoriert, kann das Knie dauerhaft instabil werden."
+    ],
+    0.9565050601959229
+  ],
+  [
+    [
+      37,
+      47
+    ],
+    [
+      "Ein Bänderriss im Knie sollte immer von einem Arzt behandelt werden.",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9296678304672241
+  ],
+  [
+    [
+      38,
+      60
+    ],
+    [
+      "Direkt nach einem Sportunfall können Sie das Knie so entlasten : schonen Sie das Knie, legen Sie das Bein mit dem verletzten Knie hoch, kühlen Sie das verletzte Knie, legen Sie einen elastischen Druckverband an.",
+      "Chronische Bandverletzungen Wird eine Bandverletzung im Knie ignoriert, kann das Knie dauerhaft instabil werden."
+    ],
+    0.9694691300392151
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Achtung: Kühlen Sie die Stelle nicht zu lange.",
+      "Die Ursachen sind nicht eindeutig geklärt."
+    ],
+    0.4665992856025696
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Und legen Sie die Kühlpackung nicht direkt auf die Haut.",
+      "Die Ursachen sind nicht eindeutig geklärt."
+    ],
+    0.6165140867233276
+  ],
+  [
+    [
+      41,
+      19
+    ],
+    [
+      "Das kann der Haut schaden.",
+      "Das bedeutet:"
+    ],
+    0.7651031017303467
+  ],
+  [
+    [
+      42,
+      47
+    ],
+    [
+      "Ein Bänderriss im Knie muss behandelt werden.",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9271941781044006
+  ],
+  [
+    [
+      43,
+      30
+    ],
+    [
+      "Dafür gibt es zwei Möglichkeiten: das Kniegelenk ist instabil, mehrere Bänder sind verletzt, Knochen am Kniegelenk sind verletzt.",
+      "Die Folge: Das Kniegelenk wird übermäßig nach außen überdreht, die Bänder strapaziert."
+    ],
+    0.7516515851020813
+  ],
+  [
+    [
+      44,
+      66
+    ],
+    [
+      "Der Arzt spricht mit Ihnen über die Risiken einer Operation.",
+      "Deshalb wendet der Arzt bestimmte orthopädische Tests (Stabilitätsuntersuchungen) an."
+    ],
+    0.4503880739212036
+  ],
+  [
+    [
+      45,
+      112
+    ],
+    [
+      "Und der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Der Arzt empfiehlt dazu schmerzlindernde, entzündungshemmende und abschwellende Arzneien."
+    ],
+    0.762464702129364
+  ],
+  [
+    [
+      46,
+      112
+    ],
+    [
+      "Nach der konservativen und nach der operativen Therapie entscheidet der Arzt oft:",
+      "Der Arzt empfiehlt dazu schmerzlindernde, entzündungshemmende und abschwellende Arzneien."
+    ],
+    0.7725366353988647
+  ],
+  [
+    [
+      47,
+      67
+    ],
+    [
+      "Sie machen eine Physiotherapie.",
+      "Sie helfen, diese Unterscheidung zu treffen."
+    ],
+    0.22890408337116241
+  ],
+  [
+    [
+      48,
+      86
+    ],
+    [
+      "Bei der Physiotherapie trainieren Sie die Muskeln in den Beinen.",
+      "Die Analyse der entnommenen Flüssigkeit kann Hinweise für die Diagnose liefern:"
+    ],
+    0.37153369188308716
+  ],
+  [
+    [
+      49,
+      60
+    ],
+    [
+      "So wird Ihr Knie wieder stabil.",
+      "Chronische Bandverletzungen Wird eine Bandverletzung im Knie ignoriert, kann das Knie dauerhaft instabil werden."
+    ],
+    0.960242748260498
+  ],
+  [
+    [
+      50,
+      145
+    ],
+    [
+      "Und bei der Physiotherapie trainieren Sie Ihre Koordination.",
+      "Er war viele Jahre Präsident der Gesellschaft für Orthopädisch-Traumatologische Sportmedizin (GOTS) und leitender Orthopäde der Deutschen Olympia-Mannschaft."
+    ],
+    0.29335638880729675
+  ],
+  [
+    [
+      51,
+      67
+    ],
+    [
+      "So können Sie auch Ihre Bewegungen wieder besser steuern.",
+      "Sie helfen, diese Unterscheidung zu treffen."
+    ],
+    0.28428545594215393
+  ],
+  [
+    [
+      52,
+      47
+    ],
+    [
+      "Sie wollen noch mehr über den Bänderriss im Knie lesen?",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9256817102432251
+  ],
+  [
+    [
+      53,
+      47
+    ],
+    [
+      "Mehr Informationen über den Bänderriss im Knie finden Sie hier .",
+      "Bei einem Bänderriss im Knie treten heftige, sofort nach dem Ereignis einsetzende Schmerzen auf, welche im Verlauf wieder nachlassen können."
+    ],
+    0.9253832697868347
+  ],
+  [
+    [
+      54,
+      22
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Der Sportler stoppt aus vollem Lauf heraus ganz plötzlich, weil er seine Laufrichtung ändern möchte."
+    ],
+    0.04425041005015373
+  ],
+  [
+    [
+      55,
+      11
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Ursachen sind nicht eindeutig geklärt."
+    ],
+    0.6987488865852356
+  ]
+]

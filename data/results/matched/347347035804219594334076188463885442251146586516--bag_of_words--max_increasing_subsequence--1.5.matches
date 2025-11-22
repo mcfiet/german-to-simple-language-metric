@@ -1,0 +1,574 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie suchen eine Person?",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.7548435926437378
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und Sie haben einen Grund dafür?",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.659223735332489
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zum Beispiel: Sie wollen mit jemandem aus Ihrer Familie Kontakt aufnehmen .",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.693771243095398
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Oder Sie planen ein Klassen-Treffen mit Ihren Schul-Freunden von früher.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.7515167593955994
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Sie wissen aber nicht, wo die Schul-Freunde heute wohnen.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.651443600654602
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Sie haben einen rechtlichen Grund dazu.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.6506443023681641
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Und Sie wollen das Geld zurück haben, das die Person Ihnen schuldet.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.681425154209137
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Dann können Sie bei uns erfahren, welche Adresse die Person zuletzt in Köln hatte.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.7179920077323914
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Wenn wir die Person eindeutig feststellen können, bekommen Sie diese Infos:",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.6496301293373108
+  ],
+  [
+    [
+      19,
+      0
+    ],
+    [
+      "Sie können online nach der Person suchen.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.7355203628540039
+  ],
+  [
+    [
+      30,
+      0
+    ],
+    [
+      "Und Sie wollen das Geld von der Person bekommen.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.7242844700813293
+  ],
+  [
+    [
+      31,
+      0
+    ],
+    [
+      "Als Beweis können Sie uns eine Rechnung zeigen, die Sie der Person geschrieben haben.",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.8026852011680603
+  ],
+  [
+    [
+      34,
+      0
+    ],
+    [
+      "Sie suchen eine Person, die seit langem nicht mehr in Köln wohnt?",
+      "Sie brauchen Meldedaten zu einer bestimmten Person, weil Sie zum Beispiel ein Klassentreffen organisieren wollen, ein Familienmitglied suchen oder Rechtsansprüche gegen jemanden haben?"
+    ],
+    0.7127285599708557
+  ],
+  [
+    [
+      39,
+      14
+    ],
+    [
+      "Bis zu 50 Jahre nachdem die Person umgezogen ist.",
+      "Für die eindeutige Identifikation der von Ihnen gesuchten Person müssen Sie vier melderechtliche Angaben der Person mitteilen."
+    ],
+    0.6669641137123108
+  ],
+  [
+    [
+      40,
+      14
+    ],
+    [
+      "Oder nachdem die Person gestorben ist.",
+      "Für die eindeutige Identifikation der von Ihnen gesuchten Person müssen Sie vier melderechtliche Angaben der Person mitteilen."
+    ],
+    0.6669007539749146
+  ],
+  [
+    [
+      41,
+      14
+    ],
+    [
+      "Was muss ich tun, um Infos zu einer Person zu bekommen?",
+      "Für die eindeutige Identifikation der von Ihnen gesuchten Person müssen Sie vier melderechtliche Angaben der Person mitteilen."
+    ],
+    0.5515841245651245
+  ],
+  [
+    [
+      46,
+      14
+    ],
+    [
+      "Sie suchen im Internet nach der Person.",
+      "Für die eindeutige Identifikation der von Ihnen gesuchten Person müssen Sie vier melderechtliche Angaben der Person mitteilen."
+    ],
+    0.6483367681503296
+  ],
+  [
+    [
+      49,
+      17
+    ],
+    [
+      "Klicken Sie dazu bitte auf den nächsten Satz:",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7548226118087769
+  ],
+  [
+    [
+      50,
+      17
+    ],
+    [
+      "Dann kommen Sie zu einer neuen Internet-Seite.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7661333680152893
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Sie müssen für die Auskunft 6 Euro bezahlen .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6577535271644592
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Sie müssen das Geld sofort bezahlen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6544654965400696
+  ],
+  [
+    [
+      57,
+      17
+    ],
+    [
+      "Deshalb müssen Sie Ihre Bank-Daten aufschreiben .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7488449811935425
+  ],
+  [
+    [
+      60,
+      17
+    ],
+    [
+      "Dann bekommen Sie die Auskunft aus dem Melde-Register sofort .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6771747469902039
+  ],
+  [
+    [
+      61,
+      17
+    ],
+    [
+      "Wichtig: Sie können auch mit Kredit-Karte bezahlen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.753658652305603
+  ],
+  [
+    [
+      63,
+      17
+    ],
+    [
+      "Hier finden Sie mehr Infos zum Bezahlen im Internet: 2. Antrag im Kunden-Zentrum stellen 2.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.5487732887268066
+  ],
+  [
+    [
+      64,
+      17
+    ],
+    [
+      "Sie können auch einen Antrag stellen : im Kunden-Zentrum Innenstadt .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7348935008049011
+  ],
+  [
+    [
+      66,
+      17
+    ],
+    [
+      "Sie müssen dafür keinen Termin machen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7491774559020996
+  ],
+  [
+    [
+      67,
+      17
+    ],
+    [
+      "Sie können ohne Termin zu uns kommen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.776714563369751
+  ],
+  [
+    [
+      70,
+      17
+    ],
+    [
+      "Sie können auch einen Brief schreiben an die Abteilung Einwohner-Wesen .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6671028733253479
+  ],
+  [
+    [
+      71,
+      17
+    ],
+    [
+      "Schicken Sie den Brief an die Adresse:",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6765649318695068
+  ],
+  [
+    [
+      76,
+      17
+    ],
+    [
+      "Sie suchen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6848508715629578
+  ],
+  [
+    [
+      78,
+      17
+    ],
+    [
+      "und warum Sie die Infos brauchen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6124938726425171
+  ],
+  [
+    [
+      80,
+      17
+    ],
+    [
+      "Sie müssen erklären:",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7700296640396118
+  ],
+  [
+    [
+      82,
+      17
+    ],
+    [
+      "Und dass Sie die Infos nicht für den Handel von Adressen brauchen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.5882042050361633
+  ],
+  [
+    [
+      85,
+      17
+    ],
+    [
+      "Wenn Sie alle 4 Angaben machen können, reicht das für den Antrag aus.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.8221639394760132
+  ],
+  [
+    [
+      86,
+      17
+    ],
+    [
+      "Wenn Sie nur 3 dieser Angaben machen können, müssen Sie 1 weitere von folgenden Angaben machen: Geburts-Ort .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.8797802925109863
+  ],
+  [
+    [
+      92,
+      17
+    ],
+    [
+      "Also ob sie verheiratet ist.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7724388837814331
+  ],
+  [
+    [
+      93,
+      17
+    ],
+    [
+      "Oder ob sie geschieden ist.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7934010028839111
+  ],
+  [
+    [
+      96,
+      17
+    ],
+    [
+      "Zum Beispiel: Ob sie Deutsche oder Deutscher ist.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7822757363319397
+  ],
+  [
+    [
+      108,
+      17
+    ],
+    [
+      "Sie müssen das Geld überweisen .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.661201536655426
+  ],
+  [
+    [
+      110,
+      17
+    ],
+    [
+      "Dazu füllen Sie bei Ihrer Bank einen Zettel aus.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6845424771308899
+  ],
+  [
+    [
+      112,
+      17
+    ],
+    [
+      "Sie können sich bei Ihrer Bank helfen lassen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7461788654327393
+  ],
+  [
+    [
+      115,
+      17
+    ],
+    [
+      "Sie können die Überweisung auch im Internet machen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.702785849571228
+  ],
+  [
+    [
+      117,
+      17
+    ],
+    [
+      "Dazu brauchen Sie ein Pass-Wort von Ihrer Bank.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6851205825805664
+  ],
+  [
+    [
+      118,
+      17
+    ],
+    [
+      "Wichtig: Wenn Sie nicht persönlich zu uns kommen, sondern Ihre Anfrage mit der Post schicken an die Abteilung Einwohner-Wesen , dann müssen Sie 2 Dinge beachten:",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7565485239028931
+  ],
+  [
+    [
+      119,
+      17
+    ],
+    [
+      "1. Sie müssen das Geld VORHER überweisen .",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.6536634564399719
+  ],
+  [
+    [
+      124,
+      17
+    ],
+    [
+      "2. Sie müssen eine Kopie von Ihrem Konto-Auszug mit schicken.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7034201622009277
+  ],
+  [
+    [
+      125,
+      17
+    ],
+    [
+      "Damit wir sehen können, dass Sie das Geld bezahlt haben.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.65741366147995
+  ],
+  [
+    [
+      126,
+      17
+    ],
+    [
+      "Achtung: Wenn Sie nicht wissen, wie Sie Geld überweisen können, lassen Sie es sich von jemandem zeigen.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7940635085105896
+  ],
+  [
+    [
+      127,
+      17
+    ],
+    [
+      "Oder fragen Sie Ihre Bank.",
+      "Wenn Sie nur drei dieser Angaben machen können, also Adresse oder Geburtsdatum, dann müssen Sie noch ein weiteres Kriterium mitteilen."
+    ],
+    0.7596368789672852
+  ],
+  [
+    [
+      128,
+      21
+    ],
+    [
+      "In welchem Gesetz stehen die Regeln zur Melde-Auskunft?",
+      "Welche Art Meldeauskunft?"
+    ],
+    0.9736596345901489
+  ],
+  [
+    [
+      129,
+      21
+    ],
+    [
+      "Die Regeln zur Melde-Auskunft stehen im Bundes-Melde-Gesetz.",
+      "Welche Art Meldeauskunft?"
+    ],
+    0.9737010598182678
+  ]
+]

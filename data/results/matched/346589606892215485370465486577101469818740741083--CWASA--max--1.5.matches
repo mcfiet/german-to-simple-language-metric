@@ -1,0 +1,926 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Wenn Sie 16 Jahre alt werden, dann müssen Sie einen Personal-Ausweis haben.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.5766842365264893
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Wenn Sie keinen gültigen Personal-Ausweis haben, dann müssen Sie einen Personal-Ausweis beantragen .",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.7908192873001099
+  ],
+  [
+    [
+      3,
+      39
+    ],
+    [
+      "Auf den neuen Personal-Ausweis müssen Sie 3 bis 4 Wochen warten.",
+      "Bis der endgültige Personalausweis abgeholt werden kann, dauert es ab dem Tag der Antragstellung etwa drei bis vier Wochen."
+    ],
+    0.49242815375328064
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Wenn Sie nicht so lange warten können, dann können Sie einen vorläufigen Personal-Ausweis bekommen.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.6862905621528625
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Wie bekomme ich einen vorläufigen Personal-Ausweis?",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.5445504784584045
+  ],
+  [
+    [
+      7,
+      69
+    ],
+    [
+      "Um einen vorläufigen Personal-Ausweis zu beantragen, müssen Sie persönlich zu uns in ein Kunden-Zentrum in Köln kommen.",
+      "Den Antrag können Sie in jedem Kundenzentrum in Köln stellen, unabhängig von Ihrem Wohnort."
+    ],
+    0.6202842593193054
+  ],
+  [
+    [
+      8,
+      69
+    ],
+    [
+      "In dieser Liste finden Sie alle Kunden-Zentren in Köln.",
+      "Den Antrag können Sie in jedem Kundenzentrum in Köln stellen, unabhängig von Ihrem Wohnort."
+    ],
+    0.5871249437332153
+  ],
+  [
+    [
+      10,
+      54
+    ],
+    [
+      "Dann sehen Sie die Adresse und die Öffnungs-Zeiten.",
+      "Sie erreichen die Hotline über die kostenfreie 116 116."
+    ],
+    0.5464596152305603
+  ],
+  [
+    [
+      12,
+      40
+    ],
+    [
+      "Jugendliche ab 16 Jahren können alleine einen vorläufigen Personal-Ausweis beantragen.",
+      "Besonderheiten für Kinder und Jugendliche Jugendliche ab dem 16. Lebensjahr können alleine einen Ausweis beantragen, wenn sie ein Ausweisdokument mit Foto besitzen, auf dem sie eindeutig zu erkennen sind (beispielsweise Kinderreisepass, Kinderausweis, Reisepass)."
+    ],
+    0.5830875635147095
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Dazu müssen Sie uns einen anderen Ausweis mit Foto zeigen.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.546562671661377
+  ],
+  [
+    [
+      14,
+      49
+    ],
+    [
+      "Zum Beispiel: Ihren Kinder-Reise-Pass Ihren Kinder-Ausweis oder Ihren Reise-Pass.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.5300289988517761
+  ],
+  [
+    [
+      15,
+      41
+    ],
+    [
+      "Wenn Sie uns diese Papiere nicht zeigen können , dann muss eine erziehungs-berechtigte Person mit Ihnen zu uns kommen.",
+      "Wenn kein entsprechender Identitätsnachweis vorgelegt werden kann, ist bei der Antragstellung die Begleitung durch eine erziehungsberechtigte Person, die sich ausweisen kann, erforderlich."
+    ],
+    0.5460585355758667
+  ],
+  [
+    [
+      18,
+      41
+    ],
+    [
+      "Die erziehungs-berechtigte Person muss uns ihren Personal-Ausweis oder ihren Reise-Pass zeigen.",
+      "Wenn kein entsprechender Identitätsnachweis vorgelegt werden kann, ist bei der Antragstellung die Begleitung durch eine erziehungsberechtigte Person, die sich ausweisen kann, erforderlich."
+    ],
+    0.5156584978103638
+  ],
+  [
+    [
+      19,
+      43
+    ],
+    [
+      "Jugendliche unter 16 Jahren können auch einen vorläufigen Personal-Ausweis bekommen.",
+      "Beachten Sie außerdem die Hinweise zur Beantragung von Ausweisdokumenten für Minderjährige unter 16 Jahren."
+    ],
+    0.5577974319458008
+  ],
+  [
+    [
+      20,
+      40
+    ],
+    [
+      "Wenn Sie den vorläufigen Personal-Ausweis für Ihr Kind beantragen wollen, dann muss mindestens ein Eltern-Teil mit dem Kind zu uns kommen.",
+      "Besonderheiten für Kinder und Jugendliche Jugendliche ab dem 16. Lebensjahr können alleine einen Ausweis beantragen, wenn sie ein Ausweisdokument mit Foto besitzen, auf dem sie eindeutig zu erkennen sind (beispielsweise Kinderreisepass, Kinderausweis, Reisepass)."
+    ],
+    0.6005901098251343
+  ],
+  [
+    [
+      22,
+      40
+    ],
+    [
+      "Der Eltern-Teil, der mit dem Kind zu uns kommt, muss uns seinen Ausweis zeigen.",
+      "Besonderheiten für Kinder und Jugendliche Jugendliche ab dem 16. Lebensjahr können alleine einen Ausweis beantragen, wenn sie ein Ausweisdokument mit Foto besitzen, auf dem sie eindeutig zu erkennen sind (beispielsweise Kinderreisepass, Kinderausweis, Reisepass)."
+    ],
+    0.5207769870758057
+  ],
+  [
+    [
+      23,
+      61
+    ],
+    [
+      "Vom anderen Eltern-Teil müssen Sie uns eine Kopie vom Ausweis zeigen.",
+      "Sie müssen die deutsche Staatsangehörigkeit besitzen."
+    ],
+    0.5652101039886475
+  ],
+  [
+    [
+      24,
+      61
+    ],
+    [
+      "Und Sie müssen uns eine Vollmacht vom anderen Eltern-Teil zeigen.",
+      "Sie müssen die deutsche Staatsangehörigkeit besitzen."
+    ],
+    0.5585267543792725
+  ],
+  [
+    [
+      26,
+      61
+    ],
+    [
+      "Sie erlauben einer Person, etwas für Sie zu tun.",
+      "Sie müssen die deutsche Staatsangehörigkeit besitzen."
+    ],
+    0.5080695748329163
+  ],
+  [
+    [
+      27,
+      19
+    ],
+    [
+      "Die Erlaubnis müssen Sie unterschreiben .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.6741336584091187
+  ],
+  [
+    [
+      28,
+      43
+    ],
+    [
+      "Bitte lesen Sie die Infos zu Ausweisen für Kinder und Jugendliche.",
+      "Beachten Sie außerdem die Hinweise zur Beantragung von Ausweisdokumenten für Minderjährige unter 16 Jahren."
+    ],
+    0.5443965196609497
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Was brauche ich, um einen vorläufigen Personal-Ausweis zu bekommen?",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.5489751100540161
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Wenn Sie einen vorläufigen Personal-Ausweis beantragen wollen, dann müssen Sie uns diese Papiere zeigen: Ihren alten Personal-Ausweis",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.7101879119873047
+  ],
+  [
+    [
+      31,
+      37
+    ],
+    [
+      "Wenn Sie den vorläufigen Personal-Ausweis bekommen, dann behalten wir Ihren alten Personal-Ausweis.",
+      "Den vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt."
+    ],
+    0.6912710070610046
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Oder wir machen den alten Personal-Ausweis ungültig.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.4994172155857086
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Und geben Ihnen dann den alten Personal-Ausweis zurück.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.5133429169654846
+  ],
+  [
+    [
+      34,
+      4
+    ],
+    [
+      "Ihren alten Kinder-Reise-Pass Ihren Reise-Pass",
+      "Bisheriger Kinderreisepass Ihr Reisepass"
+    ],
+    0.6260011792182922
+  ],
+  [
+    [
+      35,
+      0
+    ],
+    [
+      "Sie müssen uns Ihren Reise-Pass zeigen, wenn Sie Ihren alten Personal-Ausweis verloren haben.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Ausweis?"
+    ],
+    0.5752888917922974
+  ],
+  [
+    [
+      36,
+      1
+    ],
+    [
+      "Oder wenn Sie vorher keinen Personal-Ausweis hatten.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.5525334477424622
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Wenn Sie einen vorläufigen Personal-Ausweis brauchen, dann müssen Sie uns 2 Pass-Fotos von Ihnen geben.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.6365486979484558
+  ],
+  [
+    [
+      39,
+      37
+    ],
+    [
+      "Das 1. Foto brauchen wir für den vorläufigen Personal-Ausweis.",
+      "Den vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt."
+    ],
+    0.5155521035194397
+  ],
+  [
+    [
+      40,
+      40
+    ],
+    [
+      "Das 2. Foto brauchen wir für den endgültigen Personal-Ausweis.",
+      "Besonderheiten für Kinder und Jugendliche Jugendliche ab dem 16. Lebensjahr können alleine einen Ausweis beantragen, wenn sie ein Ausweisdokument mit Foto besitzen, auf dem sie eindeutig zu erkennen sind (beispielsweise Kinderreisepass, Kinderausweis, Reisepass)."
+    ],
+    0.4933120906352997
+  ],
+  [
+    [
+      42,
+      14
+    ],
+    [
+      "Das heißt: Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollten nicht älter als drei Monate sein."
+    ],
+    0.8369197845458984
+  ],
+  [
+    [
+      43,
+      14
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollten nicht älter als drei Monate sein."
+    ],
+    0.5901799201965332
+  ],
+  [
+    [
+      50,
+      15
+    ],
+    [
+      "Befolgen Sie bitte die Regeln für Pass-Fotos.",
+      "Beachten Sie bitte die speziellen Anforderungen an das Passfoto."
+    ],
+    0.6079734563827515
+  ],
+  [
+    [
+      51,
+      16
+    ],
+    [
+      "Die Regeln stehen in der Foto-Muster-Tafel .",
+      "Die Regelungen sind in einer Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.675853431224823
+  ],
+  [
+    [
+      52,
+      66
+    ],
+    [
+      "Geburts-Urkunde",
+      "Vorsprache"
+    ],
+    0.5278831720352173
+  ],
+  [
+    [
+      53,
+      7
+    ],
+    [
+      "Wenn Sie ledig sind, dann bringen Sie bitte Ihre Geburts-Urkunde mit.",
+      "Bitte bringen Sie vorsorglich eine Urkunde beziehungsweise das Familienstammbuch mit."
+    ],
+    0.6120741367340088
+  ],
+  [
+    [
+      54,
+      9
+    ],
+    [
+      "Oder einen Auszug aus dem Geburts-Register .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.5444859266281128
+  ],
+  [
+    [
+      55,
+      9
+    ],
+    [
+      "Oder einen Auszug aus dem Familien-Stamm-Buch .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.5220881700515747
+  ],
+  [
+    [
+      58,
+      6
+    ],
+    [
+      "Ehe- oder Lebens-Partnerschafts-Urkunde",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.845781683921814
+  ],
+  [
+    [
+      59,
+      9
+    ],
+    [
+      "Wenn Sie verheiratet oder verpartnert sind, dann brauchen wir von Ihnen: eine Ehe-Urkunde , einen Auszug aus dem Ehe-Register oder eine Lebens-Partnerschafts-Urkunde .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.7862896919250488
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Wir brauchen diese Urkunde auch, wenn Sie geschieden oder verwitwet sind.",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.573253333568573
+  ],
+  [
+    [
+      61,
+      12
+    ],
+    [
+      "Wichtig: Urkunden aus dem Ausland müssen ins Deutsche übersetzt werden.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.5342764854431152
+  ],
+  [
+    [
+      63,
+      50
+    ],
+    [
+      "Für das Amt in Deutschland muss die Urkunde ins Deutsche übersetzt werden.",
+      "Deutsche Staatsangehörige, die im Ausland wohnen, wenden sich in Personalausweis-, Reisepass- und Kinderreisepassangelegenheiten bitte an die für sie zuständige Auslandsvertretung."
+    ],
+    0.533027708530426
+  ],
+  [
+    [
+      64,
+      10
+    ],
+    [
+      "Das muss ein Übersetzer oder eine Übersetzerin machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5989543795585632
+  ],
+  [
+    [
+      65,
+      10
+    ],
+    [
+      "Oder ein Dolmetscher oder eine Dolmetscherin.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5983803868293762
+  ],
+  [
+    [
+      67,
+      18
+    ],
+    [
+      "Es ist nicht möglich, die Urkunden selbst zu übersetzen.",
+      "Verlustanzeige Diese ist erforderlich, wenn der alte Personalausweis verloren gegangen ist."
+    ],
+    0.5494264364242554
+  ],
+  [
+    [
+      68,
+      61
+    ],
+    [
+      "Auch wenn Sie die Sprache gut beherrschen.",
+      "Sie müssen die deutsche Staatsangehörigkeit besitzen."
+    ],
+    0.5462887287139893
+  ],
+  [
+    [
+      69,
+      60
+    ],
+    [
+      "Es sind nur Übersetzungen von diesen Experten erlaubt.",
+      "Diesen Notdienst können Sie nur in Anspruch nehmen, wenn folgende Voraussetzungen erfüllt sind:"
+    ],
+    0.48736900091171265
+  ],
+  [
+    [
+      71,
+      10
+    ],
+    [
+      "Er prüft die Übersetzer und Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.501249372959137
+  ],
+  [
+    [
+      73,
+      11
+    ],
+    [
+      "Das schwere Wort dafür ist: öffentlich bestellt oder beeidigt.",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.5469938516616821
+  ],
+  [
+    [
+      75,
+      67
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Sie müssen persönlich erscheinen."
+    ],
+    0.5140054821968079
+  ],
+  [
+    [
+      76,
+      12
+    ],
+    [
+      "Sie müssen die Urkunden und Übersetzungen im Original abgeben.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.7806276679039001
+  ],
+  [
+    [
+      77,
+      12
+    ],
+    [
+      "Sie können keine Kopie von Urkunden und Übersetzungen abgeben.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.5627127885818481
+  ],
+  [
+    [
+      78,
+      1
+    ],
+    [
+      "Verlust-Anzeige Wenn Sie Ihren alten Personal-Ausweis verloren haben, dann müssen Sie uns eine Verlust-Anzeige zeigen.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.5461797118186951
+  ],
+  [
+    [
+      80,
+      19
+    ],
+    [
+      "Sie können die Verlust-Anzeige am Computer ausfüllen .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.7115098834037781
+  ],
+  [
+    [
+      81,
+      19
+    ],
+    [
+      "Dann müssen Sie die Verlust-Anzeige ausdrucken .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.7394129037857056
+  ],
+  [
+    [
+      82,
+      1
+    ],
+    [
+      "Wenn Sie den vorläufigen Personal-Ausweis beantragen, dann zeigen Sie uns bitte die Verlust-Anzeige.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.6573779582977295
+  ],
+  [
+    [
+      83,
+      20
+    ],
+    [
+      "Bescheinigung von der Polizei",
+      "Diebstahlsanzeige der Polizei"
+    ],
+    0.6321089863777161
+  ],
+  [
+    [
+      84,
+      21
+    ],
+    [
+      "Wenn Ihr Personal-Ausweis gestohlen wurde, dann müssen Sie zur Polizei gehen.",
+      "Falls der bisherige Personalausweis gestohlen wurde, wird die Bescheinigung der Polizei über den Diebstahl benötigt."
+    ],
+    0.5523326992988586
+  ],
+  [
+    [
+      86,
+      27
+    ],
+    [
+      "Dann bekommen Sie eine Bescheinigung von der Polizei .",
+      "Diese zahlen Sie bitte mit den Gebühren für die Ausweisdokumente bei der Sachbearbeitung."
+    ],
+    0.5423114895820618
+  ],
+  [
+    [
+      87,
+      1
+    ],
+    [
+      "Wenn Sie den vorläufigen Personal-Ausweis beantragen, dann müssen Sie uns die Bescheinigung von der Polizei zeigen.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.6401392817497253
+  ],
+  [
+    [
+      88,
+      37
+    ],
+    [
+      "Wann bekomme ich den vorläufigen Personal-Ausweis?",
+      "Den vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt."
+    ],
+    0.5680781006813049
+  ],
+  [
+    [
+      89,
+      37
+    ],
+    [
+      "Wenn Sie uns alle nötigen Papiere zeigen, dann bekommen Sie den vorläufigen Personal-Ausweis sofort .",
+      "Den vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt."
+    ],
+    0.6679787635803223
+  ],
+  [
+    [
+      90,
+      1
+    ],
+    [
+      "Wir beantragen für Sie dann auch einen endgültigen Personal-Ausweis.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.7001155614852905
+  ],
+  [
+    [
+      91,
+      59
+    ],
+    [
+      "Bis Sie den endgültigen Personal-Ausweis bei uns abholen können, müssen Sie 3 bis 4 Wochen warten.",
+      "Für solche Ausnahmesituationen können Sie samstags in der Zeit von 9 bis 14 Uhr in der Kfz-Zulassungsstelle, Max-Glomsda-Straße 4 in Köln-Poll, die Ausstellung eines Ersatzreisedokumentes (vorläufiger Personalausweis oder vorläufiger Reisepass) beantragen."
+    ],
+    0.5816861391067505
+  ],
+  [
+    [
+      92,
+      3
+    ],
+    [
+      "Wo gilt der vorläufige Personal-Ausweis?",
+      "Der bisherige Ausweis wird bei der Aushändigung des vorläufigen maschinenlesbaren Personalausweises eingezogen."
+    ],
+    0.5038470029830933
+  ],
+  [
+    [
+      93,
+      3
+    ],
+    [
+      "Der vorläufige Personal-Ausweis gilt in ganz Deutschland.",
+      "Der bisherige Ausweis wird bei der Aushändigung des vorläufigen maschinenlesbaren Personalausweises eingezogen."
+    ],
+    0.5181264281272888
+  ],
+  [
+    [
+      94,
+      33
+    ],
+    [
+      "Aber der vorläufige Personal-Ausweis gilt manchmal nicht im Ausland .",
+      "Ein vorläufiger Personalausweis ist nur drei Monate gültig."
+    ],
+    0.4974829852581024
+  ],
+  [
+    [
+      95,
+      47
+    ],
+    [
+      "Das heißt: Mit einem vorläufigen Personal-Ausweis können Sie nicht in jedes Land reisen.",
+      "bitte, dass Sie mit einem vorläufigen maschinenlesbaren Personalausweis nicht in jedes Land reisen können"
+    ],
+    0.7992913126945496
+  ],
+  [
+    [
+      96,
+      47
+    ],
+    [
+      "Wichtig: Informieren Sie sich bitte vor Ihrer Reise , ob der vorläufige Personal-Ausweis in dem Land gültig ist.",
+      "bitte, dass Sie mit einem vorläufigen maschinenlesbaren Personalausweis nicht in jedes Land reisen können"
+    ],
+    0.5891547203063965
+  ],
+  [
+    [
+      98,
+      70
+    ],
+    [
+      "Ein vorläufiger Personal-Ausweis kostet 10 Euro .",
+      "Gebühren 10 Euro für einen vorläufigen Personalausweis"
+    ],
+    0.6657235622406006
+  ],
+  [
+    [
+      99,
+      1
+    ],
+    [
+      "Wenn Sie einen vorläufigen Personal-Ausweis bekommen, bestellen wir für Sie auch einen endgültigen Personal-Ausweis.",
+      "Dann können Sie einen vorläufigen maschinenlesbaren Personalausweis beantragen."
+    ],
+    0.7179045677185059
+  ],
+  [
+    [
+      100,
+      33
+    ],
+    [
+      "Ein endgültiger Personal-Ausweis kostet zusätzlich:",
+      "Ein vorläufiger Personalausweis ist nur drei Monate gültig."
+    ],
+    0.5373867750167847
+  ],
+  [
+    [
+      101,
+      71
+    ],
+    [
+      "22,80 Euro für Personen unter 24 Jahren.",
+      "Für die Neuausstellung des endgültigen Personalausweises: - 22,80 Euro für Personen unter 24 Jahren - 37 Euro für Personen ab 24 Jahren"
+    ],
+    0.7436949610710144
+  ],
+  [
+    [
+      102,
+      71
+    ],
+    [
+      "28,80 Euro für Personen ab 24 Jahren.",
+      "Für die Neuausstellung des endgültigen Personalausweises: - 22,80 Euro für Personen unter 24 Jahren - 37 Euro für Personen ab 24 Jahren"
+    ],
+    0.7304081916809082
+  ],
+  [
+    [
+      103,
+      72
+    ],
+    [
+      "Für eine Verlust-Anzeige müssen Sie zusätzlich 1,50 Euro bezahlen.",
+      "Die Gebühr für eine Verlustanzeige beträgt zusätzlich 1,50 Euro."
+    ],
+    0.7097449898719788
+  ],
+  [
+    [
+      104,
+      73
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können bar oder mit der EC-Karte und PIN-Nummer bezahlt werden."
+    ],
+    0.5323935151100159
+  ],
+  [
+    [
+      105,
+      73
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können bar oder mit der EC-Karte und PIN-Nummer bezahlt werden."
+    ],
+    0.5151308178901672
+  ],
+  [
+    [
+      106,
+      73
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Die Gebühren können bar oder mit der EC-Karte und PIN-Nummer bezahlt werden."
+    ],
+    0.5956169366836548
+  ],
+  [
+    [
+      108,
+      27
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Diese zahlen Sie bitte mit den Gebühren für die Ausweisdokumente bei der Sachbearbeitung."
+    ],
+    0.5945096611976624
+  ],
+  [
+    [
+      109,
+      19
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.582806408405304
+  ],
+  [
+    [
+      112,
+      45
+    ],
+    [
+      "Weitere Informationen *",
+      "Reiseinformationen Bedenken"
+    ],
+    0.5097157955169678
+  ]
+]

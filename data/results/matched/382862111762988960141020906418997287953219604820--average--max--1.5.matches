@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      39
+    ],
+    [
+      "Eine akute Bronchitis ist eine Erkrankung der Atemwege.",
+      "Eine Bronchitis ist eine Entzündung der unteren Atemwege."
+    ],
+    0.3016539514064789
+  ],
+  [
+    [
+      1,
+      23
+    ],
+    [
+      "Bei einer akuten Bronchitis ist die Schleimhaut in den Bronchien entzündet.",
+      "verschlechtern"
+    ],
+    0.26385924220085144
+  ],
+  [
+    [
+      2,
+      47
+    ],
+    [
+      "Eine Bronchitis kann akut sein.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.2534065246582031
+  ],
+  [
+    [
+      3,
+      23
+    ],
+    [
+      "Dann heilt sie oft von selbst.",
+      "verschlechtern"
+    ],
+    0.2940705120563507
+  ],
+  [
+    [
+      4,
+      23
+    ],
+    [
+      "Eine akute Bronchitis dauert etwa zwei Wochen.",
+      "verschlechtern"
+    ],
+    0.22311370074748993
+  ],
+  [
+    [
+      5,
+      47
+    ],
+    [
+      "Hinweis: Akute Bronchitis ist oft ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.2876927852630615
+  ],
+  [
+    [
+      6,
+      23
+    ],
+    [
+      "Eine Bronchitis kann aber auch chronisch sein ( chronische Bronchitis ).",
+      "verschlechtern"
+    ],
+    0.3613989055156708
+  ],
+  [
+    [
+      7,
+      23
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "verschlechtern"
+    ],
+    0.31209537386894226
+  ],
+  [
+    [
+      8,
+      23
+    ],
+    [
+      "Chronische Entzündungen kommen oft wieder.",
+      "verschlechtern"
+    ],
+    0.46251311898231506
+  ],
+  [
+    [
+      9,
+      23
+    ],
+    [
+      "Das wichtigste Anzeichen für eine akute Bronchitis ist der typische Husten .",
+      "verschlechtern"
+    ],
+    0.2752961814403534
+  ],
+  [
+    [
+      10,
+      23
+    ],
+    [
+      "Anfangs ist der Husten meist trocken.",
+      "verschlechtern"
+    ],
+    0.33618491888046265
+  ],
+  [
+    [
+      11,
+      23
+    ],
+    [
+      "Nachts und morgens ist der Husten oft besonders schlimm:",
+      "verschlechtern"
+    ],
+    0.33272361755371094
+  ],
+  [
+    [
+      12,
+      23
+    ],
+    [
+      "Eine betroffene Person hat beim Husten Schmerzen in der Brust.",
+      "verschlechtern"
+    ],
+    0.20432671904563904
+  ],
+  [
+    [
+      13,
+      23
+    ],
+    [
+      "Nach einigen Tagen bildet sich zäher Schleim in den Bronchien.",
+      "verschlechtern"
+    ],
+    0.21473328769207
+  ],
+  [
+    [
+      14,
+      23
+    ],
+    [
+      "Der Husten verändert sich:",
+      "verschlechtern"
+    ],
+    0.3166657090187073
+  ],
+  [
+    [
+      15,
+      91
+    ],
+    [
+      "Er ist dann nicht mehr trocken.",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.3227737545967102
+  ],
+  [
+    [
+      16,
+      91
+    ],
+    [
+      "Der Husten ist dann schleimig.",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.23916228115558624
+  ],
+  [
+    [
+      17,
+      23
+    ],
+    [
+      "Eine akute Bronchitis tritt oft zusammen mit einer Erkältung auf.",
+      "verschlechtern"
+    ],
+    0.2531217932701111
+  ],
+  [
+    [
+      18,
+      23
+    ],
+    [
+      "Zusätzlich zum Husten kommen dann häufig typische Beschwerden einer Erkältung hinzu wie zum Beispiel:",
+      "verschlechtern"
+    ],
+    0.34145402908325195
+  ],
+  [
+    [
+      19,
+      23
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen Halsschmerzen",
+      "verschlechtern"
+    ],
+    0.5051813125610352
+  ],
+  [
+    [
+      20,
+      23
+    ],
+    [
+      "Schmerzen beim Schlucken",
+      "verschlechtern"
+    ],
+    0.3101353347301483
+  ],
+  [
+    [
+      21,
+      23
+    ],
+    [
+      "Schnupfen",
+      "verschlechtern"
+    ],
+    0.3757619857788086
+  ],
+  [
+    [
+      22,
+      82
+    ],
+    [
+      "Fieber",
+      "Körperliche Schonung, Sport vorübergehend pausieren, bei Fieber Bettruhe Nicht rauchen"
+    ],
+    0.3072402775287628
+  ],
+  [
+    [
+      23,
+      23
+    ],
+    [
+      "In den meisten Fällen sind Viren die Ursache für eine akute Bronchitis.",
+      "verschlechtern"
+    ],
+    0.2869652211666107
+  ],
+  [
+    [
+      24,
+      23
+    ],
+    [
+      "Verschiedene Viren-Arten können eine akute Bronchitis auslösen wie zum Beispiel Grippe-Viren.",
+      "verschlechtern"
+    ],
+    0.281055748462677
+  ],
+  [
+    [
+      25,
+      23
+    ],
+    [
+      "Manchmal sind aber auch Bakterien die Ursache für eine akute Bronchitis.",
+      "verschlechtern"
+    ],
+    0.3610709607601166
+  ],
+  [
+    [
+      26,
+      23
+    ],
+    [
+      "In seltenen Fällen verursachen Pilze die Bronchitis.",
+      "verschlechtern"
+    ],
+    0.3415535092353821
+  ],
+  [
+    [
+      27,
+      47
+    ],
+    [
+      "Eine akute Bronchitis ist häufig ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.32147082686424255
+  ],
+  [
+    [
+      28,
+      23
+    ],
+    [
+      "Die Viren können sich leicht über den Speichel auf andere Menschen übertragen.",
+      "verschlechtern"
+    ],
+    0.34158894419670105
+  ],
+  [
+    [
+      29,
+      23
+    ],
+    [
+      "Sie haben eine akute Bronchitis?",
+      "verschlechtern"
+    ],
+    0.23632751405239105
+  ],
+  [
+    [
+      30,
+      23
+    ],
+    [
+      "Dann sollten Sie diese Dinge vermeiden:",
+      "verschlechtern"
+    ],
+    0.2995489835739136
+  ],
+  [
+    [
+      31,
+      23
+    ],
+    [
+      "Husten Sie andere Menschen nicht an.",
+      "verschlechtern"
+    ],
+    0.385647177696228
+  ],
+  [
+    [
+      32,
+      23
+    ],
+    [
+      "Niesen Sie andere Menschen nicht an.",
+      "verschlechtern"
+    ],
+    0.35757502913475037
+  ],
+  [
+    [
+      33,
+      23
+    ],
+    [
+      "Küssen Sie andere Menschen nicht.",
+      "verschlechtern"
+    ],
+    0.40977320075035095
+  ],
+  [
+    [
+      34,
+      23
+    ],
+    [
+      "Nutzen Sie eigene Tassen und eigenes Besteck.",
+      "verschlechtern"
+    ],
+    0.2657078206539154
+  ],
+  [
+    [
+      35,
+      53
+    ],
+    [
+      "Waschen Sie regelmäßig Ihre Hände mit Seife.",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.20229139924049377
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "Für gesunde Menschen ist eine akute Bronchitis oft nicht gefährlich.",
+      "verschlechtern"
+    ],
+    0.3501932919025421
+  ],
+  [
+    [
+      37,
+      23
+    ],
+    [
+      "Nur in seltenen Fällen müssen betroffene Menschen Medikamente nehmen.",
+      "verschlechtern"
+    ],
+    0.36181142926216125
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Die Entzündung heilt meist von selbst.",
+      "verschlechtern"
+    ],
+    0.3193854093551636
+  ],
+  [
+    [
+      39,
+      23
+    ],
+    [
+      "Aber Sie können die Heilung unterstützen.",
+      "verschlechtern"
+    ],
+    0.31152376532554626
+  ],
+  [
+    [
+      40,
+      23
+    ],
+    [
+      "Während der Erkrankung sollten Sie: sich schonen, keinen Sport machen, nicht rauchen und bei Fieber im Bett bleiben.",
+      "verschlechtern"
+    ],
+    0.30817675590515137
+  ],
+  [
+    [
+      41,
+      23
+    ],
+    [
+      "Sie haben starke Beschwerden?",
+      "verschlechtern"
+    ],
+    0.3199015259742737
+  ],
+  [
+    [
+      42,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.16500602662563324
+  ],
+  [
+    [
+      43,
+      23
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "verschlechtern"
+    ],
+    0.21873247623443604
+  ],
+  [
+    [
+      44,
+      23
+    ],
+    [
+      "In der Apotheke bekommen Sie spezielle Hustenmittel.",
+      "verschlechtern"
+    ],
+    0.2024254947900772
+  ],
+  [
+    [
+      45,
+      97
+    ],
+    [
+      "Lassen Sie sich vom Apotheker beraten.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.19382865726947784
+  ],
+  [
+    [
+      46,
+      23
+    ],
+    [
+      "Hinweis: Das Husten ist wichtig für die Heilung der Bronchitis.",
+      "verschlechtern"
+    ],
+    0.25269412994384766
+  ],
+  [
+    [
+      47,
+      23
+    ],
+    [
+      "Nehmen Sie die Mittel gegen Husten deshalb nicht über längere Zeit ein.",
+      "verschlechtern"
+    ],
+    0.33570554852485657
+  ],
+  [
+    [
+      48,
+      23
+    ],
+    [
+      "Sie können auch Mittel gegen den Schleim nehmen.",
+      "verschlechtern"
+    ],
+    0.32888850569725037
+  ],
+  [
+    [
+      49,
+      23
+    ],
+    [
+      "Diese Mittel lösen den Schleim in den Bronchien.",
+      "verschlechtern"
+    ],
+    0.2704642117023468
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "So können Sie den Schleim leichter abhusten.",
+      "verschlechtern"
+    ],
+    0.23088721930980682
+  ],
+  [
+    [
+      51,
+      12
+    ],
+    [
+      "Fragen",
+      "Bestehen"
+    ],
+    0.2992932200431824
+  ],
+  [
+    [
+      52,
+      97
+    ],
+    [
+      "Sie in der Apotheke",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.15859518945217133
+  ],
+  [
+    [
+      53,
+      23
+    ],
+    [
+      "nach einem passenden Hustenmittel oder fragen Sie Ihren Arzt",
+      "verschlechtern"
+    ],
+    0.24974343180656433
+  ],
+  [
+    [
+      55,
+      23
+    ],
+    [
+      "Sie können auch einfache Hausmittel gegen die Beschwerden nehmen:",
+      "verschlechtern"
+    ],
+    0.38143181800842285
+  ],
+  [
+    [
+      56,
+      83
+    ],
+    [
+      "Inhalieren Sie mehrmals am Tag mit Salzwasser.",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.1831214725971222
+  ],
+  [
+    [
+      57,
+      23
+    ],
+    [
+      "Das löst den Schleim und macht das Husten angenehmer.",
+      "verschlechtern"
+    ],
+    0.28030624985694885
+  ],
+  [
+    [
+      58,
+      86
+    ],
+    [
+      "Trinken Sie viel Wasser oder Tee.",
+      "Ausreichend trinken – am besten Wasser und ungesüßte Tees."
+    ],
+    0.25232529640197754
+  ],
+  [
+    [
+      59,
+      23
+    ],
+    [
+      "Auch das löst den Schleim.",
+      "verschlechtern"
+    ],
+    0.22820577025413513
+  ],
+  [
+    [
+      60,
+      23
+    ],
+    [
+      "Achtung: Sie haben eine Herzerkrankung?",
+      "verschlechtern"
+    ],
+    0.26027506589889526
+  ],
+  [
+    [
+      61,
+      23
+    ],
+    [
+      "Oder Sie haben eine Nierenerkrankung?",
+      "verschlechtern"
+    ],
+    0.23003053665161133
+  ],
+  [
+    [
+      62,
+      91
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht so viel trinken.",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.3282441794872284
+  ],
+  [
+    [
+      63,
+      23
+    ],
+    [
+      "Besprechen Sie die Trinkmenge deshalb mit Ihrem Arzt.",
+      "verschlechtern"
+    ],
+    0.2576277256011963
+  ],
+  [
+    [
+      64,
+      23
+    ],
+    [
+      "In den meisten Fällen heilt eine Bronchitis von selbst.",
+      "verschlechtern"
+    ],
+    0.2827990651130676
+  ],
+  [
+    [
+      65,
+      23
+    ],
+    [
+      "Aber manchmal kann eine Bronchitis auch gefährlich werden:",
+      "verschlechtern"
+    ],
+    0.3973713517189026
+  ],
+  [
+    [
+      66,
+      23
+    ],
+    [
+      "Ihre Beschwerden werden auch nach mehreren Tagen nicht besser?",
+      "verschlechtern"
+    ],
+    0.3926118016242981
+  ],
+  [
+    [
+      67,
+      23
+    ],
+    [
+      "Sie haben hohes Fieber?",
+      "verschlechtern"
+    ],
+    0.19951947033405304
+  ],
+  [
+    [
+      68,
+      23
+    ],
+    [
+      "Sie schwitzen nachts stark?",
+      "verschlechtern"
+    ],
+    0.3487839996814728
+  ],
+  [
+    [
+      69,
+      23
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "verschlechtern"
+    ],
+    0.20312421023845673
+  ],
+  [
+    [
+      70,
+      23
+    ],
+    [
+      "Sie keuchen oder pfeifen beim Atmen?",
+      "verschlechtern"
+    ],
+    0.21845538914203644
+  ],
+  [
+    [
+      71,
+      23
+    ],
+    [
+      "Sie haben starke Husten-Anfälle?",
+      "verschlechtern"
+    ],
+    0.2937536835670471
+  ],
+  [
+    [
+      72,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.16500602662563324
+  ],
+  [
+    [
+      73,
+      23
+    ],
+    [
+      "Achtung: Für manche Menschen ist eine akute Bronchitis immer gefährlich.",
+      "verschlechtern"
+    ],
+    0.33204543590545654
+  ],
+  [
+    [
+      74,
+      23
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel:",
+      "verschlechtern"
+    ],
+    0.24383290112018585
+  ],
+  [
+    [
+      75,
+      23
+    ],
+    [
+      "Menschen mit einer zusätzlichen chronischen Erkrankung der Atemwege alte Menschen schwangere Frauen",
+      "verschlechtern"
+    ],
+    0.38134071230888367
+  ],
+  [
+    [
+      76,
+      23
+    ],
+    [
+      "Menschen mit Immunschwäche",
+      "verschlechtern"
+    ],
+    0.390743613243103
+  ],
+  [
+    [
+      77,
+      23
+    ],
+    [
+      "Diese Personen sollten bei einer akuten Bronchitis immer zum Arzt gehen.",
+      "verschlechtern"
+    ],
+    0.31102946400642395
+  ],
+  [
+    [
+      78,
+      91
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine akute Bronchitis?",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.24167130887508392
+  ],
+  [
+    [
+      79,
+      23
+    ],
+    [
+      "Und Sie haben sehr starke Beschwerden?",
+      "verschlechtern"
+    ],
+    0.28503841161727905
+  ],
+  [
+    [
+      80,
+      97
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.16500602662563324
+  ],
+  [
+    [
+      81,
+      23
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "verschlechtern"
+    ],
+    0.21873247623443604
+  ],
+  [
+    [
+      82,
+      23
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bronchitis lesen?",
+      "verschlechtern"
+    ],
+    0.3084224462509155
+  ],
+  [
+    [
+      83,
+      23
+    ],
+    [
+      "Mehr Informationen über akute Bronchitis finden Sie hier .",
+      "verschlechtern"
+    ],
+    0.21797381341457367
+  ],
+  [
+    [
+      84,
+      23
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "verschlechtern"
+    ],
+    0.12052588909864426
+  ],
+  [
+    [
+      85,
+      23
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "verschlechtern"
+    ],
+    0.28476494550704956
+  ]
+]

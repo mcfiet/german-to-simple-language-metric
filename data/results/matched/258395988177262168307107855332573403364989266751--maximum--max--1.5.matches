@@ -1,0 +1,827 @@
+[
+  [
+    [
+      0,
+      108
+    ],
+    [
+      "Arthrose ist eine Gelenk-Erkrankung.",
+      "Eine Arthrose ist nicht heilbar."
+    ],
+    0.8041540384292603
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Bei einer Arthrose nutzt sich der Knorpel im Gelenk ab.",
+      "Bei dem Leiden verschleißt der Knorpel an den Gelenken."
+    ],
+    0.6457773447036743
+  ],
+  [
+    [
+      2,
+      64
+    ],
+    [
+      "Ein Gelenk besteht aus zwei Knochen.",
+      "Ein Zwischenstadium."
+    ],
+    0.5876815915107727
+  ],
+  [
+    [
+      3,
+      70
+    ],
+    [
+      "Die Knochen bewegen sich aneinander entlang.",
+      "Der Knorpel hat sich stark zurückgebildet, die Knochen reiben direkt aufeinander."
+    ],
+    0.6456456184387207
+  ],
+  [
+    [
+      4,
+      65
+    ],
+    [
+      "Zwischen den Knochen sind Knorpel und Gelenkflüssigkeit.",
+      "Der Knorpel ist stark beschädigt, der Gelenkspalt – also der Abstand zwischen den Knochen – verkleinert sich."
+    ],
+    0.6798283457756042
+  ],
+  [
+    [
+      6,
+      160
+    ],
+    [
+      "So reiben die beiden Knochen nicht aneinander.",
+      "Bei dieser wird der Knochen durchtrennt und so neu fixiert, dass die beiden Seiten des Gelenks nicht mehr aneinander reiben."
+    ],
+    0.7720933556556702
+  ],
+  [
+    [
+      7,
+      160
+    ],
+    [
+      "Bei einer Arthrose wird der Knorpel immer dünner.",
+      "Bei dieser wird der Knochen durchtrennt und so neu fixiert, dass die beiden Seiten des Gelenks nicht mehr aneinander reiben."
+    ],
+    0.6470907330513
+  ],
+  [
+    [
+      8,
+      70
+    ],
+    [
+      "Dann reiben die beiden Knochen zu stark aneinander.",
+      "Der Knorpel hat sich stark zurückgebildet, die Knochen reiben direkt aufeinander."
+    ],
+    0.686272382736206
+  ],
+  [
+    [
+      9,
+      73
+    ],
+    [
+      "Das betroffene Gelenk nutzt sich ab.",
+      "Das Gelenk versteift."
+    ],
+    0.638237714767456
+  ],
+  [
+    [
+      10,
+      18
+    ],
+    [
+      "Diese Abnutzung des Gelenks kann zu Schmerzen führen.",
+      "Im Laufe der Erkrankung kann sich das betroffene Gelenk wiederholt entzünden (im Englischen heißt die Erkrankung wegen der Begleitentzündung Osteoarthritis), was zu erheblichen Schmerzen, manchmal auch Schwellungen führt."
+    ],
+    0.6194342374801636
+  ],
+  [
+    [
+      11,
+      109
+    ],
+    [
+      "Oft lässt sich das Gelenk dann nicht mehr so gut bewegen.",
+      "Der Schaden an Knorpel und Knochen lässt sich nicht rückgängig machen."
+    ],
+    0.6047160029411316
+  ],
+  [
+    [
+      12,
+      60
+    ],
+    [
+      "Fortgeschrittene Arthrose: Der Knorpel ist stark abgerieben und sehr dünn.",
+      "Der Knorpel ist stellenweise angefasert und kann den Druck schlechter verteilen."
+    ],
+    0.6317736506462097
+  ],
+  [
+    [
+      13,
+      65
+    ],
+    [
+      "An manchen Stellen zwischen den beiden Knochen gibt es gar keinen Knorpel mehr.",
+      "Der Knorpel ist stark beschädigt, der Gelenkspalt – also der Abstand zwischen den Knochen – verkleinert sich."
+    ],
+    0.5878422856330872
+  ],
+  [
+    [
+      14,
+      70
+    ],
+    [
+      "Dort reiben die Knochen aufeinander",
+      "Der Knorpel hat sich stark zurückgebildet, die Knochen reiben direkt aufeinander."
+    ],
+    0.7164964079856873
+  ],
+  [
+    [
+      15,
+      162
+    ],
+    [
+      "Arthrose kann in allen Gelenken vorkommen.",
+      "Der Patient muss dafür allerdings den Verlust der Beweglichkeit des Gelenks in Kauf nehmen."
+    ],
+    0.5916069746017456
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "An diesen Gelenken tritt häufig eine Arthrose auf:",
+      "Häufig tritt eine Arthrose an Knie, Hüfte, Schultergelenken, Händen und Fingern sowie an den Füßen auf."
+    ],
+    0.7403841018676758
+  ],
+  [
+    [
+      17,
+      28
+    ],
+    [
+      "Knie",
+      "Kniearthrose: Die Knie tragen einen Großteil unseres Körpergewichts."
+    ],
+    0.6099404096603394
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Hüfte",
+      "Häufig tritt eine Arthrose an Knie, Hüfte, Schultergelenken, Händen und Fingern sowie an den Füßen auf."
+    ],
+    0.6264318227767944
+  ],
+  [
+    [
+      19,
+      147
+    ],
+    [
+      "Schulter Hände Finger",
+      "Schienen können arthrosegeplagte Finger stabilisieren."
+    ],
+    0.5661835074424744
+  ],
+  [
+    [
+      20,
+      17
+    ],
+    [
+      "Eine Arthrose kann verschiedene Anzeichen haben.",
+      "Der Knorpelverschleiß kann unterschiedliche Ursachen haben."
+    ],
+    0.682226836681366
+  ],
+  [
+    [
+      21,
+      34
+    ],
+    [
+      "Die Anzeichen für eine Arthrose sind vielleicht erst schwach.",
+      "Allerdings ist das Alter nicht der einzige Risikofaktor für eine Arthrose."
+    ],
+    0.685349702835083
+  ],
+  [
+    [
+      22,
+      14
+    ],
+    [
+      "Aber mit der Zeit nehmen die Anzeichen zu.",
+      "Mit Physiotherapie und anderen Maßnahmen lässt sich der Verlauf aber häufig aufhalten, lassen sich die Beschwerden eine Zeit lang lindern."
+    ],
+    0.6599697470664978
+  ],
+  [
+    [
+      23,
+      34
+    ],
+    [
+      "Anzeichen für eine Arthrose können sein:",
+      "Allerdings ist das Alter nicht der einzige Risikofaktor für eine Arthrose."
+    ],
+    0.6720501184463501
+  ],
+  [
+    [
+      24,
+      73
+    ],
+    [
+      "Das Gelenk schmerzt bei Belastung.",
+      "Das Gelenk versteift."
+    ],
+    0.715327262878418
+  ],
+  [
+    [
+      25,
+      73
+    ],
+    [
+      "Das Gelenk wird eine Weile nicht bewegt.",
+      "Das Gelenk versteift."
+    ],
+    0.6848686337471008
+  ],
+  [
+    [
+      26,
+      73
+    ],
+    [
+      "Dann wird das Gelenk wieder bewegt und es tut weh?",
+      "Das Gelenk versteift."
+    ],
+    0.5931104421615601
+  ],
+  [
+    [
+      27,
+      141
+    ],
+    [
+      "Das nennt man auch: Anlaufschmerzen.",
+      "Das hat aber wohl nur kurz anhaltende Wirkung und sollte auch nur kurzfristig angewandt werden, wenn andere konservative Therapien nicht helfen."
+    ],
+    0.5420325994491577
+  ],
+  [
+    [
+      28,
+      42
+    ],
+    [
+      "Anlaufschmerzen sind vor allem im Beingelenk häufig.",
+      "Diese sind vor allem:"
+    ],
+    0.6646864414215088
+  ],
+  [
+    [
+      29,
+      35
+    ],
+    [
+      "Anlaufschmerzen können auch im Fußgelenk vorkommen.",
+      "Außerdem müssen die Gelenke nicht zwangsläufig im höheren Alter Schaden nehmen."
+    ],
+    0.5933119654655457
+  ],
+  [
+    [
+      30,
+      97
+    ],
+    [
+      "Die Arthrose ist schon weit fortgeschritten?",
+      "Ist die Arthrose noch nicht weit fortgeschritten, können die Röntgenstrahlen daher oft keinen Schaden sichtbar machen."
+    ],
+    0.7329649925231934
+  ],
+  [
+    [
+      31,
+      80
+    ],
+    [
+      "Dann treten Schmerzen auch bei leichten Bewegungen auf.",
+      "Schreitet die Arthrose fort, treten Beschwerden schon bei leichten Bewegungen und im Ruhezustand auf."
+    ],
+    0.7357200980186462
+  ],
+  [
+    [
+      32,
+      73
+    ],
+    [
+      "Das Gelenk kann sogar im Ruhezustand weh tun.",
+      "Das Gelenk versteift."
+    ],
+    0.6447960138320923
+  ],
+  [
+    [
+      33,
+      81
+    ],
+    [
+      "Betroffene Personen können sich im Alltag oft nicht gut bewegen.",
+      "Der Bewegungsradius kann deutlich eingeschränkt sein, was sich auch im Alltag als sehr hinderlich erweist."
+    ],
+    0.6396477222442627
+  ],
+  [
+    [
+      34,
+      73
+    ],
+    [
+      "Das Gelenk ist entzündet?",
+      "Das Gelenk versteift."
+    ],
+    0.742835521697998
+  ],
+  [
+    [
+      35,
+      141
+    ],
+    [
+      "Dann wird es oft auch dick.",
+      "Das hat aber wohl nur kurz anhaltende Wirkung und sollte auch nur kurzfristig angewandt werden, wenn andere konservative Therapien nicht helfen."
+    ],
+    0.5534985661506653
+  ],
+  [
+    [
+      36,
+      73
+    ],
+    [
+      "Das Gelenk sieht dann größer aus als normalerweise.",
+      "Das Gelenk versteift."
+    ],
+    0.6509700417518616
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Bei Arthrose an den Fingergelenken schmerzen die Hände:",
+      "Bei dem Leiden verschleißt der Knorpel an den Gelenken."
+    ],
+    0.7489367127418518
+  ],
+  [
+    [
+      38,
+      21
+    ],
+    [
+      "Die betroffenen Gelenke fühlen sich steif an.",
+      "Besonders anfällig für Knorpelschaden sind jedoch die Gelenke, die ständig stark beansprucht werden und große Lasten zu schultern haben – also die Gelenke an den unteren Gliedmaßen, an der Lendenwirbelsäule sowie an den Händen."
+    ],
+    0.5862060785293579
+  ],
+  [
+    [
+      39,
+      51
+    ],
+    [
+      "Oft haben betroffene Personen keine Kraft mehr in den Händen.",
+      "Beide Erkrankungen gehen deswegen oft Hand in Hand."
+    ],
+    0.5476787686347961
+  ],
+  [
+    [
+      40,
+      85
+    ],
+    [
+      "Es kann zu harten Verdickungen an den betroffenen Stellen kommen.",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.7852242588996887
+  ],
+  [
+    [
+      41,
+      90
+    ],
+    [
+      "Sie haben bei sich eines oder mehrere dieser Anzeichen bemerkt?",
+      "Außerdem wird er sich danach erkundigen, ob es bekannte Fälle von Gelenkbeschwerden in der Familie gibt, ob weitere Beschwerden vorliegen und ob der Betreffende in der Vergangenheit einen Unfall oder eine Operation mit Beteiligung der Finger oder Gliedmaßen hatte."
+    ],
+    0.5462143421173096
+  ],
+  [
+    [
+      42,
+      63
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Es treten Beschwerden auf, die Betroffene oft zum Arzt treiben."
+    ],
+    0.5747657418251038
+  ],
+  [
+    [
+      44,
+      58
+    ],
+    [
+      "Manchmal bemerken betroffene Personen sehr lange keine Anzeichen.",
+      "Betroffene verspüren keine oder kaum Schmerzen."
+    ],
+    0.6030077338218689
+  ],
+  [
+    [
+      45,
+      31
+    ],
+    [
+      "Das ist bei jeder Person anders.",
+      "Das Alter ist ein wichtiger Faktor bei der Entstehung einer Arthrose."
+    ],
+    0.5672494173049927
+  ],
+  [
+    [
+      46,
+      162
+    ],
+    [
+      "Arthrose kann in allen Gelenken vorkommen.",
+      "Der Patient muss dafür allerdings den Verlust der Beweglichkeit des Gelenks in Kauf nehmen."
+    ],
+    0.5916069746017456
+  ],
+  [
+    [
+      47,
+      85
+    ],
+    [
+      "In manchen Gelenken kann es öfter zu Arthrose kommen.",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.663178563117981
+  ],
+  [
+    [
+      48,
+      21
+    ],
+    [
+      "Diese Gelenke werden nämlich besonders stark beansprucht.",
+      "Besonders anfällig für Knorpelschaden sind jedoch die Gelenke, die ständig stark beansprucht werden und große Lasten zu schultern haben – also die Gelenke an den unteren Gliedmaßen, an der Lendenwirbelsäule sowie an den Händen."
+    ],
+    0.7295249700546265
+  ],
+  [
+    [
+      49,
+      24
+    ],
+    [
+      "Solche häufigen Formen von Arthrose sind zum Beispiel: Arthrose der Hand- und Fingergelenke Arthrose am Hüftgelenk Arthrose am Kniegelenk",
+      "Arthrose der Hand- und Fingergelenke:"
+    ],
+    0.8090468049049377
+  ],
+  [
+    [
+      50,
+      38
+    ],
+    [
+      "In vielen Fällen weiß man nicht:",
+      "Die Ursachen sind in diesem Fall noch nicht klar."
+    ],
+    0.5630592703819275
+  ],
+  [
+    [
+      51,
+      0
+    ],
+    [
+      "Was sind die Ursachen einer Arthrose?",
+      "Arthrose ist die weltweit häufigste Gelenkerkrankung."
+    ],
+    0.655905544757843
+  ],
+  [
+    [
+      52,
+      48
+    ],
+    [
+      "Mögliche Ursachen von Arthrose können sein: falsche Belastungen eines Gelenks Übergewicht andere Krankheiten wie Gicht oder Rheuma Verletzungen an dem betroffenen Gelenk",
+      "Krankheiten:"
+    ],
+    0.7028093338012695
+  ],
+  [
+    [
+      53,
+      55
+    ],
+    [
+      "Eine Arthrose entwickelt sich langsam und in verschiedenen Stufen: Stufe 1:",
+      "Eine Arthrose entsteht nicht über Nacht, sondern hat sich in der Regel über einen längeren Zeitraum hinweg schleichend entwickelt, bevor Betroffene die ersten Beschwerden bemerken."
+    ],
+    0.6009697914123535
+  ],
+  [
+    [
+      54,
+      11
+    ],
+    [
+      "Der Knorpel wird dünner.",
+      "Der Knorpel wird schlechter durchblutet und verliert weiter an seiner Schutzfunktion."
+    ],
+    0.6521928310394287
+  ],
+  [
+    [
+      55,
+      58
+    ],
+    [
+      "Betroffene Personen haben keine oder kaum Schmerzen.",
+      "Betroffene verspüren keine oder kaum Schmerzen."
+    ],
+    0.8811172246932983
+  ],
+  [
+    [
+      56,
+      65
+    ],
+    [
+      "Stufe 2: Der Knorpel am Gelenk ist beschädigt.",
+      "Der Knorpel ist stark beschädigt, der Gelenkspalt – also der Abstand zwischen den Knochen – verkleinert sich."
+    ],
+    0.6037058234214783
+  ],
+  [
+    [
+      57,
+      60
+    ],
+    [
+      "Der Knorpel kann den Druck von den aneinander reibenden Gelenken schlechter verteilen.",
+      "Der Knorpel ist stellenweise angefasert und kann den Druck schlechter verteilen."
+    ],
+    0.7572423815727234
+  ],
+  [
+    [
+      58,
+      72
+    ],
+    [
+      "Betroffene Personen haben erste Schmerzen.",
+      "Betroffene haben zum Teil unerträgliche Schmerzen."
+    ],
+    0.6904476284980774
+  ],
+  [
+    [
+      60,
+      65
+    ],
+    [
+      ": Der Knorpel ist nun stark beschädigt.",
+      "Der Knorpel ist stark beschädigt, der Gelenkspalt – also der Abstand zwischen den Knochen – verkleinert sich."
+    ],
+    0.7528559565544128
+  ],
+  [
+    [
+      61,
+      65
+    ],
+    [
+      "Deshalb verkleinert sich der Abstand zwischen den Knochen.",
+      "Der Knorpel ist stark beschädigt, der Gelenkspalt – also der Abstand zwischen den Knochen – verkleinert sich."
+    ],
+    0.8329995274543762
+  ],
+  [
+    [
+      62,
+      3
+    ],
+    [
+      "Die Belastung auf das Gelenk wird größer.",
+      "Außerdem dient der Knorpel als eine Art Stoßdämpfer, der die Belastung gleichmäßig auf das Gelenk verteilt."
+    ],
+    0.6686010360717773
+  ],
+  [
+    [
+      63,
+      49
+    ],
+    [
+      "Es können sich Auswüchse am Knochen bilden.",
+      "Bei Rheuma können sich am Knorpel Entzündungen bilden."
+    ],
+    0.7215004563331604
+  ],
+  [
+    [
+      64,
+      73
+    ],
+    [
+      "Das Gelenk ist weniger beweglich und es kann sich entzünden.",
+      "Das Gelenk versteift."
+    ],
+    0.6799145936965942
+  ],
+  [
+    [
+      66,
+      70
+    ],
+    [
+      "Die Knochen reiben direkt aneinander.",
+      "Der Knorpel hat sich stark zurückgebildet, die Knochen reiben direkt aufeinander."
+    ],
+    0.7492997646331787
+  ],
+  [
+    [
+      67,
+      71
+    ],
+    [
+      "An dieser Stelle gibt es knöcherne Auswüchse.",
+      "Es haben sich knöcherne Auswüchse gebildet (Stellen mit roten Pfeilen)."
+    ],
+    0.574705183506012
+  ],
+  [
+    [
+      68,
+      8
+    ],
+    [
+      "Betroffene Personen haben oft starke Schmerzen und das Gelenk ist steif.",
+      "Der Gelenkschaden bereitet Betroffenen oft große Schmerzen und macht das Gelenk steifer, damit auch weniger beweglich."
+    ],
+    0.7206239104270935
+  ],
+  [
+    [
+      69,
+      30
+    ],
+    [
+      "Bei einer Arthrose sollten Sie einige Dinge beachten:",
+      "Mediziner sprechen bei einer Arthrose am Knie von einer Gonarthrose ."
+    ],
+    0.6050571799278259
+  ],
+  [
+    [
+      70,
+      97
+    ],
+    [
+      "Überanstrengen Sie die betroffenen Gelenke nicht.",
+      "Ist die Arthrose noch nicht weit fortgeschritten, können die Röntgenstrahlen daher oft keinen Schaden sichtbar machen."
+    ],
+    0.5934774279594421
+  ],
+  [
+    [
+      71,
+      123
+    ],
+    [
+      "Belasten Sie das Gelenk nicht falsch.",
+      "Trotz Beschwerden sollten Arthrosepatienten das betroffene Gelenk nicht schonen, sondern regelmäßig benutzen."
+    ],
+    0.667946994304657
+  ],
+  [
+    [
+      72,
+      161
+    ],
+    [
+      "Ein Physiotherapeut kann Ihnen zeigen:",
+      "Ein Chirurg kann die betroffene Stelle auch gezielt versteifen , um die Beschwerden zu lindern."
+    ],
+    0.5507413744926453
+  ],
+  [
+    [
+      73,
+      12
+    ],
+    [
+      "So können Sie die Gelenke entlasten.",
+      "Außerdem kann die Schonhaltung andere Gelenke ungünstig belasten."
+    ],
+    0.7129976749420166
+  ],
+  [
+    [
+      74,
+      131
+    ],
+    [
+      "Verbessern Sie die Beweglichkeit der betroffenen Gelenke.",
+      "Physikalische Therapien: Wärme, Kälte und Strom können die Durchblutung am betroffenen Gelenk verbessern und so die Schmerzen lindern."
+    ],
+    0.6732317209243774
+  ],
+  [
+    [
+      75,
+      139
+    ],
+    [
+      "Sie haben starke Schmerzen?",
+      "Sie sollen vor allem akute Schmerzen lindern."
+    ],
+    0.6217001676559448
+  ],
+  [
+    [
+      76,
+      15
+    ],
+    [
+      "Dann können vielleicht Medikamente gegen die Schmerzen helfen.",
+      "Schmerzmittel helfen ebenfalls gegen die Symptome."
+    ],
+    0.7727144360542297
+  ],
+  [
+    [
+      77,
+      97
+    ],
+    [
+      "Sie wollen noch mehr über Arthrose lesen?",
+      "Ist die Arthrose noch nicht weit fortgeschritten, können die Röntgenstrahlen daher oft keinen Schaden sichtbar machen."
+    ],
+    0.5540943145751953
+  ],
+  [
+    [
+      80,
+      38
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Ursachen sind in diesem Fall noch nicht klar."
+    ],
+    0.6915171146392822
+  ]
+]

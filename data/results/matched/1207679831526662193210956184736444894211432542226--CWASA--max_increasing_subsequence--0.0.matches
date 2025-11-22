@@ -1,0 +1,926 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Migräne ist eine bestimmte Art von Kopfschmerzen.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.6485589742660522
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Die Kopfschmerzen treten in Anfällen auf.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.3745916187763214
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Neben den Kopfschmerzen haben betroffene Personen oft noch andere Beschwerden wie zum Beispiel Übelkeit.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.3630911707878113
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Manche betroffenen Personen haben vor dem Migräne-Anfall Sehstörungen.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.35436058044433594
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Migräne ist eine häufige Erkrankung.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    1.0
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Frauen haben häufiger Migräne als Männer.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.4242393672466278
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Migräne tritt vor allem zwischen dem 35. und 45. Lebensjahr auf.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.31108081340789795
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Meist kommen die Beschwerden nach der Pubertät zum ersten Mal vor.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.3346548080444336
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Aber auch Schulkinder können Migräne bekommen.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.40160343050956726
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Eine Migräne ist oft episodisch.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.7129553556442261
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Das bedeutet: Der Migräne-Anfall dauert eine kurze Zeit.",
+      "Migräne ist eine häufige Erkrankung:"
+    ],
+    0.4456859827041626
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "An den meisten Tagen im Monat haben betroffene Personen keine Beschwerden.",
+      "In diesem Alter sind etwa drei Mal mehr Frauen als Männer betroffen."
+    ],
+    0.4070869982242584
+  ],
+  [
+    [
+      12,
+      10
+    ],
+    [
+      "Die Migräne kann aber auch chronisch sein.",
+      "Hintergrund ist eine genetische Veranlagung für Migräne, die für einige Formen inzwischen auch nachgewiesen ist."
+    ],
+    0.5150565505027771
+  ],
+  [
+    [
+      13,
+      10
+    ],
+    [
+      "Dann kommen die Beschwerden an mehr als 15 Tagen im Monat vor.",
+      "Hintergrund ist eine genetische Veranlagung für Migräne, die für einige Formen inzwischen auch nachgewiesen ist."
+    ],
+    0.38337230682373047
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Es gibt verschiedene Arten von Migräne.",
+      "Es sind viele Arten der Migräne bekannt."
+    ],
+    0.6516944169998169
+  ],
+  [
+    [
+      15,
+      13
+    ],
+    [
+      "Der Verlauf der Migräne hängt von ihrer Art ab:",
+      "Diese Art von Migräne tritt in etwa 80 Prozent der Fälle auf."
+    ],
+    0.483224481344223
+  ],
+  [
+    [
+      16,
+      38
+    ],
+    [
+      "Oft verläuft die Migräne in mehreren Phasen.",
+      "Ein Migräneanfall gliedert sich meist in bestimmte Phasen."
+    ],
+    0.5670320391654968
+  ],
+  [
+    [
+      17,
+      38
+    ],
+    [
+      "In den Phasen sind die Beschwerden unterschiedlich.",
+      "Ein Migräneanfall gliedert sich meist in bestimmte Phasen."
+    ],
+    0.5213538408279419
+  ],
+  [
+    [
+      18,
+      39
+    ],
+    [
+      "Eine betroffene Person erlebt vielleicht nicht alle Phasen.",
+      "Diese dauern unterschiedlich lange und müssen nicht zwingend alle auftreten."
+    ],
+    0.5356273651123047
+  ],
+  [
+    [
+      19,
+      39
+    ],
+    [
+      "Die Vorbotenphase dauert zwischen mehreren Stunden und zwei Tagen.",
+      "Diese dauern unterschiedlich lange und müssen nicht zwingend alle auftreten."
+    ],
+    0.4850611984729767
+  ],
+  [
+    [
+      20,
+      40
+    ],
+    [
+      "Beschwerden in der Vorbotenphase sind zum Beispiel: Gereiztheit Müdigkeit Heißhunger auf bestimmte Lebensmittel",
+      "Mehrere Stunden bis zwei Tage vorher kann sich der Migränekopfschmerz beispielsweise mit einem der folgenden Symptome ankündigen: Gereiztheit, Stimmungsschwankungen Müdigkeit, Gähnen Heißhunger auf bestimmte Nahrungsmittel Konzentrationsstörungen"
+    ],
+    0.5997188091278076
+  ],
+  [
+    [
+      21,
+      42
+    ],
+    [
+      "Konzentrationsstörungen Empfindlichkeit bei Licht und Lärm",
+      "erhöhte Licht- und Lärmempfindlichkeit"
+    ],
+    0.4864897131919861
+  ],
+  [
+    [
+      22,
+      43
+    ],
+    [
+      "Manche betroffenen Personen haben auch eine Migräne-Aura .",
+      "Anschließend können Wahrnehmungsstörungen folgen (Migräneaura)."
+    ],
+    0.442289263010025
+  ],
+  [
+    [
+      23,
+      43
+    ],
+    [
+      "Eine Migräne-Aura ist eine Wahrnehmungsstörung.",
+      "Anschließend können Wahrnehmungsstörungen folgen (Migräneaura)."
+    ],
+    0.40149906277656555
+  ],
+  [
+    [
+      24,
+      44
+    ],
+    [
+      "Meist betrifft die Wahrnehmungsstörung das Sehen.",
+      "Diese betreffen meist das Sehen (visuelle Aura)."
+    ],
+    0.6964493989944458
+  ],
+  [
+    [
+      25,
+      45
+    ],
+    [
+      "Betroffene Personen sehen dann zum Beispiel verzerrt oder unscharf.",
+      "So kommt es bei der Migräneaura zum Beispiel zu einem Flimmersehen oder zum Sehen von Zickzack-Linien, zu Gesichtsfeldausfällen (Skotome) oder die Betroffenen sehen Objekte teilweise verzerrt, unscharf, vergrößert oder verkleinert (Metamorphopsie)."
+    ],
+    0.6201338768005371
+  ],
+  [
+    [
+      26,
+      45
+    ],
+    [
+      "Anzeichen für eine Migräne-Aura sind zum Beispiel:",
+      "So kommt es bei der Migräneaura zum Beispiel zu einem Flimmersehen oder zum Sehen von Zickzack-Linien, zu Gesichtsfeldausfällen (Skotome) oder die Betroffenen sehen Objekte teilweise verzerrt, unscharf, vergrößert oder verkleinert (Metamorphopsie)."
+    ],
+    0.4162333607673645
+  ],
+  [
+    [
+      27,
+      46
+    ],
+    [
+      "Flimmersehen Kribbelgefühl von der Hand bis zum Kopf Sprachstörungen",
+      "Zweithäufigstes Aurasymptom sind Empfindungsstörungen mit einem Kribbeln, das sich langsam von der Hand über den Arm bis zum Kopf ausbreitet."
+    ],
+    0.5991458892822266
+  ],
+  [
+    [
+      28,
+      48
+    ],
+    [
+      "Orientierungslosigkeit Lähmungserscheinungen",
+      "Sehr selten kommt es zu Orientierungsstörungen und Lähmungserscheinungen (Paresen)."
+    ],
+    0.4440161883831024
+  ],
+  [
+    [
+      29,
+      52
+    ],
+    [
+      "Störung des Gleichgewichts",
+      "Dabei ist der Betroffene empfindlich gegenüber Licht (Photophobie), Lärm (Phonophobie) und Gerüchen (Osmophobie)."
+    ],
+    0.34755459427833557
+  ],
+  [
+    [
+      30,
+      53
+    ],
+    [
+      "In der Kopfschmerzphase haben betroffene Personen starke Kopfschmerzen.",
+      "Die zumeist starken Kopfschmerzen treten in der Mehrzahl der Fälle halbseitig auf (Hemikranie), können aber auch den gesamten Kopf betreffen."
+    ],
+    0.5155412554740906
+  ],
+  [
+    [
+      31,
+      53
+    ],
+    [
+      "Die Kopfschmerzen sind halbseitig oder am ganzen Kopf.",
+      "Die zumeist starken Kopfschmerzen treten in der Mehrzahl der Fälle halbseitig auf (Hemikranie), können aber auch den gesamten Kopf betreffen."
+    ],
+    0.4976588487625122
+  ],
+  [
+    [
+      32,
+      53
+    ],
+    [
+      "Manche Personen haben ein Stechen in der Stirn und in den Schläfen.",
+      "Die zumeist starken Kopfschmerzen treten in der Mehrzahl der Fälle halbseitig auf (Hemikranie), können aber auch den gesamten Kopf betreffen."
+    ],
+    0.5500013828277588
+  ],
+  [
+    [
+      33,
+      53
+    ],
+    [
+      "Während der Kopfschmerzphase reagieren betroffene Personen oft empfindlich auf Lärm und Licht.",
+      "Die zumeist starken Kopfschmerzen treten in der Mehrzahl der Fälle halbseitig auf (Hemikranie), können aber auch den gesamten Kopf betreffen."
+    ],
+    0.5299596190452576
+  ],
+  [
+    [
+      34,
+      53
+    ],
+    [
+      "Manchen betroffenen Personen ist übel.",
+      "Die zumeist starken Kopfschmerzen treten in der Mehrzahl der Fälle halbseitig auf (Hemikranie), können aber auch den gesamten Kopf betreffen."
+    ],
+    0.3639035224914551
+  ],
+  [
+    [
+      35,
+      55
+    ],
+    [
+      "Sie müssen sich sogar erbrechen.",
+      "Bei Bewegung verstärken sich die Symptome;"
+    ],
+    0.4300882816314697
+  ],
+  [
+    [
+      36,
+      57
+    ],
+    [
+      "Die Kopfschmerzen können mehrere Tage andauern.",
+      "Die Kopfschmerzphase des Migräneanfalls dauert beim Erwachsenen unbehandelt mindestens vier Stunden und kann bis zu drei Tage lang anhalten."
+    ],
+    0.548737645149231
+  ],
+  [
+    [
+      37,
+      69
+    ],
+    [
+      "Ärzte kennen die Ursachen einer Migräne nicht immer genau.",
+      "Auch wenn die Symptome nicht eindeutig für eine Migräne sprechen, können weitere Untersuchungen notwendig sein, um andere Erkrankungen auszuschließen, die ebenfalls zu Kopfschmerzen führen."
+    ],
+    0.5977535247802734
+  ],
+  [
+    [
+      38,
+      76
+    ],
+    [
+      "Sie vermuten:",
+      "Sie kommt tendenziell bei Männern häufiger vor."
+    ],
+    0.37171152234077454
+  ],
+  [
+    [
+      39,
+      79
+    ],
+    [
+      "Bei einer Migräne werden die Nerven im Gehirn zu stark erregt.",
+      "Bei der Familiären Hemiplegischen Migräne kommt es zusätzlich zu den Migränesymptomen zu halbseitigen Lähmungen, die nach dem Anfall wieder zurückgehen."
+    ],
+    0.5415717959403992
+  ],
+  [
+    [
+      40,
+      85
+    ],
+    [
+      "Deshalb entstehen kleine Entzündungen.",
+      "Auch Komplikationen sind möglich."
+    ],
+    0.5096137523651123
+  ],
+  [
+    [
+      41,
+      94
+    ],
+    [
+      "Durch die Entzündungen weiten sich die Blutgefäße im Gehirn.",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.5457725524902344
+  ],
+  [
+    [
+      42,
+      94
+    ],
+    [
+      "Dadurch entstehen die Kopfschmerzen.",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.5159044861793518
+  ],
+  [
+    [
+      43,
+      94
+    ],
+    [
+      "Es gibt verschiedene Auslöser für Migräne wie zum Beispiel:",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.37286171317100525
+  ],
+  [
+    [
+      44,
+      94
+    ],
+    [
+      "Stress",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.24391698837280273
+  ],
+  [
+    [
+      45,
+      94
+    ],
+    [
+      "Schlafmangel",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.2645132839679718
+  ],
+  [
+    [
+      46,
+      94
+    ],
+    [
+      "Flüssigkeitsmangel zu viele Reize bestimmtes Wetter bestimmte Medikamente bestimmte alkoholische Getränke Koffein-Entzug",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.46054404973983765
+  ],
+  [
+    [
+      47,
+      94
+    ],
+    [
+      "Koffein kommt zum Beispiel in Kaffee, Tee oder Cola vor.",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.3019118010997772
+  ],
+  [
+    [
+      48,
+      94
+    ],
+    [
+      "Bei Frauen hängen die Beschwerden manchmal auch von der Menstruation ab.",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.5969997644424438
+  ],
+  [
+    [
+      49,
+      94
+    ],
+    [
+      "Die Menstruation ist die Monatsblutung.",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.482530802488327
+  ],
+  [
+    [
+      50,
+      94
+    ],
+    [
+      "Dann tritt die Migräne oft kurz vor der Menstruation auf.",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.5547984838485718
+  ],
+  [
+    [
+      51,
+      94
+    ],
+    [
+      "Ihr Arzt stellt bei Ihnen eine Migräne fest?",
+      "Bei der Behandlung der Migräne unterscheidet man zwischen der Therapie zur Linderung einer akuten Kopfschmerzattacke (Akuttherapie) und der vorbeugenden Therapie (Prophylaxe), die darauf abzielt, die Häufigkeit von Attacken zu reduzieren, die Schwere der Kopfschmerzen zu lindern und das Ansprechen auf die Akuttherapie zu verbessern."
+    ],
+    0.43887606263160706
+  ],
+  [
+    [
+      52,
+      96
+    ],
+    [
+      "Dann sollten Sie auf einige Dinge achten.",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.435298353433609
+  ],
+  [
+    [
+      53,
+      96
+    ],
+    [
+      "Vermeiden Sie die Auslöser der Migräne.",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.42948511242866516
+  ],
+  [
+    [
+      54,
+      96
+    ],
+    [
+      "Dabei hilft zum Beispiel eine geregelte Lebensweise.",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.28469428420066833
+  ],
+  [
+    [
+      55,
+      96
+    ],
+    [
+      "Sie haben oft Stress ?",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.42615604400634766
+  ],
+  [
+    [
+      56,
+      96
+    ],
+    [
+      "Dann können Ihnen besondere Kurse helfen.",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.3993677496910095
+  ],
+  [
+    [
+      57,
+      96
+    ],
+    [
+      "In den Kursen lernen Sie:",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.32107818126678467
+  ],
+  [
+    [
+      58,
+      96
+    ],
+    [
+      "So können Sie mit Stress umgehen.",
+      "Sie können mit Medikamenten gegen Übelkeit kombiniert werden."
+    ],
+    0.5939916968345642
+  ],
+  [
+    [
+      59,
+      105
+    ],
+    [
+      "Auch Sport kann gegen das Auftreten von Migräne-Anfällen helfen.",
+      "Wenn ein Migräneanfall mit Erbrechen einhergeht, können Medikamente gegen Übelkeit (Antiemetika) helfen."
+    ],
+    0.5762494206428528
+  ],
+  [
+    [
+      60,
+      106
+    ],
+    [
+      "Manchmal treten die Anfälle auch ohne Auslöser auf.",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.4893667995929718
+  ],
+  [
+    [
+      61,
+      106
+    ],
+    [
+      "Vielleicht können Sie die Auslöser nicht immer vermeiden.",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.5732851624488831
+  ],
+  [
+    [
+      62,
+      106
+    ],
+    [
+      "Dann können diese Dinge gegen die Beschwerden helfen:",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.5167202353477478
+  ],
+  [
+    [
+      63,
+      106
+    ],
+    [
+      "Verdunkeln Sie den Raum.",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.2788445055484772
+  ],
+  [
+    [
+      64,
+      106
+    ],
+    [
+      "Schlafen Sie.",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.21180525422096252
+  ],
+  [
+    [
+      65,
+      106
+    ],
+    [
+      "Legen Sie sich ein kühles Tuch auf die Stirn.",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.4408072531223297
+  ],
+  [
+    [
+      66,
+      106
+    ],
+    [
+      "Reiben Sie verdünntes Pfefferminzöl auf Ihre Schläfen.",
+      "Sie regen die Magenbewegung an, die durch die Migräne gebremst wird."
+    ],
+    0.3964335024356842
+  ],
+  [
+    [
+      67,
+      110
+    ],
+    [
+      "Es gibt auch verschiedene Medikamente gegen Migräne.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.5219274759292603
+  ],
+  [
+    [
+      68,
+      110
+    ],
+    [
+      "Gegen die Kopfschmerzen können Schmerzmittel helfen.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.6409868597984314
+  ],
+  [
+    [
+      69,
+      110
+    ],
+    [
+      "Ihnen ist während der Migräne übel?",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.49155792593955994
+  ],
+  [
+    [
+      70,
+      110
+    ],
+    [
+      "Dann können Medikamente gegen die Übelkeit helfen.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.6411556601524353
+  ],
+  [
+    [
+      71,
+      110
+    ],
+    [
+      "Fragen Sie Ihren Arzt.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.27269524335861206
+  ],
+  [
+    [
+      72,
+      110
+    ],
+    [
+      "Es gibt auch besondere Migräne-Medikamente.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.39407113194465637
+  ],
+  [
+    [
+      73,
+      110
+    ],
+    [
+      "Die Medikamente müssen Sie so früh wie möglich nehmen.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.5430405735969543
+  ],
+  [
+    [
+      74,
+      110
+    ],
+    [
+      "So helfen die Medikamente am besten.",
+      "Sie blockieren die neurovaskuläre Entzündung, verengen die geweiteten Blutgefäße und wirken so gegen die Kopfschmerzen und gegen die anderen Begleitsymptome der Migräne, wie Übelkeit und Erbrechen."
+    ],
+    0.5254912376403809
+  ],
+  [
+    [
+      75,
+      115
+    ],
+    [
+      "Manche Medikamente helfen zur Vorbeugung.",
+      "Zur Behandlung der Migräne wurden früher auch Mutterkornalkaloide (sogenannte Ergotamine) eingesetzt."
+    ],
+    0.48606258630752563
+  ],
+  [
+    [
+      76,
+      120
+    ],
+    [
+      "Durch diese Medikamente werden die Anfälle weniger.",
+      "Häufig und als Mittel der ersten Wahl verwendet werden Substanzen, die ursprünglich für andere Krankheiten entwickelt wurden, ihre Migräne-vorbeugende Wirkung jedoch in gezielten Studien bewiesen haben."
+    ],
+    0.5315024852752686
+  ],
+  [
+    [
+      77,
+      121
+    ],
+    [
+      "Fragen Sie Ihren Arzt:",
+      "Dies sind Betarezeptorenblocker (z.B. Metoprolol), Antikonvulsia (z.B. Topiramat) oder auch Antidepressia (z.B. Amitriptylin)."
+    ],
+    0.23738817870616913
+  ],
+  [
+    [
+      78,
+      122
+    ],
+    [
+      "Welche Medikamente sind für mich am besten?",
+      "Es gibt aber auch noch viele andere Medikamente."
+    ],
+    0.38598790764808655
+  ],
+  [
+    [
+      79,
+      122
+    ],
+    [
+      "Der Arzt informiert Sie über die richtige Behandlung.",
+      "Es gibt aber auch noch viele andere Medikamente."
+    ],
+    0.3480483591556549
+  ],
+  [
+    [
+      80,
+      122
+    ],
+    [
+      "Sie wollen noch mehr über Migräne lesen?",
+      "Es gibt aber auch noch viele andere Medikamente."
+    ],
+    0.4691769778728485
+  ],
+  [
+    [
+      81,
+      122
+    ],
+    [
+      "Mehr Informationen über Migräne finden Sie hier .",
+      "Es gibt aber auch noch viele andere Medikamente."
+    ],
+    0.4114319086074829
+  ],
+  [
+    [
+      82,
+      136
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wenn Migräneattacken auftreten, hilft es den Betroffenen meist, sich in einen dunkeln und ruhigen Raum zurückzuziehen."
+    ],
+    0.3537381887435913
+  ],
+  [
+    [
+      83,
+      136
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wenn Migräneattacken auftreten, hilft es den Betroffenen meist, sich in einen dunkeln und ruhigen Raum zurückzuziehen."
+    ],
+    0.39721617102622986
+  ]
+]

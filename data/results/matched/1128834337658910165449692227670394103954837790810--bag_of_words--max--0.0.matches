@@ -1,0 +1,662 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Achtung!",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.11291978508234024
+  ],
+  [
+    [
+      1,
+      9
+    ],
+    [
+      "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.6074879169464111
+  ],
+  [
+    [
+      2,
+      8
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Das sollten Sie tun:"
+    ],
+    0.4346059560775757
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Nummer ist:",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.16803602874279022
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.5530461668968201
+  ],
+  [
+    [
+      6,
+      12
+    ],
+    [
+      "Dann fehlen im Gehirn Sauerstoff und Nährstoffe.",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.013640482909977436
+  ],
+  [
+    [
+      7,
+      6
+    ],
+    [
+      "Und dann können Gehirnzellen sterben.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.032385002821683884
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.018837079405784607
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für einen Schlaganfall.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.5421344637870789
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.092203289270401
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Typische Anzeichen für einen Schlaganfall sind zum Beispiel:",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.5395273566246033
+  ],
+  [
+    [
+      12,
+      2
+    ],
+    [
+      "Ein Körperteil ist gelähmt.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.01433190144598484
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.19002790749073029
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Ein Körperteil fühlt sich taub an.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.02657526731491089
+  ],
+  [
+    [
+      15,
+      2
+    ],
+    [
+      "Ein Teil des Gesichts ist gelähmt.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.016239292919635773
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel nicht mehr lächeln.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.10766161978244781
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "Die betroffene Person hat Sehstörungen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.13458757102489471
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Die betroffene Person hat Problemen beim Sprechen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.13431736826896667
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Die betroffene Person fühlt sich schwindelig.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.1119673028588295
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Bei einem Herzinfarkt ist ein Blutgefäß verstopft.",
+      "Herzinfarkt :"
+    ],
+    0.907538115978241
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Deshalb bekommt das Herz nicht mehr genug Blut.",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.034040383994579315
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Die Verstopfung von dem Gefäß muss schnell gelöst werden.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.11636118590831757
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Wird die Verstopfung im Blutgefäß nicht gelöst?",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.09536049515008926
+  ],
+  [
+    [
+      25,
+      8
+    ],
+    [
+      "Das Herz kann dann manchmal nicht mehr richtig arbeiten.",
+      "Das sollten Sie tun:"
+    ],
+    0.016477540135383606
+  ],
+  [
+    [
+      26,
+      8
+    ],
+    [
+      "Das kann lebensgefährlich sein.",
+      "Das sollten Sie tun:"
+    ],
+    0.05027768388390541
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.018837079405784607
+  ],
+  [
+    [
+      28,
+      0
+    ],
+    [
+      "Es gibt viele verschiedene Anzeichen für einen Herzinfarkt.",
+      "Herzinfarkt :"
+    ],
+    0.8467692732810974
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.092203289270401
+  ],
+  [
+    [
+      30,
+      0
+    ],
+    [
+      "Typische Anzeichen für einen Herzinfarkt sind zum Beispiel: starke Schmerzen in der Brust ein drückendes Gefühl in der Brust Schmerzen im linken Arm Schmerzen im Hals oder im Kiefer kalter Schweiß",
+      "Herzinfarkt :"
+    ],
+    0.6031416654586792
+  ],
+  [
+    [
+      32,
+      3
+    ],
+    [
+      "Atemnot ein blasses Gesicht",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.02326323464512825
+  ],
+  [
+    [
+      34,
+      9
+    ],
+    [
+      "Sie glauben: Eine Person hat vielleicht einen Schlaganfall oder einen Herzinfarkt?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.6157530546188354
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Das sollten Sie tun:"
+    ],
+    0.5175002217292786
+  ],
+  [
+    [
+      36,
+      8
+    ],
+    [
+      "Rufen Sie zuerst den Rettungsdienst.",
+      "Das sollten Sie tun:"
+    ],
+    0.4827048182487488
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Die Telefonnummer ist:",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.16920533776283264
+  ],
+  [
+    [
+      38,
+      8
+    ],
+    [
+      "112. Sie haben den Rettungsdienst gerufen?",
+      "Das sollten Sie tun:"
+    ],
+    0.4422925114631653
+  ],
+  [
+    [
+      39,
+      8
+    ],
+    [
+      "Dann können Sie jetzt Erste Hilfe leisten.",
+      "Das sollten Sie tun:"
+    ],
+    0.4165986478328705
+  ],
+  [
+    [
+      40,
+      8
+    ],
+    [
+      "Folgendes können Sie tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.6575823426246643
+  ],
+  [
+    [
+      41,
+      8
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.26308920979499817
+  ],
+  [
+    [
+      42,
+      8
+    ],
+    [
+      "Reden Sie mit der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.26281142234802246
+  ],
+  [
+    [
+      43,
+      8
+    ],
+    [
+      "Lockern Sie zu enge Kleidung der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.2581825852394104
+  ],
+  [
+    [
+      44,
+      8
+    ],
+    [
+      "Entfernen Sie Zahnprothesen der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.25998932123184204
+  ],
+  [
+    [
+      45,
+      8
+    ],
+    [
+      "Geben Sie der betroffenen Person nichts zu essen oder zu trinken.",
+      "Das sollten Sie tun:"
+    ],
+    0.25507545471191406
+  ],
+  [
+    [
+      46,
+      1
+    ],
+    [
+      "Die Person könnte sich nämlich verschlucken.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.05443120375275612
+  ],
+  [
+    [
+      47,
+      8
+    ],
+    [
+      "Richten Sie den Oberkörper der betroffenen Person etwas auf.",
+      "Das sollten Sie tun:"
+    ],
+    0.2579895555973053
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Legen Sie ihr zum Beispiel ein Kissen in den Rücken.",
+      "Das sollten Sie tun:"
+    ],
+    0.496740460395813
+  ],
+  [
+    [
+      49,
+      1
+    ],
+    [
+      "Ist die betroffene Person bewusstlos?",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.11385704576969147
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "Oder erbricht sie sich?",
+      "Das sollten Sie tun:"
+    ],
+    0.5627618432044983
+  ],
+  [
+    [
+      51,
+      8
+    ],
+    [
+      "Dann legen Sie die Person in die stabile Seitenlage .",
+      "Das sollten Sie tun:"
+    ],
+    0.24324853718280792
+  ],
+  [
+    [
+      52,
+      1
+    ],
+    [
+      "Die betroffene Person atmet nicht?",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.11392351239919662
+  ],
+  [
+    [
+      53,
+      8
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Das sollten Sie tun:"
+    ],
+    0.49603205919265747
+  ],
+  [
+    [
+      54,
+      8
+    ],
+    [
+      "Merken Sie sich: Wann haben die Anzeichen angefangen?",
+      "Das sollten Sie tun:"
+    ],
+    0.3986700177192688
+  ],
+  [
+    [
+      55,
+      1
+    ],
+    [
+      "Die Uhrzeit ist eine wichtige Information für den Notarzt.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.17442317306995392
+  ],
+  [
+    [
+      56,
+      9
+    ],
+    [
+      "Sie wollen noch mehr über Erste Hilfe bei einem Schlaganfall oder einem Herzinfarkt lesen?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.7170111536979675
+  ],
+  [
+    [
+      57,
+      8
+    ],
+    [
+      "Mehr Informationen finden Sie hier.",
+      "Das sollten Sie tun:"
+    ],
+    0.5221027731895447
+  ],
+  [
+    [
+      58,
+      3
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.06950245797634125
+  ],
+  [
+    [
+      59,
+      1
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.09871987253427505
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?",
+      "Egal, ob Herzinfarkt oder Schlaganfall – es kommt darauf an, dass der Patient möglichst bald eine medizinische Behandlung bekommt."
+    ],
+    0.7323172092437744
+  ],
+  [
+    [
+      61,
+      8
+    ],
+    [
+      "Mehr Informationen in Einfacher Sprache zu diesen Themen finden Sie in diesen Texten:",
+      "Das sollten Sie tun:"
+    ],
+    0.42786702513694763
+  ],
+  [
+    [
+      62,
+      5
+    ],
+    [
+      "• Schlaganfall",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.6381906867027283
+  ],
+  [
+    [
+      63,
+      0
+    ],
+    [
+      "• Herzinfarkt",
+      "Herzinfarkt :"
+    ],
+    1.0
+  ]
+]

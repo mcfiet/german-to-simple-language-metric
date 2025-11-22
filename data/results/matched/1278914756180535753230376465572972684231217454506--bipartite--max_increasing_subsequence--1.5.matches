@@ -1,0 +1,277 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Grippe ist eine ansteckende Krankheit.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.6513713598251343
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Grippe entsteht durch Viren.",
+      "Als \"Influenza\" oder \"echte Grippe\" bezeichnet man eine Erkrankung durch das Influenza-Virus."
+    ],
+    0.7668426036834717
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Die Viren werden durch Körper-Flüssigkeiten übertragen:",
+      "Dieser Begriff wird für Magen-Darm-Infektionen durch unterschiedliche Erreger verwendet, die zum Beispiel zu Durchfall und Erbrechen führen."
+    ],
+    0.7214016318321228
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Zum Beispiel beim Niesen.",
+      "Dieser Begriff wird für Magen-Darm-Infektionen durch unterschiedliche Erreger verwendet, die zum Beispiel zu Durchfall und Erbrechen führen."
+    ],
+    0.621321976184845
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Das Influenza-Virus wird über die Schleimhäute übertragen.",
+      "Dieser Begriff wird für Magen-Darm-Infektionen durch unterschiedliche Erreger verwendet, die zum Beispiel zu Durchfall und Erbrechen führen."
+    ],
+    0.6681004762649536
+  ],
+  [
+    [
+      7,
+      13
+    ],
+    [
+      "Schleimhäute sind zum Beispiel in Mund oder Nase.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.8869983553886414
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "In den Schleimhäuten vermehren sich die Viren.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.7235086560249329
+  ],
+  [
+    [
+      11,
+      13
+    ],
+    [
+      "Händeschütteln",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.6706710457801819
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Influenza-Viren überleben auch auf Gegenständen wie zum Beispiel Türklinken.",
+      "Kommen die Hände in Kontakt mit Gegenständen, auf denen sich virushaltige Sekrete befinden (zum Beispiel Türklinken) und fasst man sich anschließend damit an die Nase oder andere Schleimhäute, ist eine Infektion ebenfalls möglich."
+    ],
+    0.8009923100471497
+  ],
+  [
+    [
+      28,
+      17
+    ],
+    [
+      "Personen über 65 Jahren",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.8705071806907654
+  ],
+  [
+    [
+      29,
+      17
+    ],
+    [
+      "Auch bestimmte Medikamente können das Immunsystem unterdrücken.",
+      "So zum Beispiel: Schwangerschaft Diabetes und andere Stoffwechselkrankheiten Tumorerkrankungen Alter von über 65 Jahren, hier reagiert das Immunsystem nicht mehr so gut auf neue Erreger Alter von weniger als einem Jahr, hier ist das Immunsystem noch unreif und reagiert nicht so effektiv"
+    ],
+    0.7162213325500488
+  ],
+  [
+    [
+      31,
+      23
+    ],
+    [
+      "Die Anzeichen einer Grippe sind sehr plötzlich .",
+      "Jährlich sind nach Schätzungen der Weltgesundheitsorganisation (WHO) 10 bis 20 Prozent der Weltbevölkerung betroffen, aber die Mehrheit davon bekommt das nicht mit."
+    ],
+    0.6313089728355408
+  ],
+  [
+    [
+      34,
+      28
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen hohes Fieber",
+      "Fieber bis zu 40 Grad Halsschmerzen trockener Husten tränende Augen eine rinnende Nase Übelkeit Kopf- und Gliederschmerzen Treten keine Komplikationen auf, ist die Infektion üblicherweise nach einer Dauer von wenigen Tagen bis einer Woche überstanden."
+    ],
+    0.7814127206802368
+  ],
+  [
+    [
+      39,
+      28
+    ],
+    [
+      "Eine Grippe dauert etwa eine Woche.",
+      "Fieber bis zu 40 Grad Halsschmerzen trockener Husten tränende Augen eine rinnende Nase Übelkeit Kopf- und Gliederschmerzen Treten keine Komplikationen auf, ist die Infektion üblicherweise nach einer Dauer von wenigen Tagen bis einer Woche überstanden."
+    ],
+    0.66689532995224
+  ],
+  [
+    [
+      51,
+      28
+    ],
+    [
+      "Sie haben Husten und die Nase läuft?",
+      "Fieber bis zu 40 Grad Halsschmerzen trockener Husten tränende Augen eine rinnende Nase Übelkeit Kopf- und Gliederschmerzen Treten keine Komplikationen auf, ist die Infektion üblicherweise nach einer Dauer von wenigen Tagen bis einer Woche überstanden."
+    ],
+    0.7275265455245972
+  ],
+  [
+    [
+      53,
+      33
+    ],
+    [
+      "Sie haben starke Schmerzen?",
+      "Sie können jeweils unterschiedliche Symptome hervorrufen und sollten umgehend behandelt werden."
+    ],
+    0.7029736638069153
+  ],
+  [
+    [
+      54,
+      34
+    ],
+    [
+      "Dann können Medikamente helfen.",
+      "Harmlose Erkältungskrankheiten, oft als \"grippaler Infekt\" bezeichnet, können ähnliche Symptome wie eine Grippe verursachen: Husten, eine erhöhte Körpertemperatur oder Kopfschmerzen können zum Beispiel auch hier auftreten."
+    ],
+    0.6349209547042847
+  ],
+  [
+    [
+      58,
+      53
+    ],
+    [
+      "Gegen Grippe gibt es auch eine Impfung.",
+      "Medikamente gegen Grippe"
+    ],
+    0.8166782259941101
+  ],
+  [
+    [
+      60,
+      53
+    ],
+    [
+      "Deshalb muss eine Impfung gegen Grippe jedes Jahr erfolgen.",
+      "Medikamente gegen Grippe"
+    ],
+    0.8668492436408997
+  ],
+  [
+    [
+      61,
+      53
+    ],
+    [
+      "Manche Menschen sollten sich auf jeden Fall gegen Grippe impfen lassen:",
+      "Medikamente gegen Grippe"
+    ],
+    0.815413773059845
+  ],
+  [
+    [
+      64,
+      60
+    ],
+    [
+      "Personen mit Immunschwäche",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.8708640336990356
+  ],
+  [
+    [
+      65,
+      60
+    ],
+    [
+      "Personen mit chronischer Lebererkrankung",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.8244308829307556
+  ],
+  [
+    [
+      66,
+      60
+    ],
+    [
+      "Personen mit chronischer Nierenerkrankung",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.8282772898674011
+  ],
+  [
+    [
+      67,
+      60
+    ],
+    [
+      "Personen mit Herzkrankheiten",
+      "Antivirale Medikamente sollten bei Patienten mit chronischen Erkrankungen, Immunschwäche und bei Grippe-Komplikationen wie einer Lungenentzündung erwogen werden."
+    ],
+    0.8318867683410645
+  ],
+  [
+    [
+      68,
+      67
+    ],
+    [
+      "Personen mit Atemwegserkrankungen wie zum Beispiel",
+      "Auch wenn die Impfung nicht immer die Infektion mit dem Virus verhindert, so schützt sie zum Beispiel bei Patienten mit Gefäßschäden, die an einer Grippe erkranken, ähnlich gut vor Herzinfarkten wie eine Senkung des Cholesterins im Blut."
+    ],
+    0.8869119882583618
+  ]
+]

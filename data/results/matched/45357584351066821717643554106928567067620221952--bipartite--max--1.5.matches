@@ -1,0 +1,453 @@
+[
+  [
+    [
+      0,
+      6
+    ],
+    [
+      "Sie brauchen eine Geburts-Urkunde?",
+      "Geburtsurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      11
+    ],
+    [
+      "Oder eine Ehe-Urkunde?",
+      "Eheurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Oder eine Lebens-Partnerschafts-Urkunde?",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    0.800748884677887
+  ],
+  [
+    [
+      3,
+      19
+    ],
+    [
+      "Oder eine Sterbe-Urkunde?",
+      "Sterbeurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      4,
+      14
+    ],
+    [
+      "Diese Urkunden können Sie von uns bekommen.",
+      "Bei uns erhalten Sie nur Eheurkunden oder Abschriften aus dem Eheregister von Ehen, die ab 1942 in Köln geschlossen wurden oder wenn wir für Ihre im Ausland geschlossene Ehe das Eheregister, früher Familienbuch, führen."
+    ],
+    0.8120777010917664
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Sie können nach einer Urkunde fragen: am Telefon mit einem Brief mit einer E-Mail.",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ],
+  [
+    [
+      6,
+      14
+    ],
+    [
+      "Sie können Urkunden aber auch im Internet bestellen.",
+      "Bei uns erhalten Sie nur Eheurkunden oder Abschriften aus dem Eheregister von Ehen, die ab 1942 in Köln geschlossen wurden oder wenn wir für Ihre im Ausland geschlossene Ehe das Eheregister, früher Familienbuch, führen."
+    ],
+    0.7207279205322266
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Dazu können Sie unseren Urkunden- Service nutzen.",
+      "Eheurkunde/"
+    ],
+    0.6993665099143982
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "Dafür klicken Sie auf den Link zu der Urkunde, die Sie haben wollen.",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ],
+  [
+    [
+      9,
+      11
+    ],
+    [
+      "Über den Link kommen Sie auf den Antrag, mit dem Sie die Urkunde bestellen können.",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Geburts-Urkunde",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    1.0
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Eine Geburts-Urkunde brauchen Sie zum Beispiel, wenn Sie eine Ehe oder Lebens-Partnerschaft anmelden wollen, wenn Sie sich bei einer Firma bewerben und diese nach einer Geburts-Urkunde fragt, wenn Ihre Versicherung oder Bank nach Ihrer Geburts-Urkunde fragt.",
+      "Geburtsurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Sie bekommen die Geburts-Urkunde beim Standes-Amt von dem Ort, wo Sie geboren wurden.",
+      "Geburtsurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Wenn Sie in Köln geboren wurden, bekommen Sie die Geburts-Urkunde also bei uns.",
+      "Geburtsurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Bei uns bekommen Sie Urkunden ab dem Geburts-Jahr 1912 .",
+      "Bei uns erhalten Sie Urkunden ab dem Geburtsjahr"
+    ],
+    0.9633356928825378
+  ],
+  [
+    [
+      19,
+      0
+    ],
+    [
+      "Ehe-Urkunde",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    1.0
+  ],
+  [
+    [
+      20,
+      11
+    ],
+    [
+      "Eine Ehe-Urkunde bekommen Sie, wenn Sie geheiratet haben.",
+      "Eheurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Sie bekommen die Ehe-Urkunde, wo Sie geheiratet haben.",
+      "Eheurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Wenn Sie in Köln geheiratet haben, stellen wir Ihnen die Ehe-Urkunde aus.",
+      "Eheurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      24,
+      12
+    ],
+    [
+      "Dann können Sie von uns eine Kopie aus dem Ehe-Register bekommen.",
+      "Abschrift aus dem Eheregister"
+    ],
+    0.9194331169128418
+  ],
+  [
+    [
+      25,
+      14
+    ],
+    [
+      "Bei uns bekommen Sie nur Ehe-Urkunden von Ehen, die ab 1942 in Köln geschlossen wurden.",
+      "Bei uns erhalten Sie nur Eheurkunden oder Abschriften aus dem Eheregister von Ehen, die ab 1942 in Köln geschlossen wurden oder wenn wir für Ihre im Ausland geschlossene Ehe das Eheregister, früher Familienbuch, führen."
+    ],
+    0.9804457426071167
+  ],
+  [
+    [
+      26,
+      14
+    ],
+    [
+      "Oder wenn wir für Ihre im Ausland geschlossene Ehe das Ehe-Register führen.",
+      "Bei uns erhalten Sie nur Eheurkunden oder Abschriften aus dem Eheregister von Ehen, die ab 1942 in Köln geschlossen wurden oder wenn wir für Ihre im Ausland geschlossene Ehe das Eheregister, früher Familienbuch, führen."
+    ],
+    0.9501872062683105
+  ],
+  [
+    [
+      27,
+      14
+    ],
+    [
+      "Das Ehe-Register hieß früher: Familienbuch.",
+      "Bei uns erhalten Sie nur Eheurkunden oder Abschriften aus dem Eheregister von Ehen, die ab 1942 in Köln geschlossen wurden oder wenn wir für Ihre im Ausland geschlossene Ehe das Eheregister, früher Familienbuch, führen."
+    ],
+    0.7976178526878357
+  ],
+  [
+    [
+      28,
+      15
+    ],
+    [
+      "Aus den früheren Familienbüchern können beglaubigte Ablichtungen gemacht werden.",
+      "Aus den früheren Familienbüchern können beglaubigte Ablichtungen gefertigt werden."
+    ],
+    0.919796884059906
+  ],
+  [
+    [
+      29,
+      0
+    ],
+    [
+      "Lebens-Partnerschafts-Urkunde",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    1.0
+  ],
+  [
+    [
+      35,
+      0
+    ],
+    [
+      "Sterbe-Urkunde",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    1.0
+  ],
+  [
+    [
+      36,
+      19
+    ],
+    [
+      "Eine Sterbe-Urkunde brauchen Sie, wenn Sie Ihr Erbe regeln wollen.",
+      "Sterbeurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      38,
+      19
+    ],
+    [
+      "Sie brauchen die Sterbe-Urkunde von der gestorbenen Person, um die Versicherung zu bekommen.",
+      "Sterbeurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      39,
+      19
+    ],
+    [
+      "Sie bekommen die Sterbe-Urkunde in dem Standes-Amt, die den Tod von der gestorbenen Person bescheinigt hat.",
+      "Sterbeurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      40,
+      19
+    ],
+    [
+      "Sie bekommen bei uns Sterbe-Urkunden ab 1992 .",
+      "Sterbeurkunde"
+    ],
+    0.8973588347434998
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "Was kostet eine Urkunde?",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "10 Euro für die 1. Urkunde.",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ],
+  [
+    [
+      43,
+      26
+    ],
+    [
+      "5 Euro für jede weitere Urkunde der gleichen Art.",
+      "Die erste Urkunde kostet 10 Euro, jede weitere Urkunde der gleichen Art 5 Euro."
+    ],
+    0.9217740297317505
+  ],
+  [
+    [
+      44,
+      26
+    ],
+    [
+      "15 Euro kosten 2 gleiche Urkunden.",
+      "Die erste Urkunde kostet 10 Euro, jede weitere Urkunde der gleichen Art 5 Euro."
+    ],
+    0.8498287796974182
+  ],
+  [
+    [
+      45,
+      26
+    ],
+    [
+      "20 Euro kosten 2 Urkunden unterschiedlicher Art.",
+      "Die erste Urkunde kostet 10 Euro, jede weitere Urkunde der gleichen Art 5 Euro."
+    ],
+    0.8597632050514221
+  ],
+  [
+    [
+      46,
+      29
+    ],
+    [
+      "Urkunden können Sie mit Bargeld bezahlen.",
+      "Bei persönlicher Vorsprache können Sie die Gebühren bar oder mit der EC-Karte und PIN-Nummer bezahlen."
+    ],
+    0.8269811868667603
+  ],
+  [
+    [
+      51,
+      29
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Bei persönlicher Vorsprache können Sie die Gebühren bar oder mit der EC-Karte und PIN-Nummer bezahlen."
+    ],
+    0.7374489903450012
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Was ist, wenn ich im Ausland bin und eine Urkunde brauche?",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ],
+  [
+    [
+      57,
+      1
+    ],
+    [
+      "Auch dann können Sie eine Urkunde bei uns bestellen.",
+      "Sie können die gewünschte Urkunde oder die Abschrift bei uns telefonisch, schriftlich oder online bestellen."
+    ],
+    0.8028443455696106
+  ],
+  [
+    [
+      59,
+      32
+    ],
+    [
+      "Diese müssen Sie bezahlen.",
+      "Bei Versand von Urkunden ins Ausland, müssen Sie die Urkunde vorab bezahlen."
+    ],
+    0.9158135056495667
+  ],
+  [
+    [
+      60,
+      11
+    ],
+    [
+      "Wenn das Geld auf unserem Bank-Konto angekommen ist, schicken wir Ihnen die Urkunde mit der Post.",
+      "Eheurkunde/"
+    ],
+    0.7635179758071899
+  ]
+]

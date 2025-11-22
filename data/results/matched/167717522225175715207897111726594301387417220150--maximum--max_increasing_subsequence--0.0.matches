@@ -1,0 +1,486 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Sie nehmen viele verschiedene Medikamente ein?",
+      "Ihr Arzt oder Ihre Ärztin Ihnen zwei oder mehr Medikamente, dann besteht die Möglichkeit, dass sich die enthaltenen Wirkstoffe gegenseitig beeinflussen."
+    ],
+    0.512881338596344
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann kann sich die Wirkung der verschiedenen Medikamente beeinflussen.",
+      "Ihr Arzt oder Ihre Ärztin Ihnen zwei oder mehr Medikamente, dann besteht die Möglichkeit, dass sich die enthaltenen Wirkstoffe gegenseitig beeinflussen."
+    ],
+    0.673351526260376
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Der Arzt spricht dann von Wechselwirkungen.",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.6605086326599121
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Die Wirkstoffe in verschiedenen Medikamenten können sich gegenseitig beeinflussen.",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.5005937814712524
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "So kann ein Medikament die Wirkung eines anderen Medikaments: verstärken abschwächen ganz aufheben",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.4683842957019806
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Ein Medikament kann auch die Nebenwirkung eines anderen Medikaments verstärken.",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.46314898133277893
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Sie nehmen ein Medikament und bekommen davon Schmerzen oder andere Beschwerden?",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.5044732093811035
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Dann spricht der Arzt von Nebenwirkungen.",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.6240172386169434
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Die Wirkung von Medikamenten kann sich auch durch Lebensmittel verändern.",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.5692530274391174
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Weitere Informationen zu Wechselwirkungen bei Medikamenten und Lebensmitteln finden Sie hier .",
+      "Ärzte und Apotheker sprechen dabei von \"Wechselwirkungen\"."
+    ],
+    0.5927442908287048
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Hinweis: Sie nehmen viele verschiedene Medikamente ein?",
+      "Je mehr Mittel Sie einnehmen oder anwenden müssen, desto höher ist das Risiko, dass Wechselwirkungen auch tatsächlich auftreten."
+    ],
+    0.5077799558639526
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Dann steigt das Risiko für Wechselwirkungen.",
+      "Je mehr Mittel Sie einnehmen oder anwenden müssen, desto höher ist das Risiko, dass Wechselwirkungen auch tatsächlich auftreten."
+    ],
+    0.5729615688323975
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Besonders bei älteren Menschen treten Wechselwirkungen deshalb häufiger auf.",
+      "Je mehr Mittel Sie einnehmen oder anwenden müssen, desto höher ist das Risiko, dass Wechselwirkungen auch tatsächlich auftreten."
+    ],
+    0.5208529233932495
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Sie können das Risiko für Wechselwirkungen verkleinern.",
+      "Je mehr Mittel Sie einnehmen oder anwenden müssen, desto höher ist das Risiko, dass Wechselwirkungen auch tatsächlich auftreten."
+    ],
+    0.665076732635498
+  ],
+  [
+    [
+      14,
+      12
+    ],
+    [
+      "Dafür sollten Sie diese Dinge beachten:",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.6317543387413025
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Nehmen Sie Medikamente so ein, wie der Arzt es Ihnen sagt.",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.6777788996696472
+  ],
+  [
+    [
+      16,
+      12
+    ],
+    [
+      "Achten Sie zum Beispiel auf die richtige Menge und die richtige Tageszeit.",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.4903671145439148
+  ],
+  [
+    [
+      17,
+      12
+    ],
+    [
+      "Sie möchten Vitamintabletten oder rezeptfreie Medikamente einnehmen?",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.6170244812965393
+  ],
+  [
+    [
+      18,
+      12
+    ],
+    [
+      "Dann fragen Sie vorher Ihren Arzt oder Apotheker nach Wechselwirkungen.",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.4703969955444336
+  ],
+  [
+    [
+      19,
+      12
+    ],
+    [
+      "Sie müssen Medikamente einnehmen?",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.7152418494224548
+  ],
+  [
+    [
+      20,
+      12
+    ],
+    [
+      "Dann trinken Sie davor und danach keinen Alkohol.",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.4896140992641449
+  ],
+  [
+    [
+      21,
+      12
+    ],
+    [
+      "Alkohol kann nämlich das Risiko für Wechselwirkungen erhöhen.",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.5316023230552673
+  ],
+  [
+    [
+      22,
+      12
+    ],
+    [
+      "Sie können auch den Wechselwirkungs-Check der Apotheken-Umschau nutzen.",
+      "Es kann auch daran liegen, dass Sie die Tabletten nicht so einnehmen, wie Sie es eigentlich sollten."
+    ],
+    0.5805065035820007
+  ],
+  [
+    [
+      23,
+      18
+    ],
+    [
+      "Dort können Sie mögliche Wechselwirkungen von Medikamenten herausfinden.",
+      "Auch Nebenwirkungen, also die unerwünschten Nebeneffekte eines Medikaments, können sich durch gleichzeitige Gabe eines weiteren Arzneimittels intensivieren."
+    ],
+    0.6055556535720825
+  ],
+  [
+    [
+      24,
+      21
+    ],
+    [
+      "Hinweis: Der Wechselwirkungs-Check ist nicht immer eindeutig.",
+      "Auch die Abgrenzung von Wechselwirkungen zu sich addierenden Nebenwirkungseffekten oder Arzneimittel-Gegenanzeigen ist nicht immer eindeutig."
+    ],
+    0.5517522692680359
+  ],
+  [
+    [
+      25,
+      23
+    ],
+    [
+      "Fragen",
+      "Auch Wechselwirkungen zwischen Medikamenten und Nahrung oder Nahrungsergänzungsmitteln werden nicht immer berücksichtigt."
+    ],
+    0.37932196259498596
+  ],
+  [
+    [
+      26,
+      23
+    ],
+    [
+      "Sie",
+      "Auch Wechselwirkungen zwischen Medikamenten und Nahrung oder Nahrungsergänzungsmitteln werden nicht immer berücksichtigt."
+    ],
+    0.21183006465435028
+  ],
+  [
+    [
+      27,
+      23
+    ],
+    [
+      "deshalb trotzdem Ihren Arzt oder Apotheker",
+      "Auch Wechselwirkungen zwischen Medikamenten und Nahrung oder Nahrungsergänzungsmitteln werden nicht immer berücksichtigt."
+    ],
+    0.5626189708709717
+  ],
+  [
+    [
+      28,
+      23
+    ],
+    [
+      "nach möglichen Wechselwirkungen",
+      "Auch Wechselwirkungen zwischen Medikamenten und Nahrung oder Nahrungsergänzungsmitteln werden nicht immer berücksichtigt."
+    ],
+    0.6024043560028076
+  ],
+  [
+    [
+      31,
+      23
+    ],
+    [
+      "Und Sie denken: Ich bin vielleicht von Wechselwirkungen betroffen?",
+      "Auch Wechselwirkungen zwischen Medikamenten und Nahrung oder Nahrungsergänzungsmitteln werden nicht immer berücksichtigt."
+    ],
+    0.5362032651901245
+  ],
+  [
+    [
+      32,
+      23
+    ],
+    [
+      "Dann haben Sie zwei Möglichkeiten:",
+      "Auch Wechselwirkungen zwischen Medikamenten und Nahrung oder Nahrungsergänzungsmitteln werden nicht immer berücksichtigt."
+    ],
+    0.4548313319683075
+  ],
+  [
+    [
+      33,
+      29
+    ],
+    [
+      "1. Gehen Sie zum Arzt.",
+      "Am besten schreiben Sie zu Hause alle eingenommen Medikamente – auch Vitamin- und Mineralstoffpräparate, pflanzliche Mittel und selbst gekaufte Arzneien – auf und gehen damit zu Ihrer Apotheke vor Ort."
+    ],
+    0.4178091883659363
+  ],
+  [
+    [
+      34,
+      29
+    ],
+    [
+      "2. Machen Sie eine Liste:",
+      "Am besten schreiben Sie zu Hause alle eingenommen Medikamente – auch Vitamin- und Mineralstoffpräparate, pflanzliche Mittel und selbst gekaufte Arzneien – auf und gehen damit zu Ihrer Apotheke vor Ort."
+    ],
+    0.3570268452167511
+  ],
+  [
+    [
+      35,
+      29
+    ],
+    [
+      "Sie nehmen viele verschiedene Medikamente ein?",
+      "Am besten schreiben Sie zu Hause alle eingenommen Medikamente – auch Vitamin- und Mineralstoffpräparate, pflanzliche Mittel und selbst gekaufte Arzneien – auf und gehen damit zu Ihrer Apotheke vor Ort."
+    ],
+    0.5567992329597473
+  ],
+  [
+    [
+      36,
+      29
+    ],
+    [
+      "Dann schreiben Sie alle Medikamente und Vitaminpräparate auf eine Liste.",
+      "Am besten schreiben Sie zu Hause alle eingenommen Medikamente – auch Vitamin- und Mineralstoffpräparate, pflanzliche Mittel und selbst gekaufte Arzneien – auf und gehen damit zu Ihrer Apotheke vor Ort."
+    ],
+    0.6872084140777588
+  ],
+  [
+    [
+      37,
+      30
+    ],
+    [
+      "Gehen Sie mit dieser Liste zur Apotheke.",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.5689511299133301
+  ],
+  [
+    [
+      38,
+      30
+    ],
+    [
+      "Ihr Apotheker kann Ihnen dann weiterhelfen.",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.6159068942070007
+  ],
+  [
+    [
+      39,
+      30
+    ],
+    [
+      "Achtung: Wechselwirkungen können auch gefährlich sein.",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.47358742356300354
+  ],
+  [
+    [
+      40,
+      30
+    ],
+    [
+      "Sie haben Schmerzen oder fühlen sich krank?",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.39968034625053406
+  ],
+  [
+    [
+      41,
+      30
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.4453463554382324
+  ],
+  [
+    [
+      42,
+      30
+    ],
+    [
+      "Sie wollen noch mehr über Wechselwirkungen lesen?",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.4567524492740631
+  ],
+  [
+    [
+      43,
+      30
+    ],
+    [
+      "Mehr Informationen über Wechselwirkungen finden Sie hier .",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.4625684320926666
+  ],
+  [
+    [
+      44,
+      30
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.35096096992492676
+  ],
+  [
+    [
+      45,
+      30
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Diese kann Ihre Liste gründlich analysieren, gegebenenfalls mit Ärzten Rücksprache halten, und Ihnen dann eine Empfehlung geben."
+    ],
+    0.485725462436676
+  ]
+]

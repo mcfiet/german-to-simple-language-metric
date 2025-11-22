@@ -1,0 +1,453 @@
+[
+  [
+    [
+      0,
+      48
+    ],
+    [
+      "Das Knie ist ein Gelenk.",
+      "Schwellung :"
+    ],
+    0.2070273607969284
+  ],
+  [
+    [
+      1,
+      48
+    ],
+    [
+      "Gelenke machen Körperteile beweglich.",
+      "Schwellung :"
+    ],
+    0.4461385905742645
+  ],
+  [
+    [
+      2,
+      48
+    ],
+    [
+      "Das Knie verbindet Oberschenkel und Unterschenkel miteinander.",
+      "Schwellung :"
+    ],
+    0.3479967415332794
+  ],
+  [
+    [
+      3,
+      48
+    ],
+    [
+      "Am Kniegelenk sind mehrere Bänder.",
+      "Schwellung :"
+    ],
+    0.2245820015668869
+  ],
+  [
+    [
+      4,
+      48
+    ],
+    [
+      "Die Bänder halten die Knochen im Kniegelenk zusammen.",
+      "Schwellung :"
+    ],
+    0.2889446020126343
+  ],
+  [
+    [
+      5,
+      52
+    ],
+    [
+      "Und die Bänder machen das Gelenk stabil.",
+      "Instabilität :"
+    ],
+    0.2702014148235321
+  ],
+  [
+    [
+      6,
+      52
+    ],
+    [
+      "Das Kniegelenk wird durch diese Bänder gehalten:",
+      "Instabilität :"
+    ],
+    0.3150985538959503
+  ],
+  [
+    [
+      7,
+      48
+    ],
+    [
+      "Außenband Innenband vorderes Kreuzband hinteres Kreuzband",
+      "Schwellung :"
+    ],
+    0.310202956199646
+  ],
+  [
+    [
+      8,
+      48
+    ],
+    [
+      "Die Bänder im Knie können überdehnen.",
+      "Schwellung :"
+    ],
+    0.23469854891300201
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Die Bänder im Knie können sogar reißen.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.2308245450258255
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "In den meisten Fällen reißen dann mehrere Bänder auf einmal.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.2560693621635437
+  ],
+  [
+    [
+      11,
+      8
+    ],
+    [
+      "Die Bänder im Knie reißen teilweise?",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.21078446507453918
+  ],
+  [
+    [
+      17,
+      48
+    ],
+    [
+      "Die Bänder im Knie werden bei Bewegung beansprucht.",
+      "Schwellung :"
+    ],
+    0.2658780813217163
+  ],
+  [
+    [
+      18,
+      52
+    ],
+    [
+      "Bei viel Bewegung werden die Bänder besonders beansprucht.",
+      "Instabilität :"
+    ],
+    0.3430964946746826
+  ],
+  [
+    [
+      20,
+      111
+    ],
+    [
+      "Dabei können die Bänder:",
+      "Medikamente können die Symptome lindern."
+    ],
+    0.3321797251701355
+  ],
+  [
+    [
+      21,
+      48
+    ],
+    [
+      "überdehnen",
+      "Schwellung :"
+    ],
+    0.48426222801208496
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "zerren reißen",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.2860029935836792
+  ],
+  [
+    [
+      27,
+      8
+    ],
+    [
+      "Bei manchen Sportarten muss ein Sportler sehr schnell die Richtung wechseln.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.213110089302063
+  ],
+  [
+    [
+      28,
+      8
+    ],
+    [
+      "Dabei kann sich das Knie verdrehen und ein Band im Knie kann reißen.",
+      "Manchmal reißen dabei sogar mehrere Bänder gleichzeitig."
+    ],
+    0.21557502448558807
+  ],
+  [
+    [
+      29,
+      16
+    ],
+    [
+      "Zu solchen schnellen Sportarten gehören zum Beispiel: Fußball",
+      "Typische Sportunfälle:"
+    ],
+    0.23884426057338715
+  ],
+  [
+    [
+      30,
+      26
+    ],
+    [
+      "Handball",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.3225862681865692
+  ],
+  [
+    [
+      31,
+      26
+    ],
+    [
+      "Basketball",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.3192443251609802
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "Tennis",
+      "Sportarten wie Fußball, Handball, Basketball, Tennis oder Squash bieten reichlich Gelegenheit für solche verhängnisvollen Manöver."
+    ],
+    0.2810842990875244
+  ],
+  [
+    [
+      33,
+      48
+    ],
+    [
+      "Ein Bänderriss im Knie kann aber auch beim Skifahren oder bei anderen Sportarten passieren.",
+      "Schwellung :"
+    ],
+    0.22869855165481567
+  ],
+  [
+    [
+      34,
+      48
+    ],
+    [
+      "Sie möchten einen Bänderriss im Knie vermeiden?",
+      "Schwellung :"
+    ],
+    0.20700190961360931
+  ],
+  [
+    [
+      36,
+      48
+    ],
+    [
+      "Ein Bänderriss hat verschiedene Anzeichen wie zum Beispiel: plötzliche und starke Schmerzen, ein dickes und geschwollenes Knie, das Knie fühlt sich wackelig an, das Knie lässt sich nicht mehr gut bewegen.",
+      "Schwellung :"
+    ],
+    0.24939455091953278
+  ],
+  [
+    [
+      37,
+      48
+    ],
+    [
+      "Ein Bänderriss im Knie sollte immer von einem Arzt behandelt werden.",
+      "Schwellung :"
+    ],
+    0.22639892995357513
+  ],
+  [
+    [
+      38,
+      48
+    ],
+    [
+      "Direkt nach einem Sportunfall können Sie das Knie so entlasten : schonen Sie das Knie, legen Sie das Bein mit dem verletzten Knie hoch, kühlen Sie das verletzte Knie, legen Sie einen elastischen Druckverband an.",
+      "Schwellung :"
+    ],
+    0.21086189150810242
+  ],
+  [
+    [
+      39,
+      48
+    ],
+    [
+      "Achtung: Kühlen Sie die Stelle nicht zu lange.",
+      "Schwellung :"
+    ],
+    0.27490919828414917
+  ],
+  [
+    [
+      40,
+      111
+    ],
+    [
+      "Und legen Sie die Kühlpackung nicht direkt auf die Haut.",
+      "Medikamente können die Symptome lindern."
+    ],
+    0.20940758287906647
+  ],
+  [
+    [
+      41,
+      48
+    ],
+    [
+      "Das kann der Haut schaden.",
+      "Schwellung :"
+    ],
+    0.23633672297000885
+  ],
+  [
+    [
+      42,
+      48
+    ],
+    [
+      "Ein Bänderriss im Knie muss behandelt werden.",
+      "Schwellung :"
+    ],
+    0.22149786353111267
+  ],
+  [
+    [
+      43,
+      48
+    ],
+    [
+      "Dafür gibt es zwei Möglichkeiten: das Kniegelenk ist instabil, mehrere Bänder sind verletzt, Knochen am Kniegelenk sind verletzt.",
+      "Schwellung :"
+    ],
+    0.23210300505161285
+  ],
+  [
+    [
+      44,
+      48
+    ],
+    [
+      "Der Arzt spricht mit Ihnen über die Risiken einer Operation.",
+      "Schwellung :"
+    ],
+    0.2391267865896225
+  ],
+  [
+    [
+      45,
+      111
+    ],
+    [
+      "Und der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Medikamente können die Symptome lindern."
+    ],
+    0.20465274155139923
+  ],
+  [
+    [
+      46,
+      48
+    ],
+    [
+      "Nach der konservativen und nach der operativen Therapie entscheidet der Arzt oft:",
+      "Schwellung :"
+    ],
+    0.28595298528671265
+  ],
+  [
+    [
+      47,
+      67
+    ],
+    [
+      "Sie machen eine Physiotherapie.",
+      "Sie helfen, diese Unterscheidung zu treffen."
+    ],
+    0.24773231148719788
+  ],
+  [
+    [
+      48,
+      48
+    ],
+    [
+      "Bei der Physiotherapie trainieren Sie die Muskeln in den Beinen.",
+      "Schwellung :"
+    ],
+    0.2377445548772812
+  ],
+  [
+    [
+      50,
+      130
+    ],
+    [
+      "Und bei der Physiotherapie trainieren Sie Ihre Koordination.",
+      "Unterstützt die Heilung: Krankengymnastik"
+    ],
+    0.22559785842895508
+  ],
+  [
+    [
+      51,
+      111
+    ],
+    [
+      "So können Sie auch Ihre Bewegungen wieder besser steuern.",
+      "Medikamente können die Symptome lindern."
+    ],
+    0.28336113691329956
+  ],
+  [
+    [
+      55,
+      52
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Instabilität :"
+    ],
+    0.21781285107135773
+  ]
+]

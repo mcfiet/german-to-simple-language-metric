@@ -1,0 +1,684 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Noroviren sind Krankheits-Erreger.",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.8294717669487
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie verursachen eine Magen-Darm-Infektion.",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.3493249714374542
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Noroviren sind sehr ansteckend:",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.8474263548851013
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Hat sich eine Person mit Noroviren angesteckt?",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.6778302192687988
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Dann dauert es bis zum Ausbruch der Krankheit oft nur wenige Stunden.",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.27838045358657837
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Noroviren gibt es überall:",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.8587433099746704
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Die Viren überleben mehrere Tage lang auf Gegenständen wie zum Beispiel:",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.5140356421470642
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Handtücher Türklinken",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.12716597318649292
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Toilettensitze",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.3307938575744629
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Noroviren können auch in Lebensmitteln gut überleben.",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.7051725387573242
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Noroviren überleben selbst sehr heiße Temperaturen für mehrere Minuten.",
+      "Celsius überstehen sie für mehrere Minuten."
+    ],
+    0.6541509628295898
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Noroviren übertragen sich vor allem an Orten mit vielen Menschen.",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.7635174989700317
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Dort können Sie sich leicht anstecken.",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.47912168502807617
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Solche Orte sind zum Beispiel:",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.15681222081184387
+  ],
+  [
+    [
+      14,
+      5
+    ],
+    [
+      "Kindergärten Schulen Kliniken",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.15886139869689941
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Altenheime",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.14628778398036957
+  ],
+  [
+    [
+      16,
+      5
+    ],
+    [
+      "Eine Noroviren-Infektion kann unterschiedliche Anzeichen haben.",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.7545141577720642
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Typische Anzeichen einer Noroviren-Infektion sind: Übelkeit",
+      "Schon weniger als zehn Noroviren können krank machen."
+    ],
+    0.7126402258872986
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Erbrechen Bauchschmerzen",
+      "Die Krankheit beginnt meistens sehr plötzlich mit Übelkeit, starkem Erbrechen, Bauchkrämpfen und Durchfall."
+    ],
+    0.721743643283844
+  ],
+  [
+    [
+      19,
+      15
+    ],
+    [
+      "Durchfall",
+      "Die Krankheit beginnt meistens sehr plötzlich mit Übelkeit, starkem Erbrechen, Bauchkrämpfen und Durchfall."
+    ],
+    0.626775860786438
+  ],
+  [
+    [
+      20,
+      18
+    ],
+    [
+      "Sie glauben: Ich habe eine Noroviren-Infektion?",
+      "Die Infektion kann unterschiedlich verlaufen."
+    ],
+    0.5461012721061707
+  ],
+  [
+    [
+      21,
+      26
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Im Zweifel sollte lieber zu früh als zu spät ein Arzt zurate gezogen werden."
+    ],
+    0.681674599647522
+  ],
+  [
+    [
+      22,
+      30
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Im Zweifel wird eine Stuhlprobe des Patienten auf Krankheitserreger untersucht."
+    ],
+    0.5876384973526001
+  ],
+  [
+    [
+      23,
+      35
+    ],
+    [
+      "Sie haben keine Beschwerden mehr?",
+      "Es lassen sich nur die Beschwerden lindern."
+    ],
+    0.731489896774292
+  ],
+  [
+    [
+      24,
+      35
+    ],
+    [
+      "Dann können Sie trotzdem noch mehrere Tage lang ansteckend sein.",
+      "Es lassen sich nur die Beschwerden lindern."
+    ],
+    0.34235531091690063
+  ],
+  [
+    [
+      25,
+      35
+    ],
+    [
+      "Achten Sie deshalb auf Sauberkeit:",
+      "Es lassen sich nur die Beschwerden lindern."
+    ],
+    0.4622533321380615
+  ],
+  [
+    [
+      26,
+      35
+    ],
+    [
+      "Waschen Sie sich nach jedem Toilettengang die Hände.",
+      "Es lassen sich nur die Beschwerden lindern."
+    ],
+    0.2592349648475647
+  ],
+  [
+    [
+      27,
+      35
+    ],
+    [
+      "Sie haben Durchfall?",
+      "Es lassen sich nur die Beschwerden lindern."
+    ],
+    0.4421616196632385
+  ],
+  [
+    [
+      28,
+      35
+    ],
+    [
+      "Oder Sie übergeben sich häufiger?",
+      "Es lassen sich nur die Beschwerden lindern."
+    ],
+    0.5199053287506104
+  ],
+  [
+    [
+      29,
+      38
+    ],
+    [
+      "Dann verliert Ihr Körper viel Wasser und Salze.",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.7523070573806763
+  ],
+  [
+    [
+      30,
+      38
+    ],
+    [
+      "Deshalb sollten Sie viel Flüssigkeit trinken wie: verdünnte Säfte Brühe Tee mit etwas Zucker und Salz",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.5418848991394043
+  ],
+  [
+    [
+      31,
+      39
+    ],
+    [
+      "Elektrolyt-Mischungen aus der Apotheke",
+      "Geeignet sind zum Beispiel: Spezielle Elektrolyt-Mischungen aus der Apotheke."
+    ],
+    0.9312683343887329
+  ],
+  [
+    [
+      32,
+      42
+    ],
+    [
+      "Sie sollten auch etwas essen:",
+      "Trotz Übelkeit sollten die Erkrankten versuchen, auch ein wenig zu essen – am besten leicht verdauliche Kohlenhydrate wie Zwieback oder Weißbrot."
+    ],
+    0.7132007479667664
+  ],
+  [
+    [
+      33,
+      42
+    ],
+    [
+      "Essen Sie am besten leicht Verdauliches wie zum Beispiel Zwieback oder Weißbrot.",
+      "Trotz Übelkeit sollten die Erkrankten versuchen, auch ein wenig zu essen – am besten leicht verdauliche Kohlenhydrate wie Zwieback oder Weißbrot."
+    ],
+    0.8598792552947998
+  ],
+  [
+    [
+      34,
+      44
+    ],
+    [
+      "Eine Noroviren-Infektion ist unangenehm.",
+      "Auch wenn sich die Symptome wieder gelegt haben, besteht noch mindestens zwei Tage lang Ansteckungsgefahr."
+    ],
+    0.5253614187240601
+  ],
+  [
+    [
+      35,
+      44
+    ],
+    [
+      "Aber die Krankheit ist nur selten gefährlich.",
+      "Auch wenn sich die Symptome wieder gelegt haben, besteht noch mindestens zwei Tage lang Ansteckungsgefahr."
+    ],
+    0.48800909519195557
+  ],
+  [
+    [
+      36,
+      44
+    ],
+    [
+      "Oft fühlen sich betroffene Personen nach zwei bis drei Tagen wieder besser.",
+      "Auch wenn sich die Symptome wieder gelegt haben, besteht noch mindestens zwei Tage lang Ansteckungsgefahr."
+    ],
+    0.7222700119018555
+  ],
+  [
+    [
+      37,
+      46
+    ],
+    [
+      "Betroffene Personen können aber noch länger andere Menschen anstecken.",
+      "Denn im Stuhl bleiben die Viren bis zu zwei Wochen nach der Infektion nachweisbar, in manchen Fällen sogar länger."
+    ],
+    0.6773989796638489
+  ],
+  [
+    [
+      38,
+      46
+    ],
+    [
+      "Bei Kindern oder älteren Menschen kann die Krankheit aber auch länger andauern.",
+      "Denn im Stuhl bleiben die Viren bis zu zwei Wochen nach der Infektion nachweisbar, in manchen Fällen sogar länger."
+    ],
+    0.6089746952056885
+  ],
+  [
+    [
+      39,
+      54
+    ],
+    [
+      "Ein Medikament oder eine Impfung gegen Noroviren gibt es nicht.",
+      "Eine Norovirus-Infektion führt nicht zu einer relevanten Immunität."
+    ],
+    0.706344485282898
+  ],
+  [
+    [
+      40,
+      54
+    ],
+    [
+      "Sie möchten sich trotzdem vor Noroviren schützen?",
+      "Eine Norovirus-Infektion führt nicht zu einer relevanten Immunität."
+    ],
+    0.697056770324707
+  ],
+  [
+    [
+      41,
+      55
+    ],
+    [
+      "Dann waschen Sie sich regelmäßig und gründlich die Hände.",
+      "Wer die Erkrankung überstanden hat, kann sich also erneut anstecken."
+    ],
+    0.32102006673812866
+  ],
+  [
+    [
+      42,
+      56
+    ],
+    [
+      "Sie möchten eine Noroviren-Infektion vermeiden?",
+      "Ähnlich wie Grippeerreger sind Noroviren äußerst wandlungsfähig."
+    ],
+    0.6615352034568787
+  ],
+  [
+    [
+      43,
+      57
+    ],
+    [
+      "Dann können Sie diese Dinge tun:",
+      "Es gibt sie in zahlreichen Varianten."
+    ],
+    0.47441428899765015
+  ],
+  [
+    [
+      44,
+      58
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich mit Seife.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.7909280061721802
+  ],
+  [
+    [
+      45,
+      58
+    ],
+    [
+      "Am besten waschen Sie Ihre Hände nach jedem Toilettengang, vor dem Essen und bevor Sie Ihren Mund berühren.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.9093654155731201
+  ],
+  [
+    [
+      46,
+      58
+    ],
+    [
+      "Sie rauchen?",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.5044814348220825
+  ],
+  [
+    [
+      47,
+      58
+    ],
+    [
+      "Dann sollten Sie Ihre Hände auch vor dem Rauchen waschen.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.8939764499664307
+  ],
+  [
+    [
+      48,
+      60
+    ],
+    [
+      "Säubern Sie Lebensmittel gründlich.",
+      "Säubern Sie Lebensmittel wie Obst und Salat sorgfältig, insbesondere dann, wenn sie roh gegessen werden."
+    ],
+    0.8105742931365967
+  ],
+  [
+    [
+      49,
+      60
+    ],
+    [
+      "Dazu zählen vor allem Obst und Salat.",
+      "Säubern Sie Lebensmittel wie Obst und Salat sorgfältig, insbesondere dann, wenn sie roh gegessen werden."
+    ],
+    0.74442458152771
+  ],
+  [
+    [
+      50,
+      62
+    ],
+    [
+      "Sie haben sich angesteckt?",
+      "Wer das Virus aufgeschnappt hat, sollte den Kontakt zu Anderen für einige Tage (mindestens zwei Tage nach Ende der akuten Phase) auf ein Minimum reduzieren."
+    ],
+    0.3432829976081848
+  ],
+  [
+    [
+      51,
+      62
+    ],
+    [
+      "Dann vermeiden Sie den Kontakt zu anderen Menschen für etwa zwei Tage.",
+      "Wer das Virus aufgeschnappt hat, sollte den Kontakt zu Anderen für einige Tage (mindestens zwei Tage nach Ende der akuten Phase) auf ein Minimum reduzieren."
+    ],
+    0.6629736423492432
+  ],
+  [
+    [
+      52,
+      63
+    ],
+    [
+      "Vermeiden Sie auch den Kontakt zu kranken Menschen.",
+      "Schon bei Verdacht auf eine Norovirusinfektion sollten Sie strikt Abstand zu Kranken und Abwehrgeschwächten halten."
+    ],
+    0.6902518272399902
+  ],
+  [
+    [
+      53,
+      66
+    ],
+    [
+      "Benutzen Sie am besten eigene Handtücher und eine eigene Toilette.",
+      "Kranke sollten unbedingt eigene Handtücher und Körperpflegeartikel, und – sofern machbar – eine eigene Toilette benutzen."
+    ],
+    0.9004637002944946
+  ],
+  [
+    [
+      54,
+      67
+    ],
+    [
+      "Spülen Sie das Geschirr nach dem Essen gründlich.",
+      "Geschirr sollte im Intensivprogramm im Geschirrspüler gesäubert oder nach dem Spülen überbrüht werden."
+    ],
+    0.862808346748352
+  ],
+  [
+    [
+      55,
+      75
+    ],
+    [
+      "Nutzen Sie am besten sehr heißes Wasser.",
+      "Bei mindestens 60 Grad Celsius sollten Sie – wenn möglich – Bettzeug, Handtücher und Kleidung des Erkrankten waschen."
+    ],
+    0.6115889549255371
+  ],
+  [
+    [
+      56,
+      75
+    ],
+    [
+      "Waschen Sie Ihre Wäsche bei 60 Grad.",
+      "Bei mindestens 60 Grad Celsius sollten Sie – wenn möglich – Bettzeug, Handtücher und Kleidung des Erkrankten waschen."
+    ],
+    0.7668709754943848
+  ],
+  [
+    [
+      57,
+      75
+    ],
+    [
+      "Waschen Sie auch die Bettwäsche, Handtücher und Kleidung.",
+      "Bei mindestens 60 Grad Celsius sollten Sie – wenn möglich – Bettzeug, Handtücher und Kleidung des Erkrankten waschen."
+    ],
+    0.7552945613861084
+  ],
+  [
+    [
+      58,
+      84
+    ],
+    [
+      "Sie wollen noch mehr über Noroviren lesen?",
+      "Trotzdem ist die Wahrscheinlichkeit, an einer Norovirus-Infektion zu sterben, insgesamt gering:"
+    ],
+    0.5911943912506104
+  ],
+  [
+    [
+      59,
+      84
+    ],
+    [
+      "Mehr Informationen über Noroviren finden Sie hier .",
+      "Trotzdem ist die Wahrscheinlichkeit, an einer Norovirus-Infektion zu sterben, insgesamt gering:"
+    ],
+    0.6490771174430847
+  ],
+  [
+    [
+      60,
+      85
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Sie liegt bei etwa 0,1 Prozent aller Fälle."
+    ],
+    0.2562243640422821
+  ],
+  [
+    [
+      61,
+      85
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Sie liegt bei etwa 0,1 Prozent aller Fälle."
+    ],
+    0.15607139468193054
+  ]
+]

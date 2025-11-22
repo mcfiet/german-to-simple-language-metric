@@ -1,0 +1,563 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben Ihre Papiere verloren ?",
+      "Sie haben Ihren Personalausweis, Reisepass, Führerschein, KfZ-Schein, EC-Karte, Versicherungskarte oder ähnliches verloren?"
+    ],
+    0.8364771604537964
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Dann kÃ¶nnen Sie die Papiere bei uns abholen.",
+      "Bitte beachten Sie, dass die Fundgegenstände in der Regel circa ein bis zwei Wochen nach Verlust bei uns eintreffen!"
+    ],
+    0.69697505235672
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Wichtig: Die Sachen werden meistens 1 bis 2 Wochen nach Verlust bei uns abgegeben.",
+      "Bitte beachten Sie, dass die Fundgegenstände in der Regel circa ein bis zwei Wochen nach Verlust bei uns eintreffen!"
+    ],
+    0.7073127031326294
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Dass Sie die Papiere bei uns abholen kÃ¶nnen.",
+      "Bitte beachten Sie, dass die Fundgegenstände in der Regel circa ein bis zwei Wochen nach Verlust bei uns eintreffen!"
+    ],
+    0.7396904826164246
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "1. Sie fragen telefonisch nach:",
+      "Benötigt werden Sie fragen telefonisch nach:"
+    ],
+    0.7730993032455444
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Das sind unsere Telefon-Nummern : 115 oder 02 21 / 22 10 Â Wenn Sie bei uns anrufen , mÃ¼ssen",
+      "Benötigt werden Sie fragen telefonisch nach:"
+    ],
+    0.5705965757369995
+  ],
+  [
+    [
+      23,
+      6
+    ],
+    [
+      "2. Sie kommen persÃ¶nlich vorbei:",
+      "Sie kommen persönlich vorbei:"
+    ],
+    0.9342643618583679
+  ],
+  [
+    [
+      24,
+      6
+    ],
+    [
+      "Sie kÃ¶nnen persÃ¶nlich im Fund-BÃ¼ro nachfragen, ob Ihre Papiere bei uns abgegeben wurden.",
+      "Sie kommen persönlich vorbei:"
+    ],
+    0.6156133413314819
+  ],
+  [
+    [
+      28,
+      6
+    ],
+    [
+      "Â Wenn Sie persÃ¶nlich ins Fund-BÃ¼ro gehen, dann mÃ¼ssen Sie sich ausweisen .",
+      "Sie kommen persönlich vorbei:"
+    ],
+    0.7119920253753662
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Â Sie kÃ¶nnen zu den Zeiten persÃ¶nlich kommen : Dienstag von 13 bis 16 Uhr Donnerstag von 8 bis 12 Uhr",
+      "Sie kommen persönlich vorbei:"
+    ],
+    0.7525600790977478
+  ],
+  [
+    [
+      36,
+      6
+    ],
+    [
+      "Auf der Internet-Seite kÃ¶nnen Sie nachsehen, welche Sachen gerade im Fund-BÃ¼ro sind.",
+      "Sie kommen persönlich vorbei:"
+    ],
+    0.5836746096611023
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Auf der Internet-Seite finden Sie nur eine Auswahl von den Fund-Sachen, die bei uns sind.",
+      "Wenn Sie der Meinung sind, dass eine der aufgelisteten Fundsachen Ihr Eigentum ist, nehmen Sie über das angebotene Formular Kontakt mit uns auf."
+    ],
+    0.6787843108177185
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Wenn etwas aus der Liste der Fund-Sachen Ihnen gehÃ¶rt.",
+      "Wenn Sie der Meinung sind, dass eine der aufgelisteten Fundsachen Ihr Eigentum ist, nehmen Sie über das angebotene Formular Kontakt mit uns auf."
+    ],
+    0.6579989194869995
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Sie kÃ¶nnen dafÃ¼r unser Kontakt-Formular benutzen.",
+      "Wenn Sie der Meinung sind, dass eine der aufgelisteten Fundsachen Ihr Eigentum ist, nehmen Sie über das angebotene Formular Kontakt mit uns auf."
+    ],
+    0.590711772441864
+  ],
+  [
+    [
+      44,
+      12
+    ],
+    [
+      "Beschreiben Sie dort Ihren verlorenen Gegenstand.",
+      "Beschreiben Sie dort Ihren verlorenen Gegenstand."
+    ],
+    1.0
+  ],
+  [
+    [
+      45,
+      13
+    ],
+    [
+      "Wir melden uns dann bei Ihnen.",
+      "Wir melden uns bei Ihnen, wenn Ihre Beschreibung dem Fundgegenstand entspricht."
+    ],
+    0.9489786624908447
+  ],
+  [
+    [
+      47,
+      15
+    ],
+    [
+      "Was passiert mit den Fund-Sachen?",
+      "Was passiert mit dem Fundgegenstand?"
+    ],
+    0.6968355774879456
+  ],
+  [
+    [
+      51,
+      18
+    ],
+    [
+      "Zum Beispiel: Wenn Ihr FÃ¼hrer-Schein gefunden wurde, leiten wir ihn an die FÃ¼hrer-Schein-Stelle weiter.",
+      "Sofern nur der Führerschein gefunden wurde, leiten wir diesen an die Führerscheinstelle des Amtes für öffentliche Ordnung weiter."
+    ],
+    0.6094685196876526
+  ],
+  [
+    [
+      53,
+      19
+    ],
+    [
+      "Â Wenn Ihr Fahrzeug-Schein gefunden wurde, leiten wir ihn an die Zulassungs-Stelle von der Stadt KÃ¶ln weiter.",
+      "Sofern nur der Kraftfahrzeug-Schein gefunden wurde, leiten wir diesen an die Kraftfahrzeug-Zulassungsstelle der Stadt Köln weiter."
+    ],
+    0.6814371943473816
+  ],
+  [
+    [
+      54,
+      20
+    ],
+    [
+      "Â Wenn Ihre Bank-Karte gefunden wurde, leiten wir sie an die Bank oder Sparkasse weiter.",
+      "EC-Karten leiten wir direkt an die Bank oder Sparkasse weiter."
+    ],
+    0.8296186923980713
+  ],
+  [
+    [
+      55,
+      21
+    ],
+    [
+      "Â Wenn Papiere von Personen gefunden wurden, die nicht in KÃ¶ln wohnen , leiten wir sie an das Fund-BÃ¼ro in Ihrem Wohn-Ort weiter.",
+      "Dokumente von nicht in Köln lebenden Bürgerinnen und Bürgern leiten wir an das Fundbüro der ausstellenden Behörde weiter."
+    ],
+    0.6723852157592773
+  ],
+  [
+    [
+      59,
+      22
+    ],
+    [
+      "Â Die Papiere von Menschen aus dem Ausland, die nicht in Deutschland wohnen , leiten wir an die zustÃ¤ndige Botschaft weiter.",
+      "Dokumente von ausländischen Bürgerinnen und Bürgern ohne Wohnsitz in Deutschland leiten wir an das zuständige Konsulat beziehungsweise die zuständige Botschaft weiter."
+    ],
+    0.6492568850517273
+  ],
+  [
+    [
+      60,
+      22
+    ],
+    [
+      "Oder an das zustÃ¤ndige Konsulat .",
+      "Dokumente von ausländischen Bürgerinnen und Bürgern ohne Wohnsitz in Deutschland leiten wir an das zuständige Konsulat beziehungsweise die zuständige Botschaft weiter."
+    ],
+    0.6298589110374451
+  ],
+  [
+    [
+      61,
+      22
+    ],
+    [
+      "Also an die Auslands-Vertretung von dem Land.",
+      "Dokumente von ausländischen Bürgerinnen und Bürgern ohne Wohnsitz in Deutschland leiten wir an das zuständige Konsulat beziehungsweise die zuständige Botschaft weiter."
+    ],
+    0.6716114282608032
+  ],
+  [
+    [
+      62,
+      24
+    ],
+    [
+      "Wann brauche ich eine Verlust-Anzeige?",
+      "Wenn Sie Ihren Personalausweis oder Reisepass verloren haben, müssen Sie unverzüglich eine Verlustanzeige im Kundenzentrum eines der Bezirksrathäuser Kölns stellen."
+    ],
+    0.582795262336731
+  ],
+  [
+    [
+      63,
+      24
+    ],
+    [
+      "Wenn Sie Ihren Personal-Ausweis oder Reise-Pass verloren haben, dann mÃ¼ssen Sie sofort eine Verlust-Anzeige stellen.",
+      "Wenn Sie Ihren Personalausweis oder Reisepass verloren haben, müssen Sie unverzüglich eine Verlustanzeige im Kundenzentrum eines der Bezirksrathäuser Kölns stellen."
+    ],
+    0.8717456459999084
+  ],
+  [
+    [
+      68,
+      24
+    ],
+    [
+      "Wichtig: Wenn Sie Ihren Personal-Ausweis oder Pass verlieren, dann mÃ¼ssen Sie immer eine Verlust-Anzeige stellen.",
+      "Wenn Sie Ihren Personalausweis oder Reisepass verloren haben, müssen Sie unverzüglich eine Verlustanzeige im Kundenzentrum eines der Bezirksrathäuser Kölns stellen."
+    ],
+    0.7750192880630493
+  ],
+  [
+    [
+      71,
+      26
+    ],
+    [
+      "Das Formular kÃ¶nnen Sie hier herunter laden .",
+      "Das Formular dazu finden Sie im Download-Service unter \"Downloads und Infos\"."
+    ],
+    0.6306112408638
+  ],
+  [
+    [
+      74,
+      27
+    ],
+    [
+      "Im Fund-BÃ¼ro stellen wir Ihnen auch eine Bescheinigung aus, wenn Ihr verlorener Gegenstand nicht im Fund-BÃ¼ro ist.",
+      "Im Fundbüro stellen wir Ihnen gerne eine Bescheinigung aus, dass sich Ihr verlorener Gegenstand nicht im Fundbüro befindet."
+    ],
+    0.7924795746803284
+  ],
+  [
+    [
+      75,
+      28
+    ],
+    [
+      "Â Die Bescheinigung ist aber keine Verlust-Anzeige .",
+      "Diese Bescheinigung ist aber keine Verlustanzeige im Sinne des § 7 Ziffer 5 Personalausweisgesetz für das Land Nordrhein-Westfalen."
+    ],
+    0.8164263367652893
+  ],
+  [
+    [
+      76,
+      29
+    ],
+    [
+      "Sie ist nur eine BestÃ¤tigung, dass der verlorene Gegenstand nicht im Fund-BÃ¼ro ist.",
+      "Sie ist lediglich eine Bestätigung, dass der verlorene Gegenstand sich nicht im Fundbüro befindet."
+    ],
+    0.7740272283554077
+  ],
+  [
+    [
+      77,
+      30
+    ],
+    [
+      "Die Bescheinigung brauchen Sie zum Beispiel fÃ¼r Ihre Versicherung .",
+      "Diese Bescheinigung können Sie dann zum Beispiel Ihrer Versicherung vorlegen."
+    ],
+    0.7954226732254028
+  ],
+  [
+    [
+      78,
+      32
+    ],
+    [
+      "Wo kann ich neue Papiere beantragen?",
+      "Neue Papiere beantragen"
+    ],
+    0.8942385911941528
+  ],
+  [
+    [
+      79,
+      32
+    ],
+    [
+      "Wenn Ihre Papiere nicht im Fund-BÃ¼ro sind, dann kÃ¶nnen Sie neue Papiere beantragen .",
+      "Neue Papiere beantragen"
+    ],
+    0.8942385911941528
+  ],
+  [
+    [
+      82,
+      32
+    ],
+    [
+      "Auf den passenden Internet-Seiten steht, welche Papiere Sie zum Beantragen brauchen:",
+      "Neue Papiere beantragen"
+    ],
+    0.6554469466209412
+  ],
+  [
+    [
+      88,
+      32
+    ],
+    [
+      "Auf den passenden Internet-Seiten steht, welche Papiere Sie zum Beantragen brauchen:",
+      "Neue Papiere beantragen"
+    ],
+    0.6554469466209412
+  ],
+  [
+    [
+      92,
+      39
+    ],
+    [
+      "Sie kÃ¶nnen auch eine andere Person mit dem Abholen beauftragen .",
+      "Sie können eine Person mit der Abholung beauftragen."
+    ],
+    0.8169826865196228
+  ],
+  [
+    [
+      93,
+      40
+    ],
+    [
+      "DafÃ¼r braucht die Person eine Vollmacht von Ihnen.",
+      "Hierfür muss die beauftragte Person jedoch eine Vollmacht und den eigenen Personalausweis mitbringen, außerdem einen Nachweis der Identifikation der Verliererin oder des Verlierers (mit Lichtbild)."
+    ],
+    0.6941006779670715
+  ],
+  [
+    [
+      95,
+      40
+    ],
+    [
+      "Das heiÃt: Die beauftragte Person muss eine Vollmacht mitbringen.",
+      "Hierfür muss die beauftragte Person jedoch eine Vollmacht und den eigenen Personalausweis mitbringen, außerdem einen Nachweis der Identifikation der Verliererin oder des Verlierers (mit Lichtbild)."
+    ],
+    0.7621231079101562
+  ],
+  [
+    [
+      96,
+      40
+    ],
+    [
+      "Und uns den eigenen Personal-Ausweis zeigen.",
+      "Hierfür muss die beauftragte Person jedoch eine Vollmacht und den eigenen Personalausweis mitbringen, außerdem einen Nachweis der Identifikation der Verliererin oder des Verlierers (mit Lichtbild)."
+    ],
+    0.6737257242202759
+  ],
+  [
+    [
+      97,
+      40
+    ],
+    [
+      "Und den Ausweis von der Person , die die Vollmacht geschrieben hat.",
+      "Hierfür muss die beauftragte Person jedoch eine Vollmacht und den eigenen Personalausweis mitbringen, außerdem einen Nachweis der Identifikation der Verliererin oder des Verlierers (mit Lichtbild)."
+    ],
+    0.7133453488349915
+  ],
+  [
+    [
+      99,
+      40
+    ],
+    [
+      "Auf dem Ausweis muss ein Bild von der Person sein.",
+      "Hierfür muss die beauftragte Person jedoch eine Vollmacht und den eigenen Personalausweis mitbringen, außerdem einen Nachweis der Identifikation der Verliererin oder des Verlierers (mit Lichtbild)."
+    ],
+    0.6455748677253723
+  ],
+  [
+    [
+      101,
+      42
+    ],
+    [
+      "Muss ich fÃ¼r meine Fund-Sachen bezahlen?",
+      "Gebühren"
+    ],
+    0.6416361331939697
+  ],
+  [
+    [
+      102,
+      42
+    ],
+    [
+      "Sie mÃ¼ssen manchmal fÃ¼r das Aufbewahren im Fund-BÃ¼ro bezahlen.",
+      "Gebühren"
+    ],
+    0.6416361331939697
+  ],
+  [
+    [
+      105,
+      42
+    ],
+    [
+      "Â Wie viel Sie bezahlen mÃ¼ssen, hÃ¤ngt ab vom Wert von dem Gegenstand:",
+      "Gebühren"
+    ],
+    0.6416361331939697
+  ],
+  [
+    [
+      106,
+      47
+    ],
+    [
+      "ï· im Wert von 0 bis 25 Euro =",
+      "20 Euro"
+    ],
+    0.9782404899597168
+  ],
+  [
+    [
+      108,
+      47
+    ],
+    [
+      "ï· im Wert von 26 bis 150 Euro = 10",
+      "20 Euro"
+    ],
+    0.9575873017311096
+  ],
+  [
+    [
+      110,
+      47
+    ],
+    [
+      "15 Euro ï· im Wert Ã¼ber 500 Euro = 20",
+      "20 Euro"
+    ],
+    1.0
+  ],
+  [
+    [
+      115,
+      48
+    ],
+    [
+      "Wenn die verlorene Sache nicht im Fund-BÃ¼ro ist, kÃ¶nnen wir Ihnen eine Bescheinigung geben.",
+      "Falls sich der verlorene Gegenstand nicht im Fundbüro befindet, können wir darüber eine Bescheinigung zur Vorlage bei der Versicherung ausstellen."
+    ],
+    0.6871654391288757
+  ],
+  [
+    [
+      117,
+      48
+    ],
+    [
+      "Die Bescheinigung brauchen Sie manchmal fÃ¼r die Versicherung .",
+      "Falls sich der verlorene Gegenstand nicht im Fundbüro befindet, können wir darüber eine Bescheinigung zur Vorlage bei der Versicherung ausstellen."
+    ],
+    0.6437923312187195
+  ],
+  [
+    [
+      118,
+      49
+    ],
+    [
+      "Die Bescheinigung kostet 12 Euro .",
+      "Für diese Bescheinigung erheben wir eine Verwaltungsgebühr in Höhe von 12 Euro zuzüglich Porto."
+    ],
+    0.7410412430763245
+  ]
+]

@@ -1,0 +1,332 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Infektionskrankheiten entstehen durch Krankheitserreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.8803385496139526
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel:",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.8393230438232422
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Bakterien Viren",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    1.0
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Bei einer Impfung bekommen Sie von Ihrem Arzt einen Impfstoff.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.5826311111450195
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Sie bekommen den Impfstoff mit einer Spritze.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.6490505933761597
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Oder Sie bekommen den Impfstoff als Lösung zum Einnehmen.",
+      "Bei einer Impfung bekommt man entweder Teile oder aber abgetötete oder unschädlich gemachte Versionen des Erregers verabreicht - beispielsweise als Spritze oder als Lösung zum Schlucken."
+    ],
+    0.6730229258537292
+  ],
+  [
+    [
+      11,
+      3
+    ],
+    [
+      "Nach der Impfung bildet ihr Körper Abwehrstoffe gegen die Erreger aus dem Impfstoff.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.6525200009346008
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Ihr Körper kommt später wieder in Kontakt mit diesen Erregern?",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.7201496362686157
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Sie haben zum Beispiel Kontakt mit einer erkrankten Person?",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.6082491278648376
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Die toten Erreger sind nicht gefährlich.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.7299646735191345
+  ],
+  [
+    [
+      27,
+      3
+    ],
+    [
+      "Die Erreger können sich im Körper vermehren.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.7573028802871704
+  ],
+  [
+    [
+      29,
+      9
+    ],
+    [
+      "Manchmal reagiert das Immunsystem trotzdem sehr stark.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6103416681289673
+  ],
+  [
+    [
+      55,
+      9
+    ],
+    [
+      "Und diese Menschen stecken niemanden an.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6155875325202942
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Diese Menschen können sich also nicht selbst schützen.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.8214305639266968
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Viele andere Menschen lassen sich impfen.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6325873136520386
+  ],
+  [
+    [
+      61,
+      9
+    ],
+    [
+      "Dann ist das Risiko für diese Menschen nämlich geringer.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6698011159896851
+  ],
+  [
+    [
+      66,
+      9
+    ],
+    [
+      "Zuerst testen die Wissenschaftler den Impfstoff an Tieren.",
+      "Ist ein großer Teil der Bevölkerung gegen eine Infektion immun, erkrankt also nicht daran und gibt den Erreger nicht weiter, so schützt das auch den Teil der Bevölkerung, der selbst nicht geimpft ist, weil die Wahrscheinlichkeit, sich anzustecken, sinkt."
+    ],
+    0.6039822101593018
+  ],
+  [
+    [
+      67,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      71,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      76,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      80,
+      18
+    ],
+    [
+      "Die Wissenschaftler wollen wissen:",
+      "Erwachsene müssen vor allem in regelmäßigen Abständen an die Auffrischung ihres Impfschutzes gegen Tetanus und Diphterie denken."
+    ],
+    0.6111068725585938
+  ],
+  [
+    [
+      83,
+      22
+    ],
+    [
+      "Der Impfstoff hat alle Tests bestanden?",
+      "Der Impfschutz gegen Tetanus und Diptherie sollte beispielsweise bei Erwachsenen alle zehn Jahre aufgefrischt werden."
+    ],
+    0.6273956894874573
+  ],
+  [
+    [
+      84,
+      30
+    ],
+    [
+      "Dann wird der Impfstoff zugelassen.",
+      "Bei den Nebenwirkungen von Impfungen kann man unterscheiden zwischen der Impfreaktion und der Impfkomplikation sowie dem Impfschaden."
+    ],
+    0.5876674056053162
+  ],
+  [
+    [
+      85,
+      31
+    ],
+    [
+      "Das bedeutet: Alle Menschen können den Impfstoff bekommen.",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.5872154235839844
+  ],
+  [
+    [
+      89,
+      31
+    ],
+    [
+      "Deshalb kann es nach der Impfung zu einer Impfreaktion kommen.",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6270161867141724
+  ],
+  [
+    [
+      90,
+      31
+    ],
+    [
+      "Beschwerden einer Impfreaktion können zum Beispiel sein: Schmerzen und Rötungen an der Einstichstelle Erschöpfung",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.7405320405960083
+  ],
+  [
+    [
+      91,
+      31
+    ],
+    [
+      "Grippeanzeichen wie Kopfschmerzen, Gliederschmerzen oder Fieber",
+      "Impfreaktionen sind die üblichen Nebenwirkungen, die nach einer Impfung auftreten können, zum Beispiel Schmerzen in dem Arm, in den die Impfung verabreicht wurde, Rötung und Schwellung der Impfstelle, ein leichtes Unwohlsein oder Fieber ."
+    ],
+    0.6666710376739502
+  ],
+  [
+    [
+      93,
+      34
+    ],
+    [
+      "Diese Beschwerden verschwinden normalerweise nach einigen Tagen.",
+      "Auch das Auftreten von Durchfall nach einer Rotavirenimpfung oder von einem Hautauschlag einige Wochen nach der Windpockenimpfung zählen beispielsweise noch zu den normalen Impfreaktionen."
+    ],
+    0.6988829970359802
+  ],
+  [
+    [
+      96,
+      36
+    ],
+    [
+      "Ihr Arzt meldet Impfkomplikationen dem Gesundheitsamt.",
+      "Der Arzt ist verpflichtet, solche Fälle an das Gesundheitsamt zu melden."
+    ],
+    0.5841759443283081
+  ],
+  [
+    [
+      104,
+      43
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen Menschen mit einer Immunschwäche Menschen mit einer Allergie gegen Bestandteile des Impfstoffs Menschen mit bestimmten akuten Krankheitssymptomen Sie sind sich unsicher?",
+      "Das gilt zum Beispiel bei Schwangerschaft angeborener oder erworbener Immunschwächekrankheit Allergie gegen Bestandteile des Impfstoffs"
+    ],
+    0.7112453579902649
+  ]
+]

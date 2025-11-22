@@ -1,0 +1,365 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie ziehen nach Köln um?",
+      "Sie ziehen um nach Köln?"
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann müssen Sie Ihre neue Adresse bei uns anmelden.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.867662250995636
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Spätestens 2 Wochen nach dem Umzug zur neuen Adresse müssen Sie sich anmelden.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.5992076992988586
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Dann müssen Sie die Bestätigung nicht abgeben.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.6394568085670471
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sondern dann müssen Sie diese Papiere abgeben:",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.5967043042182922
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Sie müssen uns 1",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.6698548197746277
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Sie müssen uns 1",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.6698548197746277
+  ],
+  [
+    [
+      35,
+      1
+    ],
+    [
+      "Wenn Sie beim Ausfüllen Hilfe brauchen, fragen Sie uns danach.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.6257965564727783
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Sie müssen zu uns ins Kunden-Zentrum kommen.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.6078685522079468
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Wenn Sie aus dem Ausland nach Köln ziehen, müssen Sie uns auch diese Papiere zeigen: Ihren Pass von dem Land, aus dem Sie kommen.",
+      "Dann müssen Sie sich bei uns anmelden."
+    ],
+    0.5637068748474121
+  ],
+  [
+    [
+      42,
+      6
+    ],
+    [
+      "Mit diesem Pass müssen Sie uns eine Aufenthalts-Genehmigung oder ein Visum zeigen.",
+      "Nationalpass mit Aufenthaltsgenehmigung oder Visum"
+    ],
+    0.6013489961624146
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Als verheirateter Mensch oder als Mensch, der in einer Lebens-Partnerschaft lebt, brauchen Sie dann zusätzlich:",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.5755165815353394
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Ehe-Urkunde / Kopie aus dem Ehe-Register oder Lebens-Partnerschafts-Urkunde",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.7533938884735107
+  ],
+  [
+    [
+      48,
+      24
+    ],
+    [
+      "Wichtig: Wenn Sie Urkunden aus dem Ausland vorzeigen müssen, beachten Sie bitte: Ausländische Urkunden in anderen Sprachen müssen ins Deutsche übersetzt werden.",
+      "Wenn Sie aus dem Ausland zuziehen und verheiratet oder verpartnert sind, bringen Sie bitte Ihre Eheurkunde (Auszug aus dem Eheregister) oder Lebenspartnerschaftsurkunde mit."
+    ],
+    0.6466979384422302
+  ],
+  [
+    [
+      51,
+      26
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.6555500030517578
+  ],
+  [
+    [
+      52,
+      26
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.7004299163818359
+  ],
+  [
+    [
+      58,
+      26
+    ],
+    [
+      "Er prüft die Übersetzer und Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5669965744018555
+  ],
+  [
+    [
+      62,
+      26
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5558841824531555
+  ],
+  [
+    [
+      63,
+      28
+    ],
+    [
+      "Wichtig: Urkunden und Übersetzungen müssen im Original vorgelegt werden.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.968130886554718
+  ],
+  [
+    [
+      67,
+      38
+    ],
+    [
+      "Was ist, wenn ich zum Anmelden nicht selber kommen kann?",
+      "Bis wann und wo muss ich mich anmelden?"
+    ],
+    0.5401522517204285
+  ],
+  [
+    [
+      68,
+      39
+    ],
+    [
+      "Wenn Sie innerhalb von Deutschland umziehen, dann kann jemand anderes für Sie zu uns kommen.",
+      "Wenn Sie eine Wohnung beziehen, müssen Sie sich innerhalb von 14 Tagen nach dem Einzug anmelden."
+    ],
+    0.5957837700843811
+  ],
+  [
+    [
+      69,
+      55
+    ],
+    [
+      "Diesem Menschen müssen Sie vertrauen.",
+      "Wenn Sie aus dem Ausland zuziehen, kann an Ihrer Stelle keine bevollmächtigte Person vorsprechen."
+    ],
+    0.557011067867279
+  ],
+  [
+    [
+      73,
+      56
+    ],
+    [
+      "Auf dem Papier erlauben Sie einem Menschen, etwas für Sie zu tun.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5502945184707642
+  ],
+  [
+    [
+      74,
+      56
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5562217831611633
+  ],
+  [
+    [
+      75,
+      56
+    ],
+    [
+      "Sie müssen das Papier unterschreiben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.6310287714004517
+  ],
+  [
+    [
+      78,
+      56
+    ],
+    [
+      "Sie können das nämlich nicht selber tun, weil Sie zum Beispiel krank im Bett liegen.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5791032314300537
+  ],
+  [
+    [
+      99,
+      56
+    ],
+    [
+      "Es passiert nichts damit, was Sie nicht wollen.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.553716242313385
+  ],
+  [
+    [
+      100,
+      56
+    ],
+    [
+      "Sie können dem Weitergeben von Ihren Daten an andere Stellen widersprechen.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5828832387924194
+  ],
+  [
+    [
+      103,
+      56
+    ],
+    [
+      "Sie können aber auch später noch dem Weitergeben von Ihren Daten widersprechen.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.6203042268753052
+  ],
+  [
+    [
+      104,
+      56
+    ],
+    [
+      "An bestimmte Stellen dürfen wir Ihre Daten nur dann weitergeben, wenn Sie der Weitergabe zugestimmt haben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5438071489334106
+  ],
+  [
+    [
+      105,
+      56
+    ],
+    [
+      "Zum Beispiel: Sie kommen nur dann ins Telefon-Buch, wenn Sie dem zugestimmt haben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5579120516777039
+  ],
+  [
+    [
+      106,
+      56
+    ],
+    [
+      "Wenn nicht, darf man Sie nicht ins Telefon-Buch schreiben.",
+      "Leider dürfen Sie aus rechtlichen Gründen das Anmeldeformular nicht auf dem Postweg übersenden."
+    ],
+    0.5791053175926208
+  ],
+  [
+    [
+      109,
+      58
+    ],
+    [
+      "Das Anmelden von Ihrem Wohnsitz ist kostenlos.",
+      "Die Anmeldung ist gebührenfrei."
+    ],
+    0.5579911470413208
+  ]
+]

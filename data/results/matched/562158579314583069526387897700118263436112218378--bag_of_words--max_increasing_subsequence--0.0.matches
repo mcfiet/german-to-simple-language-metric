@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      4
+    ],
+    [
+      "Eine Unterkühlung ist ein Kälteschaden.",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.5922826528549194
+  ],
+  [
+    [
+      1,
+      4
+    ],
+    [
+      "Kälteschäden entstehen durch eine zu lange Zeit in der Kälte.",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.09366627782583237
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen.",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.695663332939148
+  ],
+  [
+    [
+      3,
+      5
+    ],
+    [
+      "Die normale Körpertemperatur ist stark gesunken.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.43018829822540283
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Ein anderer Kälteschaden ist die Erfrierung.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.2658360004425049
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Bei einer Unterkühlung ist die Körpertemperatur stark gesunken.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.4054649770259857
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Er versucht die normale Körpertemperatur im Körperkern aufrechtzuerhalten.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.44589489698410034
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Dort sollen die wichtigsten Organe weiterhin funktionieren.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.3272964060306549
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Die wichtigsten Organe sind: das Gehirn das Herz und die Lunge Deshalb verringert der Körper die Durchblutung in den Armen und Beinen.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.335579514503479
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Zusätzlich erhöht der Körper die Wärme-Bildung durch Muskelarbeit.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.2509956955909729
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Durch das Zittern arbeiten die Muskeln und Wärme entsteht.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.23685413599014282
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Die Stufen heißen: Stadien.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.33002281188964844
+  ],
+  [
+    [
+      18,
+      5
+    ],
+    [
+      "Hinweis: Die normale Körpertemperatur liegt bei ungefähr 37 Grad.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.6040257215499878
+  ],
+  [
+    [
+      19,
+      5
+    ],
+    [
+      "Stadium 1: Die Körpertemperatur der betroffenen Person liegt bei 32 bis 35 Grad.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.4680628180503845
+  ],
+  [
+    [
+      20,
+      5
+    ],
+    [
+      "Die betroffene Person ist bei Bewusstsein.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.14549458026885986
+  ],
+  [
+    [
+      23,
+      5
+    ],
+    [
+      "Die betroffene Person zittert.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.1471337378025055
+  ],
+  [
+    [
+      24,
+      5
+    ],
+    [
+      "Stadium 2: Die Körpertemperatur liegt bei 28 bis 32 Grad.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.5869053602218628
+  ],
+  [
+    [
+      25,
+      5
+    ],
+    [
+      "Durch die niedrige Körpertemperatur kann das Gehirn nicht mehr richtig arbeiten.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.45744824409484863
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Die betroffene Person wird schläfrig:",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.15127049386501312
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "Stadium 3 bis 5: Die Körpertemperatur liegt jetzt bei unter 28 Grad.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.6159960627555847
+  ],
+  [
+    [
+      31,
+      5
+    ],
+    [
+      "Die betroffene Person ist bewusstlos.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.1512851119041443
+  ],
+  [
+    [
+      33,
+      5
+    ],
+    [
+      "Die Körpertemperatur fällt unter 24 Grad?",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.6485180854797363
+  ],
+  [
+    [
+      34,
+      5
+    ],
+    [
+      "Dann atmet die betroffene Person nicht mehr und der Kreislauf versagt.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.14032794535160065
+  ],
+  [
+    [
+      36,
+      5
+    ],
+    [
+      "Die Körpertemperatur fällt unter 13 Grad?",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.6486154794692993
+  ],
+  [
+    [
+      37,
+      5
+    ],
+    [
+      "Dann stirbt die betroffene Person.",
+      "Die Körpertemperatur kann dabei auf deutlich unter 35 Grad Celsius absinken."
+    ],
+    0.15035496652126312
+  ],
+  [
+    [
+      38,
+      6
+    ],
+    [
+      "Achtung: Manche Personen wirken tot, aber sie leben noch.",
+      "Normalerweise liegt sie bei zirka 37 Grad Celsius."
+    ],
+    0.4350256323814392
+  ],
+  [
+    [
+      39,
+      9
+    ],
+    [
+      "Das Gehirn kann nämlich auch bei niedrigen Temperaturen überleben.",
+      "Aber auch durch eine langsame Abkühlung des Körpers kann es zu Kälteschäden kommen, ohne dass eine solche Kristallbildung auftritt."
+    ],
+    0.0911533460021019
+  ],
+  [
+    [
+      40,
+      9
+    ],
+    [
+      "Versuchen Sie deshalb immer eine Wiederbelebung.",
+      "Aber auch durch eine langsame Abkühlung des Körpers kann es zu Kälteschäden kommen, ohne dass eine solche Kristallbildung auftritt."
+    ],
+    0.1613122522830963
+  ],
+  [
+    [
+      42,
+      9
+    ],
+    [
+      "Kälteschäden entstehen durch eine zu lange Zeit in der Kälte.",
+      "Aber auch durch eine langsame Abkühlung des Körpers kann es zu Kälteschäden kommen, ohne dass eine solche Kristallbildung auftritt."
+    ],
+    0.47955092787742615
+  ],
+  [
+    [
+      43,
+      20
+    ],
+    [
+      "Typische Beispiele sind:",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.07015581429004669
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Jemand fällt ins kalte Wasser",
+      "Besonders schnell kühlt der Körper aus, wenn Sie ins kalte Wasser fallen."
+    ],
+    0.07971333712339401
+  ],
+  [
+    [
+      45,
+      24
+    ],
+    [
+      "Jemand wird von einer Schnee-Lawine überschüttet",
+      "Auch wenn ein Skifahrer von einer Lawine verschüttet wird oder ein Bergsteiger in eine Gletscherspalte stürzt, kann er stark auskühlen."
+    ],
+    0.09490973502397537
+  ],
+  [
+    [
+      46,
+      25
+    ],
+    [
+      "Aber auch Wind kann gefährlich sein.",
+      "Neben Feuchtigkeit setzt vor allem Wind dem Organismus zu und ist ein gefährlicher Risikofaktor."
+    ],
+    0.4921489655971527
+  ],
+  [
+    [
+      47,
+      26
+    ],
+    [
+      "Der Wind bläst nämlich die warme Luft um den Körper weg und aus der Kleidung heraus.",
+      "Der Wind bläst die schützende warme Luftschicht um den Körper beziehungsweise aus der Kleidung weg."
+    ],
+    0.8297579884529114
+  ],
+  [
+    [
+      48,
+      26
+    ],
+    [
+      "Dadurch verliert der Körper sehr viel Wärme.",
+      "Der Wind bläst die schützende warme Luftschicht um den Körper beziehungsweise aus der Kleidung weg."
+    ],
+    0.3615435063838959
+  ],
+  [
+    [
+      49,
+      34
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "So sind kleine Kinder und alte Menschen häufiger davon betroffen."
+    ],
+    0.02107212133705616
+  ],
+  [
+    [
+      50,
+      35
+    ],
+    [
+      "Dazu gehören zum Beispiel: Kleinkinder ältere Menschen Raucher Menschen mit Durchblutungsstörungen Menschen mit Diabetes stark erschöpfte Menschen unterernährte Menschen",
+      "Auch Rauchen , Durchblutungsstörungen, Diabetes , bestimmte Medikamente, Unterernährung oder Erschöpfung wirken sich negativ aus."
+    ],
+    0.0728016272187233
+  ],
+  [
+    [
+      51,
+      36
+    ],
+    [
+      "Alkohol kann das Risiko eines Kälteschadens erhöhen.",
+      "Alkohol ruft zwar zunächst ein wärmendes Gefühl im Körper hervor."
+    ],
+    0.15861079096794128
+  ],
+  [
+    [
+      52,
+      38
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Außerdem nimmt man unter Alkoholeinfluss die Kälte nicht so wahr."
+    ],
+    0.4139520525932312
+  ],
+  [
+    [
+      53,
+      38
+    ],
+    [
+      "So verliert der Körper schneller Wärme.",
+      "Außerdem nimmt man unter Alkoholeinfluss die Kälte nicht so wahr."
+    ],
+    0.013656859286129475
+  ],
+  [
+    [
+      54,
+      38
+    ],
+    [
+      "Menschen unter Alkoholeinfluss spüren die Kälte oft nicht so schnell.",
+      "Außerdem nimmt man unter Alkoholeinfluss die Kälte nicht so wahr."
+    ],
+    0.8796148300170898
+  ],
+  [
+    [
+      55,
+      120
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.921267032623291
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.6851961016654968
+  ],
+  [
+    [
+      57,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.768390417098999
+  ],
+  [
+    [
+      58,
+      121
+    ],
+    [
+      "Am besten eignet sich Funktionskleidung.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.0836072713136673
+  ],
+  [
+    [
+      59,
+      121
+    ],
+    [
+      "Funktionskleidung wärmt gut.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.11043182760477066
+  ],
+  [
+    [
+      60,
+      131
+    ],
+    [
+      "Und Funktionskleidung trocknet schnell Wechseln Sie Ihre feuchte Kleidung regelmäßig gegen trockene Kleidung Tragen Sie eine Mütze.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7183761596679688
+  ],
+  [
+    [
+      62,
+      131
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8482356071472168
+  ],
+  [
+    [
+      64,
+      131
+    ],
+    [
+      "Sie wandern in den Bergen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8981326222419739
+  ],
+  [
+    [
+      65,
+      131
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske Ziehen Sie passende Schuhe an.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8440501689910889
+  ],
+  [
+    [
+      66,
+      131
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung Ziehen Sie sich dicke Socken an Bewegen Sie sich.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8049852848052979
+  ],
+  [
+    [
+      67,
+      131
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.838779866695404
+  ],
+  [
+    [
+      68,
+      131
+    ],
+    [
+      "Der Tee kann Sie wärmen Essen",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8484891653060913
+  ],
+  [
+    [
+      69,
+      131
+    ],
+    [
+      "Sie genügend",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.9260162115097046
+  ],
+  [
+    [
+      70,
+      131
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8805180191993713
+  ],
+  [
+    [
+      71,
+      131
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8891274333000183
+  ],
+  [
+    [
+      72,
+      131
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7121379375457764
+  ],
+  [
+    [
+      76,
+      131
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8888630867004395
+  ],
+  [
+    [
+      82,
+      131
+    ],
+    [
+      "Und ziehen Sie ihr trockene Kleidung an.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.6249662637710571
+  ],
+  [
+    [
+      83,
+      131
+    ],
+    [
+      "Sie haben keine trockene Kleidung?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7307966351509094
+  ],
+  [
+    [
+      84,
+      131
+    ],
+    [
+      "Dann wickeln Sie die betroffene Person in eine Decke.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.44402173161506653
+  ],
+  [
+    [
+      85,
+      131
+    ],
+    [
+      "Ziehen Sie ihr eine Mütze über den Kopf.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.6916243433952332
+  ],
+  [
+    [
+      86,
+      131
+    ],
+    [
+      "Und geben Sie ihr ein warmes Getränk mit Zucker.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7943949103355408
+  ],
+  [
+    [
+      88,
+      131
+    ],
+    [
+      "Sie können die Person nicht an einen warmen Ort bringen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.500756561756134
+  ],
+  [
+    [
+      90,
+      131
+    ],
+    [
+      "Und schützen Sie die Person vor dem kalten Boden.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.5000540018081665
+  ],
+  [
+    [
+      91,
+      131
+    ],
+    [
+      "Legen Sie eine Rettungsfolie oder eine Decke unter die Person.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.4654292166233063
+  ],
+  [
+    [
+      93,
+      131
+    ],
+    [
+      "Dann decken Sie die Person vorsichtig zu.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.5031265616416931
+  ],
+  [
+    [
+      94,
+      131
+    ],
+    [
+      "Bewegen Sie sie möglichst wenig.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.9102535843849182
+  ],
+  [
+    [
+      95,
+      131
+    ],
+    [
+      "Warten Sie, bis der Rettungsdienst kommt.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8632079362869263
+  ],
+  [
+    [
+      97,
+      131
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7730329036712646
+  ],
+  [
+    [
+      102,
+      131
+    ],
+    [
+      "Und bewegen Sie die Person so wenig wie möglich.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.49642273783683777
+  ],
+  [
+    [
+      103,
+      131
+    ],
+    [
+      "Sie wollen noch mehr über Kälteschäden lesen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.739533543586731
+  ],
+  [
+    [
+      104,
+      131
+    ],
+    [
+      "Mehr Informationen über Kälteschäden finden Sie hier.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.738893449306488
+  ]
+]

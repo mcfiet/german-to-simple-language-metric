@@ -1,0 +1,266 @@
+[
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Dann verliert der Körper vielleicht sehr viel Blut.",
+      "Aber bei größeren Blutverlusten reichen diese Kompensationsmöglichkeiten des Körpers irgendwann nicht mehr aus."
+    ],
+    0.8706673383712769
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Dann kann der Körper vielleicht nicht genug Blut selbst bilden.",
+      "Aber bei größeren Blutverlusten reichen diese Kompensationsmöglichkeiten des Körpers irgendwann nicht mehr aus."
+    ],
+    0.7856448888778687
+  ],
+  [
+    [
+      7,
+      7
+    ],
+    [
+      "Betroffene Personen brauchen dann eine Blut-Transfusion.",
+      "Bluttransfusionen sind ärztliche Tätigkeiten."
+    ],
+    0.9126102924346924
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Ein Patient braucht eine Blut-Transfusion?",
+      "Bluttransfusionen sind ärztliche Tätigkeiten."
+    ],
+    0.9103451371192932
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Der Arzt erklärt den Ablauf der Blut-Transfusion.",
+      "Bluttransfusionen sind ärztliche Tätigkeiten."
+    ],
+    0.8825271725654602
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "Der Patient muss mit einer Blut-Transfusion einverstanden sein.",
+      "Bluttransfusionen sind ärztliche Tätigkeiten."
+    ],
+    0.8586122393608093
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Der Patient ist mit einer Blut-Transfusion einverstanden?",
+      "Bluttransfusionen sind ärztliche Tätigkeiten."
+    ],
+    0.837688684463501
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Bei einem Notfall darf der Arzt aber immer eine Blut-Transfusion durchführen.",
+      "Bluttransfusionen sind ärztliche Tätigkeiten."
+    ],
+    0.8648587465286255
+  ],
+  [
+    [
+      23,
+      17
+    ],
+    [
+      "Über diesen Schlauch bekommt der Patient später das Blut.",
+      "Dabei wird Blut aus der Blutkonserve mit einer Blutprobe des Empfängers vermischt."
+    ],
+    0.8517735004425049
+  ],
+  [
+    [
+      25,
+      17
+    ],
+    [
+      "Verträgt der Patient die Blutkonserve?",
+      "Dabei wird Blut aus der Blutkonserve mit einer Blutprobe des Empfängers vermischt."
+    ],
+    0.7989884614944458
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Erst dann bekommt der Patient die Blut-Transfusion.",
+      "Dabei wird Blut aus der Blutkonserve mit einer Blutprobe des Empfängers vermischt."
+    ],
+    0.7972516417503357
+  ],
+  [
+    [
+      31,
+      17
+    ],
+    [
+      "Das Blut nennt man auch: Blutkonserve.",
+      "Dabei wird Blut aus der Blutkonserve mit einer Blutprobe des Empfängers vermischt."
+    ],
+    0.8212383389472961
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "Es gibt verschiedene Arten von Blutkonserven: Blutkonserven aus Vollblut .",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.8145672678947449
+  ],
+  [
+    [
+      34,
+      26
+    ],
+    [
+      "Blutkonserven aus einzelnen Bestandteilen .",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.8024832606315613
+  ],
+  [
+    [
+      35,
+      26
+    ],
+    [
+      "Meistens braucht der Patient nämlich kein Vollblut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.7628896236419678
+  ],
+  [
+    [
+      40,
+      32
+    ],
+    [
+      "Das Fremdblut wird genau auf Krankheiten untersucht.",
+      "Die gespendeten Blutpräparate testet das Labor nochmals auf mögliche Krankheitserreger."
+    ],
+    0.7958717942237854
+  ],
+  [
+    [
+      45,
+      35
+    ],
+    [
+      "Eine Blut-Transfusion kann verschiedene Gründe haben.",
+      "Die Eigenblutspende erfolgt vor geplanten Operationen, bei denen die Wahrscheinlichkeit über zehn Prozent liegt, dass eine Bluttransfusion nötigt wird."
+    ],
+    0.7951480150222778
+  ],
+  [
+    [
+      48,
+      36
+    ],
+    [
+      "So eine Operation ist zum Beispiel eine Herzoperation oder eine Operation an den Blutgefäßen.",
+      "Das kann zum Beispiel bei Herz- und Gefäßoperationen oder größeren allgemeinchirurgischen Operationen der Fall sein."
+    ],
+    0.9305434823036194
+  ],
+  [
+    [
+      56,
+      41
+    ],
+    [
+      "Eine Blut-Transfusion hat immer auch Risiken.",
+      "Jede Bluttransfusion geht mit Risiken einher."
+    ],
+    0.9880725145339966
+  ],
+  [
+    [
+      60,
+      47
+    ],
+    [
+      "Unwohlsein",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.9409300088882446
+  ],
+  [
+    [
+      61,
+      49
+    ],
+    [
+      "Manchmal bekommt der Patient Blut mit einer falschen Blutgruppe.",
+      "Beispielsweise erhält ein Mensch mit der Blutgruppe A Blut mit der Blutgruppe B."
+    ],
+    0.8299981355667114
+  ],
+  [
+    [
+      67,
+      54
+    ],
+    [
+      "Die Viren können Krankheiten auslösen.",
+      "Dazu zählen beispielsweise Hepatitis -Viren, die eine Leberentzündung verursachen können und HI-Viren, die zu AIDS führen können."
+    ],
+    0.7809276580810547
+  ],
+  [
+    [
+      68,
+      54
+    ],
+    [
+      "HI-Viren können zu AIDS führen.",
+      "Dazu zählen beispielsweise Hepatitis -Viren, die eine Leberentzündung verursachen können und HI-Viren, die zu AIDS führen können."
+    ],
+    0.7833819389343262
+  ],
+  [
+    [
+      71,
+      57
+    ],
+    [
+      "Eine Blut-Transfusion kann zu allergischen Reaktionen führen.",
+      "Allergische Reaktionen auf eine Bluttransfusion können von einem juckenden Hautausschlag bis hin zu einem allergischen Schock mit Kreislauf- und Atemversagen reichen."
+    ],
+    0.9436863660812378
+  ]
+]

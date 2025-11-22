@@ -1,0 +1,530 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Manchmal hat eine Person einen Herzstillstand .",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6187613010406494
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das bedeutet: Das Herz schlägt nicht mehr.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.3791064918041229
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Folgende Dinge können zum Beispiel einen Herzstillstand verursachen:",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6404938697814941
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "ein schwerer Unfall ein Herzinfarkt Herzkrankheiten ein Schlaganfall",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.4337863326072693
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das Herz schlägt nicht mehr?",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.476832777261734
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Dann pumpt das Herz nicht mehr genügend Blut ins Gehirn und in den Körper.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.5670747756958008
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Und die betroffene Person hört auf zu atmen.",
+      "Wenn ein Herzstillstand eingetreten ist (Hinweise darauf sind fehlende Atmung und fehlende andere Lebenszeichen), muss die Person schnellstens wiederbelebt werden."
+    ],
+    0.6377870440483093
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Das ist lebensgefährlich.",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.42825257778167725
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Das Herz schlägt mehrere Minuten nicht?",
+      "Das bedeutet: Der oder die Betroffene sollte zum Beispiel auf dem Boden gelagert werden."
+    ],
+    0.4981020987033844
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Dann stirbt die betroffene Person.",
+      "Fühlen Sie sich nicht in der Lage, die leblose Person zu beatmen, beginnen Sie mit der Herzdruckmassage und führen Sie diese kontinuierlich ohne Unterbrechung bis zum Eintreffen der Rettungskräfte oder bis die Person wieder normal atmet durch."
+    ],
+    0.637683629989624
+  ],
+  [
+    [
+      10,
+      11
+    ],
+    [
+      "Deshalb ist schnelle Erste Hilfe wichtig.",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.4663473963737488
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Eine Person hat einen Herzstillstand?",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.3459570109844208
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Dann versuchen Sie die Person wiederzubeleben.",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.8162506222724915
+  ],
+  [
+    [
+      13,
+      11
+    ],
+    [
+      "Das Fachwort für die Wiederbelebung ist: Reanimation.",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.2528553009033203
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Eine betroffene Person atmet nicht mehr?",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.613012433052063
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Oder die Person atmet nicht normal?",
+      "Falls die Person nicht oder nicht normal atmet und keine Lebenszeichen zeigt, rufen Sie zu allererst den Rettungsdienst (112)."
+    ],
+    0.7809997797012329
+  ],
+  [
+    [
+      16,
+      12
+    ],
+    [
+      "Dann rufen Sie als erstes die Notrufnummer 112 .",
+      "Sollten sich andere Personen in der Nähe befinden, holen Sie sich Hilfe und fordern Sie eine davon auf, den Rettungsdienst anzurufen."
+    ],
+    0.6764179468154907
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Beginnen Sie dann sofort mit der Wiederbelebung.",
+      "Beginnen Sie anschließend mit der Wiederbelebung:"
+    ],
+    0.9346923232078552
+  ],
+  [
+    [
+      18,
+      14
+    ],
+    [
+      "Für die Wiederbelebung sollte die betroffene Person auf einem harten Untergrund liegen.",
+      "Legen Sie den Ballen einer Hand auf die Mitte der Brust der Person."
+    ],
+    0.8258879780769348
+  ],
+  [
+    [
+      19,
+      14
+    ],
+    [
+      "Und die Person muss auf dem Rücken liegen.",
+      "Legen Sie den Ballen einer Hand auf die Mitte der Brust der Person."
+    ],
+    0.7610408663749695
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Eine Wiederbelebung geht so: 1. Strecken Sie den Kopf der betroffenen Person nach oben.",
+      "Legen Sie den Ballen einer Hand auf die Mitte der Brust der Person."
+    ],
+    0.763090968132019
+  ],
+  [
+    [
+      21,
+      18
+    ],
+    [
+      "2. Beginnen Sie dann sofort mit einer Herzdruckmassage.",
+      "Nach jedem Druck entlasten Sie den Brustkorb vollständig."
+    ],
+    0.575486958026886
+  ],
+  [
+    [
+      22,
+      18
+    ],
+    [
+      "Drücken Sie dafür den Brustkorb der betroffenen Person mit verschränkten Händen 30 Mal kräftig nach unten.",
+      "Nach jedem Druck entlasten Sie den Brustkorb vollständig."
+    ],
+    0.7484540343284607
+  ],
+  [
+    [
+      23,
+      19
+    ],
+    [
+      "Drücken Sie ungefähr zwei Mal pro Sekunden.",
+      "Etwa zwei Kompressionen pro Sekunde"
+    ],
+    0.7515324354171753
+  ],
+  [
+    [
+      24,
+      20
+    ],
+    [
+      "4. Drücken Sie den Brustkorb der betroffenen Person wieder 30 Mal kräftig nach unten.",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.7322601079940796
+  ],
+  [
+    [
+      25,
+      20
+    ],
+    [
+      "5. Geben Sie der betroffenen Person wieder zwei Atemspenden .",
+      "Nach 30 Mal Drücken überstrecken Sie wieder den Kopf der Person, um die Atemwege frei zu machen"
+    ],
+    0.5383545756340027
+  ],
+  [
+    [
+      26,
+      21
+    ],
+    [
+      "Wiederholen Sie diese Vorgänge.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.7953557372093201
+  ],
+  [
+    [
+      27,
+      21
+    ],
+    [
+      "Machen Sie mit der Wiederbelebung solange weiter, bis Hilfe kommt.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.566085696220398
+  ],
+  [
+    [
+      28,
+      21
+    ],
+    [
+      "Diese Dinge sollten Sie bei der Wiederbelebung beachten:",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.6835159659385681
+  ],
+  [
+    [
+      29,
+      21
+    ],
+    [
+      "Beginnen Sie sofort mit der Herzdruckmassage.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.6013475060462952
+  ],
+  [
+    [
+      30,
+      21
+    ],
+    [
+      "Die Herzdruckmassage ist wichtiger als die Atemspenden.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.1815611869096756
+  ],
+  [
+    [
+      31,
+      21
+    ],
+    [
+      "Machen Sie bei der Herzdruckmassage möglichst keine Pausen .",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.6535916328430176
+  ],
+  [
+    [
+      32,
+      21
+    ],
+    [
+      "Wichtig: Drücken Sie den Brustkorb kräftig nach unten.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.6556236743927002
+  ],
+  [
+    [
+      33,
+      21
+    ],
+    [
+      "Haben Sie keine Angst.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.7334059476852417
+  ],
+  [
+    [
+      34,
+      21
+    ],
+    [
+      "Sie können nichts falschmachen.",
+      "Wenn Sie es sich zutrauen, sollten Sie nun beatmen:"
+    ],
+    0.830649197101593
+  ],
+  [
+    [
+      35,
+      41
+    ],
+    [
+      "An vielen Orten gibt es einen Defibrillator .",
+      "Bei zwei Helfern besteht der Vorteil, dass ein Helfer seitlich neben den Patienten knien und mit der Herzdruckmassage beginnen kann, der zweite Helfer befindet sich auf der gegenüberliegenden Seite oder am Kopf des Patienten und kann Atemspende leisten."
+    ],
+    0.48936399817466736
+  ],
+  [
+    [
+      36,
+      41
+    ],
+    [
+      "Sie erkennen einen Defibrillator an einem grünen Hinweisschild mit einem Herz-Symbol.",
+      "Bei zwei Helfern besteht der Vorteil, dass ein Helfer seitlich neben den Patienten knien und mit der Herzdruckmassage beginnen kann, der zweite Helfer befindet sich auf der gegenüberliegenden Seite oder am Kopf des Patienten und kann Atemspende leisten."
+    ],
+    0.6969258189201355
+  ],
+  [
+    [
+      37,
+      41
+    ],
+    [
+      "Der Defibrillator kann Ihnen bei der Wiederbelebung helfen.",
+      "Bei zwei Helfern besteht der Vorteil, dass ein Helfer seitlich neben den Patienten knien und mit der Herzdruckmassage beginnen kann, der zweite Helfer befindet sich auf der gegenüberliegenden Seite oder am Kopf des Patienten und kann Atemspende leisten."
+    ],
+    0.671899676322937
+  ],
+  [
+    [
+      38,
+      42
+    ],
+    [
+      "Der Defibrillator gibt elektrische Impulse ab.",
+      "Auch wichtig:"
+    ],
+    0.2597198784351349
+  ],
+  [
+    [
+      39,
+      43
+    ],
+    [
+      "Die elektrischen Impulse können das Herz der betroffenen Person wieder in den richtigen Rhythmus bringen.",
+      "Zwei Helfer sollte sich alle zwei Minuten bei der Herzdruckmassage abwechseln, um einer Ermüdung vorzubeugen."
+    ],
+    0.6891024708747864
+  ],
+  [
+    [
+      40,
+      44
+    ],
+    [
+      "Ist ein Defibrillator in der Nähe?",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.34632086753845215
+  ],
+  [
+    [
+      41,
+      44
+    ],
+    [
+      "Dann soll eine andere Person den Defibrillator holen.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.6301129460334778
+  ],
+  [
+    [
+      42,
+      44
+    ],
+    [
+      "Schalten Sie den Defibrillator an.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.3349861204624176
+  ],
+  [
+    [
+      43,
+      44
+    ],
+    [
+      "Der Defibrillator sagt Ihnen dann: Das sollen Sie als nächstes machen.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.48431673645973206
+  ],
+  [
+    [
+      44,
+      44
+    ],
+    [
+      "Sie möchten noch mehr über Wiederbelebung lesen?",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.5330835580825806
+  ],
+  [
+    [
+      45,
+      44
+    ],
+    [
+      "Mehr Informationen zur Wiederbelebung finden Sie hier .",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.37399664521217346
+  ],
+  [
+    [
+      46,
+      44
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.32178619503974915
+  ],
+  [
+    [
+      47,
+      44
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Studien haben gezeigt, dass eine Herzdruckmassage deutlich effektiver ist, wenn die Helfer häufiger wechseln."
+    ],
+    0.707617461681366
+  ]
+]

@@ -1,0 +1,563 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen ein Fahrzeug in Köln ummelden auf einen neuen Halter oder eine neue Halterin?",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.8915180563926697
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Zum Beispiel: Weil Sie Ihr Fahrzeug verkaufen .",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8555577993392944
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Dann müssen Sie Ihr Fahrzeug beim Amt in Köln ummelden.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.779037594795227
+  ],
+  [
+    [
+      5,
+      16
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.794404923915863
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Auf dieser Seite erklären wir, wie Sie Ihr Fahrzeug ummelden können.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.7849858999252319
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Wenn Sie ein Fahrzeug in Köln ummelden wollen, dann müssen Sie uns diese Papiere zeigen: Zulassungs-Bescheinigung Teil 1 und Teil 2",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.7218394875526428
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Wenn Sie ein Fahrzeug kaufen, dann bekommen Sie die Zulassungs-Bescheinigung Teil 2. Früher hieß die Bescheinigung: Fahrzeug-Brief .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.9010493159294128
+  ],
+  [
+    [
+      10,
+      35
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 2 ist ein Nachweis für den Besitz .",
+      "Die zusätzliche Gebühr beim Umtausch des alten Fahrzeugbriefes auf die Zulassungsbescheinigung Teil II oder der Austausch der Zulassungsbescheinigung Teil II gegen zum Beispiel eine vollgeschriebene Zulassungsbescheinigung Teil II, in der kein weiterer Haltereintrag möglich ist, beträgt 8,70 Euro."
+    ],
+    0.7924888134002686
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8362320065498352
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden , dann bekommen Sie die Zulassungs-Bescheinigung Teil 1 .",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.7672196626663208
+  ],
+  [
+    [
+      13,
+      2
+    ],
+    [
+      "Früher hieß die Bescheinigung: Fahrzeug-Schein.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9448562860488892
+  ],
+  [
+    [
+      14,
+      35
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 1 ist ein Nachweis das Anmelden.",
+      "Die zusätzliche Gebühr beim Umtausch des alten Fahrzeugbriefes auf die Zulassungsbescheinigung Teil II oder der Austausch der Zulassungsbescheinigung Teil II gegen zum Beispiel eine vollgeschriebene Zulassungsbescheinigung Teil II, in der kein weiterer Haltereintrag möglich ist, beträgt 8,70 Euro."
+    ],
+    0.6823505163192749
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Mein Fahrzeug ist beim Amt gemeldet.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8616177439689636
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug in Köln ummelden wollen, müssen Sie uns entweder den Fahrzeug-Brief und den Fahrzeug-Schein zeigen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9283910989761353
+  ],
+  [
+    [
+      18,
+      35
+    ],
+    [
+      "oder Ihre Zulassungs-Bescheinigungen Teil 1 und 2 .",
+      "Die zusätzliche Gebühr beim Umtausch des alten Fahrzeugbriefes auf die Zulassungsbescheinigung Teil II oder der Austausch der Zulassungsbescheinigung Teil II gegen zum Beispiel eine vollgeschriebene Zulassungsbescheinigung Teil II, in der kein weiterer Haltereintrag möglich ist, beträgt 8,70 Euro."
+    ],
+    0.7748860716819763
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Personal-Ausweis oder Pass vom künftigen Halter oder der künftigen Halterin",
+      "Personalausweis oder Pass der zukünftigen Halterin beziehungsweise des zukünftigen Halters Vollmacht bei Vertretung zusätzlich"
+    ],
+    0.6188998222351074
+  ],
+  [
+    [
+      20,
+      16
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Es ist die Unterschrift der Kontoinhaberin oder des Kontoinhabers und die Unterschrift der Fahrzeughalterin beziehungsweise des Fahrzeughalters erforderlich."
+    ],
+    0.794404923915863
+  ],
+  [
+    [
+      23,
+      2
+    ],
+    [
+      "In Deutschland muss jedes zugelassene Fahrzeug versichert sein.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8776189684867859
+  ],
+  [
+    [
+      24,
+      2
+    ],
+    [
+      "Das heißt: Sie brauchen eine Kfz-Versicherung für Ihr Fahrzeug.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.898581326007843
+  ],
+  [
+    [
+      32,
+      5
+    ],
+    [
+      "Dazu können Sie uns diese Papiere zeigen: den Fahrzeug-Schein oder die Zulassung-Bescheinigung Teil 1 oder den letzten Bericht vom TÜV .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.8777511715888977
+  ],
+  [
+    [
+      34,
+      37
+    ],
+    [
+      "Kennzeichen-Schilder",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.743242084980011
+  ],
+  [
+    [
+      35,
+      38
+    ],
+    [
+      "Wenn Sie ein anderes Kennzeichen wollen, dann müssen Sie auch Ihre Kennzeichen-Schilder mitbringen.",
+      "Kennzeichen bekommen Sie bei den ortsansässigen Schilderherstellern."
+    ],
+    0.4976723790168762
+  ],
+  [
+    [
+      37,
+      2
+    ],
+    [
+      "Wenn Sie in Deutschland ein Fahrzeug zulassen, dann müssen Sie Steuern dafür bezahlen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.7081142067909241
+  ],
+  [
+    [
+      38,
+      2
+    ],
+    [
+      "Das schwere Wort dafür ist: Kraft-Fahrzeug-Steuer.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8928829431533813
+  ],
+  [
+    [
+      44,
+      5
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen, dann müssen Sie uns die Erlaubnis geben.",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.7070938348770142
+  ],
+  [
+    [
+      46,
+      5
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.8224406242370605
+  ],
+  [
+    [
+      47,
+      2
+    ],
+    [
+      "Die Erlaubnis brauchen wir auch: Wenn wir Ihre Daten schon zu einem anderen Fahrzeug haben.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8569796085357666
+  ],
+  [
+    [
+      51,
+      23
+    ],
+    [
+      "Dann müssen Sie es unterschreiben.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.43464186787605286
+  ],
+  [
+    [
+      53,
+      2
+    ],
+    [
+      "2. Die Unterschrift vom Fahrzeug-Halter oder der Fahrzeug-Halterin.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9543446898460388
+  ],
+  [
+    [
+      54,
+      2
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9460123777389526
+  ],
+  [
+    [
+      61,
+      2
+    ],
+    [
+      "Wichtig: Sie müssen zum Haupt-Zoll-Amt gehen, bevor Sie Ihr Fahrzeug bei uns ummelden lassen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.7056543827056885
+  ],
+  [
+    [
+      65,
+      25
+    ],
+    [
+      "Fragen Sie jemanden um Hilfe, wenn Sie etwas nicht verstehen.",
+      "Alternativ nutzen Sie unseren Online-Service!"
+    ],
+    0.47747349739074707
+  ],
+  [
+    [
+      66,
+      2
+    ],
+    [
+      "Wie kann ich ein Fahrzeug ummelden?",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8143506646156311
+  ],
+  [
+    [
+      73,
+      25
+    ],
+    [
+      "Wenn Sie dazu Fragen haben oder etwas nicht verstehen, fragen Sie bitte jemanden um Hilfe.",
+      "Alternativ nutzen Sie unseren Online-Service!"
+    ],
+    0.4641503393650055
+  ],
+  [
+    [
+      74,
+      10
+    ],
+    [
+      "2. Wenn Sie lieber persönlich zur Zulassungs-Stelle kommen möchten:",
+      "Dieses Anliegen können Sie online durchführen, damit wird eine Vorsprache in der Kfz -Zulassungsstelle entbehrlich."
+    ],
+    0.7157783508300781
+  ],
+  [
+    [
+      76,
+      23
+    ],
+    [
+      "Das heißt: Sie rufen an oder können am Computer einen Termin machen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4389929473400116
+  ],
+  [
+    [
+      78,
+      10
+    ],
+    [
+      "Zum Termin kommen Sie dann persönlich zur Zulassungs-Stelle .",
+      "Dieses Anliegen können Sie online durchführen, damit wird eine Vorsprache in der Kfz -Zulassungsstelle entbehrlich."
+    ],
+    0.7254288792610168
+  ],
+  [
+    [
+      79,
+      27
+    ],
+    [
+      "Das ist die Adresse: Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Als Privatperson aus Köln können Sie auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.753708004951477
+  ],
+  [
+    [
+      80,
+      2
+    ],
+    [
+      "Was ist, wenn ich das Fahrzeug als Firmen-Fahrzeug nutze?",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8710429668426514
+  ],
+  [
+    [
+      81,
+      2
+    ],
+    [
+      "Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie zur Zulassungs-Stelle in Köln kommen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8116888403892517
+  ],
+  [
+    [
+      82,
+      5
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln Wichtig : Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie uns auch diese Papiere zeigen:",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.7975130677223206
+  ],
+  [
+    [
+      84,
+      0
+    ],
+    [
+      "Sie können ein Fahrzeug auf eine Person unter 18 Jahren ummelden.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.7839633822441101
+  ],
+  [
+    [
+      86,
+      2
+    ],
+    [
+      "Zum Beispiel wenn die Person unter 18 Jahren: Eine Fahr-Erlaubnis für das Fahrzeug hat.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8184763193130493
+  ],
+  [
+    [
+      88,
+      2
+    ],
+    [
+      "Bitte fragen Sie vorher: Ob Sie das Fahrzeug auf die Person unter 18 Jahren ummelden können.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.708307683467865
+  ],
+  [
+    [
+      89,
+      0
+    ],
+    [
+      "Wichtig: Wenn Sie ein Fahrzeug ummelden wollen auf eine Person unter 18 Jahren, müssen Sie uns eine Einverständnis-Erklärung von beiden Eltern zeigen.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.7178515791893005
+  ],
+  [
+    [
+      109,
+      23
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6524329781532288
+  ],
+  [
+    [
+      110,
+      23
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4816488027572632
+  ],
+  [
+    [
+      111,
+      23
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.522821843624115
+  ],
+  [
+    [
+      118,
+      37
+    ],
+    [
+      "Zum Beispiel für Ihre Kennzeichen.",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.45632851123809814
+  ],
+  [
+    [
+      119,
+      2
+    ],
+    [
+      "Oder wenn Sie Ihren alten Fahrzeug-Brief umtauschen .",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9207141995429993
+  ],
+  [
+    [
+      122,
+      36
+    ],
+    [
+      "Oder Sie können mit Ihrer EC-Karte bezahlen.",
+      "Die Gebühren können Sie auch per EC -Karte mit PIN -Nummer oder GeldKarte bezahlen."
+    ],
+    0.4431926906108856
+  ]
+]

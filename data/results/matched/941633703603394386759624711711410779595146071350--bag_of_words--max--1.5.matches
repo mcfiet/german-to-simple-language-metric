@@ -1,0 +1,640 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Bei einem Schnupfen ist die Schleimhaut in der Nase entzündet.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.7549594044685364
+  ],
+  [
+    [
+      2,
+      24
+    ],
+    [
+      "Schnupfen kann Anzeichen einer Erkältung oder einer Allergie sein.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.978519856929779
+  ],
+  [
+    [
+      3,
+      24
+    ],
+    [
+      "Ein Schnupfen kann verschiedene Anzeichen haben.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9739388227462769
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Betroffene Personen können nicht gut durch die Nase atmen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8526063561439514
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Die Nase läuft.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9389399290084839
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "In der Nase ist nämlich Schleim.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9475727677345276
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Die Nase ist gereizt.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9318677186965942
+  ],
+  [
+    [
+      12,
+      24
+    ],
+    [
+      "Sie haben Schnupfen?",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.913847029209137
+  ],
+  [
+    [
+      14,
+      24
+    ],
+    [
+      "Es gibt verschiedene Hausmittel gegen Schnupfen.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9197409152984619
+  ],
+  [
+    [
+      15,
+      55
+    ],
+    [
+      "Bei Hausmitteln haben Wissenschaftler oft keinen sicheren Beweis für die Wirkung.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.6119640469551086
+  ],
+  [
+    [
+      19,
+      24
+    ],
+    [
+      "In den nächsten Abschnitten stellen wir Ihnen verschiedene Hausmittel gegen Schnupfen vor.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9146711826324463
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Bei einem Schnupfen können betroffene Personen nur schwer durch die Nase atmen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.7054526805877686
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Die Nase fühlt sich verstopft an.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9236365556716919
+  ],
+  [
+    [
+      23,
+      55
+    ],
+    [
+      "Das Nasenspray ist eine Flüssigkeit mit einem Wirkstoff gegen die Schwellung.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.4510257840156555
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Eine betroffene Person sprüht diese Flüssigkeit in die Nase?",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9135921597480774
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Dann schwellen die Gefäße in der Nase ab.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9223083853721619
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "Dann ist die Nase wieder frei und Betroffene können besser atmen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8447238802909851
+  ],
+  [
+    [
+      28,
+      1
+    ],
+    [
+      "Manche Nasensprays können die Nase stark austrocknen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8753524422645569
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Dann wird die Nase innen wund.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9006203413009644
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Das Salz hält die Nase innen feucht.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9164184331893921
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Die Nase trocknet dann nicht aus.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9099815487861633
+  ],
+  [
+    [
+      38,
+      0
+    ],
+    [
+      "Die ätherischen Öle kühlen die Nase von innen.",
+      "Alle Jahre wieder – oder mehrmals im Jahr: Die Nase fängt an zu jucken, es folgen Niesattacken, die Schleimhäute schwellen an, das Atmen durch die Nase fällt schwer."
+    ],
+    0.8337124586105347
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Deshalb fühlt sich die Nase nicht so verstopft an.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9177639484405518
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Eukalyptus-Öl kann die Nase austrocknen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9252420663833618
+  ],
+  [
+    [
+      49,
+      44
+    ],
+    [
+      "In der Medizin meint man damit eine Behandlung der Atemwege.",
+      "Damit kommt der Schleimhaut eine besondere Aufgabe bei der Immunabwehr zu."
+    ],
+    0.5090329647064209
+  ],
+  [
+    [
+      51,
+      55
+    ],
+    [
+      "Der Wasserdampf befeuchtet die Schleimhäute in:",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.47958117723464966
+  ],
+  [
+    [
+      52,
+      1
+    ],
+    [
+      "Nase Mund Hals",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.948135256767273
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Der heiße Wasserdampf löst auch den festen Schleim in der Nase.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9244483113288879
+  ],
+  [
+    [
+      54,
+      1
+    ],
+    [
+      "Der Schleim kann dann aus der Nase abfließen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9341295957565308
+  ],
+  [
+    [
+      55,
+      1
+    ],
+    [
+      "Dann können betroffene Personen wieder leichter durch die Nase atmen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8383318781852722
+  ],
+  [
+    [
+      59,
+      55
+    ],
+    [
+      "2. Beugen Sie sich über die Schüssel.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.3752989172935486
+  ],
+  [
+    [
+      70,
+      1
+    ],
+    [
+      "Manche Duftöle trocknen die Nase aus.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9282962083816528
+  ],
+  [
+    [
+      76,
+      24
+    ],
+    [
+      "Gegen einen Schnupfen können auch Salben helfen.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9318422675132751
+  ],
+  [
+    [
+      79,
+      55
+    ],
+    [
+      "Sie reiben sich mit der Salbe die Brust ein?",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.383760005235672
+  ],
+  [
+    [
+      82,
+      24
+    ],
+    [
+      "Die Salben helfen nicht gegen den Schnupfen.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9180328249931335
+  ],
+  [
+    [
+      85,
+      55
+    ],
+    [
+      "Die Salben sind für Kleinkinder und Säuglinge nicht gut.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.5319806933403015
+  ],
+  [
+    [
+      88,
+      24
+    ],
+    [
+      "Vielleicht helfen auch heißes Essen oder heiße Getränke gegen einen Schnupfen.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9291566014289856
+  ],
+  [
+    [
+      89,
+      24
+    ],
+    [
+      "Sie haben einen Schnupfen?",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9130246043205261
+  ],
+  [
+    [
+      91,
+      1
+    ],
+    [
+      "Vielleicht fühlt sich Ihre Nase dann freier an.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.909915030002594
+  ],
+  [
+    [
+      92,
+      1
+    ],
+    [
+      "Bei einem Schnupfen können Sie vielleicht nicht gut durch die Nase atmen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.6934638023376465
+  ],
+  [
+    [
+      93,
+      1
+    ],
+    [
+      "Ihre Nase schwillt nämlich von innen zu.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9319130778312683
+  ],
+  [
+    [
+      100,
+      1
+    ],
+    [
+      "Dann können Sie leichter durch die Nase atmen und Sie schlafen besser.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.7472754120826721
+  ],
+  [
+    [
+      101,
+      24
+    ],
+    [
+      "Sie möchten einen Schnupfen vermeiden?",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9082164168357849
+  ],
+  [
+    [
+      102,
+      1
+    ],
+    [
+      "Dann sollten sie regelmäßig Ihre Nase und die Nasennebenhöhlen reinigen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8580130934715271
+  ],
+  [
+    [
+      103,
+      1
+    ],
+    [
+      "Die Nasennebenhöhlen sind nahe der Nase.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.926879346370697
+  ],
+  [
+    [
+      104,
+      55
+    ],
+    [
+      "Die Nasennebenhöhlen sind Hohlräume.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.6120758056640625
+  ],
+  [
+    [
+      106,
+      44
+    ],
+    [
+      "In den Hohlräumen ist eine Schleimhaut.",
+      "Damit kommt der Schleimhaut eine besondere Aufgabe bei der Immunabwehr zu."
+    ],
+    0.5592034459114075
+  ],
+  [
+    [
+      107,
+      55
+    ],
+    [
+      "Die Schleimhaut befeuchtet die Nebenhöhlen.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.8317893743515015
+  ],
+  [
+    [
+      108,
+      1
+    ],
+    [
+      "Sie möchten ihre Nase reinigen?",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.9003682732582092
+  ],
+  [
+    [
+      110,
+      1
+    ],
+    [
+      "Bei einer Nasendusche spülen Sie Ihre Nase und die Nasennebenhöhlen.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8052526712417603
+  ],
+  [
+    [
+      112,
+      55
+    ],
+    [
+      "Die Flasche bekommen Sie in der Apotheke.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.39233943819999695
+  ],
+  [
+    [
+      116,
+      1
+    ],
+    [
+      "Die Nasendusche spült Schleim und Staub aus der Nase.",
+      "Gleichzeitig läuft vermehrt Sekret aus der Nase."
+    ],
+    0.8519130945205688
+  ],
+  [
+    [
+      117,
+      55
+    ],
+    [
+      "Und die Nasendusche pflegt die Nasenschleimhaut.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.5405445694923401
+  ],
+  [
+    [
+      118,
+      24
+    ],
+    [
+      "Achtung: Sie haben bereits Schnupfen?",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.9011037945747375
+  ],
+  [
+    [
+      120,
+      24
+    ],
+    [
+      "Eine Nasendusche kann den Schnupfen nämlich verschlimmern.",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.8354684710502625
+  ],
+  [
+    [
+      121,
+      24
+    ],
+    [
+      "Sie wollen noch mehr über Hausmittel gegen Schnupfen lesen?",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.8642702698707581
+  ],
+  [
+    [
+      122,
+      24
+    ],
+    [
+      "Mehr Informationen Hausmittel gegen Schnupfen finden Sie hier .",
+      "Schnupfen kann chronisch werden."
+    ],
+    0.864279568195343
+  ],
+  [
+    [
+      124,
+      55
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Nasenschleimhaut geht unmittelbar in die Schleimhaut über, die die Nasennebenhöhlen auskleidet."
+    ],
+    0.49216657876968384
+  ]
+]

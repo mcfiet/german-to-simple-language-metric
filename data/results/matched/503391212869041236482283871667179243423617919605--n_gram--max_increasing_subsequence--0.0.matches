@@ -1,0 +1,508 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Diclofenac ist ein Medikament.",
+      "Diclofenac lindert Schmerzen , Entzündungen und Fieber ."
+    ],
+    0.9597275853157043
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Diclofenac ist ein Schmerzmittel.",
+      "Diclofenac lindert Schmerzen , Entzündungen und Fieber ."
+    ],
+    0.9643617868423462
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Fieber Erkältung",
+      "Diclofenac lindert Schmerzen , Entzündungen und Fieber ."
+    ],
+    0.04916481673717499
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Regelschmerzen",
+      "Diclofenac lindert Schmerzen , Entzündungen und Fieber ."
+    ],
+    0.10921483486890793
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Sportverletzungen akuten und chronischen Gelenk-Entzündungen",
+      "Zu den typischen Anwendungsgebieten des Wirkstoffs zählen akute und chronische Gelenkentzündungen, Rheuma sowie Sportverletzungen."
+    ],
+    0.6238272786140442
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Rheuma Diclofenac verhindert die Bildung von Prostaglandinen.",
+      "Diclofenac blockiert ein spezielles Enzym im Körper, die Cyclooxygenase."
+    ],
+    0.9408136606216431
+  ],
+  [
+    [
+      7,
+      7
+    ],
+    [
+      "Prostaglandine sind körpereigene Stoffe.",
+      "Mithilfe dieses Enzyms bildet der Körper sogenannte Prostaglandine."
+    ],
+    0.3902449905872345
+  ],
+  [
+    [
+      8,
+      8
+    ],
+    [
+      "Diese Stoffe leiten Informationen an das Gehirn weiter.",
+      "Die Botenstoffe spielen eine zentrale Rolle, wenn sich ein Gewebe entzündet, wenn wir Schmerzen verspüren oder Fieber bekommen."
+    ],
+    0.12927360832691193
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Durch Prostaglandine können Schmerzen, Entzündungen und Fieber auftreten.",
+      "Die Botenstoffe spielen eine zentrale Rolle, wenn sich ein Gewebe entzündet, wenn wir Schmerzen verspüren oder Fieber bekommen."
+    ],
+    0.347432941198349
+  ],
+  [
+    [
+      10,
+      10
+    ],
+    [
+      "Diclofenac stoppt diese Wirkungen:",
+      "Diclofenac liegt in verschiedenen Wirkstärken und Darreichungsformen vor."
+    ],
+    0.9593618512153625
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Der Schmerz hört auf oder das Fieber verringert sich.",
+      "So gibt es den Wirkstoff beispielsweise als Tablette, in Form von Retardkapseln (mit verzögerter und lang anhaltender Wirkung), als Gel, Zäpfchen oder Schmerzpflaster."
+    ],
+    0.22476263344287872
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Sie möchten mehr über die Wirkung von Schmerzmitteln wissen?",
+      "So gibt es den Wirkstoff beispielsweise als Tablette, in Form von Retardkapseln (mit verzögerter und lang anhaltender Wirkung), als Gel, Zäpfchen oder Schmerzpflaster."
+    ],
+    0.45723459124565125
+  ],
+  [
+    [
+      13,
+      15
+    ],
+    [
+      "Dann können Sie dieses Video ansehen:",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.39831358194351196
+  ],
+  [
+    [
+      14,
+      15
+    ],
+    [
+      "Sie können Diclofenac in unterschiedlichen Formen einnehmen: als Tablette als Kapsel als Gel als Zäpfchen als Schmerzpflaster",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.06397539377212524
+  ],
+  [
+    [
+      15,
+      15
+    ],
+    [
+      "Sie nehmen Diclofenac als Tablette ?",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.01865267939865589
+  ],
+  [
+    [
+      16,
+      15
+    ],
+    [
+      "Dann sollten Sie die Tablette zum Essen und mit einem Glas Wasser nehmen.",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.36345064640045166
+  ],
+  [
+    [
+      17,
+      15
+    ],
+    [
+      "Sie nehmen Diclofenac als Gel ?",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.028302887454628944
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Dann nehmen Sie nur wenig Gel und verreiben es auf der schmerzenden Stelle.",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.2756827771663666
+  ],
+  [
+    [
+      19,
+      15
+    ],
+    [
+      "Waschen Sie sich danach gut die Hände.",
+      "Wenden Sie die Arznei als Gel an, dann sollten Sie wenig Gel auf die betroffene Stelle auftragen, es gut einreiben und sich anschließend die Hände waschen."
+    ],
+    0.4670826196670532
+  ],
+  [
+    [
+      20,
+      16
+    ],
+    [
+      "Sie nehmen Diclofenac als Kapsel ?",
+      "Handelt es sich um Retardkapseln oder –tabletten dürfen Sie diese im Normalfall nicht teilen."
+    ],
+    0.03839460387825966
+  ],
+  [
+    [
+      21,
+      16
+    ],
+    [
+      "Dann nehmen Sie die Kapsel im Ganzen.",
+      "Handelt es sich um Retardkapseln oder –tabletten dürfen Sie diese im Normalfall nicht teilen."
+    ],
+    0.2829146087169647
+  ],
+  [
+    [
+      22,
+      17
+    ],
+    [
+      "Diclofenac kann unterschiedliche Nebenwirkungen haben.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.1369457095861435
+  ],
+  [
+    [
+      23,
+      17
+    ],
+    [
+      "Alle bekannten Nebenwirkungen finden Sie auf dem Beipackzettel von Ihrem Medikament.",
+      "Pharmazeutische Hersteller müssen im Beipackzettel eines Medikaments alle bekannt gewordenen Nebenwirkungen auflisten."
+    ],
+    0.6921440958976746
+  ],
+  [
+    [
+      24,
+      19
+    ],
+    [
+      "In diesem Text werden nur die häufigsten Nebenwirkungen aufgezählt.",
+      "Im Folgenden werden nur die häufigsten unerwünschten Wirkungen aufgeführt."
+    ],
+    0.629403293132782
+  ],
+  [
+    [
+      25,
+      19
+    ],
+    [
+      "Der Text ist also nicht vollständig und ersetzt nicht den Beipackzettel oder den Besuch beim Arzt.",
+      "Im Folgenden werden nur die häufigsten unerwünschten Wirkungen aufgeführt."
+    ],
+    0.05765832960605621
+  ],
+  [
+    [
+      26,
+      19
+    ],
+    [
+      "Die häufigsten Nebenwirkungen sind: Übelkeit und Erbrechen Bauchschmerzen",
+      "Im Folgenden werden nur die häufigsten unerwünschten Wirkungen aufgeführt."
+    ],
+    0.4628489017486572
+  ],
+  [
+    [
+      27,
+      21
+    ],
+    [
+      "Durchfall",
+      "Unter anderem: Übelkeit , Erbrechen, Durchfall , geringfügige Blutverluste aus Magen und Darm."
+    ],
+    0.13816699385643005
+  ],
+  [
+    [
+      28,
+      21
+    ],
+    [
+      "Blähungen geringfügige Blutverluste aus Magen und Darm Geschwüre im Magen- und Zwölffingerdarm",
+      "Unter anderem: Übelkeit , Erbrechen, Durchfall , geringfügige Blutverluste aus Magen und Darm."
+    ],
+    0.7090727090835571
+  ],
+  [
+    [
+      29,
+      22
+    ],
+    [
+      "Appetitlosigkeit",
+      "Ebenfalls häufig: Bauchschmerzen , Blähungen , mangelnder Appetit, Oberbauchbeschwerden sowie Magen- und Zwölffingerdarmgeschwüre."
+    ],
+    0.04872945696115494
+  ],
+  [
+    [
+      30,
+      22
+    ],
+    [
+      "Kopfschmerzen",
+      "Ebenfalls häufig: Bauchschmerzen , Blähungen , mangelnder Appetit, Oberbauchbeschwerden sowie Magen- und Zwölffingerdarmgeschwüre."
+    ],
+    0.3311308026313782
+  ],
+  [
+    [
+      31,
+      22
+    ],
+    [
+      "Schwindel Müdigkeit",
+      "Ebenfalls häufig: Bauchschmerzen , Blähungen , mangelnder Appetit, Oberbauchbeschwerden sowie Magen- und Zwölffingerdarmgeschwüre."
+    ],
+    0.1291591078042984
+  ],
+  [
+    [
+      32,
+      25
+    ],
+    [
+      "Reizbarkeit Hautausschlag und Juckreiz",
+      "Zum Beispiel Hautausschlag , Juckreiz und andere allergische Reaktionen."
+    ],
+    0.3842216432094574
+  ],
+  [
+    [
+      33,
+      26
+    ],
+    [
+      "Veränderung der Leberwerte",
+      "Diclofenac kann zudem die Leberwerte verändern."
+    ],
+    0.05149704962968826
+  ],
+  [
+    [
+      34,
+      28
+    ],
+    [
+      "Die Einnahme von mehreren Wirkstoffen gleichzeitig kann Folgen haben.",
+      "Besonders Menschen, die ohnehin ein höheres Risiko dafür haben, weil sie zum Beispiel an Diabetes oder Bluthochdruck leiden, sollten Vor- und Nachteile gründlich mit dem Arzt abwägen, bevor sie den Wirkstoff anwenden."
+    ],
+    0.3702754080295563
+  ],
+  [
+    [
+      35,
+      29
+    ],
+    [
+      "Dazu sagt man auch: Wechselwirkungen.",
+      "Diclofenac kann mit diversen Wirkstoffen Wechselwirkungen eingehen."
+    ],
+    0.22895872592926025
+  ],
+  [
+    [
+      36,
+      30
+    ],
+    [
+      "Sie nehmen neben Diclofenac noch andere Medikamente ein?",
+      "Lassen Sie sich in der Apotheke beraten, ob sich andere Mittel, die Sie einnehmen, mit Diclofenac vertragen."
+    ],
+    0.9567649364471436
+  ],
+  [
+    [
+      37,
+      34
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt nach möglichen Wechselwirkungen.",
+      ", inwiefern solche Wechselwirkungen bei Ihnen relevant sind."
+    ],
+    0.7083150148391724
+  ],
+  [
+    [
+      38,
+      34
+    ],
+    [
+      "Wechselwirkungen können nämlich gefährlich sein.",
+      ", inwiefern solche Wechselwirkungen bei Ihnen relevant sind."
+    ],
+    0.8170674443244934
+  ],
+  [
+    [
+      39,
+      42
+    ],
+    [
+      "Nehmen Sie in den folgenden Fällen kein Diclofenac ein: bei allergischer Reaktion auf Diclofenac bei ungeklärter Blutbildungsstörung bei einem Geschwür im Magen-Darm-Trakt bei Blutungen im Magen-Darm-Trakt bei einer Mastdarm-Entzündung bei Hirnblutungen bei schweren Leber- oder Nierenkrankheiten bei schwerer Herzmuskelschwächebei einer koronaren Herzerkrankung bei Durchblutungsstörungen der Arme und Beine",
+      "Auch Menschen, die schwere Leber- oder Nierenfunktionsstörungen haben, eine Herzmuskelschwäche , eine koronare Herzkrankheit, eine PAVK oder Durchblutungsstörungen im Gehirn, dürfen Diclofenac nicht einnehmen."
+    ],
+    0.9033030867576599
+  ],
+  [
+    [
+      40,
+      43
+    ],
+    [
+      "Sie sind schwanger?",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.13661688566207886
+  ],
+  [
+    [
+      41,
+      43
+    ],
+    [
+      "Dann gelten besondere Regeln:",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.0650806576013565
+  ],
+  [
+    [
+      42,
+      43
+    ],
+    [
+      "Bis zum siebten Monat sollten Sie Diclofenac nur nach Absprache mit Ihrem Arzt einnehmen .",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.02723446860909462
+  ],
+  [
+    [
+      43,
+      43
+    ],
+    [
+      "Ab dem siebten Monat dürfen Sie Diclofenac nicht mehr nehmen.",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.005379003006964922
+  ],
+  [
+    [
+      44,
+      43
+    ],
+    [
+      "Sie möchten noch mehr über Diclofenac lesen?",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.005545764230191708
+  ],
+  [
+    [
+      46,
+      43
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.11209903657436371
+  ],
+  [
+    [
+      47,
+      43
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Im letzten Drittel der Schwangerschaft ist die Einnahme des Arzneistoffs tabu."
+    ],
+    0.05485180765390396
+  ]
+]

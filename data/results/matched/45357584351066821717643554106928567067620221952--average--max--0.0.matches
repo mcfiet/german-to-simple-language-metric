@@ -1,0 +1,695 @@
+[
+  [
+    [
+      0,
+      6
+    ],
+    [
+      "Sie brauchen eine Geburts-Urkunde?",
+      "Geburtsurkunde/"
+    ],
+    0.3255612850189209
+  ],
+  [
+    [
+      1,
+      11
+    ],
+    [
+      "Oder eine Ehe-Urkunde?",
+      "Eheurkunde/"
+    ],
+    0.37361910939216614
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Oder eine Lebens-Partnerschafts-Urkunde?",
+      "Sie benötigen eine Geburtsurkunde Eheurkunde Lebenspartnerschaftsurkunde Sterbeurkunde oder eine Abschrift aus dem jeweiligen Register?"
+    ],
+    0.1256215125322342
+  ],
+  [
+    [
+      3,
+      19
+    ],
+    [
+      "Oder eine Sterbe-Urkunde?",
+      "Sterbeurkunde"
+    ],
+    0.3939126133918762
+  ],
+  [
+    [
+      4,
+      34
+    ],
+    [
+      "Diese Urkunden können Sie von uns bekommen.",
+      "Diese können Sie sich auch per Fax zusenden lassen."
+    ],
+    0.24249885976314545
+  ],
+  [
+    [
+      5,
+      22
+    ],
+    [
+      "Sie können nach einer Urkunde fragen: am Telefon mit einem Brief mit einer E-Mail.",
+      "Terminvereinbarung"
+    ],
+    0.20359322428703308
+  ],
+  [
+    [
+      6,
+      25
+    ],
+    [
+      "Sie können Urkunden aber auch im Internet bestellen.",
+      "Gebühren"
+    ],
+    0.27686789631843567
+  ],
+  [
+    [
+      7,
+      22
+    ],
+    [
+      "Dazu können Sie unseren Urkunden- Service nutzen.",
+      "Terminvereinbarung"
+    ],
+    0.29319173097610474
+  ],
+  [
+    [
+      8,
+      33
+    ],
+    [
+      "Dafür klicken Sie auf den Link zu der Urkunde, die Sie haben wollen.",
+      "Hierzu erhalten Sie nach Ihrer Bestellung eine schriftliche Zahlungsaufforderung."
+    ],
+    0.18434666097164154
+  ],
+  [
+    [
+      9,
+      25
+    ],
+    [
+      "Über den Link kommen Sie auf den Antrag, mit dem Sie die Urkunde bestellen können.",
+      "Gebühren"
+    ],
+    0.19564896821975708
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Der Antrag ist in schwerer Sprache.",
+      "Geburtsurkunde/"
+    ],
+    0.13656912744045258
+  ],
+  [
+    [
+      11,
+      34
+    ],
+    [
+      "Wenn Sie beim Ausfüllen Hilfe brauchen oder etwas nicht verstehen, fragen Sie jemanden danach.",
+      "Diese können Sie sich auch per Fax zusenden lassen."
+    ],
+    0.22898012399673462
+  ],
+  [
+    [
+      12,
+      22
+    ],
+    [
+      "Der Antrag besteht aus mehreren Seiten, die Sie nacheinander ausfüllen.",
+      "Terminvereinbarung"
+    ],
+    0.1988314837217331
+  ],
+  [
+    [
+      13,
+      22
+    ],
+    [
+      "Am Ende schicken Sie den Antrag ab.",
+      "Terminvereinbarung"
+    ],
+    0.16913314163684845
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Geburts-Urkunde",
+      "Geburtsurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      15,
+      22
+    ],
+    [
+      "Eine Geburts-Urkunde brauchen Sie zum Beispiel, wenn Sie eine Ehe oder Lebens-Partnerschaft anmelden wollen, wenn Sie sich bei einer Firma bewerben und diese nach einer Geburts-Urkunde fragt, wenn Ihre Versicherung oder Bank nach Ihrer Geburts-Urkunde fragt.",
+      "Terminvereinbarung"
+    ],
+    0.22242973744869232
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Sie bekommen die Geburts-Urkunde beim Standes-Amt von dem Ort, wo Sie geboren wurden.",
+      "Geburtsurkunde/"
+    ],
+    0.19765491783618927
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Wenn Sie in Köln geboren wurden, bekommen Sie die Geburts-Urkunde also bei uns.",
+      "Geburtsurkunde/"
+    ],
+    0.16392527520656586
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Bei uns bekommen Sie Urkunden ab dem Geburts-Jahr 1912 .",
+      "Geburtsurkunde/"
+    ],
+    0.2010512799024582
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Ehe-Urkunde",
+      "Eheurkunde/"
+    ],
+    1.0
+  ],
+  [
+    [
+      20,
+      6
+    ],
+    [
+      "Eine Ehe-Urkunde bekommen Sie, wenn Sie geheiratet haben.",
+      "Geburtsurkunde/"
+    ],
+    0.2274470329284668
+  ],
+  [
+    [
+      21,
+      6
+    ],
+    [
+      "Sie bekommen die Ehe-Urkunde, wo Sie geheiratet haben.",
+      "Geburtsurkunde/"
+    ],
+    0.2215881049633026
+  ],
+  [
+    [
+      22,
+      22
+    ],
+    [
+      "Wenn Sie in Köln geheiratet haben, stellen wir Ihnen die Ehe-Urkunde aus.",
+      "Terminvereinbarung"
+    ],
+    0.17028595507144928
+  ],
+  [
+    [
+      23,
+      25
+    ],
+    [
+      "Sie haben in einer anderen Stadt oder einem anderen Land geheiratet?",
+      "Gebühren"
+    ],
+    0.1713017076253891
+  ],
+  [
+    [
+      24,
+      33
+    ],
+    [
+      "Dann können Sie von uns eine Kopie aus dem Ehe-Register bekommen.",
+      "Hierzu erhalten Sie nach Ihrer Bestellung eine schriftliche Zahlungsaufforderung."
+    ],
+    0.17825151979923248
+  ],
+  [
+    [
+      25,
+      22
+    ],
+    [
+      "Bei uns bekommen Sie nur Ehe-Urkunden von Ehen, die ab 1942 in Köln geschlossen wurden.",
+      "Terminvereinbarung"
+    ],
+    0.12080816179513931
+  ],
+  [
+    [
+      26,
+      22
+    ],
+    [
+      "Oder wenn wir für Ihre im Ausland geschlossene Ehe das Ehe-Register führen.",
+      "Terminvereinbarung"
+    ],
+    0.17250178754329681
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Das Ehe-Register hieß früher: Familienbuch.",
+      "Geburtsurkunde/"
+    ],
+    0.3019525706768036
+  ],
+  [
+    [
+      28,
+      15
+    ],
+    [
+      "Aus den früheren Familienbüchern können beglaubigte Ablichtungen gemacht werden.",
+      "Aus den früheren Familienbüchern können beglaubigte Ablichtungen gefertigt werden."
+    ],
+    0.20847287774085999
+  ],
+  [
+    [
+      29,
+      16
+    ],
+    [
+      "Lebens-Partnerschafts-Urkunde",
+      "Lebenspartnerschaftsurkunde/Abschrift aus dem Lebenspartnerschaftsregister"
+    ],
+    0.20000000298023224
+  ],
+  [
+    [
+      30,
+      33
+    ],
+    [
+      "Eine Lebens-Partnerschafts-Urkunde bekommen Sie, wenn Sie eine Lebens-Partnerschaft angemeldet haben.",
+      "Hierzu erhalten Sie nach Ihrer Bestellung eine schriftliche Zahlungsaufforderung."
+    ],
+    0.20944282412528992
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Eine Lebens-Partnerschaft ist, wenn Sie als Frau mit einer Frau zusammen leben.",
+      "Geburtsurkunde/"
+    ],
+    0.1404847353696823
+  ],
+  [
+    [
+      32,
+      34
+    ],
+    [
+      "Oder wenn Sie als Mann mit einem Mann zusammen leben.",
+      "Diese können Sie sich auch per Fax zusenden lassen."
+    ],
+    0.11848123371601105
+  ],
+  [
+    [
+      33,
+      6
+    ],
+    [
+      "Das schwere Wort dafür ist gleich-geschlechtliche Partnerschaft.",
+      "Geburtsurkunde/"
+    ],
+    0.09223433583974838
+  ],
+  [
+    [
+      34,
+      34
+    ],
+    [
+      "Wenn Sie später weitere Lebens-Partnerschafts-Urkunden brauchen, können Sie diese bei uns bestellen.",
+      "Diese können Sie sich auch per Fax zusenden lassen."
+    ],
+    0.23495852947235107
+  ],
+  [
+    [
+      35,
+      19
+    ],
+    [
+      "Sterbe-Urkunde",
+      "Sterbeurkunde"
+    ],
+    1.0
+  ],
+  [
+    [
+      36,
+      22
+    ],
+    [
+      "Eine Sterbe-Urkunde brauchen Sie, wenn Sie Ihr Erbe regeln wollen.",
+      "Terminvereinbarung"
+    ],
+    0.20663662254810333
+  ],
+  [
+    [
+      37,
+      25
+    ],
+    [
+      "wenn Sie eine Versicherung geerbt haben.",
+      "Gebühren"
+    ],
+    0.2076694518327713
+  ],
+  [
+    [
+      38,
+      25
+    ],
+    [
+      "Sie brauchen die Sterbe-Urkunde von der gestorbenen Person, um die Versicherung zu bekommen.",
+      "Gebühren"
+    ],
+    0.21728207170963287
+  ],
+  [
+    [
+      39,
+      19
+    ],
+    [
+      "Sie bekommen die Sterbe-Urkunde in dem Standes-Amt, die den Tod von der gestorbenen Person bescheinigt hat.",
+      "Sterbeurkunde"
+    ],
+    0.2253614068031311
+  ],
+  [
+    [
+      40,
+      22
+    ],
+    [
+      "Sie bekommen bei uns Sterbe-Urkunden ab 1992 .",
+      "Terminvereinbarung"
+    ],
+    0.21515816450119019
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "Was kostet eine Urkunde?",
+      "Eheurkunde/"
+    ],
+    0.2150847315788269
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "10 Euro für die 1. Urkunde.",
+      "Eheurkunde/"
+    ],
+    0.17679090797901154
+  ],
+  [
+    [
+      43,
+      25
+    ],
+    [
+      "5 Euro für jede weitere Urkunde der gleichen Art.",
+      "Gebühren"
+    ],
+    0.1827961951494217
+  ],
+  [
+    [
+      44,
+      25
+    ],
+    [
+      "15 Euro kosten 2 gleiche Urkunden.",
+      "Gebühren"
+    ],
+    0.24160069227218628
+  ],
+  [
+    [
+      45,
+      25
+    ],
+    [
+      "20 Euro kosten 2 Urkunden unterschiedlicher Art.",
+      "Gebühren"
+    ],
+    0.23820734024047852
+  ],
+  [
+    [
+      46,
+      25
+    ],
+    [
+      "Urkunden können Sie mit Bargeld bezahlen.",
+      "Gebühren"
+    ],
+    0.34750503301620483
+  ],
+  [
+    [
+      47,
+      25
+    ],
+    [
+      "Das heißt, Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Gebühren"
+    ],
+    0.23995578289031982
+  ],
+  [
+    [
+      48,
+      25
+    ],
+    [
+      "Sie können auch mit Ihrer EC -Karte bezahlen.",
+      "Gebühren"
+    ],
+    0.2477448731660843
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Eine EC -Karte ist eine Karte aus Plastik.",
+      "Abschrift aus dem Geburtenregister Sie benötigen eine Geburtsurkunde oder eine Abschrift aus dem Geburtsregister beispielsweise für eine Bewerbung, Versicherung oder Bank?"
+    ],
+    0.11008010059595108
+  ],
+  [
+    [
+      50,
+      25
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Gebühren"
+    ],
+    0.20644748210906982
+  ],
+  [
+    [
+      51,
+      25
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Gebühren"
+    ],
+    0.3560907244682312
+  ],
+  [
+    [
+      52,
+      25
+    ],
+    [
+      "Und Sie können damit Geld an einem Automaten abheben.",
+      "Gebühren"
+    ],
+    0.23675470054149628
+  ],
+  [
+    [
+      53,
+      33
+    ],
+    [
+      "Dazu geben Sie Ihre Geheim-Nummer in ein Gerät ein.",
+      "Hierzu erhalten Sie nach Ihrer Bestellung eine schriftliche Zahlungsaufforderung."
+    ],
+    0.16820944845676422
+  ],
+  [
+    [
+      54,
+      6
+    ],
+    [
+      "Diese Geheim-Nummer heißt PIN .",
+      "Geburtsurkunde/"
+    ],
+    0.2162495255470276
+  ],
+  [
+    [
+      55,
+      25
+    ],
+    [
+      "Das Geld wird dann von Ihrem Bank-Konto abgebucht.",
+      "Gebühren"
+    ],
+    0.2204243391752243
+  ],
+  [
+    [
+      56,
+      6
+    ],
+    [
+      "Was ist, wenn ich im Ausland bin und eine Urkunde brauche?",
+      "Geburtsurkunde/"
+    ],
+    0.11738286912441254
+  ],
+  [
+    [
+      57,
+      22
+    ],
+    [
+      "Auch dann können Sie eine Urkunde bei uns bestellen.",
+      "Terminvereinbarung"
+    ],
+    0.2506181299686432
+  ],
+  [
+    [
+      58,
+      22
+    ],
+    [
+      "Wenn wir Ihre Bestellung erhalten und bearbeitet haben, schicken wir Ihnen eine Rechnung.",
+      "Terminvereinbarung"
+    ],
+    0.2890406548976898
+  ],
+  [
+    [
+      59,
+      25
+    ],
+    [
+      "Diese müssen Sie bezahlen.",
+      "Gebühren"
+    ],
+    0.33462655544281006
+  ],
+  [
+    [
+      60,
+      25
+    ],
+    [
+      "Wenn das Geld auf unserem Bank-Konto angekommen ist, schicken wir Ihnen die Urkunde mit der Post.",
+      "Gebühren"
+    ],
+    0.1700240969657898
+  ],
+  [
+    [
+      61,
+      22
+    ],
+    [
+      "Weitere Infos *",
+      "Terminvereinbarung"
+    ],
+    0.2747858762741089
+  ],
+  [
+    [
+      62,
+      22
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Terminvereinbarung"
+    ],
+    0.139855295419693
+  ]
+]

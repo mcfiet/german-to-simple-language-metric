@@ -1,0 +1,486 @@
+[
+  [
+    [
+      0,
+      2
+    ],
+    [
+      "Sie haben Ihren Führerschein frei-willig abgegeben?",
+      "Benötigt werden"
+    ],
+    0.20721574127674103
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Oder Drogen genommen haben.",
+      "Benötigt werden"
+    ],
+    0.21775075793266296
+  ],
+  [
+    [
+      12,
+      27
+    ],
+    [
+      "Sie müssen nichts dafür tun.",
+      "Online-Schulungen können wir nicht anerkennen."
+    ],
+    0.2738705575466156
+  ],
+  [
+    [
+      15,
+      46
+    ],
+    [
+      "Sie müssen dann einen Antrag beim Amt stellen, wenn Sie den Führerschein wieder haben wollen.",
+      "Zuständigkeit"
+    ],
+    0.19381777942180634
+  ],
+  [
+    [
+      16,
+      50
+    ],
+    [
+      "Und Sie müssen verschiedene Papiere zeigen.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.26515474915504456
+  ],
+  [
+    [
+      18,
+      50
+    ],
+    [
+      "Diese Papiere brauchen Sie immer :",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.2824247181415558
+  ],
+  [
+    [
+      30,
+      50
+    ],
+    [
+      "Bitte befolgen Sie die Regeln.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.2868915796279907
+  ],
+  [
+    [
+      32,
+      50
+    ],
+    [
+      "Sie können auch in einem Foto-Laden nachfragen.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.24551953375339508
+  ],
+  [
+    [
+      33,
+      50
+    ],
+    [
+      "Und Pass-Fotos machen lassen.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.2089763879776001
+  ],
+  [
+    [
+      41,
+      50
+    ],
+    [
+      "Wenn Sie alle Einheiten gemacht haben, dann bekommen Sie einen Nachweis .",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.23387916386127472
+  ],
+  [
+    [
+      47,
+      50
+    ],
+    [
+      "Hier können Sie die Erste-Hilfe-Kurse machen:",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.25958171486854553
+  ],
+  [
+    [
+      53,
+      50
+    ],
+    [
+      "Hinweis: Sie brauchen keinen neuen Nachweis , wenn Sie schon einen Erste-Hilfe-Kurs gemacht haben.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.20546865463256836
+  ],
+  [
+    [
+      64,
+      50
+    ],
+    [
+      "Sie",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.3722667694091797
+  ],
+  [
+    [
+      72,
+      50
+    ],
+    [
+      "Hier können Sie den Seh-Test machen:",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.2532113194465637
+  ],
+  [
+    [
+      89,
+      50
+    ],
+    [
+      "Zum Beispiel: Wie gut Sie reagieren können.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.21124666929244995
+  ],
+  [
+    [
+      90,
+      50
+    ],
+    [
+      "Wie gut Sie sich orientieren können.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.24149401485919952
+  ],
+  [
+    [
+      91,
+      50
+    ],
+    [
+      "Wie gut Sie sich konzentrieren können.",
+      "Wichtige Änderungen finden Sie hier:"
+    ],
+    0.23940066993236542
+  ],
+  [
+    [
+      92,
+      52
+    ],
+    [
+      "Achtung: 1. Sie brauchen diesen Nachweis nur für Busse .",
+      "Gebühren"
+    ],
+    0.23627158999443054
+  ],
+  [
+    [
+      93,
+      52
+    ],
+    [
+      "2. Sie können den Test nur bei bestimmten Stellen machen.",
+      "Gebühren"
+    ],
+    0.21749581396579742
+  ],
+  [
+    [
+      95,
+      52
+    ],
+    [
+      "Miet-Wagen-Unternehmen",
+      "Gebühren"
+    ],
+    0.5138877630233765
+  ],
+  [
+    [
+      106,
+      52
+    ],
+    [
+      "Für die Fehler im Verkehr bekommen Sie Punkte .",
+      "Gebühren"
+    ],
+    0.19740928709506989
+  ],
+  [
+    [
+      107,
+      52
+    ],
+    [
+      "Wenn Sie 8 Punkte haben, müssen Sie den Führerschein abgeben.",
+      "Gebühren"
+    ],
+    0.21305729448795319
+  ],
+  [
+    [
+      110,
+      52
+    ],
+    [
+      "Wenn Sie den Führerschein aus anderen Gründen abgeben mussten, dann gibt es keine besonderen Fristen für den Antrag.",
+      "Gebühren"
+    ],
+    0.24044720828533173
+  ],
+  [
+    [
+      111,
+      52
+    ],
+    [
+      "Dann können Sie den Antrag sofort stellen .",
+      "Gebühren"
+    ],
+    0.23605936765670776
+  ],
+  [
+    [
+      117,
+      52
+    ],
+    [
+      "Wir können erst entscheiden, ob Sie eine MPU machen müssen, wenn wir alle nötigen Papiere für den Antrag von Ihnen haben.",
+      "Gebühren"
+    ],
+    0.22177916765213013
+  ],
+  [
+    [
+      118,
+      52
+    ],
+    [
+      "Sie müssen eine MPU machen:",
+      "Gebühren"
+    ],
+    0.21553778648376465
+  ],
+  [
+    [
+      134,
+      52
+    ],
+    [
+      "Aber wenn Sie einen neuen Führer-Schein bekommen, bekommen Sie jetzt immer den EU -Führer-Schein .",
+      "Gebühren"
+    ],
+    0.21387924253940582
+  ],
+  [
+    [
+      138,
+      52
+    ],
+    [
+      "Die Adresse finden Sie unter der Überschrift:",
+      "Gebühren"
+    ],
+    0.18860462307929993
+  ],
+  [
+    [
+      141,
+      52
+    ],
+    [
+      "Sie müssen bis zu 256 Euro bezahlen.",
+      "Gebühren"
+    ],
+    0.24284502863883972
+  ],
+  [
+    [
+      143,
+      52
+    ],
+    [
+      "Manchmal müssen Sie mehr Geld bezahlen.",
+      "Gebühren"
+    ],
+    0.31240808963775635
+  ],
+  [
+    [
+      145,
+      52
+    ],
+    [
+      "Dann müssen Sie zusätzlich 28,60 Euro bezahlen.",
+      "Gebühren"
+    ],
+    0.29162877798080444
+  ],
+  [
+    [
+      146,
+      52
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Gebühren"
+    ],
+    0.3344717025756836
+  ],
+  [
+    [
+      147,
+      52
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Gebühren"
+    ],
+    0.23995578289031982
+  ],
+  [
+    [
+      148,
+      52
+    ],
+    [
+      "Oder Sie können mit Ihrer EC -Karte bezahlen.",
+      "Gebühren"
+    ],
+    0.21349960565567017
+  ],
+  [
+    [
+      150,
+      52
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Gebühren"
+    ],
+    0.20644748210906982
+  ],
+  [
+    [
+      151,
+      52
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Gebühren"
+    ],
+    0.3560907244682312
+  ],
+  [
+    [
+      153,
+      52
+    ],
+    [
+      "Die Gesetze zum Führer-Schein stehen in der Fahr-Erlaubnis-Verordnung .",
+      "Gebühren"
+    ],
+    0.19629605114459991
+  ],
+  [
+    [
+      160,
+      52
+    ],
+    [
+      "Öffnungs-Zeiten",
+      "Gebühren"
+    ],
+    0.49250245094299316
+  ],
+  [
+    [
+      162,
+      52
+    ],
+    [
+      "Sie können auch einen Termin machen.",
+      "Gebühren"
+    ],
+    0.2627897560596466
+  ],
+  [
+    [
+      172,
+      52
+    ],
+    [
+      "Es gibt Behinderten-Park-Plätze .",
+      "Gebühren"
+    ],
+    0.20511525869369507
+  ],
+  [
+    [
+      173,
+      57
+    ],
+    [
+      "Es gibt Aufzüge für Rollstuhl-Fahrer und Fahrerinnen.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.20266875624656677
+  ],
+  [
+    [
+      174,
+      57
+    ],
+    [
+      "Es gibt Hilfen für Blinde und Seh-Behinderte .",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.22493845224380493
+  ],
+  [
+    [
+      183,
+      57
+    ],
+    [
+      "Bus-Linie 159 Halte-Stellen:",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.1839541345834732
+  ],
+  [
+    [
+      191,
+      57
+    ],
+    [
+      "Weitere Informationen *",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.4343814253807068
+  ]
+]

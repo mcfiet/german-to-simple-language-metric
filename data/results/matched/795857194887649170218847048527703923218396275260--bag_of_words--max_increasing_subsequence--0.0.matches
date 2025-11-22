@@ -1,0 +1,860 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben ein Auto oder Motorrad in Köln, aber Sie haben keinen privaten Park-Platz ?",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.6254976987838745
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "In Köln gibt es besondere Park-Gebiete.",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.017840852960944176
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dort können Bewohner und Bewohnerinnen mit einem Park-Ausweis parken.",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.011507200077176094
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Das schwere Wort dafür ist: Bewohner-Park-Gebiet .",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.23264510929584503
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Wenn Sie in einem Bewohner-Park-Gebiet in Köln wohnen, dann können Sie einen Bewohner-Park-Ausweis beantragen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8361706733703613
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Damit können Sie im Bewohner-Park-Gebiet parken ohne jedes Mal bezahlen zu müssen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7283838391304016
+  ],
+  [
+    [
+      6,
+      11
+    ],
+    [
+      "Hier können Sie prüfen, ob Sie in einem Bewohner-Park-Gebiet wohnen:",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9175487160682678
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "Sie müssen persönlich zu uns ins Kunden-Zentrum kommen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7671769857406616
+  ],
+  [
+    [
+      10,
+      11
+    ],
+    [
+      "Klicken Sie auf ein Kunden-Zentrum in Ihrer Nähe.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9061406254768372
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Dann finden Sie mehr Informationen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9403756856918335
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Wenn Sie Ihr Auto beim Amt anmelden, dann bekommen Sie die Zulassungs-Bescheinigung Teil 1. Sie gilt als Nachweis für das Anmelden.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9326800107955933
+  ],
+  [
+    [
+      18,
+      11
+    ],
+    [
+      "Manchmal müssen Sie uns weitere Papiere zeigen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7812508344650269
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Zum Beispiel: Ihren Bewohner-Park-Ausweis Wenn wir Ihren Bewohner-Park-Ausweis ändern sollen, dann müssen Sie Ihren Bewohner-Park-Ausweis mitbringen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.38347163796424866
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Der Fahrer oder die Fahrerin ist nicht immer der Halter oder die Halterin.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.0009214578894898295
+  ],
+  [
+    [
+      25,
+      11
+    ],
+    [
+      "Wenn der Halter oder die Halterin nicht den Antrag stellt, dann müssen Sie uns die Erlaubnis zeigen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.48639896512031555
+  ],
+  [
+    [
+      26,
+      11
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.701661229133606
+  ],
+  [
+    [
+      31,
+      11
+    ],
+    [
+      "Diese Erlaubnis müssen Sie uns zeigen, wenn das Fahrzeug einer anderen Person gehört und Sie es privat in Ihrer Freizeit nutzen dürfen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.763947606086731
+  ],
+  [
+    [
+      32,
+      11
+    ],
+    [
+      "Die Erlaubnis können Sie hier herunter laden .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6801034808158875
+  ],
+  [
+    [
+      33,
+      11
+    ],
+    [
+      "Sie können die Erlaubnis am Computer ausfüllen .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6693999171257019
+  ],
+  [
+    [
+      34,
+      11
+    ],
+    [
+      "Dann müssen Sie die Erlaubnis ausdrucken.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6689296960830688
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "Bitte bringen Sie die Erlaubnis mit ins Kunden-Zentrum.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.675346851348877
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Wenn Sie Ihren Park-Ausweis beantragen oder abholen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.2938253581523895
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "Wichtig: Sie müssen uns dann auch den Ausweis zeigen vom Halter oder von der Halterin.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5841508507728577
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "Die Erlaubnis müssen Sie uns zeigen, wenn Sie das Fahrzeug für die Arbeit nutzen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7454895973205566
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Und die Firma Ihnen erlaubt hat, dass Sie es auch privat in Ihrer Freizeit nutzen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8379021883010864
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Die Erlaubnis können Sie hier herunter laden .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6801034808158875
+  ],
+  [
+    [
+      44,
+      11
+    ],
+    [
+      "Sie können die Erlaubnis am Computer ausfüllen .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6693999171257019
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Dann müssen Sie die Erlaubnis ausdrucken.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6689296960830688
+  ],
+  [
+    [
+      46,
+      11
+    ],
+    [
+      "Der Firmen-Inhaber muss sie unterschreiben.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.908940315246582
+  ],
+  [
+    [
+      48,
+      11
+    ],
+    [
+      "Wichtig: Bitte bringen Sie die Erlaubnis mit ins Kunden-Zentrum.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6735538840293884
+  ],
+  [
+    [
+      49,
+      11
+    ],
+    [
+      "Wenn Sie Ihren Park-Ausweis beantragen oder abholen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.2938253581523895
+  ],
+  [
+    [
+      57,
+      11
+    ],
+    [
+      "Wenn sich 2 oder mehr Personen ein Fahrzeug teilen, die in unterschiedlichen Bewohner-Park-Gebieten leben, können Sie für jedes Bewohner-Park-Gebiet einen Bewohner-Park-Ausweis bekommen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5451599359512329
+  ],
+  [
+    [
+      58,
+      11
+    ],
+    [
+      "Sie brauchen dazu 1 Kopie von Ihrer gültigen Fahr-Erlaubnis .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9076963067054749
+  ],
+  [
+    [
+      59,
+      11
+    ],
+    [
+      "Und Sie brauchen 2 Bestätigungen :",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9261021018028259
+  ],
+  [
+    [
+      60,
+      11
+    ],
+    [
+      "Wichtig: Wir haben die 2 Vordrucke für Sie vorbereitet .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7999019026756287
+  ],
+  [
+    [
+      61,
+      11
+    ],
+    [
+      "Sie können die Vordrucke im Internet ausfüllen .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.801109790802002
+  ],
+  [
+    [
+      62,
+      11
+    ],
+    [
+      "Dann müssen Sie die Vordrucke ausdrucken .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7812743186950684
+  ],
+  [
+    [
+      63,
+      11
+    ],
+    [
+      "Dann müssen Sie die Vordrucke unterschreiben .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7785736322402954
+  ],
+  [
+    [
+      64,
+      11
+    ],
+    [
+      "Dann müssen Sie die Vordrucke im Amt abgeben .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7749772667884827
+  ],
+  [
+    [
+      70,
+      11
+    ],
+    [
+      "Sie können den Park-Ausweis für Ihr Auto nutzen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.29692667722702026
+  ],
+  [
+    [
+      71,
+      11
+    ],
+    [
+      "Und Sie können den Park-Ausweis für Ihr Motorrad nutzen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.29682299494743347
+  ],
+  [
+    [
+      72,
+      11
+    ],
+    [
+      "Sie können den Park-Ausweis manchmal auch für Ihr Wohn-Mobil nutzen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.2969309985637665
+  ],
+  [
+    [
+      74,
+      11
+    ],
+    [
+      "Mehr Informationen dazu bekommen Sie im Kunden-Zentrum.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8986896872520447
+  ],
+  [
+    [
+      81,
+      11
+    ],
+    [
+      "Sie können Ihren Park-Ausweis online beantragen .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.2981748878955841
+  ],
+  [
+    [
+      83,
+      11
+    ],
+    [
+      "Sie können das am Computer machen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8711152076721191
+  ],
+  [
+    [
+      84,
+      11
+    ],
+    [
+      "Sie können Ihren Park-Ausweis auch online ändern .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.29833391308784485
+  ],
+  [
+    [
+      85,
+      11
+    ],
+    [
+      "Sie können den Park-Ausweis aber nicht online verlängern .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.298343300819397
+  ],
+  [
+    [
+      86,
+      11
+    ],
+    [
+      "Wenn Sie uns das Formular für den Ausweis schicken, dann bearbeiten wir Ihren Antrag.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6375438570976257
+  ],
+  [
+    [
+      89,
+      11
+    ],
+    [
+      "In dem Brief steht: Wann Sie den Ausweis abholen können.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7342584133148193
+  ],
+  [
+    [
+      90,
+      11
+    ],
+    [
+      "Welche Papiere Sie beim Abholen mitbringen müssen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.855697751045227
+  ],
+  [
+    [
+      91,
+      11
+    ],
+    [
+      "Bitte warten Sie diesen Brief ab.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.932208776473999
+  ],
+  [
+    [
+      92,
+      11
+    ],
+    [
+      "Bitte bezahlen Sie die Gebühren , wenn Sie den Ausweis bei uns abholen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8449192047119141
+  ],
+  [
+    [
+      93,
+      11
+    ],
+    [
+      "Wichtig: Wenn Sie im Antrag mehrere Fahrzeuge aufschreiben, bekommen Sie einen Park-Ausweis für mehrere Fahrzeuge.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5098563432693481
+  ],
+  [
+    [
+      96,
+      11
+    ],
+    [
+      "Sie müssen keinen neuen Antrag stellen, um den Park-Ausweis zu verlängern.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.2971251606941223
+  ],
+  [
+    [
+      97,
+      11
+    ],
+    [
+      "Wenn Sie schon einen Park-Ausweis haben, bekommen Sie einen Brief von uns.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5170411467552185
+  ],
+  [
+    [
+      99,
+      11
+    ],
+    [
+      "Wenn Sie uns Ihre E-Mail-Adresse geben, schreiben wir Ihnen gerne auch eine E-Mail .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7626678943634033
+  ],
+  [
+    [
+      103,
+      11
+    ],
+    [
+      "Schreiben Sie die Nummer bitte auf die Überweisung, wenn Sie den neuen Park-Ausweis bezahlen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5133250951766968
+  ],
+  [
+    [
+      104,
+      11
+    ],
+    [
+      "Wenn Sie das Geld überweisen , dann schicken wir Ihnen den neuen Park-Ausweis mit der Post .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.29332995414733887
+  ],
+  [
+    [
+      105,
+      11
+    ],
+    [
+      "Melden Sie sich bitte bei einem Kunden-Zentrum: Wenn Sie noch keine Nachricht von uns haben und Ihr Park-Ausweis in 1 Monat abläuft .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5150659084320068
+  ],
+  [
+    [
+      106,
+      11
+    ],
+    [
+      "Oder wenn Sie das Geld nicht rechtzeitig überwiesen haben und kurzfristig einen neuen Park-Ausweis brauchen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.2948388457298279
+  ],
+  [
+    [
+      116,
+      11
+    ],
+    [
+      "Weil sie zu viele Abgase haben.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9466347694396973
+  ],
+  [
+    [
+      117,
+      11
+    ],
+    [
+      "Und sie der Umwelt schaden.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9374509453773499
+  ],
+  [
+    [
+      118,
+      11
+    ],
+    [
+      "Sie können nur in der Umwelt-Zone fahren und parken , wenn Sie eine grüne Plakette haben.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.867829442024231
+  ],
+  [
+    [
+      119,
+      11
+    ],
+    [
+      "Dann können Sie einen Park-Ausweis für die Umwelt-Zone bekommen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.292172372341156
+  ],
+  [
+    [
+      123,
+      11
+    ],
+    [
+      "Sie können den Antrag für den Ausweis am Computer schicken, aber Sie müssen den Park-Ausweis persönlich abholen .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.5022535920143127
+  ],
+  [
+    [
+      124,
+      11
+    ],
+    [
+      "Sie bekommen den Bewohner-Park-Ausweis sofort, wenn Sie persönlich vorsprechen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8784255981445312
+  ],
+  [
+    [
+      125,
+      11
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8672163486480713
+  ],
+  [
+    [
+      128,
+      11
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.9623720645904541
+  ],
+  [
+    [
+      129,
+      11
+    ],
+    [
+      "Sie müssen die Vollmacht unterschreiben.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8332381844520569
+  ],
+  [
+    [
+      139,
+      11
+    ],
+    [
+      "Zum Beispiel: Wenn Sie in ein anderes Bewohner-Park-Gebiet umziehen .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7632253766059875
+  ],
+  [
+    [
+      140,
+      11
+    ],
+    [
+      "Oder wenn Sie sich ein neues Fahrzeug gekauft haben und Sie ein neues Kennzeichen haben.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.856926441192627
+  ],
+  [
+    [
+      142,
+      11
+    ],
+    [
+      "Zum Beispiel: Wenn Sie einen neuen Park-Ausweis brauchen, weil Sie den alten Park-Ausweis verloren haben.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.30058974027633667
+  ],
+  [
+    [
+      143,
+      11
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8815935850143433
+  ],
+  [
+    [
+      144,
+      11
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8583263158798218
+  ],
+  [
+    [
+      145,
+      11
+    ],
+    [
+      "Oder Sie können mit Ihrer EC-Karte bezahlen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8550982475280762
+  ],
+  [
+    [
+      147,
+      11
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.87319016456604
+  ],
+  [
+    [
+      148,
+      11
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8820356726646423
+  ],
+  [
+    [
+      149,
+      73
+    ],
+    [
+      "Weitere Informationen *",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.09481240808963776
+  ]
+]

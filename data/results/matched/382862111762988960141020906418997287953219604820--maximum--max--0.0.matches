@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      39
+    ],
+    [
+      "Eine akute Bronchitis ist eine Erkrankung der Atemwege.",
+      "Eine Bronchitis ist eine Entzündung der unteren Atemwege."
+    ],
+    0.9018601775169373
+  ],
+  [
+    [
+      1,
+      44
+    ],
+    [
+      "Bei einer akuten Bronchitis ist die Schleimhaut in den Bronchien entzündet.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.6829873919487
+  ],
+  [
+    [
+      2,
+      28
+    ],
+    [
+      "Eine Bronchitis kann akut sein.",
+      "Eine akute Bronchitis kann in die chronische Form übergehen."
+    ],
+    0.7070711851119995
+  ],
+  [
+    [
+      3,
+      99
+    ],
+    [
+      "Dann heilt sie oft von selbst.",
+      "Normalerweise heilt eine solche Bronchitis jedoch von selbst ab, ein Antibiotikum ist nicht nötig."
+    ],
+    0.6448273658752441
+  ],
+  [
+    [
+      4,
+      8
+    ],
+    [
+      "Eine akute Bronchitis dauert etwa zwei Wochen.",
+      "Tritt eine akute Bronchitis im Rahmen einer üblichen Erkältung bei sonst Gesunden auf, heilt sie normalerweise innerhalb von rund zwei Wochen aus."
+    ],
+    0.6334509253501892
+  ],
+  [
+    [
+      5,
+      47
+    ],
+    [
+      "Hinweis: Akute Bronchitis ist oft ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.8066473603248596
+  ],
+  [
+    [
+      6,
+      65
+    ],
+    [
+      "Eine Bronchitis kann aber auch chronisch sein ( chronische Bronchitis ).",
+      "So kann Luftverschmutzung durch Feinstaub, Abgase oder Tabakrauch oder auch eine chronische Bronchien- oder Lungenerkrankung (chronische Bronchitis, Mukoviszidose ) die akute Bronchitis begünstigen."
+    ],
+    0.7265398502349854
+  ],
+  [
+    [
+      7,
+      78
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "Des Weiteren überprüft der Arzt, ob möglicherweise eine Lungenentzündung, (allergisches) Asthma und bei länger bestehender Symptomatik eine chronische Bronchitis vorliegt."
+    ],
+    0.5385063290596008
+  ],
+  [
+    [
+      8,
+      19
+    ],
+    [
+      "Chronische Entzündungen kommen oft wieder.",
+      "Zu schweren Folgeerkrankungen kommt es nur selten."
+    ],
+    0.6120406985282898
+  ],
+  [
+    [
+      9,
+      39
+    ],
+    [
+      "Das wichtigste Anzeichen für eine akute Bronchitis ist der typische Husten .",
+      "Eine Bronchitis ist eine Entzündung der unteren Atemwege."
+    ],
+    0.7284417748451233
+  ],
+  [
+    [
+      10,
+      90
+    ],
+    [
+      "Anfangs ist der Husten meist trocken.",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.6644630432128906
+  ],
+  [
+    [
+      11,
+      90
+    ],
+    [
+      "Nachts und morgens ist der Husten oft besonders schlimm:",
+      "Solange der Husten trocken ist und vor allem nachts quält, können hustenstillende Mittel den Hustenreiz dämpfen."
+    ],
+    0.6884487867355347
+  ],
+  [
+    [
+      12,
+      39
+    ],
+    [
+      "Eine betroffene Person hat beim Husten Schmerzen in der Brust.",
+      "Eine Bronchitis ist eine Entzündung der unteren Atemwege."
+    ],
+    0.6110413670539856
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Nach einigen Tagen bildet sich zäher Schleim in den Bronchien.",
+      "Nach einigen Tagen bildet sich in den Bronchien vermehrt Sekret."
+    ],
+    0.9089512825012207
+  ],
+  [
+    [
+      14,
+      69
+    ],
+    [
+      "Der Husten verändert sich:",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.6025335192680359
+  ],
+  [
+    [
+      15,
+      108
+    ],
+    [
+      "Er ist dann nicht mehr trocken.",
+      "Er kann einen Arztbesuch nicht ersetzen."
+    ],
+    0.5873022079467773
+  ],
+  [
+    [
+      16,
+      9
+    ],
+    [
+      "Der Husten ist dann schleimig.",
+      "Der Husten kann allerdings in einigen Fällen länger andauern."
+    ],
+    0.5808491110801697
+  ],
+  [
+    [
+      17,
+      0
+    ],
+    [
+      "Eine akute Bronchitis tritt oft zusammen mit einer Erkältung auf.",
+      "Häufig tritt eine akute Bronchitis im Rahmen einer Erkältung auf."
+    ],
+    0.8018898367881775
+  ],
+  [
+    [
+      18,
+      102
+    ],
+    [
+      "Zusätzlich zum Husten kommen dann häufig typische Beschwerden einer Erkältung hinzu wie zum Beispiel:",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.6473696827888489
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen Halsschmerzen",
+      "Dann kommt es zu Beginn meist zu typischen Erkältungsbeschwerden: Kopf- und Gliederschmerzen, Halsschmerzen , Heiserkeit und Schluckbeschwerden sowie Schnupfen und Abgeschlagenheit."
+    ],
+    0.7215077877044678
+  ],
+  [
+    [
+      20,
+      35
+    ],
+    [
+      "Schmerzen beim Schlucken",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.61656653881073
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Schnupfen",
+      "Dann kommt es zu Beginn meist zu typischen Erkältungsbeschwerden: Kopf- und Gliederschmerzen, Halsschmerzen , Heiserkeit und Schluckbeschwerden sowie Schnupfen und Abgeschlagenheit."
+    ],
+    0.680773138999939
+  ],
+  [
+    [
+      22,
+      82
+    ],
+    [
+      "Fieber",
+      "Körperliche Schonung, Sport vorübergehend pausieren, bei Fieber Bettruhe Nicht rauchen"
+    ],
+    0.6536201238632202
+  ],
+  [
+    [
+      23,
+      44
+    ],
+    [
+      "In den meisten Fällen sind Viren die Ursache für eine akute Bronchitis.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.874184787273407
+  ],
+  [
+    [
+      24,
+      102
+    ],
+    [
+      "Verschiedene Viren-Arten können eine akute Bronchitis auslösen wie zum Beispiel Grippe-Viren.",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.6482201814651489
+  ],
+  [
+    [
+      25,
+      54
+    ],
+    [
+      "Manchmal sind aber auch Bakterien die Ursache für eine akute Bronchitis.",
+      "Wesentlich seltener als Viren sind Bakterien die Ursache der akuten Bronchitis."
+    ],
+    0.7611745595932007
+  ],
+  [
+    [
+      26,
+      60
+    ],
+    [
+      "In seltenen Fällen verursachen Pilze die Bronchitis.",
+      "Sehr selten verursachen Pilze eine Bronchitis."
+    ],
+    0.7141395807266235
+  ],
+  [
+    [
+      27,
+      47
+    ],
+    [
+      "Eine akute Bronchitis ist häufig ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    1.0
+  ],
+  [
+    [
+      28,
+      68
+    ],
+    [
+      "Die Viren können sich leicht über den Speichel auf andere Menschen übertragen.",
+      "Auch Kälte kann sich ungünstig auf die Bronchien auswirken."
+    ],
+    0.5800358653068542
+  ],
+  [
+    [
+      29,
+      70
+    ],
+    [
+      "Sie haben eine akute Bronchitis?",
+      "Sie deuten meistens schon auf eine akute Bronchitis hin."
+    ],
+    0.7314506769180298
+  ],
+  [
+    [
+      30,
+      93
+    ],
+    [
+      "Dann sollten Sie diese Dinge vermeiden:",
+      "Löst sich der Husten, müssen Sie also Schleim abhusten, dann können eventuell schleimlösende Medikamente helfen."
+    ],
+    0.5788811445236206
+  ],
+  [
+    [
+      31,
+      35
+    ],
+    [
+      "Husten Sie andere Menschen nicht an.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6423439383506775
+  ],
+  [
+    [
+      32,
+      35
+    ],
+    [
+      "Niesen Sie andere Menschen nicht an.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.600349485874176
+  ],
+  [
+    [
+      33,
+      35
+    ],
+    [
+      "Küssen Sie andere Menschen nicht.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6156099438667297
+  ],
+  [
+    [
+      34,
+      35
+    ],
+    [
+      "Nutzen Sie eigene Tassen und eigenes Besteck.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5026609301567078
+  ],
+  [
+    [
+      35,
+      83
+    ],
+    [
+      "Waschen Sie regelmäßig Ihre Hände mit Seife.",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.5039393901824951
+  ],
+  [
+    [
+      36,
+      47
+    ],
+    [
+      "Für gesunde Menschen ist eine akute Bronchitis oft nicht gefährlich.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.786838710308075
+  ],
+  [
+    [
+      37,
+      80
+    ],
+    [
+      "Nur in seltenen Fällen müssen betroffene Menschen Medikamente nehmen.",
+      "Nur in manchen Fällen sind Antibiotika erforderlich."
+    ],
+    0.7234803438186646
+  ],
+  [
+    [
+      38,
+      99
+    ],
+    [
+      "Die Entzündung heilt meist von selbst.",
+      "Normalerweise heilt eine solche Bronchitis jedoch von selbst ab, ein Antibiotikum ist nicht nötig."
+    ],
+    0.6925902366638184
+  ],
+  [
+    [
+      39,
+      93
+    ],
+    [
+      "Aber Sie können die Heilung unterstützen.",
+      "Löst sich der Husten, müssen Sie also Schleim abhusten, dann können eventuell schleimlösende Medikamente helfen."
+    ],
+    0.625373899936676
+  ],
+  [
+    [
+      40,
+      35
+    ],
+    [
+      "Während der Erkrankung sollten Sie: sich schonen, keinen Sport machen, nicht rauchen und bei Fieber im Bett bleiben.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6417627334594727
+  ],
+  [
+    [
+      41,
+      35
+    ],
+    [
+      "Sie haben starke Beschwerden?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.726309061050415
+  ],
+  [
+    [
+      42,
+      35
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5765975117683411
+  ],
+  [
+    [
+      43,
+      69
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.5630467534065247
+  ],
+  [
+    [
+      44,
+      93
+    ],
+    [
+      "In der Apotheke bekommen Sie spezielle Hustenmittel.",
+      "Löst sich der Husten, müssen Sie also Schleim abhusten, dann können eventuell schleimlösende Medikamente helfen."
+    ],
+    0.5456025004386902
+  ],
+  [
+    [
+      45,
+      97
+    ],
+    [
+      "Lassen Sie sich vom Apotheker beraten.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.6102701425552368
+  ],
+  [
+    [
+      46,
+      39
+    ],
+    [
+      "Hinweis: Das Husten ist wichtig für die Heilung der Bronchitis.",
+      "Eine Bronchitis ist eine Entzündung der unteren Atemwege."
+    ],
+    0.6553042531013489
+  ],
+  [
+    [
+      47,
+      35
+    ],
+    [
+      "Nehmen Sie die Mittel gegen Husten deshalb nicht über längere Zeit ein.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.567074179649353
+  ],
+  [
+    [
+      48,
+      94
+    ],
+    [
+      "Sie können auch Mittel gegen den Schleim nehmen.",
+      "Sie sollen das Sekret verflüssigen beziehungsweise den Abtransport aus den Bronchien erleichtern"
+    ],
+    0.6322932243347168
+  ],
+  [
+    [
+      49,
+      72
+    ],
+    [
+      "Diese Mittel lösen den Schleim in den Bronchien.",
+      "Dabei hört er unter Umständen Atemgeräusche, die durch den Schleim in den Bronchien hervorgerufen werden."
+    ],
+    0.7007394433021545
+  ],
+  [
+    [
+      50,
+      93
+    ],
+    [
+      "So können Sie den Schleim leichter abhusten.",
+      "Löst sich der Husten, müssen Sie also Schleim abhusten, dann können eventuell schleimlösende Medikamente helfen."
+    ],
+    0.6572770476341248
+  ],
+  [
+    [
+      51,
+      109
+    ],
+    [
+      "Fragen",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.6473990678787231
+  ],
+  [
+    [
+      52,
+      97
+    ],
+    [
+      "Sie in der Apotheke",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.5613175630569458
+  ],
+  [
+    [
+      53,
+      35
+    ],
+    [
+      "nach einem passenden Hustenmittel oder fragen Sie Ihren Arzt",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6573106646537781
+  ],
+  [
+    [
+      55,
+      81
+    ],
+    [
+      "Sie können auch einfache Hausmittel gegen die Beschwerden nehmen:",
+      "Einfache Maßnahmen können den Verlauf einer akuten Bronchitis positiv beeinflussen und die Symptome lindern:"
+    ],
+    0.6299399137496948
+  ],
+  [
+    [
+      56,
+      83
+    ],
+    [
+      "Inhalieren Sie mehrmals am Tag mit Salzwasser.",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.5660780072212219
+  ],
+  [
+    [
+      57,
+      94
+    ],
+    [
+      "Das löst den Schleim und macht das Husten angenehmer.",
+      "Sie sollen das Sekret verflüssigen beziehungsweise den Abtransport aus den Bronchien erleichtern"
+    ],
+    0.6181668639183044
+  ],
+  [
+    [
+      58,
+      86
+    ],
+    [
+      "Trinken Sie viel Wasser oder Tee.",
+      "Ausreichend trinken – am besten Wasser und ungesüßte Tees."
+    ],
+    0.5538694858551025
+  ],
+  [
+    [
+      59,
+      94
+    ],
+    [
+      "Auch das löst den Schleim.",
+      "Sie sollen das Sekret verflüssigen beziehungsweise den Abtransport aus den Bronchien erleichtern"
+    ],
+    0.5917577743530273
+  ],
+  [
+    [
+      60,
+      7
+    ],
+    [
+      "Achtung: Sie haben eine Herzerkrankung?",
+      "Sie haben einen sogenannten produktiven Husten."
+    ],
+    0.5767723917961121
+  ],
+  [
+    [
+      61,
+      7
+    ],
+    [
+      "Oder Sie haben eine Nierenerkrankung?",
+      "Sie haben einen sogenannten produktiven Husten."
+    ],
+    0.5799325704574585
+  ],
+  [
+    [
+      62,
+      91
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht so viel trinken.",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.5850063562393188
+  ],
+  [
+    [
+      63,
+      97
+    ],
+    [
+      "Besprechen Sie die Trinkmenge deshalb mit Ihrem Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.7387136816978455
+  ],
+  [
+    [
+      64,
+      44
+    ],
+    [
+      "In den meisten Fällen heilt eine Bronchitis von selbst.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.7299749851226807
+  ],
+  [
+    [
+      65,
+      91
+    ],
+    [
+      "Aber manchmal kann eine Bronchitis auch gefährlich werden:",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.7042710185050964
+  ],
+  [
+    [
+      66,
+      35
+    ],
+    [
+      "Ihre Beschwerden werden auch nach mehreren Tagen nicht besser?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6911653280258179
+  ],
+  [
+    [
+      67,
+      35
+    ],
+    [
+      "Sie haben hohes Fieber?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6945281624794006
+  ],
+  [
+    [
+      68,
+      35
+    ],
+    [
+      "Sie schwitzen nachts stark?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5504748225212097
+  ],
+  [
+    [
+      69,
+      35
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6735058426856995
+  ],
+  [
+    [
+      70,
+      35
+    ],
+    [
+      "Sie keuchen oder pfeifen beim Atmen?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6943129897117615
+  ],
+  [
+    [
+      71,
+      35
+    ],
+    [
+      "Sie haben starke Husten-Anfälle?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7183292508125305
+  ],
+  [
+    [
+      72,
+      35
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5765975117683411
+  ],
+  [
+    [
+      73,
+      47
+    ],
+    [
+      "Achtung: Für manche Menschen ist eine akute Bronchitis immer gefährlich.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.7448343634605408
+  ],
+  [
+    [
+      74,
+      61
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel:",
+      "Sie betrifft in erster Linie Menschen mit einem geschwächten Immunsystem , zum Beispiel durch Blutkrebs oder AIDS."
+    ],
+    0.5644224882125854
+  ],
+  [
+    [
+      75,
+      102
+    ],
+    [
+      "Menschen mit einer zusätzlichen chronischen Erkrankung der Atemwege alte Menschen schwangere Frauen",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.6433291435241699
+  ],
+  [
+    [
+      76,
+      20
+    ],
+    [
+      "Menschen mit Immunschwäche",
+      "Ältere Menschen, starke Raucher, Patienten mit einem geschwächten Abwehrsystem oder chronischen Vorerkrankungen beispielsweise an Herz oder Lunge können betroffen sein."
+    ],
+    0.6799979209899902
+  ],
+  [
+    [
+      77,
+      25
+    ],
+    [
+      "Diese Personen sollten bei einer akuten Bronchitis immer zum Arzt gehen.",
+      "Vor allem Risikopatienten sollten daher darauf achten, eine akute Bronchitis nicht zu \"verschleppen\", sondern die Erkrankung auszukurieren und im Zweifel rasch den Arzt hinzuzuziehen."
+    ],
+    0.6253310441970825
+  ],
+  [
+    [
+      78,
+      70
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine akute Bronchitis?",
+      "Sie deuten meistens schon auf eine akute Bronchitis hin."
+    ],
+    0.7193037867546082
+  ],
+  [
+    [
+      79,
+      35
+    ],
+    [
+      "Und Sie haben sehr starke Beschwerden?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6771045327186584
+  ],
+  [
+    [
+      80,
+      35
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5765975117683411
+  ],
+  [
+    [
+      81,
+      69
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.5630467534065247
+  ],
+  [
+    [
+      82,
+      70
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bronchitis lesen?",
+      "Sie deuten meistens schon auf eine akute Bronchitis hin."
+    ],
+    0.6560133099555969
+  ],
+  [
+    [
+      83,
+      29
+    ],
+    [
+      "Mehr Informationen über akute Bronchitis finden Sie hier .",
+      "Mehr dazu können Sie hier nachlesen: Chronische Bronchitis ."
+    ],
+    0.7127198576927185
+  ],
+  [
+    [
+      84,
+      107
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wichtiger Hinweis: Dieser Artikel enthält nur allgemeine Hinweise und darf nicht zur Selbstdiagnose oder –behandlung verwendet werden."
+    ],
+    0.3926876485347748
+  ],
+  [
+    [
+      85,
+      109
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.6067572236061096
+  ]
+]

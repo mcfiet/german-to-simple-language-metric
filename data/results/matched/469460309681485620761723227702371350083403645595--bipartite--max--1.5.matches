@@ -1,0 +1,717 @@
+[
+  [
+    [
+      0,
+      35
+    ],
+    [
+      "Der Magen ist ein wichtiges Organ im oberen Bauch.",
+      "Magengeschwür"
+    ],
+    0.6834092140197754
+  ],
+  [
+    [
+      1,
+      32
+    ],
+    [
+      "Der Magen ist durch die Speiseröhre mit dem Mund verbunden.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      2,
+      32
+    ],
+    [
+      "Durch die Speiseröhre gelangt die Nahrung in den Magen.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      3,
+      37
+    ],
+    [
+      "Im Magen wird die Nahrung zerkleinert und durchmischt.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.7134920358657837
+  ],
+  [
+    [
+      4,
+      35
+    ],
+    [
+      "Dabei hilft der Magensaft.",
+      "Magengeschwür"
+    ],
+    0.6642702221870422
+  ],
+  [
+    [
+      5,
+      34
+    ],
+    [
+      "Der Magensaft wird von der Magenschleimhaut produziert.",
+      "Magenschleimhautentzündung"
+    ],
+    0.8772504925727844
+  ],
+  [
+    [
+      6,
+      32
+    ],
+    [
+      "Bei Sodbrennen gelangt Magensaft aus dem Magen in die Speiseröhre.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      7,
+      32
+    ],
+    [
+      "Betroffene Personen spüren ein unangenehmes Brennen in der Speiseröhre.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      8,
+      33
+    ],
+    [
+      "Dieses Brennen heißt: Sodbrennen.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      9,
+      33
+    ],
+    [
+      "Sodbrennen kann verschiedene Ursachen haben.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      10,
+      25
+    ],
+    [
+      "Zu den Ursachen von Sodbrennen gehören zum Beispiel: ein ungesunder Lebensstil Krankheiten Medikamente Schwangerschaft",
+      "Lebensstil"
+    ],
+    1.0
+  ],
+  [
+    [
+      11,
+      25
+    ],
+    [
+      "Ein ungesunder Lebensstil kann Sodbrennen verursachen.",
+      "Lebensstil"
+    ],
+    1.0
+  ],
+  [
+    [
+      12,
+      25
+    ],
+    [
+      "Zu einem ungesunden Lebensstil gehören: fettige und süße Gerichte Alkohol Rauchen starker Stress",
+      "Lebensstil"
+    ],
+    1.0
+  ],
+  [
+    [
+      13,
+      28
+    ],
+    [
+      "Übergewicht Getränke mit Koffein, zum Beispiel Kaffee Sodbrennen kann ein Anzeichen für einige Krankheiten sein.",
+      "Übergewicht"
+    ],
+    1.0
+  ],
+  [
+    [
+      14,
+      37
+    ],
+    [
+      "Zu diesen Krankheiten gehören zum Beispiel: Reflux-Krankheit.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.7946949005126953
+  ],
+  [
+    [
+      15,
+      34
+    ],
+    [
+      "Bei der Reflux-Krankheit gelangt Mageninhalt in die Speiseröhre.",
+      "Magenschleimhautentzündung"
+    ],
+    0.7906899452209473
+  ],
+  [
+    [
+      16,
+      34
+    ],
+    [
+      "Der Mageninhalt enthält Magensäure.",
+      "Magenschleimhautentzündung"
+    ],
+    0.7491651773452759
+  ],
+  [
+    [
+      17,
+      34
+    ],
+    [
+      "Die Magensäure kann die Speiseröhre reizen.",
+      "Magenschleimhautentzündung"
+    ],
+    0.7491651773452759
+  ],
+  [
+    [
+      18,
+      32
+    ],
+    [
+      "Dann kann sich die Speiseröhre entzünden.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      19,
+      29
+    ],
+    [
+      "Zwerchfellbruch.",
+      "Krankhafte Ursachen oder Folgeerkrankungen Gastroösophagealer Reflux – Refluxkrankheit Speiseröhrenentzündung (Ösophagitis) Zwerchfellbruch (Hiatushernie)"
+    ],
+    1.0
+  ],
+  [
+    [
+      20,
+      35
+    ],
+    [
+      "Bei einem Zwerchfellbruch dehnt sich der Magen in den Brustraum aus.",
+      "Magengeschwür"
+    ],
+    0.6834092140197754
+  ],
+  [
+    [
+      21,
+      33
+    ],
+    [
+      "Dann kann eine Person Sodbrennen bekommen.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      22,
+      30
+    ],
+    [
+      "Verkrampfung des Schließmuskels der Speiseröhre.",
+      "Verkrampfung des Schließmuskels der Speiseröhre (Achalasie)"
+    ],
+    1.0
+  ],
+  [
+    [
+      23,
+      32
+    ],
+    [
+      "Am unteren Ende der Speiseröhre ist ein Schließmuskel.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      25,
+      37
+    ],
+    [
+      "Dann kann die Nahrung in den Magen rutschen.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.7134920358657837
+  ],
+  [
+    [
+      27,
+      37
+    ],
+    [
+      "Dann kann die Nahrung nicht in den Magen gelangen.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.7134920358657837
+  ],
+  [
+    [
+      28,
+      32
+    ],
+    [
+      "Speiseröhrenkrebs.",
+      "Speiseröhrenkrebs"
+    ],
+    1.0
+  ],
+  [
+    [
+      29,
+      32
+    ],
+    [
+      "Speiseröhrenkrebs ist eine sehr seltene Ursache von Sodbrennen.",
+      "Speiseröhrenkrebs"
+    ],
+    1.0
+  ],
+  [
+    [
+      30,
+      34
+    ],
+    [
+      "Erkrankungen des Magens, wie zum Beispiel eine Magenschleimhaut-Entzündung.",
+      "Magenschleimhautentzündung"
+    ],
+    1.0
+  ],
+  [
+    [
+      31,
+      46
+    ],
+    [
+      "Einige Medikamente können Sodbrennen verursachen.",
+      "Die weiteren Abschnitte geben einen Überblick über die wichtigsten Krankheiten, die einmal Sodbrennen auslösen und zum anderen infolge chronischer Refluxbeschwerden entstehen können (siehe Kapitellinks oben am Anfang des Textes und am Ende der Seite)."
+    ],
+    0.7793188691139221
+  ],
+  [
+    [
+      32,
+      37
+    ],
+    [
+      "Dazu gehören: Herz-Kreislauf-Medikamente, zum Beispiel Medikamente gegen psychische Krankheiten.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.7946949005126953
+  ],
+  [
+    [
+      33,
+      37
+    ],
+    [
+      "Diese Medikamente erweitern die Blutgefäße.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.698041558265686
+  ],
+  [
+    [
+      34,
+      32
+    ],
+    [
+      "Und sie entspannen die Muskeln der Speiseröhre.",
+      "Speiseröhrenkrebs"
+    ],
+    0.7479862570762634
+  ],
+  [
+    [
+      35,
+      37
+    ],
+    [
+      "Medikamente mit Pfefferminzöl.",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.698041558265686
+  ],
+  [
+    [
+      36,
+      34
+    ],
+    [
+      "Schmerzmittel, zum Beispiel Ibuprofen.",
+      "Magenschleimhautentzündung"
+    ],
+    0.7185704708099365
+  ],
+  [
+    [
+      37,
+      10
+    ],
+    [
+      "einige Antibiotika.",
+      "Einige leiden weniger unter brennenden Schmerzen, sondern sind heiser , müssen sich häufig räuspern oder – vor allem morgens – immer wieder husten ."
+    ],
+    0.6894282102584839
+  ],
+  [
+    [
+      38,
+      34
+    ],
+    [
+      "Antibiotika sind Medikamente gegen Bakterien.",
+      "Magenschleimhautentzündung"
+    ],
+    0.702971339225769
+  ],
+  [
+    [
+      39,
+      19
+    ],
+    [
+      "Achtung: Sie glauben:",
+      "Nehmen Sie jedoch auch rezeptfreie Magensäurehemmer grundsätzlich nur in Rücksprache mit Ihrem Arzt ein."
+    ],
+    0.6375437378883362
+  ],
+  [
+    [
+      40,
+      33
+    ],
+    [
+      "Mein Sodbrennen hängt mit einem Medikament zusammen?",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      42,
+      19
+    ],
+    [
+      "Sprechen Sie mit einem Arzt.",
+      "Nehmen Sie jedoch auch rezeptfreie Magensäurehemmer grundsätzlich nur in Rücksprache mit Ihrem Arzt ein."
+    ],
+    0.7945366501808167
+  ],
+  [
+    [
+      44,
+      33
+    ],
+    [
+      "Viele Frauen haben während ihrer Schwangerschaft Sodbrennen.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Das Kind drückt oft auf den Magen.",
+      "Sodbrennen ist auch für viele Schwangere ein Problem, wenn das Kind auf den Magen drückt, meistens im letzten Drittel der Schwangerschaft."
+    ],
+    0.9466719627380371
+  ],
+  [
+    [
+      46,
+      3
+    ],
+    [
+      "Das verursacht Sodbrennen.",
+      "Das unangenehme Sodbrennen, das so ein Reflux (lateinisch für \"Rückfluss\") auslöst, legt sich häufig schnell wieder."
+    ],
+    0.886484682559967
+  ],
+  [
+    [
+      47,
+      12
+    ],
+    [
+      "Während der Schwangerschaft erhöht sich der Hormonspiegel.",
+      "Außerdem wirken sich die erhöhten Hormonspiegel auf die Elastizität vieler Gewebe aus."
+    ],
+    0.7010332942008972
+  ],
+  [
+    [
+      49,
+      13
+    ],
+    [
+      "Auch der Schließmuskel der Speiseröhre lockert sich.",
+      "So wird auch der Schließmuskel an der Speiseröhre etwas \"lockerer\" (siehe Grafik)."
+    ],
+    0.7914816737174988
+  ],
+  [
+    [
+      50,
+      45
+    ],
+    [
+      "Dann kommt es zu Sodbrennen.",
+      "Wie es zu Sodbrennen kommt, zeigt das nächste Kapitel auf."
+    ],
+    0.8817121982574463
+  ],
+  [
+    [
+      51,
+      33
+    ],
+    [
+      "Sodbrennen kann verschiedene Anzeichen haben.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      52,
+      37
+    ],
+    [
+      "Zu den Anzeichen für Sodbrennen gehören zum Beispiel: brennende Schmerzen im Magen und hinter dem Brustbein Heiserkeit häufiges Räuspern und Husten meist morgens aufstoßen von Magensäure oder Speiseresten Beschwerden beim Schlucken ein schlechter Geschmack im Mund",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.7584328055381775
+  ],
+  [
+    [
+      53,
+      0
+    ],
+    [
+      "Atembeschwerden",
+      "Der fette Sonntagsbraten und ein Gläschen zu viel – wer kennt nicht die Beschwerden danach:"
+    ],
+    0.8805607557296753
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "Sie glauben: Ich habe Sodbrennen?",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      55,
+      19
+    ],
+    [
+      "Dann sprechen Sie mit einem Arzt.",
+      "Nehmen Sie jedoch auch rezeptfreie Magensäurehemmer grundsätzlich nur in Rücksprache mit Ihrem Arzt ein."
+    ],
+    0.7043415904045105
+  ],
+  [
+    [
+      56,
+      19
+    ],
+    [
+      "Ihr Arzt hilft Ihnen.",
+      "Nehmen Sie jedoch auch rezeptfreie Magensäurehemmer grundsätzlich nur in Rücksprache mit Ihrem Arzt ein."
+    ],
+    0.6439523100852966
+  ],
+  [
+    [
+      57,
+      33
+    ],
+    [
+      "Sie können selbst etwas gegen Sodbrennen tun:",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      58,
+      17
+    ],
+    [
+      "Rauchen Sie nicht.",
+      "Sie sind rezeptfrei in Apotheken erhältlich, sind aber nur dazu geeignet, vorübergehende Beschwerden kurzfristig zu behandeln."
+    ],
+    0.7676733732223511
+  ],
+  [
+    [
+      64,
+      28
+    ],
+    [
+      "Vermeiden Sie Übergewicht.",
+      "Übergewicht"
+    ],
+    1.0
+  ],
+  [
+    [
+      67,
+      15
+    ],
+    [
+      "Vermeiden Sie Stress.",
+      "Dann heißt es vor allem: Fette und süße Speisen sowie Getränke meiden, die den Magen reizen, sich bequem kleiden, Stress abbauen."
+    ],
+    0.700995922088623
+  ],
+  [
+    [
+      68,
+      17
+    ],
+    [
+      "Sie haben Beschwerden?",
+      "Sie sind rezeptfrei in Apotheken erhältlich, sind aber nur dazu geeignet, vorübergehende Beschwerden kurzfristig zu behandeln."
+    ],
+    0.8003820776939392
+  ],
+  [
+    [
+      71,
+      37
+    ],
+    [
+      "Dann entscheidet der Arzt: Welche Behandlung eignet sich?",
+      "Nahrungsmittelunverträglichkeiten"
+    ],
+    0.6463626623153687
+  ],
+  [
+    [
+      72,
+      25
+    ],
+    [
+      "Manchmal müssen betroffene Personen nur ihren Lebensstil verändern.",
+      "Lebensstil"
+    ],
+    1.0
+  ],
+  [
+    [
+      73,
+      33
+    ],
+    [
+      "Manchmal helfen nur Medikamente gegen das Sodbrennen.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      74,
+      33
+    ],
+    [
+      "Ein Medikament gegen Sodbrennen heißt: Antazida.",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      77,
+      33
+    ],
+    [
+      "Hinweis: Sie haben sehr starkes Sodbrennen?",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      78,
+      33
+    ],
+    [
+      "Oder Sie haben schon seit mehr als zwei Wochen Sodbrennen?",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      81,
+      33
+    ],
+    [
+      "Sie wollen noch mehr über Sodbrennen lesen?",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ],
+  [
+    [
+      82,
+      33
+    ],
+    [
+      "Mehr Informationen über Sodbrennen finden Sie hier .",
+      "Reizmagen"
+    ],
+    0.7375414371490479
+  ]
+]

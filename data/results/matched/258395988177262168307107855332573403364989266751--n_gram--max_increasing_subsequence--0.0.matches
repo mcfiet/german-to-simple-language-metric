@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Arthrose ist eine Gelenk-Erkrankung.",
+      "Arthrose ist die weltweit häufigste Gelenkerkrankung."
+    ],
+    0.9881568551063538
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Bei einer Arthrose nutzt sich der Knorpel im Gelenk ab.",
+      "Arthrose ist die weltweit häufigste Gelenkerkrankung."
+    ],
+    0.8268728256225586
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Ein Gelenk besteht aus zwei Knochen.",
+      "Bei dem Leiden verschleißt der Knorpel an den Gelenken."
+    ],
+    0.6644094586372375
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Die Knochen bewegen sich aneinander entlang.",
+      "Er ist eine Schutzschicht, die sich zwischen den beiden Knochenenden befindet, und verhindert im Normalfall, dass die Knochen aufeinander reiben."
+    ],
+    0.6144077777862549
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Zwischen den Knochen sind Knorpel und Gelenkflüssigkeit.",
+      "Er ist eine Schutzschicht, die sich zwischen den beiden Knochenenden befindet, und verhindert im Normalfall, dass die Knochen aufeinander reiben."
+    ],
+    0.41069287061691284
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Sie dienen als Schutz:",
+      "Er ist eine Schutzschicht, die sich zwischen den beiden Knochenenden befindet, und verhindert im Normalfall, dass die Knochen aufeinander reiben."
+    ],
+    0.188369482755661
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "So reiben die beiden Knochen nicht aneinander.",
+      "Er ist eine Schutzschicht, die sich zwischen den beiden Knochenenden befindet, und verhindert im Normalfall, dass die Knochen aufeinander reiben."
+    ],
+    0.6907707452774048
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Bei einer Arthrose wird der Knorpel immer dünner.",
+      "Er ist eine Schutzschicht, die sich zwischen den beiden Knochenenden befindet, und verhindert im Normalfall, dass die Knochen aufeinander reiben."
+    ],
+    0.1554945856332779
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Dann reiben die beiden Knochen zu stark aneinander.",
+      "Er ist eine Schutzschicht, die sich zwischen den beiden Knochenenden befindet, und verhindert im Normalfall, dass die Knochen aufeinander reiben."
+    ],
+    0.6651806831359863
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Das betroffene Gelenk nutzt sich ab.",
+      "Der Gelenkschaden bereitet Betroffenen oft große Schmerzen und macht das Gelenk steifer, damit auch weniger beweglich."
+    ],
+    0.9068911075592041
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "Diese Abnutzung des Gelenks kann zu Schmerzen führen.",
+      "Der Gelenkschaden bereitet Betroffenen oft große Schmerzen und macht das Gelenk steifer, damit auch weniger beweglich."
+    ],
+    0.9224879145622253
+  ],
+  [
+    [
+      11,
+      9
+    ],
+    [
+      "Oft lässt sich das Gelenk dann nicht mehr so gut bewegen.",
+      "Patienten neigen dazu, das Gelenk zu schonen."
+    ],
+    0.9032056927680969
+  ],
+  [
+    [
+      12,
+      26
+    ],
+    [
+      "Fortgeschrittene Arthrose: Der Knorpel ist stark abgerieben und sehr dünn.",
+      "Hüftarthrose: Auch der Knorpel an den Hüftknochen ist ein häufiges Ziel von Verschleiß."
+    ],
+    0.9171242117881775
+  ],
+  [
+    [
+      13,
+      26
+    ],
+    [
+      "An manchen Stellen zwischen den beiden Knochen gibt es gar keinen Knorpel mehr.",
+      "Hüftarthrose: Auch der Knorpel an den Hüftknochen ist ein häufiges Ziel von Verschleiß."
+    ],
+    0.4355393648147583
+  ],
+  [
+    [
+      14,
+      26
+    ],
+    [
+      "Dort reiben die Knochen aufeinander",
+      "Hüftarthrose: Auch der Knorpel an den Hüftknochen ist ein häufiges Ziel von Verschleiß."
+    ],
+    0.17820386588573456
+  ],
+  [
+    [
+      15,
+      26
+    ],
+    [
+      "Arthrose kann in allen Gelenken vorkommen.",
+      "Hüftarthrose: Auch der Knorpel an den Hüftknochen ist ein häufiges Ziel von Verschleiß."
+    ],
+    0.6205081939697266
+  ],
+  [
+    [
+      16,
+      26
+    ],
+    [
+      "An diesen Gelenken tritt häufig eine Arthrose auf:",
+      "Hüftarthrose: Auch der Knorpel an den Hüftknochen ist ein häufiges Ziel von Verschleiß."
+    ],
+    0.6164305210113525
+  ],
+  [
+    [
+      18,
+      26
+    ],
+    [
+      "Hüfte",
+      "Hüftarthrose: Auch der Knorpel an den Hüftknochen ist ein häufiges Ziel von Verschleiß."
+    ],
+    0.07967131584882736
+  ],
+  [
+    [
+      19,
+      33
+    ],
+    [
+      "Schulter Hände Finger",
+      "Je mehr Jahre ein Gelenk \"auf dem Buckel\" hat, desto eher finden sich an ihm Verschleißerscheinungen."
+    ],
+    0.005248624365776777
+  ],
+  [
+    [
+      20,
+      34
+    ],
+    [
+      "Eine Arthrose kann verschiedene Anzeichen haben.",
+      "Allerdings ist das Alter nicht der einzige Risikofaktor für eine Arthrose."
+    ],
+    0.9059253931045532
+  ],
+  [
+    [
+      21,
+      34
+    ],
+    [
+      "Die Anzeichen für eine Arthrose sind vielleicht erst schwach.",
+      "Allerdings ist das Alter nicht der einzige Risikofaktor für eine Arthrose."
+    ],
+    0.9200844764709473
+  ],
+  [
+    [
+      22,
+      38
+    ],
+    [
+      "Aber mit der Zeit nehmen die Anzeichen zu.",
+      "Die Ursachen sind in diesem Fall noch nicht klar."
+    ],
+    0.40863296389579773
+  ],
+  [
+    [
+      23,
+      45
+    ],
+    [
+      "Anzeichen für eine Arthrose können sein:",
+      "Fehlstellungen wie X- und O-Beine können ebenfalls Arthrose fördern."
+    ],
+    0.95558762550354
+  ],
+  [
+    [
+      24,
+      73
+    ],
+    [
+      "Das Gelenk schmerzt bei Belastung.",
+      "Das Gelenk versteift."
+    ],
+    0.9405444860458374
+  ],
+  [
+    [
+      25,
+      73
+    ],
+    [
+      "Das Gelenk wird eine Weile nicht bewegt.",
+      "Das Gelenk versteift."
+    ],
+    0.95135897397995
+  ],
+  [
+    [
+      26,
+      73
+    ],
+    [
+      "Dann wird das Gelenk wieder bewegt und es tut weh?",
+      "Das Gelenk versteift."
+    ],
+    0.9463299512863159
+  ],
+  [
+    [
+      27,
+      73
+    ],
+    [
+      "Das nennt man auch: Anlaufschmerzen.",
+      "Das Gelenk versteift."
+    ],
+    0.010418611578643322
+  ],
+  [
+    [
+      28,
+      73
+    ],
+    [
+      "Anlaufschmerzen sind vor allem im Beingelenk häufig.",
+      "Das Gelenk versteift."
+    ],
+    0.8894073367118835
+  ],
+  [
+    [
+      29,
+      73
+    ],
+    [
+      "Anlaufschmerzen können auch im Fußgelenk vorkommen.",
+      "Das Gelenk versteift."
+    ],
+    0.886465311050415
+  ],
+  [
+    [
+      32,
+      73
+    ],
+    [
+      "Das Gelenk kann sogar im Ruhezustand weh tun.",
+      "Das Gelenk versteift."
+    ],
+    0.9659278392791748
+  ],
+  [
+    [
+      34,
+      73
+    ],
+    [
+      "Das Gelenk ist entzündet?",
+      "Das Gelenk versteift."
+    ],
+    0.9674854874610901
+  ],
+  [
+    [
+      36,
+      73
+    ],
+    [
+      "Das Gelenk sieht dann größer aus als normalerweise.",
+      "Das Gelenk versteift."
+    ],
+    0.9650333523750305
+  ],
+  [
+    [
+      37,
+      74
+    ],
+    [
+      "Bei Arthrose an den Fingergelenken schmerzen die Hände:",
+      "Schmerzen, Steifigkeitsgefühl und Bewegungsdefizit im betroffenen Gelenk sind typische Anzeichen einer Arthrose."
+    ],
+    0.8961619138717651
+  ],
+  [
+    [
+      38,
+      74
+    ],
+    [
+      "Die betroffenen Gelenke fühlen sich steif an.",
+      "Schmerzen, Steifigkeitsgefühl und Bewegungsdefizit im betroffenen Gelenk sind typische Anzeichen einer Arthrose."
+    ],
+    0.5700011253356934
+  ],
+  [
+    [
+      39,
+      74
+    ],
+    [
+      "Oft haben betroffene Personen keine Kraft mehr in den Händen.",
+      "Schmerzen, Steifigkeitsgefühl und Bewegungsdefizit im betroffenen Gelenk sind typische Anzeichen einer Arthrose."
+    ],
+    0.12294188141822815
+  ],
+  [
+    [
+      40,
+      74
+    ],
+    [
+      "Es kann zu harten Verdickungen an den betroffenen Stellen kommen.",
+      "Schmerzen, Steifigkeitsgefühl und Bewegungsdefizit im betroffenen Gelenk sind typische Anzeichen einer Arthrose."
+    ],
+    0.13196294009685516
+  ],
+  [
+    [
+      41,
+      75
+    ],
+    [
+      "Sie haben bei sich eines oder mehrere dieser Anzeichen bemerkt?",
+      "Beschwerden können anfangs auch nur leicht ausgeprägt sein oder sogar fehlen."
+    ],
+    0.10060342401266098
+  ],
+  [
+    [
+      43,
+      75
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Beschwerden können anfangs auch nur leicht ausgeprägt sein oder sogar fehlen."
+    ],
+    0.29682040214538574
+  ],
+  [
+    [
+      44,
+      76
+    ],
+    [
+      "Manchmal bemerken betroffene Personen sehr lange keine Anzeichen.",
+      "In späteren Stadien können weitere Hinweise hinzukommen."
+    ],
+    0.11997141689062119
+  ],
+  [
+    [
+      45,
+      81
+    ],
+    [
+      "Das ist bei jeder Person anders.",
+      "Der Bewegungsradius kann deutlich eingeschränkt sein, was sich auch im Alltag als sehr hinderlich erweist."
+    ],
+    0.1200866773724556
+  ],
+  [
+    [
+      46,
+      85
+    ],
+    [
+      "Arthrose kann in allen Gelenken vorkommen.",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.9009896516799927
+  ],
+  [
+    [
+      47,
+      85
+    ],
+    [
+      "In manchen Gelenken kann es öfter zu Arthrose kommen.",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.8864899277687073
+  ],
+  [
+    [
+      48,
+      85
+    ],
+    [
+      "Diese Gelenke werden nämlich besonders stark beansprucht.",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.7740828394889832
+  ],
+  [
+    [
+      49,
+      85
+    ],
+    [
+      "Solche häufigen Formen von Arthrose sind zum Beispiel: Arthrose der Hand- und Fingergelenke Arthrose am Hüftgelenk Arthrose am Kniegelenk",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.8310699462890625
+  ],
+  [
+    [
+      50,
+      85
+    ],
+    [
+      "In vielen Fällen weiß man nicht:",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.3516170382499695
+  ],
+  [
+    [
+      51,
+      85
+    ],
+    [
+      "Was sind die Ursachen einer Arthrose?",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.49683254957199097
+  ],
+  [
+    [
+      52,
+      85
+    ],
+    [
+      "Mögliche Ursachen von Arthrose können sein: falsche Belastungen eines Gelenks Übergewicht andere Krankheiten wie Gicht oder Rheuma Verletzungen an dem betroffenen Gelenk",
+      "Bei Fingergelenkarthrose kann es an den Händen neben Schmerzen und Steifigkeitsgefühl zu Kraftlosigkeit und zu harten Verdickungen an den Gelenken kommen."
+    ],
+    0.9252719283103943
+  ],
+  [
+    [
+      53,
+      108
+    ],
+    [
+      "Eine Arthrose entwickelt sich langsam und in verschiedenen Stufen: Stufe 1:",
+      "Eine Arthrose ist nicht heilbar."
+    ],
+    0.9301907420158386
+  ],
+  [
+    [
+      54,
+      125
+    ],
+    [
+      "Der Knorpel wird dünner.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.9148783087730408
+  ],
+  [
+    [
+      55,
+      125
+    ],
+    [
+      "Betroffene Personen haben keine oder kaum Schmerzen.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.062014516443014145
+  ],
+  [
+    [
+      56,
+      125
+    ],
+    [
+      "Stufe 2: Der Knorpel am Gelenk ist beschädigt.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.5477001070976257
+  ],
+  [
+    [
+      57,
+      125
+    ],
+    [
+      "Der Knorpel kann den Druck von den aneinander reibenden Gelenken schlechter verteilen.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.5657383799552917
+  ],
+  [
+    [
+      58,
+      125
+    ],
+    [
+      "Betroffene Personen haben erste Schmerzen.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.03681902959942818
+  ],
+  [
+    [
+      60,
+      125
+    ],
+    [
+      ": Der Knorpel ist nun stark beschädigt.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.8948013782501221
+  ],
+  [
+    [
+      61,
+      125
+    ],
+    [
+      "Deshalb verkleinert sich der Abstand zwischen den Knochen.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.26631560921669006
+  ],
+  [
+    [
+      62,
+      125
+    ],
+    [
+      "Die Belastung auf das Gelenk wird größer.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.004232695791870356
+  ],
+  [
+    [
+      63,
+      125
+    ],
+    [
+      "Es können sich Auswüchse am Knochen bilden.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.2271881401538849
+  ],
+  [
+    [
+      64,
+      125
+    ],
+    [
+      "Das Gelenk ist weniger beweglich und es kann sich entzünden.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.0021364549174904823
+  ],
+  [
+    [
+      65,
+      125
+    ],
+    [
+      "Stufe 4: Der Knorpel ist nun sehr dünn.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.8780630230903625
+  ],
+  [
+    [
+      66,
+      125
+    ],
+    [
+      "Die Knochen reiben direkt aneinander.",
+      "Außerdem wird der Knorpel so mit Nährstoffen versorgt, was dem Abbau entgegenwirkt."
+    ],
+    0.220204159617424
+  ],
+  [
+    [
+      68,
+      126
+    ],
+    [
+      "Betroffene Personen haben oft starke Schmerzen und das Gelenk ist steif.",
+      "Ideal sind gleichmäßige, schonende Bewegungsarten wie Nordic Walking und Schwimmen."
+    ],
+    0.03989841789007187
+  ],
+  [
+    [
+      69,
+      127
+    ],
+    [
+      "Bei einer Arthrose sollten Sie einige Dinge beachten:",
+      "Der Arzt kann Patienten am besten beraten, welches Pensum in ihrem Fall sinnvoll ist."
+    ],
+    0.028190288692712784
+  ],
+  [
+    [
+      70,
+      127
+    ],
+    [
+      "Überanstrengen Sie die betroffenen Gelenke nicht.",
+      "Der Arzt kann Patienten am besten beraten, welches Pensum in ihrem Fall sinnvoll ist."
+    ],
+    0.00022539446945302188
+  ],
+  [
+    [
+      71,
+      127
+    ],
+    [
+      "Belasten Sie das Gelenk nicht falsch.",
+      "Der Arzt kann Patienten am besten beraten, welches Pensum in ihrem Fall sinnvoll ist."
+    ],
+    0.017817074432969093
+  ],
+  [
+    [
+      72,
+      128
+    ],
+    [
+      "Ein Physiotherapeut kann Ihnen zeigen:",
+      "Physiotherapie:"
+    ],
+    0.2693866193294525
+  ],
+  [
+    [
+      73,
+      129
+    ],
+    [
+      "So können Sie die Gelenke entlasten.",
+      "Mit Krankengymnastik lässt sich die Beweglichkeit von Gelenken gezielt fördern und Beschwerden verringern."
+    ],
+    0.8746538758277893
+  ],
+  [
+    [
+      74,
+      129
+    ],
+    [
+      "Verbessern Sie die Beweglichkeit der betroffenen Gelenke.",
+      "Mit Krankengymnastik lässt sich die Beweglichkeit von Gelenken gezielt fördern und Beschwerden verringern."
+    ],
+    0.8698332905769348
+  ],
+  [
+    [
+      75,
+      139
+    ],
+    [
+      "Sie haben starke Schmerzen?",
+      "Sie sollen vor allem akute Schmerzen lindern."
+    ],
+    0.6655924916267395
+  ],
+  [
+    [
+      76,
+      139
+    ],
+    [
+      "Dann können vielleicht Medikamente gegen die Schmerzen helfen.",
+      "Sie sollen vor allem akute Schmerzen lindern."
+    ],
+    0.6561916470527649
+  ],
+  [
+    [
+      77,
+      147
+    ],
+    [
+      "Sie wollen noch mehr über Arthrose lesen?",
+      "Schienen können arthrosegeplagte Finger stabilisieren."
+    ],
+    0.9434410929679871
+  ],
+  [
+    [
+      78,
+      147
+    ],
+    [
+      "Mehr Informationen über Arthrose finden Sie hier .",
+      "Schienen können arthrosegeplagte Finger stabilisieren."
+    ],
+    0.9432823657989502
+  ],
+  [
+    [
+      79,
+      165
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Ein Nachteil: Die Implantate haben eine begrenzte Haltbarkeit, halten rund 15 Jahre."
+    ],
+    0.3190477788448334
+  ],
+  [
+    [
+      80,
+      165
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Ein Nachteil: Die Implantate haben eine begrenzte Haltbarkeit, halten rund 15 Jahre."
+    ],
+    0.13243265450000763
+  ]
+]

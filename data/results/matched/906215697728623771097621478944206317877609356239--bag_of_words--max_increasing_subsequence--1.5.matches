@@ -1,0 +1,442 @@
+[
+  [
+    [
+      0,
+      6
+    ],
+    [
+      "Ein Blutgerinnsel gelangt in ein Blutgefäß?",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6744200587272644
+  ],
+  [
+    [
+      3,
+      6
+    ],
+    [
+      "Bei einer Lungenembolie verschließt ein Blutgerinnsel ein Lungengefäß.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.5795510411262512
+  ],
+  [
+    [
+      4,
+      6
+    ],
+    [
+      "Bei einer Lungenembolie können auch mehrere Blutgerinnsel mehrere Lungengefäße verstopfen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.5678949952125549
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Ein Blutgerinnsel ist ein feiner Klumpen aus Blut.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6678574085235596
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Das Fachwort für Blutgerinnsel ist: Thrombus.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6878111958503723
+  ],
+  [
+    [
+      7,
+      6
+    ],
+    [
+      "Durch ein Blutgerinnsel kann das sauerstoff arme Blut nicht in die Lunge gelangen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6677796840667725
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Eine Lungenembolie entsteht durch Blutgerinnsel.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.5912973880767822
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Diese Blutgerinnsel verstopfen ein oder mehrere Lungengefäße.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6629825830459595
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Die Blutgerinnsel können zum Beispiel aus den Beinvenen kommen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6818189024925232
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Die Blutgerinnsel können auch aus den Beckenvenen kommen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6818627715110779
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Bei einer Lungenembolie lösen sich diese Blutgerinnsel.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.5900295972824097
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Die Blutgerinnsel fließen dann mit dem Blutstrom zum Herzen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6791696548461914
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Das Herz pumpt die Blutgerinnsel in die Lunge.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.675001859664917
+  ],
+  [
+    [
+      19,
+      6
+    ],
+    [
+      "Dort kann das Blutgerinnsel steckenbleiben und ein Gefäß verschließen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6701306104660034
+  ],
+  [
+    [
+      32,
+      6
+    ],
+    [
+      "Das kann zu einem Blutgerinnsel führen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6857143044471741
+  ],
+  [
+    [
+      33,
+      6
+    ],
+    [
+      "Auch eine lange Flugreise kann zu einem Blutgerinnsel führen.",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6841422319412231
+  ],
+  [
+    [
+      41,
+      6
+    ],
+    [
+      "Weitere Risikofaktoren für ein Blutgerinnsel sind: Schwangerschaft höheres Alter starkes Übergewicht ein früheres Blutgerinnsel",
+      "Solche Blutgerinnsel werden als Thrombosen bezeichnet."
+    ],
+    0.6898790597915649
+  ],
+  [
+    [
+      42,
+      51
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für eine Lungenembolie.",
+      "Manchmal ruft eine Lungenembolie praktisch gar keine Symptome hervor."
+    ],
+    0.9773951768875122
+  ],
+  [
+    [
+      43,
+      52
+    ],
+    [
+      "Die Anzeichen hängen davon ab, wie groß der betroffene Lungenabschnitt ist.",
+      "Je größer der Lungenabschnitt ist, der durch die Embolie von der Blutversorgung abgeriegelt wird, desto schwerwiegender sind üblicherweise die Krankheitszeichen."
+    ],
+    0.393085777759552
+  ],
+  [
+    [
+      46,
+      55
+    ],
+    [
+      "Schmerzen beim Atmen blutiger Auswurf",
+      "• Blutiger Auswurf • Herzrasen"
+    ],
+    0.5097031593322754
+  ],
+  [
+    [
+      47,
+      56
+    ],
+    [
+      "Herzrasen plötzliche Bewusstlosigkeit",
+      "• Plötzliche Bewusstlosigkeit"
+    ],
+    0.8515363335609436
+  ],
+  [
+    [
+      48,
+      81
+    ],
+    [
+      "Sie glauben: Eine andere Person hat eine Lungenembolie?",
+      "Sind sie nicht nachweisbar, ist eine Lungenembolie relativ unwahrscheinlich."
+    ],
+    0.9439125657081604
+  ],
+  [
+    [
+      49,
+      145
+    ],
+    [
+      "Dann rufen Sie sofort einen Notarzt.",
+      "Sie"
+    ],
+    0.7499638795852661
+  ],
+  [
+    [
+      50,
+      145
+    ],
+    [
+      "Bewegen Sie die Person so wenig wie möglich.",
+      "Sie"
+    ],
+    0.7049185633659363
+  ],
+  [
+    [
+      53,
+      145
+    ],
+    [
+      "Dafür sollten Sie diese Dinge beachten:",
+      "Sie"
+    ],
+    0.8864830732345581
+  ],
+  [
+    [
+      55,
+      145
+    ],
+    [
+      "Dann nehmen Sie die Medikamente wie besprochen ein.",
+      "Sie"
+    ],
+    0.6866573691368103
+  ],
+  [
+    [
+      56,
+      145
+    ],
+    [
+      "Achten Sie auf Ihr Gewicht.",
+      "Sie"
+    ],
+    0.9502089023590088
+  ],
+  [
+    [
+      57,
+      145
+    ],
+    [
+      "Lassen Sie Erkrankungen des Herzens und des Gerinnungssystems frühzeitig behandeln.",
+      "Sie"
+    ],
+    0.6551242470741272
+  ],
+  [
+    [
+      58,
+      145
+    ],
+    [
+      "Sie haben eine Herzerkrankung?",
+      "Sie"
+    ],
+    0.885407567024231
+  ],
+  [
+    [
+      59,
+      145
+    ],
+    [
+      "Oder Sie haben eine Erkrankung des Gerinnungssystems?",
+      "Sie"
+    ],
+    0.7213723063468933
+  ],
+  [
+    [
+      60,
+      145
+    ],
+    [
+      "Dann lassen Sie diese frühzeitig von Ihrem Arzt behandeln.",
+      "Sie"
+    ],
+    0.7077118754386902
+  ],
+  [
+    [
+      61,
+      145
+    ],
+    [
+      "Bewegen Sie sich möglichst viel.",
+      "Sie"
+    ],
+    0.7744283080101013
+  ],
+  [
+    [
+      62,
+      145
+    ],
+    [
+      "So halten Sie die Venen gesund.",
+      "Sie"
+    ],
+    0.7948557734489441
+  ],
+  [
+    [
+      63,
+      145
+    ],
+    [
+      "Trinken Sie auf Flugreisen ausreichend Wasser.",
+      "Sie"
+    ],
+    0.8898661732673645
+  ],
+  [
+    [
+      64,
+      145
+    ],
+    [
+      "Stehen Sie ab und zu auf und bewegen Sie die Beine.",
+      "Sie"
+    ],
+    0.8937878012657166
+  ],
+  [
+    [
+      65,
+      145
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine Lungenembolie?",
+      "Sie"
+    ],
+    0.3165441155433655
+  ],
+  [
+    [
+      66,
+      145
+    ],
+    [
+      "Oder Sie haben starke Beschwerden?",
+      "Sie"
+    ],
+    0.9445545077323914
+  ],
+  [
+    [
+      67,
+      145
+    ],
+    [
+      "Dann rufen Sie den Notarzt.",
+      "Sie"
+    ],
+    0.7487441301345825
+  ],
+  [
+    [
+      68,
+      145
+    ],
+    [
+      "Sie möchten noch mehr über Lungenembolie lesen?",
+      "Sie"
+    ],
+    0.3190211057662964
+  ],
+  [
+    [
+      69,
+      145
+    ],
+    [
+      "Mehr Informationen über Lungenembolie finden Sie hier .",
+      "Sie"
+    ],
+    0.3189551532268524
+  ]
+]

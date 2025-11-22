@@ -1,0 +1,420 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Die Gallenblase ist ein Organ im Bauch.",
+      "Wandert ein Gallenstein und bleibt zum Beispiel im Gallenblasenausgang (medizinisch: Ductus cysticus) stecken, staut sich Gallenflüssigkeit in dem kleinen Organ."
+    ],
+    0.6764101982116699
+  ],
+  [
+    [
+      1,
+      26
+    ],
+    [
+      "Sie ist unter der Leber.",
+      "Liegt eine starke Entzündung vor und ist kein eingeklemmter Gallenstein zu finden, sollte die Gallenblase innerhalb der ersten 24 Stunden nach Einweisung ins Krankenhaus entfernt werden."
+    ],
+    0.6730270981788635
+  ],
+  [
+    [
+      2,
+      30
+    ],
+    [
+      "Die Gallenblase speichert die Galle.",
+      "Die Gallenflüssigkeit staut sich dann bis in die Gallengänge der Leber zurück und wird durch aufsteigende Darmkeime infiziert."
+    ],
+    0.7331726551055908
+  ],
+  [
+    [
+      3,
+      26
+    ],
+    [
+      "Die Galle ist eine Flüssigkeit.",
+      "Liegt eine starke Entzündung vor und ist kein eingeklemmter Gallenstein zu finden, sollte die Gallenblase innerhalb der ersten 24 Stunden nach Einweisung ins Krankenhaus entfernt werden."
+    ],
+    0.801193356513977
+  ],
+  [
+    [
+      4,
+      38
+    ],
+    [
+      "Die Galle besteht aus:",
+      "Die Gallenflüssigkeit wird weiter von der Leber gebildet und fließt ungehindert in den Dünndarm ab."
+    ],
+    0.6624062061309814
+  ],
+  [
+    [
+      7,
+      13
+    ],
+    [
+      "Die Galle hilft bei der Verdauung von Fetten in der Nahrung.",
+      "Eine Ultraschalluntersuchung des Bauches ist der Goldstandard in der Diagnostik und hilft der Ärztin oder dem Arzt, eine verdickte Wand der Gallenblase, Steine oder erweiterte Gallengänge zu erkennen."
+    ],
+    0.6326823830604553
+  ],
+  [
+    [
+      8,
+      30
+    ],
+    [
+      "Die Leber produziert die Galle.",
+      "Die Gallenflüssigkeit staut sich dann bis in die Gallengänge der Leber zurück und wird durch aufsteigende Darmkeime infiziert."
+    ],
+    0.8099390864372253
+  ],
+  [
+    [
+      9,
+      20
+    ],
+    [
+      "Über den Gallengang kommt die Galle in den Darm.",
+      "Bei der Endosonografie wird eine Ultraschallsonde über Speiseröhre und Magen bis zum in den Dünndarm einmündenden Gallengang vorgeschoben, um mittels Ultraschall einen Stein im Gallengang darzustellen."
+    ],
+    0.7588512897491455
+  ],
+  [
+    [
+      10,
+      20
+    ],
+    [
+      "Im Darm hilft die Galle bei der Verdauung.",
+      "Bei der Endosonografie wird eine Ultraschallsonde über Speiseröhre und Magen bis zum in den Dünndarm einmündenden Gallengang vorgeschoben, um mittels Ultraschall einen Stein im Gallengang darzustellen."
+    ],
+    0.6963039040565491
+  ],
+  [
+    [
+      13,
+      25
+    ],
+    [
+      "Die Gallenblase kann sich entzünden.",
+      "Danach wird abgewartet, bis sich die Entzündung zurückbildet und dann die Gallenblase operativ entfernt."
+    ],
+    0.7683715224266052
+  ],
+  [
+    [
+      14,
+      22
+    ],
+    [
+      "Häufig ist ein Gallenstein die Ursache für eine Gallenblasenentzündung.",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.8021827340126038
+  ],
+  [
+    [
+      15,
+      25
+    ],
+    [
+      "Die Gallenblase kann sich entzünden.",
+      "Danach wird abgewartet, bis sich die Entzündung zurückbildet und dann die Gallenblase operativ entfernt."
+    ],
+    0.7683715224266052
+  ],
+  [
+    [
+      16,
+      25
+    ],
+    [
+      "Die Gallenblase entzündet sich?",
+      "Danach wird abgewartet, bis sich die Entzündung zurückbildet und dann die Gallenblase operativ entfernt."
+    ],
+    0.8145887851715088
+  ],
+  [
+    [
+      17,
+      22
+    ],
+    [
+      "Dann ist die Ursache häufig ein Gallenstein .",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.7768282890319824
+  ],
+  [
+    [
+      18,
+      16
+    ],
+    [
+      "Gallensteine sind feste Galle.",
+      "Vermutet der Arzt oder die Ärztin Steine in den Gallengängen (und somit außerhalb der Gallenblase), sind weitere Untersuchungen notwendig."
+    ],
+    0.681948721408844
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Häufig sind Gallensteine nicht gefährlich.",
+      "Eine Entzündung der Gallenblase ohne Gallensteine ist selten."
+    ],
+    0.6367242336273193
+  ],
+  [
+    [
+      20,
+      40
+    ],
+    [
+      "Manchmal verursachen sie aber eine Entzündung der Gallenblase:",
+      "Dennoch kann es passieren, dass Menschen nach einer Entfernung der Gallenblase mit Durchfall reagieren, wenn sie zu fettreich gegessen haben."
+    ],
+    0.7809937000274658
+  ],
+  [
+    [
+      21,
+      29
+    ],
+    [
+      "Gallensteine verschließen den Gallengang?",
+      "Manchmal verbleiben Gallensteine oder bilden sich neu nach der Gallenblasenentfernung in den Gallengängen."
+    ],
+    0.8320102095603943
+  ],
+  [
+    [
+      22,
+      30
+    ],
+    [
+      "Dann staut sich Galle in der Gallenblase.",
+      "Die Gallenflüssigkeit staut sich dann bis in die Gallengänge der Leber zurück und wird durch aufsteigende Darmkeime infiziert."
+    ],
+    0.8532602190971375
+  ],
+  [
+    [
+      23,
+      25
+    ],
+    [
+      "Und die Gallenblase entzündet sich.",
+      "Danach wird abgewartet, bis sich die Entzündung zurückbildet und dann die Gallenblase operativ entfernt."
+    ],
+    0.7790886163711548
+  ],
+  [
+    [
+      24,
+      22
+    ],
+    [
+      "Eine Gallenblasenentzündung kann auch andere Ursachen habe.",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.6890027523040771
+  ],
+  [
+    [
+      26,
+      22
+    ],
+    [
+      "Eine Gallenblasenentzündung kann verschiedene Anzeichen haben.",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.6814631223678589
+  ],
+  [
+    [
+      27,
+      8
+    ],
+    [
+      "Anzeichen sind zum Beispiel: starke Schmerzen im rechten oberen Bauch.",
+      "Verklemmt sich ein Gallenstein, führt das meist zu heftigen krampfartigen Schmerzen im rechten Oberbauch, teilweise mit Ausstrahlung in Rücken oder rechte Schulter."
+    ],
+    0.6268090009689331
+  ],
+  [
+    [
+      28,
+      38
+    ],
+    [
+      "Die Schmerzen kommen in Wellen.",
+      "Die Gallenflüssigkeit wird weiter von der Leber gebildet und fließt ungehindert in den Dünndarm ab."
+    ],
+    0.6773533225059509
+  ],
+  [
+    [
+      30,
+      22
+    ],
+    [
+      "Sie glauben: Ich habe eine Gallenblasenentzündung?",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.6283086538314819
+  ],
+  [
+    [
+      32,
+      35
+    ],
+    [
+      "Dann gehen Sie zu einem Arzt.",
+      "Mithilfe einer Röntgenaufnahme können Arzt oder Ärztin nun erkennen, wo der Gallengang mit einem Stein verschlossen ist."
+    ],
+    0.6293284893035889
+  ],
+  [
+    [
+      34,
+      40
+    ],
+    [
+      "Sie haben Beschwerden?",
+      "Dennoch kann es passieren, dass Menschen nach einer Entfernung der Gallenblase mit Durchfall reagieren, wenn sie zu fettreich gegessen haben."
+    ],
+    0.6703372597694397
+  ],
+  [
+    [
+      37,
+      22
+    ],
+    [
+      "Ein Gallenstein im Gallengang verursacht die Gallenblasenentzündung?",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.701005220413208
+  ],
+  [
+    [
+      38,
+      26
+    ],
+    [
+      "Dann entfernt der Arzt die Gallensteine.",
+      "Liegt eine starke Entzündung vor und ist kein eingeklemmter Gallenstein zu finden, sollte die Gallenblase innerhalb der ersten 24 Stunden nach Einweisung ins Krankenhaus entfernt werden."
+    ],
+    0.7586444020271301
+  ],
+  [
+    [
+      39,
+      16
+    ],
+    [
+      "Danach entfernt der Arzt vielleicht in einer Operation die Gallenblase.",
+      "Vermutet der Arzt oder die Ärztin Steine in den Gallengängen (und somit außerhalb der Gallenblase), sind weitere Untersuchungen notwendig."
+    ],
+    0.7435139417648315
+  ],
+  [
+    [
+      40,
+      22
+    ],
+    [
+      "Eine Infektion verursacht die Gallenblasenentzündung?",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.7582844495773315
+  ],
+  [
+    [
+      41,
+      22
+    ],
+    [
+      "Dann muss der Arzt die Gallenblase sofort entfernen.",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.7268592119216919
+  ],
+  [
+    [
+      42,
+      22
+    ],
+    [
+      "Dafür muss der Arzt die Person operieren.",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.7776890397071838
+  ],
+  [
+    [
+      43,
+      33
+    ],
+    [
+      "Bis zur Operation bekommt die Person Schmerzmittel und Antibiotika.",
+      "Hierfür wird ein Endoskop durch die Speiseröhre bis zu der Stelle eingeführt, an welcher der Gallengang und der Ausführungsgang der Bauchspeicheldrüse in den Zwölffingerdarm einmünden."
+    ],
+    0.6180684566497803
+  ],
+  [
+    [
+      46,
+      22
+    ],
+    [
+      "Hinweis: Die Gallenblasenentzündung wird nicht behandelt?",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.6387801170349121
+  ],
+  [
+    [
+      47,
+      15
+    ],
+    [
+      "Das kann gefährlich sein.",
+      "Zum Beispiel können die Blutsenkungsgeschwindigkeit , die weißen Blutkörperchen (Leukozyten) und der CRP-Wert erhöht sein."
+    ],
+    0.6322211623191833
+  ],
+  [
+    [
+      48,
+      20
+    ],
+    [
+      "Dann kann zum Beispiel eine Bauchfell-Entzündung entstehen.",
+      "Bei der Endosonografie wird eine Ultraschallsonde über Speiseröhre und Magen bis zum in den Dünndarm einmündenden Gallengang vorgeschoben, um mittels Ultraschall einen Stein im Gallengang darzustellen."
+    ],
+    0.6292021870613098
+  ],
+  [
+    [
+      49,
+      22
+    ],
+    [
+      "Sie wollen noch mehr über die Gallenblasenentzündung lesen?",
+      "Hat der Arzt oder die Ärztin sicher festgestellt, dass es sich um eine Gallenblasenentzündung handelt, muss er oder sie zunächst herausfinden, ob noch ein verklemmter Gallenstein da ist."
+    ],
+    0.6304225921630859
+  ]
+]

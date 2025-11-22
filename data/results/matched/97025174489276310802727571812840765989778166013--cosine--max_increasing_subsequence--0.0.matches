@@ -1,0 +1,948 @@
+[
+  [
+    [
+      0,
+      5
+    ],
+    [
+      "Die Lebensmittel-Vergiftung und die Lebensmittel-Infektion sind verschiedene Lebensmittel-Erkrankungen.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.659960925579071
+  ],
+  [
+    [
+      1,
+      5
+    ],
+    [
+      "Lebensmittel verursachen die beiden Erkrankungen.",
+      "Gut möglich, denn die Symptome sprechen für eine Lebensmittelvergiftung."
+    ],
+    0.7651796340942383
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Viele Menschen kennen den Unterschied zwischen Lebensmittel-Vergiftung und Lebensmittel-Infektion nicht.",
+      "Unter den Begriffen \"Lebensmittelvergiftung\" und \"Lebensmittelinfektion\" verstehen viele Menschen dasselbe."
+    ],
+    0.9367425441741943
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Aber es gibt Unterschiede.",
+      "Dabei gibt es einen Unterschied:"
+    ],
+    0.9025980830192566
+  ],
+  [
+    [
+      4,
+      9
+    ],
+    [
+      "Eine Lebensmittel-Vergiftung ist eine Vergiftung.",
+      "Eine Lebensmittelvergiftung ist keine Infektion, sie ist also auch nicht ansteckend."
+    ],
+    0.7235903739929199
+  ],
+  [
+    [
+      5,
+      10
+    ],
+    [
+      "Giftstoffe im Essen lösen diese Vergiftung aus.",
+      "Hinter einer Lebensmittelvergiftung stecken nämlich, wie der Name schon sagt, Giftstoffe, sogenannte Toxine, die von Bakterien entweder bereits in der Nahrung gebildet werden und über das Essen in den Magen-Darm-Trakt gelangen oder entstehen, nachdem die Erreger in den Körper aufgenommen wurden."
+    ],
+    0.6390482783317566
+  ],
+  [
+    [
+      6,
+      10
+    ],
+    [
+      "Mögliche Giftstoffe sind zum Beispiel:",
+      "Hinter einer Lebensmittelvergiftung stecken nämlich, wie der Name schon sagt, Giftstoffe, sogenannte Toxine, die von Bakterien entweder bereits in der Nahrung gebildet werden und über das Essen in den Magen-Darm-Trakt gelangen oder entstehen, nachdem die Erreger in den Körper aufgenommen wurden."
+    ],
+    0.5056002736091614
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Bakterien Schimmelpilze",
+      "Meistens steckt hinter einer Lebensmittelvergiftung das Bakterium Staphylococcus aureus , seltener kommen Bakterien der Bacillus cereus - Gruppe und Clostridium-Arten vor."
+    ],
+    0.6266183853149414
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "In den meisten Fällen entsteht eine Lebensmittel-Vergiftung durch Bakterien.",
+      "Meistens steckt hinter einer Lebensmittelvergiftung das Bakterium Staphylococcus aureus , seltener kommen Bakterien der Bacillus cereus - Gruppe und Clostridium-Arten vor."
+    ],
+    0.6553587913513184
+  ],
+  [
+    [
+      9,
+      11
+    ],
+    [
+      "Auch Bakterien können Giftstoffe produzieren.",
+      "Meistens steckt hinter einer Lebensmittelvergiftung das Bakterium Staphylococcus aureus , seltener kommen Bakterien der Bacillus cereus - Gruppe und Clostridium-Arten vor."
+    ],
+    0.6243262887001038
+  ],
+  [
+    [
+      10,
+      11
+    ],
+    [
+      "Eine typische Ursache von einer Lebensmittel-Vergiftung ist zum Beispiel das Bakterium:",
+      "Meistens steckt hinter einer Lebensmittelvergiftung das Bakterium Staphylococcus aureus , seltener kommen Bakterien der Bacillus cereus - Gruppe und Clostridium-Arten vor."
+    ],
+    0.708196222782135
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Staphylococcus aureus.",
+      "Meistens steckt hinter einer Lebensmittelvergiftung das Bakterium Staphylococcus aureus , seltener kommen Bakterien der Bacillus cereus - Gruppe und Clostridium-Arten vor."
+    ],
+    0.40756165981292725
+  ],
+  [
+    [
+      12,
+      12
+    ],
+    [
+      "Bei einer Lebensmittel-Vergiftung können die Giftstoffe nicht übertragen werden.",
+      "Bei einer Lebensmittelinfektion hingegen gelangt der Erreger in den Magen-Darm-Trakt, vermehrt sich dort und ruft Beschwerden hervor."
+    ],
+    0.7420045733451843
+  ],
+  [
+    [
+      13,
+      14
+    ],
+    [
+      "Deshalb ist eine Lebensmittel-Vergiftung nicht ansteckend .",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.4721761643886566
+  ],
+  [
+    [
+      14,
+      14
+    ],
+    [
+      "Bei der Lebensmittel-Infektion ist das anders.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.3355869650840759
+  ],
+  [
+    [
+      15,
+      14
+    ],
+    [
+      "Eine Lebensmittel-Infektion ist ansteckend.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.07257045060396194
+  ],
+  [
+    [
+      16,
+      14
+    ],
+    [
+      "Bakterien oder Viren im Essen verursachen eine Lebensmittel-Infektion.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.7559788823127747
+  ],
+  [
+    [
+      17,
+      14
+    ],
+    [
+      "Die Bakterien sind jedoch andere als bei der Lebensmittel-Vergiftung.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.532856822013855
+  ],
+  [
+    [
+      18,
+      14
+    ],
+    [
+      "Bei einer Lebensmittel-Infektion vermehren sich die Bakterien oder Viren im Körper.",
+      "Auch EHEC-Bakterien, Yersinien, Hepatitis -, Noro- und Rotaviren können sich im Essen befinden und zu einer Erkrankung führen."
+    ],
+    0.7964635491371155
+  ],
+  [
+    [
+      19,
+      15
+    ],
+    [
+      "Typische Auslöser von einer Lebensmittel-Infektion sind zum Beispiel diese Bakterien:",
+      "Die Erreger können auf den gleichen Nahrungsmitteln sitzen wie diejenigen, die eine Lebensmittelvergiftung auslösen."
+    ],
+    0.7436642050743103
+  ],
+  [
+    [
+      21,
+      16
+    ],
+    [
+      "Salmonellen Listerien",
+      "Lebensmittel wie zum Beispiel Fleisch, Geflügel oder Fisch können Träger von Krankheitserregern sein."
+    ],
+    0.6649068593978882
+  ],
+  [
+    [
+      22,
+      16
+    ],
+    [
+      "Aber auch Viren können eine Lebensmittel-Infektion auslösen:",
+      "Lebensmittel wie zum Beispiel Fleisch, Geflügel oder Fisch können Träger von Krankheitserregern sein."
+    ],
+    0.6378682255744934
+  ],
+  [
+    [
+      23,
+      18
+    ],
+    [
+      "Hepatitis-Viren Noro-Viren",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.25518468022346497
+  ],
+  [
+    [
+      24,
+      18
+    ],
+    [
+      "Rota-Viren",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.2205725759267807
+  ],
+  [
+    [
+      25,
+      18
+    ],
+    [
+      "Es gibt typische Beschwerden bei einer Lebensmittel-Vergiftung.",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.587277889251709
+  ],
+  [
+    [
+      26,
+      18
+    ],
+    [
+      "Zum Beispiel: Übelkeit Bauchschmerzen",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.2558992803096771
+  ],
+  [
+    [
+      27,
+      18
+    ],
+    [
+      "Erbrechen Durchfall",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.5438270568847656
+  ],
+  [
+    [
+      28,
+      18
+    ],
+    [
+      "Bei einer Lebensmittel-Vergiftung kommen diese Beschwerden oft nach wenigen Stunden .",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.6657156348228455
+  ],
+  [
+    [
+      29,
+      18
+    ],
+    [
+      "Aber die Beschwerden gehen oft auch schnell wieder weg.",
+      "Clostridium botulinum , das Bakterium, das , kommt, da es nur ohne Sauerstoff wachsen und sich vermehren kann, vorwiegend in Konserven und vakuumerpackten Lebensmitteln vor – allerdings nur sehr selten."
+    ],
+    0.8221399784088135
+  ],
+  [
+    [
+      30,
+      30
+    ],
+    [
+      "Manchmal dauern die Beschwerden nur wenige Stunden.",
+      "Dafür lassen die Symptome recht bald wieder nach, oft innerhalb weniger Stunden bis Tage."
+    ],
+    0.8613005876541138
+  ],
+  [
+    [
+      31,
+      31
+    ],
+    [
+      "Dann hat der Körper die Giftstoffe wieder ausgeschieden.",
+      "Dann hat sich der Körper der Giftstoffe wieder entledigt."
+    ],
+    0.9447726607322693
+  ],
+  [
+    [
+      32,
+      36
+    ],
+    [
+      "Manchmal dauern die Beschwerden aber auch länger.",
+      "Oft zeigen andere Menschen, die das Gleiche verzehrt haben, auch Symptome."
+    ],
+    0.8376672863960266
+  ],
+  [
+    [
+      33,
+      36
+    ],
+    [
+      "Das hängt von den Giftstoffen ab und von der Menge an Giftstoffen.",
+      "Oft zeigen andere Menschen, die das Gleiche verzehrt haben, auch Symptome."
+    ],
+    0.41789674758911133
+  ],
+  [
+    [
+      34,
+      36
+    ],
+    [
+      "Bei einer Lebensmittel-Infektion gibt es häufig die gleichen Beschwerden wie bei einer Lebensmittel-Vergiftung.",
+      "Oft zeigen andere Menschen, die das Gleiche verzehrt haben, auch Symptome."
+    ],
+    0.699118435382843
+  ],
+  [
+    [
+      35,
+      36
+    ],
+    [
+      "Aber die Beschwerden kommen oft erst später.",
+      "Oft zeigen andere Menschen, die das Gleiche verzehrt haben, auch Symptome."
+    ],
+    0.8299667835235596
+  ],
+  [
+    [
+      36,
+      36
+    ],
+    [
+      "Manchmal kommen die Beschwerden bei einer Lebensmittel-Infektion sogar erst nach mehreren Tagen.",
+      "Oft zeigen andere Menschen, die das Gleiche verzehrt haben, auch Symptome."
+    ],
+    0.6629660129547119
+  ],
+  [
+    [
+      37,
+      41
+    ],
+    [
+      "Eine Lebensmittel-Erkrankung kann sehr gefährlich sein.",
+      "Bei einer lebensmittelbedingten Erkrankung sind sie also nicht zielführend."
+    ],
+    0.6310312747955322
+  ],
+  [
+    [
+      38,
+      42
+    ],
+    [
+      "Besonders gefährlich sind Lebensmittel-Erkrankungen für Menschen mit einem schwachen Immunsystem.",
+      "Bei Babys, Kleinkindern, alten Menschen und solchen, die ein geschwächtes Immunsystem haben, können lebensmittelbedingte Erkrankungen schwerer verlaufen."
+    ],
+    0.7892894744873047
+  ],
+  [
+    [
+      39,
+      42
+    ],
+    [
+      "Hierzu gehören: Babys und kleine Kinder, schwangere Frauen, alte Menschen, und kranke Menschen.",
+      "Bei Babys, Kleinkindern, alten Menschen und solchen, die ein geschwächtes Immunsystem haben, können lebensmittelbedingte Erkrankungen schwerer verlaufen."
+    ],
+    0.7604919672012329
+  ],
+  [
+    [
+      40,
+      42
+    ],
+    [
+      "Vielleicht sind aber auch andere Krankheiten die Ursache für die Beschwerden.",
+      "Bei Babys, Kleinkindern, alten Menschen und solchen, die ein geschwächtes Immunsystem haben, können lebensmittelbedingte Erkrankungen schwerer verlaufen."
+    ],
+    0.785062849521637
+  ],
+  [
+    [
+      41,
+      44
+    ],
+    [
+      "Ein Arzt kann die Beschwerden genau untersuchen.",
+      "Auch wenn die Symptome länger als drei Tage anhalten, Beschwerden wie Fieber oder blutiger Durchfall auftreten, wird der Besuch beim Arzt unumgänglich."
+    ],
+    0.744819700717926
+  ],
+  [
+    [
+      42,
+      44
+    ],
+    [
+      "In manchen Lebensmitteln gibt es häufiger Krankheitserreger als in anderen.",
+      "Auch wenn die Symptome länger als drei Tage anhalten, Beschwerden wie Fieber oder blutiger Durchfall auftreten, wird der Besuch beim Arzt unumgänglich."
+    ],
+    0.5334322452545166
+  ],
+  [
+    [
+      43,
+      44
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel Bakterien oder Viren.",
+      "Auch wenn die Symptome länger als drei Tage anhalten, Beschwerden wie Fieber oder blutiger Durchfall auftreten, wird der Besuch beim Arzt unumgänglich."
+    ],
+    0.596011221408844
+  ],
+  [
+    [
+      44,
+      45
+    ],
+    [
+      "Zu solchen Lebensmitteln gehören vor allem: rohes Fleisch rohes Geflügel roher Fisch rohe Eier Rohmilch",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.5228363275527954
+  ],
+  [
+    [
+      45,
+      45
+    ],
+    [
+      "Auch in manchen Konservendosen können Krankheitserreger sein.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.7239207625389099
+  ],
+  [
+    [
+      46,
+      45
+    ],
+    [
+      "Die Krankheitserreger in Konservendosen sind aber sehr selten.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.5938063859939575
+  ],
+  [
+    [
+      47,
+      45
+    ],
+    [
+      "Trotzdem sind diese Krankheitserreger besonders gefährlich.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.7955484390258789
+  ],
+  [
+    [
+      48,
+      45
+    ],
+    [
+      "Essen Sie deshalb niemals den Inhalt von aufgeblähten Konservendosen.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.6622574925422668
+  ],
+  [
+    [
+      49,
+      47
+    ],
+    [
+      "In aufgeblähten Konservendosen sind wahrscheinlich Krankheitserreger enthalten.",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.2540833353996277
+  ],
+  [
+    [
+      50,
+      47
+    ],
+    [
+      "Sie können das Risiko für eine Lebensmittel-Erkrankung verkleinern.",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.7856066823005676
+  ],
+  [
+    [
+      51,
+      47
+    ],
+    [
+      "Dafür können Sie einige Dinge beachten.",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.8338138461112976
+  ],
+  [
+    [
+      52,
+      47
+    ],
+    [
+      "Lebensmittel ausreichend lange erhitzen.",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.5512551069259644
+  ],
+  [
+    [
+      53,
+      47
+    ],
+    [
+      "Starke Hitze tötet die meisten Krankheitserreger.",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.47149407863616943
+  ],
+  [
+    [
+      54,
+      47
+    ],
+    [
+      "Sie sollten die Lebensmittel deshalb vor dem Essen:",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.8468230962753296
+  ],
+  [
+    [
+      55,
+      47
+    ],
+    [
+      "Kochen Braten oder garen",
+      "Schützen können Sie sich vor einer Lebensmittelvergiftung oder -infektion, indem Sie ein paar Hygieneregeln einhalten:"
+    ],
+    0.571518063545227
+  ],
+  [
+    [
+      56,
+      48
+    ],
+    [
+      "Gründlich Hände waschen.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.7128220200538635
+  ],
+  [
+    [
+      57,
+      48
+    ],
+    [
+      "Waschen Sie Ihre Hände vor und nach der Zubereitung von Lebensmitteln.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.7590160965919495
+  ],
+  [
+    [
+      58,
+      48
+    ],
+    [
+      "Benutzen Sie dafür Wasser und Seife.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.8825817108154297
+  ],
+  [
+    [
+      59,
+      48
+    ],
+    [
+      "Waschen Sie sich vor allem nach dem Verarbeiten von rohem Fleisch oder Fisch die Hände.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.8325634002685547
+  ],
+  [
+    [
+      60,
+      48
+    ],
+    [
+      "Mögliche Krankheitserreger können sonst schnell auf andere Lebensmittel übergehen.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.7352212071418762
+  ],
+  [
+    [
+      61,
+      48
+    ],
+    [
+      "Lebensmittel getrennt voneinander verarbeiten.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.6037784814834595
+  ],
+  [
+    [
+      62,
+      48
+    ],
+    [
+      "Rohes Fleisch und roher Fisch dürfen andere Lebensmittel nicht berühren.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.7207852005958557
+  ],
+  [
+    [
+      63,
+      48
+    ],
+    [
+      "Benutzen Sie deshalb immer unterschiedliche Teller oder Brettchen bei der Verarbeitung.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.791882336139679
+  ],
+  [
+    [
+      64,
+      48
+    ],
+    [
+      "Arbeitsfläche gründlich reinigen.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.7052958011627197
+  ],
+  [
+    [
+      65,
+      48
+    ],
+    [
+      "Machen Sie die Arbeitsfläche immer gründlich sauber.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.8758571743965149
+  ],
+  [
+    [
+      66,
+      54
+    ],
+    [
+      "Putzlappen und Putzschwämme austauschen.",
+      "Wechseln Sie regelmäßig Schwämme, Spülbürsten und Lappen."
+    ],
+    0.7599307894706726
+  ],
+  [
+    [
+      67,
+      54
+    ],
+    [
+      "Benutzen Sie regelmäßig neue Lappen und Schwämme für die Küche.",
+      "Wechseln Sie regelmäßig Schwämme, Spülbürsten und Lappen."
+    ],
+    0.8207399845123291
+  ],
+  [
+    [
+      68,
+      54
+    ],
+    [
+      "Auch Bürsten sollten Sie regelmäßig austauschen.",
+      "Wechseln Sie regelmäßig Schwämme, Spülbürsten und Lappen."
+    ],
+    0.8842629790306091
+  ],
+  [
+    [
+      69,
+      58
+    ],
+    [
+      "Tauwasser wegschütten.",
+      "Kochen, braten oder garen Sie Fleisch, Fisch oder Geflügel ausreichend lange, dann werden die meisten Erreger abgetötet."
+    ],
+    0.5091634392738342
+  ],
+  [
+    [
+      70,
+      61
+    ],
+    [
+      "Manche Lebensmittel sind gefroren.",
+      "Weitere Nahrungsmittel, die Vergiftungen hervorrufen können sind unter anderem verdorbene Pilze, ein Übermaß an Alkohol oder Toxine aus Fisch."
+    ],
+    0.6638588309288025
+  ],
+  [
+    [
+      71,
+      61
+    ],
+    [
+      "So sind die Lebensmittel länger haltbar.",
+      "Weitere Nahrungsmittel, die Vergiftungen hervorrufen können sind unter anderem verdorbene Pilze, ein Übermaß an Alkohol oder Toxine aus Fisch."
+    ],
+    0.6169269680976868
+  ],
+  [
+    [
+      72,
+      61
+    ],
+    [
+      "Ein Lebensmittel ist aufgetaut?",
+      "Weitere Nahrungsmittel, die Vergiftungen hervorrufen können sind unter anderem verdorbene Pilze, ein Übermaß an Alkohol oder Toxine aus Fisch."
+    ],
+    0.2556946873664856
+  ],
+  [
+    [
+      73,
+      63
+    ],
+    [
+      "Dann schütten Sie die Flüssigkeit aus der Lebensmittel-Verpackung sofort weg.",
+      "Beim Alkohol führt weniger Verderb, sondern eher ein Übermaß an Bier oder Wein zu einer Alkoholvergiftung."
+    ],
+    0.5762627124786377
+  ],
+  [
+    [
+      74,
+      64
+    ],
+    [
+      "In der Flüssigkeit können sich nämlich schnell Krankheitserreger bilden.",
+      "Die Ciguatera, eine gefährliche Fischvergiftung, tritt vor allem in Urlaubsländern wie der Karibik auf."
+    ],
+    0.7681306004524231
+  ],
+  [
+    [
+      75,
+      64
+    ],
+    [
+      "Lebensmittel im Kühlschrank lagern.",
+      "Die Ciguatera, eine gefährliche Fischvergiftung, tritt vor allem in Urlaubsländern wie der Karibik auf."
+    ],
+    0.16407644748687744
+  ],
+  [
+    [
+      76,
+      65
+    ],
+    [
+      "Lagern Sie Lebensmittel wie Fleisch und Fisch im Kühlschrank.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.19777651131153107
+  ],
+  [
+    [
+      77,
+      65
+    ],
+    [
+      "Hierzu gehört auch Geflügel oder Wurst.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.18121598660945892
+  ],
+  [
+    [
+      78,
+      65
+    ],
+    [
+      "Rohmilch und Rohmilch-Produkte gehören auch in den Kühlschrank.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.224774569272995
+  ],
+  [
+    [
+      79,
+      65
+    ],
+    [
+      "Ebenso wie Käse.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.0480789877474308
+  ],
+  [
+    [
+      80,
+      65
+    ],
+    [
+      "Lagern Sie die Lebensmittel immer getrennt voneinander.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.11728118360042572
+  ],
+  [
+    [
+      83,
+      65
+    ],
+    [
+      "Der Arzt untersucht Sie.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.27260473370552063
+  ],
+  [
+    [
+      84,
+      65
+    ],
+    [
+      "Und der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.24550336599349976
+  ],
+  [
+    [
+      85,
+      65
+    ],
+    [
+      "Sie wollen noch mehr über Lebensmittel-Erkrankungen lesen?",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.0002000834356294945
+  ],
+  [
+    [
+      86,
+      65
+    ],
+    [
+      "Mehr Informationen über Lebensmittel-Erkrankungen finden Sie hier .",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.14550329744815826
+  ],
+  [
+    [
+      87,
+      65
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.2598400413990021
+  ],
+  [
+    [
+      88,
+      65
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Dr. Ute Messelhäußer vom Bayerischen Landesamt für Gesundheit und Lebensmittelsicherheit"
+    ],
+    0.10335366427898407
+  ]
+]

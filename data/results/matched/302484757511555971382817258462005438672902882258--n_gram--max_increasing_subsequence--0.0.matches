@@ -1,0 +1,1003 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8746918439865112
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Ein Kälteschaden entsteht durch eine zu lange Zeit in der Kälte.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.38517817854881287
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8869973421096802
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Das bedeutet: Die Kälte hat das Gewebe an bestimmten Stellen des Körpers beschädigt.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.2323095053434372
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.38762161135673523
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.6655800938606262
+  ],
+  [
+    [
+      6,
+      15
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.5432724952697754
+  ],
+  [
+    [
+      7,
+      15
+    ],
+    [
+      "Mehr Informationen zum Thema Unterkühlung finden Sie hier .",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.052832555025815964
+  ],
+  [
+    [
+      8,
+      15
+    ],
+    [
+      "Eine Person ist sehr lange in der Kälte?",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.12137289345264435
+  ],
+  [
+    [
+      9,
+      15
+    ],
+    [
+      "Dann können sich Eiskristalle im Gewebe bilden.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.022658197209239006
+  ],
+  [
+    [
+      10,
+      15
+    ],
+    [
+      "Das Gewebe ist an diesen Stellen stark beschädigt.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.006339996587485075
+  ],
+  [
+    [
+      11,
+      15
+    ],
+    [
+      "Deshalb wird es vielleicht nicht mehr gut durchblutet.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.2777741849422455
+  ],
+  [
+    [
+      12,
+      15
+    ],
+    [
+      "Manchmal stirbt das Gewebe auch ab.",
+      "Der Körper versucht so, eine gewisse Durchblutung in der betroffenen Region aufrecht zu erhalten."
+    ],
+    0.011343512684106827
+  ],
+  [
+    [
+      13,
+      17
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Erfrierungen"
+    ],
+    0.8794431090354919
+  ],
+  [
+    [
+      14,
+      20
+    ],
+    [
+      "Finger Zehen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.33639851212501526
+  ],
+  [
+    [
+      15,
+      20
+    ],
+    [
+      "Nase",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.0427410788834095
+  ],
+  [
+    [
+      16,
+      20
+    ],
+    [
+      "Wangen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.08141636103391647
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Ohren",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.03780808299779892
+  ],
+  [
+    [
+      18,
+      69
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen von Erfrierungen.",
+      "Erfrierungen"
+    ],
+    0.9112607836723328
+  ],
+  [
+    [
+      19,
+      70
+    ],
+    [
+      "Diese Stufen heißen: Grade.",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.06998275965452194
+  ],
+  [
+    [
+      20,
+      70
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.9831117987632751
+  ],
+  [
+    [
+      22,
+      71
+    ],
+    [
+      "Erfrierung ersten Grades",
+      "Erfrierung"
+    ],
+    0.937286376953125
+  ],
+  [
+    [
+      23,
+      72
+    ],
+    [
+      "Die betroffene Hautstelle ist blass.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.5366522073745728
+  ],
+  [
+    [
+      24,
+      72
+    ],
+    [
+      "Manchmal ist sie auch grau-weiß oder gelb-weiß.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.600208044052124
+  ],
+  [
+    [
+      25,
+      72
+    ],
+    [
+      "Die Hautstelle fühlt sich hart und kalt an.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.17853915691375732
+  ],
+  [
+    [
+      26,
+      72
+    ],
+    [
+      "Und die betroffene Hautstelle ist taub.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.5541524291038513
+  ],
+  [
+    [
+      27,
+      72
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.1544307917356491
+  ],
+  [
+    [
+      28,
+      72
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.2706020474433899
+  ],
+  [
+    [
+      30,
+      72
+    ],
+    [
+      "Erfrierung zweiten Grades",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.06333284825086594
+  ],
+  [
+    [
+      32,
+      72
+    ],
+    [
+      "Einige dieser Blasen sind mit Blut gefüllt.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.12343957275152206
+  ],
+  [
+    [
+      33,
+      72
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.04541853070259094
+  ],
+  [
+    [
+      34,
+      72
+    ],
+    [
+      "Die Schmerzen können aber auch geringer sein.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.06931431591510773
+  ],
+  [
+    [
+      36,
+      72
+    ],
+    [
+      "Erfrierung dritten und vierten Grades",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.062471628189086914
+  ],
+  [
+    [
+      37,
+      72
+    ],
+    [
+      "Das betroffene Hautgewebe stirbt ab.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.4300886392593384
+  ],
+  [
+    [
+      38,
+      73
+    ],
+    [
+      "Die Haut ist blau oder schwarz verfärbt.",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.36989036202430725
+  ],
+  [
+    [
+      39,
+      73
+    ],
+    [
+      "Die Haut nimmt keine Reize oder Schmerzen mehr auf.",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.2533283531665802
+  ],
+  [
+    [
+      40,
+      73
+    ],
+    [
+      "Und sie heilt auch nicht mehr.",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.057541076093912125
+  ],
+  [
+    [
+      41,
+      73
+    ],
+    [
+      "In manchen Fällen muss das betroffene Gewebe durch eine Operation entfernt werden.",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.010443444363772869
+  ],
+  [
+    [
+      42,
+      73
+    ],
+    [
+      "Hinweis: Oft zeigt sich erst einige Tage später, wie stark die Erfrierung ist.",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.047341715544462204
+  ],
+  [
+    [
+      45,
+      73
+    ],
+    [
+      "Jemand fällt in kaltes Wasser",
+      "Die Haut ist hart, kalt und ohne Gefühl."
+    ],
+    0.1615295708179474
+  ],
+  [
+    [
+      48,
+      86
+    ],
+    [
+      "Der Wind bläst nämlich die warme Luft um den Körper weg und aus der Kleidung heraus.",
+      "Wichtig: Da Sie als Laie womöglich nicht erkennen können, wie schlimm eine Erfrierung ist oder ob der Betroffene auch unterkühlt ist, sollten Sie als erstes den Notruf 112 tätigen."
+    ],
+    0.1261531263589859
+  ],
+  [
+    [
+      49,
+      89
+    ],
+    [
+      "Dadurch verliert der Körper sehr viel Wärme.",
+      "Die allgemeine Unterkühlung ist viel gefährlicher als eine lokale Erfrierung und muss deshalb zuerst und effektiv behandelt werden."
+    ],
+    0.001421494409441948
+  ],
+  [
+    [
+      50,
+      89
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "Die allgemeine Unterkühlung ist viel gefährlicher als eine lokale Erfrierung und muss deshalb zuerst und effektiv behandelt werden."
+    ],
+    0.03722493350505829
+  ],
+  [
+    [
+      53,
+      90
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Rufen Sie die 112 an."
+    ],
+    0.49053674936294556
+  ],
+  [
+    [
+      56,
+      90
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Rufen Sie die 112 an."
+    ],
+    0.10472157597541809
+  ],
+  [
+    [
+      57,
+      90
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Rufen Sie die 112 an."
+    ],
+    0.7665385603904724
+  ],
+  [
+    [
+      58,
+      90
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6128897070884705
+  ],
+  [
+    [
+      65,
+      90
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6560273766517639
+  ],
+  [
+    [
+      66,
+      90
+    ],
+    [
+      "Fäustlinge halten die Finger besser warm als Finger-Handschuhe.",
+      "Rufen Sie die 112 an."
+    ],
+    0.15083996951580048
+  ],
+  [
+    [
+      68,
+      90
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske.",
+      "Rufen Sie die 112 an."
+    ],
+    0.5803026556968689
+  ],
+  [
+    [
+      69,
+      90
+    ],
+    [
+      "Ziehen Sie passende Schuhe an.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6610637307167053
+  ],
+  [
+    [
+      70,
+      90
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung.",
+      "Rufen Sie die 112 an."
+    ],
+    0.26413068175315857
+  ],
+  [
+    [
+      71,
+      90
+    ],
+    [
+      "Ziehen Sie sich dicke Socken an.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6293858289718628
+  ],
+  [
+    [
+      72,
+      90
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Rufen Sie die 112 an."
+    ],
+    0.7099239230155945
+  ],
+  [
+    [
+      73,
+      90
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6170669794082642
+  ],
+  [
+    [
+      74,
+      90
+    ],
+    [
+      "Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Rufen Sie die 112 an."
+    ],
+    0.6024680137634277
+  ],
+  [
+    [
+      75,
+      90
+    ],
+    [
+      "Der Tee kann Sie wärmen.",
+      "Rufen Sie die 112 an."
+    ],
+    0.46641454100608826
+  ],
+  [
+    [
+      76,
+      90
+    ],
+    [
+      "Essen Sie genügend.",
+      "Rufen Sie die 112 an."
+    ],
+    0.7526949644088745
+  ],
+  [
+    [
+      77,
+      90
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Rufen Sie die 112 an."
+    ],
+    0.179644376039505
+  ],
+  [
+    [
+      78,
+      90
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Rufen Sie die 112 an."
+    ],
+    0.4849853813648224
+  ],
+  [
+    [
+      79,
+      90
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Rufen Sie die 112 an."
+    ],
+    0.820817232131958
+  ],
+  [
+    [
+      81,
+      90
+    ],
+    [
+      "Nur Experten erkennen sicher:",
+      "Rufen Sie die 112 an."
+    ],
+    0.43638870120048523
+  ],
+  [
+    [
+      83,
+      90
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Rufen Sie die 112 an."
+    ],
+    0.7322798371315002
+  ],
+  [
+    [
+      84,
+      90
+    ],
+    [
+      "Die Nummer ist:",
+      "Rufen Sie die 112 an."
+    ],
+    0.2463272213935852
+  ],
+  [
+    [
+      85,
+      91
+    ],
+    [
+      "112. Sie glauben:",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.27538251876831055
+  ],
+  [
+    [
+      86,
+      91
+    ],
+    [
+      "Eine Person leidet unter einer Erfrierung?",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.07484378665685654
+  ],
+  [
+    [
+      87,
+      91
+    ],
+    [
+      "Dann bringen Sie diese Person an einen warmen Ort.",
+      "Bringen Sie den Verletzten dann – wenn möglich – an einen warmen Ort."
+    ],
+    0.692078173160553
+  ],
+  [
+    [
+      88,
+      92
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Ist die Kleidung nass, ziehen Sie diese dort aus."
+    ],
+    0.8196231722831726
+  ],
+  [
+    [
+      89,
+      104
+    ],
+    [
+      "Und geben Sie der Person trockene Kleidung und Decken.",
+      "Erfrierung Ist der Betroffene normal ansprechbar, zittert und hat vermutlich erfrorene Finger oder Fußzehen, dann sollten Sie ihn zuerst an einen warmen Ort bringen – zum Beispiel in eine Berghütte oder ins beheizte Auto."
+    ],
+    0.19265174865722656
+  ],
+  [
+    [
+      90,
+      105
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Anschließend behutsam Schmuck und nasse Kleidung ausziehen und die erfrorenen Körperteile vorsichtig erwärmen."
+    ],
+    0.7712436318397522
+  ],
+  [
+    [
+      91,
+      107
+    ],
+    [
+      "Nutzen Sie dafür ein Wasserbad.",
+      "Gießen Sie ständig warme Flüssigkeit nach – insgesamt maximal eine halbe Stunde."
+    ],
+    0.4911313056945801
+  ],
+  [
+    [
+      92,
+      108
+    ],
+    [
+      "Achtung: Das Auftauen der Finger oder Zehen kann sehr schmerzhaft sein.",
+      "Tauen dabei Finger oder Fußzehen wieder auf, kann dies sehr weh tun und erfordert gegebenenfalls sogar die Einnahme von Schmerzmitteln."
+    ],
+    0.4965054392814636
+  ],
+  [
+    [
+      93,
+      108
+    ],
+    [
+      "Vielleicht muss die betroffene Person Schmerzmittel einnehmen.",
+      "Tauen dabei Finger oder Fußzehen wieder auf, kann dies sehr weh tun und erfordert gegebenenfalls sogar die Einnahme von Schmerzmitteln."
+    ],
+    0.21609915792942047
+  ],
+  [
+    [
+      94,
+      109
+    ],
+    [
+      "Wickeln Sie dann die betroffenen Stellen in einen Verband.",
+      "Zuletzt die betroffenen Hautbereiche mit einem sterilen lockeren Verband einwickeln – jeden Finger und jede Zehe einzeln."
+    ],
+    0.49552276730537415
+  ],
+  [
+    [
+      95,
+      109
+    ],
+    [
+      "Beachten Sie: Der Verband soll locker sein.",
+      "Zuletzt die betroffenen Hautbereiche mit einem sterilen lockeren Verband einwickeln – jeden Finger und jede Zehe einzeln."
+    ],
+    0.04651591554284096
+  ],
+  [
+    [
+      96,
+      109
+    ],
+    [
+      "Und jeder Finger und jede Zehe soll einzeln eingewickelt sein.",
+      "Zuletzt die betroffenen Hautbereiche mit einem sterilen lockeren Verband einwickeln – jeden Finger und jede Zehe einzeln."
+    ],
+    0.5778984427452087
+  ],
+  [
+    [
+      97,
+      110
+    ],
+    [
+      "Es gibt kein warmes Wasser in der Nähe?",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.45480799674987793
+  ],
+  [
+    [
+      98,
+      110
+    ],
+    [
+      "Dann können Sie die erfrorenen Finger in den Achselhöhlen aufwärmen oder warme Hände auf erfrorene Stellen im Gesicht legen.",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.6924247741699219
+  ],
+  [
+    [
+      99,
+      111
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Vorsicht: Erfrorene Körperteile nicht mit Schnee einreiben."
+    ],
+    0.7770109176635742
+  ],
+  [
+    [
+      100,
+      112
+    ],
+    [
+      "Öffnen Sie keine Blasen.",
+      "Keine Blasen öffnen, dies kann zu Infektionen führen."
+    ],
+    0.31614822149276733
+  ],
+  [
+    [
+      101,
+      112
+    ],
+    [
+      "Durch offene Blasen können Infektionen entstehen.",
+      "Keine Blasen öffnen, dies kann zu Infektionen führen."
+    ],
+    0.28318095207214355
+  ],
+  [
+    [
+      102,
+      114
+    ],
+    [
+      "Lassen Sie die betroffene Person keine Zigarette rauchen.",
+      "Betreffende Stellen vorsichtshalber nicht massieren, da dies bei schwereren Erfrierungen schaden kann."
+    ],
+    0.08958102762699127
+  ],
+  [
+    [
+      103,
+      114
+    ],
+    [
+      "Dadurch verengen sich die Blutgefäße.",
+      "Betreffende Stellen vorsichtshalber nicht massieren, da dies bei schwereren Erfrierungen schaden kann."
+    ],
+    0.1278875172138214
+  ],
+  [
+    [
+      104,
+      115
+    ],
+    [
+      "Massieren Sie die betroffenen Stellen nicht .",
+      "Die Haut nicht mit trockener oder zu starker Hitze erwärmen – also zum Beispiel durch einen Fön, ein Heizkissen, Lagerfeuer oder an der Heizung."
+    ],
+    0.04341213405132294
+  ],
+  [
+    [
+      105,
+      115
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Die Haut nicht mit trockener oder zu starker Hitze erwärmen – also zum Beispiel durch einen Fön, ein Heizkissen, Lagerfeuer oder an der Heizung."
+    ],
+    0.6742680668830872
+  ],
+  [
+    [
+      106,
+      116
+    ],
+    [
+      "Die erfrorene Haut ist nämlich taub.",
+      "Da die erfrorene Haut ohne Gefühl ist, kann es zu Verbrennungen kommen."
+    ],
+    0.843752920627594
+  ],
+  [
+    [
+      107,
+      116
+    ],
+    [
+      "Es könnte zu Verbrennungen kommen.",
+      "Da die erfrorene Haut ohne Gefühl ist, kann es zu Verbrennungen kommen."
+    ],
+    0.20492233335971832
+  ],
+  [
+    [
+      108,
+      119
+    ],
+    [
+      "Sie wollen noch mehr über Kälteschäden lesen?",
+      "Eine wärmende Decke und trockene Kleider empfehlen sich aber in jedem Fall."
+    ],
+    0.00785422045737505
+  ],
+  [
+    [
+      109,
+      120
+    ],
+    [
+      "Mehr Informationen über Kälteschäden finden Sie hier.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.592528223991394
+  ],
+  [
+    [
+      110,
+      138
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "https://www.aerzteblatt.de/archiv/172741/Einteilung-und-Therapie-kaelteinduzierter-Verletzungen (abgerufen am 17. Oktober 2018)"
+    ],
+    0.0045238216407597065
+  ],
+  [
+    [
+      111,
+      139
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Medizinische Kommission der Union Internationale des Associations d’Alpinisme (UIAA MedCom), Bern/Schweiz, \"Kälteschäden – Hypothermie und Erfrierungen\"."
+    ],
+    0.004849744029343128
+  ]
+]

@@ -1,0 +1,1278 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ihr Auto ist weg?",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.16522708535194397
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Es steht nicht mehr da, wo Sie es abgestellt haben?",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.20544898509979248
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann wurde Ihr Auto vielleicht abgeschleppt.",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.19927291572093964
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Oder Ihr Auto wurde gestohlen .",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.1697387397289276
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Auf dieser Seite erklären wir, was Sie tun können.",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.10700806230306625
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Und wie Sie Ihr Auto zurück bekommen.",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.1262771040201187
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Wo bekomme ich Infos und Hilfe?",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.07220397144556046
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Manchmal ist der Ordnungs- und Verkehrs-Dienst noch vor Ort.",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.16324689984321594
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Dann können Sie fragen:",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.12656617164611816
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Ob und wohin Ihr Fahrzeug abgeschleppt wird.",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.16770708560943604
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Oder Sie rufen bei uns an.",
+      "An wen können Sie sich wenden?"
+    ],
+    0.20021851360797882
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Service-Telefon: 02 21 / 22 13 20 00 Ordnungs- und Verkehrs-Dienst der Stadt Köln",
+      "Köln"
+    ],
+    0.1731443852186203
+  ],
+  [
+    [
+      12,
+      4
+    ],
+    [
+      "Willy-Brandt-Platz 3 50679 Köln",
+      "Köln"
+    ],
+    0.342492014169693
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Montag bis Donnerstag 7 bis 0 Uhr Freitag 7 bis 1 Uhr Samstag 9 bis 1 Uhr Sonntage und Feiertage 9 bis 0 Uhr Außerhalb dieser Zeiten rufen Sie bitte die Polizei Köln .",
+      "Köln"
+    ],
+    0.09776441007852554
+  ],
+  [
+    [
+      15,
+      14
+    ],
+    [
+      "Telefon-Nummer 02 21 / 22 90 .",
+      "Weg 4 bis 10 50969 Köln-Zollstock Telefon: 0221 / 800180-0 Telefax: 0221 / 800180-10 Firma Pahlke Möhlstraße"
+    ],
+    0.13137327134609222
+  ],
+  [
+    [
+      16,
+      19
+    ],
+    [
+      "Wichtig: Wenn die Polizei und der Ordnungs- und Verkehrs-Dienst keine Infos zu Ihrem Fahrzeug haben, dann wurde es vielleicht gestohlen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.18325123190879822
+  ],
+  [
+    [
+      17,
+      19
+    ],
+    [
+      "Dann müssen Sie zur Polizei gehen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.2062263935804367
+  ],
+  [
+    [
+      18,
+      19
+    ],
+    [
+      "Und Sie müssen den Diebstahl anzeigen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.20490533113479614
+  ],
+  [
+    [
+      19,
+      19
+    ],
+    [
+      "Wo kann ich mein Fahrzeug abholen?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.10606836527585983
+  ],
+  [
+    [
+      20,
+      19
+    ],
+    [
+      "Bitte rufen Sie immer zuerst beim Ordnungs- und Verkehrs-Dienst an.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.19972750544548035
+  ],
+  [
+    [
+      22,
+      19
+    ],
+    [
+      "Bitte fragen Sie nach:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.21544809639453888
+  ],
+  [
+    [
+      23,
+      19
+    ],
+    [
+      "Welche Firma hat mein Fahrzeug abgeschleppt?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.10474135726690292
+  ],
+  [
+    [
+      24,
+      19
+    ],
+    [
+      "Wo kann ich mein Fahrzeug abholen?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.10606836527585983
+  ],
+  [
+    [
+      25,
+      19
+    ],
+    [
+      "Wir geben Ihnen dann die Adresse von der Abschlepp-Firma.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1591777503490448
+  ],
+  [
+    [
+      26,
+      19
+    ],
+    [
+      "Sie können dann bei der Abschlepp-Firma anrufen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.202944815158844
+  ],
+  [
+    [
+      27,
+      19
+    ],
+    [
+      "Und persönlich zur Abschlepp-Firma gehen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.12361409515142441
+  ],
+  [
+    [
+      28,
+      19
+    ],
+    [
+      "Hier finden Sie eine Übersicht mit Abschlepp-Firmen in Köln.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.12237176299095154
+  ],
+  [
+    [
+      29,
+      19
+    ],
+    [
+      "Die Firmen schleppen für den Ordnungs- und Verkehrs-Dienst ab:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.15703468024730682
+  ],
+  [
+    [
+      31,
+      19
+    ],
+    [
+      "Bergisch",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.09680577367544174
+  ],
+  [
+    [
+      32,
+      19
+    ],
+    [
+      "Gladbacher Straße",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.04292203485965729
+  ],
+  [
+    [
+      34,
+      19
+    ],
+    [
+      "Was muss ich zum Abholen mitbringen?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.14223451912403107
+  ],
+  [
+    [
+      35,
+      19
+    ],
+    [
+      "Wenn Sie das Auto bei der Abschlepp-Firma abholen wollen, müssen Sie diese Papiere mitbringen:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.21117353439331055
+  ],
+  [
+    [
+      36,
+      19
+    ],
+    [
+      "Ihren Personal-Ausweis den Fahrzeug-Schein vom abgeschleppten Fahrzeug.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.16750523447990417
+  ],
+  [
+    [
+      37,
+      19
+    ],
+    [
+      "Oder die Zulassungs-Bescheinigung Teil 1 .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.09942410886287689
+  ],
+  [
+    [
+      38,
+      19
+    ],
+    [
+      "Das ist ein Papier vom Amt.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.010577201843261719
+  ],
+  [
+    [
+      39,
+      19
+    ],
+    [
+      "Das Papier bekommen Sie von uns, wenn Sie Ihr Fahrzeug beim Amt anmelden.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.16895321011543274
+  ],
+  [
+    [
+      40,
+      19
+    ],
+    [
+      "Damit können Sie der Abschlepp-Firma zeigen:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.20354554057121277
+  ],
+  [
+    [
+      41,
+      19
+    ],
+    [
+      "Das Fahrzeug gehört mir.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.07474060356616974
+  ],
+  [
+    [
+      42,
+      19
+    ],
+    [
+      "Wichtig: Sie können die Abschlepp-Kosten sofort bezahlen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.31982138752937317
+  ],
+  [
+    [
+      43,
+      19
+    ],
+    [
+      "Das heißt: Sie zahlen sofort bei der Abschlepp-Firma.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.147587850689888
+  ],
+  [
+    [
+      44,
+      19
+    ],
+    [
+      "Dann bekommen Sie Ihr Fahrzeug zurück.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.2129490226507187
+  ],
+  [
+    [
+      45,
+      19
+    ],
+    [
+      "Wenn Sie nicht sofort bezahlen , bekommen Sie Ihr Fahrzeug nicht sofort zurück .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.26243576407432556
+  ],
+  [
+    [
+      46,
+      19
+    ],
+    [
+      "Dann entscheidet der Ordnungs- und Verkehrs-Dienst was mit Ihrem Fahrzeug passiert.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.17866957187652588
+  ],
+  [
+    [
+      47,
+      19
+    ],
+    [
+      "Also: Ob Sie Ihr Fahrzeug zurück bekommen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.16902771592140198
+  ],
+  [
+    [
+      48,
+      19
+    ],
+    [
+      "Oder ob Ihr Fahrzeug bei der Abschlepp-Firma bleibt.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.12439294904470444
+  ],
+  [
+    [
+      49,
+      19
+    ],
+    [
+      "Wie viel kostet das Abschleppen?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.14356659352779388
+  ],
+  [
+    [
+      50,
+      19
+    ],
+    [
+      "Es gibt 3 Arten von Kosten, wenn Ihr Fahrzeug abgeschleppt wurde:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.11714498698711395
+  ],
+  [
+    [
+      51,
+      19
+    ],
+    [
+      "1. Die Kosten für das Abschleppen",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.14275692403316498
+  ],
+  [
+    [
+      52,
+      19
+    ],
+    [
+      "Das ist das Geld für die Abschlepp-Firma.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.08696954697370529
+  ],
+  [
+    [
+      53,
+      19
+    ],
+    [
+      "Die Kosten können Sie bezahlen, wenn Sie Ihr Fahrzeug abholen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.2520911693572998
+  ],
+  [
+    [
+      54,
+      19
+    ],
+    [
+      "Wie viel Sie bezahlen müssen, hängt von vielen Fragen ab:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1665029376745224
+  ],
+  [
+    [
+      55,
+      19
+    ],
+    [
+      "Was für ein Fahrzeug haben Sie?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.15212826430797577
+  ],
+  [
+    [
+      56,
+      19
+    ],
+    [
+      "Zum Beispiel: Auto, Bus oder LKW .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.13789474964141846
+  ],
+  [
+    [
+      57,
+      19
+    ],
+    [
+      "Wann wurde Ihr Fahrzeug abgeschleppt?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.11361544579267502
+  ],
+  [
+    [
+      58,
+      19
+    ],
+    [
+      "Wie lange steht Ihr Fahrzeug bei der Abschlepp-Firma?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.10369077324867249
+  ],
+  [
+    [
+      59,
+      19
+    ],
+    [
+      "Sie können bei der Abschlepp-Firma anrufen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1928403675556183
+  ],
+  [
+    [
+      60,
+      19
+    ],
+    [
+      "Und nach den Kosten fragen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.19039663672447205
+  ],
+  [
+    [
+      61,
+      19
+    ],
+    [
+      "Wenn die Abschlepp-Firma beauftragt worden ist, müssen Sie immer Geld bezahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.19232971966266632
+  ],
+  [
+    [
+      62,
+      19
+    ],
+    [
+      "Auch wenn Sie Ihr Fahrzeug umparken, bevor der Abschlepp-Wagen kommt.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.17786258459091187
+  ],
+  [
+    [
+      63,
+      19
+    ],
+    [
+      "Sie werden dann nicht mehr abgeschleppt .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.2477199137210846
+  ],
+  [
+    [
+      64,
+      19
+    ],
+    [
+      "Aber Sie müssen die Fahrt vom Abschlepp-Wagen bezahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.2236257791519165
+  ],
+  [
+    [
+      66,
+      19
+    ],
+    [
+      "Die Verwaltungs-Gebühren an die Stadt Köln",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.13089147210121155
+  ],
+  [
+    [
+      67,
+      19
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug abgeholt haben, bekommen Sie einen Brief von der Stadt Köln.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.16036346554756165
+  ],
+  [
+    [
+      68,
+      19
+    ],
+    [
+      "In dem Brief steht: Wie viel Geld Sie bezahlen müssen für den Ordnungs- und Verkehrs-Dienst.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1525198221206665
+  ],
+  [
+    [
+      70,
+      19
+    ],
+    [
+      "Die Strafe für Falsch",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.09874191880226135
+  ],
+  [
+    [
+      71,
+      19
+    ],
+    [
+      "Parken",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.21637636423110962
+  ],
+  [
+    [
+      72,
+      19
+    ],
+    [
+      "Falsch Parken ist eine Ordnungs-Widrigkeit .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.14244967699050903
+  ],
+  [
+    [
+      73,
+      19
+    ],
+    [
+      "Das bedeutet:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.05134640261530876
+  ],
+  [
+    [
+      74,
+      19
+    ],
+    [
+      "Es ist gegen das Gesetz .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.060728322714567184
+  ],
+  [
+    [
+      75,
+      19
+    ],
+    [
+      "Sie bekommen dafür eine Strafe .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.22549621760845184
+  ],
+  [
+    [
+      76,
+      19
+    ],
+    [
+      "Sie bekommen eine Verwarnung.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.23835961520671844
+  ],
+  [
+    [
+      77,
+      19
+    ],
+    [
+      "Dann müssen Sie Verwarn-Geld zahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.2628396451473236
+  ],
+  [
+    [
+      78,
+      19
+    ],
+    [
+      "Oder Sie bekommen eine Anzeige .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.20392213761806488
+  ],
+  [
+    [
+      79,
+      19
+    ],
+    [
+      "Dann müssen Sie eine Geld-Buße zahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.252615362405777
+  ],
+  [
+    [
+      80,
+      19
+    ],
+    [
+      "Wie viel Geld Sie bezahlen müssen, steht im Brief von der Stadt Köln.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1231481060385704
+  ],
+  [
+    [
+      81,
+      19
+    ],
+    [
+      "Die Höhe der Strafe ist immer unterschiedlich.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1216706708073616
+  ],
+  [
+    [
+      82,
+      19
+    ],
+    [
+      "Allgemein gilt:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.031849414110183716
+  ],
+  [
+    [
+      83,
+      19
+    ],
+    [
+      "Sie müssen weniger Verwaltungs-Gebühren zahlen, wenn Sie direkt bei der Abschlepp-Firma bezahlen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.24778196215629578
+  ],
+  [
+    [
+      84,
+      19
+    ],
+    [
+      "Muss ich persönlich ins Amt?",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.09052155911922455
+  ],
+  [
+    [
+      86,
+      19
+    ],
+    [
+      "Sie müssen nicht ins Amt kommen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.20487968623638153
+  ],
+  [
+    [
+      87,
+      19
+    ],
+    [
+      "Wir schicken Ihnen einen Brief nach Hause .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.1759067177772522
+  ],
+  [
+    [
+      88,
+      19
+    ],
+    [
+      "Dann müssen Sie uns das Geld überweisen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.23920170962810516
+  ],
+  [
+    [
+      89,
+      21
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Welche Kosten entstehen?"
+    ],
+    0.2012178897857666
+  ],
+  [
+    [
+      90,
+      21
+    ],
+    [
+      "Die Gesetze zum Abschleppen stehen hier:",
+      "Welche Kosten entstehen?"
+    ],
+    0.17084962129592896
+  ],
+  [
+    [
+      91,
+      21
+    ],
+    [
+      "Verwaltungs-Vollstreckungs-Gesetz Nord-Rhein-Westfalen",
+      "Welche Kosten entstehen?"
+    ],
+    0.07049167901277542
+  ],
+  [
+    [
+      92,
+      21
+    ],
+    [
+      "Paragraf § 77",
+      "Welche Kosten entstehen?"
+    ],
+    0.04177280515432358
+  ],
+  [
+    [
+      93,
+      21
+    ],
+    [
+      "Die Gesetze zu den Kosten für das Abschleppen stehen hier:",
+      "Welche Kosten entstehen?"
+    ],
+    0.18920394778251648
+  ],
+  [
+    [
+      94,
+      21
+    ],
+    [
+      "Kosten-Ordnung Nord-Rhein-Westfalen",
+      "Welche Kosten entstehen?"
+    ],
+    0.253485769033432
+  ],
+  [
+    [
+      95,
+      21
+    ],
+    [
+      "Paragraf § 7a und § 11",
+      "Welche Kosten entstehen?"
+    ],
+    0.05293598026037216
+  ],
+  [
+    [
+      96,
+      21
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Welche Kosten entstehen?"
+    ],
+    0.04765411466360092
+  ],
+  [
+    [
+      97,
+      21
+    ],
+    [
+      "Das Zeichen für Paragraf ist: §",
+      "Welche Kosten entstehen?"
+    ],
+    0.08455988764762878
+  ],
+  [
+    [
+      98,
+      21
+    ],
+    [
+      "Hier können Sie das Gesetz im Internet lesen:",
+      "Welche Kosten entstehen?"
+    ],
+    0.12369786202907562
+  ],
+  [
+    [
+      99,
+      21
+    ],
+    [
+      "Kontakt zum Ordnungs- und Verkehrs-Dienst",
+      "Welche Kosten entstehen?"
+    ],
+    0.15216481685638428
+  ],
+  [
+    [
+      100,
+      21
+    ],
+    [
+      "Adresse: Ordnungs- und Verkehrsdienst Willy-Brandt-Platz 3 50679 Köln",
+      "Welche Kosten entstehen?"
+    ],
+    0.08078855276107788
+  ],
+  [
+    [
+      101,
+      21
+    ],
+    [
+      "Hilfen für Menschen mit Behinderung: Es gibt Behinderten-Parkplätze .",
+      "Welche Kosten entstehen?"
+    ],
+    0.19373515248298645
+  ],
+  [
+    [
+      102,
+      21
+    ],
+    [
+      "Es gibt Aufzüge für Menschen im Rollstuhl.",
+      "Welche Kosten entstehen?"
+    ],
+    0.12246043235063553
+  ],
+  [
+    [
+      103,
+      24
+    ],
+    [
+      "Öffnungs-Zeiten: Montag bis Freitag von 8 bis 12 Uhr",
+      "Vorsprache"
+    ],
+    0.07924254983663559
+  ],
+  [
+    [
+      104,
+      24
+    ],
+    [
+      "Sie können auch einen Termin machen .",
+      "Vorsprache"
+    ],
+    0.1532086282968521
+  ],
+  [
+    [
+      105,
+      24
+    ],
+    [
+      "Dann können Sie zu einer anderen Zeit kommen.",
+      "Vorsprache"
+    ],
+    0.12838637828826904
+  ],
+  [
+    [
+      106,
+      24
+    ],
+    [
+      "Dann müssen Sie sich nicht an die Öffnungs-Zeiten halten.",
+      "Vorsprache"
+    ],
+    0.13892826437950134
+  ],
+  [
+    [
+      107,
+      24
+    ],
+    [
+      "Service-Telefon: Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Telefon-Nummer: 02 21 / 22 13 20 00 Fax-Nummer:",
+      "Vorsprache"
+    ],
+    0.04638535901904106
+  ],
+  [
+    [
+      108,
+      24
+    ],
+    [
+      "02 21 / 22 12 72 09 Sie können uns auch eine Nachricht schreiben:",
+      "Vorsprache"
+    ],
+    0.12355069816112518
+  ],
+  [
+    [
+      109,
+      24
+    ],
+    [
+      "Wie komme ich zum Amt?",
+      "Vorsprache"
+    ],
+    0.06561096757650375
+  ],
+  [
+    [
+      110,
+      24
+    ],
+    [
+      "Stadt-Bahn-Linien 1 und 9 Haltestellen: Bahnhof Deutz/",
+      "Vorsprache"
+    ],
+    0.09072326123714447
+  ],
+  [
+    [
+      111,
+      24
+    ],
+    [
+      "Messe und Deutz-Fachhochschule",
+      "Vorsprache"
+    ],
+    0.1098342016339302
+  ],
+  [
+    [
+      112,
+      24
+    ],
+    [
+      "Stadt-Bahn-Linien 3 und 4 Haltestelle:",
+      "Vorsprache"
+    ],
+    0.08803121745586395
+  ],
+  [
+    [
+      113,
+      24
+    ],
+    [
+      "Bahnhof Deutz-Messe",
+      "Vorsprache"
+    ],
+    0.04431844502687454
+  ],
+  [
+    [
+      115,
+      24
+    ],
+    [
+      "Bus-Linien",
+      "Vorsprache"
+    ],
+    0.27661213278770447
+  ],
+  [
+    [
+      116,
+      24
+    ],
+    [
+      "150, 153 und 156 Haltestelle: Bahnhof Deutz-Messe",
+      "Vorsprache"
+    ],
+    0.1029125303030014
+  ],
+  [
+    [
+      118,
+      24
+    ],
+    [
+      "Bus-Linie 153 Haltestelle: Deutz-Fachhochschule",
+      "Vorsprache"
+    ],
+    0.16784578561782837
+  ],
+  [
+    [
+      119,
+      24
+    ],
+    [
+      "S-Bahn-Linien S 6, S 11, S 12, S 13 Haltestelle:",
+      "Vorsprache"
+    ],
+    0.016006406396627426
+  ],
+  [
+    [
+      120,
+      24
+    ],
+    [
+      "Bahnhof Deutz-Messe",
+      "Vorsprache"
+    ],
+    0.04431844502687454
+  ],
+  [
+    [
+      121,
+      24
+    ],
+    [
+      "Deutsche Bahn Haltestelle:",
+      "Vorsprache"
+    ],
+    0.18757888674736023
+  ],
+  [
+    [
+      122,
+      24
+    ],
+    [
+      "Bahnhof Deutz-Messe",
+      "Vorsprache"
+    ],
+    0.04431844502687454
+  ],
+  [
+    [
+      123,
+      24
+    ],
+    [
+      "Weitere Informationen *",
+      "Vorsprache"
+    ],
+    0.15384428203105927
+  ],
+  [
+    [
+      124,
+      24
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Vorsprache"
+    ],
+    0.1380423903465271
+  ]
+]

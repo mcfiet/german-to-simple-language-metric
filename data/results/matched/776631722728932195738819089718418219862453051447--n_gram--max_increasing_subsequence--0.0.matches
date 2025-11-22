@@ -1,0 +1,1212 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen ein Fahrzeug in Köln ummelden auf einen neuen Halter oder eine neue Halterin?",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.8915180563926697
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Zum Beispiel: Weil Sie Ihr Fahrzeug verkaufen .",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.8082351088523865
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Oder weil Sie es Ihrem Kind schenken .",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.07592353224754333
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Dann müssen Sie Ihr Fahrzeug beim Amt in Köln ummelden.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.779037594795227
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "auf den neuen Halter oder die neue Halterin.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.24889688193798065
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.783833384513855
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Auf dieser Seite erklären wir, wie Sie Ihr Fahrzeug ummelden können.",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.7688236832618713
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Was brauche ich für das Ummelden?",
+      "Sie wollen ein Kölner Fahrzeug auf eine neue Halterin oder einen neuen Halter in Köln ummelden."
+    ],
+    0.06244682893157005
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Wenn Sie ein Fahrzeug in Köln ummelden wollen, dann müssen Sie uns diese Papiere zeigen: Zulassungs-Bescheinigung Teil 1 und Teil 2",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.7218394875526428
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Wenn Sie ein Fahrzeug kaufen, dann bekommen Sie die Zulassungs-Bescheinigung Teil 2. Früher hieß die Bescheinigung: Fahrzeug-Brief .",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.8872636556625366
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 2 ist ein Nachweis für den Besitz .",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.36730673909187317
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.7557246088981628
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden , dann bekommen Sie die Zulassungs-Bescheinigung Teil 1 .",
+      "Benötigt werden Fahrzeugbrief Fahrzeugschein oder Abmeldebestätigung beziehungsweise Zulassungsbescheinigung Teil I und Teil II sofern schon vorhanden;"
+    ],
+    0.7672196626663208
+  ],
+  [
+    [
+      13,
+      2
+    ],
+    [
+      "Früher hieß die Bescheinigung: Fahrzeug-Schein.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9448562860488892
+  ],
+  [
+    [
+      14,
+      2
+    ],
+    [
+      "Die Zulassungs-Bescheinigung Teil 1 ist ein Nachweis das Anmelden.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.023290539160370827
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Mein Fahrzeug ist beim Amt gemeldet.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8616177439689636
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug in Köln ummelden wollen, müssen Sie uns entweder den Fahrzeug-Brief und den Fahrzeug-Schein zeigen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.9283910989761353
+  ],
+  [
+    [
+      18,
+      2
+    ],
+    [
+      "oder Ihre Zulassungs-Bescheinigungen Teil 1 und 2 .",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.03299770876765251
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Personal-Ausweis oder Pass vom künftigen Halter oder der künftigen Halterin",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.04510832205414772
+  ],
+  [
+    [
+      20,
+      2
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.779055118560791
+  ],
+  [
+    [
+      21,
+      2
+    ],
+    [
+      "Die Person muss uns ihren Personal-Ausweis oder Pass zeigen.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.014334579929709435
+  ],
+  [
+    [
+      23,
+      2
+    ],
+    [
+      "In Deutschland muss jedes zugelassene Fahrzeug versichert sein.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.8776189684867859
+  ],
+  [
+    [
+      24,
+      2
+    ],
+    [
+      "Das heißt: Sie brauchen eine Kfz-Versicherung für Ihr Fahrzeug.",
+      "dies ist der Fall, wenn zuvor schon in einer anderen Angelegenheit der bisherige Fahrzeugschein und Fahrzeugbrief umgetauscht wurden."
+    ],
+    0.898581326007843
+  ],
+  [
+    [
+      25,
+      4
+    ],
+    [
+      "Sie müssen uns einen Nachweis von der Versicherung zeigen.",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Downloads und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung."
+    ],
+    0.22013665735721588
+  ],
+  [
+    [
+      26,
+      4
+    ],
+    [
+      "Das schwere Wort dafür ist: Versicherungs-Bestätigungs-Nummer",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Downloads und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung."
+    ],
+    0.28869685530662537
+  ],
+  [
+    [
+      27,
+      4
+    ],
+    [
+      "Die Abkürzung dafür ist: VB-Nummer.",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Downloads und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung."
+    ],
+    0.07540620863437653
+  ],
+  [
+    [
+      28,
+      4
+    ],
+    [
+      "Die VB-Nummer bekommen Sie von Ihrer Kfz-Versicherung .",
+      "Personalausweis oder Pass der Vertreterin beziehungsweise des Vertreters - nutzen Sie hierzu auch unser Formular bei \"Downloads und Infos\" Versicherungsbestätigung durch Vorlage einer sogenannten VB-Nummer einer Kfz-Haftpflichtversicherung."
+    ],
+    0.2388465404510498
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "Nachweis über die Haupt-Untersuchung (TÜV)",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.19058558344841003
+  ],
+  [
+    [
+      30,
+      5
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie die Haupt-Untersuchung bestanden haben.",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.0817129909992218
+  ],
+  [
+    [
+      31,
+      5
+    ],
+    [
+      "Ein anderes Wort dafür ist: TÜV .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.00592778017744422
+  ],
+  [
+    [
+      32,
+      5
+    ],
+    [
+      "Dazu können Sie uns diese Papiere zeigen: den Fahrzeug-Schein oder die Zulassung-Bescheinigung Teil 1 oder den letzten Bericht vom TÜV .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.8777511715888977
+  ],
+  [
+    [
+      33,
+      5
+    ],
+    [
+      "Also den Bericht über die Haupt-Untersuchung .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Bescheinigung über die letzte Hauptuntersuchung, den Fahrzeugschein/die Zulassungsbescheinigung Teil I Handelsregisterauszug oder Gewerbeanmeldung bei Nutzung des Fahrzeuges als Firmenfahrzeug"
+    ],
+    0.15889395773410797
+  ],
+  [
+    [
+      34,
+      8
+    ],
+    [
+      "Kennzeichen-Schilder",
+      "Kennzeichenschilder nur bei außer Betrieb gesetzten Fahrzeugen, sofern sie noch vorhanden sind, oder wenn ein anderes Kennzeichen gewünscht wird."
+    ],
+    0.46818774938583374
+  ],
+  [
+    [
+      35,
+      8
+    ],
+    [
+      "Wenn Sie ein anderes Kennzeichen wollen, dann müssen Sie auch Ihre Kennzeichen-Schilder mitbringen.",
+      "Kennzeichenschilder nur bei außer Betrieb gesetzten Fahrzeugen, sofern sie noch vorhanden sind, oder wenn ein anderes Kennzeichen gewünscht wird."
+    ],
+    0.3046536445617676
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "SEPA-Mandat für die Kfz-Steuer",
+      "Das SEPA -Mandat muss zwingend mit zwei Unterschriften versehen werden."
+    ],
+    0.30412107706069946
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Wenn Sie in Deutschland ein Fahrzeug zulassen, dann müssen Sie Steuern dafür bezahlen.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.6598358750343323
+  ],
+  [
+    [
+      38,
+      18
+    ],
+    [
+      "Das schwere Wort dafür ist: Kraft-Fahrzeug-Steuer.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.8010469079017639
+  ],
+  [
+    [
+      39,
+      18
+    ],
+    [
+      "Die Abkürzung ist: Kfz-Steuer.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.09549208730459213
+  ],
+  [
+    [
+      40,
+      18
+    ],
+    [
+      "Das Haupt-Zoll-Amt ist für die Kfz-Steuer zuständig.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.163153737783432
+  ],
+  [
+    [
+      41,
+      18
+    ],
+    [
+      "Das Amt bucht die Steuer automatisch von Ihrem Konto ab.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.1609206348657608
+  ],
+  [
+    [
+      42,
+      18
+    ],
+    [
+      "Sie müssen das Abbuchen von Ihrem Konto vorher erlauben .",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.10752635449171066
+  ],
+  [
+    [
+      43,
+      18
+    ],
+    [
+      "Die Erlaubnis dafür heißt: SEPA-Mandat.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.018021918833255768
+  ],
+  [
+    [
+      44,
+      18
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug zulassen, dann müssen Sie uns die Erlaubnis geben.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.6492736339569092
+  ],
+  [
+    [
+      45,
+      18
+    ],
+    [
+      "Damit das Amt die Steuer von Ihrem Konto abbuchen kann.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.15890443325042725
+  ],
+  [
+    [
+      46,
+      18
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.6288912892341614
+  ],
+  [
+    [
+      47,
+      18
+    ],
+    [
+      "Die Erlaubnis brauchen wir auch: Wenn wir Ihre Daten schon zu einem anderen Fahrzeug haben.",
+      "Sollten Sie kein Konto haben, wenden Sie sich bitte zunächst an das für die Verwaltung der Kraftfahrzeugsteuer zuständige Hauptzollamt Köln in der Stolberger Straße 200, 50933 Köln."
+    ],
+    0.658073365688324
+  ],
+  [
+    [
+      48,
+      19
+    ],
+    [
+      "Zum Beispiel: Weil Sie 2 Autos haben.",
+      "Beachten Sie zum SEPA -Mandat auch unsere allgemeinen Informationen:"
+    ],
+    0.17865893244743347
+  ],
+  [
+    [
+      49,
+      19
+    ],
+    [
+      "Sie können das SEPA-Mandat am Computer ausfüllen.",
+      "Beachten Sie zum SEPA -Mandat auch unsere allgemeinen Informationen:"
+    ],
+    0.4014354944229126
+  ],
+  [
+    [
+      50,
+      21
+    ],
+    [
+      "Dann müssen Sie es ausdrucken.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.19164879620075226
+  ],
+  [
+    [
+      51,
+      21
+    ],
+    [
+      "Dann müssen Sie es unterschreiben.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.19413699209690094
+  ],
+  [
+    [
+      52,
+      21
+    ],
+    [
+      "Wichtig: Auf dem Mandat müssen 2 Unterschriften sein: 1. Die Unterschrift vom Konto-Inhaber oder der Konto-Inhaberin.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.06662251800298691
+  ],
+  [
+    [
+      53,
+      21
+    ],
+    [
+      "2. Die Unterschrift vom Fahrzeug-Halter oder der Fahrzeug-Halterin.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.0029350060503929853
+  ],
+  [
+    [
+      54,
+      21
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.0011214878177270293
+  ],
+  [
+    [
+      55,
+      21
+    ],
+    [
+      "Manchmal bezahlt eine Person die Kfz-Steuer.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.2577400803565979
+  ],
+  [
+    [
+      56,
+      21
+    ],
+    [
+      "Obwohl eine andere Person das Auto nutzt.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3358478248119354
+  ],
+  [
+    [
+      57,
+      23
+    ],
+    [
+      "Deshalb brauchen wir immer beide Unterschriften .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.18921898305416107
+  ],
+  [
+    [
+      58,
+      23
+    ],
+    [
+      "Wenn Sie kein Konto haben:",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.3582039177417755
+  ],
+  [
+    [
+      59,
+      23
+    ],
+    [
+      "Dann müssen Sie zum Haupt-Zoll-Amt in Köln.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.2803422510623932
+  ],
+  [
+    [
+      60,
+      23
+    ],
+    [
+      "Das Haupt-Zoll-Amt ist für die Kfz-Steuer zuständig.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.02027970552444458
+  ],
+  [
+    [
+      61,
+      23
+    ],
+    [
+      "Wichtig: Sie müssen zum Haupt-Zoll-Amt gehen, bevor Sie Ihr Fahrzeug bei uns ummelden lassen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.13674569129943848
+  ],
+  [
+    [
+      62,
+      23
+    ],
+    [
+      "Das ist die Adresse:",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.05574195459485054
+  ],
+  [
+    [
+      64,
+      23
+    ],
+    [
+      "Stolberger Straße 200 50933 Köln Lesen Sie auch die weiteren Informationen zum SEPA-Mandat.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.35002046823501587
+  ],
+  [
+    [
+      65,
+      23
+    ],
+    [
+      "Fragen Sie jemanden um Hilfe, wenn Sie etwas nicht verstehen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.44232168793678284
+  ],
+  [
+    [
+      67,
+      23
+    ],
+    [
+      "1. Sie können das Ummelden",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.23342446982860565
+  ],
+  [
+    [
+      70,
+      23
+    ],
+    [
+      "Im Internet.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.09710333496332169
+  ],
+  [
+    [
+      71,
+      23
+    ],
+    [
+      "Das bedeutet: Sie können die Ummeldung am Computer erledigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.28428858518600464
+  ],
+  [
+    [
+      72,
+      23
+    ],
+    [
+      "Auf dieser Seite wird erklärt, was Sie dafür brauchen und wie das geht.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.2921609878540039
+  ],
+  [
+    [
+      73,
+      23
+    ],
+    [
+      "Wenn Sie dazu Fragen haben oder etwas nicht verstehen, fragen Sie bitte jemanden um Hilfe.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4278011918067932
+  ],
+  [
+    [
+      74,
+      23
+    ],
+    [
+      "2. Wenn Sie lieber persönlich zur Zulassungs-Stelle kommen möchten:",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.22210578620433807
+  ],
+  [
+    [
+      75,
+      23
+    ],
+    [
+      "Sie müssen vorher telefonisch oder online einen Termin ausmachen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.17235253751277924
+  ],
+  [
+    [
+      76,
+      23
+    ],
+    [
+      "Das heißt: Sie rufen an oder können am Computer einen Termin machen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4389929473400116
+  ],
+  [
+    [
+      78,
+      23
+    ],
+    [
+      "Zum Termin kommen Sie dann persönlich zur Zulassungs-Stelle .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.25584325194358826
+  ],
+  [
+    [
+      79,
+      23
+    ],
+    [
+      "Das ist die Adresse: Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.018116306513547897
+  ],
+  [
+    [
+      80,
+      23
+    ],
+    [
+      "Was ist, wenn ich das Fahrzeug als Firmen-Fahrzeug nutze?",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.009528320282697678
+  ],
+  [
+    [
+      81,
+      23
+    ],
+    [
+      "Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie zur Zulassungs-Stelle in Köln kommen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.13131409883499146
+  ],
+  [
+    [
+      82,
+      23
+    ],
+    [
+      "Das ist die Adresse : Zulassungs-Stelle Köln Max-Glomsda-Straße 4 51105 Köln Wichtig : Wenn Sie das Fahrzeug als Firmen-Fahrzeug nutzen, dann müssen Sie uns auch diese Papiere zeigen:",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.1325666457414627
+  ],
+  [
+    [
+      83,
+      23
+    ],
+    [
+      "Kopie aus dem Handels-Register Gewerbe-Anmeldung Was ist, wenn ich unter 18 Jahre bin?",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.06703708320856094
+  ],
+  [
+    [
+      84,
+      23
+    ],
+    [
+      "Sie können ein Fahrzeug auf eine Person unter 18 Jahren ummelden.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.07914309948682785
+  ],
+  [
+    [
+      85,
+      23
+    ],
+    [
+      "Das ist aber nur in manchen Fällen möglich.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.08498183637857437
+  ],
+  [
+    [
+      86,
+      23
+    ],
+    [
+      "Zum Beispiel wenn die Person unter 18 Jahren: Eine Fahr-Erlaubnis für das Fahrzeug hat.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.025826841592788696
+  ],
+  [
+    [
+      88,
+      23
+    ],
+    [
+      "Bitte fragen Sie vorher: Ob Sie das Fahrzeug auf die Person unter 18 Jahren ummelden können.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.2219620794057846
+  ],
+  [
+    [
+      89,
+      23
+    ],
+    [
+      "Wichtig: Wenn Sie ein Fahrzeug ummelden wollen auf eine Person unter 18 Jahren, müssen Sie uns eine Einverständnis-Erklärung von beiden Eltern zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.20699939131736755
+  ],
+  [
+    [
+      90,
+      23
+    ],
+    [
+      "Also: Eine Erlaubnis von der Mutter und dem Vater.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.026208899915218353
+  ],
+  [
+    [
+      91,
+      23
+    ],
+    [
+      "Beide Eltern müssen die Erklärung unterschreiben.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.10546167194843292
+  ],
+  [
+    [
+      92,
+      23
+    ],
+    [
+      "Und beide Eltern müssen uns ihre Ausweise zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.028751464560627937
+  ],
+  [
+    [
+      93,
+      23
+    ],
+    [
+      "Ausnahme: Wenn nur 1 Person das Sorge-Recht für das Kind hat.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.04510969668626785
+  ],
+  [
+    [
+      94,
+      23
+    ],
+    [
+      "Zum Beispiel: nur die Mutter nur der Vater oder eine andere Person",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.008818816393613815
+  ],
+  [
+    [
+      95,
+      23
+    ],
+    [
+      "Dann muss die Person uns nur ihren Ausweis zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.028679676353931427
+  ],
+  [
+    [
+      96,
+      23
+    ],
+    [
+      "Und einen Nachweis über das Sorge-Recht .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.09041742980480194
+  ],
+  [
+    [
+      98,
+      23
+    ],
+    [
+      "1. Sie können persönlich zu uns kommen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.3426969051361084
+  ],
+  [
+    [
+      99,
+      23
+    ],
+    [
+      "Dann müssen Sie vorher einen Termin vereinbaren.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.35003647208213806
+  ],
+  [
+    [
+      100,
+      23
+    ],
+    [
+      "Das geht telefonisch oder am Computer.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.17354534566402435
+  ],
+  [
+    [
+      101,
+      23
+    ],
+    [
+      "2. Wenn Sie nicht persönlich kommen können:",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.3867615759372711
+  ],
+  [
+    [
+      102,
+      23
+    ],
+    [
+      "Sie können die Ummeldung am Computer erledigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.20677265524864197
+  ],
+  [
+    [
+      105,
+      23
+    ],
+    [
+      "Dazu müssen Sie auch einen Termin vorher vereinbaren.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.3757745325565338
+  ],
+  [
+    [
+      108,
+      23
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.29807522892951965
+  ],
+  [
+    [
+      109,
+      23
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6524329781532288
+  ],
+  [
+    [
+      110,
+      23
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.4816488027572632
+  ],
+  [
+    [
+      111,
+      23
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.522821843624115
+  ],
+  [
+    [
+      112,
+      23
+    ],
+    [
+      "Beim Ummelden muss die Person uns die Vollmacht zeigen.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.001974777551367879
+  ],
+  [
+    [
+      113,
+      24
+    ],
+    [
+      "Und die Person muss uns ihren Ausweis oder Pass zeigen.",
+      "Bitte beachten Sie, dass zusätzlich zur Vollmacht Personalausweis oder Pass der Vertreterin oder des Vertreters vorzulegen sind."
+    ],
+    0.27247846126556396
+  ],
+  [
+    [
+      114,
+      24
+    ],
+    [
+      "Wie viel kostet das Ummelden?",
+      "Bitte beachten Sie, dass zusätzlich zur Vollmacht Personalausweis oder Pass der Vertreterin oder des Vertreters vorzulegen sind."
+    ],
+    0.009091464802622795
+  ],
+  [
+    [
+      116,
+      24
+    ],
+    [
+      "Achtung:",
+      "Bitte beachten Sie, dass zusätzlich zur Vollmacht Personalausweis oder Pass der Vertreterin oder des Vertreters vorzulegen sind."
+    ],
+    0.06577081978321075
+  ],
+  [
+    [
+      117,
+      25
+    ],
+    [
+      "Manchmal müssen Sie mehr bezahlen!",
+      "Alternativ nutzen Sie unseren Online-Service!"
+    ],
+    0.4028632640838623
+  ],
+  [
+    [
+      118,
+      37
+    ],
+    [
+      "Zum Beispiel für Ihre Kennzeichen.",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.45632851123809814
+  ],
+  [
+    [
+      119,
+      37
+    ],
+    [
+      "Oder wenn Sie Ihren alten Fahrzeug-Brief umtauschen .",
+      "Zusätzlich fallen Kosten für die Kennzeichenschilder an."
+    ],
+    0.01945195160806179
+  ],
+  [
+    [
+      120,
+      38
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Kennzeichen bekommen Sie bei den ortsansässigen Schilderherstellern."
+    ],
+    0.13842126727104187
+  ],
+  [
+    [
+      121,
+      38
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Kennzeichen bekommen Sie bei den ortsansässigen Schilderherstellern."
+    ],
+    0.19248369336128235
+  ],
+  [
+    [
+      122,
+      38
+    ],
+    [
+      "Oder Sie können mit Ihrer EC-Karte bezahlen.",
+      "Kennzeichen bekommen Sie bei den ortsansässigen Schilderherstellern."
+    ],
+    0.2002985030412674
+  ],
+  [
+    [
+      125,
+      38
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Kennzeichen bekommen Sie bei den ortsansässigen Schilderherstellern."
+    ],
+    0.12315532565116882
+  ]
+]

@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen Sozial-Hilfe beantragen?",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.7853614687919617
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Aber Sie haben keine deutsche Staats-Angehörigkeit?",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.8325781226158142
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Staats-Angehörigkeit bedeutet:",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.5221967101097107
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Dass man zu einem bestimmten Staat gehört.",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.3861715495586395
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Zum Beispiel: weil Sie dort geboren wurden oder eingewandert sind.",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.4577275812625885
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Manche Menschen haben eine doppelte Staats- Angehörigkeit .",
+      "Sie haben keine deutsche Staatsangehörigkeit und möchten Sozialhilfe beantragen?"
+    ],
+    0.5585681200027466
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das heißt: sie gehören zu 2 Ländern.",
+      "Als Ausländerin oder Ausländer können Sie grundsätzlich soziale Leistungen erhalten."
+    ],
+    0.34327274560928345
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Zum Beispiel zu Deutschland und zu der Türkei.",
+      "Als Ausländerin oder Ausländer können Sie grundsätzlich soziale Leistungen erhalten."
+    ],
+    0.4132649600505829
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Auch Ausländer und Ausländerinnen können in Deutschland soziale Leistungen bekommen.",
+      "Als Ausländerin oder Ausländer können Sie grundsätzlich soziale Leistungen erhalten."
+    ],
+    0.7208946943283081
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Welche Leistungen können Sie bekommen?",
+      "Als Ausländerin oder Ausländer können Sie grundsätzlich soziale Leistungen erhalten."
+    ],
+    0.6864476203918457
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Das hängt davon ab:",
+      "Die Rechtsgrundlage Ihres Aufenthalts und Ihr Alter sind dafür entscheidend."
+    ],
+    0.24531243741512299
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Wie alt Sie sind.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.44363829493522644
+  ],
+  [
+    [
+      12,
+      4
+    ],
+    [
+      "Wo Sie wohnen.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.4432316720485687
+  ],
+  [
+    [
+      13,
+      4
+    ],
+    [
+      "Wichtig: Wenn Ihr Wohn-Ort ausländer-rechtlich-beschränkt ist:",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.5962712168693542
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Dann können Sie soziale Leistungen nur an Ihrem Wohn-Ort bekommen.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.7107197642326355
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Ausländer-rechtlich-beschränkt heißt: Sie dürfen nur dort soziale Leistungen beantragen, wo Sie auch wohnen.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.6965761184692383
+  ],
+  [
+    [
+      16,
+      4
+    ],
+    [
+      "Das Asyl-Bewerber-Leistungs-Gesetz Asyl heißt: Zufluchts-Ort.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.3851923942565918
+  ],
+  [
+    [
+      17,
+      4
+    ],
+    [
+      "Sie haben das Recht: für eine bestimmte Zeit in Deutschland zu leben.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.43223342299461365
+  ],
+  [
+    [
+      18,
+      4
+    ],
+    [
+      "Zum Beispiel: Wenn Ihr Heimat-Land Sie schlecht behandelt.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.5770425796508789
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Sie müssen einen Antrag bei einem Amt stellen, um Asyl zu bekommen.",
+      "Wenn Ihr Aufenthaltsort ausländerrechtlich beschränkt ist, können Sie soziale Leistungen grundsätzlich nur dort beanspruchen."
+    ],
+    0.4354415833950043
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Sie sind in der Zeit ein Asyl-Bewerber .",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.5561230778694153
+  ],
+  [
+    [
+      21,
+      7
+    ],
+    [
+      "Wenn das Amt Ja sagt zum Antrag:",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.3352200388908386
+  ],
+  [
+    [
+      22,
+      7
+    ],
+    [
+      "Dann dürfen Sie in Deutschland für eine bestimmte Zeit bleiben.",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.5024927258491516
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Sie sind dann ein Asyl-Berechtigter .",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.35435712337493896
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Das Asyl-Bewerber-Leistungs-Gesetz regelt: Welche und wie viele Leistungen jemand vom Staat bekommt.",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.4513256549835205
+  ],
+  [
+    [
+      25,
+      7
+    ],
+    [
+      "Leistungen sind Hilfen wie zum Beispiel: Geld.",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.3259499967098236
+  ],
+  [
+    [
+      26,
+      7
+    ],
+    [
+      "Die Abkürzung für Asyl-Bewerber-Leistungs-Gesetz ist: AsylblG .",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.5504484176635742
+  ],
+  [
+    [
+      27,
+      7
+    ],
+    [
+      "Dieses Gesetz gilt in der Regel für:",
+      "Das Asylbewerberleistungsgesetz gilt in der Regel für:"
+    ],
+    0.9294809699058533
+  ],
+  [
+    [
+      28,
+      8
+    ],
+    [
+      "Ausländische Flüchtlinge",
+      "Ausländische Flüchtlinge Asylbewerberinnen und Asylbewerber Geduldete Ausländerinnen und Ausländer"
+    ],
+    0.8350772261619568
+  ],
+  [
+    [
+      29,
+      8
+    ],
+    [
+      "Asyl-Bewerber und Asyl-Bewerberinnen Geduldete Ausländer und Ausländerinnen Geduldete Ausländer und Ausländerinnen sind Menschen, die in Deutschland leben und keine Aufenthalts-Erlaubnis haben.",
+      "Ausländische Flüchtlinge Asylbewerberinnen und Asylbewerber Geduldete Ausländerinnen und Ausländer"
+    ],
+    0.849010705947876
+  ],
+  [
+    [
+      30,
+      9
+    ],
+    [
+      "Zum Beispiel: Weil das Amt Nein gesagt hat zu Ihrem Antrag.",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.4643614590167999
+  ],
+  [
+    [
+      31,
+      9
+    ],
+    [
+      "Das heißt: Ihr Asyl-Antrag wurde abgelehnt .",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.3231681287288666
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie einen Antrag stellen.",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.8694620728492737
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Wo kann ich den Antrag stellen?",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.5904809236526489
+  ],
+  [
+    [
+      34,
+      9
+    ],
+    [
+      "Den Antrag für diese Hilfen stellen Sie hier:",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.6729750633239746
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Bei der Stelle für Leistungen nach dem Asyl-Bewerber-Leistungs-Gesetz.",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.7813183069229126
+  ],
+  [
+    [
+      36,
+      9
+    ],
+    [
+      "Das ist die Adresse: Neusser Straße 155 50733 Köln",
+      "Wenn Sie zu diesen Gruppen gehören, dann können Sie bei der Stelle für Leistungen nach dem Asylbewerberleistungsgesetz einen Antrag stellen."
+    ],
+    0.24668124318122864
+  ],
+  [
+    [
+      37,
+      10
+    ],
+    [
+      "Das ist die Telefon-Nummer : 02 21 / 22 19 85 50 Ausländische erwerbs-fähige Personen Erwerbs-fähig heißt:",
+      "Ausländische erwerbsfähige Personen"
+    ],
+    0.5173298120498657
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "Sie können arbeiten und für sich selbst sorgen.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.5680090188980103
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Sie können beim Job-Center Köln Arbeitslosen-Geld 2 beantragen, wenn: Sie erwerbs-fähig sind.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7329630851745605
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Sie noch nicht 65 Jahre alt sind.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7669352889060974
+  ],
+  [
+    [
+      41,
+      11
+    ],
+    [
+      "das Asyl-Bewerber-Leistungs-Gesetz für Sie nicht zutrifft.",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7896841168403625
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Sonstige Anspruchs-Berechtigte",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.6581230759620667
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Sie gehören nicht zu den genannten Gruppen?",
+      "Beim Jobcenter Köln können Sie Arbeitslosengeld II beantragen, wenn das Asylbewerberleistungsgesetz für Sie nicht zutrifft Sie erwerbsfähig sind Sie noch keine 65 Jahre alt sind Sonstige Anspruchsberechtigte Sie gehören nicht zu den zuvor genannten ausländischen Berechtigten für soziale Leistungen?"
+    ],
+    0.7166521549224854
+  ],
+  [
+    [
+      44,
+      12
+    ],
+    [
+      "Dann können Sie Sozial-Hilfe beantragen.",
+      "Dann können Sie Sozialhilfe bei der für Sie zuständigen Außenstelle des Amtes für Soziales und Senioren beantragen."
+    ],
+    0.7831255197525024
+  ],
+  [
+    [
+      45,
+      12
+    ],
+    [
+      "Den Antrag für Sozial-Hilfe stellen Sie bei der zuständigen Außen-Stelle vom Amt für Soziales und Senioren .",
+      "Dann können Sie Sozialhilfe bei der für Sie zuständigen Außenstelle des Amtes für Soziales und Senioren beantragen."
+    ],
+    0.8339995741844177
+  ],
+  [
+    [
+      46,
+      14
+    ],
+    [
+      "Die Adressen von diesen Stellen finden Sie unter den Links bei \"Weitere Infos\".",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.5678293704986572
+  ],
+  [
+    [
+      47,
+      14
+    ],
+    [
+      "Muss ich beim Amt vorsprechen?",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.34649181365966797
+  ],
+  [
+    [
+      48,
+      14
+    ],
+    [
+      "Ja.",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.03223158046603203
+  ],
+  [
+    [
+      49,
+      14
+    ],
+    [
+      "Bitte machen Sie einen Termin für ein persönliches Gespräch aus.",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.671593427658081
+  ],
+  [
+    [
+      50,
+      14
+    ],
+    [
+      "Rufen Sie vorher bei der zuständigen Dienst-Stelle an.",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.7320873737335205
+  ],
+  [
+    [
+      51,
+      14
+    ],
+    [
+      "Die Adressen von diesen Stellen finden Sie unter den Links bei \"Weitere Infos\".",
+      "Bitte vereinbaren Sie einen Termin bei der für Sie zuständigen Dienststelle."
+    ],
+    0.5678293704986572
+  ],
+  [
+    [
+      52,
+      15
+    ],
+    [
+      "Muss ich Gebühren bezahlen?",
+      "Gebühren"
+    ],
+    0.7054016590118408
+  ],
+  [
+    [
+      53,
+      16
+    ],
+    [
+      "Nein.",
+      "Es fallen keine Gebühren an."
+    ],
+    0.19253109395503998
+  ],
+  [
+    [
+      54,
+      16
+    ],
+    [
+      "Sie müssen nichts bezahlen.",
+      "Es fallen keine Gebühren an."
+    ],
+    0.41752728819847107
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Rechtliche Voraussetzungen Infos zu sozialen Leistungen für Ausländer finden Sie im: Asyl-Bewerber-Leistungs-Gesetz ( AsylblG ) Sozial-Gesetz-Buch, Zweites Buch ( SGB II )",
+      "Rechtliche Voraussetzungen - Asylbewerberleistungsgesetz (AsylblG) - Sozialgesetzbuch, Zweites Buch (SGB II) - Sozialgesetzbuch, Zwölftes Buch (SGB XII)"
+    ],
+    0.8032128214836121
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Sozial-Gesetz-Buch, Zwölftes Buch ( SGB XII )",
+      "Rechtliche Voraussetzungen - Asylbewerberleistungsgesetz (AsylblG) - Sozialgesetzbuch, Zweites Buch (SGB II) - Sozialgesetzbuch, Zwölftes Buch (SGB XII)"
+    ],
+    0.8862879276275635
+  ],
+  [
+    [
+      57,
+      17
+    ],
+    [
+      "Weitere Infos *",
+      "Rechtliche Voraussetzungen - Asylbewerberleistungsgesetz (AsylblG) - Sozialgesetzbuch, Zweites Buch (SGB II) - Sozialgesetzbuch, Zwölftes Buch (SGB XII)"
+    ],
+    0.21325576305389404
+  ],
+  [
+    [
+      58,
+      17
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Rechtliche Voraussetzungen - Asylbewerberleistungsgesetz (AsylblG) - Sozialgesetzbuch, Zweites Buch (SGB II) - Sozialgesetzbuch, Zwölftes Buch (SGB XII)"
+    ],
+    0.331650048494339
+  ]
+]

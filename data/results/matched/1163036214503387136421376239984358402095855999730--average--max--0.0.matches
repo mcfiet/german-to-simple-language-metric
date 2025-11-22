@@ -1,0 +1,849 @@
+[
+  [
+    [
+      0,
+      50
+    ],
+    [
+      "Der Kehlkopf ist im Hals.",
+      "Heiserkeit"
+    ],
+    0.1484633982181549
+  ],
+  [
+    [
+      1,
+      51
+    ],
+    [
+      "Der Kehlkopf befindet sich zwischen dem Rachen und der Luftröhre.",
+      "Reizhusten"
+    ],
+    0.21248026192188263
+  ],
+  [
+    [
+      2,
+      51
+    ],
+    [
+      "Der Kehlkopf hat drei Abschnitte:",
+      "Reizhusten"
+    ],
+    0.1222066730260849
+  ],
+  [
+    [
+      3,
+      60
+    ],
+    [
+      "1. Im ersten Abschnitt ist der Kehldeckel .",
+      "Die Behandlung besteht in einer operativen Beseitigung."
+    ],
+    0.10471203178167343
+  ],
+  [
+    [
+      4,
+      50
+    ],
+    [
+      "Der Kehldeckel verschließt den Eingang zum Kehlkopf.",
+      "Heiserkeit"
+    ],
+    0.1300830990076065
+  ],
+  [
+    [
+      5,
+      51
+    ],
+    [
+      "So kann die Nahrung nicht in die Luftröhre gelangen.",
+      "Reizhusten"
+    ],
+    0.2397947460412979
+  ],
+  [
+    [
+      6,
+      13
+    ],
+    [
+      "2. Im zweiten Abschnitt sind die Stimmbänder .",
+      "Neben der einfachen, akuten Kehlkopfentzündung treten verschiedene Sonderformen auf."
+    ],
+    0.13520853221416473
+  ],
+  [
+    [
+      7,
+      50
+    ],
+    [
+      "Die Stimmbänder sind im Kehlkopf.",
+      "Heiserkeit"
+    ],
+    0.19009560346603394
+  ],
+  [
+    [
+      8,
+      60
+    ],
+    [
+      "Sie sind an der Stimmerzeugung beteiligt.",
+      "Die Behandlung besteht in einer operativen Beseitigung."
+    ],
+    0.1431794911623001
+  ],
+  [
+    [
+      9,
+      81
+    ],
+    [
+      "3.",
+      "Im Jahre 2007 war er Präsident und von 2009 bis 2012 Generalsekretär der Deutschen Gesellschaft für Hals-Nasen-Ohrenheilkunde."
+    ],
+    0.056617505848407745
+  ],
+  [
+    [
+      10,
+      60
+    ],
+    [
+      "Der dritte Abschnitt endet in der Luftröhre .",
+      "Die Behandlung besteht in einer operativen Beseitigung."
+    ],
+    0.1599411517381668
+  ],
+  [
+    [
+      11,
+      51
+    ],
+    [
+      "Bei einer Kehlkopf-Entzündung entzündet sich die Schleimhaut im Kehlkopf.",
+      "Reizhusten"
+    ],
+    0.3008941113948822
+  ],
+  [
+    [
+      12,
+      50
+    ],
+    [
+      "Das Fachwort für Kehlkopf-Entzündung ist: Laryngitis.",
+      "Heiserkeit"
+    ],
+    0.2604021430015564
+  ],
+  [
+    [
+      13,
+      50
+    ],
+    [
+      "Eine Kehlkopf-Entzündung kann akut sein.",
+      "Heiserkeit"
+    ],
+    0.30690136551856995
+  ],
+  [
+    [
+      14,
+      50
+    ],
+    [
+      "Akut bedeutet:",
+      "Heiserkeit"
+    ],
+    0.2938440442085266
+  ],
+  [
+    [
+      15,
+      50
+    ],
+    [
+      "Die Entzündung tritt unvermittelt auf und verläuft schnell und heftig.",
+      "Heiserkeit"
+    ],
+    0.2362813949584961
+  ],
+  [
+    [
+      16,
+      50
+    ],
+    [
+      "Eine Kehlkopf-Entzündung kann aber auch chronisch sein.",
+      "Heiserkeit"
+    ],
+    0.3574606478214264
+  ],
+  [
+    [
+      17,
+      50
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "Heiserkeit"
+    ],
+    0.2371126115322113
+  ],
+  [
+    [
+      18,
+      50
+    ],
+    [
+      "Eine Kehlkopf-Entzündung kann unterschiedliche Ursachen haben.",
+      "Heiserkeit"
+    ],
+    0.3093867897987366
+  ],
+  [
+    [
+      19,
+      51
+    ],
+    [
+      "Ursachen einer akuten Kehlkopf-Entzündung sind zum Beispiel:",
+      "Reizhusten"
+    ],
+    0.31035852432250977
+  ],
+  [
+    [
+      20,
+      51
+    ],
+    [
+      "Bakterien Viren.",
+      "Reizhusten"
+    ],
+    0.3492368757724762
+  ],
+  [
+    [
+      21,
+      51
+    ],
+    [
+      "Durch die Viren entzünden sich die oberen Atemwege.",
+      "Reizhusten"
+    ],
+    0.28030726313591003
+  ],
+  [
+    [
+      22,
+      50
+    ],
+    [
+      "eine starke Belastung der Stimme trockene Luft Zigaretten-Rauch oder Reizgase.",
+      "Heiserkeit"
+    ],
+    0.2888174057006836
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Reizgase sind schädliche Gase.",
+      "Typische Symptome sind Heiserkeit und Husten ."
+    ],
+    0.21153858304023743
+  ],
+  [
+    [
+      24,
+      33
+    ],
+    [
+      "Sie können dem Körper schaden.",
+      "Rauchen Sie nicht!"
+    ],
+    0.2924673855304718
+  ],
+  [
+    [
+      25,
+      50
+    ],
+    [
+      "Das betrifft vor allem die Atmung.",
+      "Heiserkeit"
+    ],
+    0.24005277454853058
+  ],
+  [
+    [
+      26,
+      50
+    ],
+    [
+      "Ursachen einer chronischen Kehlkopf-Entzündung sind zum Beispiel:",
+      "Heiserkeit"
+    ],
+    0.30451926589012146
+  ],
+  [
+    [
+      27,
+      50
+    ],
+    [
+      "Schadstoffe in der Luft eine starke Belastung der Stimme Magensäure in der Speiseröhre",
+      "Heiserkeit"
+    ],
+    0.23146523535251617
+  ],
+  [
+    [
+      28,
+      50
+    ],
+    [
+      "Eine Kehlkopf-Entzündung kann verschiedene Anzeichen haben.",
+      "Heiserkeit"
+    ],
+    0.2924019694328308
+  ],
+  [
+    [
+      29,
+      50
+    ],
+    [
+      "Zu diesen Anzeichen gehören zum Beispiel: Heiserkeit",
+      "Heiserkeit"
+    ],
+    0.2976374626159668
+  ],
+  [
+    [
+      30,
+      51
+    ],
+    [
+      "Husten Kratzen im Hals",
+      "Reizhusten"
+    ],
+    0.44744566082954407
+  ],
+  [
+    [
+      31,
+      51
+    ],
+    [
+      "wundes Gefühl im Hals",
+      "Reizhusten"
+    ],
+    0.192376509308815
+  ],
+  [
+    [
+      32,
+      51
+    ],
+    [
+      "Atemnot",
+      "Reizhusten"
+    ],
+    0.6732275485992432
+  ],
+  [
+    [
+      33,
+      50
+    ],
+    [
+      "Es gibt auch Sonderformen der Kehlkopf-Entzündung.",
+      "Heiserkeit"
+    ],
+    0.2756700813770294
+  ],
+  [
+    [
+      34,
+      1
+    ],
+    [
+      "Zu den Sonderformen gehören die Kehldeckel-Entzündung und Pseudokrupp.",
+      "Typische Symptome sind Heiserkeit und Husten ."
+    ],
+    0.18619021773338318
+  ],
+  [
+    [
+      36,
+      12
+    ],
+    [
+      "Es kann sich auch der Kehldeckel entzünden.",
+      "Dies ist jedoch sehr selten der Fall."
+    ],
+    0.22770678997039795
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Auslöser der Kehldeckel-Entzündung sind meist Bakterien.",
+      "Typische Symptome sind Heiserkeit und Husten ."
+    ],
+    0.2387581318616867
+  ],
+  [
+    [
+      38,
+      51
+    ],
+    [
+      "Zu den Anzeichen einer Kehldeckel-Entzündung gehören: hohes Fieber",
+      "Reizhusten"
+    ],
+    0.18894101679325104
+  ],
+  [
+    [
+      39,
+      51
+    ],
+    [
+      "Atemnot starke Schmerzen beim Schlucken Speichelfluss",
+      "Reizhusten"
+    ],
+    0.4401405155658722
+  ],
+  [
+    [
+      40,
+      50
+    ],
+    [
+      "Achtung: Eine Entzündung des Kehldeckels kann gefährlich sein.",
+      "Heiserkeit"
+    ],
+    0.2413569688796997
+  ],
+  [
+    [
+      41,
+      33
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine Kehldeckel-Entzündung?",
+      "Rauchen Sie nicht!"
+    ],
+    0.22411948442459106
+  ],
+  [
+    [
+      42,
+      33
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Rauchen Sie nicht!"
+    ],
+    0.24662284553050995
+  ],
+  [
+    [
+      43,
+      30
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.23497289419174194
+  ],
+  [
+    [
+      44,
+      51
+    ],
+    [
+      "Pseudokrupp",
+      "Reizhusten"
+    ],
+    0.4907477796077728
+  ],
+  [
+    [
+      45,
+      50
+    ],
+    [
+      "Eine andere Sonderform der Kehlkopf-Entzündung ist Pseudokrupp.",
+      "Heiserkeit"
+    ],
+    0.2708473801612854
+  ],
+  [
+    [
+      46,
+      50
+    ],
+    [
+      "Der Arzt sagt dazu auch: subglottische Kehlkopf-Entzündung.",
+      "Heiserkeit"
+    ],
+    0.240548774600029
+  ],
+  [
+    [
+      47,
+      50
+    ],
+    [
+      "Der Pseudokrupp entsteht im unteren Bereich des Kehlkopfs.",
+      "Heiserkeit"
+    ],
+    0.17460845410823822
+  ],
+  [
+    [
+      48,
+      51
+    ],
+    [
+      "Pseudokrupp bekommen vor allem Babys und kleine Kinder.",
+      "Reizhusten"
+    ],
+    0.28997254371643066
+  ],
+  [
+    [
+      49,
+      51
+    ],
+    [
+      "Anzeichen für einen Pseudokrupp sind: bellender, krampfartiger Husten in der Nacht",
+      "Reizhusten"
+    ],
+    0.26928701996803284
+  ],
+  [
+    [
+      50,
+      50
+    ],
+    [
+      "Atemnot Achtung:",
+      "Heiserkeit"
+    ],
+    0.5092905759811401
+  ],
+  [
+    [
+      51,
+      51
+    ],
+    [
+      "Pseudokrupp kann gefährlich sein.",
+      "Reizhusten"
+    ],
+    0.3317376673221588
+  ],
+  [
+    [
+      52,
+      33
+    ],
+    [
+      "Sie denken:",
+      "Rauchen Sie nicht!"
+    ],
+    0.39478784799575806
+  ],
+  [
+    [
+      53,
+      51
+    ],
+    [
+      "Mein Kind hat vielleicht Pseudokrupp?",
+      "Reizhusten"
+    ],
+    0.2259741872549057
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Rauchen Sie nicht!"
+    ],
+    0.24662284553050995
+  ],
+  [
+    [
+      55,
+      50
+    ],
+    [
+      "Meist sind Viren die Ursache für eine Kehlkopf-Entzündung.",
+      "Heiserkeit"
+    ],
+    0.2773948013782501
+  ],
+  [
+    [
+      56,
+      51
+    ],
+    [
+      "Dann heilt sie nach einigen Tagen wieder.",
+      "Reizhusten"
+    ],
+    0.27986660599708557
+  ],
+  [
+    [
+      57,
+      51
+    ],
+    [
+      "Sie sind seit mehr als drei Wochen heiser?",
+      "Reizhusten"
+    ],
+    0.1820305585861206
+  ],
+  [
+    [
+      58,
+      30
+    ],
+    [
+      "Dann gehen Sie zum Arzt und lassen Sie sich untersuchen.",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.28966575860977173
+  ],
+  [
+    [
+      59,
+      50
+    ],
+    [
+      "Der Arzt stellt eine Kehlkopf-Entzündung bei Ihnen fest?",
+      "Heiserkeit"
+    ],
+    0.20978832244873047
+  ],
+  [
+    [
+      60,
+      33
+    ],
+    [
+      "Dann können Sie auch selbst etwas gegen die Kehlkopf-Entzündung tun: sprechen Sie möglichst wenig, flüstern Sie nicht, inhalieren Sie regelmäßig, zum Beispiel mit Salzwasser, rauchen Sie nicht, halten Sie die Raumluft feucht.",
+      "Rauchen Sie nicht!"
+    ],
+    0.31314703822135925
+  ],
+  [
+    [
+      61,
+      30
+    ],
+    [
+      "Hängen Sie zum Beispiel feuchte Handtücher über die Heizung.",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.21974705159664154
+  ],
+  [
+    [
+      62,
+      50
+    ],
+    [
+      "Hinweis:",
+      "Heiserkeit"
+    ],
+    0.22727860510349274
+  ],
+  [
+    [
+      63,
+      50
+    ],
+    [
+      "Durch feuchte Luft kann Schimmel entstehen.",
+      "Heiserkeit"
+    ],
+    0.2728844881057739
+  ],
+  [
+    [
+      64,
+      33
+    ],
+    [
+      "Halten Sie die Luft also nicht zu lange feucht.",
+      "Rauchen Sie nicht!"
+    ],
+    0.3062460720539093
+  ],
+  [
+    [
+      65,
+      51
+    ],
+    [
+      "Trinken Sie genug, essen Sie viel Obst und Gemüse, bei einer verstopften Nase können Nasensprays helfen.",
+      "Reizhusten"
+    ],
+    0.27813541889190674
+  ],
+  [
+    [
+      66,
+      51
+    ],
+    [
+      "Hinweis: Nasensprays sollten nicht länger als eine Woche verwendet werden.",
+      "Reizhusten"
+    ],
+    0.258148193359375
+  ],
+  [
+    [
+      67,
+      30
+    ],
+    [
+      "Sprechen Sie vor der Benutzung mit Ihrem Arzt oder Apotheker.",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.22270901501178741
+  ],
+  [
+    [
+      68,
+      33
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "Rauchen Sie nicht!"
+    ],
+    0.25035998225212097
+  ],
+  [
+    [
+      69,
+      33
+    ],
+    [
+      "Dann rufen Sie den Notarzt.",
+      "Rauchen Sie nicht!"
+    ],
+    0.19516846537590027
+  ],
+  [
+    [
+      70,
+      51
+    ],
+    [
+      "Manche Menschen haben sehr oft eine Kehlkopf-Entzündung.",
+      "Reizhusten"
+    ],
+    0.3231658637523651
+  ],
+  [
+    [
+      71,
+      50
+    ],
+    [
+      "Diesen Menschen kann ein Arzt helfen.",
+      "Heiserkeit"
+    ],
+    0.24850603938102722
+  ],
+  [
+    [
+      72,
+      30
+    ],
+    [
+      "Vielleicht müssen diese Menschen ihre Stimme trainieren.",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.3218512237071991
+  ],
+  [
+    [
+      73,
+      33
+    ],
+    [
+      "Vielleicht müssen diese Menschen aber auch das Rauchen aufgeben.",
+      "Rauchen Sie nicht!"
+    ],
+    0.3777998983860016
+  ],
+  [
+    [
+      74,
+      33
+    ],
+    [
+      "Sie wollen noch mehr über die Kehlkopf-Entzündung lesen?",
+      "Rauchen Sie nicht!"
+    ],
+    0.2863294184207916
+  ],
+  [
+    [
+      75,
+      30
+    ],
+    [
+      "Mehr Informationen über die Kehlkopf-Entzündung finden Sie hier .",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.23179344832897186
+  ],
+  [
+    [
+      76,
+      50
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Heiserkeit"
+    ],
+    0.12484139204025269
+  ],
+  [
+    [
+      77,
+      30
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Sprechen Sie möglichst wenig."
+    ],
+    0.21231620013713837
+  ]
+]

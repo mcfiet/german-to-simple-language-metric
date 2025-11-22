@@ -1,0 +1,805 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ein Schlaganfall ist eine plötzliche Erkrankung.",
+      "Ein Schlaganfall ist eine mehr als 24 Stunden gestörte Funktion des Gehirns durch eine verminderte Durchblutung eines Hirnbereichs oder einer Hirnblutung."
+    ],
+    0.7380737066268921
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht genug Blut.",
+      "Ein Schlaganfall ist eine mehr als 24 Stunden gestörte Funktion des Gehirns durch eine verminderte Durchblutung eines Hirnbereichs oder einer Hirnblutung."
+    ],
+    0.8017314672470093
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Deshalb ist ein Schlaganfall sehr gefährlich.",
+      "Man sollte auf jeden Fall beim Auftreten von Schlaganfallsymptomen nicht abwarten, sondern umgehend die 112 anrufen:"
+    ],
+    0.5804417133331299
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Man sollte sofort den Rettungsdienst rufen.",
+      "Man sollte auf jeden Fall beim Auftreten von Schlaganfallsymptomen nicht abwarten, sondern umgehend die 112 anrufen:"
+    ],
+    0.7705972194671631
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Die Nummer ist:",
+      "Man sollte auf jeden Fall beim Auftreten von Schlaganfallsymptomen nicht abwarten, sondern umgehend die 112 anrufen:"
+    ],
+    0.33828386664390564
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "112.",
+      "Man sollte auf jeden Fall beim Auftreten von Schlaganfallsymptomen nicht abwarten, sondern umgehend die 112 anrufen:"
+    ],
+    0.431560754776001
+  ],
+  [
+    [
+      6,
+      24
+    ],
+    [
+      "Das Blut transportiert Sauerstoff und Nährstoffe durch den Körper.",
+      "Unser Gehirn muss konstant mit Blut versorgt werden, denn nur so erhält es Sauerstoff und Nährstoffe."
+    ],
+    0.7423616647720337
+  ],
+  [
+    [
+      7,
+      29
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.",
+      "Eine Blutung im Gehirn (blutiger, hämorrhagischer oder roter Schlaganfall)"
+    ],
+    0.8298838138580322
+  ],
+  [
+    [
+      8,
+      43
+    ],
+    [
+      "Deshalb fehlen im Gehirn auch Sauerstoff und Nährstoffe.",
+      "Außerdem erhalten die Gehirnzellen, die von dem gerissenem Gefäß mit Blut versorgt werden sollten, nicht mehr ausreichend Sauerstoff und Nährstoffe."
+    ],
+    0.880402684211731
+  ],
+  [
+    [
+      9,
+      43
+    ],
+    [
+      "Dann können Gehirnzellen sterben.",
+      "Außerdem erhalten die Gehirnzellen, die von dem gerissenem Gefäß mit Blut versorgt werden sollten, nicht mehr ausreichend Sauerstoff und Nährstoffe."
+    ],
+    0.7516427040100098
+  ],
+  [
+    [
+      10,
+      43
+    ],
+    [
+      "Das Gehirn bekommt kein Blut mehr?",
+      "Außerdem erhalten die Gehirnzellen, die von dem gerissenem Gefäß mit Blut versorgt werden sollten, nicht mehr ausreichend Sauerstoff und Nährstoffe."
+    ],
+    0.7941520810127258
+  ],
+  [
+    [
+      11,
+      47
+    ],
+    [
+      "Dann kann ein bestimmter Bereich im Gehirn vielleicht nicht mehr arbeiten.",
+      "Es polstert das Gehirn vor Stößen ab."
+    ],
+    0.6994720101356506
+  ],
+  [
+    [
+      12,
+      53
+    ],
+    [
+      "Eine betroffene Person kann dann vielleicht nicht mehr sprechen.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.6512653827667236
+  ],
+  [
+    [
+      13,
+      53
+    ],
+    [
+      "Oder eine betroffene Person kann dann vielleicht den Arm nicht mehr bewegen.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.5866841077804565
+  ],
+  [
+    [
+      14,
+      53
+    ],
+    [
+      "Ein Schlaganfall kann also verschiedene Folgen haben.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.4518532454967499
+  ],
+  [
+    [
+      15,
+      53
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für einen Schlaganfall.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.5801835656166077
+  ],
+  [
+    [
+      16,
+      53
+    ],
+    [
+      "Zum Beispiel",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.1842731535434723
+  ],
+  [
+    [
+      17,
+      53
+    ],
+    [
+      ": Ein Körperteil ist gelähmt.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.6525064706802368
+  ],
+  [
+    [
+      18,
+      53
+    ],
+    [
+      "Das heißt: Man kann zum Beispiel einen Arm oder eine Hand oder ein Bein nicht bewegen.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.5608976483345032
+  ],
+  [
+    [
+      19,
+      53
+    ],
+    [
+      "Ein Körperteil fühlt sich taub an.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.6533321142196655
+  ],
+  [
+    [
+      20,
+      53
+    ],
+    [
+      "Ein Teil des Gesichts ist gelähmt.",
+      "plötzliche einseitige Lähmung (Hemiparese) oder Kraftminderung ohne andere Ursache, insbesondere im Arm und/oder Bein einseitiges Taubheitsgefühl in Arm, Bein, im Gesichtsbereich (taubes, pelziges oder kribbeliges Gefühl), einseitig herabhängender Mundwinkel, Lähmung einer Gesichtshälfte Sehstörungen (verschwommenes, doppeltes oder eingeschränktes Sehen) bis hin zur vorübergehenden Erblindung Sprechstörungen (undeutliches Sprechen, Wiederholungen von Wörtern oder Silben, lange Pausen) bis hin zum Verlust des Sprachvermögens"
+    ],
+    0.6324547529220581
+  ],
+  [
+    [
+      21,
+      54
+    ],
+    [
+      "Das heißt: Man kann zum Beispiel nicht lächeln.",
+      "Verminderte Ausdrucksfähigkeit (der Betroffene kann nicht mehr benennen, was er möchte oder äußert sich sinnlos)"
+    ],
+    0.5504598617553711
+  ],
+  [
+    [
+      22,
+      54
+    ],
+    [
+      "Es kommt zu Sehstörungen.",
+      "Verminderte Ausdrucksfähigkeit (der Betroffene kann nicht mehr benennen, was er möchte oder äußert sich sinnlos)"
+    ],
+    0.4846417307853699
+  ],
+  [
+    [
+      23,
+      54
+    ],
+    [
+      "Es kommt zu Problemen beim Sprechen.",
+      "Verminderte Ausdrucksfähigkeit (der Betroffene kann nicht mehr benennen, was er möchte oder äußert sich sinnlos)"
+    ],
+    0.6233770847320557
+  ],
+  [
+    [
+      24,
+      56
+    ],
+    [
+      "Man fühlt sich schwindelig.",
+      "Plötzlich auftretende Gleichgewichtsstörungen und Schwindel"
+    ],
+    0.623555064201355
+  ],
+  [
+    [
+      25,
+      59
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst (112).",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.27802661061286926
+  ],
+  [
+    [
+      26,
+      59
+    ],
+    [
+      "Danach können Sie einiges tun:",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.22225412726402283
+  ],
+  [
+    [
+      27,
+      59
+    ],
+    [
+      "Bleiben Sie bei dem Betroffenen und reden Sie mit ihm.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.25313326716423035
+  ],
+  [
+    [
+      28,
+      59
+    ],
+    [
+      "Lockern Sie zu enge Kleidung des Betroffenen.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.3053940534591675
+  ],
+  [
+    [
+      29,
+      59
+    ],
+    [
+      "Entfernen Sie Zahnprothesen.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.22622773051261902
+  ],
+  [
+    [
+      30,
+      59
+    ],
+    [
+      "Geben Sie dem Betroffenen nichts zu essen oder zu trinken.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.32118260860443115
+  ],
+  [
+    [
+      31,
+      59
+    ],
+    [
+      "Der Betroffene könnte sich nämlich verschlucken.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.44881653785705566
+  ],
+  [
+    [
+      32,
+      59
+    ],
+    [
+      "Richten Sie den Betroffenen im Winkel von 30 Grad auf: zum Beispiel mit einem Kissen im Rücken.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.35490596294403076
+  ],
+  [
+    [
+      33,
+      59
+    ],
+    [
+      "Ist der Betroffene bewusstlos oder erbricht?",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.5920462012290955
+  ],
+  [
+    [
+      34,
+      59
+    ],
+    [
+      "Dann legen Sie den Patienten in die stabile Seitenlage.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.4309532046318054
+  ],
+  [
+    [
+      35,
+      59
+    ],
+    [
+      "Der Betroffene atmet nicht?",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.5088061094284058
+  ],
+  [
+    [
+      36,
+      59
+    ],
+    [
+      "Dann beginnen Sie sofort mit Wiederbelebungsmaßnahmen.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.22437481582164764
+  ],
+  [
+    [
+      37,
+      59
+    ],
+    [
+      "Wann haben die Anzeichen angefangen?",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.3998514413833618
+  ],
+  [
+    [
+      38,
+      59
+    ],
+    [
+      "Merken Sie sich die Uhrzeit.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.19765353202819824
+  ],
+  [
+    [
+      39,
+      59
+    ],
+    [
+      "Die Uhrzeit ist wichtig für den Notarzt.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.3858356475830078
+  ],
+  [
+    [
+      40,
+      59
+    ],
+    [
+      "Ein Schlaganfall kann verschiedene Ursachen haben.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.6620829105377197
+  ],
+  [
+    [
+      41,
+      59
+    ],
+    [
+      "Zum Beispiel: Ein verstopftes Blutgefäß.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.7623918056488037
+  ],
+  [
+    [
+      42,
+      59
+    ],
+    [
+      "In den Blutgefäßen fließt das Blut durch den Körper.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.6557008028030396
+  ],
+  [
+    [
+      43,
+      59
+    ],
+    [
+      "Das Blut bringt Sauerstoff ins Gehirn.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.6893285512924194
+  ],
+  [
+    [
+      44,
+      59
+    ],
+    [
+      "Ist ein Blutgefäß verstopft?",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.7439723014831543
+  ],
+  [
+    [
+      45,
+      59
+    ],
+    [
+      "Dann kommt dort kein Sauerstoff mehr ins Gehirn und es können Gehirnzellen sterben.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.6699336767196655
+  ],
+  [
+    [
+      46,
+      59
+    ],
+    [
+      "Eine Blutung im Gehirn.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.9464977979660034
+  ],
+  [
+    [
+      47,
+      59
+    ],
+    [
+      "Es gibt eine Blutung im Gehirn?",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.9112080335617065
+  ],
+  [
+    [
+      48,
+      59
+    ],
+    [
+      "Dann werden manche Gehirn-Gebiete nicht mehr richtig durchblutet.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.8097735643386841
+  ],
+  [
+    [
+      49,
+      59
+    ],
+    [
+      "Der Druck im Gehirn erhöht sich durch die Blutung.",
+      "typisch bei einer Gehirnblutung)"
+    ],
+    0.7928783297538757
+  ],
+  [
+    [
+      50,
+      63
+    ],
+    [
+      "Manche Dinge erhöhen das Risiko für einen Schlaganfall.",
+      "Die betroffene Person und die Angehörigen beziehungsweise andere Anwesende werden zur Krankengeschichte des Schlaganfallpatienten oder der -patientin, zu Symptomen und Risikofaktoren befragt."
+    ],
+    0.5901196002960205
+  ],
+  [
+    [
+      51,
+      67
+    ],
+    [
+      "Zum Beispiel: Rauchen höheres Alter Diabetes Bluthochdruck Übergewicht wenig Bewegung",
+      "Üblicherweise bekommt er oder sie zudem einen Zugang in die Vene gelegt, über den Flüssigkeit und Medikamente gegeben werden können."
+    ],
+    0.2680566906929016
+  ],
+  [
+    [
+      52,
+      68
+    ],
+    [
+      "Bei einem Schlaganfall muss eine betroffene Person sofort in ein Krankenhaus.",
+      "Der Rettungsdienst transportiert den Patienten oder die Patientin dann rasch in ein Krankenhaus, das - wenn möglich - eine auf Schlaganfälle spezialisierte Abteilung (Stroke Unit) haben sollte."
+    ],
+    0.8024144172668457
+  ],
+  [
+    [
+      53,
+      73
+    ],
+    [
+      "Im Krankenhaus kann die Ursache für den Schlaganfall oft behandelt werden.",
+      "Vor allem wird geklärt, ob ein ischämischer oder hämorrhagischer Schlaganfall vorliegt – also eine Durchblutungsstörung oder eine Hirnblutung (siehe Ursachen)."
+    ],
+    0.7722246646881104
+  ],
+  [
+    [
+      54,
+      96
+    ],
+    [
+      "Manche Krankenhäuser haben eine Stroke-Unit.",
+      "Dabei verwenden die Ärzte oder Ärztinnen einen sehr dünnen Katheter, der an die Stelle des Gefäßverschlusses geführt wird."
+    ],
+    0.6000306606292725
+  ],
+  [
+    [
+      55,
+      96
+    ],
+    [
+      "Stroke ist das englische Wort für Schlaganfall.",
+      "Dabei verwenden die Ärzte oder Ärztinnen einen sehr dünnen Katheter, der an die Stelle des Gefäßverschlusses geführt wird."
+    ],
+    0.23112359642982483
+  ],
+  [
+    [
+      56,
+      96
+    ],
+    [
+      "Die Stroke-Unit ist eine besondere Station in einem Krankenhaus:",
+      "Dabei verwenden die Ärzte oder Ärztinnen einen sehr dünnen Katheter, der an die Stelle des Gefäßverschlusses geführt wird."
+    ],
+    0.570858359336853
+  ],
+  [
+    [
+      57,
+      126
+    ],
+    [
+      "Dort arbeiten besonders geschulte Ärzte und Pflegende.",
+      "Physiotherapeuten und -therapeutinnen sind im weitesten Sinne für den Bewegungsapparat zuständig."
+    ],
+    0.5809053182601929
+  ],
+  [
+    [
+      58,
+      126
+    ],
+    [
+      "Diese Menschen kennen sich sehr gut aus mit Schlaganfällen.",
+      "Physiotherapeuten und -therapeutinnen sind im weitesten Sinne für den Bewegungsapparat zuständig."
+    ],
+    0.4042176604270935
+  ],
+  [
+    [
+      59,
+      126
+    ],
+    [
+      "Im Krankenhaus wird der Schlaganfall behandelt und der Patient wird auch auf den Alltag vorbereitet.",
+      "Physiotherapeuten und -therapeutinnen sind im weitesten Sinne für den Bewegungsapparat zuständig."
+    ],
+    0.40869462490081787
+  ],
+  [
+    [
+      60,
+      126
+    ],
+    [
+      "Dabei helfen dem Patienten zum Beispiel: Physiotherapeuten.",
+      "Physiotherapeuten und -therapeutinnen sind im weitesten Sinne für den Bewegungsapparat zuständig."
+    ],
+    0.7889857292175293
+  ],
+  [
+    [
+      61,
+      126
+    ],
+    [
+      "Physiotherapeuten sind für die Bewegungen zuständig.",
+      "Physiotherapeuten und -therapeutinnen sind im weitesten Sinne für den Bewegungsapparat zuständig."
+    ],
+    0.9392259120941162
+  ],
+  [
+    [
+      62,
+      127
+    ],
+    [
+      "Mit Übungen werden die Bewegungen verbessert: zum Beispiel die Bewegung der Arme.",
+      "Muskelaufbau, Körperhaltung, Bewegungsabläufe, Koordination, Körperwahrnehmung und Gleichgewichtssinn können durch eine Vielzahl von Übungen und Behandlungen intensiv angeregt und trainiert werden."
+    ],
+    0.8452634811401367
+  ],
+  [
+    [
+      63,
+      128
+    ],
+    [
+      "Logopäden.",
+      "Dadurch können Lähmungen und Fehlhaltungen verbessert und beseitigt werden."
+    ],
+    0.4269682765007019
+  ],
+  [
+    [
+      64,
+      132
+    ],
+    [
+      "Logopäden sind für die Sprache zuständig.",
+      "Mit ersten Sprechübungen beginnen Logopädinnen und Logopäden bereits, sobald der Patient oder die Patientin ansprechbar ist."
+    ],
+    0.5136253237724304
+  ],
+  [
+    [
+      65,
+      136
+    ],
+    [
+      "Mit Übungen wird dem Patienten das Sprechen erleichtert.",
+      "Ergotherapeutinnen und -therapeuten unterstützen den Patienten oder die Patientin dabei, sich im Alltag wieder zurechtzufinden."
+    ],
+    0.6253074407577515
+  ],
+  [
+    [
+      66,
+      136
+    ],
+    [
+      "Ergotherapeuten.",
+      "Ergotherapeutinnen und -therapeuten unterstützen den Patienten oder die Patientin dabei, sich im Alltag wieder zurechtzufinden."
+    ],
+    0.7690508365631104
+  ],
+  [
+    [
+      67,
+      136
+    ],
+    [
+      "Ergotherapeuten helfen im Alltag.",
+      "Ergotherapeutinnen und -therapeuten unterstützen den Patienten oder die Patientin dabei, sich im Alltag wieder zurechtzufinden."
+    ],
+    0.9037995934486389
+  ],
+  [
+    [
+      68,
+      139
+    ],
+    [
+      "Sie unterstützen den Patienten sich im Alltag alleine zu bewegen.",
+      "Ziel ist, dass der Patient oder die Patientin am Ende möglichst viele seiner oder ihrer Alltagsverrichtungen wieder so weit wie möglich selbständig vornehmen kann."
+    ],
+    0.7244913578033447
+  ],
+  [
+    [
+      69,
+      183
+    ],
+    [
+      "Sie wollen noch mehr über den Schlaganfall lesen?",
+      "Auch für Angehörige von Schlaganfallpatienten und -patientinnen bedeutet die Krankheit oft eine drastische Veränderung."
+    ],
+    0.6153854131698608
+  ],
+  [
+    [
+      70,
+      183
+    ],
+    [
+      "Mehr Informationen über den Schlaganfall finden Sie hier .",
+      "Auch für Angehörige von Schlaganfallpatienten und -patientinnen bedeutet die Krankheit oft eine drastische Veränderung."
+    ],
+    0.6243270635604858
+  ],
+  [
+    [
+      71,
+      188
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Der Verlust der Sprache bedeutet nicht, dass der Verstand ebenfalls gelitten hat!"
+    ],
+    0.32055196166038513
+  ],
+  [
+    [
+      72,
+      188
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Der Verlust der Sprache bedeutet nicht, dass der Verstand ebenfalls gelitten hat!"
+    ],
+    0.5916020274162292
+  ]
+]

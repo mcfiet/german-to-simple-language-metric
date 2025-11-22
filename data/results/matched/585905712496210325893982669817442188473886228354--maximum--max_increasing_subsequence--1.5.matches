@@ -1,0 +1,464 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Bei einer Thrombose verstopfen die Blutgefäße.",
+      "Blutzellen und Gerinnungsstoffe bilden sofort einen Schorf, der die Blutung stoppt."
+    ],
+    0.5363354086875916
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Das Blut kann dann nicht mehr richtig fließen.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.6503068804740906
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Dazu sagt man auch: Blut gerinnt.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.6285898685455322
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Bei einer Verletzung gerinnt das Blut und verklebt die Wunde.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.5834804773330688
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Aber manchmal gerinnt Blut versehentlich und an der falschen Stelle.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.697158694267273
+  ],
+  [
+    [
+      12,
+      2
+    ],
+    [
+      "Bei einer Thrombose gerinnt das Blut in einer Ader.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.5346131324768066
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Das Fachwort für diesen Klumpen aus Blut ist: Thrombus oder Blutgerinnsel.",
+      "Dieses Blutgerinnsel verstopft das Blutgefäß teilweise oder komplett."
+    ],
+    0.6132725477218628
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Das Blutgerinnsel verstopft die Ader.",
+      "Dieses Blutgerinnsel verstopft das Blutgefäß teilweise oder komplett."
+    ],
+    0.6950299143791199
+  ],
+  [
+    [
+      16,
+      4
+    ],
+    [
+      "Das Blut kann dann nicht mehr richtig durch diese Ader fließen.",
+      "Dieses Blutgerinnsel verstopft das Blutgefäß teilweise oder komplett."
+    ],
+    0.5447303652763367
+  ],
+  [
+    [
+      17,
+      19
+    ],
+    [
+      "Das ist gefährlich.",
+      "Eine Thrombose kann unterschiedliche Beschwerden verursachen – je nachdem, welches Blutgefäß betroffen ist."
+    ],
+    0.5533173084259033
+  ],
+  [
+    [
+      18,
+      19
+    ],
+    [
+      "Eine Thrombose kann so nämlich zu anderen gefährlichen Krankheiten führen.",
+      "Eine Thrombose kann unterschiedliche Beschwerden verursachen – je nachdem, welches Blutgefäß betroffen ist."
+    ],
+    0.6587539315223694
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Es gibt unterschiedliche Ursachen einer Thrombose.",
+      "Eine Thrombose kann unterschiedliche Beschwerden verursachen – je nachdem, welches Blutgefäß betroffen ist."
+    ],
+    0.5916993021965027
+  ],
+  [
+    [
+      22,
+      19
+    ],
+    [
+      "Man kann drei Hauptursachen unterscheiden.",
+      "Eine Thrombose kann unterschiedliche Beschwerden verursachen – je nachdem, welches Blutgefäß betroffen ist."
+    ],
+    0.527683675289154
+  ],
+  [
+    [
+      23,
+      20
+    ],
+    [
+      "Manchmal ist der Blutfluss gestört:",
+      "Manchmal bleibt das Gerinnsel auch symptomlos oder macht erst nach einer Weile auf sich aufmerksam."
+    ],
+    0.5439550280570984
+  ],
+  [
+    [
+      24,
+      25
+    ],
+    [
+      "Das Blut fließt dann zum Beispiel zu langsam durch die Adern.",
+      "Sichtbare Venen: Wenn das Blut über die verstopfte Vene nicht mehr richtig abfließen kann, sucht es sich manchmal Umwege."
+    ],
+    0.5836389064788818
+  ],
+  [
+    [
+      25,
+      25
+    ],
+    [
+      "Oder das Blut fließt dann nicht regelmäßig.",
+      "Sichtbare Venen: Wenn das Blut über die verstopfte Vene nicht mehr richtig abfließen kann, sucht es sich manchmal Umwege."
+    ],
+    0.6280749440193176
+  ],
+  [
+    [
+      28,
+      25
+    ],
+    [
+      "Manchmal verändert sich die Gefäßwand.",
+      "Sichtbare Venen: Wenn das Blut über die verstopfte Vene nicht mehr richtig abfließen kann, sucht es sich manchmal Umwege."
+    ],
+    0.6417638063430786
+  ],
+  [
+    [
+      29,
+      30
+    ],
+    [
+      "Die Gefäßwand ist wie eine Haut der Blutgefäße.",
+      "Die entzündete Ader ist dann meistens als dicker, harter, schmerzender Strang unter der Haut tastbar."
+    ],
+    0.6259992122650146
+  ],
+  [
+    [
+      30,
+      34
+    ],
+    [
+      "Verändert sich die Gefäßwand?",
+      "Denn danach richtet sich die Therapie."
+    ],
+    0.6217333674430847
+  ],
+  [
+    [
+      31,
+      56
+    ],
+    [
+      "Dann kann sich das Risiko für eine Thrombose erhöhen.",
+      "Es gibt prinzipiell drei unterschiedliche Auslöser für eine Thrombose: Fließt das Blut zu langsam oder bilden sich Strömungswirbel, begünstigt das eine Thrombose."
+    ],
+    0.6578067541122437
+  ],
+  [
+    [
+      32,
+      57
+    ],
+    [
+      "Gründe für so eine Veränderung sind zum Beispiel:",
+      "Risikofaktoren sind zum Beispiel:"
+    ],
+    0.750885546207428
+  ],
+  [
+    [
+      33,
+      66
+    ],
+    [
+      "Verletzungen Entzündungen Infektionen",
+      "Gefäßwandschäden oder -veränderungen entstehen zum Beispiel durch Verletzungen, Verbrennungen, Entzündungen oder Infektionen."
+    ],
+    0.7454580068588257
+  ],
+  [
+    [
+      34,
+      66
+    ],
+    [
+      "Verkalkungen",
+      "Gefäßwandschäden oder -veränderungen entstehen zum Beispiel durch Verletzungen, Verbrennungen, Entzündungen oder Infektionen."
+    ],
+    0.6252379417419434
+  ],
+  [
+    [
+      35,
+      68
+    ],
+    [
+      "Manchmal verändert sich das Blut.",
+      "Das Blut gerinnt leichter als im Normalfall."
+    ],
+    0.5408146977424622
+  ],
+  [
+    [
+      36,
+      68
+    ],
+    [
+      "Dann gerinnt es vielleicht schneller als normalerweise.",
+      "Das Blut gerinnt leichter als im Normalfall."
+    ],
+    0.6228457093238831
+  ],
+  [
+    [
+      39,
+      70
+    ],
+    [
+      "Zum Beispiel: eine angeborene Störung der Blutgerinnung bestimmte Krankheiten bestimmte Medikamente bestimmte Operationen",
+      "Mögliche Gründe sind: Blutgerinnungsstörungen (oft angeboren, zum Beispiel APC-Resistenz, Faktor-V-Leiden-Mutation) Blutkrankheiten (zum Beispiel die Polyzythämie, bei der sich zu viele Blutzellen im Blut befinden) \"Dickes\" Blut bei Flüssigkeitsmangel Medikamente, zum Beispiel die \"Antibaby-Pille\", Hormonersatztherapie in den Wechseljahren Krebserkrankungen Operationen in Zusammenhang mit reduziertem Blutfluss Schwangerschaft"
+    ],
+    0.6889000535011292
+  ],
+  [
+    [
+      40,
+      71
+    ],
+    [
+      "Rauchen",
+      "Rauchen"
+    ],
+    1.0
+  ],
+  [
+    [
+      41,
+      72
+    ],
+    [
+      "Übergewicht Flüssigkeitsmangel",
+      "Übergewicht"
+    ],
+    0.9286132454872131
+  ],
+  [
+    [
+      42,
+      72
+    ],
+    [
+      "Schwangerschaft",
+      "Übergewicht"
+    ],
+    0.6010704636573792
+  ],
+  [
+    [
+      43,
+      73
+    ],
+    [
+      "Am häufigsten ist die Thrombose im Bein:",
+      "Das Risiko für eine Thrombose ist erhöht, wenn früher im Leben schon einmal eine Thrombose oder Embolie aufgetreten war."
+    ],
+    0.5762686133384705
+  ],
+  [
+    [
+      47,
+      73
+    ],
+    [
+      "Eine Thrombose in den Beinvenen ist sehr gefährlich.",
+      "Das Risiko für eine Thrombose ist erhöht, wenn früher im Leben schon einmal eine Thrombose oder Embolie aufgetreten war."
+    ],
+    0.5705363154411316
+  ],
+  [
+    [
+      48,
+      73
+    ],
+    [
+      "Für eine Thrombose im Bein gibt es verschiedene Anzeichen.",
+      "Das Risiko für eine Thrombose ist erhöht, wenn früher im Leben schon einmal eine Thrombose oder Embolie aufgetreten war."
+    ],
+    0.60855633020401
+  ],
+  [
+    [
+      50,
+      73
+    ],
+    [
+      "Thrombosen können überall im Körper auftreten.",
+      "Das Risiko für eine Thrombose ist erhöht, wenn früher im Leben schon einmal eine Thrombose oder Embolie aufgetreten war."
+    ],
+    0.5636649131774902
+  ],
+  [
+    [
+      53,
+      73
+    ],
+    [
+      "Sie glauben: Ich habe vielleicht eine Thrombose?",
+      "Das Risiko für eine Thrombose ist erhöht, wenn früher im Leben schon einmal eine Thrombose oder Embolie aufgetreten war."
+    ],
+    0.5531219840049744
+  ],
+  [
+    [
+      56,
+      73
+    ],
+    [
+      "Sie glauben: Die Thrombose ist im Bein?",
+      "Das Risiko für eine Thrombose ist erhöht, wenn früher im Leben schon einmal eine Thrombose oder Embolie aufgetreten war."
+    ],
+    0.5816911458969116
+  ],
+  [
+    [
+      64,
+      81
+    ],
+    [
+      "Gehen Sie deshalb bei ersten Anzeichen einer Thrombose zum Arzt.",
+      "Sie entstehen bei einer Thrombose vermehrt, weil der Körper versucht, das Blutgerinnsel abzubauen."
+    ],
+    0.654818594455719
+  ],
+  [
+    [
+      70,
+      97
+    ],
+    [
+      "Die Behandlung hängt davon ab: wo das Blutgerinnsel ist wie groß das Blutgerinnsel ist und wie alt das Blutgerinnsel ist Und die Behandlung hängt vom Patienten selbst ab:",
+      "Bei der Auswahl der Therapieschritte richtet sich der Arzt danach, wo sich das Blutgerinnsel befindet, wie groß es ist, wie lange es schon vorliegt und ob bestimmte Risikofaktoren bestehen."
+    ],
+    0.6551423668861389
+  ],
+  [
+    [
+      71,
+      97
+    ],
+    [
+      "Bei manchen Patienten gibt es besondere Risikofaktoren.",
+      "Bei der Auswahl der Therapieschritte richtet sich der Arzt danach, wo sich das Blutgerinnsel befindet, wie groß es ist, wie lange es schon vorliegt und ob bestimmte Risikofaktoren bestehen."
+    ],
+    0.5939726829528809
+  ],
+  [
+    [
+      81,
+      119
+    ],
+    [
+      "Dann sollten Sie: sich viel und regelmäßig bewegen immer ausreichend Wasser trinken bei sehr langen Reisen Thrombose-Strümpfe benutzen.",
+      "Sie müssen deshalb sorgfältig dosiert werden."
+    ],
+    0.544629693031311
+  ],
+  [
+    [
+      85,
+      119
+    ],
+    [
+      "Oder Sie sind sich nicht sicher?",
+      "Sie müssen deshalb sorgfältig dosiert werden."
+    ],
+    0.58338463306427
+  ],
+  [
+    [
+      88,
+      172
+    ],
+    [
+      "Sie wollen noch mehr über Thrombose lesen?",
+      "Mehr zu häufigen Krankheitsbildern und den Behandlungsmethoden lesen Sie hier:"
+    ],
+    0.563096821308136
+  ],
+  [
+    [
+      89,
+      172
+    ],
+    [
+      "Mehr Informationen über Thrombose finden Sie hier .",
+      "Mehr zu häufigen Krankheitsbildern und den Behandlungsmethoden lesen Sie hier:"
+    ],
+    0.6138548254966736
+  ]
+]

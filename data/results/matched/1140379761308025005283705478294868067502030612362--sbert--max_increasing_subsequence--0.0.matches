@@ -1,0 +1,882 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Karies ist eine Zahnkrankheit.",
+      "Zahnkaries ist eine lokalisierte Erkrankung der Zähne und wird durch mehrere Faktoren beeinflusst."
+    ],
+    0.8657294511795044
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Krankheit kommt oft schon bei Kindern vor.",
+      "Zahnkaries ist eine lokalisierte Erkrankung der Zähne und wird durch mehrere Faktoren beeinflusst."
+    ],
+    0.48612403869628906
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Wird die Karies nicht behandelt?",
+      "Verschiebt sich das Gleichgewicht zugunsten zahnschädigender Faktoren, indem im Biofilm zu viele Säuren enthalten sind, kommt es zur Demineralisierung (Mineralauflösung) an der Zahnoberfläche und es entsteht eine Karies."
+    ],
+    0.28212010860443115
+  ],
+  [
+    [
+      3,
+      4
+    ],
+    [
+      "Dann können die Zähne geschädigt werden.",
+      "Diese kann sich im Verlauf auch auf das Zahnbein (Dentin) ausbreiten und den Zahn zunehmend zerstören."
+    ],
+    0.9049936532974243
+  ],
+  [
+    [
+      4,
+      20
+    ],
+    [
+      "Die Zähne bestehen aus drei Schichten:",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.8230655789375305
+  ],
+  [
+    [
+      5,
+      20
+    ],
+    [
+      "Die Karies greift zuerst den Zahnschmelz an.",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.8326953649520874
+  ],
+  [
+    [
+      6,
+      20
+    ],
+    [
+      "Danach greift die Karies das Zahnbein und das Zahnmark an.",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.861211359500885
+  ],
+  [
+    [
+      7,
+      20
+    ],
+    [
+      "Sie verursacht braune Löcher in den Zähnen.",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.7775256633758545
+  ],
+  [
+    [
+      8,
+      20
+    ],
+    [
+      "Karies verursacht auch Zahnschmerzen.",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.7002643346786499
+  ],
+  [
+    [
+      9,
+      20
+    ],
+    [
+      "Aber ein Zahnarzt kann die Karies oft gut behandeln.",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.6243452429771423
+  ],
+  [
+    [
+      10,
+      20
+    ],
+    [
+      "Zuerst befällt die Karies den Zahnschmelz:",
+      "Die Zahnoberfläche besteht aus Zahnschmelz."
+    ],
+    0.856856644153595
+  ],
+  [
+    [
+      11,
+      23
+    ],
+    [
+      "Dann sind meist weiße Flecken auf den Zähnen zu sehen.",
+      "Das äußert sich in weißen Flecken (White Spots) auf den Zähnen."
+    ],
+    0.9609795212745667
+  ],
+  [
+    [
+      12,
+      25
+    ],
+    [
+      "Aber die Karies kann auch schlimmer werden.",
+      "Besteht die Karies schon länger, verfärben sich die weißen Flecken durch Farbstoffeinlagerung bräunlich."
+    ],
+    0.325263112783432
+  ],
+  [
+    [
+      13,
+      25
+    ],
+    [
+      "Dann färben sich die weißen Flecken braun.",
+      "Besteht die Karies schon länger, verfärben sich die weißen Flecken durch Farbstoffeinlagerung bräunlich."
+    ],
+    0.8270996809005737
+  ],
+  [
+    [
+      14,
+      26
+    ],
+    [
+      "Durch den Zahnschmelz greift die Karies das Zahnbein und das Zahnmark an:",
+      "Befällt die Karies das unter dem Zahnschmelz liegende Zahnbein (Dentin), kommt es zu Zahnschmerzen, da sich im Dentin Zellfortsätze befinden."
+    ],
+    0.9323281049728394
+  ],
+  [
+    [
+      15,
+      26
+    ],
+    [
+      "So entstehen Löcher in den Zähnen.",
+      "Befällt die Karies das unter dem Zahnschmelz liegende Zahnbein (Dentin), kommt es zu Zahnschmerzen, da sich im Dentin Zellfortsätze befinden."
+    ],
+    0.8788502812385559
+  ],
+  [
+    [
+      16,
+      29
+    ],
+    [
+      "Eine betroffene Person hat dann oft Zahnschmerzen.",
+      "Im Zahnmark kommt es zu einer Entzündung, die meist heftige Schmerzen auslöst."
+    ],
+    0.8847707509994507
+  ],
+  [
+    [
+      17,
+      37
+    ],
+    [
+      "Die Karies wird früh erkannt?",
+      "So kann festgestellt werden, ob sich unter Füllungen oder an Kronenrändern Karies befindet, obwohl von außen nichts zu sehen ist."
+    ],
+    0.4797050654888153
+  ],
+  [
+    [
+      18,
+      39
+    ],
+    [
+      "Dann kann der Zahnarzt die Karies stoppen.",
+      "Zuvor muss der Zahnarzt gründlich den Zahnbelag (Plaque) entfernen."
+    ],
+    0.8256787657737732
+  ],
+  [
+    [
+      19,
+      41
+    ],
+    [
+      "Zu den Ursachen einer Karies gehören zum Beispiel: Zahnbelag mit Bakterien schlechte Mundhygiene viel Zucker wenig Speichel wenig Mineralien im Zahnschmelz",
+      "Reicht die Karies bis in die Nähe der Pulpa, kann zum Vermeiden einer Wurzelbehandlung auch kariöses (also infiziertes) Dentin belassen werden, wenn es tragfähig und ein stabiler, bakteriendichter Verschluss möglich ist."
+    ],
+    0.6607295870780945
+  ],
+  [
+    [
+      20,
+      43
+    ],
+    [
+      "Mit der Nahrung nehmen wir Kohlenhydrate auf.",
+      "Als Füllungsmaterial kommen Kunststoffe (Komposite ="
+    ],
+    0.3026149272918701
+  ],
+  [
+    [
+      21,
+      56
+    ],
+    [
+      "Durch Bakterien können die Kohlenhydrate im Mund zu Säure werden.",
+      "Der betroffene Bereich wird zunächst gezielt mit einer Salzsäure-Mischung entkalkt und diese \"Mikro-Defekte\" werden anschließend mit dünnflüssigem Kunststoff aufgefüllt, so dass sich die Karies nicht weiter ausbreiten kann."
+    ],
+    0.510391891002655
+  ],
+  [
+    [
+      22,
+      59
+    ],
+    [
+      "Diese Säure greift dann den Zahnschmelz an.",
+      "Sie wird auf den Zahnstumpf geklebt und stellt die natürliche Zahnform wieder her."
+    ],
+    0.756333589553833
+  ],
+  [
+    [
+      23,
+      59
+    ],
+    [
+      "So verliert der Zahnschmelz Mineralstoffe.",
+      "Sie wird auf den Zahnstumpf geklebt und stellt die natürliche Zahnform wieder her."
+    ],
+    0.6646199226379395
+  ],
+  [
+    [
+      24,
+      59
+    ],
+    [
+      "Beim Essen produzieren wir Speichel.",
+      "Sie wird auf den Zahnstumpf geklebt und stellt die natürliche Zahnform wieder her."
+    ],
+    0.39756184816360474
+  ],
+  [
+    [
+      25,
+      59
+    ],
+    [
+      "Dieser Speichel entfernt die Säuren im Mund:",
+      "Sie wird auf den Zahnstumpf geklebt und stellt die natürliche Zahnform wieder her."
+    ],
+    0.6688765287399292
+  ],
+  [
+    [
+      26,
+      59
+    ],
+    [
+      "Der Speichel spült nämlich Essensreste und Bakterien aus dem Mundraum.",
+      "Sie wird auf den Zahnstumpf geklebt und stellt die natürliche Zahnform wieder her."
+    ],
+    0.5550589561462402
+  ],
+  [
+    [
+      27,
+      59
+    ],
+    [
+      "Und der Speichel baut auch den Zahnschmelz wieder auf.",
+      "Sie wird auf den Zahnstumpf geklebt und stellt die natürliche Zahnform wieder her."
+    ],
+    0.8760718107223511
+  ],
+  [
+    [
+      28,
+      63
+    ],
+    [
+      "Zu wenig Speichel kann das Risiko für eine Karies erhöhen.",
+      "Viel trinken wirkt sich positiv auf die Speichelbildung aus."
+    ],
+    0.6216105222702026
+  ],
+  [
+    [
+      29,
+      63
+    ],
+    [
+      "Auch zu wenige Mineralstoffe im Zahnschmelz können das Risiko für eine Karies erhöhen.",
+      "Viel trinken wirkt sich positiv auf die Speichelbildung aus."
+    ],
+    0.5096033811569214
+  ],
+  [
+    [
+      30,
+      63
+    ],
+    [
+      "Deshalb bekommen manche Personen schneller eine Karies als andere.",
+      "Viel trinken wirkt sich positiv auf die Speichelbildung aus."
+    ],
+    0.3024336099624634
+  ],
+  [
+    [
+      31,
+      63
+    ],
+    [
+      "Auch kleine Kinder können eine Karies bekommen.",
+      "Viel trinken wirkt sich positiv auf die Speichelbildung aus."
+    ],
+    0.3350854218006134
+  ],
+  [
+    [
+      32,
+      63
+    ],
+    [
+      "Diese Form der Karies nennt man: Nuckelflaschenkaries .",
+      "Viel trinken wirkt sich positiv auf die Speichelbildung aus."
+    ],
+    0.38414719700813293
+  ],
+  [
+    [
+      33,
+      63
+    ],
+    [
+      "Die Ursachen einer Nuckelflaschenkaries sind:",
+      "Viel trinken wirkt sich positiv auf die Speichelbildung aus."
+    ],
+    0.5880906581878662
+  ],
+  [
+    [
+      34,
+      64
+    ],
+    [
+      "Getränke mit Zucker in der Nuckelflasche Getränke mit Fruchtsäure in der Nuckelflasche",
+      "Trinken Sie aber nicht ständig – das verdünnt den Speichel und spült den schützenden Speichelfilm vom Zahn ab Trinken Sie möglichst selten zucker- und säurehaltige Getränke wie Limonaden, Soft- und Energy-Drinks."
+    ],
+    0.6985747218132019
+  ],
+  [
+    [
+      35,
+      64
+    ],
+    [
+      "Eine Nuckelflaschenkaries kann die Zähne völlig zerstören.",
+      "Trinken Sie aber nicht ständig – das verdünnt den Speichel und spült den schützenden Speichelfilm vom Zahn ab Trinken Sie möglichst selten zucker- und säurehaltige Getränke wie Limonaden, Soft- und Energy-Drinks."
+    ],
+    0.5689218640327454
+  ],
+  [
+    [
+      36,
+      64
+    ],
+    [
+      "So können Sie Karies bei Kleinkindern vermeiden :",
+      "Trinken Sie aber nicht ständig – das verdünnt den Speichel und spült den schützenden Speichelfilm vom Zahn ab Trinken Sie möglichst selten zucker- und säurehaltige Getränke wie Limonaden, Soft- und Energy-Drinks."
+    ],
+    0.49895167350769043
+  ],
+  [
+    [
+      37,
+      64
+    ],
+    [
+      "Die Nuckelflasche ist zum Trinken da.",
+      "Trinken Sie aber nicht ständig – das verdünnt den Speichel und spült den schützenden Speichelfilm vom Zahn ab Trinken Sie möglichst selten zucker- und säurehaltige Getränke wie Limonaden, Soft- und Energy-Drinks."
+    ],
+    0.5860207676887512
+  ],
+  [
+    [
+      38,
+      65
+    ],
+    [
+      "Aber manche Eltern geben ihren Kindern die Nuckelflasche auch als Ersatz für den Schnuller.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.5106405019760132
+  ],
+  [
+    [
+      39,
+      65
+    ],
+    [
+      "Eltern sollten ihren Kleinkindern die Nuckelflasche nur zum Trinken geben.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.7239181995391846
+  ],
+  [
+    [
+      40,
+      65
+    ],
+    [
+      "Kann Ihr Kind schon aus einem Becher trinken?",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.6156783103942871
+  ],
+  [
+    [
+      41,
+      65
+    ],
+    [
+      "Dann sollten Sie Ihrem Kind die Nuckelflasche nicht mehr geben.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.5840846300125122
+  ],
+  [
+    [
+      42,
+      65
+    ],
+    [
+      "So können Sie eine Nuckelflaschenkaries vermeiden.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.57167649269104
+  ],
+  [
+    [
+      43,
+      65
+    ],
+    [
+      "Eine Karies ist ansteckend.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.16132207214832306
+  ],
+  [
+    [
+      44,
+      65
+    ],
+    [
+      "Sie haben Karies?",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.12159478664398193
+  ],
+  [
+    [
+      45,
+      65
+    ],
+    [
+      "Dann können auch Ihre Kinder Karies bekommen:",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.29786622524261475
+  ],
+  [
+    [
+      46,
+      65
+    ],
+    [
+      "Deshalb sollten Eltern den Schnuller ihres Kindes nicht ablecken.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.5053694844245911
+  ],
+  [
+    [
+      47,
+      65
+    ],
+    [
+      "Und deshalb sollten Eltern den Nuckelflaschenaufsatz ihres Kindes nicht ablecken.",
+      "Für Kinder empfehlen sich ungesüßte Tees Vermeiden Sie es, Getränke (besonders wenn sie Zucker und/oder Säure enthalten) lange im Mund zu behalten"
+    ],
+    0.6293085813522339
+  ],
+  [
+    [
+      48,
+      71
+    ],
+    [
+      "Zahnpflege ist auch bei Kleinkindern sehr wichtig.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.6551487445831299
+  ],
+  [
+    [
+      49,
+      71
+    ],
+    [
+      "Bei einer Karies kann ein Zahnarzt helfen.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.49953871965408325
+  ],
+  [
+    [
+      50,
+      71
+    ],
+    [
+      "Wird die Karies früh erkannt?",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.20429663360118866
+  ],
+  [
+    [
+      51,
+      71
+    ],
+    [
+      "Dann kann der Zahnarzt die Karies oft gut behandeln.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.5594469308853149
+  ],
+  [
+    [
+      52,
+      71
+    ],
+    [
+      "Ist die Karies aber schon weit fortgeschritten?",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.14550085365772247
+  ],
+  [
+    [
+      53,
+      71
+    ],
+    [
+      "Dann kann der betroffene Zahn ein Loch haben.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.34724563360214233
+  ],
+  [
+    [
+      54,
+      71
+    ],
+    [
+      "Oft ist dann nämlich das Dentin betroffen.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.496421754360199
+  ],
+  [
+    [
+      55,
+      71
+    ],
+    [
+      "Deshalb muss der Zahnarzt die beschädigte Stelle am Zahn entfernen.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.44026315212249756
+  ],
+  [
+    [
+      56,
+      71
+    ],
+    [
+      "Das Loch bekommt dann eine Füllung.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.16037842631340027
+  ],
+  [
+    [
+      57,
+      71
+    ],
+    [
+      "Hat die Karies den Zahn stark geschädigt?",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.28146958351135254
+  ],
+  [
+    [
+      58,
+      71
+    ],
+    [
+      "Dann kann der Zahn vielleicht nicht mehr gefüllt werden und eine Krone ist nötig.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.4095660448074341
+  ],
+  [
+    [
+      59,
+      71
+    ],
+    [
+      "Eine Krone ist ein Zahnersatz.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.3741469383239746
+  ],
+  [
+    [
+      60,
+      71
+    ],
+    [
+      "Jeder Mensch kann selbst etwas gegen Karies tun:",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.25240105390548706
+  ],
+  [
+    [
+      61,
+      71
+    ],
+    [
+      "Putzen Sie Ihre Zähne gründlich und regelmäßig.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.870612621307373
+  ],
+  [
+    [
+      62,
+      71
+    ],
+    [
+      "Putzen Sie Ihre Zähne mindestens zweimal am Tag.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.9247553944587708
+  ],
+  [
+    [
+      63,
+      71
+    ],
+    [
+      "Putzen Sie Ihre Zähne vor dem Schlafengehen.",
+      "Putzen Sie mindestens zweimal am Tag Ihre Zähne, am gründlichsten vor dem Schlafengehen."
+    ],
+    0.9187449216842651
+  ],
+  [
+    [
+      64,
+      74
+    ],
+    [
+      "Benutzen Sie Zahnseide.",
+      "Sie für eine regelmäßige Fluoridierung der Zähne."
+    ],
+    0.815605103969574
+  ],
+  [
+    [
+      65,
+      74
+    ],
+    [
+      "Benutzen Sie kleine Bürsten für den Raum zwischen den Zähnen.",
+      "Sie für eine regelmäßige Fluoridierung der Zähne."
+    ],
+    0.7567424774169922
+  ],
+  [
+    [
+      66,
+      75
+    ],
+    [
+      "Benutzen Sie Zahnpasta mit Fluorid.",
+      "Dafür reichen fluoridhaltige Zahnpasten."
+    ],
+    0.8762598037719727
+  ],
+  [
+    [
+      67,
+      79
+    ],
+    [
+      "Essen Sie nur wenig Zucker und süße Speisen.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.34154170751571655
+  ],
+  [
+    [
+      68,
+      79
+    ],
+    [
+      "Vermeiden Sie Getränke mit viel Zucker oder Säure.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.2979457974433899
+  ],
+  [
+    [
+      69,
+      79
+    ],
+    [
+      "Außerdem ist eine regelmäßige Kontrolle Ihrer Zähne durch den Zahnarzt wichtig.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.6839876174926758
+  ],
+  [
+    [
+      70,
+      79
+    ],
+    [
+      "Hinweis: Sie knirschen mit den Zähnen?",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.7958360910415649
+  ],
+  [
+    [
+      71,
+      79
+    ],
+    [
+      "Dann verzichten Sie auf Kaugummi.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.6100640296936035
+  ],
+  [
+    [
+      72,
+      79
+    ],
+    [
+      "Kaugummis können das Zähneknirschen nämlich verstärken.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.7243438959121704
+  ],
+  [
+    [
+      73,
+      79
+    ],
+    [
+      "Sie denken: Ich habe vielleicht Karies?",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.3696829676628113
+  ],
+  [
+    [
+      74,
+      79
+    ],
+    [
+      "Dann gehen Sie zum Zahnarzt.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.8242251873016357
+  ],
+  [
+    [
+      75,
+      79
+    ],
+    [
+      "Der Zahnarzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Sie sollten nach dem Zahndurchbruch gelutscht werden"
+    ],
+    0.6537191867828369
+  ],
+  [
+    [
+      76,
+      82
+    ],
+    [
+      "Sie wollen noch mehr über Karies lesen?",
+      "Sie"
+    ],
+    0.5501377582550049
+  ],
+  [
+    [
+      77,
+      82
+    ],
+    [
+      "Mehr Informationen über Karies finden Sie hier .",
+      "Sie"
+    ],
+    0.4250982999801636
+  ],
+  [
+    [
+      78,
+      87
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "0 Links"
+    ],
+    0.553674578666687
+  ],
+  [
+    [
+      79,
+      87
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "0 Links"
+    ],
+    0.16145263612270355
+  ]
+]

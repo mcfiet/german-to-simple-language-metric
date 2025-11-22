@@ -1,0 +1,475 @@
+[
+  [
+    [
+      0,
+      70
+    ],
+    [
+      "Die Schilddrüse ist ein Organ im Hals.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9853476881980896
+  ],
+  [
+    [
+      1,
+      70
+    ],
+    [
+      "Die Schilddrüse befindet sich unter dem Kehlkopf an der Luftröhre.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9840980768203735
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Die Schilddrüse produziert wichtige Hormone wie zum Beispiel:",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.9469012022018433
+  ],
+  [
+    [
+      6,
+      129
+    ],
+    [
+      "Bei einer Schilddrüsenüberfunktion produziert die Schilddrüse zu viele Hormone.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9694064259529114
+  ],
+  [
+    [
+      7,
+      70
+    ],
+    [
+      "Manchmal ist die Schilddrüse dann größer als normal.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.981250524520874
+  ],
+  [
+    [
+      11,
+      24
+    ],
+    [
+      "Anzeichen für eine Schilddrüsenüberfunktion sind zum Beispiel:",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9675911068916321
+  ],
+  [
+    [
+      21,
+      24
+    ],
+    [
+      "Die Hauptursache für Schilddrüsenüberfunktion ist Morbus Basedow .",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9620699286460876
+  ],
+  [
+    [
+      22,
+      98
+    ],
+    [
+      "Morbus Basedow ist eine Autoimmunerkrankung.",
+      "Beim Morbus Basedow sind davon alle Zellen betroffen."
+    ],
+    0.7402666807174683
+  ],
+  [
+    [
+      23,
+      129
+    ],
+    [
+      "Dabei produziert der Körper Abwehrstoffe gegen die eigene Schilddrüse.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9644412398338318
+  ],
+  [
+    [
+      24,
+      70
+    ],
+    [
+      "Diese Abwehrstoffe regen die Schilddrüse an.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9864313006401062
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Deshalb produziert die Schilddrüse mehr Hormone als der Körper eigentlich braucht.",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.9449077248573303
+  ],
+  [
+    [
+      26,
+      70
+    ],
+    [
+      "Oft ist die Schilddrüse dann auch größer.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9825659990310669
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "Eine Schilddrüsenüberfunktion kann aber auch durch eine funktionelle Autonomie verursacht werden.",
+      "Da diese Produktion sich nicht mehr am tatsächlichen Bedarf des Körpers orientiert, kommt es zu einer Schilddrüsenüberfunktion."
+    ],
+    0.9561184644699097
+  ],
+  [
+    [
+      28,
+      70
+    ],
+    [
+      "Dann produzieren Teile der Schilddrüse oder sogar die gesamte Schilddrüse eigenständig Hormone.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9770422577857971
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Die Schilddrüse produziert mehr Hormone als der Körper braucht?",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.9438132643699646
+  ],
+  [
+    [
+      31,
+      24
+    ],
+    [
+      "Dann liegt eine Schilddrüsenüberfunktion vor.",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9685232639312744
+  ],
+  [
+    [
+      32,
+      70
+    ],
+    [
+      "Meistens reguliert die Schilddrüse sich selbst.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.987113893032074
+  ],
+  [
+    [
+      35,
+      49
+    ],
+    [
+      "Dann kann der Hormonspiegel wieder ansteigen.",
+      "Zunächst wird der Wert des Hormons TSH bestimmt."
+    ],
+    0.7939226031303406
+  ],
+  [
+    [
+      36,
+      21
+    ],
+    [
+      "Eine Autonomie der Schilddrüse entsteht häufig durch Jodmangel.",
+      "Die Ursache einer Schilddrüsenautonomie ist oft eine länger bestehende, durch Jodmangel bedingte, Vergrößerung der Schilddrüse (Jodmangelstruma / Kropf)."
+    ],
+    0.975439190864563
+  ],
+  [
+    [
+      37,
+      70
+    ],
+    [
+      "Dann vergrößert sich die Schilddrüse.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9761006236076355
+  ],
+  [
+    [
+      41,
+      47
+    ],
+    [
+      "So kann der Arzt eine vergrößerte Schilddrüse feststellen.",
+      "Eine Vergrößerung der Schilddrüse lässt sich unter Umständen bereits beim Abtasten des Halses feststellen."
+    ],
+    0.9706737995147705
+  ],
+  [
+    [
+      44,
+      129
+    ],
+    [
+      "Mit einem Ultraschall kontrolliert der Arzt die Größe und das Aussehen der Schilddrüse.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9683331251144409
+  ],
+  [
+    [
+      48,
+      74
+    ],
+    [
+      "Die Ursache ist Morbus Basedow?",
+      "Allerdings ist beim Morbus Basedow die Rückfallquote mit etwa 50 Prozent hoch."
+    ],
+    0.7958967089653015
+  ],
+  [
+    [
+      49,
+      12
+    ],
+    [
+      "Dann heilt die Schilddrüsenüberfunktion manchmal von selbst.",
+      "Da diese Produktion sich nicht mehr am tatsächlichen Bedarf des Körpers orientiert, kommt es zu einer Schilddrüsenüberfunktion."
+    ],
+    0.9630879163742065
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Diese Medikamente hemmen die Hormonproduktion in der Schilddrüse.",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.9525809288024902
+  ],
+  [
+    [
+      54,
+      49
+    ],
+    [
+      "So soll die Menge an Hormonen im Körper wieder normalisiert werden.",
+      "Zunächst wird der Wert des Hormons TSH bestimmt."
+    ],
+    0.7228821516036987
+  ],
+  [
+    [
+      57,
+      70
+    ],
+    [
+      "Manchmal muss die Schilddrüse durch eine Operation entfernt werden.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9791401028633118
+  ],
+  [
+    [
+      58,
+      70
+    ],
+    [
+      "Oder die Schilddrüse muss verkleinert werden.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9859431385993958
+  ],
+  [
+    [
+      60,
+      3
+    ],
+    [
+      "Nach einer Operation sind die Schilddrüsenhormone sofort weniger.",
+      "Die Schilddrüsenhormone beeinflussen neben Stoffwechsel, Kreislauf und Wachstum auch unser psychisches Wohlbefinden."
+    ],
+    0.975026547908783
+  ],
+  [
+    [
+      62,
+      114
+    ],
+    [
+      "Nach einer Operation muss der Patient Schilddrüsenhormone und Jodid einnehmen.",
+      "Im Allgemeinen ist nach der Operation die Einnahme von Schilddrüsenhormonen und Jodid notwenig."
+    ],
+    0.9777409434318542
+  ],
+  [
+    [
+      63,
+      53
+    ],
+    [
+      "Dadurch soll eine Unterfunktion von der Schilddrüse verhindert werden.",
+      "Ist der TSH-Wert normal, ist eine Überfunktion der Schilddrüse fast ausgeschlossen."
+    ],
+    0.9777267575263977
+  ],
+  [
+    [
+      64,
+      70
+    ],
+    [
+      "Und die Schilddrüse wächst dann nicht mehr so schnell an.",
+      "Im Ultraschall zeigt sich die Schilddrüse echoarm (eher dunkel);"
+    ],
+    0.9817167520523071
+  ],
+  [
+    [
+      65,
+      75
+    ],
+    [
+      "Bei einer Radiojodtherapie wird Gewebe durch radioaktive Strahlung zerstört:",
+      "Dann kommen andere Therapieformen wie eine Operation oder die Behandlung mit radioaktivem Jod (Radiojodtherapie) zum Einsatz."
+    ],
+    0.7264793515205383
+  ],
+  [
+    [
+      66,
+      95
+    ],
+    [
+      "Der Patient bekommt radioaktives Jod.",
+      "Dabei wird dem Patienten radioaktives Jod verabreicht."
+    ],
+    0.8361497521400452
+  ],
+  [
+    [
+      67,
+      1
+    ],
+    [
+      "Manche Zellen in der Schilddrüse produzieren zu viele Hormone.",
+      "Aus Eiweiß und Jod produziert die Schilddrüse die lebenswichtigen Schilddrüsenhormone Trijodthyronin (T3) und Thyroxin (T4)."
+    ],
+    0.9455996155738831
+  ],
+  [
+    [
+      69,
+      95
+    ],
+    [
+      "Und die Patienten scheiden das radioaktive Jod dann wieder aus.",
+      "Dabei wird dem Patienten radioaktives Jod verabreicht."
+    ],
+    0.7298815250396729
+  ],
+  [
+    [
+      71,
+      24
+    ],
+    [
+      "Danach haben die Patienten vielleicht eine Schilddrüsenunterfunktion .",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9720787405967712
+  ],
+  [
+    [
+      74,
+      24
+    ],
+    [
+      "Sie möchten eine Schilddrüsenüberfunktion vermeiden?",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9687222242355347
+  ],
+  [
+    [
+      85,
+      129
+    ],
+    [
+      "Haben andere Menschen in Ihrer Familie eine Schilddrüsenerkrankung?",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9873912334442139
+  ],
+  [
+    [
+      87,
+      129
+    ],
+    [
+      "Der Arzt untersucht Ihre Schilddrüse.",
+      "Sind in der Familie bereits Schilddrüsenerkrankungen aufgetreten, kann es sinnvoll sein die Schilddrüse regelmäßig durch einen Arzt untersuchen zu lassen."
+    ],
+    0.9714443683624268
+  ],
+  [
+    [
+      88,
+      24
+    ],
+    [
+      "Dann kann der Arzt eine Schilddrüsenüberfunktion früh erkennen.",
+      "Bei Schilddrüsenentzündungen kann es zeitlich begrenzt auch zu einer Überfunktion kommen."
+    ],
+    0.9580203890800476
+  ],
+  [
+    [
+      89,
+      12
+    ],
+    [
+      "Sie wollen noch mehr über die Schilddrüsenüberfunktion lesen?",
+      "Da diese Produktion sich nicht mehr am tatsächlichen Bedarf des Körpers orientiert, kommt es zu einer Schilddrüsenüberfunktion."
+    ],
+    0.9649898409843445
+  ],
+  [
+    [
+      90,
+      12
+    ],
+    [
+      "Mehr Informationen über die Schilddrüsenüberfunktion finden Sie hier .",
+      "Da diese Produktion sich nicht mehr am tatsächlichen Bedarf des Körpers orientiert, kommt es zu einer Schilddrüsenüberfunktion."
+    ],
+    0.9650604724884033
+  ]
+]

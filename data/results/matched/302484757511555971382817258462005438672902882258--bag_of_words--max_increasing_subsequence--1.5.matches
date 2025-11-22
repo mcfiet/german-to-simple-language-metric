@@ -1,0 +1,486 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8462051153182983
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.8477135896682739
+  ],
+  [
+    [
+      4,
+      4
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.3797183930873871
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Von einer allgemeinen Unterkühlung (Hypothermie) sprechen Ärzte, wenn der ganze Organismus betroffen ist."
+    ],
+    0.7688168287277222
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Mehr Informationen zum Thema Unterkühlung finden Sie hier .",
+      "Unterkühlung"
+    ],
+    0.47186005115509033
+  ],
+  [
+    [
+      9,
+      19
+    ],
+    [
+      "Dann können sich Eiskristalle im Gewebe bilden.",
+      "Hierdurch wird das Gewebe direkt geschädigt, Zellen sterben ab."
+    ],
+    0.4661130905151367
+  ],
+  [
+    [
+      10,
+      19
+    ],
+    [
+      "Das Gewebe ist an diesen Stellen stark beschädigt.",
+      "Hierdurch wird das Gewebe direkt geschädigt, Zellen sterben ab."
+    ],
+    0.4921339154243469
+  ],
+  [
+    [
+      14,
+      20
+    ],
+    [
+      "Finger Zehen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    0.5064586997032166
+  ],
+  [
+    [
+      25,
+      41
+    ],
+    [
+      "Die Hautstelle fühlt sich hart und kalt an.",
+      "Er drosselt die Wärmeabgabe und erhöht die Wärmebildung."
+    ],
+    0.44765907526016235
+  ],
+  [
+    [
+      27,
+      57
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.40528053045272827
+  ],
+  [
+    [
+      33,
+      57
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.610069215297699
+  ],
+  [
+    [
+      34,
+      57
+    ],
+    [
+      "Die Schmerzen können aber auch geringer sein.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.5924630761146545
+  ],
+  [
+    [
+      39,
+      57
+    ],
+    [
+      "Die Haut nimmt keine Reize oder Schmerzen mehr auf.",
+      ": Sinkt die Temperatur im Körper weiter ab, wird die Funktion des Gehirns beeinträchtigt."
+    ],
+    0.511991024017334
+  ],
+  [
+    [
+      42,
+      70
+    ],
+    [
+      "Hinweis: Oft zeigt sich erst einige Tage später, wie stark die Erfrierung ist.",
+      "Jede Erfrierung äußert sich anfangs wie eine Erfrierung ersten Grades:"
+    ],
+    0.9469020366668701
+  ],
+  [
+    [
+      44,
+      71
+    ],
+    [
+      "Typische Ursachen einer Erfrierung sind zum Beispiel:",
+      "Erfrierung"
+    ],
+    0.9924535751342773
+  ],
+  [
+    [
+      53,
+      83
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Die Sensibilität ist aufgehoben."
+    ],
+    0.44399595260620117
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.887758731842041
+  ],
+  [
+    [
+      58,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.7817694544792175
+  ],
+  [
+    [
+      62,
+      131
+    ],
+    [
+      "Wechseln Sie Ihre feuchte Kleidung regelmäßig gegen trockene Kleidung.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.5354240536689758
+  ],
+  [
+    [
+      63,
+      131
+    ],
+    [
+      "Tragen Sie eine Mütze.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8336215615272522
+  ],
+  [
+    [
+      65,
+      131
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8168444633483887
+  ],
+  [
+    [
+      67,
+      131
+    ],
+    [
+      "Sie wandern in den Bergen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8881263136863708
+  ],
+  [
+    [
+      68,
+      131
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7733935713768005
+  ],
+  [
+    [
+      69,
+      131
+    ],
+    [
+      "Ziehen Sie passende Schuhe an.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7643998861312866
+  ],
+  [
+    [
+      72,
+      131
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8677372932434082
+  ],
+  [
+    [
+      74,
+      131
+    ],
+    [
+      "Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7666573524475098
+  ],
+  [
+    [
+      75,
+      131
+    ],
+    [
+      "Der Tee kann Sie wärmen.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8418120741844177
+  ],
+  [
+    [
+      76,
+      131
+    ],
+    [
+      "Essen Sie genügend.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.9186001420021057
+  ],
+  [
+    [
+      77,
+      131
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8407793641090393
+  ],
+  [
+    [
+      78,
+      131
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8184711337089539
+  ],
+  [
+    [
+      83,
+      131
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8835703134536743
+  ],
+  [
+    [
+      85,
+      131
+    ],
+    [
+      "112. Sie glauben:",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.9117703437805176
+  ],
+  [
+    [
+      87,
+      131
+    ],
+    [
+      "Dann bringen Sie diese Person an einen warmen Ort.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7518529295921326
+  ],
+  [
+    [
+      88,
+      131
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.6425206065177917
+  ],
+  [
+    [
+      89,
+      131
+    ],
+    [
+      "Und geben Sie der Person trockene Kleidung und Decken.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.6363332271575928
+  ],
+  [
+    [
+      91,
+      131
+    ],
+    [
+      "Nutzen Sie dafür ein Wasserbad.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8915773034095764
+  ],
+  [
+    [
+      94,
+      131
+    ],
+    [
+      "Wickeln Sie dann die betroffenen Stellen in einen Verband.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7071613073348999
+  ],
+  [
+    [
+      95,
+      131
+    ],
+    [
+      "Beachten Sie: Der Verband soll locker sein.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7907966375350952
+  ],
+  [
+    [
+      98,
+      131
+    ],
+    [
+      "Dann können Sie die erfrorenen Finger in den Achselhöhlen aufwärmen oder warme Hände auf erfrorene Stellen im Gesicht legen.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.5261837244033813
+  ],
+  [
+    [
+      99,
+      131
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.6790825128555298
+  ],
+  [
+    [
+      100,
+      131
+    ],
+    [
+      "Öffnen Sie keine Blasen.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7468268871307373
+  ],
+  [
+    [
+      104,
+      131
+    ],
+    [
+      "Massieren Sie die betroffenen Stellen nicht .",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.7471861243247986
+  ],
+  [
+    [
+      108,
+      131
+    ],
+    [
+      "Sie wollen noch mehr über Kälteschäden lesen?",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8280820846557617
+  ],
+  [
+    [
+      109,
+      131
+    ],
+    [
+      "Mehr Informationen über Kälteschäden finden Sie hier.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.8188814520835876
+  ]
+]

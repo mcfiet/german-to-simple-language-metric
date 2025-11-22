@@ -1,0 +1,288 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Hallo Herr X, Sie waren am 28. November 2015 in Frankfurt.",
+      "Sehr geehrter Herr X, ich werfe Ihnen vor, am 28.11.2015 um 23:00 Uhr in Frankfurt am Main, Kaiserstraße 76 (Kaisersack) folgende Ordnungswidrigkeit begangen zu haben:"
+    ],
+    0.6842570900917053
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Da haben Sie was angestellt.",
+      "Sehr geehrter Herr X, ich werfe Ihnen vor, am 28.11.2015 um 23:00 Uhr in Frankfurt am Main, Kaiserstraße 76 (Kaisersack) folgende Ordnungswidrigkeit begangen zu haben:"
+    ],
+    0.5272691249847412
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Um 11 Uhr abends am Kaisersack.",
+      "Sehr geehrter Herr X, ich werfe Ihnen vor, am 28.11.2015 um 23:00 Uhr in Frankfurt am Main, Kaiserstraße 76 (Kaisersack) folgende Ordnungswidrigkeit begangen zu haben:"
+    ],
+    0.767733097076416
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Sie hatten einen Pulli an.",
+      "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“."
+    ],
+    0.7026336193084717
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Auf dem Pulli stand „ACAB“.",
+      "Sie trugen einen schwarzen Kapuzenpullover mit der Aufschrift „ACAB“."
+    ],
+    0.5504348278045654
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "„ACAB“ ist eine Abkürzung für einen Spruch.",
+      "„ACAB“ stellt allgemein bekannt eine Abkürzung für die Parole „All Cops are Bastards“ dar und dient dazu, die Polizei in der Öffentlichkeit zu verunglimpfen."
+    ],
+    0.7192232012748718
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Der Spruch soll die Polizei beleidigen.",
+      "„ACAB“ stellt allgemein bekannt eine Abkürzung für die Parole „All Cops are Bastards“ dar und dient dazu, die Polizei in der Öffentlichkeit zu verunglimpfen."
+    ],
+    0.627345860004425
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Das war sehr frech von Ihnen.",
+      "Dies stellt eine grob ungehörige Handlung dar, die geeignet ist, die Allgemeinheit zu belästigen oder zu gefährden und die öffentliche Ordnung zu beeinträchtigen."
+    ],
+    0.37858709692955017
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Das kann Leute ärgern.",
+      "Dies stellt eine grob ungehörige Handlung dar, die geeignet ist, die Allgemeinheit zu belästigen oder zu gefährden und die öffentliche Ordnung zu beeinträchtigen."
+    ],
+    0.4443863034248352
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Das kann gefährlich sein.",
+      "Dies stellt eine grob ungehörige Handlung dar, die geeignet ist, die Allgemeinheit zu belästigen oder zu gefährden und die öffentliche Ordnung zu beeinträchtigen."
+    ],
+    0.5280436873435974
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Damit haben Sie gegen ein Gesetz verstoßen.",
+      "Nach § 55 des Gesetzes über Ordnungswidrigkeiten (OWiG) haben Sie Gelegenheit, zu dem Vorwurf Stellung zu nehmen."
+    ],
+    0.6127728223800659
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Das Gesetz heißt „Gesetz über Ordnungs·widrigkeiten“.",
+      "Nach § 55 des Gesetzes über Ordnungswidrigkeiten (OWiG) haben Sie Gelegenheit, zu dem Vorwurf Stellung zu nehmen."
+    ],
+    0.4830162227153778
+  ],
+  [
+    [
+      12,
+      7
+    ],
+    [
+      "Jetzt müssen Sie eine Strafe zahlen.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.5728733539581299
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Warum haben Sie den frechen Pulli angezogen?",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.5440576672554016
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Das können Sie jetzt sagen.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.5585053563117981
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Aber nur wenn Sie wollen.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.814290463924408
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Vielleicht ist Ihr Name in diesem Brief falsch geschrieben.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.5761768817901611
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "Dann müssen Sie das jetzt sagen.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.5232755541801453
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Sonst müssen Sie noch mehr Geld zahlen.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.5514939427375793
+  ],
+  [
+    [
+      19,
+      7
+    ],
+    [
+      "Vielleicht sagen Sie nichts zu dem frechen Pulli.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.6250098943710327
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Dann kriegen Sie von mir eine Rechnung.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.525863766670227
+  ],
+  [
+    [
+      21,
+      7
+    ],
+    [
+      "Vielleicht sagen Sie was zu dem frechen Pulli.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.6066548824310303
+  ],
+  [
+    [
+      22,
+      7
+    ],
+    [
+      "Dann überlege ich mir das noch mal.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.38654452562332153
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Vielleicht kriegen Sie dann trotzdem eine Rechnung.",
+      "Sie sind aber in jedem Fall – auch wenn Sie die Ordnungswidrigkeit nicht begangen haben – verpflichtet, unrichtige oder unvollständige Angaben zu Ihrer Person im Anhörungsbogen (…) zu berichtigen oder zu vervollständigen."
+    ],
+    0.6771227717399597
+  ],
+  [
+    [
+      24,
+      13
+    ],
+    [
+      "Liebe",
+      "Frau X"
+    ],
+    0.3754318356513977
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Grüße Frau X",
+      "Frau X"
+    ],
+    1.0
+  ]
+]

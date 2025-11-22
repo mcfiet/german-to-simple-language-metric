@@ -1,0 +1,475 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Wenn Sie allein ein Kind erziehen , müssen Sie nicht für das Kind bezahlen.",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.7073392271995544
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Der Eltern-Teil muss bezahlen bei dem das Kind nicht lebt .",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.9369590878486633
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Unterhalt heißt: Sie müssen Geld für Ihr Kind bezahlen, wenn Ihr Kind nicht bei Ihnen wohnt .",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.6737126111984253
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Das Kind braucht kein Hartz 4 .",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.779690682888031
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Sie bekommen Unterhalt für das Kind , wenn das Kind kein Hartz 4 bekommt .",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.7063528895378113
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Oder das Kind braucht kein Hartz 4 mehr , wenn Sie den Unterhalt bekommen.",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.5182958245277405
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Die Waisen-Rente für Ihr Kind wird angerechnet.",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.664525032043457
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Waisen-Rente bedeutet: Das Kind bekommt Geld vom Amt.",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.6894869208335876
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Wenn Ihr Kind Waisen-Rente bekommt, dann verrechnen wir das mit dem Unterhalt.",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.5482860207557678
+  ],
+  [
+    [
+      28,
+      6
+    ],
+    [
+      "Wenn das Kind nicht mehr zur Schule geht, sondern eigenes Geld hat, dann wird das Einkommen vom Kind angerechnet.",
+      "Das Einkommen des alleinerziehenden Elternteils, bei dem das Kind lebt, wird nicht angerechnet."
+    ],
+    0.8032011389732361
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Das Einkommen aus dem Vermögen .",
+      "Das Einkommen des alleinerziehenden Elternteils, bei dem das Kind lebt, wird nicht angerechnet."
+    ],
+    0.37976697087287903
+  ],
+  [
+    [
+      33,
+      6
+    ],
+    [
+      "Das Vermögen vom Kind wird nicht angerechnet.",
+      "Das Einkommen des alleinerziehenden Elternteils, bei dem das Kind lebt, wird nicht angerechnet."
+    ],
+    0.8122687935829163
+  ],
+  [
+    [
+      34,
+      6
+    ],
+    [
+      "Das Einkommen von dem Eltern-Teil, bei dem das Kind lebt, wird nicht angerechnet.",
+      "Das Einkommen des alleinerziehenden Elternteils, bei dem das Kind lebt, wird nicht angerechnet."
+    ],
+    0.882056474685669
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die Unterhalts-Vorschuss-Kasse holt sich dann das Geld von dem anderen Eltern-Teil, der keinen Unterhalt zahlt .",
+      "Die Unterhaltsvorschusskasse fordert die von ihr gezahlten Leistungen von dem Elternteil zurück, der seiner Unterhaltspflicht trotz bestehender Leistungsfähigkeit nicht nachkommt."
+    ],
+    0.36261796951293945
+  ],
+  [
+    [
+      40,
+      12
+    ],
+    [
+      "Das heißt für den Eltern-Teil, bei dem das Kind nicht lebt : Wenn Sie keinen Unterhalt zahlen, obwohl Sie genug Geld haben, dann müssen Sie den Unterhalt zurück zahlen .",
+      "Wenn Sie davon betroffen sind, können Sie Leistungen nach dem Unterhaltsvorschussgesetz für Ihr Kind beantragen."
+    ],
+    0.4381884038448334
+  ],
+  [
+    [
+      41,
+      28
+    ],
+    [
+      "An die Unterhalts-Vorschuss-Kasse , die den Unterhalt für Sie bezahlt hat.",
+      "Sollten Sie Leistungen beantragt haben und noch Unterlagen fehlen, wird die Unterhaltsvorschusskasse auf Sie zukommen."
+    ],
+    0.43482705950737
+  ],
+  [
+    [
+      42,
+      28
+    ],
+    [
+      "Wenn Sie nicht genug Geld für den Unterhalt haben, müssen Sie das der Unterhalts-Vorschuss-Kasse beweisen.",
+      "Sollten Sie Leistungen beantragt haben und noch Unterlagen fehlen, wird die Unterhaltsvorschusskasse auf Sie zukommen."
+    ],
+    0.5027284622192383
+  ],
+  [
+    [
+      43,
+      40
+    ],
+    [
+      "Sie müssen beweisen, dass Sie nicht genug Geld haben.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6597081422805786
+  ],
+  [
+    [
+      50,
+      40
+    ],
+    [
+      "Sie können den Antrag im Internet ausfüllen .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.55458664894104
+  ],
+  [
+    [
+      51,
+      40
+    ],
+    [
+      "Dann müssen Sie den Antrag ausdrucken .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.5084462761878967
+  ],
+  [
+    [
+      52,
+      40
+    ],
+    [
+      "Dann müssen Sie den Antrag unterschreiben .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.5086521506309509
+  ],
+  [
+    [
+      53,
+      40
+    ],
+    [
+      "Sie können den Antrag persönlich abgeben .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.5499423742294312
+  ],
+  [
+    [
+      57,
+      40
+    ],
+    [
+      "Bitte zeigen Sie uns eine Kopie von der Geburts-Urkunde von Ihrem Kind.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.430370032787323
+  ],
+  [
+    [
+      59,
+      40
+    ],
+    [
+      "Sie müssen nachweisen, wer der Vater von dem Kind ist.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.43456408381462097
+  ],
+  [
+    [
+      60,
+      40
+    ],
+    [
+      "Wenn Sie den Vater vom Kind nicht kennen , haben Sie vielleicht kein Recht auf Unterhalts-Vorschuss.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.5080191493034363
+  ],
+  [
+    [
+      61,
+      40
+    ],
+    [
+      "Das bedeutet: Sie bekommen kein Geld vom Amt .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.44557419419288635
+  ],
+  [
+    [
+      63,
+      40
+    ],
+    [
+      "Wenn Sie kein Deutscher oder keine Deutsche sind, dann müssen Sie uns eine Aufenthalts-Erlaubnis zeigen.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6964201331138611
+  ],
+  [
+    [
+      65,
+      40
+    ],
+    [
+      "Sie dürfen in Deutschland leben.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.7161998748779297
+  ],
+  [
+    [
+      83,
+      40
+    ],
+    [
+      "Wenn Sie oder Ihr Kind eine Aufenthalts-Erlaubnis haben.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.37885236740112305
+  ],
+  [
+    [
+      85,
+      40
+    ],
+    [
+      "Also wenn Sie in Deutschland leben und arbeiten dürfen.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6443422436714172
+  ],
+  [
+    [
+      95,
+      40
+    ],
+    [
+      "Sie können den Antrag mit der Post schicken .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.5727348327636719
+  ],
+  [
+    [
+      98,
+      40
+    ],
+    [
+      "Sie bekommen ein Schreiben, wenn etwas fehlt.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6313754320144653
+  ],
+  [
+    [
+      100,
+      40
+    ],
+    [
+      "Wichtig: Wenn Sie persönlich kommen wollen, brauchen Sie einen Termin .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.7346584796905518
+  ],
+  [
+    [
+      102,
+      40
+    ],
+    [
+      "Das können Sie über unser sicheres Formular tun.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.640598714351654
+  ],
+  [
+    [
+      105,
+      40
+    ],
+    [
+      "Sie können uns auch eine E-Mail schicken .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.70753413438797
+  ],
+  [
+    [
+      108,
+      40
+    ],
+    [
+      "Wenn Sie uns eine E-Mail schicken.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6390772461891174
+  ],
+  [
+    [
+      113,
+      40
+    ],
+    [
+      "Sie können anrufen und einen Termin machen .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.7592995762825012
+  ],
+  [
+    [
+      114,
+      40
+    ],
+    [
+      "Zum Beispiel: Wenn Sie einen Brief bekommen haben.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6312108039855957
+  ],
+  [
+    [
+      118,
+      40
+    ],
+    [
+      "Das bedeutet: Wir dürfen Sie nicht in Rechts-Fragen beraten.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.5711721777915955
+  ],
+  [
+    [
+      121,
+      40
+    ],
+    [
+      "Wenn Sie nicht genug Geld für einen Anwalt haben, gehen Sie zur Rechts-Antrags-Stelle vom Amts-Gericht Köln .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.6512888073921204
+  ],
+  [
+    [
+      128,
+      40
+    ],
+    [
+      "Achtung: Sie können auch einen Termin machen .",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.7575112581253052
+  ],
+  [
+    [
+      130,
+      40
+    ],
+    [
+      "Dann können Sie zu einer anderen Zeit kommen.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.7196896076202393
+  ],
+  [
+    [
+      133,
+      40
+    ],
+    [
+      "Sie können mit dem Rollstuhl in den Eingangs-Bereich fahren.",
+      "Auf dem selben Wege können Sie mit uns auch einen Termin vereinbaren, wenn Sie von der Unterhaltsheranziehung angeschrieben wurden, um Ihre Unterhaltsangelegenheit zu besprechen."
+    ],
+    0.7195771336555481
+  ]
+]

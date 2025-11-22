@@ -1,0 +1,607 @@
+[
+  [
+    [
+      0,
+      5
+    ],
+    [
+      "Sie nehmen viele verschiedene Medikamente ein?",
+      "Medikamente können auf vielfältige Weise direkt oder indirekt mit Lebensmitteln wechselwirken."
+    ],
+    0.6292769312858582
+  ],
+  [
+    [
+      1,
+      7
+    ],
+    [
+      "Dann kann sich die Wirkung der verschiedenen Medikamente beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.8461838960647583
+  ],
+  [
+    [
+      2,
+      7
+    ],
+    [
+      "Auch Lebensmittel können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.9559618830680847
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Der Arzt spricht dann von Wechselwirkungen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.4278430640697479
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Weitere Informationen zu Wechselwirkungen bei der Einnahme von verschiedenen Medikamenten finden Sie hier .",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.8100232481956482
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "Lebensmittel können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.9622625708580017
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Lebensmittel können die Wirkung von Medikamenten: verstärken abschwächen ganz aufheben Lebensmittel können auch die Nebenwirkungen eines Medikaments verstärken.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.9272651076316833
+  ],
+  [
+    [
+      7,
+      7
+    ],
+    [
+      "Sie nehmen ein Medikament und bekommen davon Schmerzen oder andere Beschwerden?",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.6087910532951355
+  ],
+  [
+    [
+      8,
+      7
+    ],
+    [
+      "Dann spricht der Arzt von Nebenwirkungen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.6634916663169861
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Medikamente können auch auf Lebensmittel wirken:",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.7481014132499695
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Medikamente können zum Beispiel die Aufnahme von Nährstoffen erschweren.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.9102352857589722
+  ],
+  [
+    [
+      11,
+      7
+    ],
+    [
+      "Nährstoffe sind zum Beispiel:",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.4707831144332886
+  ],
+  [
+    [
+      12,
+      7
+    ],
+    [
+      "Eiweiß Mineralstoffe",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.4201997220516205
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Vitamine",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.37101975083351135
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Verschiedene Nahrungsmittel können die Wirkung von Medikamenten beeinflussen.",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.9547598958015442
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Nahrungsmittel können die Wirkung von Medikamenten abschwächen .",
+      "Umgekehrt können Arzneien die Aufnahme von Nährstoffen beeinflussen."
+    ],
+    0.9590825438499451
+  ],
+  [
+    [
+      16,
+      8
+    ],
+    [
+      "Zu diesen Nahrungsmitteln gehören zum Beispiel:",
+      "Hier finden Sie einige typische Beispiele."
+    ],
+    0.37035679817199707
+  ],
+  [
+    [
+      17,
+      9
+    ],
+    [
+      "Milchprodukte wie Joghurt oder Käse Ballaststoffe wie Obst oder Vollkornprodukte grünes Gemüse wie Brokkoli, Rosenkohl oder Spinat Nahrungsmittel können die Wirkung mancher Medikamente auch verstärken .",
+      "Milch enthält – genauso wie Käse, Joghurt oder einige Mineralwässer – Kalzium."
+    ],
+    0.8947234749794006
+  ],
+  [
+    [
+      18,
+      12
+    ],
+    [
+      "Zu diesen Nahrungsmitteln gehören zum Beispiel: fetthaltiges Essen wie Bratkartoffeln oder Pommes und Mayonnaise Grapefruit Nahrungsmittel können die Wirkung von Medikamenten auch ganz aufheben .",
+      "Beispiele sind Antibiotika wie Ciprofloxacin, Norfloxacin und Doxycyclin."
+    ],
+    0.7052053809165955
+  ],
+  [
+    [
+      19,
+      14
+    ],
+    [
+      "Zu diesen Nahrungsmitteln gehören zum Beispiel: gereifte Lebensmittel wie eingelegte Heringe, gereifter Käse oder Salami",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.6125440001487732
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Sie nehmen blutverdünnende Medikamente ein?",
+      "Nehmen Sie solche Medikamente mit Abstand zum Essen ein – wie groß dieser ist, lesen Sie im Beipackzettel nach."
+    ],
+    0.7699341177940369
+  ],
+  [
+    [
+      21,
+      22
+    ],
+    [
+      "Dann sollten Sie Ingwer und Knoblauch nicht essen.",
+      "Dies gilt besonders, wenn Sie Weizen-, Haferkleie, Lein- oder Flohsamen regelmäßig essen."
+    ],
+    0.8210857510566711
+  ],
+  [
+    [
+      22,
+      32
+    ],
+    [
+      "Ingwer und Knoblauch können nämlich das Risiko für Blutungen erhöhen.",
+      "Gefährlich kann das werden, wenn Arzneimittel schon bei leichter Überdosierung starke Nebenwirkungen auslösen können."
+    ],
+    0.8174899816513062
+  ],
+  [
+    [
+      23,
+      44
+    ],
+    [
+      "Verschiedene Getränke können die Wirkung von Medikamenten beeinflussen.",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.7303069829940796
+  ],
+  [
+    [
+      24,
+      44
+    ],
+    [
+      "Getränke können die Wirkung mancher Medikamente abschwächen .",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.7554875016212463
+  ],
+  [
+    [
+      25,
+      44
+    ],
+    [
+      "Zu diesen Getränken gehören zum Beispiel:",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.3354683816432953
+  ],
+  [
+    [
+      26,
+      44
+    ],
+    [
+      "Milchprodukte wie Milch oder Buttermilch und Kefir Tees wie Schwarztee, Grüntee und Früchtetee",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.7654664516448975
+  ],
+  [
+    [
+      27,
+      44
+    ],
+    [
+      "Manche Getränke können die Wirkung von Medikamenten abschwächen oder verstärken .",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.7535454034805298
+  ],
+  [
+    [
+      28,
+      44
+    ],
+    [
+      "Zu diesen Getränken gehören zum Beispiel:",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.3354683816432953
+  ],
+  [
+    [
+      29,
+      44
+    ],
+    [
+      "Kaffee Alkohol",
+      "So können Wein, Schnaps und Bier auch die Nebenwirkungen von Medikamenten befeuern."
+    ],
+    0.560025155544281
+  ],
+  [
+    [
+      30,
+      47
+    ],
+    [
+      "Alkohol wirkt verschieden auf Medikamente.",
+      "Alkohol fördert die magenschleimhautreizenden Effekte von Schmerzmitteln wie Acetylsalicylsäure."
+    ],
+    0.6709155440330505
+  ],
+  [
+    [
+      31,
+      47
+    ],
+    [
+      "Manchmal verstärkt Alkohol die Wirkung von Medikamenten.",
+      "Alkohol fördert die magenschleimhautreizenden Effekte von Schmerzmitteln wie Acetylsalicylsäure."
+    ],
+    0.9176159501075745
+  ],
+  [
+    [
+      32,
+      47
+    ],
+    [
+      "Manchmal schwächt Alkohol die Wirkung von Medikamenten ab.",
+      "Alkohol fördert die magenschleimhautreizenden Effekte von Schmerzmitteln wie Acetylsalicylsäure."
+    ],
+    0.7071143388748169
+  ],
+  [
+    [
+      33,
+      47
+    ],
+    [
+      "Manche Getränke können die Wirkung von Medikamenten auch verstärken .",
+      "Alkohol fördert die magenschleimhautreizenden Effekte von Schmerzmitteln wie Acetylsalicylsäure."
+    ],
+    0.8767825365066528
+  ],
+  [
+    [
+      34,
+      62
+    ],
+    [
+      "Zu diesen Getränken gehören zum Beispiel: Säfte Säfte mit Grapefruit, Äpfeln und Pomelo können die Wirkung eines Medikaments verstärken.",
+      "Inhaltsstoffe aus den Knollen können die Gefahr von Blutungen erhöhen."
+    ],
+    0.755008339881897
+  ],
+  [
+    [
+      35,
+      68
+    ],
+    [
+      "Sie können das Risiko für Wechselwirkungen verkleinern.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.761886715888977
+  ],
+  [
+    [
+      36,
+      68
+    ],
+    [
+      "Dafür sollten Sie diese Dinge beachten:",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.807304322719574
+  ],
+  [
+    [
+      37,
+      68
+    ],
+    [
+      "Nehmen Sie Medikamente so ein, wie der Arzt es Ihnen sagt.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.6019774079322815
+  ],
+  [
+    [
+      38,
+      68
+    ],
+    [
+      "Beachten Sie zum Beispiel den richtigen Abstand zwischen Mahlzeiten und der Einnahme von Medikamenten.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.6940626502037048
+  ],
+  [
+    [
+      39,
+      68
+    ],
+    [
+      "Sie müssen Medikamente einnehmen?",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.8696454167366028
+  ],
+  [
+    [
+      40,
+      68
+    ],
+    [
+      "Dann trinken Sie davor und danach keinen Alkohol.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.6429483890533447
+  ],
+  [
+    [
+      41,
+      68
+    ],
+    [
+      "Alkohol kann nämlich das Risiko für Wechselwirkungen erhöhen.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.5426463484764099
+  ],
+  [
+    [
+      42,
+      68
+    ],
+    [
+      "Sie haben Schmerzen oder fühlen sich krank?",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.7686622142791748
+  ],
+  [
+    [
+      43,
+      68
+    ],
+    [
+      "Und Sie denken: Ich bin vielleicht von Wechselwirkungen betroffen?",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.43758633732795715
+  ],
+  [
+    [
+      44,
+      68
+    ],
+    [
+      "Dann haben Sie zwei Möglichkeiten:",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.707795262336731
+  ],
+  [
+    [
+      45,
+      68
+    ],
+    [
+      "1. Gehen Sie zum Arzt.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.41902390122413635
+  ],
+  [
+    [
+      46,
+      68
+    ],
+    [
+      "2. Machen Sie eine Liste:",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.441305011510849
+  ],
+  [
+    [
+      47,
+      68
+    ],
+    [
+      "Sie nehmen verschiedene Medikamente, Vitaminpräparate und Lebensmittel?",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.860563337802887
+  ],
+  [
+    [
+      48,
+      68
+    ],
+    [
+      "Dann schreiben Sie das auf.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.5892013907432556
+  ],
+  [
+    [
+      49,
+      68
+    ],
+    [
+      "Gehen Sie mit dieser Liste zur Apotheke.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.685944139957428
+  ],
+  [
+    [
+      50,
+      68
+    ],
+    [
+      "Ihr Apotheker kann Ihnen dann weiterhelfen.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.7026836276054382
+  ],
+  [
+    [
+      51,
+      68
+    ],
+    [
+      "Sie wollen noch mehr über Wechselwirkungen lesen?",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.7272658348083496
+  ],
+  [
+    [
+      52,
+      68
+    ],
+    [
+      "Mehr Informationen über Wechselwirkungen finden Sie hier .",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.730759859085083
+  ],
+  [
+    [
+      53,
+      68
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.38392865657806396
+  ],
+  [
+    [
+      54,
+      68
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Fragen Sie Ihren Arzt oder Apotheker, welchen Einfluss Ihre Arzneimittel auf Nährstoffe haben können."
+    ],
+    0.4677070081233978
+  ]
+]

@@ -1,0 +1,684 @@
+[
+  [
+    [
+      0,
+      67
+    ],
+    [
+      "Die Pille danach kann eine ungewollte Schwangerschaft verhindern.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9698939919471741
+  ],
+  [
+    [
+      1,
+      67
+    ],
+    [
+      "Eine Frau kann die Pille danach in verschiedenen Situationen nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9384395480155945
+  ],
+  [
+    [
+      2,
+      29
+    ],
+    [
+      "Zu diesen Situationen gehören zum Beispiel: Die Frau hat die Verhütungspille vergessen.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8468878865242004
+  ],
+  [
+    [
+      3,
+      29
+    ],
+    [
+      "Die Frau nimmt die Verhütungspille.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8728682398796082
+  ],
+  [
+    [
+      4,
+      29
+    ],
+    [
+      "Und die Frau hatte einen Magen-Darm-Infekt.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8352846503257751
+  ],
+  [
+    [
+      5,
+      13
+    ],
+    [
+      "Dann wirkt die Verhütungspille nicht sicher.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.6048025488853455
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das Kondom ist beim Sex abgerutscht oder kaputt gegangen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.5046170949935913
+  ],
+  [
+    [
+      7,
+      67
+    ],
+    [
+      "Sie können die Pille danach in der Apotheke kaufen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9684845209121704
+  ],
+  [
+    [
+      8,
+      67
+    ],
+    [
+      "Für die Pille danach brauchen Sie kein Rezept vom Arzt.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9673363566398621
+  ],
+  [
+    [
+      11,
+      67
+    ],
+    [
+      "Dann bezahlt die Krankenkasse die Pille danach.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9749981760978699
+  ],
+  [
+    [
+      12,
+      67
+    ],
+    [
+      "Es gibt zwei verschiedene Arten der Pille danach.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9429160356521606
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Die Arten haben verschiedene Wirkstoffe.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7369818687438965
+  ],
+  [
+    [
+      14,
+      67
+    ],
+    [
+      "Die Pille danach enthält den Wirkstoff Levonorgestrel.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.967576265335083
+  ],
+  [
+    [
+      15,
+      67
+    ],
+    [
+      "Oder die Pille danach enthält den Wirkstoff Ulipristal.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9645294547080994
+  ],
+  [
+    [
+      16,
+      67
+    ],
+    [
+      "Die Pille danach verschieben den Eisprung.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9572553634643555
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Beim Eisprung verlässt die Eizelle den Eierstock.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.531345784664154
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Die Eizelle wandert in den Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5969932675361633
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Im Eileiter kann die Eizelle befruchtet werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5803266763687134
+  ],
+  [
+    [
+      22,
+      29
+    ],
+    [
+      "Dann kann die Frau schwanger werden.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.7928791046142578
+  ],
+  [
+    [
+      23,
+      67
+    ],
+    [
+      "Die Pille danach verschiebt den Eisprung.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9570956826210022
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Und die Spermien können die Eizelle nicht befruchten.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.836184024810791
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Nach fünf bis sieben Tagen sterben die Spermien.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.709072470664978
+  ],
+  [
+    [
+      27,
+      29
+    ],
+    [
+      "Die Frau kann nicht schwanger werden.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.7886401414871216
+  ],
+  [
+    [
+      28,
+      29
+    ],
+    [
+      "Hinweis: Die Frau hatte in diesem Monatszyklus schon den Eisprung?",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.6555295586585999
+  ],
+  [
+    [
+      29,
+      29
+    ],
+    [
+      "Oder die Frau ist schon schwanger?",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.7904454469680786
+  ],
+  [
+    [
+      30,
+      67
+    ],
+    [
+      "Dann wirkt die Pille danach nicht.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9647018313407898
+  ],
+  [
+    [
+      31,
+      67
+    ],
+    [
+      "Nehmen Sie die Pille danach nur im Notfall.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9652149677276611
+  ],
+  [
+    [
+      33,
+      67
+    ],
+    [
+      "Die Pille danach ist nicht zu 100 Prozent sicher.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9747338891029358
+  ],
+  [
+    [
+      35,
+      67
+    ],
+    [
+      "Die Pille danach wirkt nur für kurze Zeit.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9679455757141113
+  ],
+  [
+    [
+      36,
+      67
+    ],
+    [
+      "Die Pille danach wirkt nicht den ganzen Monatszyklus.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9555872082710266
+  ],
+  [
+    [
+      38,
+      13
+    ],
+    [
+      "Und Sie glauben: Die Verhütung hat nicht gewirkt?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.6810750365257263
+  ],
+  [
+    [
+      39,
+      67
+    ],
+    [
+      "Dann sollten Sie die Pille danach schnell nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9639613628387451
+  ],
+  [
+    [
+      40,
+      67
+    ],
+    [
+      "In den ersten 12 Stunden nach dem Geschlechtsverkehr wirkt die Pille danach am besten.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9632502198219299
+  ],
+  [
+    [
+      41,
+      67
+    ],
+    [
+      "Sie können die Pille danach auch zwischen drei und fünf Tage nach dem Geschlechtsverkehr nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9599505662918091
+  ],
+  [
+    [
+      42,
+      67
+    ],
+    [
+      "Achtung: Sie stillen und möchten die Pille danach nehmen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.96462082862854
+  ],
+  [
+    [
+      44,
+      13
+    ],
+    [
+      "Bei dem Wirkstoff Levonogestrel dauert die Still-Pause acht Stunden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5348957180976868
+  ],
+  [
+    [
+      45,
+      13
+    ],
+    [
+      "Bei dem Wirkstoff Ulipristal dauert die Still-Pause eine Woche.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5243068337440491
+  ],
+  [
+    [
+      49,
+      56
+    ],
+    [
+      "Er ersetzt nicht den Beipackzettel des Medikaments.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.49379274249076843
+  ],
+  [
+    [
+      51,
+      67
+    ],
+    [
+      "Sie wollen die Pille danach nehmen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9656049013137817
+  ],
+  [
+    [
+      55,
+      67
+    ],
+    [
+      "Die Pille danach kann unterschiedliche Nebenwirkungen haben.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9698523283004761
+  ],
+  [
+    [
+      57,
+      67
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen der Pille danach stehen auf dem Beipackzettel.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9404754638671875
+  ],
+  [
+    [
+      59,
+      67
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen von der Pille danach gehören zum Beispiel:",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9387573599815369
+  ],
+  [
+    [
+      60,
+      67
+    ],
+    [
+      "Erbrechen Sie haben in den ersten drei Stunden nach der Einnahme von der Pille danach erbrochen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.930931568145752
+  ],
+  [
+    [
+      61,
+      67
+    ],
+    [
+      "Dann müssen sie noch eine Pille danach nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9345319867134094
+  ],
+  [
+    [
+      64,
+      59
+    ],
+    [
+      "Spannen in der Brust",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.5980932712554932
+  ],
+  [
+    [
+      67,
+      27
+    ],
+    [
+      "Manche Frauen dürfen die Pille danach nicht nehmen.",
+      "Apotheken können die Pille danach ohne Rezept an Frauen im gebährfähigen Alter abgeben."
+    ],
+    0.9685346484184265
+  ],
+  [
+    [
+      68,
+      27
+    ],
+    [
+      "Zu diesen Frauen gehören: Frauen mit einer Allergie auf einen Inhaltsstoff der Pille danach.",
+      "Apotheken können die Pille danach ohne Rezept an Frauen im gebährfähigen Alter abgeben."
+    ],
+    0.9385673999786377
+  ],
+  [
+    [
+      69,
+      18
+    ],
+    [
+      "Frauen mit Leber-Erkrankungen oder Nierenerkrankungen.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.5607015490531921
+  ],
+  [
+    [
+      70,
+      18
+    ],
+    [
+      "Frauen mit starkem Übergewicht.",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.5808696746826172
+  ],
+  [
+    [
+      71,
+      67
+    ],
+    [
+      "In manchen Situationen wirkt die Pille danach nicht, zum Beispiel:",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9630833268165588
+  ],
+  [
+    [
+      72,
+      29
+    ],
+    [
+      "Die Frau ist schwanger.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.8009425401687622
+  ],
+  [
+    [
+      74,
+      29
+    ],
+    [
+      "Die Frau hatte öfter in einem Monatszyklus ungeschützten Sex.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.7473797798156738
+  ],
+  [
+    [
+      75,
+      38
+    ],
+    [
+      "Die Spirale danach kann auch eine Schwangerschaft verhindern.",
+      "Alternativ bietet sich dann die Spirale danach an (mehr dazu weiter unten)."
+    ],
+    0.9273325800895691
+  ],
+  [
+    [
+      76,
+      38
+    ],
+    [
+      "Die Spirale danach ist aus Kupfer.",
+      "Alternativ bietet sich dann die Spirale danach an (mehr dazu weiter unten)."
+    ],
+    0.9317548871040344
+  ],
+  [
+    [
+      77,
+      38
+    ],
+    [
+      "Der Arzt muss die Spirale danach spätestens fünf Tage nach dem Geschlechtsverkehr einsetzten.",
+      "Alternativ bietet sich dann die Spirale danach an (mehr dazu weiter unten)."
+    ],
+    0.9134463667869568
+  ],
+  [
+    [
+      78,
+      61
+    ],
+    [
+      "Durch die Spirale kann sich die befruchtete Eizelle nicht in die Gebärmutter einnisten.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.8652157187461853
+  ],
+  [
+    [
+      79,
+      61
+    ],
+    [
+      "Die Spirale kann drei bis fünf Jahre für die weitere Verhütung benutzt werden.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.8908829092979431
+  ],
+  [
+    [
+      80,
+      61
+    ],
+    [
+      "Manche Frauen können die Spirale nicht bekommen.",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.7933758497238159
+  ],
+  [
+    [
+      81,
+      18
+    ],
+    [
+      "Zu diesen Frauen gehören: Schwangere Frauen Frauen mit einer Unterleibsentzündung Frauen mit einer Fehlbildung der Gebärmutter Frauen mit einer zu kleinen Gebärmutter",
+      "Junge Mädchen und jüngere Frauen haben deutlich häufiger als ältere schon einmal notfallverhütet."
+    ],
+    0.5817432403564453
+  ],
+  [
+    [
+      82,
+      4
+    ],
+    [
+      "Sie wollen noch mehr über die Pille danach und die Spirale danach lesen?",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.9426196813583374
+  ],
+  [
+    [
+      83,
+      4
+    ],
+    [
+      "Mehr Informationen über die Pille danach und die Spirale danach finden Sie hier .",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.9424337148666382
+  ],
+  [
+    [
+      85,
+      13
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7934007048606873
+  ]
+]

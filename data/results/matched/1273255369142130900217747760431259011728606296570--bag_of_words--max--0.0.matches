@@ -1,0 +1,288 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Das ist Bitcoin: Geld im Computer ohne Bank Bitcoin ist eine neue Art von Geld.",
+      "Bitcoin: ein elektronisches Peer-to-Peer-Bezahlsystem (…)"
+    ],
+    0.49104470014572144
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Bitcoin ist eine „digitale Währung“.",
+      "Bitcoin: ein elektronisches Peer-to-Peer-Bezahlsystem (…)"
+    ],
+    0.5309898853302002
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Das heißt: Bitcoin ist Geld im Computer.",
+      "Bitcoin: ein elektronisches Peer-to-Peer-Bezahlsystem (…)"
+    ],
+    0.48523223400115967
+  ],
+  [
+    [
+      3,
+      3
+    ],
+    [
+      "Das ist neu:",
+      "Wir schlagen eine Lösung für das Double-Spending-Problem vor, indem wir ein Peer-to-Peer-Netzwerk benutzen."
+    ],
+    0.11774276942014694
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Bitcoin braucht keine Bank.",
+      "Bitcoin: ein elektronisches Peer-to-Peer-Bezahlsystem (…)"
+    ],
+    0.5386409759521484
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Wenn ich dir Geld schicke, heißt das: Transaktion.",
+      "Wir schlagen eine Lösung für das Double-Spending-Problem vor, indem wir ein Peer-to-Peer-Netzwerk benutzen."
+    ],
+    0.011491881683468819
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Wenn ich dir Geld schicke, unterschreibe ich die Transaktion.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.013158312067389488
+  ],
+  [
+    [
+      7,
+      6
+    ],
+    [
+      "Dann weiß jeder: Die Transaktion ist von mir.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.015434928238391876
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Dazu kriegt jede Transaktion einen Stempel mit der Uhrzeit.",
+      "Digitale Signaturen bilden einen Teil der Lösung, aber die Hauptvorteile gehen verloren, wenn weiterhin eine vertrauenswürdige dritte Partei notwendig ist, um Double Spending (Mehrfachausgaben) zu verhindern."
+    ],
+    0.0033385194838047028
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Dann weiß jeder: Die Transaktion ist von dieser Uhrzeit.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.015341785736382008
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Vielleicht will ein Betrüger das gleiche Geld zweimal ausgeben.",
+      "Wir schlagen eine Lösung für das Double-Spending-Problem vor, indem wir ein Peer-to-Peer-Netzwerk benutzen."
+    ],
+    0.046097833663225174
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Dann schauen die Leute auf den Stempel mit der Zeit.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.08197098225355148
+  ],
+  [
+    [
+      12,
+      2
+    ],
+    [
+      "Dann sagen die Leute: Es gibt schon eine ältere Transaktion.",
+      "Digitale Signaturen bilden einen Teil der Lösung, aber die Hauptvorteile gehen verloren, wenn weiterhin eine vertrauenswürdige dritte Partei notwendig ist, um Double Spending (Mehrfachausgaben) zu verhindern."
+    ],
+    0.014777337200939655
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Dann wird die neue Transaktion gelöscht.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.014812315814197063
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "In jeder Transaktion ist auch ein Rätsel eingebaut.",
+      "Bitcoin: ein elektronisches Peer-to-Peer-Bezahlsystem (…)"
+    ],
+    0.002825439441949129
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Das Rätsel muss von einem Bitcoin-Computer gelöst werden.",
+      "Wir schlagen eine Lösung für das Double-Spending-Problem vor, indem wir ein Peer-to-Peer-Netzwerk benutzen."
+    ],
+    0.02160629816353321
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Auch die Betrüger wollen das Rätsel lösen.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.050539933145046234
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Aber es gibt viel mehr ehrliche Bitcoin-Computer.",
+      "Eine reine Peer-to-Peer-Version eines elektronischen Zahlungsverfahrens würde es ermöglichen, dass Online-Zahlungen von einer Partei direkt an eine andere gesendet werden, ohne über ein Finanzinstitut zu gehen."
+    ],
+    0.0034331297501921654
+  ],
+  [
+    [
+      19,
+      6
+    ],
+    [
+      "Deshalb sind die ehrlichen Bitcoin-Computer schneller.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.03468392789363861
+  ],
+  [
+    [
+      20,
+      2
+    ],
+    [
+      "Der schnellste Bitcoin-Computer bekommt einen Gewinn.",
+      "Digitale Signaturen bilden einen Teil der Lösung, aber die Hauptvorteile gehen verloren, wenn weiterhin eine vertrauenswürdige dritte Partei notwendig ist, um Double Spending (Mehrfachausgaben) zu verhindern."
+    ],
+    0.007221932988613844
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Danach wird das Geld aus der Transaktion überwiesen.",
+      "Wir schlagen eine Lösung für das Double-Spending-Problem vor, indem wir ein Peer-to-Peer-Netzwerk benutzen."
+    ],
+    0.01172591932117939
+  ],
+  [
+    [
+      22,
+      6
+    ],
+    [
+      "Dann wird die Transaktion für immer gespeichert.",
+      "Solange der Großteil der CPU-Leistung von Nodes kontrolliert wird, die nicht kooperieren, um das Netzwerk anzugreifen, werden diese die längste Kette generieren und schneller sein als die Angreifer."
+    ],
+    0.014844169840216637
+  ],
+  [
+    [
+      23,
+      5
+    ],
+    [
+      "So entsteht eine sehr lange Kette mit allen Transaktionen.",
+      "Die längste Kette dient nicht nur als Nachweis für die Sequenz bezeugter Ereignisse, sondern auch als Beweis, dass sie vom größten Pool an CPU-Leistung stammt."
+    ],
+    0.40062978863716125
+  ],
+  [
+    [
+      24,
+      5
+    ],
+    [
+      "Es gibt sehr viele Kopien von dieser Kette.",
+      "Die längste Kette dient nicht nur als Nachweis für die Sequenz bezeugter Ereignisse, sondern auch als Beweis, dass sie vom größten Pool an CPU-Leistung stammt."
+    ],
+    0.41863417625427246
+  ],
+  [
+    [
+      25,
+      4
+    ],
+    [
+      "Darin kann man jede Transaktion nachschauen.",
+      "Das Netzwerk gibt Transaktionen einen Zeitstempel, indem es sie in eine fortlaufende Kette von Hash-basierten Arbeitsbeweisen (Proof of Work) hasht und so eine Aufzeichnung erzeugt, die nicht geändert werden kann, ohne den Proof of Work neu zu erzeugen."
+    ],
+    0.00035694893449544907
+  ],
+  [
+    [
+      26,
+      0
+    ],
+    [
+      "Jeder kann bei Bitcoin mitmachen.",
+      "Bitcoin: ein elektronisches Peer-to-Peer-Bezahlsystem (…)"
+    ],
+    0.5273014307022095
+  ]
+]

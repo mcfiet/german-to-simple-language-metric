@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      14
+    ],
+    [
+      "Eine Lungenentzündung ist eine Erkrankung der Atemwege.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3373480439186096
+  ],
+  [
+    [
+      1,
+      14
+    ],
+    [
+      "Das Fachwort für Lungenentzündung ist: Pneumonie.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.27291083335876465
+  ],
+  [
+    [
+      2,
+      14
+    ],
+    [
+      "Bei einer Lungenentzündung entzünden sich die Lungenbläschen oder das Lungengewebe.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3092772364616394
+  ],
+  [
+    [
+      3,
+      14
+    ],
+    [
+      "Manchmal sind bei einer Lungenentzündung Lungenbläschen und Lungengewebe entzündet.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.33185696601867676
+  ],
+  [
+    [
+      4,
+      111
+    ],
+    [
+      "Dann wird das entzündete Gewebe dicker.",
+      "Antibiotika"
+    ],
+    0.18452788889408112
+  ],
+  [
+    [
+      5,
+      111
+    ],
+    [
+      "Deshalb kann der Sauerstoff nicht mehr so leicht ins Blut.",
+      "Antibiotika"
+    ],
+    0.24731729924678802
+  ],
+  [
+    [
+      6,
+      14
+    ],
+    [
+      "Eine Lungenentzündung kann verschiedene Anzeichen haben.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.29506823420524597
+  ],
+  [
+    [
+      7,
+      14
+    ],
+    [
+      "Anzeichen einer Lungenentzündung sind zum Beispiel: Schwäche starkes Krankheitsgefühl",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3147120475769043
+  ],
+  [
+    [
+      8,
+      14
+    ],
+    [
+      "Husten",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.5204771757125854
+  ],
+  [
+    [
+      9,
+      111
+    ],
+    [
+      "Kopfschmerzen",
+      "Antibiotika"
+    ],
+    0.5361639857292175
+  ],
+  [
+    [
+      10,
+      14
+    ],
+    [
+      "Gliederschmerzen",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.559803307056427
+  ],
+  [
+    [
+      11,
+      14
+    ],
+    [
+      "Schüttelfrost",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3320978581905365
+  ],
+  [
+    [
+      12,
+      14
+    ],
+    [
+      "hohes Fieber",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.30217596888542175
+  ],
+  [
+    [
+      13,
+      111
+    ],
+    [
+      "Atemnot Sie glauben: Ich habe vielleicht eine Lungenentzündung?",
+      "Antibiotika"
+    ],
+    0.25029104948043823
+  ],
+  [
+    [
+      14,
+      162
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.16973496973514557
+  ],
+  [
+    [
+      15,
+      86
+    ],
+    [
+      "Der Arzt untersucht Sie und kann Ihnen helfen.",
+      "Körperliche Untersuchung und Anamnese:"
+    ],
+    0.21930372714996338
+  ],
+  [
+    [
+      16,
+      14
+    ],
+    [
+      "Es gibt drei verschiedene Arten einer Lungenentzündung: infektiöse Lungenentzündung, nicht-infektiöse Lungenentzündung und die Aspirations-Pneumonie.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3091661334037781
+  ],
+  [
+    [
+      17,
+      14
+    ],
+    [
+      "Infektiöse Lungenentzündung: Die häufigste Ursache einer infektiösen Lungenentzündung sind Bakterien.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.47663456201553345
+  ],
+  [
+    [
+      18,
+      14
+    ],
+    [
+      "Andere Ursachen einer infektiösen Lungenentzündung sind zum Beispiel:",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.32881513237953186
+  ],
+  [
+    [
+      19,
+      111
+    ],
+    [
+      "Viren Pilze Parasiten",
+      "Antibiotika"
+    ],
+    0.5081380605697632
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Die Erreger einer infektiösen Lungenentzündung werden durch Tröpfchen-Infektion übertragen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.4099641740322113
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Das bedeutet: Die Erreger gelangen über Körper-Flüssigkeiten zu anderen Personen.",
+      "Lungenentzündungen gehen meist auf eine derartige Ansteckung durch Tröpfcheninfektion zurück."
+    ],
+    0.23105916380882263
+  ],
+  [
+    [
+      22,
+      132
+    ],
+    [
+      "Die Erreger können also zum Beispiel durch Husten oder Niesen übertragen werden.",
+      "Andere Maßnahmen Bei Lungenentzündungen, welche durch Pilze oder Parasiten verursacht werden, können eventuell speziell gegen diese Erreger wirksame Medikamente gegeben werden."
+    ],
+    0.2610775828361511
+  ],
+  [
+    [
+      23,
+      14
+    ],
+    [
+      "Nicht-infektiöse Lungenentzündung: Die häufigsten Ursachen einer nicht-infektiösen Lungenentzündung sind zum Beispiel:",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.26567819714546204
+  ],
+  [
+    [
+      24,
+      14
+    ],
+    [
+      "Strahlen von einer Strahlentherapie eingeatmete Gase Durchblutungsstörungen",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.32285699248313904
+  ],
+  [
+    [
+      25,
+      14
+    ],
+    [
+      "Fremdkörper",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.482211709022522
+  ],
+  [
+    [
+      26,
+      14
+    ],
+    [
+      "Aspirations-Pneumonie: In Ihre Lunge gelangen Nahrungsreste oder Magensäure?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.22957344353199005
+  ],
+  [
+    [
+      27,
+      111
+    ],
+    [
+      "Dann können Sie eine Lungenentzündung bekommen.",
+      "Antibiotika"
+    ],
+    0.25270557403564453
+  ],
+  [
+    [
+      28,
+      119
+    ],
+    [
+      "Das Fachwort für diese Art der Lungenentzündung ist: Aspirations-Pneumonie.",
+      "Dies bezeichnet man als Antibiotika-Resistenz."
+    ],
+    0.1653342992067337
+  ],
+  [
+    [
+      29,
+      65
+    ],
+    [
+      "Die Ursache von einer Aspirations-Pneumonie ist meist eine Schluckstörung.",
+      "Die verringerte Sauerstoffaufnahme versucht der Körper durch eine höhere Atemfrequenz auszugleichen, auch der Pulsschlag ist erhöht."
+    ],
+    0.20204472541809082
+  ],
+  [
+    [
+      30,
+      132
+    ],
+    [
+      "Schluckstörungen können zum Beispiel durch diese Krankheiten entstehen:",
+      "Andere Maßnahmen Bei Lungenentzündungen, welche durch Pilze oder Parasiten verursacht werden, können eventuell speziell gegen diese Erreger wirksame Medikamente gegeben werden."
+    ],
+    0.31124550104141235
+  ],
+  [
+    [
+      31,
+      14
+    ],
+    [
+      "Parkinson Schlaganfall Multiple",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3800313174724579
+  ],
+  [
+    [
+      32,
+      14
+    ],
+    [
+      "Sklerose Schädel-Hirn-Trauma Hirntumor",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.46725818514823914
+  ],
+  [
+    [
+      33,
+      111
+    ],
+    [
+      "Sie glauben: Ich habe eine Lungenentzündung?",
+      "Antibiotika"
+    ],
+    0.22118747234344482
+  ],
+  [
+    [
+      34,
+      162
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.16973496973514557
+  ],
+  [
+    [
+      35,
+      86
+    ],
+    [
+      "Der Arzt untersucht Sie und kann Ihnen helfen.",
+      "Körperliche Untersuchung und Anamnese:"
+    ],
+    0.21930372714996338
+  ],
+  [
+    [
+      36,
+      14
+    ],
+    [
+      "Eine Lungenentzündung kann verschiedene Ursachen haben.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.2996668517589569
+  ],
+  [
+    [
+      37,
+      122
+    ],
+    [
+      "Deshalb ist die Behandlung immer unterschiedlich.",
+      "Entsprechend schwierig gestaltet sich dann die Behandlung."
+    ],
+    0.3130851686000824
+  ],
+  [
+    [
+      38,
+      111
+    ],
+    [
+      "Bakterien haben die Lungenentzündung ausgelöst?",
+      "Antibiotika"
+    ],
+    0.3980109393596649
+  ],
+  [
+    [
+      39,
+      111
+    ],
+    [
+      "Dann helfen meist Antibiotika.",
+      "Antibiotika"
+    ],
+    0.41826069355010986
+  ],
+  [
+    [
+      40,
+      14
+    ],
+    [
+      "Die Lungenentzündung hat andere Ursachen?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.3062308132648468
+  ],
+  [
+    [
+      41,
+      111
+    ],
+    [
+      "Dann bekommen Patienten eine andere Behandlung.",
+      "Antibiotika"
+    ],
+    0.3166487216949463
+  ],
+  [
+    [
+      42,
+      86
+    ],
+    [
+      "Sie haben Fragen zur Behandlung?",
+      "Körperliche Untersuchung und Anamnese:"
+    ],
+    0.22998403012752533
+  ],
+  [
+    [
+      43,
+      162
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.20405763387680054
+  ],
+  [
+    [
+      44,
+      162
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.20036225020885468
+  ],
+  [
+    [
+      45,
+      14
+    ],
+    [
+      "Sie möchten eine Lungenentzündung vermeiden?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.2797960937023163
+  ],
+  [
+    [
+      46,
+      162
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.20870834589004517
+  ],
+  [
+    [
+      47,
+      140
+    ],
+    [
+      "Bewegen Sie sich regelmäßig an der frischen Luft.",
+      "Ansonsten gesunde Menschen können sich dabei meist auf ihr Durstgefühl verlassen."
+    ],
+    0.24425645172595978
+  ],
+  [
+    [
+      48,
+      140
+    ],
+    [
+      "Rauchen Sie nicht.",
+      "Ansonsten gesunde Menschen können sich dabei meist auf ihr Durstgefühl verlassen."
+    ],
+    0.3025197386741638
+  ],
+  [
+    [
+      49,
+      111
+    ],
+    [
+      "Ärzte empfehlen auch: Lassen Sie sich gegen die Grippe impfen.",
+      "Antibiotika"
+    ],
+    0.2693841755390167
+  ],
+  [
+    [
+      50,
+      111
+    ],
+    [
+      "Und lassen Sie sich gegen Pneumokokken impfen.",
+      "Antibiotika"
+    ],
+    0.26452720165252686
+  ],
+  [
+    [
+      51,
+      111
+    ],
+    [
+      "Pneumokokken sind Bakterien.",
+      "Antibiotika"
+    ],
+    0.445080429315567
+  ],
+  [
+    [
+      52,
+      14
+    ],
+    [
+      "Pneumokokken können eine Lungenentzündung verursachen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.42823538184165955
+  ],
+  [
+    [
+      53,
+      140
+    ],
+    [
+      "Sie lassen sich impfen?",
+      "Ansonsten gesunde Menschen können sich dabei meist auf ihr Durstgefühl verlassen."
+    ],
+    0.27056604623794556
+  ],
+  [
+    [
+      54,
+      111
+    ],
+    [
+      "Dann ist die Lungenentzündung vielleicht weniger schlimm.",
+      "Antibiotika"
+    ],
+    0.28606244921684265
+  ],
+  [
+    [
+      55,
+      140
+    ],
+    [
+      "Sie möchten noch mehr über die Lungenentzündung lesen?",
+      "Ansonsten gesunde Menschen können sich dabei meist auf ihr Durstgefühl verlassen."
+    ],
+    0.2371695339679718
+  ],
+  [
+    [
+      56,
+      115
+    ],
+    [
+      "Mehr Informationen über die Lungenentzündung finden Sie hier .",
+      "Er kann sich dabei an Leitlinien und Therapieempfehlungen orientieren, welche die ärztlichen Fachgesellschaften veröffentlichen."
+    ],
+    0.20501701533794403
+  ],
+  [
+    [
+      57,
+      27
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Sie treten vorzugsweise unter intensivmedizinischer Behandlung auf."
+    ],
+    0.1265854686498642
+  ],
+  [
+    [
+      58,
+      122
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Entsprechend schwierig gestaltet sich dann die Behandlung."
+    ],
+    0.2133239060640335
+  ]
+]

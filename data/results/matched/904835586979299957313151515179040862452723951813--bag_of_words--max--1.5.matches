@@ -1,0 +1,508 @@
+[
+  [
+    [
+      0,
+      23
+    ],
+    [
+      "Bei einer Vergiftung schädigt ein giftiger Stoff den Körper.",
+      "Eventuell ist bei einer Vergiftung eine endoskopische Untersuchung erforderlich."
+    ],
+    0.3242274224758148
+  ],
+  [
+    [
+      7,
+      29
+    ],
+    [
+      "Personen vergiften sich zum Beispiel mit Medikamenten Reinigungsmitteln Pflanzenschutzmitteln Pflanzen",
+      "Nicht selten vergiften sie sich so zum Beispiel mit Haushaltsreinigern, Pflanzen oder Medikamenten."
+    ],
+    0.3825966417789459
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sie glauben:",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.8731046915054321
+  ],
+  [
+    [
+      9,
+      23
+    ],
+    [
+      "Jemand hat eine Vergiftung?",
+      "Eventuell ist bei einer Vergiftung eine endoskopische Untersuchung erforderlich."
+    ],
+    0.6161274313926697
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Dann rufen Sie sofort den Notruf.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7348187565803528
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Sie können die Nummer auch mit einem gesperrten Handy anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.6564593315124512
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Und Sie fahren die Person selbst in ein Krankenhaus?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.38917210698127747
+  ],
+  [
+    [
+      15,
+      16
+    ],
+    [
+      "Dann nehmen Sie möglichst das Gift mit.",
+      "Falls Sie aufgefordert werden, mit dem Patienten ins Krankenhaus zu fahren, nehmen Sie das Gift nach Möglichkeit mit (zum Beispiel die Schachtel, den Behälter, Pflanzenblätter oder ähnliches)."
+    ],
+    0.6854207515716553
+  ],
+  [
+    [
+      16,
+      17
+    ],
+    [
+      "Sie können zum Beispiel die Medikamentenschachtel den Behälter oder ein Blatt von der Pflanze mitnehmen",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.5941465497016907
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Sie haben den Notruf angerufen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7438737154006958
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Und Sie warten auf den Rettungswagen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7596369981765747
+  ],
+  [
+    [
+      19,
+      22
+    ],
+    [
+      "Dann können Sie zusätzlich den Giftnotruf anrufen.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.5007620453834534
+  ],
+  [
+    [
+      20,
+      22
+    ],
+    [
+      "Der Giftnotruf sagt Ihnen: Das müssen Sie bei einer Vergiftung tun.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.4803958237171173
+  ],
+  [
+    [
+      21,
+      22
+    ],
+    [
+      "Jedes Bundesland hat einen eigenen Giftnotruf.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.345859169960022
+  ],
+  [
+    [
+      22,
+      22
+    ],
+    [
+      "Sie können den Giftnotruf jederzeit anrufen.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.5056461095809937
+  ],
+  [
+    [
+      27,
+      22
+    ],
+    [
+      "Der Giftnotruf braucht einige Informationen von Ihnen.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.3458196520805359
+  ],
+  [
+    [
+      28,
+      22
+    ],
+    [
+      "Der Giftnotruf muss zum Beispiel wissen:",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.3460180461406708
+  ],
+  [
+    [
+      32,
+      3
+    ],
+    [
+      "Sie können das Alter auch schätzen",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7695590853691101
+  ],
+  [
+    [
+      34,
+      3
+    ],
+    [
+      "Sie können das Gewicht auch schätzen",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7659481167793274
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Wann hat die betroffene Person das Gift eingenommen?",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.3699248433113098
+  ],
+  [
+    [
+      37,
+      22
+    ],
+    [
+      "Der Giftnotruf fragt zum Beispiel nach dem Namen und dem Hersteller des Mittels.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.3827020525932312
+  ],
+  [
+    [
+      39,
+      22
+    ],
+    [
+      "Dann fragt der Giftnotruf auch nach der Dosis des Medikaments.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.33766183257102966
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Die Dosis steht auf der Verpackung",
+      "Gefragt wird zum Beispiel nach der Bezeichnung des Mittels, Hersteller, Dosis, Name der Pflanze."
+    ],
+    0.3488197326660156
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Wie ist Ihre Telefonnummer?",
+      "Wie alt ist der Betroffene?"
+    ],
+    0.6026458740234375
+  ],
+  [
+    [
+      45,
+      22
+    ],
+    [
+      "Der Giftnotruf muss Sie vielleicht zurückrufen Hinweis:",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.512692391872406
+  ],
+  [
+    [
+      46,
+      16
+    ],
+    [
+      "Manchmal müssen Sie sich selbst vor dem Gift schützen.",
+      "Falls Sie aufgefordert werden, mit dem Patienten ins Krankenhaus zu fahren, nehmen Sie das Gift nach Möglichkeit mit (zum Beispiel die Schachtel, den Behälter, Pflanzenblätter oder ähnliches)."
+    ],
+    0.6632387042045593
+  ],
+  [
+    [
+      47,
+      23
+    ],
+    [
+      "Zum Beispiel bei einer Vergiftung mit giftigen Pflanzenschutzmitteln.",
+      "Eventuell ist bei einer Vergiftung eine endoskopische Untersuchung erforderlich."
+    ],
+    0.4471845328807831
+  ],
+  [
+    [
+      49,
+      3
+    ],
+    [
+      "Dann tragen Sie Handschuhe und einen Mund-Nasen-Schutz.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7614190578460693
+  ],
+  [
+    [
+      52,
+      17
+    ],
+    [
+      "Dann bringen Sie die Person in die stabile Seitenlage.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.45658716559410095
+  ],
+  [
+    [
+      53,
+      17
+    ],
+    [
+      "Mehr Informationen über die stabile Seitenlage finden Sie hier .",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.7167178988456726
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Überprüfen Sie immer wieder die Atmung der betroffenen Person.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.41167354583740234
+  ],
+  [
+    [
+      56,
+      3
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7661051750183105
+  ],
+  [
+    [
+      57,
+      3
+    ],
+    [
+      "Achtung: Diese Dinge müssen Sie vermeiden : Bringen Sie die betroffene Person nicht zum Erbrechen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5947896242141724
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Durch Erbrechen kann das Gift die Speiseröhre verletzen.",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.43415775895118713
+  ],
+  [
+    [
+      60,
+      4
+    ],
+    [
+      "Das ist gefährlich.",
+      "Wer ist betroffen?"
+    ],
+    0.4260813593864441
+  ],
+  [
+    [
+      62,
+      3
+    ],
+    [
+      "Geben Sie der betroffenen Person keine Kohletabletten.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.3931133449077606
+  ],
+  [
+    [
+      64,
+      22
+    ],
+    [
+      "Sie erst den Giftnotruf Geben Sie der betroffenen Person keine Milch zu trinken.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.5119525194168091
+  ],
+  [
+    [
+      65,
+      9
+    ],
+    [
+      "Durch die Milch kann der Darm das Gift schneller aufnehmen Kinder vergiften sich häufig mit Reinigungsmitteln, Pflanzen oder Medikamenten",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.32519736886024475
+  ],
+  [
+    [
+      66,
+      0
+    ],
+    [
+      "Sie können Kinder vor einer Vergiftung schützen.",
+      "Verständigen Sie beim Verdacht auf eine Vergiftung sofort den Rettungsdienst (112)!"
+    ],
+    0.7693895101547241
+  ],
+  [
+    [
+      67,
+      3
+    ],
+    [
+      "Beachten Sie dafür diese Tipps:",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.8595215678215027
+  ],
+  [
+    [
+      68,
+      3
+    ],
+    [
+      "Lagern Sie gefährliche Mittel nie in Reichweite von Kindern Lagern Sie Medikamente immer in einem verschlossenen Behälter Lagern Sie giftige Mittel nie neben Lebensmitteln Füllen Sie giftige Mittel nicht in andere Verpackungen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7343752384185791
+  ],
+  [
+    [
+      69,
+      3
+    ],
+    [
+      "Füllen Sie zum Beispiel keine giftigen Flüssigkeiten in Trinkflaschen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.6318001747131348
+  ],
+  [
+    [
+      72,
+      3
+    ],
+    [
+      "Sie möchten mehr Informationen zu Vergiftungen bei Kindern bekommen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.6872331500053406
+  ],
+  [
+    [
+      73,
+      3
+    ],
+    [
+      "Dann klicken Sie hier .",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7897781729698181
+  ],
+  [
+    [
+      76,
+      3
+    ],
+    [
+      "Sie wollen noch mehr über Vergiftungen lesen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.7076037526130676
+  ],
+  [
+    [
+      77,
+      3
+    ],
+    [
+      "Mehr Informationen über Vergiftungen finden Sie hier.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.6779711842536926
+  ]
+]

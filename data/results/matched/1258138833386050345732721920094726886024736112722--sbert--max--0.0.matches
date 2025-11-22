@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      5
+    ],
+    [
+      "Eine Person ist verletzt?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.6176158785820007
+  ],
+  [
+    [
+      1,
+      21
+    ],
+    [
+      "Und die Wunde blutet stark?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.8645147681236267
+  ],
+  [
+    [
+      2,
+      14
+    ],
+    [
+      "Dann rufen Sie als erstes den Rettungsdienst.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.6703811883926392
+  ],
+  [
+    [
+      3,
+      16
+    ],
+    [
+      "Die Nummer ist:",
+      "Zum Fixieren zwei- bis dreimal mit einer Binde umwickeln."
+    ],
+    0.4152384102344513
+  ],
+  [
+    [
+      4,
+      14
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.7001667022705078
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.9464676380157471
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7369681596755981
+  ],
+  [
+    [
+      7,
+      21
+    ],
+    [
+      "Die Wunde blutet stark?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.8485662937164307
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.582837700843811
+  ],
+  [
+    [
+      9,
+      23
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.9346930384635925
+  ],
+  [
+    [
+      10,
+      21
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.8220868110656738
+  ],
+  [
+    [
+      11,
+      16
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Zum Fixieren zwei- bis dreimal mit einer Binde umwickeln."
+    ],
+    0.7297711372375488
+  ],
+  [
+    [
+      12,
+      15
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.8421733379364014
+  ],
+  [
+    [
+      13,
+      16
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Zum Fixieren zwei- bis dreimal mit einer Binde umwickeln."
+    ],
+    0.8007785677909851
+  ],
+  [
+    [
+      14,
+      15
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.8200742602348328
+  ],
+  [
+    [
+      15,
+      17
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Ein zweites, ungeöffnetes Verbandpäckchen aus dem Erste-Hilfe-Set als Druckpolster auflegen und mit der restlichen Binde fixieren."
+    ],
+    0.8400030732154846
+  ],
+  [
+    [
+      16,
+      18
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.7811152935028076
+  ],
+  [
+    [
+      17,
+      18
+    ],
+    [
+      "Der Verband ist zu fest?",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.6741654276847839
+  ],
+  [
+    [
+      18,
+      21
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7157015800476074
+  ],
+  [
+    [
+      19,
+      21
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.6962367296218872
+  ],
+  [
+    [
+      20,
+      18
+    ],
+    [
+      "Achtung:",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.557672917842865
+  ],
+  [
+    [
+      21,
+      21
+    ],
+    [
+      "Manchmal sind Fremdkörper in der Wunde.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7608511447906494
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Das können zum Beispiel Glasscherben sein.",
+      "Zum Fixieren Dreiecktuch seitlich am Kopf verknoten (siehe Bild oben)."
+    ],
+    0.48760348558425903
+  ],
+  [
+    [
+      23,
+      19
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Fremdkörper in der Wunde, wie beispielsweise Holzäste oder Messer sollten nicht herausgezogen werden!"
+    ],
+    0.7977304458618164
+  ],
+  [
+    [
+      24,
+      21
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7272027730941772
+  ],
+  [
+    [
+      25,
+      23
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7123199105262756
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.6676534414291382
+  ],
+  [
+    [
+      27,
+      13
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.6597420573234558
+  ],
+  [
+    [
+      28,
+      16
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Zum Fixieren zwei- bis dreimal mit einer Binde umwickeln."
+    ],
+    0.645716667175293
+  ],
+  [
+    [
+      29,
+      21
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7141834497451782
+  ],
+  [
+    [
+      30,
+      5
+    ],
+    [
+      "Eine Person hat eine Platzwunde am Kopf?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.7497826218605042
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.6111029982566833
+  ],
+  [
+    [
+      32,
+      15
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.8940689563751221
+  ],
+  [
+    [
+      33,
+      4
+    ],
+    [
+      "Befestigen Sie die Kompresse mit einem Dreiecktuch seitlich am Kopf.",
+      "Zum Fixieren Dreiecktuch seitlich am Kopf verknoten (siehe Bild oben)."
+    ],
+    0.9113472700119019
+  ],
+  [
+    [
+      34,
+      21
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.8226743340492249
+  ],
+  [
+    [
+      35,
+      6
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.7814406752586365
+  ],
+  [
+    [
+      36,
+      10
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.7698031663894653
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.6392741203308105
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Gehen Sie mit einer Platzwunde immer zum Arzt.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6585692167282104
+  ],
+  [
+    [
+      39,
+      14
+    ],
+    [
+      "Oder gehen Sie in die Notaufnahme im Krankenhaus.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.6685311794281006
+  ],
+  [
+    [
+      40,
+      12
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Mehr zum Thema im Ratgeber Nasenbluten ."
+    ],
+    0.7859856486320496
+  ],
+  [
+    [
+      41,
+      10
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.7558714747428894
+  ],
+  [
+    [
+      42,
+      10
+    ],
+    [
+      "Das Blut soll ablaufen.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.7223982810974121
+  ],
+  [
+    [
+      43,
+      11
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Bei Blutungen aus dem vorderen Nasenabschnitt kann es helfen, die Nasenflügel für einige Minuten fest mit den Fingern zusammenzupressen und während der Zeit durch den Mund zu atmen."
+    ],
+    0.7867254614830017
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Kopf leicht nach vorne beugen."
+    ],
+    0.9520332217216492
+  ],
+  [
+    [
+      45,
+      11
+    ],
+    [
+      "Das Blut kommt aus dem vorderen Nasen-Abschnitt?",
+      "Bei Blutungen aus dem vorderen Nasenabschnitt kann es helfen, die Nasenflügel für einige Minuten fest mit den Fingern zusammenzupressen und während der Zeit durch den Mund zu atmen."
+    ],
+    0.7244513630867004
+  ],
+  [
+    [
+      46,
+      11
+    ],
+    [
+      "Dann drücken Sie die Nasenflügel für ein paar Minuten fest mit Ihren Fingern zusammen.",
+      "Bei Blutungen aus dem vorderen Nasenabschnitt kann es helfen, die Nasenflügel für einige Minuten fest mit den Fingern zusammenzupressen und während der Zeit durch den Mund zu atmen."
+    ],
+    0.7314160466194153
+  ],
+  [
+    [
+      47,
+      11
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Bei Blutungen aus dem vorderen Nasenabschnitt kann es helfen, die Nasenflügel für einige Minuten fest mit den Fingern zusammenzupressen und während der Zeit durch den Mund zu atmen."
+    ],
+    0.6240769624710083
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.8161309957504272
+  ],
+  [
+    [
+      49,
+      8
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.9120299816131592
+  ],
+  [
+    [
+      50,
+      9
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.7666305303573608
+  ],
+  [
+    [
+      51,
+      9
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.8445238471031189
+  ],
+  [
+    [
+      52,
+      9
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.8287500739097595
+  ],
+  [
+    [
+      53,
+      10
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.7447225451469421
+  ],
+  [
+    [
+      54,
+      14
+    ],
+    [
+      "Dann gehen Sie zum Arzt oder in die Notaufnahme im Krankenhaus.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.6650986671447754
+  ],
+  [
+    [
+      55,
+      2
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.6450921297073364
+  ],
+  [
+    [
+      56,
+      2
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.6551047563552856
+  ],
+  [
+    [
+      57,
+      4
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Zum Fixieren Dreiecktuch seitlich am Kopf verknoten (siehe Bild oben)."
+    ],
+    0.37168043851852417
+  ],
+  [
+    [
+      58,
+      12
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Mehr zum Thema im Ratgeber Nasenbluten ."
+    ],
+    0.3545020818710327
+  ]
+]

@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine akute Bronchitis ist eine Erkrankung der Atemwege.",
+      "Häufig tritt eine akute Bronchitis im Rahmen einer Erkältung auf."
+    ],
+    0.639655351638794
+  ],
+  [
+    [
+      1,
+      8
+    ],
+    [
+      "Bei einer akuten Bronchitis ist die Schleimhaut in den Bronchien entzündet.",
+      "Tritt eine akute Bronchitis im Rahmen einer üblichen Erkältung bei sonst Gesunden auf, heilt sie normalerweise innerhalb von rund zwei Wochen aus."
+    ],
+    0.6179284453392029
+  ],
+  [
+    [
+      2,
+      8
+    ],
+    [
+      "Eine Bronchitis kann akut sein.",
+      "Tritt eine akute Bronchitis im Rahmen einer üblichen Erkältung bei sonst Gesunden auf, heilt sie normalerweise innerhalb von rund zwei Wochen aus."
+    ],
+    0.6644291877746582
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Dann heilt sie oft von selbst.",
+      "Tritt eine akute Bronchitis im Rahmen einer üblichen Erkältung bei sonst Gesunden auf, heilt sie normalerweise innerhalb von rund zwei Wochen aus."
+    ],
+    0.7503266930580139
+  ],
+  [
+    [
+      4,
+      8
+    ],
+    [
+      "Eine akute Bronchitis dauert etwa zwei Wochen.",
+      "Tritt eine akute Bronchitis im Rahmen einer üblichen Erkältung bei sonst Gesunden auf, heilt sie normalerweise innerhalb von rund zwei Wochen aus."
+    ],
+    0.8193761706352234
+  ],
+  [
+    [
+      5,
+      30
+    ],
+    [
+      "Hinweis: Akute Bronchitis ist oft ansteckend.",
+      "Bei kleinen Kindern, vor allem bei Säuglingen, kann die akute Bronchitis in seltenen Fällen zu einer Bronchiolitis obliterans führen, einer schwerwiegenden Erkrankung, die häufig durch Respiratory-Syncytial-Viren (RS-Viren) ausgelöst wird."
+    ],
+    0.6443065404891968
+  ],
+  [
+    [
+      6,
+      35
+    ],
+    [
+      "Eine Bronchitis kann aber auch chronisch sein ( chronische Bronchitis ).",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6713812351226807
+  ],
+  [
+    [
+      7,
+      35
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5708211660385132
+  ],
+  [
+    [
+      8,
+      35
+    ],
+    [
+      "Chronische Entzündungen kommen oft wieder.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7047490477561951
+  ],
+  [
+    [
+      9,
+      35
+    ],
+    [
+      "Das wichtigste Anzeichen für eine akute Bronchitis ist der typische Husten .",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5930271148681641
+  ],
+  [
+    [
+      10,
+      35
+    ],
+    [
+      "Anfangs ist der Husten meist trocken.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6801971197128296
+  ],
+  [
+    [
+      11,
+      35
+    ],
+    [
+      "Nachts und morgens ist der Husten oft besonders schlimm:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7312930822372437
+  ],
+  [
+    [
+      12,
+      35
+    ],
+    [
+      "Eine betroffene Person hat beim Husten Schmerzen in der Brust.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6631369590759277
+  ],
+  [
+    [
+      13,
+      35
+    ],
+    [
+      "Nach einigen Tagen bildet sich zäher Schleim in den Bronchien.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6698351502418518
+  ],
+  [
+    [
+      14,
+      35
+    ],
+    [
+      "Der Husten verändert sich:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6937936544418335
+  ],
+  [
+    [
+      15,
+      35
+    ],
+    [
+      "Er ist dann nicht mehr trocken.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6133284568786621
+  ],
+  [
+    [
+      16,
+      35
+    ],
+    [
+      "Der Husten ist dann schleimig.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6220507621765137
+  ],
+  [
+    [
+      17,
+      35
+    ],
+    [
+      "Eine akute Bronchitis tritt oft zusammen mit einer Erkältung auf.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6053482890129089
+  ],
+  [
+    [
+      18,
+      35
+    ],
+    [
+      "Zusätzlich zum Husten kommen dann häufig typische Beschwerden einer Erkältung hinzu wie zum Beispiel:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7126805782318115
+  ],
+  [
+    [
+      19,
+      35
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen Halsschmerzen",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.8243563175201416
+  ],
+  [
+    [
+      20,
+      35
+    ],
+    [
+      "Schmerzen beim Schlucken",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.8847360610961914
+  ],
+  [
+    [
+      21,
+      35
+    ],
+    [
+      "Schnupfen",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.8446353077888489
+  ],
+  [
+    [
+      22,
+      35
+    ],
+    [
+      "Fieber",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    1.0
+  ],
+  [
+    [
+      23,
+      35
+    ],
+    [
+      "In den meisten Fällen sind Viren die Ursache für eine akute Bronchitis.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5817105174064636
+  ],
+  [
+    [
+      24,
+      35
+    ],
+    [
+      "Verschiedene Viren-Arten können eine akute Bronchitis auslösen wie zum Beispiel Grippe-Viren.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6174735426902771
+  ],
+  [
+    [
+      25,
+      35
+    ],
+    [
+      "Manchmal sind aber auch Bakterien die Ursache für eine akute Bronchitis.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6471928954124451
+  ],
+  [
+    [
+      26,
+      35
+    ],
+    [
+      "In seltenen Fällen verursachen Pilze die Bronchitis.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.552301824092865
+  ],
+  [
+    [
+      27,
+      35
+    ],
+    [
+      "Eine akute Bronchitis ist häufig ansteckend.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5565040111541748
+  ],
+  [
+    [
+      28,
+      35
+    ],
+    [
+      "Die Viren können sich leicht über den Speichel auf andere Menschen übertragen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6403931975364685
+  ],
+  [
+    [
+      29,
+      35
+    ],
+    [
+      "Sie haben eine akute Bronchitis?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7655014991760254
+  ],
+  [
+    [
+      30,
+      35
+    ],
+    [
+      "Dann sollten Sie diese Dinge vermeiden:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6781661510467529
+  ],
+  [
+    [
+      31,
+      35
+    ],
+    [
+      "Husten Sie andere Menschen nicht an.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7628835439682007
+  ],
+  [
+    [
+      32,
+      35
+    ],
+    [
+      "Niesen Sie andere Menschen nicht an.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7159308195114136
+  ],
+  [
+    [
+      33,
+      35
+    ],
+    [
+      "Küssen Sie andere Menschen nicht.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7777971029281616
+  ],
+  [
+    [
+      34,
+      35
+    ],
+    [
+      "Nutzen Sie eigene Tassen und eigenes Besteck.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.606114387512207
+  ],
+  [
+    [
+      35,
+      35
+    ],
+    [
+      "Waschen Sie regelmäßig Ihre Hände mit Seife.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5467818975448608
+  ],
+  [
+    [
+      36,
+      35
+    ],
+    [
+      "Für gesunde Menschen ist eine akute Bronchitis oft nicht gefährlich.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5768580436706543
+  ],
+  [
+    [
+      37,
+      35
+    ],
+    [
+      "Nur in seltenen Fällen müssen betroffene Menschen Medikamente nehmen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5883747339248657
+  ],
+  [
+    [
+      38,
+      35
+    ],
+    [
+      "Die Entzündung heilt meist von selbst.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7175417542457581
+  ],
+  [
+    [
+      39,
+      35
+    ],
+    [
+      "Aber Sie können die Heilung unterstützen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6895049810409546
+  ],
+  [
+    [
+      40,
+      35
+    ],
+    [
+      "Während der Erkrankung sollten Sie: sich schonen, keinen Sport machen, nicht rauchen und bei Fieber im Bett bleiben.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6945461630821228
+  ],
+  [
+    [
+      41,
+      35
+    ],
+    [
+      "Sie haben starke Beschwerden?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    1.0
+  ],
+  [
+    [
+      42,
+      35
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7874968647956848
+  ],
+  [
+    [
+      43,
+      35
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6219561696052551
+  ],
+  [
+    [
+      44,
+      35
+    ],
+    [
+      "In der Apotheke bekommen Sie spezielle Hustenmittel.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6539908051490784
+  ],
+  [
+    [
+      45,
+      35
+    ],
+    [
+      "Lassen Sie sich vom Apotheker beraten.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6827897429466248
+  ],
+  [
+    [
+      46,
+      35
+    ],
+    [
+      "Hinweis: Das Husten ist wichtig für die Heilung der Bronchitis.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5873240232467651
+  ],
+  [
+    [
+      47,
+      35
+    ],
+    [
+      "Nehmen Sie die Mittel gegen Husten deshalb nicht über längere Zeit ein.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6094008684158325
+  ],
+  [
+    [
+      48,
+      35
+    ],
+    [
+      "Sie können auch Mittel gegen den Schleim nehmen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6632099747657776
+  ],
+  [
+    [
+      49,
+      35
+    ],
+    [
+      "Diese Mittel lösen den Schleim in den Bronchien.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5445184111595154
+  ],
+  [
+    [
+      50,
+      35
+    ],
+    [
+      "So können Sie den Schleim leichter abhusten.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.597250759601593
+  ],
+  [
+    [
+      51,
+      35
+    ],
+    [
+      "Fragen",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5082905888557434
+  ],
+  [
+    [
+      52,
+      35
+    ],
+    [
+      "Sie in der Apotheke",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7177211046218872
+  ],
+  [
+    [
+      53,
+      35
+    ],
+    [
+      "nach einem passenden Hustenmittel oder fragen Sie Ihren Arzt",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7966952323913574
+  ],
+  [
+    [
+      55,
+      35
+    ],
+    [
+      "Sie können auch einfache Hausmittel gegen die Beschwerden nehmen:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6939325928688049
+  ],
+  [
+    [
+      56,
+      35
+    ],
+    [
+      "Inhalieren Sie mehrmals am Tag mit Salzwasser.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5566020607948303
+  ],
+  [
+    [
+      57,
+      35
+    ],
+    [
+      "Das löst den Schleim und macht das Husten angenehmer.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5896389484405518
+  ],
+  [
+    [
+      58,
+      35
+    ],
+    [
+      "Trinken Sie viel Wasser oder Tee.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6254070997238159
+  ],
+  [
+    [
+      59,
+      35
+    ],
+    [
+      "Auch das löst den Schleim.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5071136951446533
+  ],
+  [
+    [
+      60,
+      35
+    ],
+    [
+      "Achtung: Sie haben eine Herzerkrankung?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7313660383224487
+  ],
+  [
+    [
+      61,
+      35
+    ],
+    [
+      "Oder Sie haben eine Nierenerkrankung?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7340049743652344
+  ],
+  [
+    [
+      62,
+      35
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht so viel trinken.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6621238589286804
+  ],
+  [
+    [
+      63,
+      35
+    ],
+    [
+      "Besprechen Sie die Trinkmenge deshalb mit Ihrem Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6693841814994812
+  ],
+  [
+    [
+      64,
+      35
+    ],
+    [
+      "In den meisten Fällen heilt eine Bronchitis von selbst.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6491796374320984
+  ],
+  [
+    [
+      65,
+      35
+    ],
+    [
+      "Aber manchmal kann eine Bronchitis auch gefährlich werden:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6180698275566101
+  ],
+  [
+    [
+      66,
+      35
+    ],
+    [
+      "Ihre Beschwerden werden auch nach mehreren Tagen nicht besser?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.8391854166984558
+  ],
+  [
+    [
+      67,
+      35
+    ],
+    [
+      "Sie haben hohes Fieber?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    1.0
+  ],
+  [
+    [
+      68,
+      35
+    ],
+    [
+      "Sie schwitzen nachts stark?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7035593390464783
+  ],
+  [
+    [
+      69,
+      35
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.9351338744163513
+  ],
+  [
+    [
+      70,
+      35
+    ],
+    [
+      "Sie keuchen oder pfeifen beim Atmen?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.9256809949874878
+  ],
+  [
+    [
+      71,
+      35
+    ],
+    [
+      "Sie haben starke Husten-Anfälle?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    1.0
+  ],
+  [
+    [
+      72,
+      35
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7874968647956848
+  ],
+  [
+    [
+      73,
+      35
+    ],
+    [
+      "Achtung: Für manche Menschen ist eine akute Bronchitis immer gefährlich.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5445723533630371
+  ],
+  [
+    [
+      74,
+      35
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel:",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5466248393058777
+  ],
+  [
+    [
+      75,
+      35
+    ],
+    [
+      "Menschen mit einer zusätzlichen chronischen Erkrankung der Atemwege alte Menschen schwangere Frauen",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6074095368385315
+  ],
+  [
+    [
+      76,
+      35
+    ],
+    [
+      "Menschen mit Immunschwäche",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.5711227059364319
+  ],
+  [
+    [
+      77,
+      35
+    ],
+    [
+      "Diese Personen sollten bei einer akuten Bronchitis immer zum Arzt gehen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6992756724357605
+  ],
+  [
+    [
+      78,
+      35
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine akute Bronchitis?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6231327056884766
+  ],
+  [
+    [
+      79,
+      35
+    ],
+    [
+      "Und Sie haben sehr starke Beschwerden?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.8831247687339783
+  ],
+  [
+    [
+      80,
+      35
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.7874968647956848
+  ],
+  [
+    [
+      81,
+      35
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6219561696052551
+  ],
+  [
+    [
+      82,
+      35
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bronchitis lesen?",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.6332474946975708
+  ],
+  [
+    [
+      83,
+      35
+    ],
+    [
+      "Mehr Informationen über akute Bronchitis finden Sie hier .",
+      "Suchen Sie unbedingt einen Arzt auf wenn sich Beschwerden wie Husten, Erkältungssymptome und Abgeschlagenheit nicht nach einigen Tagen von selbst bessern wenn zum Husten weitere Symptome wie hohes Fieber, Nachtschweiß , Atembeschwerden oder Schmerzen beim Atmen hinzukommen wenn Sie sich sehr krank fühlen wenn Sie starke Hustenanfälle oder auffällige Atemgeräusche wie Keuchen oder Pfeifen haben wenn Sie gleichzeitig chronische Krankheiten wie Asthma, COPD oder Lungenfibrose haben oder schwanger sind Verschwindet der Husten nach sechs Wochen nicht, sollten Sie erneut einen Arzt aufsuchen."
+    ],
+    0.57695072889328
+  ],
+  [
+    [
+      84,
+      107
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wichtiger Hinweis: Dieser Artikel enthält nur allgemeine Hinweise und darf nicht zur Selbstdiagnose oder –behandlung verwendet werden."
+    ],
+    0.38978278636932373
+  ],
+  [
+    [
+      85,
+      107
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wichtiger Hinweis: Dieser Artikel enthält nur allgemeine Hinweise und darf nicht zur Selbstdiagnose oder –behandlung verwendet werden."
+    ],
+    0.5122062563896179
+  ]
+]

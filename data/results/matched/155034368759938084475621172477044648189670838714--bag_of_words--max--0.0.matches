@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einem Schock bekommt der Körper nicht genug Sauerstoff.",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.03830075263977051
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Deshalb kann der Körper nicht alle Organe mit Sauerstoff versorgen.",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.15388813614845276
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann versorgt der Körper nur noch die wichtigsten Organe mit Sauerstoff.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.2706114947795868
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die wichtigsten Organe sind: das Gehirn, das Herz und die Lunge.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.4486861526966095
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Die anderen Organe bekommen nicht genug Sauerstoff?",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.3108753561973572
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Dann können die Organe beschädigt werden.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.3320157527923584
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Deshalb ist ein Schock sehr gefährlich.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.00540831359103322
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Sie glauben:",
+      "Das sollten Sie tun:"
+    ],
+    0.8821800947189331
+  ],
+  [
+    [
+      8,
+      7
+    ],
+    [
+      "Eine Person hat einen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18546359241008759
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.8041470646858215
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Die Nummer ist:",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.45993441343307495
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Ein Schock ist der seelische Zustand nach einem schlimmen Erlebnis.",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.05054754763841629
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Der Arzt sagt dazu aber: akute Belastungsreaktion.",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.3283337354660034
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "Sie glauben: Ich habe einen seelischen Schock?",
+      "Das sollten Sie tun:"
+    ],
+    0.1807825118303299
+  ],
+  [
+    [
+      15,
+      4
+    ],
+    [
+      "Dann sprechen Sie mit einem Psychologen.",
+      "Das sollten Sie tun:"
+    ],
+    0.7770212292671204
+  ],
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Der Psychologe kann Ihnen helfen.",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.3137666881084442
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Ein Schock kann verschiedene Anzeichen haben.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.0052385637536644936
+  ],
+  [
+    [
+      18,
+      18
+    ],
+    [
+      "Anzeichen für einen Schock sind zum Beispiel: blasse Haut kalter Schweiß schneller und schwacher Puls.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.010535807348787785
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Das Herz schlägt schnell.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.03602469339966774
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Der Blutdruck ist trotzdem niedrig.",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.2666689157485962
+  ],
+  [
+    [
+      23,
+      3
+    ],
+    [
+      "Ein Schock kann verschiedene Ursachen haben.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.005250068847090006
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Bei diesem Schock hat eine Person sehr viel Blut oder Wasser verloren.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18496982753276825
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Die Ursachen dieses Schocks sind: starker Blutverlust, zum Beispiel durch einen Unfall.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.17231254279613495
+  ],
+  [
+    [
+      31,
+      3
+    ],
+    [
+      "Hoher Wasserverlust, zum Beispiel durch starken Durchfall.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.02604437991976738
+  ],
+  [
+    [
+      33,
+      19
+    ],
+    [
+      "Elektrolyte sind wichtige Stoffe im Körper.",
+      "Sind mehrere Helfer vor Ort, sollten Sie jemanden anweisen, einen Notruf zu tätigen, während Sie selbst unverzüglich mit den Wiederbelebungsmaßnahmen beginnen."
+    ],
+    0.01627420447766781
+  ],
+  [
+    [
+      34,
+      14
+    ],
+    [
+      "Elektrolyte sind zum Beispiel Eisen und Magnesium.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.04410389065742493
+  ],
+  [
+    [
+      36,
+      3
+    ],
+    [
+      "Dieser Schock tritt zum Beispiel bei Diabetikern auf.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.0035307155922055244
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine starke Unterzuckerung.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.1794300377368927
+  ],
+  [
+    [
+      38,
+      7
+    ],
+    [
+      "Das bedeutet: Der Blutzucker-Wert der Person ist viel zu niedrig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.39067786931991577
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die betroffene Person ist ansprechbar?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.416721910238266
+  ],
+  [
+    [
+      40,
+      4
+    ],
+    [
+      "Dann geben Sie ihr ein Stück Traubenzucker.",
+      "Das sollten Sie tun:"
+    ],
+    0.7565032839775085
+  ],
+  [
+    [
+      41,
+      7
+    ],
+    [
+      "Oder geben Sie der Person ein anderes Lebensmittel mit Zucker.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6581597328186035
+  ],
+  [
+    [
+      43,
+      1
+    ],
+    [
+      "Die Ursache dieses Schocks ist Herz-Versagen.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.17887809872627258
+  ],
+  [
+    [
+      44,
+      17
+    ],
+    [
+      "Auslöser von Herz-Versagen sind zum Beispiel Herzrhythmus-Störungen oder ein Herzinfarkt.",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.06037197634577751
+  ],
+  [
+    [
+      45,
+      7
+    ],
+    [
+      "Achtung: Eine Person hat einen kardiogenen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18511979281902313
+  ],
+  [
+    [
+      46,
+      7
+    ],
+    [
+      "Dann bringen Sie die betroffene Person nicht in die Schocklage.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5711527466773987
+  ],
+  [
+    [
+      47,
+      7
+    ],
+    [
+      "Erhöhen Sie stattdessen den Oberkörper der Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6641533374786377
+  ],
+  [
+    [
+      49,
+      1
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine starke allergische Reaktion.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.17980898916721344
+  ],
+  [
+    [
+      51,
+      1
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine Blutvergiftung .",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.17904630303382874
+  ],
+  [
+    [
+      52,
+      2
+    ],
+    [
+      "Bei einer Blutvergiftung sind zu viele Bakterien im Blut.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.1144203320145607
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Bei einem septisch-toxischen Schock atmen die betroffenen Personen sehr schnell.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.08766622841358185
+  ],
+  [
+    [
+      54,
+      4
+    ],
+    [
+      "Und sie haben hohes Fieber.",
+      "Das sollten Sie tun:"
+    ],
+    0.9175543785095215
+  ],
+  [
+    [
+      56,
+      1
+    ],
+    [
+      "Die Ursache dieses Schocks ist ein Nervenschaden.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.17689840495586395
+  ],
+  [
+    [
+      57,
+      3
+    ],
+    [
+      "Ein Nervenschaden kann zum Beispiel eine Verletzung im Rückenmark sein.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.03822359815239906
+  ],
+  [
+    [
+      58,
+      4
+    ],
+    [
+      "Sie glauben:",
+      "Das sollten Sie tun:"
+    ],
+    0.8821800947189331
+  ],
+  [
+    [
+      59,
+      7
+    ],
+    [
+      "Eine Person hat einen Schock?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.18546359241008759
+  ],
+  [
+    [
+      60,
+      7
+    ],
+    [
+      "Dann können Sie der betroffenen Person helfen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6397453546524048
+  ],
+  [
+    [
+      61,
+      4
+    ],
+    [
+      "So helfen Sie bei einem Schock:",
+      "Das sollten Sie tun:"
+    ],
+    0.1812572181224823
+  ],
+  [
+    [
+      62,
+      8
+    ],
+    [
+      "Rufen Sie den Rettungsdienst an.",
+      "Rufen Sie nach Hilfe!"
+    ],
+    0.9042348861694336
+  ],
+  [
+    [
+      63,
+      1
+    ],
+    [
+      "Die Nummer ist 112.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.42523637413978577
+  ],
+  [
+    [
+      64,
+      7
+    ],
+    [
+      "Die betroffene Person blutet?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4112730920314789
+  ],
+  [
+    [
+      65,
+      7
+    ],
+    [
+      "Dann stillen Sie die Blutung Beruhigen",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6525934934616089
+  ],
+  [
+    [
+      66,
+      7
+    ],
+    [
+      "Sie die betroffene Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6412203907966614
+  ],
+  [
+    [
+      67,
+      7
+    ],
+    [
+      "Sprechen Sie der Person gut zu.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6671596765518188
+  ],
+  [
+    [
+      68,
+      7
+    ],
+    [
+      "Halten Sie die betroffene Person warm.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6398216485977173
+  ],
+  [
+    [
+      69,
+      7
+    ],
+    [
+      "Legen Sie die Person zum Beispiel auf eine Decke und decken Sie die Person zu.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.7024157643318176
+  ],
+  [
+    [
+      70,
+      7
+    ],
+    [
+      "Bringen Sie die betroffene Person in Schocklage .",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5669421553611755
+  ],
+  [
+    [
+      71,
+      7
+    ],
+    [
+      "Legen Sie die Person auf den Rücken.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.7001189589500427
+  ],
+  [
+    [
+      72,
+      7
+    ],
+    [
+      "Legen Sie dann die Beine der Person hoch.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6702210307121277
+  ],
+  [
+    [
+      73,
+      7
+    ],
+    [
+      "Schieben Sie ihr dafür einen Gegenstand unter die Beine, zum Beispiel ein Kissen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5944747924804688
+  ],
+  [
+    [
+      74,
+      7
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6507628560066223
+  ],
+  [
+    [
+      75,
+      7
+    ],
+    [
+      "Kontrollieren Sie den Puls und die Atmung der betroffenen Person.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.672235369682312
+  ],
+  [
+    [
+      76,
+      7
+    ],
+    [
+      "Die betroffene Person ist bewusstlos?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4352582097053528
+  ],
+  [
+    [
+      77,
+      4
+    ],
+    [
+      "Dann bringen Sie sie in die stabile Seitenlage .",
+      "Das sollten Sie tun:"
+    ],
+    0.8035519123077393
+  ],
+  [
+    [
+      78,
+      7
+    ],
+    [
+      "Die Atmung der betroffenen Person setzt aus?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4395149350166321
+  ],
+  [
+    [
+      79,
+      0
+    ],
+    [
+      "Oder der Kreislauf des Betroffenen bricht zusammen?",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.23164163529872894
+  ],
+  [
+    [
+      80,
+      4
+    ],
+    [
+      "Dann beginnen Sie mit der Wiederbelebung.",
+      "Das sollten Sie tun:"
+    ],
+    0.7470106482505798
+  ],
+  [
+    [
+      81,
+      1
+    ],
+    [
+      "Die Schocklage ist nicht immer sinnvoll.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.2543303370475769
+  ],
+  [
+    [
+      82,
+      7
+    ],
+    [
+      "Bei einigen Anzeichen sollten Sie die betroffene Person nicht in die Schocklage bringen.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5722397565841675
+  ],
+  [
+    [
+      83,
+      2
+    ],
+    [
+      "Dafür gibt es eine Merkregel.",
+      "Eine weitere Gefahr: Blut oder Erbrochenes gelangen leicht in die Atemwege."
+    ],
+    0.02313348837196827
+  ],
+  [
+    [
+      84,
+      1
+    ],
+    [
+      "Die Merkregel heißt: fünf B .",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.38153597712516785
+  ],
+  [
+    [
+      85,
+      1
+    ],
+    [
+      "Die fünf B stehen für: 1. Brust",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.40708115696907043
+  ],
+  [
+    [
+      86,
+      7
+    ],
+    [
+      "Die betroffene Person leidet unter:",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.4114164412021637
+  ],
+  [
+    [
+      87,
+      0
+    ],
+    [
+      "Atemnot Schmerzen in der Brust einer Verletzung im Brustbereich einer akuten Herzerkrankung einem Herzinfarkt 2. Birne",
+      "Im Zustand der Bewusstlosigkeit verfügt der Mensch über keine Schutzreflexe."
+    ],
+    0.1705968976020813
+  ],
+  [
+    [
+      88,
+      7
+    ],
+    [
+      "Die betroffene Person hat eine Verletzung am Kopf.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.39580896496772766
+  ],
+  [
+    [
+      89,
+      14
+    ],
+    [
+      "3. Bauch",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.06193547695875168
+  ],
+  [
+    [
+      90,
+      7
+    ],
+    [
+      "Die betroffene Person hat eine Verletzung oder Schmerzen im Bauchbereich.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.39269331097602844
+  ],
+  [
+    [
+      92,
+      7
+    ],
+    [
+      "Die betroffene Person hat vielleicht einen Beinbruch.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.40423572063446045
+  ],
+  [
+    [
+      94,
+      7
+    ],
+    [
+      "Die betroffene Person hat Verletzungen am Becken.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.40462830662727356
+  ],
+  [
+    [
+      95,
+      4
+    ],
+    [
+      "Oder sie hat Verletzungen an der Wirbelsäule.",
+      "Das sollten Sie tun:"
+    ],
+    0.7509768605232239
+  ],
+  [
+    [
+      96,
+      7
+    ],
+    [
+      "Eines oder mehrere Anzeichen treffen auf die betroffene Person zu?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.405826210975647
+  ],
+  [
+    [
+      97,
+      7
+    ],
+    [
+      "Dann bringen Sie die betroffene Person nicht in die Schocklage.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.5711527466773987
+  ],
+  [
+    [
+      98,
+      4
+    ],
+    [
+      "Sie wollen noch mehr über Schocks lesen?",
+      "Das sollten Sie tun:"
+    ],
+    0.38281458616256714
+  ],
+  [
+    [
+      99,
+      4
+    ],
+    [
+      "Mehr Informationen über Schocks finden Sie hier .",
+      "Das sollten Sie tun:"
+    ],
+    0.38285526633262634
+  ],
+  [
+    [
+      101,
+      1
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.39397743344306946
+  ]
+]

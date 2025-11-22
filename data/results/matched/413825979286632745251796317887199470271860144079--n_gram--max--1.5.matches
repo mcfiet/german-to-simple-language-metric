@@ -1,0 +1,464 @@
+[
+  [
+    [
+      0,
+      15
+    ],
+    [
+      "Bei einer Verbrennung ist die Haut verletzt.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8946744203567505
+  ],
+  [
+    [
+      1,
+      15
+    ],
+    [
+      "Die Verbrennung entsteht durch sehr große Hitze.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9197542071342468
+  ],
+  [
+    [
+      2,
+      15
+    ],
+    [
+      "Ursachen einer Verbrennung sind zum Beispiel: ein offenes Feuer Strom",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9314563274383545
+  ],
+  [
+    [
+      3,
+      15
+    ],
+    [
+      "Wie schlimm eine Verbrennung ist, entscheiden zwei Punkte: 1. Wie hoch war die Temperatur?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9092728495597839
+  ],
+  [
+    [
+      6,
+      14
+    ],
+    [
+      "Dann nennt man das: Verbrühung.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.560793936252594
+  ],
+  [
+    [
+      7,
+      15
+    ],
+    [
+      "Bei einer Verbrennung verletzt große Hitze die Haut.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.890933096408844
+  ],
+  [
+    [
+      15,
+      15
+    ],
+    [
+      "Die Verbrennung reicht über einen großen Teil der Haut?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9195874929428101
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Manche Anzeichen einer Verbrennung sieht man erst später.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9387571811676025
+  ],
+  [
+    [
+      20,
+      15
+    ],
+    [
+      "Bei einer Verbrennung ist eine schnelle Erste Hilfe wichtig.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9256155490875244
+  ],
+  [
+    [
+      21,
+      15
+    ],
+    [
+      "Eine Person brennt?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.5162248611450195
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Werfen Sie zum Beispiel eine Branddecke über die brennende Person.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.5089007616043091
+  ],
+  [
+    [
+      26,
+      3
+    ],
+    [
+      "Die Kleidung und der Schmuck sind nämlich noch lange heiß.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.4515756368637085
+  ],
+  [
+    [
+      29,
+      14
+    ],
+    [
+      "Es ist nur eine kleine Fläche verbrannt?",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.6356661319732666
+  ],
+  [
+    [
+      32,
+      15
+    ],
+    [
+      "Sie kühlen die Verbrennung länger als fünf Minuten?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.883294939994812
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Kühlen ist nur bei kleinen Verbrennungen hilfreich.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9162718057632446
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Kleine Verbrennung bedeutet: Die Fläche ist höchstens so groß wie die Handfläche.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8658504486083984
+  ],
+  [
+    [
+      37,
+      15
+    ],
+    [
+      "Die Verbrennung ist sehr groß?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9223832488059998
+  ],
+  [
+    [
+      38,
+      15
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung nicht.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8717892169952393
+  ],
+  [
+    [
+      40,
+      15
+    ],
+    [
+      "Ein Kind hat eine Verbrennung am Arm?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9223437309265137
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "Oder ein Kind hat eine Verbrennung am Bein?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9208128452301025
+  ],
+  [
+    [
+      42,
+      15
+    ],
+    [
+      "Dann dürfen Sie die Verbrennung kühlen.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8730598092079163
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Die Verbrennung ist an einer anderen Köperstelle?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.917463481426239
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Dann dürfen Sie die Verbrennung nicht kühlen.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8704658150672913
+  ],
+  [
+    [
+      45,
+      15
+    ],
+    [
+      "Achtung: Kühlen Sie die Verbrennung nicht länger als fünf Minuten.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8486841917037964
+  ],
+  [
+    [
+      48,
+      14
+    ],
+    [
+      "Dann kühlen Sie die verbrannten Stellen nicht .",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.4953003227710724
+  ],
+  [
+    [
+      49,
+      15
+    ],
+    [
+      "Wickeln Sie nach dem Kühlen vorsichtig einen Verband um die Verbrennung.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8794548511505127
+  ],
+  [
+    [
+      50,
+      4
+    ],
+    [
+      "Der Verband schützt vor Infektionen.",
+      "Ist Kleidung mit der Haut verbacken, wird sie dort belassen und der Bereich umschnitten."
+    ],
+    0.5863381624221802
+  ],
+  [
+    [
+      53,
+      15
+    ],
+    [
+      "Leichtere Verbrennungen heilen normalerweise von allein ab.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9350735545158386
+  ],
+  [
+    [
+      54,
+      15
+    ],
+    [
+      "Manchmal muss eine Verbrennung aber auch von einem Arzt behandelt werden.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9176920056343079
+  ],
+  [
+    [
+      56,
+      15
+    ],
+    [
+      "Die Verbrennung ist sehr groß.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9223832488059998
+  ],
+  [
+    [
+      57,
+      15
+    ],
+    [
+      "Die Fläche der Verbrennung ist größer als die Handfläche.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9059802293777466
+  ],
+  [
+    [
+      58,
+      15
+    ],
+    [
+      "Die Verbrennung ist sehr tief.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.926460325717926
+  ],
+  [
+    [
+      60,
+      15
+    ],
+    [
+      "Die Verbrennung ist am Kopf, im Gesicht oder im Genitalbereich.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9226459264755249
+  ],
+  [
+    [
+      64,
+      14
+    ],
+    [
+      "Achtung: Sie haben eine Verbrühung?",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5149217247962952
+  ],
+  [
+    [
+      68,
+      15
+    ],
+    [
+      "Rufen Sie bei schweren Verbrühungen oder Verbrennungen einen Notarzt.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8985458016395569
+  ],
+  [
+    [
+      72,
+      15
+    ],
+    [
+      "In bestimmten Situationen kann es schnell zu Verbrennungen kommen.",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9319301843643188
+  ],
+  [
+    [
+      73,
+      15
+    ],
+    [
+      "Sie möchten eine Verbrennung vermeiden?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9193930625915527
+  ],
+  [
+    [
+      75,
+      17
+    ],
+    [
+      "Benutzen Sie beim Grillen keine Brandbeschleuniger.",
+      "Vorbeugen: Beim Grillen keine Brandbeschleuniger verwenden!"
+    ],
+    0.4754612147808075
+  ],
+  [
+    [
+      77,
+      20
+    ],
+    [
+      "Füllen Sie kein kochendes Wasser in Wärmflaschen.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.5321683883666992
+  ],
+  [
+    [
+      83,
+      21
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Wasserkochers nicht erreichen.",
+      "Wasserkocher und deren Kabel immer außer Reichweite von Kindern stellen."
+    ],
+    0.44425168633461
+  ],
+  [
+    [
+      91,
+      15
+    ],
+    [
+      "Sie wollen noch mehr über Verbrennungen und Verbrühungen lesen?",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.9088405966758728
+  ],
+  [
+    [
+      92,
+      15
+    ],
+    [
+      "Mehr Informationen über Verbrennungen und Verbrühungen finden Sie hier .",
+      "2. Tiefe der Verbrennung:"
+    ],
+    0.8994237184524536
+  ]
+]

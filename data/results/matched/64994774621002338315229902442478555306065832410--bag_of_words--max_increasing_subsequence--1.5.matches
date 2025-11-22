@@ -1,0 +1,299 @@
+[
+  [
+    [
+      2,
+      6
+    ],
+    [
+      "Dann bekommen Sie in dem Land vielleicht Durchfall.",
+      "Was tun bei Durchfall?"
+    ],
+    0.6608572602272034
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Achtung: Ihr Kind hat im Urlaub Durchfall?",
+      "Was tun bei Durchfall?"
+    ],
+    0.8829309940338135
+  ],
+  [
+    [
+      26,
+      14
+    ],
+    [
+      "Dann trinken Sie viel.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6738521456718445
+  ],
+  [
+    [
+      27,
+      14
+    ],
+    [
+      "Diese Getränke können Sie zum Beispiel trinken:",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.7330043315887451
+  ],
+  [
+    [
+      30,
+      14
+    ],
+    [
+      "Wichtig: Kochen Sie Leitungswasser ab.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.5361573100090027
+  ],
+  [
+    [
+      31,
+      14
+    ],
+    [
+      "Sie kochen Ihr Leitungswasser nicht ab?",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.5140473246574402
+  ],
+  [
+    [
+      39,
+      14
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6102302074432373
+  ],
+  [
+    [
+      47,
+      14
+    ],
+    [
+      "Deshalb sollten Sie vorsichtig mit dem Medikament sein.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.724118173122406
+  ],
+  [
+    [
+      48,
+      14
+    ],
+    [
+      "Nehmen Sie Loperamid nicht länger als zwei Tage.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6544927358627319
+  ],
+  [
+    [
+      49,
+      14
+    ],
+    [
+      "Sie haben Fieber oder Blut im Stuhl?",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.68210768699646
+  ],
+  [
+    [
+      50,
+      14
+    ],
+    [
+      "Dann sollten Sie das Medikament nicht nehmen.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6534535884857178
+  ],
+  [
+    [
+      52,
+      14
+    ],
+    [
+      "Dann können Sie diese Dinge tun:",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.7514259815216064
+  ],
+  [
+    [
+      54,
+      14
+    ],
+    [
+      "Ihr Arzt kann Sie beraten.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6567803621292114
+  ],
+  [
+    [
+      56,
+      14
+    ],
+    [
+      "Diese Impfungen brauchen Sie für die Reise.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6484075784683228
+  ],
+  [
+    [
+      58,
+      14
+    ],
+    [
+      "Diese Medikamente brauchen Sie für die Reise.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6325539350509644
+  ],
+  [
+    [
+      59,
+      14
+    ],
+    [
+      "Trinken Sie möglichst kein Leitungswasser.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.5781769752502441
+  ],
+  [
+    [
+      60,
+      14
+    ],
+    [
+      "Kaufen Sie Wasser in Flaschen.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6405479311943054
+  ],
+  [
+    [
+      61,
+      14
+    ],
+    [
+      "Kochen Sie Leitungswasser vor dem Trinken ab.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.5086746215820312
+  ],
+  [
+    [
+      62,
+      14
+    ],
+    [
+      "Waschen Sie sich regelmäßig die Hände.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.7340583801269531
+  ],
+  [
+    [
+      63,
+      14
+    ],
+    [
+      "Verwenden Sie zum Zähneputzen nur gekauftes oder abgekochtes Wasser.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.5746139287948608
+  ],
+  [
+    [
+      64,
+      14
+    ],
+    [
+      "Waschen Sie Obst und Gemüse gründlich.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6813217401504517
+  ],
+  [
+    [
+      65,
+      14
+    ],
+    [
+      "Schälen Sie das Obst oder Gemüse selbst.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.6645039319992065
+  ],
+  [
+    [
+      66,
+      14
+    ],
+    [
+      "Essen Sie kein rohes Fleisch oder rohen Fisch.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.669957160949707
+  ],
+  [
+    [
+      67,
+      14
+    ],
+    [
+      "Kochen oder braten Sie das Essen immer gut durch.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.5952881574630737
+  ],
+  [
+    [
+      68,
+      14
+    ],
+    [
+      "Vermeiden Sie den Kontakt mit Tieren.",
+      "Mehr dazu können Sie hier nachlesen:"
+    ],
+    0.7671250700950623
+  ],
+  [
+    [
+      69,
+      46
+    ],
+    [
+      "Sie wollen noch mehr über Reisedurchfall lesen?",
+      "\" Die Einnahme von Antibiotika sei bei einem harmlosen Reisedurchfall nicht nötig."
+    ],
+    0.508354902267456
+  ],
+  [
+    [
+      70,
+      46
+    ],
+    [
+      "Mehr Informationen über Reisedurchfall finden Sie hier .",
+      "\" Die Einnahme von Antibiotika sei bei einem harmlosen Reisedurchfall nicht nötig."
+    ],
+    0.5082759261131287
+  ]
+]

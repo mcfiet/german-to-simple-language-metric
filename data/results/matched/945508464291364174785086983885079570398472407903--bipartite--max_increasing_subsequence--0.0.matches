@@ -1,0 +1,1586 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland?",
+      "Bekommen Sie geschäftlichen oder privaten Besuch aus dem Ausland, wird in der Regel eine Verpflichtungserklärung benötigt."
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Hat Ihr Besuch keine deutsche Staats-Bürgerschaft oder europäische Staats-Bürgerschaft ?",
+      "Hierdurch können Ihre Gäste bei der Beantragung eines Visums gegenüber der deutschen Auslandsvertretung (Botschaft oder Konsulat) nachweisen, dass für die Dauer ihres Aufenthaltes in der Bundesrepublik Deutschland der Lebensunterhalt einschließlich ausreichendem Krankenversicherungsschutzes sichergestellt ist."
+    ],
+    0.6114850640296936
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Will",
+      "Benötigt werden Personalausweis oder Reisepass der Verpflichtungsgeberin (Gastgeberin) oder des Verpflichtungsgebers (Gastgebers) Der Personalausweis oder Reisepass muss eine gültige Aufenthaltserlaubnis von mindestens sechs Monaten beziehungsweise eine Niederlassungserlaubnis beinhalten."
+    ],
+    0.3868173062801361
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "Ihr Besuch bis zu 90 Tage in Deutschland bleiben?",
+      "Benötigt werden Personalausweis oder Reisepass der Verpflichtungsgeberin (Gastgeberin) oder des Verpflichtungsgebers (Gastgebers) Der Personalausweis oder Reisepass muss eine gültige Aufenthaltserlaubnis von mindestens sechs Monaten beziehungsweise eine Niederlassungserlaubnis beinhalten."
+    ],
+    0.40599972009658813
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Dann braucht Ihr Gast für den Besuch ein Einreise-Visum .",
+      "Antragsformular für die Verpflichtungserklärung"
+    ],
+    0.45836859941482544
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Ein Einreise-Visum ist ein Papier auf dem steht:",
+      "Antragsformular für die Verpflichtungserklärung"
+    ],
+    0.28669288754463196
+  ],
+  [
+    [
+      6,
+      5
+    ],
+    [
+      "Eine Person darf in ein Land einreisen .",
+      "Antragsformular für die Verpflichtungserklärung"
+    ],
+    0.31488415598869324
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Eine Person darf sich in einem Land aufhalten.",
+      "Antragsformular für die Verpflichtungserklärung"
+    ],
+    0.3198181986808777
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "Für ein Einreise-Visum braucht Ihr Gast eine Verpflichtungs-Erklärung .",
+      "Antragsformular für die Verpflichtungserklärung"
+    ],
+    0.7110677361488342
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Eine Verpflichtungs-Erklärung ist ein Papier auf dem steht:",
+      "Besonderheit"
+    ],
+    0.46043041348457336
+  ],
+  [
+    [
+      10,
+      13
+    ],
+    [
+      "Sie bezahlen während dem Besuch alle Kosten von Ihrem Gast.",
+      "Besonderheit"
+    ],
+    0.3162192106246948
+  ],
+  [
+    [
+      11,
+      13
+    ],
+    [
+      "Wenn Ihr Gast die Kosten nicht selbst bezahlen kann.",
+      "Besonderheit"
+    ],
+    0.3784071207046509
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "Zum Beispiel: Die Kosten für den Lebens-Unterhalt .",
+      "Besonderheit"
+    ],
+    0.5031082034111023
+  ],
+  [
+    [
+      13,
+      13
+    ],
+    [
+      "Also: Kosten für Essen und Wohnen .",
+      "Besonderheit"
+    ],
+    0.34275105595588684
+  ],
+  [
+    [
+      14,
+      13
+    ],
+    [
+      "Die Kosten im Fall einer Krankheit oder Pflege-Bedürftigkeit.",
+      "Besonderheit"
+    ],
+    0.5305460095405579
+  ],
+  [
+    [
+      15,
+      13
+    ],
+    [
+      "Zum Beispiel: Kosten für Arzt, Medikamente, Kranken-Haus oder Pflege-Heim.",
+      "Besonderheit"
+    ],
+    0.5031082034111023
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "Wir prüfen Ihre finanzielle Lage.",
+      "Besonderheit"
+    ],
+    0.4491228461265564
+  ],
+  [
+    [
+      17,
+      13
+    ],
+    [
+      "Damit wir wissen, ob Sie diese Kosten übernehmen können.",
+      "Besonderheit"
+    ],
+    0.3426756262779236
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Wenn Sie eine Verpflichtungs-Erklärung abgeben, dann können Ihre Gäste so nachweisen, dass für ihren Besuch in Deutschland der Lebens-Unterhalt gesichert ist.",
+      "Besonderheit"
+    ],
+    0.46043041348457336
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Wer kann eine Verpflichtungs-Erklärung abgeben?",
+      "Besonderheit"
+    ],
+    0.46043041348457336
+  ],
+  [
+    [
+      20,
+      13
+    ],
+    [
+      "Natürliche und juristische Personen können eine Verpflichtungs-Erklärung abgeben.",
+      "Besonderheit"
+    ],
+    0.5050892233848572
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Das Gesetz unterscheidet zwischen natürlichen und juristischen Personen.",
+      "Besonderheit"
+    ],
+    0.6168277859687805
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Eine natürliche Person ist ein Mensch.",
+      "Besonderheit"
+    ],
+    0.589773416519165
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Eine natürliche Person wird geboren .",
+      "Besonderheit"
+    ],
+    0.589773416519165
+  ],
+  [
+    [
+      24,
+      14
+    ],
+    [
+      "Natürliche Personen",
+      "In besonderen Einzelfällen kann es vorkommen, dass zur Prüfung Ihrer Bonität die Vorlage einer Schufa Auskunft erforderlich wird."
+    ],
+    0.5697032809257507
+  ],
+  [
+    [
+      25,
+      38
+    ],
+    [
+      "Sie können eine Verpflichtungs-Erklärung beantragen, wenn Sie die deutsche Staats-Angehörigkeit haben und in Köln gemeldet sind.",
+      "Hierbei müssen Sie Ihre gesamten finanziellen Verhältnisse offenlegen."
+    ],
+    0.6119145154953003
+  ],
+  [
+    [
+      26,
+      41
+    ],
+    [
+      "Sie können auch eine Verpflichtungs-Erklärung beantragen, wenn Sie keine deutsche Staats-Angehörigkeit haben.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.6900407075881958
+  ],
+  [
+    [
+      27,
+      41
+    ],
+    [
+      "Dazu müssen Sie einen gültigen Aufenthalts-Titel haben.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.5669962763786316
+  ],
+  [
+    [
+      28,
+      41
+    ],
+    [
+      "Ein Aufenthalts-Titel ist ein Papier, auf dem steht: Ihr Name Wie lange Sie in einem Land bleiben dürfen .",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.40544557571411133
+  ],
+  [
+    [
+      29,
+      41
+    ],
+    [
+      "Der Aufenthalts-Titel muss mindestens 6 Monate gültig sein.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.38469335436820984
+  ],
+  [
+    [
+      30,
+      41
+    ],
+    [
+      "Sie können keine Verpflichtungs-Erklärung abgeben, wenn Sie nur in Deutschland geduldet sind.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.7015594840049744
+  ],
+  [
+    [
+      31,
+      41
+    ],
+    [
+      "Oder nur ein Visum für Ihren Aufenthalt in Deutschland haben.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.4230468273162842
+  ],
+  [
+    [
+      32,
+      41
+    ],
+    [
+      "Oder nur eine Fiktions-Bescheinigung haben.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.3625037968158722
+  ],
+  [
+    [
+      33,
+      41
+    ],
+    [
+      "Das ist ein Papier auf dem steht:",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.3186888098716736
+  ],
+  [
+    [
+      34,
+      41
+    ],
+    [
+      "Dass Sie nur ein vorläufiges Recht auf Aufenthalt haben.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.47634029388427734
+  ],
+  [
+    [
+      35,
+      41
+    ],
+    [
+      "Sie können auch keine Verpflichtungs-Erklärung abgeben, wenn Sie öffentliche Leistungen bekommen.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.8356999158859253
+  ],
+  [
+    [
+      36,
+      41
+    ],
+    [
+      "Das heißt: Wer Geld vom Staat bekommt, kann keine Verpflichtungs-Erklärung abgeben.",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.5831674933433533
+  ],
+  [
+    [
+      37,
+      41
+    ],
+    [
+      "Zum Beispiel: Sozial-Hilfe Hartz 4",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.6373201012611389
+  ],
+  [
+    [
+      38,
+      41
+    ],
+    [
+      "Wohn-Geld",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    1.0
+  ],
+  [
+    [
+      39,
+      41
+    ],
+    [
+      "Juristische Personen",
+      "Wenn Sie Leistungen nach dem Sozialgesetzbuch II (Arbeitslosengeld II beziehungsweise Hartz IV) oder dem Sozialgesetzbuch XII (Sozialhilfe) sowie Wohngeld oder Lastenzuschuss beziehen, können Sie keine Verpflichtungserklärung abgeben."
+    ],
+    0.5417385697364807
+  ],
+  [
+    [
+      40,
+      48
+    ],
+    [
+      "Eine juristische Person wird gegründet .",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.5827098488807678
+  ],
+  [
+    [
+      41,
+      48
+    ],
+    [
+      "Eine juristische Person ist zum Beispiel:",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.49834197759628296
+  ],
+  [
+    [
+      42,
+      48
+    ],
+    [
+      "Ein Verein oder eine Firma.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.9671005010604858
+  ],
+  [
+    [
+      43,
+      48
+    ],
+    [
+      "Eine juristische Person wird in ein Register eingetragen.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.6875927448272705
+  ],
+  [
+    [
+      44,
+      48
+    ],
+    [
+      "Zum Beispiel: Ein Handels-Register oder Vereins-Register.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.616315484046936
+  ],
+  [
+    [
+      45,
+      48
+    ],
+    [
+      "Juristische Personen wie Unternehmen oder Vereine können auch eine Verpflichtungs-Erklärung beantragen.",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.6615058183670044
+  ],
+  [
+    [
+      46,
+      48
+    ],
+    [
+      "Aber der Geschäfts-Sitz oder Vereins-Sitz muss in Köln sein .",
+      "Sollte die Verpflichtungserklärung über eine Firma, ein Unternehmen oder einen Verein abgegeben werden, muss der Geschäfts- oder Vereinssitz in Köln sein."
+    ],
+    0.8755584359169006
+  ],
+  [
+    [
+      47,
+      51
+    ],
+    [
+      "Was brauche ich für eine Verpflichtungs-Erklärung?",
+      "Wie kann ich eine Verpflichtungserklärung abgeben?"
+    ],
+    0.6955235600471497
+  ],
+  [
+    [
+      48,
+      60
+    ],
+    [
+      "Sie müssen die Verpflichtungs-Erklärung bei uns abgeben.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.8857042789459229
+  ],
+  [
+    [
+      49,
+      60
+    ],
+    [
+      "Die Erklärung können Sie hier herunter laden.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.5890111923217773
+  ],
+  [
+    [
+      50,
+      60
+    ],
+    [
+      "Sie müssen die Erklärung ausfüllen .",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.8806953430175781
+  ],
+  [
+    [
+      51,
+      60
+    ],
+    [
+      "Sie müssen die Erklärung ausdrucken.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.8656052947044373
+  ],
+  [
+    [
+      52,
+      60
+    ],
+    [
+      "Sie müssen die Erklärung unterschreiben .",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.951386570930481
+  ],
+  [
+    [
+      53,
+      60
+    ],
+    [
+      "Und die fertige Erklärung bei uns abgeben.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.6277322173118591
+  ],
+  [
+    [
+      54,
+      60
+    ],
+    [
+      "Wenn Sie etwas nicht verstehen, fragen Sie bitte jemanden um Hilfe.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.4677504003047943
+  ],
+  [
+    [
+      55,
+      60
+    ],
+    [
+      "Sie müssen auch einen Antrag für die Verpflichtungs-Erklärung abgeben.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.6925265789031982
+  ],
+  [
+    [
+      56,
+      60
+    ],
+    [
+      "Den Antrag können Sie hier herunter laden .",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.49272382259368896
+  ],
+  [
+    [
+      57,
+      60
+    ],
+    [
+      "Sie müssen den Antrag ausfüllen .",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.7306200265884399
+  ],
+  [
+    [
+      58,
+      60
+    ],
+    [
+      "Sie müssen den Antrag ausdrucken.",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.7155299186706543
+  ],
+  [
+    [
+      59,
+      60
+    ],
+    [
+      "Sie müssen den Antrag unterschreiben .",
+      "Dabei wird Ihnen die möglichen Abholzeiten mitgeteilt bei der Sie die Verpflichtungserklärung persönlich unterschreiben müssen."
+    ],
+    0.8013112545013428
+  ],
+  [
+    [
+      60,
+      62
+    ],
+    [
+      "Und den fertigen Antrag bei uns abgeben.",
+      "Haben Sie bereits in den vergangenen sechs Monaten eine Verpflichtungserklärung abgegeben und es wurde bereits Ihre Bonität geprüft?"
+    ],
+    0.5659754276275635
+  ],
+  [
+    [
+      61,
+      63
+    ],
+    [
+      "Wichtig: Außerdem müssen Sie noch eine andere Erklärung abgeben:",
+      "Wenn Sie bereits in den vergangenen sechs Monaten eine Verpflichtungserklärung abgegeben haben und Ihre Bonität hierbei schon geprüft wurde, kann auf eine erneute Bonitätsprüfung verzichtet werden."
+    ],
+    0.7103716135025024
+  ],
+  [
+    [
+      62,
+      71
+    ],
+    [
+      "Die Erklärung vom Verpflichtungs-Geber.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4538523852825165
+  ],
+  [
+    [
+      63,
+      71
+    ],
+    [
+      "Darin steht noch einmal genau, was eine Verpflichtungs-Erklärung ist.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6001350283622742
+  ],
+  [
+    [
+      64,
+      71
+    ],
+    [
+      "Diese Erklärung müssen Sie auch unterschreiben und im Amt abgeben.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6307822465896606
+  ],
+  [
+    [
+      65,
+      71
+    ],
+    [
+      "Außerdem müssen Sie uns diese Papiere zeigen: Nachweise über Ihre Einnahmen sind zum Beispiel:",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6637706756591797
+  ],
+  [
+    [
+      66,
+      71
+    ],
+    [
+      "Lohn-Abrechnungen Renten-Bescheide Steuer-Bescheide Bescheinigung vom Steuer-Berater oder von der Steuer-Beraterin",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5474123358726501
+  ],
+  [
+    [
+      67,
+      71
+    ],
+    [
+      "Nachweise über Ihre Ausgaben sind zum Beispiel: Nachweise über Ihre Miete",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5581187605857849
+  ],
+  [
+    [
+      68,
+      71
+    ],
+    [
+      "Nachweise über Neben-Kosten",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.575141966342926
+  ],
+  [
+    [
+      69,
+      71
+    ],
+    [
+      "Nachweise über Versicherungen",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6192468404769897
+  ],
+  [
+    [
+      70,
+      71
+    ],
+    [
+      "Nachweise über Kredite",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5862589478492737
+  ],
+  [
+    [
+      71,
+      71
+    ],
+    [
+      "Nachweise über Unterhalts-Zahlungen",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6173661947250366
+  ],
+  [
+    [
+      72,
+      71
+    ],
+    [
+      "Wichtig:",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4216777980327606
+  ],
+  [
+    [
+      73,
+      71
+    ],
+    [
+      "Manchmal brauchen wir auch eine Auskunft von der Schufa .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6701094508171082
+  ],
+  [
+    [
+      74,
+      71
+    ],
+    [
+      "Schufa ist die Abkürzung für:",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6800404787063599
+  ],
+  [
+    [
+      75,
+      71
+    ],
+    [
+      "Schutz-Gemeinschaft für allgemeine Kredit-Sicherung.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5839618444442749
+  ],
+  [
+    [
+      76,
+      71
+    ],
+    [
+      "Die Schufa sammelt Daten von Verbrauchern.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5561034083366394
+  ],
+  [
+    [
+      77,
+      71
+    ],
+    [
+      "Und prüft ihre finanzielle Lage.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4897722601890564
+  ],
+  [
+    [
+      78,
+      71
+    ],
+    [
+      "Ob wir eine Schufa-Auskunft von Ihnen brauchen, sagen wir Ihnen im persönlichen Gespräch.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5650730729103088
+  ],
+  [
+    [
+      79,
+      71
+    ],
+    [
+      "Nachweise für juristische Personen",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5364170670509338
+  ],
+  [
+    [
+      80,
+      71
+    ],
+    [
+      "Wenn Sie die Verpflichtungs-Erklärung als juristische Person beantragen, zum Beispiel als Unternehmen oder als Verein, dann müssen Sie uns auch diese Nachweise zeigen: eine Gewerbe-Anmeldung oder eine Kopie aus dem Handels-Register oder eine Kopie aus dem Vereins-Register",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6093547344207764
+  ],
+  [
+    [
+      81,
+      71
+    ],
+    [
+      "Wie bekomme ich eine Verpflichtungs-Erklärung?",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6161569356918335
+  ],
+  [
+    [
+      82,
+      71
+    ],
+    [
+      "Um eine Verpflichtungs-Erklärung zu beantragen, können Sie persönlich zu uns kommen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7948106527328491
+  ],
+  [
+    [
+      83,
+      71
+    ],
+    [
+      "Unsere Adresse ist:",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6896389126777649
+  ],
+  [
+    [
+      84,
+      71
+    ],
+    [
+      "Ausländer-Amt Dillenburger Straße 56-66 51105 Köln",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.16562095284461975
+  ],
+  [
+    [
+      85,
+      71
+    ],
+    [
+      "Bitte benutzen Sie den Besucher-Eingang in der Dillenburger Straße 56 .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4116351008415222
+  ],
+  [
+    [
+      86,
+      71
+    ],
+    [
+      "Zu diesen Zeiten haben wir geöffnet: Montag, Dienstag, Donnerstag und Freitag von 8 bis 12 Uhr.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.2723778784275055
+  ],
+  [
+    [
+      87,
+      71
+    ],
+    [
+      "Mittwoch ist geschlossen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5586012005805969
+  ],
+  [
+    [
+      88,
+      71
+    ],
+    [
+      "Den Info-Schalter finden Sie im Gebäude 56 .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.3636850118637085
+  ],
+  [
+    [
+      89,
+      71
+    ],
+    [
+      "Dort bekommen Sie eine Warte-Nummer .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5850433111190796
+  ],
+  [
+    [
+      90,
+      71
+    ],
+    [
+      "Mit der Warte-Nummer gehen Sie in den Warte-Bereich auf der 3. Etage im Gebäude 60 .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.3981257379055023
+  ],
+  [
+    [
+      91,
+      71
+    ],
+    [
+      "Bitte warten Sie dort im Warte-Bereich, bis wir Ihre Nummer aufrufen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.512674868106842
+  ],
+  [
+    [
+      92,
+      71
+    ],
+    [
+      "Bitte bringen Sie alle erforderlichen Papiere mit.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6611545085906982
+  ],
+  [
+    [
+      93,
+      71
+    ],
+    [
+      "Wir prüfen dann Ihre Papiere.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.675171971321106
+  ],
+  [
+    [
+      94,
+      71
+    ],
+    [
+      "Und wir sagen Ihnen, wann Sie die Verpflichtungs-Erklärung abholen können.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6545358300209045
+  ],
+  [
+    [
+      95,
+      71
+    ],
+    [
+      "Zum Abholen müssen Sie dann wieder zu uns kommen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6531962752342224
+  ],
+  [
+    [
+      96,
+      71
+    ],
+    [
+      "Sie können auch einen Termin ausmachen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7626878023147583
+  ],
+  [
+    [
+      97,
+      71
+    ],
+    [
+      "Rufen Sie uns an unter der Nummer: 02 21 / 22 12 75 00 Wenn Sie alle notwendigen Papiere zu dem Termin mitbringen, dann bekommen Sie sofort eine Verpflichtungs-Erklärung.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5123060345649719
+  ],
+  [
+    [
+      98,
+      71
+    ],
+    [
+      "Wir können Ihnen nur Termine von 14 Uhr bis 15:30 Uhr anbieten.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4159074127674103
+  ],
+  [
+    [
+      99,
+      71
+    ],
+    [
+      "Wir können Ihnen nicht sofort einen Termin anbieten.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6757949590682983
+  ],
+  [
+    [
+      100,
+      71
+    ],
+    [
+      "Meist müssen Sie 6 bis 8 Wochen auf einen Termin warten.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4203125536441803
+  ],
+  [
+    [
+      101,
+      71
+    ],
+    [
+      "In dringenden Notfällen müssen Sie nicht so lange warten.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5772131085395813
+  ],
+  [
+    [
+      102,
+      71
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, kann auch jemand anders für Sie zu uns kommen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6361626982688904
+  ],
+  [
+    [
+      103,
+      71
+    ],
+    [
+      "Diesem Menschen müssen Sie vertrauen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.65213543176651
+  ],
+  [
+    [
+      104,
+      71
+    ],
+    [
+      "Sie müssen diesem Menschen schriftlich erlauben, die Verpflichtungs-Erklärung für Sie zu beantragen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7340269088745117
+  ],
+  [
+    [
+      105,
+      71
+    ],
+    [
+      "Diese Erlaubnis heißt Vollmacht .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5538077354431152
+  ],
+  [
+    [
+      106,
+      71
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.41908201575279236
+  ],
+  [
+    [
+      107,
+      71
+    ],
+    [
+      "Sie müssen das Papier unterschreiben .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6307668685913086
+  ],
+  [
+    [
+      108,
+      71
+    ],
+    [
+      "Der Mensch, der für Sie zu uns kommt, muss uns die Vollmacht zeigen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6619521975517273
+  ],
+  [
+    [
+      109,
+      71
+    ],
+    [
+      "Er muss uns auch seinen Personal-Ausweis oder Reise-Pass zeigen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.574918270111084
+  ],
+  [
+    [
+      110,
+      71
+    ],
+    [
+      "Sie können Ihre Unterlagen auch als E-Mail schicken.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7263703346252441
+  ],
+  [
+    [
+      111,
+      71
+    ],
+    [
+      "Wir prüfen dann Ihre Unterlagen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7500658631324768
+  ],
+  [
+    [
+      112,
+      71
+    ],
+    [
+      "Und wir machen mit Ihnen einen Termin zum Abholen .",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5428457260131836
+  ],
+  [
+    [
+      113,
+      71
+    ],
+    [
+      "Wichtig: Zum Abholen müssen Sie persönlich zu uns kommen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6517038345336914
+  ],
+  [
+    [
+      114,
+      71
+    ],
+    [
+      "Wir schicken die Verpflichtungs-Erklärung nicht mit der Post.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.8100751638412476
+  ],
+  [
+    [
+      115,
+      71
+    ],
+    [
+      "Sie müssen die Verpflichtungs-Erklärung persönlich bei uns abholen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7768918871879578
+  ],
+  [
+    [
+      116,
+      71
+    ],
+    [
+      "Wann bekomme ich eine Verpflichtungs-Erklärung?",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5828810930252075
+  ],
+  [
+    [
+      117,
+      71
+    ],
+    [
+      "Wenn Sie alle Papiere bei uns abgegeben haben oder als E-Mail an uns geschickt haben, dann prüfen wir Ihre Papiere.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5254983901977539
+  ],
+  [
+    [
+      118,
+      71
+    ],
+    [
+      "Nach 2 Wochen können Sie die Verpflichtungs-Erklärung abholen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6760200262069702
+  ],
+  [
+    [
+      119,
+      71
+    ],
+    [
+      "Sie können auch sofort eine Verpflichtungs-Erklärung bekommen, wenn Sie einen Termin haben und alle Papiere mitbringen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6640913486480713
+  ],
+  [
+    [
+      120,
+      71
+    ],
+    [
+      "Oder wenn es ein Notfall ist und Sie alle Papiere mitbringen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5787477493286133
+  ],
+  [
+    [
+      121,
+      71
+    ],
+    [
+      "Wie bekomme ich im Notfall eine Verpflichtungs-Erklärung?",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5467481017112732
+  ],
+  [
+    [
+      122,
+      71
+    ],
+    [
+      "Im Notfall bekommen Sie sofort eine Verpflichtungs-Erklärung.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6740999817848206
+  ],
+  [
+    [
+      123,
+      71
+    ],
+    [
+      "Zum Beispiel: Wenn eine Person aus der Familie gestorben ist.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5417184829711914
+  ],
+  [
+    [
+      124,
+      71
+    ],
+    [
+      "In solchen Notfällen geht die Bearbeitung schneller.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5276379585266113
+  ],
+  [
+    [
+      125,
+      71
+    ],
+    [
+      "Aber das ist nur im Notfall möglich.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.530544638633728
+  ],
+  [
+    [
+      126,
+      71
+    ],
+    [
+      "Sie müssen nachweisen :",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.8058802485466003
+  ],
+  [
+    [
+      127,
+      71
+    ],
+    [
+      "Dass Ihr Fall ein Notfall ist.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5597195029258728
+  ],
+  [
+    [
+      128,
+      71
+    ],
+    [
+      "Und Sie sofort eine Verpflichtungs-Erklärung brauchen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7102014422416687
+  ],
+  [
+    [
+      129,
+      71
+    ],
+    [
+      "Was kostet eine Verpflichtungs-Erklärung?",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6560856103897095
+  ],
+  [
+    [
+      130,
+      71
+    ],
+    [
+      "Die Verpflichtungs-Erklärung kostet 29 Euro.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.4509369730949402
+  ],
+  [
+    [
+      131,
+      71
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.7805222272872925
+  ],
+  [
+    [
+      132,
+      71
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5962836742401123
+  ],
+  [
+    [
+      133,
+      71
+    ],
+    [
+      "Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.733772337436676
+  ],
+  [
+    [
+      134,
+      71
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.46685609221458435
+  ],
+  [
+    [
+      135,
+      71
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.5481995344161987
+  ],
+  [
+    [
+      136,
+      71
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Sollte die Prüfung der Unterlagen ergeben, dass Ihre Bonität nicht gegeben ist, können Sie nach einem Beratungsgespräch mit uns eine Sicherheitsleistung hinterlegen, um die Verpflichtungserklärung zu erhalten."
+    ],
+    0.6566836833953857
+  ],
+  [
+    [
+      137,
+      83
+    ],
+    [
+      "In welchem Gesetz stehen die Regeln zur Verpflichtungs-Erklärung?",
+      "Mit dieser kann die Person dann zur deutschen Auslandsvertretung (Botschaft, Konsulat) gehen und diese entscheidet dann ob ein Visum ausgestellt wird."
+    ],
+    0.6197391152381897
+  ],
+  [
+    [
+      138,
+      86
+    ],
+    [
+      "Die Regeln zur Verpflichtungs-Erklärung stehen im Aufenthalts-Gesetz .",
+      "Gebühren"
+    ],
+    0.560893177986145
+  ],
+  [
+    [
+      139,
+      86
+    ],
+    [
+      "Das Gesetz regelt den Aufenthalt von Menschen in Deutschland.",
+      "Gebühren"
+    ],
+    0.358507364988327
+  ],
+  [
+    [
+      140,
+      86
+    ],
+    [
+      "Die Regeln zur Verpflichtungs-Erklärung stehen in den Paragraphen 66, 67 und 68 .",
+      "Gebühren"
+    ],
+    0.560893177986145
+  ],
+  [
+    [
+      141,
+      86
+    ],
+    [
+      "Ein Paragraph ist ein Teil von einem Gesetz.",
+      "Gebühren"
+    ],
+    0.31396353244781494
+  ],
+  [
+    [
+      142,
+      86
+    ],
+    [
+      "Weitere Informationen *",
+      "Gebühren"
+    ],
+    0.4569040536880493
+  ],
+  [
+    [
+      143,
+      87
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Die Verwaltungsgebühr pro Verpflichtungserklärung beträgt 29 Euro."
+    ],
+    0.37659952044487
+  ]
+]

@@ -1,0 +1,574 @@
+[
+  [
+    [
+      0,
+      11
+    ],
+    [
+      "Fieber ist eine deutlich erhöhte Körpertemperatur.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.8626420497894287
+  ],
+  [
+    [
+      1,
+      4
+    ],
+    [
+      "Normalerweise liegt die Körpertemperatur beim Menschen zwischen 36,5 und 37,5 Grad.",
+      "Im Lauf des Tages schwankt die normale Körpertemperatur leicht."
+    ],
+    0.8894182443618774
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Die Körpertemperatur einer Person ist höher als 38 Grad?",
+      "Im Lauf des Tages schwankt die normale Körpertemperatur leicht."
+    ],
+    0.880401611328125
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Dann hat die Person Fieber.",
+      "Bei Fieber schwanken die Werte ebenfalls tageszeitabhängig."
+    ],
+    0.6166292428970337
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Hinweis: Ältere Menschen haben eine niedrigere Körpertemperatur.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.9172143936157227
+  ],
+  [
+    [
+      5,
+      13
+    ],
+    [
+      "Deshalb haben ältere Menschen schon ab einer Temperatur von 37,8 Grad Fieber.",
+      "Die Temperatur lässt sich digital ablesen."
+    ],
+    0.7934677004814148
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Fieber ist keine Krankheit.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.6012192964553833
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "Die erhöhte Temperatur hilft gegen schädliche Bakterien und Viren.",
+      "Die Temperatur lässt sich digital ablesen."
+    ],
+    0.9050924181938171
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Fieber kann aber auch gefährlich werden.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.5604425072669983
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Ist die Körpertemperatur einer erwachsenen Person 39 Grad und höher?",
+      "Im Lauf des Tages schwankt die normale Körpertemperatur leicht."
+    ],
+    0.8875629901885986
+  ],
+  [
+    [
+      15,
+      39
+    ],
+    [
+      "Dann können Sie Ihre Körpertemperatur mit einem Fieber-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8860105872154236
+  ],
+  [
+    [
+      16,
+      12
+    ],
+    [
+      "Es gibt verschiedene Fieber-Thermometer.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9741984009742737
+  ],
+  [
+    [
+      18,
+      12
+    ],
+    [
+      "Kontakt-Thermometer und Infrarot-Thermometer.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9721893072128296
+  ],
+  [
+    [
+      19,
+      12
+    ],
+    [
+      "Ein Kontakt-Thermometer misst die Körpertemperatur direkt auf der Haut .",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.8836024403572083
+  ],
+  [
+    [
+      20,
+      12
+    ],
+    [
+      "Dabei berührt das Thermometer die Haut.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9804083704948425
+  ],
+  [
+    [
+      21,
+      12
+    ],
+    [
+      "Die meisten Kontakt-Thermometer sind digital.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9727335572242737
+  ],
+  [
+    [
+      22,
+      12
+    ],
+    [
+      "Das bedeutet: Die Temperatur wird auf einem kleinen Bildschirm am Thermometer angezeigt.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9232540726661682
+  ],
+  [
+    [
+      23,
+      12
+    ],
+    [
+      "Das Thermometer funktioniert mit einer Batterie.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.982796311378479
+  ],
+  [
+    [
+      24,
+      12
+    ],
+    [
+      "Ein Infrarot-Thermometer misst die Infrarot-Strahlung des Körpers.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.872438371181488
+  ],
+  [
+    [
+      25,
+      12
+    ],
+    [
+      "Dann berechnet das Thermometer die Körpertemperatur.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.8984611630439758
+  ],
+  [
+    [
+      26,
+      12
+    ],
+    [
+      "Dabei berührt das Thermometer nicht die Haut.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9797713160514832
+  ],
+  [
+    [
+      27,
+      12
+    ],
+    [
+      "Ein Infrarot-Thermometer braucht nur wenige Sekunden zum Messen.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9116964340209961
+  ],
+  [
+    [
+      28,
+      12
+    ],
+    [
+      "Infrarot-Thermometer sind auch digital.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.949516773223877
+  ],
+  [
+    [
+      29,
+      11
+    ],
+    [
+      "Sie können Ihre Körpertemperatur an verschiedenen Körperstellen messen.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.7368777990341187
+  ],
+  [
+    [
+      34,
+      27
+    ],
+    [
+      "So messen Sie richtig am After :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7562441825866699
+  ],
+  [
+    [
+      35,
+      39
+    ],
+    [
+      "Am After können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.878145694732666
+  ],
+  [
+    [
+      36,
+      12
+    ],
+    [
+      "Fetten Sie die Spitze des Thermometers mit einer fettigen Creme ein.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9680899381637573
+  ],
+  [
+    [
+      39,
+      12
+    ],
+    [
+      "Dann führen Sie die Spitze des Thermometers in den After ein.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9683984518051147
+  ],
+  [
+    [
+      40,
+      31
+    ],
+    [
+      "Die Messung am After ist sehr genau.",
+      "Bei einer Messung unter der Achsel können Abweichungen von bis zu zwei Grad entstehen."
+    ],
+    0.7081127762794495
+  ],
+  [
+    [
+      41,
+      27
+    ],
+    [
+      "So messen Sie richtig im Mund :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7753102779388428
+  ],
+  [
+    [
+      42,
+      39
+    ],
+    [
+      "Im Mund können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.88046795129776
+  ],
+  [
+    [
+      43,
+      27
+    ],
+    [
+      "Trinken Sie 30 Minuten vor dem Messen keine kalten oder warmen Getränke.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.8149091005325317
+  ],
+  [
+    [
+      44,
+      27
+    ],
+    [
+      "Und essen Sie 30 Minuten vor dem Messen keine kalten oder warmen Speisen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7735106348991394
+  ],
+  [
+    [
+      45,
+      12
+    ],
+    [
+      "Legen Sie die Spitze des Thermometers unter die Zunge.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9667750000953674
+  ],
+  [
+    [
+      46,
+      27
+    ],
+    [
+      "Schließen Sie während des Messens die Lippen.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7925276160240173
+  ],
+  [
+    [
+      49,
+      41
+    ],
+    [
+      "Dann messen Sie die Körpertemperatur nicht im Mund.",
+      "Der Vorteil: Sie können beim Kind die Temperatur auch im Schlaf messen."
+    ],
+    0.7950068116188049
+  ],
+  [
+    [
+      50,
+      27
+    ],
+    [
+      "So messen Sie richtig unter der Achsel :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7849217653274536
+  ],
+  [
+    [
+      51,
+      39
+    ],
+    [
+      "Unter der Achsel können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8807448148727417
+  ],
+  [
+    [
+      52,
+      12
+    ],
+    [
+      "Legen Sie die Spitze des Thermometers in die Achselhöhle.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9650916457176208
+  ],
+  [
+    [
+      53,
+      32
+    ],
+    [
+      "Dann legen sie den Arm dicht an den Körper an.",
+      "Achten Sie darauf, dass der Unterarm dicht an der Körperseite anliegt."
+    ],
+    0.6657649278640747
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "So messen Sie richtig im Ohr :",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.8168354034423828
+  ],
+  [
+    [
+      55,
+      16
+    ],
+    [
+      "Für das Fiebermessen im Ohr brauchen Sie ein Ohr-Thermometer.",
+      "Ohrthermometer:"
+    ],
+    0.923922598361969
+  ],
+  [
+    [
+      56,
+      12
+    ],
+    [
+      "Das Ohr-Thermometer ist ein besonderes Infrarot-Thermometer.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.978055477142334
+  ],
+  [
+    [
+      57,
+      33
+    ],
+    [
+      "Ziehen Sie das Ohr während des Messens mit der Hand leicht nach hinten oben.",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.8825596570968628
+  ],
+  [
+    [
+      59,
+      12
+    ],
+    [
+      "Führen Sie das Thermometer zum Messen in den Gehörgang ein.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9365814328193665
+  ],
+  [
+    [
+      60,
+      16
+    ],
+    [
+      "Die meisten Ohrthermometer haben eine Schutzkappe.",
+      "Ohrthermometer:"
+    ],
+    0.9745274782180786
+  ],
+  [
+    [
+      62,
+      12
+    ],
+    [
+      "Ohne die Schutzkappe misst das Thermometer nicht.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9724659323692322
+  ],
+  [
+    [
+      65,
+      6
+    ],
+    [
+      "Messen Sie die Körpertemperatur deshalb in dem anderen Ohr.",
+      "Auch nach Mahlzeiten oder nach Sport kann sich die Körpertemperatur ändern."
+    ],
+    0.7879361510276794
+  ],
+  [
+    [
+      66,
+      27
+    ],
+    [
+      "So messen Sie richtig an der Stirn :",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.7704640626907349
+  ],
+  [
+    [
+      67,
+      39
+    ],
+    [
+      "An der Stirn können Sie die Körpertemperatur mit einem Infrarot-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8787147402763367
+  ],
+  [
+    [
+      68,
+      12
+    ],
+    [
+      "Halten Sie das Thermometer zum Messen an die Stirn.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9321020245552063
+  ],
+  [
+    [
+      69,
+      12
+    ],
+    [
+      "Das Thermometer berührt die Stirn dabei nicht.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9746875762939453
+  ]
+]

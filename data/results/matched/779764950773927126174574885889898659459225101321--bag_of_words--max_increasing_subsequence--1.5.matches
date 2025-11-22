@@ -1,0 +1,255 @@
+[
+  [
+    [
+      0,
+      6
+    ],
+    [
+      "Der Oberschenkelhals gehört zum Oberschenkel-Knochen.",
+      "Ist der Oberschenkelhals gebrochen, äußert sich das häufig durch starke Schmerzen im Hüftbereich."
+    ],
+    0.37246981263160706
+  ],
+  [
+    [
+      1,
+      6
+    ],
+    [
+      "Der Oberschenkelhals liegt zwischen dem Oberschenkel-Schaft und dem Hüftkopf.",
+      "Ist der Oberschenkelhals gebrochen, äußert sich das häufig durch starke Schmerzen im Hüftbereich."
+    ],
+    0.35067451000213623
+  ],
+  [
+    [
+      2,
+      6
+    ],
+    [
+      "Bei einem Oberschenkelhals-Bruch ist der Oberschenkelhals gebrochen.",
+      "Ist der Oberschenkelhals gebrochen, äußert sich das häufig durch starke Schmerzen im Hüftbereich."
+    ],
+    0.3063976466655731
+  ],
+  [
+    [
+      30,
+      9
+    ],
+    [
+      "Manchmal haben betroffene Personen auch Blutergüsse im Bereich der Hüfte.",
+      "Blutergüsse (Hämatome) im Bereich der Hüfte können ebenfalls auf eine Verletzung hinweisen."
+    ],
+    0.4493679106235504
+  ],
+  [
+    [
+      31,
+      11
+    ],
+    [
+      "Die Knochenteile sind ineinander verkeilt?",
+      "Lediglich bei eingestauchten Brüchen, bei denen die Knochenteile ineinander verkeilt und nicht deutlich abgekippt sind können die Schmerzen relativ gering sein."
+    ],
+    0.6554124355316162
+  ],
+  [
+    [
+      32,
+      11
+    ],
+    [
+      "Dann hat die betroffene Person einen eingestauchten Bruch.",
+      "Lediglich bei eingestauchten Brüchen, bei denen die Knochenteile ineinander verkeilt und nicht deutlich abgekippt sind können die Schmerzen relativ gering sein."
+    ],
+    0.3161206543445587
+  ],
+  [
+    [
+      33,
+      11
+    ],
+    [
+      "Bei einem eingestauchten Bruch sind die Schmerzen meistens geringer.",
+      "Lediglich bei eingestauchten Brüchen, bei denen die Knochenteile ineinander verkeilt und nicht deutlich abgekippt sind können die Schmerzen relativ gering sein."
+    ],
+    0.49858614802360535
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Sind Gefäße oder Nerven durch den Bruch verletzt?",
+      "Der Arzt überprüft, ob Gefäße und Nerven durch den Bruch mitbetroffen sind."
+    ],
+    0.7539708614349365
+  ],
+  [
+    [
+      38,
+      16
+    ],
+    [
+      "Das Röntgenbild zeigt die Lage und die Art des Bruchs.",
+      "Dazu überprüft er die Pulse und die Sensibilität in den Beinen."
+    ],
+    0.7017887234687805
+  ],
+  [
+    [
+      40,
+      16
+    ],
+    [
+      "Welche Therapieform ist die richtige?",
+      "Dazu überprüft er die Pulse und die Sensibilität in den Beinen."
+    ],
+    0.3967110216617584
+  ],
+  [
+    [
+      41,
+      16
+    ],
+    [
+      "Die richtige Therapieform hängt von verschiedenen Dingen ab.",
+      "Dazu überprüft er die Pulse und die Sensibilität in den Beinen."
+    ],
+    0.37926387786865234
+  ],
+  [
+    [
+      44,
+      23
+    ],
+    [
+      "Dann gibt es drei Möglichkeiten der Behandlung: die konservative Therapie .",
+      "Die konservative Therapie besteht aus Schmerztherapie, Thromboseprophylaxe und angepasster Mobilisation unter krankengymnastischer Anleitung."
+    ],
+    0.5453020930290222
+  ],
+  [
+    [
+      45,
+      25
+    ],
+    [
+      "Eine konservative Therapie ist eine Behandlung ohne Operation.",
+      "In diesen Fällen wird dann doch eine Operation erforderlich."
+    ],
+    0.664124608039856
+  ],
+  [
+    [
+      54,
+      25
+    ],
+    [
+      "Das Osteosynthese-Verfahren ist eine Operation.",
+      "In diesen Fällen wird dann doch eine Operation erforderlich."
+    ],
+    0.6300899386405945
+  ],
+  [
+    [
+      55,
+      25
+    ],
+    [
+      "Bei dieser Operation bleibt das Hüftgelenk der betroffenen Person erhalten.",
+      "In diesen Fällen wird dann doch eine Operation erforderlich."
+    ],
+    0.38909196853637695
+  ],
+  [
+    [
+      57,
+      25
+    ],
+    [
+      "eine Endoprothese .",
+      "In diesen Fällen wird dann doch eine Operation erforderlich."
+    ],
+    0.27092182636260986
+  ],
+  [
+    [
+      59,
+      29
+    ],
+    [
+      "Bei einem Oberschenkelhals-Bruch ist das zum Beispiel ein neuer Hüftkopf.",
+      "Prinzipiell gibt es zwei Möglichkeiten, den Oberschenkelhalsbruch zu therapieren."
+    ],
+    0.7277547717094421
+  ],
+  [
+    [
+      60,
+      33
+    ],
+    [
+      "Dieser neue Hüftkopf bleibt dann für immer im Körper.",
+      "Vorteil von diesen Verfahren ist, dass der Hüftkopf und somit das eigene Hüftgelenk erhalten bleiben kann."
+    ],
+    0.6202892065048218
+  ],
+  [
+    [
+      62,
+      45
+    ],
+    [
+      "Nach einer Operation machen betroffene Personen meist Krankengymnastik.",
+      "Nach der Operation (postoperative Phase) wird der Patient schnell wieder mobilisiert."
+    ],
+    0.28059375286102295
+  ],
+  [
+    [
+      66,
+      45
+    ],
+    [
+      "Nach der Operation kann der Patient leicht eine Thrombose bekommen.",
+      "Nach der Operation (postoperative Phase) wird der Patient schnell wieder mobilisiert."
+    ],
+    0.6935824155807495
+  ],
+  [
+    [
+      67,
+      49
+    ],
+    [
+      "Das Bein kann nämlich meist nicht sofort wieder voll belastet werden.",
+      "Solange das Bein nicht vollständig belastet werden kann, muss einer Thrombose vorgebeugt werden."
+    ],
+    0.5145689845085144
+  ],
+  [
+    [
+      68,
+      49
+    ],
+    [
+      "Eine Thrombose kann gefährlich werden.",
+      "Solange das Bein nicht vollständig belastet werden kann, muss einer Thrombose vorgebeugt werden."
+    ],
+    0.34899580478668213
+  ],
+  [
+    [
+      71,
+      67
+    ],
+    [
+      "Sie wollen noch mehr über den Oberschenkelhals-Bruch lesen?",
+      "Quellen: Deutsche Gesellschaft für Unfallchirurgie (DGU), Schenkelhalsfraktur (=Oberschenkelhalsbruch)."
+    ],
+    0.3507806658744812
+  ]
+]

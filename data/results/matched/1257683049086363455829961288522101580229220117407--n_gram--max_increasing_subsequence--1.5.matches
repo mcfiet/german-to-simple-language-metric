@@ -1,0 +1,563 @@
+[
+  [
+    [
+      0,
+      10
+    ],
+    [
+      "Das neue Corona-Virus verbreitet sich gerade sehr schnell in der Welt:",
+      "Eine Infektion mit dem Coronavirus ist aber nicht sofort nach der Ansteckung nachweisbar und auch Symptome treten üblicherweise erst nach einigen Tagen auf."
+    ],
+    0.3184623122215271
+  ],
+  [
+    [
+      1,
+      21
+    ],
+    [
+      "Es wird vor allem durch Tröpfchen-Infektion auf andere Personen übertragen.",
+      "Das bedeutet, dass Kontaktpersonen zum Beispiel erst sehr spät informiert werden konnten."
+    ],
+    0.33564993739128113
+  ],
+  [
+    [
+      5,
+      22
+    ],
+    [
+      "Hatten Sie näheren Kontakt zu einer infizierten Person?",
+      "Wenn Sie selbst die Information erhalten haben, dass sie engen Kontakt zu einer Person mit einem positiven PCR-Test auf SARS-CoV-2 hatten, wäre es gut, wenn Sie ab diesem Zeitpunkt Ihre Kontakte möglichst reduzieren beziehungsweise sich komplett von anderen absondern, wenn Ihnen das möglich ist."
+    ],
+    0.5357901453971863
+  ],
+  [
+    [
+      8,
+      25
+    ],
+    [
+      "Und Sie beobachten:",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4453257918357849
+  ],
+  [
+    [
+      12,
+      25
+    ],
+    [
+      "Hinweis: Sie haben sich mit dem Corona-Virus angesteckt?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4011229872703552
+  ],
+  [
+    [
+      13,
+      25
+    ],
+    [
+      "Dann müssen Sie in Isolation.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5124770998954773
+  ],
+  [
+    [
+      14,
+      25
+    ],
+    [
+      "Mehr Informationen zur Isolation finden Sie hier.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4975888133049011
+  ],
+  [
+    [
+      19,
+      25
+    ],
+    [
+      "Dann können Sie sich trotzdem bei der Person anstecken.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.487347275018692
+  ],
+  [
+    [
+      20,
+      25
+    ],
+    [
+      "In bestimmten Fällen können Sie sich schneller anstecken:",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5650350451469421
+  ],
+  [
+    [
+      25,
+      25
+    ],
+    [
+      "Nach dem Kontakt zu einer infizierten Person wissen Sie nicht sofort:",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.3795508146286011
+  ],
+  [
+    [
+      28,
+      25
+    ],
+    [
+      "Und Sie haben meist erst nach ein paar Tagen Beschwerden.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.40110495686531067
+  ],
+  [
+    [
+      35,
+      25
+    ],
+    [
+      "Dann treffen Sie möglichst wenige Menschen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5172579288482666
+  ],
+  [
+    [
+      37,
+      25
+    ],
+    [
+      "Rufen Sie Ihr Gesundheitsamt an.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.519631564617157
+  ],
+  [
+    [
+      38,
+      25
+    ],
+    [
+      "Oder rufen Sie Ihren Hausarzt an.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.48727288842201233
+  ],
+  [
+    [
+      40,
+      25
+    ],
+    [
+      "Das müssen Sie jetzt tun.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5338445901870728
+  ],
+  [
+    [
+      41,
+      25
+    ],
+    [
+      "Achtung: Sie glauben:",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4491567611694336
+  ],
+  [
+    [
+      44,
+      25
+    ],
+    [
+      "Dann bleiben Sie unbedingt zu Hause!",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4899451434612274
+  ],
+  [
+    [
+      45,
+      25
+    ],
+    [
+      "Rufen Sie Ihren Hausarzt an.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4938158690929413
+  ],
+  [
+    [
+      46,
+      25
+    ],
+    [
+      "Ihr Hausarzt glaubt: Sie haben sich mit dem neuen Corona-Virus angesteckt?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.37180382013320923
+  ],
+  [
+    [
+      47,
+      25
+    ],
+    [
+      "Dann testet Sie Ihr Hausarzt.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.38817694783210754
+  ],
+  [
+    [
+      48,
+      25
+    ],
+    [
+      "Ihr Hausarzt kann Sie zu Hause oder in der Arztpraxis testen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.39723217487335205
+  ],
+  [
+    [
+      49,
+      25
+    ],
+    [
+      "Folgen Sie den Anweisungen Ihres Arztes.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5412687659263611
+  ],
+  [
+    [
+      51,
+      25
+    ],
+    [
+      "Mehr Informationen zu den verschiedenen Corona-Tests finden Sie hier .",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.3781905472278595
+  ],
+  [
+    [
+      54,
+      25
+    ],
+    [
+      "Bitte beachten Sie folgende Dinge:",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5328652858734131
+  ],
+  [
+    [
+      55,
+      25
+    ],
+    [
+      "Bleiben Sie zu Hause.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5080655813217163
+  ],
+  [
+    [
+      56,
+      25
+    ],
+    [
+      "Vermeiden Sie den Kontakt zu anderen Personen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.38364356756210327
+  ],
+  [
+    [
+      57,
+      25
+    ],
+    [
+      "Lassen Sie sich nicht von anderen Personen besuchen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5042058229446411
+  ],
+  [
+    [
+      59,
+      25
+    ],
+    [
+      "Dann vermeiden Sie den Kontakt zu diesen Personen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.38099560141563416
+  ],
+  [
+    [
+      60,
+      25
+    ],
+    [
+      "Bleiben Sie in einem eigenen Zimmer.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5119886994361877
+  ],
+  [
+    [
+      61,
+      25
+    ],
+    [
+      "Essen Sie nicht mit Ihren Mitbewohnern zusammen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5177668333053589
+  ],
+  [
+    [
+      62,
+      25
+    ],
+    [
+      "Nutzen Sie das Badezimmer zu unterschiedlichen Zeiten.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5376006364822388
+  ],
+  [
+    [
+      63,
+      25
+    ],
+    [
+      "Reinigen Sie die Oberflächen im Badezimmer regelmäßig.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5121722221374512
+  ],
+  [
+    [
+      64,
+      25
+    ],
+    [
+      "Und lüften Sie das Badezimmer regelmäßig.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5246449112892151
+  ],
+  [
+    [
+      65,
+      25
+    ],
+    [
+      "Lüften Sie mehrmals am Tag.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5226017832756042
+  ],
+  [
+    [
+      66,
+      25
+    ],
+    [
+      "Waschen Sie sich regelmäßig die Hände.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.6091277003288269
+  ],
+  [
+    [
+      67,
+      25
+    ],
+    [
+      "Halten Sie 2 Meter Abstand zu anderen Personen in Ihrem Haushalt.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4253212809562683
+  ],
+  [
+    [
+      68,
+      25
+    ],
+    [
+      "Tragen Sie einen Mund-Nasen-Schutz.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.48914799094200134
+  ],
+  [
+    [
+      70,
+      25
+    ],
+    [
+      "Hier finden Sie weitere Informationen über den Mund-Nasen-Schutz.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4624505341053009
+  ],
+  [
+    [
+      73,
+      25
+    ],
+    [
+      "Dann müssen Sie besonders vorsichtig sein.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5278425216674805
+  ],
+  [
+    [
+      74,
+      25
+    ],
+    [
+      "Das können Sie während der Quarantäne tun: Beobachten Sie: Bekommen Sie Beschwerden?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4422471821308136
+  ],
+  [
+    [
+      76,
+      25
+    ],
+    [
+      "So wissen Sie: Habe ich Fieber?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5284293293952942
+  ],
+  [
+    [
+      77,
+      25
+    ],
+    [
+      "Das können Sie 5 Tage lang machen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5236813426017761
+  ],
+  [
+    [
+      80,
+      25
+    ],
+    [
+      "Dann rufen Sie Ihren Arzt oder das Gesundheitsamt an.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5177611708641052
+  ],
+  [
+    [
+      81,
+      25
+    ],
+    [
+      "Ihr Arzt sagt Ihnen: Das müssen Sie jetzt tun.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5263249278068542
+  ],
+  [
+    [
+      83,
+      25
+    ],
+    [
+      "Dann rufen Sie Ihr Gesundheitsamt oder ihren Arzt an.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.48154985904693604
+  ],
+  [
+    [
+      87,
+      25
+    ],
+    [
+      "Dann werden Sie vielleicht erst fünf bis sieben Tage später krank.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.48188239336013794
+  ],
+  [
+    [
+      92,
+      25
+    ],
+    [
+      "Treffen Sie in dieser Zeit keine anderen Menschen.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.5139278173446655
+  ],
+  [
+    [
+      95,
+      25
+    ],
+    [
+      "Dann machen Sie täglich einen Corona-Test.",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.4323829412460327
+  ],
+  [
+    [
+      105,
+      25
+    ],
+    [
+      "Oder Sie waren in einem Risikogebiet?",
+      "Schildern Sie Ihre Situation und erkundigen Sie sich, welches Vorgehen nun das beste wäre."
+    ],
+    0.41317903995513916
+  ],
+  [
+    [
+      106,
+      26
+    ],
+    [
+      "Dann bekommen Sie während der Quarantäne kein Gehalt.",
+      "Über die Dauer und Notwendigkeit der Quarantäne haben Bund und Länder Anfang Januar 2022 neu entschieden."
+    ],
+    0.8492991328239441
+  ],
+  [
+    [
+      107,
+      55
+    ],
+    [
+      "Sie wollen noch mehr über Quarantäne bei einer Corona-Infektion lesen?",
+      "Grundsätzlich ist eine Überprüfung der Quarantäne durch die Behörden möglich."
+    ],
+    0.8614072203636169
+  ]
+]

@@ -1,0 +1,376 @@
+[
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Dann dürfen Sie mit dem Fahrzeug auf der Straße fahren.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.6206852793693542
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Wenn Sie mit einem nicht zugelassenen Fahrzeug auf der Straße fahren wollen, dann brauchen Sie ein Kurz-Zeit-Kennzeichen.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.7468690872192383
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Oder wenn Sie ein Fahrzeug an einen anderen Ort bringen wollen.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.6114246845245361
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Sie dürfen das Kennzeichen nur für 1 Fahrzeug nutzen.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.5489919185638428
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen, wenn Sie ein Kurz-Zeit-Kennzeichen brauchen.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.5830496549606323
+  ],
+  [
+    [
+      19,
+      0
+    ],
+    [
+      "Bitte bringen Sie zu dem Termin alle nötigen Papiere mit.",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.5467384457588196
+  ],
+  [
+    [
+      22,
+      0
+    ],
+    [
+      "Sie bekommen die Zulassungs-Bescheinigung Teil 1 , wenn Sie Ihr Fahrzeug bei der Zulassungs-Stelle anmelden .",
+      "Sie wollen mit einem nicht zugelassenen Fahrzeug eine Probefahrt oder eine Überführungsfahrt durchführen?"
+    ],
+    0.5745126605033875
+  ],
+  [
+    [
+      23,
+      2
+    ],
+    [
+      "Früher hieß die Bescheinigung: Fahrzeug-Schein.",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.6090214252471924
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Nachweis über die Haupt-Untersuchung (TÜV)",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.7396337985992432
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Dazu können Sie uns diese Papiere zeigen: den Fahrzeug-Schein oder die Zulassung-Bescheinigung Teil 1 oder den letzten Bericht vom TÜV .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.6073430180549622
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Also den Bericht über die Haupt-Untersuchung .",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.682582676410675
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Nachweis von der Versicherung",
+      "Nachweis über die gültige Hauptuntersuchung durch die Vorlage der Bescheinigung über die letzte Hauptuntersuchung oder den Fahrzeugschein beziehungsweise die Zulassungsbescheinigung Teil I Versicherungsbestätigung durch Vorlage einer sogenannten eVB-Nummer einer Kfz-Haftpflichtversicherung!"
+    ],
+    0.6502507925033569
+  ],
+  [
+    [
+      42,
+      7
+    ],
+    [
+      "Zum Beispiel: Wenn Sie nicht aus Köln kommen.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.5962020754814148
+  ],
+  [
+    [
+      45,
+      7
+    ],
+    [
+      "Sie können nur ein Kurz-Zeit-Kennzeichen in Köln bekommen:",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.7781473994255066
+  ],
+  [
+    [
+      46,
+      7
+    ],
+    [
+      "Wenn Ihr Haupt-Wohnsitz in Köln ist.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.6923678517341614
+  ],
+  [
+    [
+      47,
+      7
+    ],
+    [
+      "Oder wenn Ihr Firmen-Sitz in Köln ist.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.6704707145690918
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Wenn Ihr Haupt-Wohnsitz nicht in Köln ist oder wenn Ihr Firmen-Sitz nicht in Köln ist, dann müssen Sie einen weiteren Nachweis zeigen.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.7474268078804016
+  ],
+  [
+    [
+      53,
+      7
+    ],
+    [
+      "Nur so bekommen Sie ein Kurz-Zeit-Kennzeichen in Köln.",
+      "Ein Kurzzeitkennzeichen kann grundsätzlich nur dann in Köln beantragt werden, wenn Sie in Köln mit Hauptwohnsitz gemeldet sind oder wenn Sie als Gewerbetreibende Ihren Sitz in Köln haben."
+    ],
+    0.726641058921814
+  ],
+  [
+    [
+      54,
+      9
+    ],
+    [
+      "Was ist, wenn mein Fahrzeug keinen TÜV hat?",
+      "Gemeinde gemeldet oder ist der Sitz des von Ihnen ausgeübten Gewerbes nicht in Köln, kann Ihnen das Kurzzeitkennzeichen nur dann zugeteilt werden, wenn das Fahrzeug seinen Standort in Köln hat."
+    ],
+    0.5479193925857544
+  ],
+  [
+    [
+      61,
+      9
+    ],
+    [
+      "Das Kurz-Zeit-Kennzeichen gilt in ganz Deutschland.",
+      "Gemeinde gemeldet oder ist der Sitz des von Ihnen ausgeübten Gewerbes nicht in Köln, kann Ihnen das Kurzzeitkennzeichen nur dann zugeteilt werden, wenn das Fahrzeug seinen Standort in Köln hat."
+    ],
+    0.5615667104721069
+  ],
+  [
+    [
+      63,
+      21
+    ],
+    [
+      "Wichtig: Bitte fragen Sie vorher, ob das Kurz-Zeit-Kennzeichen im Ausland gilt.",
+      "Bitte erkundigen Sie sich vor der Beantragung des Kennzeichens bei der zuständigen ausländischen Behörde, wie Botschaft oder Konsulat oder auch bei einem Automobilclub, ob das Kurzzeitkennzeichen im betreffenden Land anerkannt wird."
+    ],
+    0.6459567546844482
+  ],
+  [
+    [
+      64,
+      21
+    ],
+    [
+      "Zum Beispiel: bei dem zustädigen Amt im Ausland bei der Botschaft oder dem Konsulat oder bei einem Auto-Mobil-Club.",
+      "Bitte erkundigen Sie sich vor der Beantragung des Kennzeichens bei der zuständigen ausländischen Behörde, wie Botschaft oder Konsulat oder auch bei einem Automobilclub, ob das Kurzzeitkennzeichen im betreffenden Land anerkannt wird."
+    ],
+    0.6960271596908569
+  ],
+  [
+    [
+      69,
+      23
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen.",
+      "Grundsätzlich müssen Sie persönlich erscheinen."
+    ],
+    0.7737619876861572
+  ],
+  [
+    [
+      70,
+      23
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Grundsätzlich müssen Sie persönlich erscheinen."
+    ],
+    0.6840551495552063
+  ],
+  [
+    [
+      73,
+      23
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Grundsätzlich müssen Sie persönlich erscheinen."
+    ],
+    0.5758089423179626
+  ],
+  [
+    [
+      74,
+      23
+    ],
+    [
+      "Sie können die Vollmacht selbst auf ein Papier schreiben.",
+      "Grundsätzlich müssen Sie persönlich erscheinen."
+    ],
+    0.5930056571960449
+  ],
+  [
+    [
+      75,
+      26
+    ],
+    [
+      "Oder Sie benutzen unser Formular für die Vollmacht .",
+      "Das Formular für die Vollmachterteilung finden Sie weiter oben im Download-Service."
+    ],
+    0.5924258828163147
+  ],
+  [
+    [
+      76,
+      27
+    ],
+    [
+      "Sie können das Formular am Computer ausfüllen .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.8998190760612488
+  ],
+  [
+    [
+      77,
+      27
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7273731827735901
+  ],
+  [
+    [
+      78,
+      27
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.7219961881637573
+  ],
+  [
+    [
+      79,
+      27
+    ],
+    [
+      "Hier können Sie das Formular herunter laden .",
+      "Sie können dieses Formular am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.6365088820457458
+  ],
+  [
+    [
+      93,
+      32
+    ],
+    [
+      "Ein Kurz-Zeit-Kenn-Zeichen kostet 12,80 Euro.",
+      "Gebühren 12,80 Euro"
+    ],
+    0.7078845500946045
+  ],
+  [
+    [
+      94,
+      33
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können auch per ec-Karte mit PIN-Nummer oder GeldKarte entrichtet werden."
+    ],
+    0.6111563444137573
+  ],
+  [
+    [
+      98,
+      35
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Kennzeichen bekommen Sie bei Firmen, die Schilder herstellen."
+    ],
+    0.6259462237358093
+  ]
+]

@@ -1,0 +1,959 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einer Nagelbett-Entzündung ist das Gewebe vom Nagelbett entzündet.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.6052455306053162
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Durch kleine Wunden können Keime in das Nagelbett gelangen.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.6131635904312134
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Häufig entzünden sich auch der Nagelfalz oder die Nagelhaut.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.017298094928264618
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Der Hauptteil des Nagels ist die Nagelplatte.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.044304009526968
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Die Nagelplatte schützt das Nagelbett.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.5280897617340088
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Keratin ist fest und hornartig.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.2119041085243225
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "An den seitlichen Rändern der Nagelplatte ist eine Vertiefung.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.07516442984342575
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Am unteren Rand der Nagelplatte ist die Nagelhaut.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.02814904972910881
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Die Nagelplatte ist durchsichtig.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.04547532647848129
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Die Nagelplatte liegt auf dem Nagelbett.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.49430903792381287
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Das Nagelbett ist das Gewebe unter dem Fingernagel oder dem Zehennagel.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.740027129650116
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Das Nagelbett ist gut durchblutet.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.6834536194801331
+  ],
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Im Nagelbett sind viele Nerven-Enden.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.6127415299415588
+  ],
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Das Gewebe ist rot, das Nagelbett ist dick und tut weh, die Haut fühlt sich an dieser Stelle warm an.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.7519709467887878
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Häufig tritt ein klopfender Schmerz auf.",
+      "Häufig kommt ein typischer klopfender Schmerz dazu."
+    ],
+    0.7095033526420593
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Dieser Schmerz entsteht durch den Pulsschlag.",
+      "Dieser entsteht durch den Pulsschlag der kleinen Blutgefäße, der zu einer vorübergehenden Druckerhöhung im entzündeten Gewebe führt."
+    ],
+    0.30156853795051575
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Der Pulsschlag pumpt das Blut durch die kleinen Gefäße im Nagelbett.",
+      "Dieser entsteht durch den Pulsschlag der kleinen Blutgefäße, der zu einer vorübergehenden Druckerhöhung im entzündeten Gewebe führt."
+    ],
+    0.15109778940677643
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Deshalb erhöht sich kurz der Druck auf das entzündete Gewebe.",
+      "Dieser entsteht durch den Pulsschlag der kleinen Blutgefäße, der zu einer vorübergehenden Druckerhöhung im entzündeten Gewebe führt."
+    ],
+    0.5141183137893677
+  ],
+  [
+    [
+      23,
+      10
+    ],
+    [
+      "Bakterien haben die Entzündung verursacht?",
+      "Die Betroffenen haben weniger starke oder kaum Schmerzen, einige bemerken die Entzündung gar nicht."
+    ],
+    0.7598813772201538
+  ],
+  [
+    [
+      25,
+      10
+    ],
+    [
+      "Manchmal haben betroffene Personen auch Fieber.",
+      "Die Betroffenen haben weniger starke oder kaum Schmerzen, einige bemerken die Entzündung gar nicht."
+    ],
+    0.014241242781281471
+  ],
+  [
+    [
+      26,
+      10
+    ],
+    [
+      "Dauert die Entzündung lange?",
+      "Die Betroffenen haben weniger starke oder kaum Schmerzen, einige bemerken die Entzündung gar nicht."
+    ],
+    0.8441418409347534
+  ],
+  [
+    [
+      27,
+      10
+    ],
+    [
+      "Oder wird die Entzündung nicht behandelt?",
+      "Die Betroffenen haben weniger starke oder kaum Schmerzen, einige bemerken die Entzündung gar nicht."
+    ],
+    0.9048559665679932
+  ],
+  [
+    [
+      28,
+      19
+    ],
+    [
+      "Dann kann sich der Nagel verformen.",
+      "Der menschliche Nagel ist aus mehreren Schichten aufgebaut."
+    ],
+    0.7675246000289917
+  ],
+  [
+    [
+      29,
+      19
+    ],
+    [
+      "Der Nagel kann auch abfallen.",
+      "Der menschliche Nagel ist aus mehreren Schichten aufgebaut."
+    ],
+    0.8897281885147095
+  ],
+  [
+    [
+      30,
+      19
+    ],
+    [
+      "Aber der Nagel wächst meistens wieder nach.",
+      "Der menschliche Nagel ist aus mehreren Schichten aufgebaut."
+    ],
+    0.9479583501815796
+  ],
+  [
+    [
+      31,
+      20
+    ],
+    [
+      "Manchmal wird die betroffene Stelle sehr dick.",
+      "Die Nagelplatte bildet den Hauptteil des Nagels."
+    ],
+    0.30163833498954773
+  ],
+  [
+    [
+      32,
+      22
+    ],
+    [
+      "Dann kann eine betroffene Person vielleicht den Finger nicht mehr gut bewegen.",
+      "An den seitlichen Rändern der Nagelplatte befindet sich eine kleine Vertiefung, der sogenannte Nagelfalz."
+    ],
+    0.06412466615438461
+  ],
+  [
+    [
+      33,
+      23
+    ],
+    [
+      "Die häufigste Ursache einer Nagelbett-Entzündung sind kleine Wunden in der Haut um den Nagel.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.1939334124326706
+  ],
+  [
+    [
+      34,
+      23
+    ],
+    [
+      "Durch die Wunden können Keime eindringen.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.317644864320755
+  ],
+  [
+    [
+      35,
+      23
+    ],
+    [
+      "Dann entzündet sich das Nagelbett.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.01715787686407566
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "Ursachen für diese Wunden sind zum Beispiel: falsche Nagelpflege trockene oder rissige Haut an Händen oder Füßen Schnittwunden häufiger Kontakt mit Wasser eingewachsene Nägel",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.006170812528580427
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Druckstellen durch falsche Schuhe",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.05976228043437004
+  ],
+  [
+    [
+      39,
+      23
+    ],
+    [
+      "Typische Keime sind zum Beispiel:",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.015251374803483486
+  ],
+  [
+    [
+      42,
+      23
+    ],
+    [
+      "Dann kann das auch zu einer Nagelbett-Entzündung führen.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.02140863612294197
+  ],
+  [
+    [
+      43,
+      23
+    ],
+    [
+      "Die Entzündung kann sich dann schneller ausbreiten.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.26656201481819153
+  ],
+  [
+    [
+      44,
+      23
+    ],
+    [
+      "Betroffene Personen sollten sofort zum Arzt gehen.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.014845013618469238
+  ],
+  [
+    [
+      47,
+      23
+    ],
+    [
+      "Viele Menschen schneiden die Nagelhaut mit einer Schere ab.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.3131062090396881
+  ],
+  [
+    [
+      48,
+      23
+    ],
+    [
+      "Manche Menschen schieben die Nagelhaut mit einem harten Gegenstand zurück.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.3813995122909546
+  ],
+  [
+    [
+      49,
+      23
+    ],
+    [
+      "Dabei wird die Nagelhaut oft verletzt.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.3875081539154053
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "Manchmal wird dabei auch zu viel Nagelhaut entfernt.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.2552042007446289
+  ],
+  [
+    [
+      51,
+      43
+    ],
+    [
+      "Auch beim Schneiden der Nägel kann man viel falsch machen:",
+      "Immer noch schneiden viele Menschen das Nagelhäutchen mit einer Schere ab oder schieben die Haut unsanft mit einem harten Gegenstand zurück."
+    ],
+    0.2959068715572357
+  ],
+  [
+    [
+      52,
+      43
+    ],
+    [
+      "Schneiden Sie die Nägel an den Seiten nicht zu schräg.",
+      "Immer noch schneiden viele Menschen das Nagelhäutchen mit einer Schere ab oder schieben die Haut unsanft mit einem harten Gegenstand zurück."
+    ],
+    0.39685264229774475
+  ],
+  [
+    [
+      53,
+      44
+    ],
+    [
+      "Schneiden Sie an den Seiten nicht zu tief.",
+      "Dabei entfernen sie zu viel von der schützenden Schicht und verletzen sie."
+    ],
+    0.3404195010662079
+  ],
+  [
+    [
+      54,
+      44
+    ],
+    [
+      "Schneiden Sie die Nägel nicht zu kurz.",
+      "Dabei entfernen sie zu viel von der schützenden Schicht und verletzen sie."
+    ],
+    0.2910667061805725
+  ],
+  [
+    [
+      55,
+      46
+    ],
+    [
+      "Dann ist das Nagelbett nämlich nicht mehr genügend geschützt.",
+      "Auch zu kurz geschnittene Nägel bieten dem Nagelbett weniger Schutz."
+    ],
+    0.6929776668548584
+  ],
+  [
+    [
+      56,
+      62
+    ],
+    [
+      "Verwenden Sie keine scharfen Nagellack-Entferner.",
+      "Experimentieren Sie besser nicht selbst herum und manipulieren Sie auch nicht im Nagelbereich."
+    ],
+    0.6371302604675293
+  ],
+  [
+    [
+      57,
+      63
+    ],
+    [
+      "Warme Bäder Baden",
+      "Anfangs helfen oft warme Bäder mit entzündungshemmenden Kräuterzusätzen wie Kamille , in denen Sie die erkrankten Finger oder Zehen zweimal täglich für jeweils 20 Miunten baden."
+    ],
+    0.20050041377544403
+  ],
+  [
+    [
+      58,
+      63
+    ],
+    [
+      "Sie",
+      "Anfangs helfen oft warme Bäder mit entzündungshemmenden Kräuterzusätzen wie Kamille , in denen Sie die erkrankten Finger oder Zehen zweimal täglich für jeweils 20 Miunten baden."
+    ],
+    0.3116930425167084
+  ],
+  [
+    [
+      59,
+      68
+    ],
+    [
+      "die betroffene Stelle zweimal täglich 20 Minuten in warmem Wasser.",
+      "Herpes-Infektionen lassen sich gut mit Virostatika behandeln, die örtlich als Salbe aufgetragen werden."
+    ],
+    0.4517970383167267
+  ],
+  [
+    [
+      63,
+      68
+    ],
+    [
+      "Jod hilft gegen die Bakterien.",
+      "Herpes-Infektionen lassen sich gut mit Virostatika behandeln, die örtlich als Salbe aufgetragen werden."
+    ],
+    0.562639594078064
+  ],
+  [
+    [
+      64,
+      68
+    ],
+    [
+      "Mittel gegen bestimmte Krankheitserreger Sind Bakterien die Ursache für die Entzündung?",
+      "Herpes-Infektionen lassen sich gut mit Virostatika behandeln, die örtlich als Salbe aufgetragen werden."
+    ],
+    0.6064832806587219
+  ],
+  [
+    [
+      65,
+      70
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Antibiotika.",
+      "Größere Eiterherde muss der Arzt unter örtlicher Betäubung vorsichtig aufschneiden, damit der Eiter richtig abfließen kann."
+    ],
+    0.3820881247520447
+  ],
+  [
+    [
+      67,
+      70
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Mittel gegen Pilz-Infektionen.",
+      "Größere Eiterherde muss der Arzt unter örtlicher Betäubung vorsichtig aufschneiden, damit der Eiter richtig abfließen kann."
+    ],
+    0.3457188606262207
+  ],
+  [
+    [
+      69,
+      70
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Virostatika.",
+      "Größere Eiterherde muss der Arzt unter örtlicher Betäubung vorsichtig aufschneiden, damit der Eiter richtig abfließen kann."
+    ],
+    0.37612801790237427
+  ],
+  [
+    [
+      74,
+      70
+    ],
+    [
+      "Und kann der Eiter nicht von selbst abfließen?",
+      "Größere Eiterherde muss der Arzt unter örtlicher Betäubung vorsichtig aufschneiden, damit der Eiter richtig abfließen kann."
+    ],
+    0.5365272164344788
+  ],
+  [
+    [
+      75,
+      81
+    ],
+    [
+      "Dann muss ein Arzt die Stelle vielleicht aufschneiden.",
+      "Sind Nagelbereiche dauerhaft entzündet, müssen vor allem die Auslöser gemieden werden."
+    ],
+    0.4623907804489136
+  ],
+  [
+    [
+      76,
+      87
+    ],
+    [
+      "Sie bekommen dann eine örtliche Betäubung.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.4647112190723419
+  ],
+  [
+    [
+      77,
+      87
+    ],
+    [
+      "So spüren Sie den Schnitt nicht.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.5881407260894775
+  ],
+  [
+    [
+      78,
+      87
+    ],
+    [
+      "Sie wollen eine Nagelbett-Entzündung vermeiden?",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.269582062959671
+  ],
+  [
+    [
+      79,
+      87
+    ],
+    [
+      "Dann können Sie einige Dinge selbst tun:",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.4673518240451813
+  ],
+  [
+    [
+      80,
+      87
+    ],
+    [
+      "Schneiden Sie Ihre Nägel regelmäßig.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.5434157252311707
+  ],
+  [
+    [
+      81,
+      88
+    ],
+    [
+      "So wachsen die Nägel nicht ein oder brechen ab.",
+      "Feilen Sie die Fingernägel rund, aber nicht zu tief in den seitlichen Wall."
+    ],
+    0.37074053287506104
+  ],
+  [
+    [
+      82,
+      88
+    ],
+    [
+      "Feilen Sie die Fingernägel rund.",
+      "Feilen Sie die Fingernägel rund, aber nicht zu tief in den seitlichen Wall."
+    ],
+    0.7107958197593689
+  ],
+  [
+    [
+      83,
+      88
+    ],
+    [
+      "Feilen Sie nicht zu tief in die Seite.",
+      "Feilen Sie die Fingernägel rund, aber nicht zu tief in den seitlichen Wall."
+    ],
+    0.7820903658866882
+  ],
+  [
+    [
+      84,
+      89
+    ],
+    [
+      "Schneiden Sie die Fußnägel gerade.",
+      "Fußnägel schneiden Sie gerade und feilen sie nach, damit keine scharfen Kanten bleiben, die zu Verletzungen führen könnten."
+    ],
+    0.746401846408844
+  ],
+  [
+    [
+      85,
+      89
+    ],
+    [
+      "So können keine scharfen Kanten entstehen.",
+      "Fußnägel schneiden Sie gerade und feilen sie nach, damit keine scharfen Kanten bleiben, die zu Verletzungen führen könnten."
+    ],
+    0.0961679145693779
+  ],
+  [
+    [
+      86,
+      90
+    ],
+    [
+      "Schneiden Sie die Nagelhaut nicht mit der Schere ab.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.5223314762115479
+  ],
+  [
+    [
+      87,
+      91
+    ],
+    [
+      "Benutzen Sie einen glatten und abgerundeten Schieber.",
+      "Sie können es mit einem abgerundeten, glatten Schieber sanft zurückschieben, allerdings nur, wenn die Haut nicht trocken und rissig ist."
+    ],
+    0.4081384539604187
+  ],
+  [
+    [
+      88,
+      91
+    ],
+    [
+      "Damit können Sie die Nagelhaut sanft zurückschieben.",
+      "Sie können es mit einem abgerundeten, glatten Schieber sanft zurückschieben, allerdings nur, wenn die Haut nicht trocken und rissig ist."
+    ],
+    0.312992125749588
+  ],
+  [
+    [
+      89,
+      91
+    ],
+    [
+      "Ihre Haut ist trocken und rissig?",
+      "Sie können es mit einem abgerundeten, glatten Schieber sanft zurückschieben, allerdings nur, wenn die Haut nicht trocken und rissig ist."
+    ],
+    0.5056990385055542
+  ],
+  [
+    [
+      90,
+      98
+    ],
+    [
+      "Dann können Sie ein Handbad oder ein Fußbad machen.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.5271417498588562
+  ],
+  [
+    [
+      92,
+      98
+    ],
+    [
+      "Nutzen Sie auch pflegende Cremes.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.6660687923431396
+  ],
+  [
+    [
+      94,
+      98
+    ],
+    [
+      "Dann schieben Sie die Nagelhaut nicht zurück.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.25133880972862244
+  ],
+  [
+    [
+      95,
+      98
+    ],
+    [
+      "Benutzen Sie dann auch keinen Nagellack.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.5532225966453552
+  ],
+  [
+    [
+      96,
+      98
+    ],
+    [
+      "Sie haben Diabetes?",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.712468147277832
+  ],
+  [
+    [
+      97,
+      98
+    ],
+    [
+      "Dann merken Sie Verletzungen vielleicht nicht.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.511763334274292
+  ],
+  [
+    [
+      98,
+      98
+    ],
+    [
+      "Lassen Sie Ihre Fußnägel von der medizinischen Fußpflege schneiden.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.33531853556632996
+  ],
+  [
+    [
+      99,
+      98
+    ],
+    [
+      "Tragen Sie bequeme Schuhe.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.6270396113395691
+  ],
+  [
+    [
+      101,
+      98
+    ],
+    [
+      "Tragen Sie bei der Gartenarbeit Handschuhe.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.6109954118728638
+  ],
+  [
+    [
+      102,
+      98
+    ],
+    [
+      "Sie haben Kontakt mit Chemikalien?",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.6924378871917725
+  ],
+  [
+    [
+      103,
+      98
+    ],
+    [
+      "Dann sollten Sie Handschuhe tragen.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.542342483997345
+  ],
+  [
+    [
+      104,
+      98
+    ],
+    [
+      "Halten Sie Hände und Füße trocken.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.8633721470832825
+  ],
+  [
+    [
+      105,
+      98
+    ],
+    [
+      "Schützen Sie Hände und Füße vor Kälte.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.8671038150787354
+  ],
+  [
+    [
+      106,
+      98
+    ],
+    [
+      "Benutzen Sie rückfettende Salben oder Cremes.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.6254496574401855
+  ],
+  [
+    [
+      107,
+      105
+    ],
+    [
+      "Sie wollen noch mehr über die Nagelbett-Entzündung lesen?",
+      "An der letztgenannten Klinik leitete sie von 2006 bis 2012 als Funktionsoberärztin die Lichtabteilung, die dermatologische Tagesklinik und die allgemeindermatologische Ambulanz."
+    ],
+    0.3905397951602936
+  ],
+  [
+    [
+      108,
+      105
+    ],
+    [
+      "Mehr Informationen über die Nagelbett-Entzündung finden Sie hier .",
+      "An der letztgenannten Klinik leitete sie von 2006 bis 2012 als Funktionsoberärztin die Lichtabteilung, die dermatologische Tagesklinik und die allgemeindermatologische Ambulanz."
+    ],
+    0.39077404141426086
+  ],
+  [
+    [
+      110,
+      105
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "An der letztgenannten Klinik leitete sie von 2006 bis 2012 als Funktionsoberärztin die Lichtabteilung, die dermatologische Tagesklinik und die allgemeindermatologische Ambulanz."
+    ],
+    0.5834466218948364
+  ]
+]

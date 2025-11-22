@@ -1,0 +1,1564 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben ein Auto oder Motorrad in Köln, aber Sie haben keinen privaten Park-Platz ?",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.7155061960220337
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "In Köln gibt es besondere Park-Gebiete.",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.2400338500738144
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dort können Bewohner und Bewohnerinnen mit einem Park-Ausweis parken.",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.6998572945594788
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Das schwere Wort dafür ist: Bewohner-Park-Gebiet .",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.037694547325372696
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Wenn Sie in einem Bewohner-Park-Gebiet in Köln wohnen, dann können Sie einen Bewohner-Park-Ausweis beantragen.",
+      "Sie haben Ihren Hauptwohnsitz oder Nebenwohnsitz in einem Bewohnerparkgebiet und sind im Besitz einer gültigen Fahrerlaubnis?"
+    ],
+    0.7940633296966553
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Damit können Sie im Bewohner-Park-Gebiet parken ohne jedes Mal bezahlen zu müssen.",
+      "Dann können Sie für Ihren Personenkraftwagen oder Ihr Motorrad einen Bewohnerparkausweis beantragen, wenn Sie nicht über einen privaten Stellplatz verfügen."
+    ],
+    0.7337537407875061
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Hier können Sie prüfen, ob Sie in einem Bewohner-Park-Gebiet wohnen:",
+      "Dann können Sie für Ihren Personenkraftwagen oder Ihr Motorrad einen Bewohnerparkausweis beantragen, wenn Sie nicht über einen privaten Stellplatz verfügen."
+    ],
+    0.788754940032959
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Wo bekomme ich den Park-Ausweis?",
+      "Sie können sich den Bewohnerparkausweis aber auch monatlich ausstellen lassen."
+    ],
+    0.33649909496307373
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Sie müssen persönlich zu uns ins Kunden-Zentrum kommen.",
+      "Sie können sich den Bewohnerparkausweis aber auch monatlich ausstellen lassen."
+    ],
+    0.7660380601882935
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "In dieser Liste stehen alle Kunden-Zentren in Köln.",
+      "In den Kundenzentren gibt es gegen eine Schutzgebühr von 2,10 Euro Ausweistaschen."
+    ],
+    0.6657378077507019
+  ],
+  [
+    [
+      10,
+      7
+    ],
+    [
+      "Klicken Sie auf ein Kunden-Zentrum in Ihrer Nähe.",
+      "Damit können Sie Ihren Bewohnerparkausweis deutlich sichtbar hinter der Windschutzscheibe anbringen."
+    ],
+    0.6644191145896912
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Dann finden Sie mehr Informationen.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.8162049055099487
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Zum Beispiel: Die Adresse und die Öffnungs-Zeiten .",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.34993237257003784
+  ],
+  [
+    [
+      13,
+      11
+    ],
+    [
+      "Was brauche ich dazu?",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.33232706785202026
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Ihren Personal-Ausweis",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.6541590690612793
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Ihren Fahrzeug-Schein oder Ihre Zulassungs-Bescheinigung Teil 1",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.43021729588508606
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Wenn Sie Ihr Auto beim Amt anmelden, dann bekommen Sie die Zulassungs-Bescheinigung Teil 1. Sie gilt als Nachweis für das Anmelden.",
+      "Diesen sollten Sie vorsorglich immer mitbringen."
+    ],
+    0.7213970422744751
+  ],
+  [
+    [
+      17,
+      17
+    ],
+    [
+      "Früher hieß die Zulassungs-Bescheinigung Teil 1: Fahrzeug-Schein.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.18628904223442078
+  ],
+  [
+    [
+      18,
+      17
+    ],
+    [
+      "Manchmal müssen Sie uns weitere Papiere zeigen.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.4815080761909485
+  ],
+  [
+    [
+      19,
+      17
+    ],
+    [
+      "Zum Beispiel: Ihren Bewohner-Park-Ausweis Wenn wir Ihren Bewohner-Park-Ausweis ändern sollen, dann müssen Sie Ihren Bewohner-Park-Ausweis mitbringen.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.33477893471717834
+  ],
+  [
+    [
+      20,
+      17
+    ],
+    [
+      "Eine Bestätigung vom Halter oder der Halterin.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.4608682692050934
+  ],
+  [
+    [
+      21,
+      17
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug beim Amt gemeldet ist.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.8508931994438171
+  ],
+  [
+    [
+      22,
+      17
+    ],
+    [
+      "Der Fahrer oder die Fahrerin ist nicht immer der Halter oder die Halterin.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.7855251431465149
+  ],
+  [
+    [
+      23,
+      17
+    ],
+    [
+      "Der Halter oder die Halterin kann einer anderen Person erlauben:",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.7024937868118286
+  ],
+  [
+    [
+      24,
+      17
+    ],
+    [
+      "Dass die Person mit dem Fahrzeug fährt.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6151130795478821
+  ],
+  [
+    [
+      25,
+      17
+    ],
+    [
+      "Wenn der Halter oder die Halterin nicht den Antrag stellt, dann müssen Sie uns die Erlaubnis zeigen.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.7013266086578369
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Damit zeigen Sie: Ich darf das Fahrzeug nutzen.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6128512620925903
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Ich will für das Fahrzeug einen Park-Ausweis.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.4884437620639801
+  ],
+  [
+    [
+      28,
+      17
+    ],
+    [
+      "Der Halter oder die Halterin hat das erlaubt.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.625026285648346
+  ],
+  [
+    [
+      29,
+      17
+    ],
+    [
+      "Auch wenn das Fahrzeug mir nicht gehört.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.7092760801315308
+  ],
+  [
+    [
+      30,
+      17
+    ],
+    [
+      "Achtung: Es gibt eine Erlaubnis für Privat-Fahrzeuge.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6014959216117859
+  ],
+  [
+    [
+      31,
+      17
+    ],
+    [
+      "Diese Erlaubnis müssen Sie uns zeigen, wenn das Fahrzeug einer anderen Person gehört und Sie es privat in Ihrer Freizeit nutzen dürfen.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6773947477340698
+  ],
+  [
+    [
+      32,
+      17
+    ],
+    [
+      "Die Erlaubnis können Sie hier herunter laden .",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.39447370171546936
+  ],
+  [
+    [
+      33,
+      17
+    ],
+    [
+      "Sie können die Erlaubnis am Computer ausfüllen .",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.38559362292289734
+  ],
+  [
+    [
+      34,
+      17
+    ],
+    [
+      "Dann müssen Sie die Erlaubnis ausdrucken.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.5124263763427734
+  ],
+  [
+    [
+      35,
+      17
+    ],
+    [
+      "Der Halter oder die Halterin muss die Erlaubnis unterschreiben.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6705191731452942
+  ],
+  [
+    [
+      36,
+      17
+    ],
+    [
+      "Bitte bringen Sie die Erlaubnis mit ins Kunden-Zentrum.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.43139326572418213
+  ],
+  [
+    [
+      37,
+      17
+    ],
+    [
+      "Wenn Sie Ihren Park-Ausweis beantragen oder abholen.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.3631769120693207
+  ],
+  [
+    [
+      38,
+      17
+    ],
+    [
+      "Wichtig: Sie müssen uns dann auch den Ausweis zeigen vom Halter oder von der Halterin.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.5846887230873108
+  ],
+  [
+    [
+      39,
+      17
+    ],
+    [
+      "Oder eine Kopie vom Ausweis.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.43955299258232117
+  ],
+  [
+    [
+      40,
+      17
+    ],
+    [
+      "Achtung: Es gibt auch eine Erlaubnis für Firmen-Fahrzeuge.",
+      "Diese ist erforderlich, wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6438257098197937
+  ],
+  [
+    [
+      41,
+      18
+    ],
+    [
+      "Die Erlaubnis müssen Sie uns zeigen, wenn Sie das Fahrzeug für die Arbeit nutzen.",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.7517873644828796
+  ],
+  [
+    [
+      42,
+      18
+    ],
+    [
+      "Und die Firma Ihnen erlaubt hat, dass Sie es auch privat in Ihrer Freizeit nutzen.",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.6091947555541992
+  ],
+  [
+    [
+      43,
+      18
+    ],
+    [
+      "Die Erlaubnis können Sie hier herunter laden .",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.7608688473701477
+  ],
+  [
+    [
+      44,
+      18
+    ],
+    [
+      "Sie können die Erlaubnis am Computer ausfüllen .",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.6547878384590149
+  ],
+  [
+    [
+      45,
+      18
+    ],
+    [
+      "Dann müssen Sie die Erlaubnis ausdrucken.",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.7544810771942139
+  ],
+  [
+    [
+      46,
+      19
+    ],
+    [
+      "Der Firmen-Inhaber muss sie unterschreiben.",
+      "Besondere Halterbestätigung und weitere Unterlagen bei privatem Carsharing wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.45990318059921265
+  ],
+  [
+    [
+      47,
+      19
+    ],
+    [
+      "Und einen Firmen-Stempel auf die Erlaubnis machen.",
+      "Besondere Halterbestätigung und weitere Unterlagen bei privatem Carsharing wenn das Fahrzeug nicht auf die antragstellende Person zugelassen ist."
+    ],
+    0.6970807313919067
+  ],
+  [
+    [
+      48,
+      20
+    ],
+    [
+      "Wichtig: Bitte bringen Sie die Erlaubnis mit ins Kunden-Zentrum.",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.7669309973716736
+  ],
+  [
+    [
+      49,
+      20
+    ],
+    [
+      "Wenn Sie Ihren Park-Ausweis beantragen oder abholen.",
+      "Bitte lesen Sie die Erläuterungen unter \"Halterbestätigung und Infos zum privaten Carsharing\"."
+    ],
+    0.6501514315605164
+  ],
+  [
+    [
+      50,
+      22
+    ],
+    [
+      "Bestätigungen für Car-Sharing",
+      "Bei Leih- und Mietfahrzeugen gewerblicher Anbieter können wir einen Bewohnerparkausweis für die Dauer der Nutzung ausstellen."
+    ],
+    0.6248462796211243
+  ],
+  [
+    [
+      51,
+      24
+    ],
+    [
+      "Car-Sharing ist Englisch.",
+      "Eine Kopie ist ausreichend."
+    ],
+    0.6258231401443481
+  ],
+  [
+    [
+      52,
+      28
+    ],
+    [
+      "Das spricht man so:",
+      "Aus der Bestätigung muss hervorgehen, dass das Fahrzeug von Ihnen als Fahrerin oder Fahrer dauerhaft und auch zu privaten Zwecken genutzt wird."
+    ],
+    0.37310904264450073
+  ],
+  [
+    [
+      55,
+      34
+    ],
+    [
+      "Mehrere Personen teilen sich 1 Fahrzeug.",
+      "Besondere Halterbestätigung und weitere Unterlagen bei privatem Carsharing Teilen sich zwei oder mehrere Personen, die in unterschiedlichen Bewohnerparkgebieten gemeldet sind, ein Fahrzeug, kann für jedes Bewohnerparkgebiet ein Bewohnerparkausweis ausgestellt werden."
+    ],
+    0.3552062213420868
+  ],
+  [
+    [
+      56,
+      34
+    ],
+    [
+      "Dafür können Sie auch einen Bewohner-Park-Ausweis bekommen.",
+      "Besondere Halterbestätigung und weitere Unterlagen bei privatem Carsharing Teilen sich zwei oder mehrere Personen, die in unterschiedlichen Bewohnerparkgebieten gemeldet sind, ein Fahrzeug, kann für jedes Bewohnerparkgebiet ein Bewohnerparkausweis ausgestellt werden."
+    ],
+    0.6165689826011658
+  ],
+  [
+    [
+      57,
+      34
+    ],
+    [
+      "Wenn sich 2 oder mehr Personen ein Fahrzeug teilen, die in unterschiedlichen Bewohner-Park-Gebieten leben, können Sie für jedes Bewohner-Park-Gebiet einen Bewohner-Park-Ausweis bekommen.",
+      "Besondere Halterbestätigung und weitere Unterlagen bei privatem Carsharing Teilen sich zwei oder mehrere Personen, die in unterschiedlichen Bewohnerparkgebieten gemeldet sind, ein Fahrzeug, kann für jedes Bewohnerparkgebiet ein Bewohnerparkausweis ausgestellt werden."
+    ],
+    0.864741861820221
+  ],
+  [
+    [
+      58,
+      34
+    ],
+    [
+      "Sie brauchen dazu 1 Kopie von Ihrer gültigen Fahr-Erlaubnis .",
+      "Besondere Halterbestätigung und weitere Unterlagen bei privatem Carsharing Teilen sich zwei oder mehrere Personen, die in unterschiedlichen Bewohnerparkgebieten gemeldet sind, ein Fahrzeug, kann für jedes Bewohnerparkgebiet ein Bewohnerparkausweis ausgestellt werden."
+    ],
+    0.3505999445915222
+  ],
+  [
+    [
+      59,
+      35
+    ],
+    [
+      "Und Sie brauchen 2 Bestätigungen :",
+      "Wenn Sie im Rahmen von privatem Carsharing einen Bewohnerparkausweis für ein Fahrzeug beantragen möchten, das nicht auf Sie zugelassen ist, benötigen wir bei der Antragstellung folgende Unterlagen von Ihnen:"
+    ],
+    0.3247441351413727
+  ],
+  [
+    [
+      60,
+      35
+    ],
+    [
+      "Wichtig: Wir haben die 2 Vordrucke für Sie vorbereitet .",
+      "Wenn Sie im Rahmen von privatem Carsharing einen Bewohnerparkausweis für ein Fahrzeug beantragen möchten, das nicht auf Sie zugelassen ist, benötigen wir bei der Antragstellung folgende Unterlagen von Ihnen:"
+    ],
+    0.5795903205871582
+  ],
+  [
+    [
+      61,
+      35
+    ],
+    [
+      "Sie können die Vordrucke im Internet ausfüllen .",
+      "Wenn Sie im Rahmen von privatem Carsharing einen Bewohnerparkausweis für ein Fahrzeug beantragen möchten, das nicht auf Sie zugelassen ist, benötigen wir bei der Antragstellung folgende Unterlagen von Ihnen:"
+    ],
+    0.7886409759521484
+  ],
+  [
+    [
+      62,
+      35
+    ],
+    [
+      "Dann müssen Sie die Vordrucke ausdrucken .",
+      "Wenn Sie im Rahmen von privatem Carsharing einen Bewohnerparkausweis für ein Fahrzeug beantragen möchten, das nicht auf Sie zugelassen ist, benötigen wir bei der Antragstellung folgende Unterlagen von Ihnen:"
+    ],
+    0.6648843288421631
+  ],
+  [
+    [
+      63,
+      40
+    ],
+    [
+      "Dann müssen Sie die Vordrucke unterschreiben .",
+      "Die Vordrucke \"Bestätigung einziges Kraftfahrzeug bei privatem Carsharing \" und \"Halterbestätigung bei privatem Carsharing \" können Sie unter \"Downloads und Infos\" herunterladen."
+    ],
+    0.6788907647132874
+  ],
+  [
+    [
+      64,
+      40
+    ],
+    [
+      "Dann müssen Sie die Vordrucke im Amt abgeben .",
+      "Die Vordrucke \"Bestätigung einziges Kraftfahrzeug bei privatem Carsharing \" und \"Halterbestätigung bei privatem Carsharing \" können Sie unter \"Downloads und Infos\" herunterladen."
+    ],
+    0.5230480432510376
+  ],
+  [
+    [
+      65,
+      40
+    ],
+    [
+      "Oder an das Amt schicken .",
+      "Die Vordrucke \"Bestätigung einziges Kraftfahrzeug bei privatem Carsharing \" und \"Halterbestätigung bei privatem Carsharing \" können Sie unter \"Downloads und Infos\" herunterladen."
+    ],
+    0.28211840987205505
+  ],
+  [
+    [
+      66,
+      40
+    ],
+    [
+      "Wie lange ist der Park-Ausweis gültig?",
+      "Die Vordrucke \"Bestätigung einziges Kraftfahrzeug bei privatem Carsharing \" und \"Halterbestätigung bei privatem Carsharing \" können Sie unter \"Downloads und Infos\" herunterladen."
+    ],
+    0.24417102336883545
+  ],
+  [
+    [
+      68,
+      42
+    ],
+    [
+      "Es gibt auch Park-Ausweise für 1 Monat.",
+      "online"
+    ],
+    0.11632665246725082
+  ],
+  [
+    [
+      69,
+      42
+    ],
+    [
+      "Wie nutze ich den Park-Ausweis?",
+      "online"
+    ],
+    0.10634063184261322
+  ],
+  [
+    [
+      70,
+      42
+    ],
+    [
+      "Sie können den Park-Ausweis für Ihr Auto nutzen.",
+      "online"
+    ],
+    0.3087681233882904
+  ],
+  [
+    [
+      71,
+      42
+    ],
+    [
+      "Und Sie können den Park-Ausweis für Ihr Motorrad nutzen.",
+      "online"
+    ],
+    0.29585355520248413
+  ],
+  [
+    [
+      72,
+      42
+    ],
+    [
+      "Sie können den Park-Ausweis manchmal auch für Ihr Wohn-Mobil nutzen.",
+      "online"
+    ],
+    0.2761395573616028
+  ],
+  [
+    [
+      78,
+      42
+    ],
+    [
+      "Damit können Sie den Ausweis hinter der Scheibe am Fahrzeug anbringen.",
+      "online"
+    ],
+    0.049561381340026855
+  ],
+  [
+    [
+      79,
+      42
+    ],
+    [
+      "Die Ausweis-Taschen kosten 1,75 Euro .",
+      "online"
+    ],
+    0.12734529376029968
+  ],
+  [
+    [
+      80,
+      42
+    ],
+    [
+      "Wie bekomme ich einen Park-Ausweis?",
+      "online"
+    ],
+    0.12636356055736542
+  ],
+  [
+    [
+      81,
+      42
+    ],
+    [
+      "Sie können Ihren Park-Ausweis online beantragen .",
+      "online"
+    ],
+    0.4986426830291748
+  ],
+  [
+    [
+      82,
+      42
+    ],
+    [
+      "Online heißt:",
+      "online"
+    ],
+    0.5749852657318115
+  ],
+  [
+    [
+      83,
+      42
+    ],
+    [
+      "Sie können das am Computer machen.",
+      "online"
+    ],
+    0.19482290744781494
+  ],
+  [
+    [
+      84,
+      43
+    ],
+    [
+      "Sie können Ihren Park-Ausweis auch online ändern .",
+      "Sie können Ihren Bewohnerparkausweis auch online beantragen oder verlängern."
+    ],
+    0.962403416633606
+  ],
+  [
+    [
+      85,
+      43
+    ],
+    [
+      "Sie können den Park-Ausweis aber nicht online verlängern .",
+      "Sie können Ihren Bewohnerparkausweis auch online beantragen oder verlängern."
+    ],
+    0.8660911917686462
+  ],
+  [
+    [
+      86,
+      51
+    ],
+    [
+      "Wenn Sie uns das Formular für den Ausweis schicken, dann bearbeiten wir Ihren Antrag.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8867840766906738
+  ],
+  [
+    [
+      87,
+      51
+    ],
+    [
+      "Das Bearbeiten dauert einige Tage.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.24690257012844086
+  ],
+  [
+    [
+      88,
+      51
+    ],
+    [
+      "Wenn wir Ihren Antrag bearbeitet haben, dann schicken wir Ihnen einen Brief.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8000181317329407
+  ],
+  [
+    [
+      89,
+      51
+    ],
+    [
+      "In dem Brief steht: Wann Sie den Ausweis abholen können.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.6000471115112305
+  ],
+  [
+    [
+      90,
+      51
+    ],
+    [
+      "Welche Papiere Sie beim Abholen mitbringen müssen.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.7767440676689148
+  ],
+  [
+    [
+      91,
+      51
+    ],
+    [
+      "Bitte warten Sie diesen Brief ab.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.6259377002716064
+  ],
+  [
+    [
+      92,
+      51
+    ],
+    [
+      "Bitte bezahlen Sie die Gebühren , wenn Sie den Ausweis bei uns abholen.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8892325162887573
+  ],
+  [
+    [
+      93,
+      51
+    ],
+    [
+      "Wichtig: Wenn Sie im Antrag mehrere Fahrzeuge aufschreiben, bekommen Sie einen Park-Ausweis für mehrere Fahrzeuge.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.7790123820304871
+  ],
+  [
+    [
+      94,
+      51
+    ],
+    [
+      "Auf dem Park-Ausweis stehen die verschiedenen Kennzeichen von den Fahrzeugen.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.5000701546669006
+  ],
+  [
+    [
+      95,
+      51
+    ],
+    [
+      "Wie kann ich den Park-Ausweis verlängern?",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.38128143548965454
+  ],
+  [
+    [
+      96,
+      51
+    ],
+    [
+      "Sie müssen keinen neuen Antrag stellen, um den Park-Ausweis zu verlängern.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.6816359758377075
+  ],
+  [
+    [
+      97,
+      51
+    ],
+    [
+      "Wenn Sie schon einen Park-Ausweis haben, bekommen Sie einen Brief von uns.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8356320261955261
+  ],
+  [
+    [
+      98,
+      51
+    ],
+    [
+      "Wir schreiben Ihnen etwa 2 Monate, bevor Ihr Park-Ausweis abläuft.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.5361708402633667
+  ],
+  [
+    [
+      99,
+      51
+    ],
+    [
+      "Wenn Sie uns Ihre E-Mail-Adresse geben, schreiben wir Ihnen gerne auch eine E-Mail .",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8683843016624451
+  ],
+  [
+    [
+      100,
+      51
+    ],
+    [
+      "Also eine Nachricht am Computer.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.33830559253692627
+  ],
+  [
+    [
+      101,
+      51
+    ],
+    [
+      "In der Nachricht steht auch das Kassen-Zeichen .",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.3051694333553314
+  ],
+  [
+    [
+      102,
+      51
+    ],
+    [
+      "Das Kassen-Zeichen ist eine Nummer.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.21097812056541443
+  ],
+  [
+    [
+      103,
+      51
+    ],
+    [
+      "Schreiben Sie die Nummer bitte auf die Überweisung, wenn Sie den neuen Park-Ausweis bezahlen.",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8685550093650818
+  ],
+  [
+    [
+      104,
+      51
+    ],
+    [
+      "Wenn Sie das Geld überweisen , dann schicken wir Ihnen den neuen Park-Ausweis mit der Post .",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8783981204032898
+  ],
+  [
+    [
+      105,
+      51
+    ],
+    [
+      "Melden Sie sich bitte bei einem Kunden-Zentrum: Wenn Sie noch keine Nachricht von uns haben und Ihr Park-Ausweis in 1 Monat abläuft .",
+      "Wenn Sie uns Ihre Adresse mitteilen, erhalten Sie von uns eine E-Mail mit dem Kassenzeichen, das Sie dann bitte bei der Überweisung der Gebühr für Ihren neuen Bewohnerparkausweis angeben."
+    ],
+    0.8645780682563782
+  ],
+  [
+    [
+      106,
+      54
+    ],
+    [
+      "Oder wenn Sie das Geld nicht rechtzeitig überwiesen haben und kurzfristig einen neuen Park-Ausweis brauchen.",
+      "Wenn Sie die Gebühr nicht rechtzeitig überwiesen haben und kurzfristig einen neuen Ausweis benötigen, sprechen Sie bitte im Kundenzentrum Ihrer Wahl vor."
+    ],
+    0.8396632075309753
+  ],
+  [
+    [
+      107,
+      54
+    ],
+    [
+      "Gibt es Park-Ausweise für die Umwelt-Zone?",
+      "Wenn Sie die Gebühr nicht rechtzeitig überwiesen haben und kurzfristig einen neuen Ausweis benötigen, sprechen Sie bitte im Kundenzentrum Ihrer Wahl vor."
+    ],
+    0.4348430335521698
+  ],
+  [
+    [
+      108,
+      61
+    ],
+    [
+      "Köln hat eine Umwelt-Zone .",
+      "Bewohnerparkausweis und Umweltzone Köln hat seit dem 1. Januar 2008 eine Umweltzone."
+    ],
+    0.5779858827590942
+  ],
+  [
+    [
+      109,
+      61
+    ],
+    [
+      "Umwelt-Zone heißt:",
+      "Bewohnerparkausweis und Umweltzone Köln hat seit dem 1. Januar 2008 eine Umweltzone."
+    ],
+    0.2564637362957001
+  ],
+  [
+    [
+      110,
+      63
+    ],
+    [
+      "In diesem Gebiet ist der Verkehr beschränkt .",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.09855448454618454
+  ],
+  [
+    [
+      111,
+      63
+    ],
+    [
+      "Hier dürfen nur Fahrzeuge mit wenig Abgasen fahren.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.5706636309623718
+  ],
+  [
+    [
+      112,
+      63
+    ],
+    [
+      "Diese Fahrzeuge haben eine grüne Plakette .",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.40713104605674744
+  ],
+  [
+    [
+      113,
+      63
+    ],
+    [
+      "Eine Plakette ist ein Aufkleber an Ihrem Fahrzeug.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.36871960759162903
+  ],
+  [
+    [
+      114,
+      63
+    ],
+    [
+      "Der Aufkleber muss gut sichtbar sein.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.25440409779548645
+  ],
+  [
+    [
+      115,
+      63
+    ],
+    [
+      "Fahrzeuge mit roter oder gelber Plakette dürfen nicht in der Umwelt-Zone fahren .",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.4363678991794586
+  ],
+  [
+    [
+      116,
+      63
+    ],
+    [
+      "Weil sie zu viele Abgase haben.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.6413763761520386
+  ],
+  [
+    [
+      117,
+      63
+    ],
+    [
+      "Und sie der Umwelt schaden.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.4605785608291626
+  ],
+  [
+    [
+      118,
+      63
+    ],
+    [
+      "Sie können nur in der Umwelt-Zone fahren und parken , wenn Sie eine grüne Plakette haben.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.7818722724914551
+  ],
+  [
+    [
+      119,
+      63
+    ],
+    [
+      "Dann können Sie einen Park-Ausweis für die Umwelt-Zone bekommen.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.8093039393424988
+  ],
+  [
+    [
+      120,
+      63
+    ],
+    [
+      "Muss ich persönlich ins Amt kommen?",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.3259049952030182
+  ],
+  [
+    [
+      122,
+      63
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.8552044630050659
+  ],
+  [
+    [
+      123,
+      63
+    ],
+    [
+      "Sie können den Antrag für den Ausweis am Computer schicken, aber Sie müssen den Park-Ausweis persönlich abholen .",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.7405917644500732
+  ],
+  [
+    [
+      124,
+      63
+    ],
+    [
+      "Sie bekommen den Bewohner-Park-Ausweis sofort, wenn Sie persönlich vorsprechen.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.8902976512908936
+  ],
+  [
+    [
+      125,
+      63
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.9009755849838257
+  ],
+  [
+    [
+      126,
+      63
+    ],
+    [
+      "Die Person muss uns dann eine Vollmacht zeigen.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.6617406606674194
+  ],
+  [
+    [
+      127,
+      63
+    ],
+    [
+      "Eine Vollmacht ist ein Papier, auf dem steht:",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.18679673969745636
+  ],
+  [
+    [
+      128,
+      63
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.8200480341911316
+  ],
+  [
+    [
+      129,
+      63
+    ],
+    [
+      "Sie müssen die Vollmacht unterschreiben.",
+      "Grundsätzlich müssen Sie persönlich vorsprechen."
+    ],
+    0.9049946069717407
+  ],
+  [
+    [
+      130,
+      65
+    ],
+    [
+      "Die Person muss uns die Vollmacht zeigen .",
+      "Sie können sich aber auch durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7676471471786499
+  ],
+  [
+    [
+      131,
+      65
+    ],
+    [
+      "Und die Person muss uns ihren Ausweis oder Pass zeigen.",
+      "Sie können sich aber auch durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.8017085194587708
+  ],
+  [
+    [
+      132,
+      65
+    ],
+    [
+      "Und die Person muss uns den Ausweis von der Person zeigen, die ihr die Erlaubnis gegeben hat.",
+      "Sie können sich aber auch durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7388444542884827
+  ],
+  [
+    [
+      133,
+      65
+    ],
+    [
+      "Das heißt: Geben Sie der Person am besten eine Kopie von ihrem Ausweis mit.",
+      "Sie können sich aber auch durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.5751104354858398
+  ],
+  [
+    [
+      134,
+      65
+    ],
+    [
+      "Wenn die Person mit der Vollmacht zu uns kommt.",
+      "Sie können sich aber auch durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7915419936180115
+  ],
+  [
+    [
+      135,
+      65
+    ],
+    [
+      "Wie viel kostet der Park-Ausweis?",
+      "Sie können sich aber auch durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.3951606750488281
+  ],
+  [
+    [
+      136,
+      69
+    ],
+    [
+      "Der Park-Ausweis kostet: 30 Euro im Jahr.",
+      "30 Euro für 12 Monate 45 Euro für 18 Monate 60 Euro für 24 Monate 4,20 Euro für 1 Monat 2,50 Euro für Änderungen"
+    ],
+    0.6784293055534363
+  ],
+  [
+    [
+      137,
+      69
+    ],
+    [
+      "4,20 Euro im Monat.",
+      "30 Euro für 12 Monate 45 Euro für 18 Monate 60 Euro für 24 Monate 4,20 Euro für 1 Monat 2,50 Euro für Änderungen"
+    ],
+    0.47769275307655334
+  ],
+  [
+    [
+      138,
+      70
+    ],
+    [
+      "2,50 Euro für Änderungen.",
+      "2,50 Euro für einen Ersatz-Bewohnerparkausweis"
+    ],
+    0.8642071485519409
+  ],
+  [
+    [
+      139,
+      70
+    ],
+    [
+      "Zum Beispiel: Wenn Sie in ein anderes Bewohner-Park-Gebiet umziehen .",
+      "2,50 Euro für einen Ersatz-Bewohnerparkausweis"
+    ],
+    0.14081086218357086
+  ],
+  [
+    [
+      140,
+      70
+    ],
+    [
+      "Oder wenn Sie sich ein neues Fahrzeug gekauft haben und Sie ein neues Kennzeichen haben.",
+      "2,50 Euro für einen Ersatz-Bewohnerparkausweis"
+    ],
+    0.19455468654632568
+  ],
+  [
+    [
+      141,
+      70
+    ],
+    [
+      "2,50 Euro für einen Ersatz-Ausweis.",
+      "2,50 Euro für einen Ersatz-Bewohnerparkausweis"
+    ],
+    1.0000001192092896
+  ],
+  [
+    [
+      142,
+      70
+    ],
+    [
+      "Zum Beispiel: Wenn Sie einen neuen Park-Ausweis brauchen, weil Sie den alten Park-Ausweis verloren haben.",
+      "2,50 Euro für einen Ersatz-Bewohnerparkausweis"
+    ],
+    0.273100346326828
+  ],
+  [
+    [
+      143,
+      72
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Wenn Sie Ihren Bewohnerparkausweis online beantragen oder verlängern, ist im Verfahren eine elektronische Bezahlfunktion eingebunden."
+    ],
+    0.6707226634025574
+  ],
+  [
+    [
+      144,
+      73
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.6111986041069031
+  ],
+  [
+    [
+      145,
+      73
+    ],
+    [
+      "Oder Sie können mit Ihrer EC-Karte bezahlen.",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.710594654083252
+  ],
+  [
+    [
+      146,
+      73
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.20329244434833527
+  ],
+  [
+    [
+      147,
+      73
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.6208407282829285
+  ],
+  [
+    [
+      148,
+      73
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.6566737294197083
+  ],
+  [
+    [
+      149,
+      73
+    ],
+    [
+      "Weitere Informationen *",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.6043957471847534
+  ],
+  [
+    [
+      150,
+      73
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V ., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Weitere Informationen zu ePayment finden Sie unter der Überschrift \"Bewohnerparken online\"."
+    ],
+    0.22595596313476562
+  ]
+]

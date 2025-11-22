@@ -1,0 +1,541 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Jedes Medikament hat einen Beipackzettel.",
+      "Er steckt in jeder Medikamentenpackung, oft unhandlich gefaltet, und hat eigentlich die Aufgabe, Patienten umfassend über ihre Arznei zu informieren."
+    ],
+    0.7527972459793091
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Der Beipackzettel gibt Informationen über das Medikament.",
+      "Er steckt in jeder Medikamentenpackung, oft unhandlich gefaltet, und hat eigentlich die Aufgabe, Patienten umfassend über ihre Arznei zu informieren."
+    ],
+    0.804642915725708
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Der Beipackzettel heißt auch: Gebrauchsinformation.",
+      "Er steckt in jeder Medikamentenpackung, oft unhandlich gefaltet, und hat eigentlich die Aufgabe, Patienten umfassend über ihre Arznei zu informieren."
+    ],
+    0.6077669858932495
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Manchmal ist der Beipackzettel schwer verständlich.",
+      "Mit der kleinen Schrift, dem engen Zeilenabstand und dem dünnen Papier ist der Beipackzettel jedoch für viele vor allem ein Ärgernis."
+    ],
+    0.7157200574874878
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Er richtet sich nämlich an verschiedene Personen wie zum Beispiel:",
+      "\" Weil alle nur denkbaren Nebenwirkungen aufgelistet werden, sei die Therapietreue bisweilen sehr eingeschränkt, gibt die Pharmazeutin zu bedenken."
+    ],
+    0.4355420172214508
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "Patienten",
+      "\" Weil alle nur denkbaren Nebenwirkungen aufgelistet werden, sei die Therapietreue bisweilen sehr eingeschränkt, gibt die Pharmazeutin zu bedenken."
+    ],
+    0.4251025319099426
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Ärzte",
+      "\" Weil alle nur denkbaren Nebenwirkungen aufgelistet werden, sei die Therapietreue bisweilen sehr eingeschränkt, gibt die Pharmazeutin zu bedenken."
+    ],
+    0.4290183186531067
+  ],
+  [
+    [
+      7,
+      8
+    ],
+    [
+      "Apotheker",
+      "Die Schwierigkeit sei, so Lehr, dass die Medikamentenhersteller sich rechtlich absichern müssten, um Klagen zu vermeiden."
+    ],
+    0.39508146047592163
+  ],
+  [
+    [
+      8,
+      9
+    ],
+    [
+      "Der Inhalt des Beipackzettels ist gesetzlich geregelt.",
+      "Außerdem gebe es gesetzliche Vorgaben der Zulassungsbehörden, die die Inhalte der Beipackzettel vorschreiben."
+    ],
+    0.8533976078033447
+  ],
+  [
+    [
+      9,
+      9
+    ],
+    [
+      "Deshalb enthalten Beipackzettel oft diese Informationen: 1. Anwendungsgebiete .",
+      "Außerdem gebe es gesetzliche Vorgaben der Zulassungsbehörden, die die Inhalte der Beipackzettel vorschreiben."
+    ],
+    0.7026516795158386
+  ],
+  [
+    [
+      10,
+      11
+    ],
+    [
+      "Hier steht:",
+      "Auf einer Seite wird alles Wesentliche dargestellt."
+    ],
+    0.5508347153663635
+  ],
+  [
+    [
+      11,
+      18
+    ],
+    [
+      "Gegen welche Krankheiten wirkt ein Medikament?",
+      "Hier steht, gegen welche Erkrankungen und Beschwerden das Medikament eingenommen werden darf."
+    ],
+    0.8050609827041626
+  ],
+  [
+    [
+      12,
+      18
+    ],
+    [
+      "2. Warnhinweise .",
+      "Hier steht, gegen welche Erkrankungen und Beschwerden das Medikament eingenommen werden darf."
+    ],
+    0.4305301904678345
+  ],
+  [
+    [
+      13,
+      18
+    ],
+    [
+      "Hier steht: Wann darf ein Medikament nicht eingenommen werden?",
+      "Hier steht, gegen welche Erkrankungen und Beschwerden das Medikament eingenommen werden darf."
+    ],
+    0.8276283144950867
+  ],
+  [
+    [
+      14,
+      24
+    ],
+    [
+      "Mögliche Gründe können zum Beispiel sein: Allergie",
+      "Dazu zählen Gegenanzeigen (Kontraindikationen), also Krankheiten oder Beschwerden, bei denen das Medikament nicht angewendet werden darf."
+    ],
+    0.4790879786014557
+  ],
+  [
+    [
+      15,
+      24
+    ],
+    [
+      "Schwangerschaft",
+      "Dazu zählen Gegenanzeigen (Kontraindikationen), also Krankheiten oder Beschwerden, bei denen das Medikament nicht angewendet werden darf."
+    ],
+    0.26766085624694824
+  ],
+  [
+    [
+      16,
+      24
+    ],
+    [
+      "Stillzeit",
+      "Dazu zählen Gegenanzeigen (Kontraindikationen), also Krankheiten oder Beschwerden, bei denen das Medikament nicht angewendet werden darf."
+    ],
+    0.28130221366882324
+  ],
+  [
+    [
+      17,
+      26
+    ],
+    [
+      "In diesem Abschnitt des Beipackzettels werden auch mögliche Wechselwirkungen genannt.",
+      "\"Die Wechselwirkungen sind aber meist sehr komplex und zudem dosisabhängig."
+    ],
+    0.6858500838279724
+  ],
+  [
+    [
+      18,
+      26
+    ],
+    [
+      "Weitere Informationen zu Wechselwirkungen finden Sie hier .",
+      "\"Die Wechselwirkungen sind aber meist sehr komplex und zudem dosisabhängig."
+    ],
+    0.6356258392333984
+  ],
+  [
+    [
+      19,
+      30
+    ],
+    [
+      "3. Anwendung .",
+      "Der Abschnitt beschreibt, wie das Medikament richtig eingenommen und dosiert wird."
+    ],
+    0.4097716212272644
+  ],
+  [
+    [
+      20,
+      30
+    ],
+    [
+      "Hier steht:",
+      "Der Abschnitt beschreibt, wie das Medikament richtig eingenommen und dosiert wird."
+    ],
+    0.2749646306037903
+  ],
+  [
+    [
+      21,
+      30
+    ],
+    [
+      "Wie wird ein Medikament eingenommen?",
+      "Der Abschnitt beschreibt, wie das Medikament richtig eingenommen und dosiert wird."
+    ],
+    0.8017228245735168
+  ],
+  [
+    [
+      22,
+      33
+    ],
+    [
+      "In diesem Abschnitt des Beipackzettels finden Sie zum Beispiel Informationen über: die Menge die Tageszeit die Dauer der Einnahme Hinweis:",
+      "Und unbedingt die angegebene Tageshöchstdosis beachten."
+    ],
+    0.5533305406570435
+  ],
+  [
+    [
+      23,
+      33
+    ],
+    [
+      "Der Arzt hat Ihnen eine abweichende Anwendung verordnet?",
+      "Und unbedingt die angegebene Tageshöchstdosis beachten."
+    ],
+    0.585089385509491
+  ],
+  [
+    [
+      24,
+      33
+    ],
+    [
+      "Dann beachten Sie die Information des Arztes.",
+      "Und unbedingt die angegebene Tageshöchstdosis beachten."
+    ],
+    0.6001145839691162
+  ],
+  [
+    [
+      25,
+      33
+    ],
+    [
+      "Oder fragen Sie den Apotheker.",
+      "Und unbedingt die angegebene Tageshöchstdosis beachten."
+    ],
+    0.47438594698905945
+  ],
+  [
+    [
+      26,
+      35
+    ],
+    [
+      "4. Nebenwirkungen .",
+      "Das Problem: Nicht alle gelisteten Nebenwirkungen werden zwangsläufig durch das Medikament verursacht."
+    ],
+    0.7152186632156372
+  ],
+  [
+    [
+      27,
+      35
+    ],
+    [
+      "Hier steht:",
+      "Das Problem: Nicht alle gelisteten Nebenwirkungen werden zwangsläufig durch das Medikament verursacht."
+    ],
+    0.1296939253807068
+  ],
+  [
+    [
+      28,
+      35
+    ],
+    [
+      "Welche Nebenwirkungen kann ein Medikament haben?",
+      "Das Problem: Nicht alle gelisteten Nebenwirkungen werden zwangsläufig durch das Medikament verursacht."
+    ],
+    0.8119000196456909
+  ],
+  [
+    [
+      29,
+      35
+    ],
+    [
+      "In diesem Abschnitt des Beipackzettels stehen auch Informationen zur Häufigkeit von Nebenwirkungen.",
+      "Das Problem: Nicht alle gelisteten Nebenwirkungen werden zwangsläufig durch das Medikament verursacht."
+    ],
+    0.6288777589797974
+  ],
+  [
+    [
+      30,
+      37
+    ],
+    [
+      "5. Aufbewahrung .",
+      "Sie fordern zusätzliche Angaben, die das klarer he­rausstellen."
+    ],
+    0.42456966638565063
+  ],
+  [
+    [
+      31,
+      39
+    ],
+    [
+      "Hier steht:",
+      "Das sei Laien besser vermittelbar."
+    ],
+    0.4963582158088684
+  ],
+  [
+    [
+      32,
+      43
+    ],
+    [
+      "Wie wird das Medikament aufbewahrt?",
+      "Generell sollten Arzneimittel trocken, dunkel und bei Raumtemperatur aufbewahrt werden."
+    ],
+    0.642670750617981
+  ],
+  [
+    [
+      33,
+      43
+    ],
+    [
+      "Die meisten Medikamente sollen: trocken dunkel und bei Raumtemperatur aufbewahrt werden.",
+      "Generell sollten Arzneimittel trocken, dunkel und bei Raumtemperatur aufbewahrt werden."
+    ],
+    0.9794135093688965
+  ],
+  [
+    [
+      34,
+      44
+    ],
+    [
+      "Hinweis: Manche Medikamente müssen anders aufbewahrt werden.",
+      "Doch es gibt Ausnahmen, auf die der Patient achten sollte, damit die Arznei nicht an Wirkung verliert oder sogar Schaden anrichtet, beispielsweise weil sie verkeimt oder durch chemische Abbauprozesse unverträglich wird."
+    ],
+    0.7665272355079651
+  ],
+  [
+    [
+      35,
+      45
+    ],
+    [
+      "Beachten Sie deshalb immer die Hinweise auf dem Beipackzettel.",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.40185341238975525
+  ],
+  [
+    [
+      36,
+      45
+    ],
+    [
+      "6. Weitere Hinweise .",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.2356574982404709
+  ],
+  [
+    [
+      37,
+      45
+    ],
+    [
+      "Hier steht:",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.05070430785417557
+  ],
+  [
+    [
+      38,
+      45
+    ],
+    [
+      "Wo gibt es weitere Informationen zu diesem Medikament?",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.6120243072509766
+  ],
+  [
+    [
+      39,
+      45
+    ],
+    [
+      "Dazu gehören zum Beispiel Informationen über: das Aussehen die richtige Menge die Inhaltsstoffe des Medikaments Sie sind sich nicht sicher:",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.7599824070930481
+  ],
+  [
+    [
+      40,
+      45
+    ],
+    [
+      "Ist das Medikament für mich richtig?",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.4091830551624298
+  ],
+  [
+    [
+      41,
+      45
+    ],
+    [
+      "Oder Sie haben andere Fragen zu Ihrem Medikament?",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.5207212567329407
+  ],
+  [
+    [
+      42,
+      45
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt oder Apotheker.",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.3809186518192291
+  ],
+  [
+    [
+      43,
+      45
+    ],
+    [
+      "Sie finden den Beipackzettel nicht mehr?",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.14574983716011047
+  ],
+  [
+    [
+      44,
+      45
+    ],
+    [
+      "Dann finden Sie hier eine digitale Version.",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.16098490357398987
+  ],
+  [
+    [
+      45,
+      45
+    ],
+    [
+      "Sie wollen noch mehr über den Beipackzettel lesen?",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.33051401376724243
+  ],
+  [
+    [
+      46,
+      45
+    ],
+    [
+      "Mehr Informationen über den Beipackzettel finden Sie hier .",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.41248494386672974
+  ],
+  [
+    [
+      47,
+      45
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.22678311169147491
+  ],
+  [
+    [
+      48,
+      45
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Informationen zum Aussehen der Tabletten, zur Dosierung oder zu den enthaltenen Hilfsstoffen können wichtige Hinweise für ­Patienten sein, die etwa Farbstoffe oder Gluten nicht vertragen."
+    ],
+    0.28570085763931274
+  ]
+]

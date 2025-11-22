@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Es gibt günstige Miet-Wohnungen.",
+      "Mit einem Wohnberechtigungsschein (WBS) können Sie eine Wohnung beziehen, die mit öffentlichen Mitteln gefördert wird."
+    ],
+    0.6012974977493286
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Diese Miet-Wohnungen werden mit Geld vom Staat unterstützt.",
+      "Mit einem Wohnberechtigungsschein (WBS) können Sie eine Wohnung beziehen, die mit öffentlichen Mitteln gefördert wird."
+    ],
+    0.7425642013549805
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Die Miete ist deshalb nicht so teuer.",
+      "Mit einem Wohnberechtigungsschein (WBS) können Sie eine Wohnung beziehen, die mit öffentlichen Mitteln gefördert wird."
+    ],
+    0.5709563493728638
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Wenn Sie eine solche Wohnung mieten wollen:",
+      "Mit einem Wohnberechtigungsschein (WBS) können Sie eine Wohnung beziehen, die mit öffentlichen Mitteln gefördert wird."
+    ],
+    0.649389386177063
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Diese Bescheinigung heißt: Wohn-Berechtigungs-Schein.",
+      "Mit einem Wohnberechtigungsschein (WBS) können Sie eine Wohnung beziehen, die mit öffentlichen Mitteln gefördert wird."
+    ],
+    0.6512061357498169
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Das hängt davon ab, wie viel Geld Sie verdienen.",
+      "Ob Sie einen Wohnberechtigungsschein bekommen können, hängt von der Höhe Ihres Einkommens ab."
+    ],
+    0.6531456708908081
+  ],
+  [
+    [
+      14,
+      2
+    ],
+    [
+      "Ein WBS gilt nur in dem Bundes-Land, in dem er beantragt wurde.",
+      "Er gilt nur in dem Bundesland, in dem er ausgestellt wurde."
+    ],
+    0.8301130533218384
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Der WBS für Köln gilt also in ganz Nord-Rhein-Westfalen.",
+      "Ein Wohnberechtigungsschein aus Köln gilt also in ganz Nordrhein-Westfalen."
+    ],
+    0.812366783618927
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Ihre aktuelle Melde-Bescheinigung, wenn Sie nicht in Köln wohnen Darin steht die Adresse, wo Sie wohnen.",
+      "Ein Wohnberechtigungsschein aus Köln gilt also in ganz Nordrhein-Westfalen."
+    ],
+    0.8272660374641418
+  ],
+  [
+    [
+      24,
+      3
+    ],
+    [
+      "Ihre Aufenthalts-Genehmigung, wenn Sie aus dem Ausland nach Köln ziehen",
+      "Ein Wohnberechtigungsschein aus Köln gilt also in ganz Nordrhein-Westfalen."
+    ],
+    0.8934594988822937
+  ],
+  [
+    [
+      27,
+      4
+    ],
+    [
+      "Wichtig: Diese Bescheinigungen müssen noch 12 Monate oder länger gültig sein.",
+      "Er ist für 12 Monate gültig."
+    ],
+    0.8404843807220459
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "Nachweise zu Ihrem Einkommen",
+      "Einkommensnachweise Die Nachweise müssen Sie für die letzten 12 Monate vorlegen."
+    ],
+    0.7752634882926941
+  ],
+  [
+    [
+      34,
+      7
+    ],
+    [
+      "Die Nachweise müssen von den letzten 12 Monaten sein.",
+      "Einkommensnachweise Die Nachweise müssen Sie für die letzten 12 Monate vorlegen."
+    ],
+    0.7190446853637695
+  ],
+  [
+    [
+      37,
+      9
+    ],
+    [
+      "Zum Beispiel: Weil Sie einen anderen Arbeits-Platz haben oder weil Sie bald Eltern-Geld bekommen oder weil Sie bald kein Eltern-Geld mehr bekommen.",
+      "Das könnte zum Beispiel ein Wechsel des Arbeitsplatzes oder der Beginn oder Wegfall von Elterngeldzahlung sein."
+    ],
+    0.8498814105987549
+  ],
+  [
+    [
+      42,
+      19
+    ],
+    [
+      "Einkommens-Grenze heißt: So viel Geld dürfen Sie haben.",
+      "Einkommensgrenzen"
+    ],
+    0.7970935106277466
+  ],
+  [
+    [
+      44,
+      19
+    ],
+    [
+      "Es gibt einen Grund-Betrag und zusätzliche Beträge .",
+      "Einkommensgrenzen"
+    ],
+    0.5556244850158691
+  ],
+  [
+    [
+      45,
+      19
+    ],
+    [
+      "Zum Schluss vergleichen wir Ihre Einkommens-Grenze und Ihr Jahres-Einkommen.",
+      "Einkommensgrenzen"
+    ],
+    0.7357022166252136
+  ],
+  [
+    [
+      55,
+      21
+    ],
+    [
+      "Zum Beispiel: Haben Sie erst vor kurzer Zeit geheiratet ?",
+      "Sind Sie in einer besonderen Situation, zum Beispiel alleinerziehend, schwerbehindert, jung verheiratet?"
+    ],
+    0.6472856998443604
+  ],
+  [
+    [
+      56,
+      21
+    ],
+    [
+      "Erziehen Sie ein Kind alleine?",
+      "Sind Sie in einer besonderen Situation, zum Beispiel alleinerziehend, schwerbehindert, jung verheiratet?"
+    ],
+    0.6016913652420044
+  ],
+  [
+    [
+      57,
+      21
+    ],
+    [
+      "Haben Sie eine Behinderung ?",
+      "Sind Sie in einer besonderen Situation, zum Beispiel alleinerziehend, schwerbehindert, jung verheiratet?"
+    ],
+    0.7426139116287231
+  ],
+  [
+    [
+      58,
+      23
+    ],
+    [
+      "Die Einkommens-Grenze ist also immer unterschiedlich.",
+      "Die Einkommensgrenze setzt sich zusammen aus dem Grundbetrag und eventuellen Zuschlägen."
+    ],
+    0.7471445202827454
+  ],
+  [
+    [
+      60,
+      24
+    ],
+    [
+      "Wir rechnen Ihr Jahres-Brutto-Einkommen aus.",
+      "Dieser Grenze wird dann Ihr Jahreseinkommen gegenüber gestellt."
+    ],
+    0.8689205050468445
+  ],
+  [
+    [
+      61,
+      24
+    ],
+    [
+      "Das heißt: was Sie insgesamt in 1 Jahr verdienen .",
+      "Dieser Grenze wird dann Ihr Jahreseinkommen gegenüber gestellt."
+    ],
+    0.7758052349090576
+  ],
+  [
+    [
+      62,
+      24
+    ],
+    [
+      "Das ist das Geld, was Ihr Arbeit-Geber für Sie bezahlen muss.",
+      "Dieser Grenze wird dann Ihr Jahreseinkommen gegenüber gestellt."
+    ],
+    0.5769950747489929
+  ],
+  [
+    [
+      63,
+      24
+    ],
+    [
+      "Von Ihrem Jahres-Brutto-Einkommen ziehen wir Abschläge ab.",
+      "Dieser Grenze wird dann Ihr Jahreseinkommen gegenüber gestellt."
+    ],
+    0.8185644149780273
+  ],
+  [
+    [
+      65,
+      24
+    ],
+    [
+      "Dadurch wird der Betrag von Ihrem Jahres-Brutto-Einkommen kleiner.",
+      "Dieser Grenze wird dann Ihr Jahreseinkommen gegenüber gestellt."
+    ],
+    0.8288731575012207
+  ],
+  [
+    [
+      67,
+      33
+    ],
+    [
+      "Denn für den WBS dürfen Sie nicht zu viel Geld haben.",
+      "Für jede weitere Person gibt es einen Mehrbetrag."
+    ],
+    0.5675773620605469
+  ],
+  [
+    [
+      68,
+      37
+    ],
+    [
+      "Es gibt diese Abschläge:",
+      "Das sind im Einzelnen:"
+    ],
+    0.7502856254577637
+  ],
+  [
+    [
+      69,
+      39
+    ],
+    [
+      "Abzugs-Beträge : wenn Sie Steuern und Pflicht-Beiträge zu den gesetzlichen Sozial-Versicherungen zahlen.",
+      "Vom Jahresbruttoeinkommen werden Abzugsbeträge bis zu 34 Prozent insgesamt abgezogen, sofern Steuern und Pflichtbeiträge zu den gesetzlichen Sozialversicherungen geleistet werden."
+    ],
+    0.7934350967407227
+  ],
+  [
+    [
+      70,
+      40
+    ],
+    [
+      "Das sind: 12 Prozent für die Steuern von Ihrem Einkommen 12 Prozent für die Pflicht-Beiträge zu Ihrer Renten-Versicherung 10 Prozent für die Beiträge zu Ihrer Kranken-Versicherung und Pflege-Versicherung.",
+      "Das sind jeweils 12 Prozent für die Entrichtung von Pflichtbeiträgen zur Rentenversicherung sowie für die Zahlung von Steuern vom Einkommen und 10 Prozent für die Entrichtung von Beiträge zur Kranken- und Pflegeversicherung."
+    ],
+    0.9538406133651733
+  ],
+  [
+    [
+      71,
+      41
+    ],
+    [
+      "Werbungs-Kosten: Es gibt Beträge für Werbungs-Kosten, die von der Steuer abgezogen werden können.",
+      "Werbungskostenpauschalen Für Arbeitnehmerinnen und Arbeitnehmer, Beamtinnen und Beamte sowie Rentnerinnen und Rentner werden die Pauschbeträge als Freibetrag abgezogen, bei nachgewiesenen (Steuerbescheid) erhöhten Werbungskosten auch diese."
+    ],
+    0.8132838606834412
+  ],
+  [
+    [
+      75,
+      42
+    ],
+    [
+      "Wenn Sie uns das mit einem Steuer-Bescheid nachweisen, dann beachten wir das bei der Berechnung.",
+      "Genaueres erfragen Sie bitte bei Ihrer Sachbearbeitung."
+    ],
+    0.6309787631034851
+  ],
+  [
+    [
+      77,
+      44
+    ],
+    [
+      "Bei einer Schwer-Behinderung: haben Sie einen Frei-Betrag von 4.500 Euro Wenn Sie einen Grad der Behinderung von 100 Prozent haben.",
+      "Der Freibetrag beträgt 4.500 Euro für jede Person mit 100 Prozent Grad der Behinderung."
+    ],
+    0.9500309228897095
+  ],
+  [
+    [
+      78,
+      45
+    ],
+    [
+      "Oder wenn Sie einen Grad der Behinderung von wenigstens 80 Prozent haben und zu Hause Pflege brauchen.",
+      "Dieser Betrag wird auch abgezogen, wenn der Grad der Behinderung 80 Prozent oder mehr beträgt und die Person gleichzeitiger häuslicher Pflege bedarf."
+    ],
+    0.8843786716461182
+  ],
+  [
+    [
+      79,
+      46
+    ],
+    [
+      "Sie haben einen Frei-Betrag von 2.100 Euro : wenn Sie einen Grad der Behinderung von unter 80 Prozent haben und zu Hause Pflege brauchen.",
+      "Liegt der Grad der Behinderung bei gleichzeitiger häuslicher Pflegebedürftigkeit unter 80 Prozent, so beträgt der Freibetrag 2.100 Euro pro Person."
+    ],
+    0.9459284543991089
+  ],
+  [
+    [
+      80,
+      46
+    ],
+    [
+      "Bei einem Haushalt für 2 Personen: Ihr Frei-Betrag beträgt 4.000 Euro , wenn Sie ein Ehe-Paar sind.",
+      "Liegt der Grad der Behinderung bei gleichzeitiger häuslicher Pflegebedürftigkeit unter 80 Prozent, so beträgt der Freibetrag 2.100 Euro pro Person."
+    ],
+    0.6061135530471802
+  ],
+  [
+    [
+      81,
+      49
+    ],
+    [
+      "Und noch nicht länger als 5 Jahre verheiratet sind.",
+      "Bei Zwei-Personen-Haushalte mit mindestens einem weiteren Haushaltsangehörigen wird automatisch geprüft, ob es sich um ein \"junges Ehepaar\" handelt."
+    ],
+    0.5658951997756958
+  ],
+  [
+    [
+      91,
+      51
+    ],
+    [
+      "Dann werden höchstens 4.000 Euro oder 8.000 Euro abgezogen.",
+      "Unterhaltsverpflichtete Abgezogen werden nachgewiesene Beträge in Höhe von maximal 4.000 Euro/8.000 Euro."
+    ],
+    0.8303698897361755
+  ],
+  [
+    [
+      93,
+      52
+    ],
+    [
+      "Ihr Sach-Bearbeiter oder Ihre Sach-Bearbeiterin prüft das genau.",
+      "Eine genaue Prüfung erfolgt durch Ihren Sachbearbeiter."
+    ],
+    0.8144556283950806
+  ],
+  [
+    [
+      101,
+      55
+    ],
+    [
+      "In der Stadt, in der Sie einen WBS beantragen, werden Sie in eine Liste eingetragen.",
+      "Dort, wo Sie den Wohnberechtigungsschein beantragen, werden Sie als wohnungssuchend erfasst."
+    ],
+    0.7009565830230713
+  ],
+  [
+    [
+      105,
+      61
+    ],
+    [
+      "Der WBS für ein anderes Bundes-Land",
+      "Wohnberechtigungsschein für ein anderes Bundesland"
+    ],
+    0.6341286897659302
+  ],
+  [
+    [
+      106,
+      62
+    ],
+    [
+      "Wenn Sie in einem anderen Bundes-Land eine Wohnung suchen:",
+      "Wenn Sie in einer Gemeinde eines anderen Bundeslandes als Nordrhein-Westfalen eine Wohnung suchen wollen, dann müssen Sie in diesem Bundesland den Wohnberechtigungsschein beantragen."
+    ],
+    0.8125895261764526
+  ],
+  [
+    [
+      109,
+      62
+    ],
+    [
+      "Auch wenn Sie zum Beispiel noch in Rheinland-Pfalz wohnen.",
+      "Wenn Sie in einer Gemeinde eines anderen Bundeslandes als Nordrhein-Westfalen eine Wohnung suchen wollen, dann müssen Sie in diesem Bundesland den Wohnberechtigungsschein beantragen."
+    ],
+    0.6502605676651001
+  ],
+  [
+    [
+      110,
+      64
+    ],
+    [
+      "Ein WBS aus einem anderen Bundes-Land ist bei uns in Nordrhein-Westfalen nicht gültig.",
+      "Vorhandene Wohnberechtigungsscheine aus anderen Bundesländern können hier nicht umgeschrieben werden."
+    ],
+    0.7038966417312622
+  ],
+  [
+    [
+      111,
+      65
+    ],
+    [
+      "Wie geht es weiter, wenn ich einen WBS habe?",
+      "Wie geht es dann weiter?"
+    ],
+    0.6149725914001465
+  ],
+  [
+    [
+      113,
+      66
+    ],
+    [
+      "Diese Wohnungen werden mit Geldern vom Staat unterstützt.",
+      "Wird Ihnen ein Wohnberechtigungsschein ausgestellt, dann berechtigt er Sie zum Wohnen in einer Wohnung, die mit öffentlichen Mitteln gefördert wird."
+    ],
+    0.7749395370483398
+  ],
+  [
+    [
+      118,
+      72
+    ],
+    [
+      "Beides muss zu der Größe von der Wohnung passen.",
+      "\" Je nach Anzahl der Personen Ihres Haushaltes wird eine Quadratmeterzahl festgelegt, wie groß Ihre Wohnung sein darf."
+    ],
+    0.7738016843795776
+  ],
+  [
+    [
+      119,
+      72
+    ],
+    [
+      "Was ist, wenn eine Wohnung größer ist als in der Liste?",
+      "\" Je nach Anzahl der Personen Ihres Haushaltes wird eine Quadratmeterzahl festgelegt, wie groß Ihre Wohnung sein darf."
+    ],
+    0.7388169765472412
+  ],
+  [
+    [
+      120,
+      73
+    ],
+    [
+      "Eine Wohnung darf höchstens 5 Quadrat-Meter größer sein als in der Liste.",
+      "Von den genannten Wohnungsgrößen sind Abweichungen von maximal 5 Quadratmetern zusätzlich erlaubt."
+    ],
+    0.8874825239181519
+  ],
+  [
+    [
+      121,
+      74
+    ],
+    [
+      "Wo kann ich eine Wohnung finden?",
+      "Mit dem Wohnberechtigungsschein können Sie in den Zeitungen eine Wohnung suchen, und Sie können direkt an Wohnungsgesellschaften oder private Vermieterinnen und Vermieter herantreten."
+    ],
+    0.6555676460266113
+  ],
+  [
+    [
+      125,
+      74
+    ],
+    [
+      "Sie können auch private Vermieter oder Vermieterinnen danach fragen.",
+      "Mit dem Wohnberechtigungsschein können Sie in den Zeitungen eine Wohnung suchen, und Sie können direkt an Wohnungsgesellschaften oder private Vermieterinnen und Vermieter herantreten."
+    ],
+    0.8076250553131104
+  ],
+  [
+    [
+      128,
+      75
+    ],
+    [
+      "Vorher muss man viele Fragen klären.",
+      "Vorsprache"
+    ],
+    0.5732476115226746
+  ],
+  [
+    [
+      130,
+      76
+    ],
+    [
+      "Sie können Ihren Antrag aber auch ausfüllen und uns mit der Post schicken.",
+      "Sie können Ihren Antrag per Post, online oder eingescannt über unser sicheres Kontaktformular stellen."
+    ],
+    0.8220889568328857
+  ],
+  [
+    [
+      131,
+      80
+    ],
+    [
+      "Dann bekommen Sie von uns meistens eine Antwort nach ungefähr 2 Wochen.",
+      "Sie erhalten im Regelfall innerhalb von zwei Wochen eine Rückmeldung auf Ihren Antrag."
+    ],
+    0.8558210134506226
+  ],
+  [
+    [
+      132,
+      81
+    ],
+    [
+      "Wie viel kostet der WBS?",
+      "Gebühren"
+    ],
+    0.6390199661254883
+  ],
+  [
+    [
+      133,
+      83
+    ],
+    [
+      "Der WBS kostet zwischen 7,50 Euro und 20 Euro .",
+      "Die Gebühr in Höhe von 7,50 Euro oder 20 Euro muss bei Antragstellung bezahlt werden."
+    ],
+    0.6869584321975708
+  ],
+  [
+    [
+      136,
+      85
+    ],
+    [
+      "Die Infos zum WBS stehen im Gesetz zur Förderung und Nutzung von Wohn-Raum .",
+      "Rechtliche Voraussetzungen §§ 13, 14, 15, 18 Gesetz zur Förderung und Nutzung von Wohnraum"
+    ],
+    0.7938262224197388
+  ],
+  [
+    [
+      138,
+      86
+    ],
+    [
+      "WFNG NRW.",
+      "WFNG"
+    ],
+    0.9096881151199341
+  ],
+  [
+    [
+      142,
+      88
+    ],
+    [
+      "Weitere Infos dazu stehen in Nummer 8 Wohn-Raumnutzungs-Bestimmungen und Nummer 1 bis 10 Einkommens-Ermittlungs-Erlass.",
+      "Wohnraumnutzungsbestimmungen und Nummer 1 bis 10"
+    ],
+    0.8629787564277649
+  ]
+]

@@ -1,0 +1,475 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Lungenentzündung ist eine Erkrankung der Atemwege.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.8259958028793335
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Fachwort für Lungenentzündung ist: Pneumonie.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.7630809545516968
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Bei einer Lungenentzündung entzünden sich die Lungenbläschen oder das Lungengewebe.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.9491488337516785
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Manchmal sind bei einer Lungenentzündung Lungenbläschen und Lungengewebe entzündet.",
+      "Bei der Lungenentzündung sind die Lungenbläschen (Alveolen) und/oder das dazwischen liegende Lungengewebe entzündet."
+    ],
+    0.9236118793487549
+  ],
+  [
+    [
+      4,
+      5
+    ],
+    [
+      "Dann wird das entzündete Gewebe dicker.",
+      "Sowohl für die Diagnose als auch für die Therapie ist es allerdings nicht enscheidend, wo genau sich die Entzündung abspielt, sondern eher, wodurch sie verursacht wurde."
+    ],
+    0.49174928665161133
+  ],
+  [
+    [
+      5,
+      5
+    ],
+    [
+      "Deshalb kann der Sauerstoff nicht mehr so leicht ins Blut.",
+      "Sowohl für die Diagnose als auch für die Therapie ist es allerdings nicht enscheidend, wo genau sich die Entzündung abspielt, sondern eher, wodurch sie verursacht wurde."
+    ],
+    0.08311355113983154
+  ],
+  [
+    [
+      6,
+      14
+    ],
+    [
+      "Eine Lungenentzündung kann verschiedene Anzeichen haben.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9207854270935059
+  ],
+  [
+    [
+      7,
+      14
+    ],
+    [
+      "Anzeichen einer Lungenentzündung sind zum Beispiel: Schwäche starkes Krankheitsgefühl",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.8729152679443359
+  ],
+  [
+    [
+      13,
+      14
+    ],
+    [
+      "Atemnot Sie glauben: Ich habe vielleicht eine Lungenentzündung?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9211910963058472
+  ],
+  [
+    [
+      16,
+      14
+    ],
+    [
+      "Es gibt drei verschiedene Arten einer Lungenentzündung: infektiöse Lungenentzündung, nicht-infektiöse Lungenentzündung und die Aspirations-Pneumonie.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9500802755355835
+  ],
+  [
+    [
+      17,
+      14
+    ],
+    [
+      "Infektiöse Lungenentzündung: Die häufigste Ursache einer infektiösen Lungenentzündung sind Bakterien.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9459614157676697
+  ],
+  [
+    [
+      18,
+      14
+    ],
+    [
+      "Andere Ursachen einer infektiösen Lungenentzündung sind zum Beispiel:",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9018410444259644
+  ],
+  [
+    [
+      20,
+      14
+    ],
+    [
+      "Die Erreger einer infektiösen Lungenentzündung werden durch Tröpfchen-Infektion übertragen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9073777794837952
+  ],
+  [
+    [
+      21,
+      14
+    ],
+    [
+      "Das bedeutet: Die Erreger gelangen über Körper-Flüssigkeiten zu anderen Personen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.0924592837691307
+  ],
+  [
+    [
+      23,
+      14
+    ],
+    [
+      "Nicht-infektiöse Lungenentzündung: Die häufigsten Ursachen einer nicht-infektiösen Lungenentzündung sind zum Beispiel:",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9369096159934998
+  ],
+  [
+    [
+      24,
+      14
+    ],
+    [
+      "Strahlen von einer Strahlentherapie eingeatmete Gase Durchblutungsstörungen",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.15590991079807281
+  ],
+  [
+    [
+      26,
+      14
+    ],
+    [
+      "Aspirations-Pneumonie: In Ihre Lunge gelangen Nahrungsreste oder Magensäure?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.5660155415534973
+  ],
+  [
+    [
+      27,
+      14
+    ],
+    [
+      "Dann können Sie eine Lungenentzündung bekommen.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9173012375831604
+  ],
+  [
+    [
+      28,
+      14
+    ],
+    [
+      "Das Fachwort für diese Art der Lungenentzündung ist: Aspirations-Pneumonie.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.8103629946708679
+  ],
+  [
+    [
+      30,
+      14
+    ],
+    [
+      "Schluckstörungen können zum Beispiel durch diese Krankheiten entstehen:",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.1686994433403015
+  ],
+  [
+    [
+      33,
+      14
+    ],
+    [
+      "Sie glauben: Ich habe eine Lungenentzündung?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9244664907455444
+  ],
+  [
+    [
+      36,
+      14
+    ],
+    [
+      "Eine Lungenentzündung kann verschiedene Ursachen haben.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9147171974182129
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Deshalb ist die Behandlung immer unterschiedlich.",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.1875375211238861
+  ],
+  [
+    [
+      38,
+      14
+    ],
+    [
+      "Bakterien haben die Lungenentzündung ausgelöst?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9243801236152649
+  ],
+  [
+    [
+      40,
+      14
+    ],
+    [
+      "Die Lungenentzündung hat andere Ursachen?",
+      "Infektiöse Lungenentzündung"
+    ],
+    0.9218710660934448
+  ],
+  [
+    [
+      41,
+      27
+    ],
+    [
+      "Dann bekommen Patienten eine andere Behandlung.",
+      "Sie treten vorzugsweise unter intensivmedizinischer Behandlung auf."
+    ],
+    0.5959265828132629
+  ],
+  [
+    [
+      42,
+      27
+    ],
+    [
+      "Sie haben Fragen zur Behandlung?",
+      "Sie treten vorzugsweise unter intensivmedizinischer Behandlung auf."
+    ],
+    0.6394508481025696
+  ],
+  [
+    [
+      43,
+      66
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Reichen diese Maßnahmen des Körpers nicht aus, um den Sauerstoffmangel zu beheben, können sich die Lippen und das Nagelbett bläulich verfärben (Zyanose)."
+    ],
+    0.14541096985340118
+  ],
+  [
+    [
+      44,
+      99
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Bei Patienten im Krankenhaus, komplizierten Verläufen oder wenn der Arzt eine Infektion mit seltenen Erregern vermutet, kann sie jedoch sinnvoll sein."
+    ],
+    0.13816484808921814
+  ],
+  [
+    [
+      45,
+      107
+    ],
+    [
+      "Sie möchten eine Lungenentzündung vermeiden?",
+      "Das Kapitel \"Therapie\" bezieht sich vor allem auf infektiöse Lungenentzündungen."
+    ],
+    0.8511702418327332
+  ],
+  [
+    [
+      46,
+      140
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Ansonsten gesunde Menschen können sich dabei meist auf ihr Durstgefühl verlassen."
+    ],
+    0.22857524454593658
+  ],
+  [
+    [
+      47,
+      154
+    ],
+    [
+      "Bewegen Sie sich regelmäßig an der frischen Luft.",
+      "Mit einer gesunden Lebensführung und regelmäßiger Bewegung an der frischen Luft lässt sich das Immunsystem stärken."
+    ],
+    0.33054450154304504
+  ],
+  [
+    [
+      48,
+      162
+    ],
+    [
+      "Rauchen Sie nicht.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.2796594798564911
+  ],
+  [
+    [
+      49,
+      162
+    ],
+    [
+      "Ärzte empfehlen auch: Lassen Sie sich gegen die Grippe impfen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.29192405939102173
+  ],
+  [
+    [
+      50,
+      162
+    ],
+    [
+      "Und lassen Sie sich gegen Pneumokokken impfen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.15165390074253082
+  ],
+  [
+    [
+      51,
+      162
+    ],
+    [
+      "Pneumokokken sind Bakterien.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.05471239238977432
+  ],
+  [
+    [
+      52,
+      162
+    ],
+    [
+      "Pneumokokken können eine Lungenentzündung verursachen.",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.060979899019002914
+  ],
+  [
+    [
+      53,
+      162
+    ],
+    [
+      "Sie lassen sich impfen?",
+      "Wenn Sie wissen wollen, ob eine entsprechende Impfung für Sie oder Ihr Kind sinnvoll ist, lassen Sie sich von Ihrem Arzt beraten."
+    ],
+    0.32342126965522766
+  ],
+  [
+    [
+      54,
+      164
+    ],
+    [
+      "Dann ist die Lungenentzündung vielleicht weniger schlimm.",
+      "Peter Haidl ist Internist mit Schwerpunkt Lungen- und Bronchialheilkunde."
+    ],
+    0.46513405442237854
+  ],
+  [
+    [
+      55,
+      164
+    ],
+    [
+      "Sie möchten noch mehr über die Lungenentzündung lesen?",
+      "Peter Haidl ist Internist mit Schwerpunkt Lungen- und Bronchialheilkunde."
+    ],
+    0.4579075872898102
+  ],
+  [
+    [
+      56,
+      164
+    ],
+    [
+      "Mehr Informationen über die Lungenentzündung finden Sie hier .",
+      "Peter Haidl ist Internist mit Schwerpunkt Lungen- und Bronchialheilkunde."
+    ],
+    0.4552384912967682
+  ],
+  [
+    [
+      57,
+      167
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.17192308604717255
+  ],
+  [
+    [
+      58,
+      167
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wissenschaftliche Schwerpunkte seiner Arbeit sind die medikamentöse Behandlung von obstruktiven Lungenerkrankungen, insbesondere die Therapie mit Aerosolen und die Sauerstofftherapie."
+    ],
+    0.06397322565317154
+  ]
+]

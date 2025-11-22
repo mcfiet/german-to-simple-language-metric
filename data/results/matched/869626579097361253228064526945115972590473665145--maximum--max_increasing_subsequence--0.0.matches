@@ -1,0 +1,299 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Auf dem Boden vom Fußball·feld muss Gras sein.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.3233913481235504
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Das Gras darf auch aus Plastik sein.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.5093988180160522
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Aber nur wenn es erlaubtes Gras aus Plastik ist.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.5087022185325623
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Das Gras muss entweder echt sein oder aus Plastik.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.5552727580070496
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Manchmal darf aber auch beides gemischt sein.",
+      "Das Spielfeld muss vollständig aus einer Natur- oder, sofern gemäß den Wettbewerbsbestimmungen zulässig, einer Kunstrasenunterlage bestehen, es sei denn, die Wettbewerbsbestimmungen lassen eine Kombination aus Kunst- und Naturrasenmaterialien (Hybridsystem) zu."
+    ],
+    0.4556352198123932
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Hauptsache das Gras ist grün.",
+      "Kunstrasenfelder sind grün."
+    ],
+    0.48450767993927
+  ],
+  [
+    [
+      6,
+      4
+    ],
+    [
+      "Das Fußball·feld hat vier Ecken.",
+      "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf."
+    ],
+    0.4131277799606323
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Auf dem Fußball·feld sind viele Linien.",
+      "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf."
+    ],
+    0.40268170833587646
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Die Linien dürfen keinem wehtun.",
+      "Das Spielfeld ist rechteckig und wird mit durchgezogenen Linien gekennzeichnet, von denen keinerlei Gefahr ausgehen darf."
+    ],
+    0.457525372505188
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Manchmal geht die Stange vom Tor kaputt.",
+      "(…) Falls die Querlatte verschoben wird oder bricht, wird das Spiel unterbrochen, bis sie repariert oder wieder in die richtige Lage gebracht wurde."
+    ],
+    0.46152153611183167
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Dann muss die Stange repariert werden.",
+      "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden."
+    ],
+    0.6714399456977844
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Aber manchmal klappt das nicht.",
+      "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden."
+    ],
+    0.6060600280761719
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Dann ist das Spiel für heute zu Ende.",
+      "Wenn sie nicht repariert werden kann, muss das Spiel abgebrochen werden."
+    ],
+    0.4863256514072418
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Die Fahnen sollen bunt sein.",
+      "Sämtliche Bälle müssen kugelförmig sein."
+    ],
+    0.5592170357704163
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Das Tor darf silbern sein.",
+      "Sämtliche Bälle müssen kugelförmig sein."
+    ],
+    0.5131226181983948
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "Die Fußbälle müssen rund sein.",
+      "Sämtliche Bälle müssen kugelförmig sein."
+    ],
+    0.6601386666297913
+  ],
+  [
+    [
+      16,
+      10
+    ],
+    [
+      "Manchmal verliert ein Spieler aus Versehen einen Schuh.",
+      "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen."
+    ],
+    0.5430017709732056
+  ],
+  [
+    [
+      17,
+      10
+    ],
+    [
+      "Dann muss er den Schuh ganz schnell wieder anziehen.",
+      "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen."
+    ],
+    0.5910277962684631
+  ],
+  [
+    [
+      18,
+      10
+    ],
+    [
+      "Manchmal dauert das aber.",
+      "(…) Spieler, die versehentlich ihre Schuhe oder Schienbeinschoner verlieren, müssen diese so schnell wie möglich, spätestens jedoch in der folgenden Spielunterbrechung wieder anziehen."
+    ],
+    0.41809728741645813
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Vielleicht schießt der Spieler vorher sogar ein Tor.",
+      "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer."
+    ],
+    0.675247073173523
+  ],
+  [
+    [
+      20,
+      11
+    ],
+    [
+      "Dann zählt das Tor trotzdem.",
+      "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer."
+    ],
+    0.5614061951637268
+  ],
+  [
+    [
+      21,
+      11
+    ],
+    [
+      "Manchmal schießt ein Spieler ein Tor.",
+      "Wenn der Spieler davor den Ball spielt und /oder ein Tor erzielt, zählt der Treffer."
+    ],
+    0.6419536471366882
+  ],
+  [
+    [
+      22,
+      12
+    ],
+    [
+      "Dann dürfen sich alle Spieler freuen.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.5184466242790222
+  ],
+  [
+    [
+      23,
+      12
+    ],
+    [
+      "Aber sie sollen nicht doll tanzen oder trödeln.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.5403878092765808
+  ],
+  [
+    [
+      24,
+      12
+    ],
+    [
+      "Manchmal rennen Spieler vor Freude vom Platz.",
+      "Spieler dürfen nach einem Tor jubeln, solange sie es nicht übertreiben."
+    ],
+    0.49064895510673523
+  ],
+  [
+    [
+      25,
+      14
+    ],
+    [
+      "Das ist in Ordnung.",
+      "Das Verlassen des Spielfelds beim Torjubel ist an sich noch kein verwarnungswürdiges Vergehen."
+    ],
+    0.49558934569358826
+  ],
+  [
+    [
+      26,
+      15
+    ],
+    [
+      "Sie sollen nur schnell wieder zurück·kommen.",
+      "Die Spieler sind gehalten, so rasch wie möglich zurückzukehren."
+    ],
+    0.4104350209236145
+  ]
+]

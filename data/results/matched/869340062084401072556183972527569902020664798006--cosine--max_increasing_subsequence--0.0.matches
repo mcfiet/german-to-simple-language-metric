@@ -1,0 +1,794 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Bei einem Hörsturz können betroffene Personen plötzlich nicht mehr gut hören.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.7118894457817078
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Ein Hörsturz hat keine erkennbare Ursache.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.33512142300605774
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Meist ist nur ein Ohr von dem Hörsturz betroffen.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4729480743408203
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Ein Hörsturz ist kein Notfall.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.19161801040172577
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Aber betroffene Personen sollten trotzdem zum Arzt gehen.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.8271701335906982
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Die Hörminderung kann nämlich ein Anzeichen für eine andere Erkrankung sein.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6051879525184631
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Hinweis: Sie hören auf einem Ohr plötzlich schlecht?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6561442613601685
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Dann kann das auch andere Ursachen haben.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6631531119346619
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Die Ursache kann zum Beispiel Ohrenschmalz oder eine Mittelohr-Entzündung sein.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5813028216362
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.626594066619873
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Der Arzt untersucht die Ursache für die Hörminderung.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5256991982460022
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Ein Hörsturz kann verschiedene Anzeichen haben:",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5008800029754639
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Sie hören auf einem Ohr plötzlich nichts?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6313002109527588
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Sie hören auf einem Ohr plötzlich schlecht?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6273373961448669
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Musik und Stimmen klingen anders als gewöhnlich?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4668133556842804
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sie erkennen nicht mehr, aus welcher Richtung ein Geräusch kommt?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6820942163467407
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Laute Geräusche sind unangenehm?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.34652602672576904
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "Ihr Ohr fühlt sich an wie in Watte gepackt?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4652663469314575
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Sie haben ein Druckgefühl auf dem Ohr?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5705384612083435
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Sie haben störende Ohrgeräusche?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5849871635437012
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Ihnen ist schwindelig?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.3234974145889282
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Dann haben Sie vielleicht einen Hörsturz.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.7514960765838623
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.626594066619873
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Der Arzt hilft Ihnen weiter.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5246114730834961
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Bei einem Hörsturz erreicht der Schall das Innenohr.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.38583844900131226
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Im Innenohr werden die Signale aber nicht mehr richtig weitergeleitet.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5275046229362488
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "Ärzte wissen nicht genau:",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.7160985469818115
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Was sind die Ursachen von einem Hörsturz?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5332034826278687
+  ],
+  [
+    [
+      28,
+      1
+    ],
+    [
+      "Die Ursachen für einen Hörsturz könnten sein:",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6051382422447205
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Das Innenohr wird nicht richtig durchblutet.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.39033159613609314
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Deshalb können die Zellen im Ohr nicht richtig arbeiten.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6898279190063477
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "Und die Signale können dann nicht weitergeleitet werden.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6834619045257568
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Die Nervenzellen geben die Informationen falsch weiter.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.4597669839859009
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Im Ohr ist eine Entzündung oder eine Infektion.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.35392332077026367
+  ],
+  [
+    [
+      34,
+      1
+    ],
+    [
+      "Stress.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.346750408411026
+  ],
+  [
+    [
+      35,
+      1
+    ],
+    [
+      "Hinweis: Die Hörminderung entsteht zum Beispiel durch einen plötzlichen Knall und das ist die Ursache?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5617032647132874
+  ],
+  [
+    [
+      36,
+      1
+    ],
+    [
+      "Dann liegt kein Hörsturz vor.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.3986884355545044
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Der Arzt spricht dann nämlich von einem Knalltrauma.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.5855208039283752
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Die Ursache ist nicht erkennbar?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.31926852464675903
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Nur dann spricht der Arzt von einem Hörsturz.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6715128421783447
+  ],
+  [
+    [
+      40,
+      1
+    ],
+    [
+      "Sie hören plötzlich nicht mehr gut?",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6283605098724365
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Dann sollten Sie zum Arzt gehen.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.741291880607605
+  ],
+  [
+    [
+      42,
+      1
+    ],
+    [
+      "Der Arzt untersucht Sie und hilft Ihnen.",
+      "Betroffene sollten dennoch möglichst bald einen fachkundigen Arzt aufsuchen."
+    ],
+    0.6215639710426331
+  ],
+  [
+    [
+      43,
+      2
+    ],
+    [
+      "Ärzte kennen die Ursache für einen Hörsturz bislang nicht.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.7549875974655151
+  ],
+  [
+    [
+      44,
+      2
+    ],
+    [
+      "Aber es gibt verschiedene Behandlungen.",
+      "Denn möglicherweise handelt es sich ja gar nicht um einen Hörsturz, sondern um eine andere Krankheit, die rasch behandelt oder weiter abgeklärt werden muss."
+    ],
+    0.6891548037528992
+  ],
+  [
+    [
+      45,
+      5
+    ],
+    [
+      "Die Behandlungen haben Vorteile.",
+      "Auf der anderen Seite kann bei leichter und mäßiger Einschränkung des Hörvermögens auch einige wenige Tage abgewartet werden, ob eine Spontanbesserung eintritt – was häufig der Fall ist."
+    ],
+    0.5322129130363464
+  ],
+  [
+    [
+      46,
+      5
+    ],
+    [
+      "Die Behandlungen haben aber manchmal auch Nachteile.",
+      "Auf der anderen Seite kann bei leichter und mäßiger Einschränkung des Hörvermögens auch einige wenige Tage abgewartet werden, ob eine Spontanbesserung eintritt – was häufig der Fall ist."
+    ],
+    0.7585776448249817
+  ],
+  [
+    [
+      47,
+      5
+    ],
+    [
+      "Sprechen Sie daher immer mit Ihrem Arzt.",
+      "Auf der anderen Seite kann bei leichter und mäßiger Einschränkung des Hörvermögens auch einige wenige Tage abgewartet werden, ob eine Spontanbesserung eintritt – was häufig der Fall ist."
+    ],
+    0.48583775758743286
+  ],
+  [
+    [
+      48,
+      5
+    ],
+    [
+      "Ihr Arzt sagt Ihnen: Welche Behandlung ist für Sie gut?",
+      "Auf der anderen Seite kann bei leichter und mäßiger Einschränkung des Hörvermögens auch einige wenige Tage abgewartet werden, ob eine Spontanbesserung eintritt – was häufig der Fall ist."
+    ],
+    0.4168454110622406
+  ],
+  [
+    [
+      49,
+      5
+    ],
+    [
+      "Was sind die Vorteile der Behandlung?",
+      "Auf der anderen Seite kann bei leichter und mäßiger Einschränkung des Hörvermögens auch einige wenige Tage abgewartet werden, ob eine Spontanbesserung eintritt – was häufig der Fall ist."
+    ],
+    0.7203571200370789
+  ],
+  [
+    [
+      50,
+      5
+    ],
+    [
+      "Was sind die Nebenwirkungen der Behandlung?",
+      "Auf der anderen Seite kann bei leichter und mäßiger Einschränkung des Hörvermögens auch einige wenige Tage abgewartet werden, ob eine Spontanbesserung eintritt – was häufig der Fall ist."
+    ],
+    0.7177753448486328
+  ],
+  [
+    [
+      51,
+      6
+    ],
+    [
+      "Der Hörsturz ist nur leicht?",
+      "Ungeklärt ist leider, welche Behandlung am besten hilft."
+    ],
+    0.50826495885849
+  ],
+  [
+    [
+      52,
+      8
+    ],
+    [
+      "Und Sie haben keine starken Beschwerden?",
+      "Manche scheinen sich eher zu bewähren als andere."
+    ],
+    0.5376831889152527
+  ],
+  [
+    [
+      53,
+      8
+    ],
+    [
+      "Dann sollten Sie trotzdem zum Arzt gehen.",
+      "Manche scheinen sich eher zu bewähren als andere."
+    ],
+    0.5000917911529541
+  ],
+  [
+    [
+      54,
+      8
+    ],
+    [
+      "Der Arzt sagt dann vielleicht:",
+      "Manche scheinen sich eher zu bewähren als andere."
+    ],
+    0.2341153472661972
+  ],
+  [
+    [
+      55,
+      9
+    ],
+    [
+      "Der Hörsturz heilt von allein.",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.2038358747959137
+  ],
+  [
+    [
+      56,
+      9
+    ],
+    [
+      "Der Hörsturz ist schwerer?",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.21085788309574127
+  ],
+  [
+    [
+      57,
+      9
+    ],
+    [
+      "Und Sie haben starke Beschwerden?",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.3886474072933197
+  ],
+  [
+    [
+      58,
+      9
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Kortison.",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.37890371680259705
+  ],
+  [
+    [
+      59,
+      9
+    ],
+    [
+      "Kortison ist ein Medikament.",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.33118999004364014
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Kortison wirkt gegen Entzündungen und gegen Schwellungen.",
+      "Sehr häufig kommen entzündungshemmende Mittel zum Einsatz."
+    ],
+    0.6150392293930054
+  ],
+  [
+    [
+      61,
+      10
+    ],
+    [
+      "Der Arzt kann Ihnen Kortison als Tablette oder als Infusion geben.",
+      "Ob überhaupt eine Therapie nötig ist, muss individuell mit dem Arzt besprochen werden."
+    ],
+    0.6801475286483765
+  ],
+  [
+    [
+      62,
+      10
+    ],
+    [
+      "Eine Infusion ist eine Flüssigkeit.",
+      "Ob überhaupt eine Therapie nötig ist, muss individuell mit dem Arzt besprochen werden."
+    ],
+    0.5638502240180969
+  ],
+  [
+    [
+      63,
+      12
+    ],
+    [
+      "Diese bekommen Sie durch eine Vene.",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.7175255417823792
+  ],
+  [
+    [
+      64,
+      12
+    ],
+    [
+      "Achtung: Sprechen Sie vor der Behandlung immer mit Ihrem Arzt.",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.7569368481636047
+  ],
+  [
+    [
+      65,
+      12
+    ],
+    [
+      "Sie wissen nicht:",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.7009163498878479
+  ],
+  [
+    [
+      66,
+      12
+    ],
+    [
+      "Ist die vorgeschlagene Behandlung wirklich gut für mich?",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.48642808198928833
+  ],
+  [
+    [
+      67,
+      12
+    ],
+    [
+      "Dann fragen Sie auch einen zweiten Arzt.",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.7382588982582092
+  ],
+  [
+    [
+      68,
+      12
+    ],
+    [
+      "Sie wollen noch mehr über den Hörsturz lesen?",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.8159102201461792
+  ],
+  [
+    [
+      69,
+      12
+    ],
+    [
+      "Mehr Informationen über den Hörsturz finden Sie hier .",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.8082210421562195
+  ],
+  [
+    [
+      70,
+      12
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Hier lesen Sie mehr über die Therapie bei einem Hörsturz."
+    ],
+    0.44145604968070984
+  ],
+  [
+    [
+      71,
+      14
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Denn es gibt viele mögliche Gründe, wenn das Hörorgan auf einmal nicht mehr richtig funktioniert – eine Mittelohrentzündung kann ebenso schuld sein wie ein Pfropf aus Ohrenschmalz, der den Gehörgang verstopft."
+    ],
+    0.6310712099075317
+  ]
+]

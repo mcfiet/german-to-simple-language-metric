@@ -1,0 +1,530 @@
+[
+  [
+    [
+      0,
+      4
+    ],
+    [
+      "Ein Burn-out ist eine psychische Erkrankung.",
+      "Burn-out – was genau ist das?"
+    ],
+    0.8283684253692627
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Eine Person hat ein Burn-out?",
+      "Burn-out – was genau ist das?"
+    ],
+    0.7911756038665771
+  ],
+  [
+    [
+      3,
+      6
+    ],
+    [
+      "Dann fühlt diese Person sich überlastet.",
+      "Zunächst einmal ist \"Burn-out\" ein prägnanter Begriff."
+    ],
+    0.5278510451316833
+  ],
+  [
+    [
+      4,
+      6
+    ],
+    [
+      "Und die Person fühlt sich emotional und körperlich erschöpft.",
+      "Zunächst einmal ist \"Burn-out\" ein prägnanter Begriff."
+    ],
+    0.5583920478820801
+  ],
+  [
+    [
+      6,
+      6
+    ],
+    [
+      "Burn-out ist ein englisches Wort.",
+      "Zunächst einmal ist \"Burn-out\" ein prägnanter Begriff."
+    ],
+    0.9296014904975891
+  ],
+  [
+    [
+      7,
+      6
+    ],
+    [
+      "Burn-out bedeutet übersetzt etwa: ausgebrannt sein.",
+      "Zunächst einmal ist \"Burn-out\" ein prägnanter Begriff."
+    ],
+    0.9058796763420105
+  ],
+  [
+    [
+      8,
+      10
+    ],
+    [
+      "Das Wort Burn-out ist in der Medizin nicht einheitlich definiert.",
+      "Insofern ist der Begriff Burn-out-Syndrom irreführend."
+    ],
+    0.8762178421020508
+  ],
+  [
+    [
+      10,
+      19
+    ],
+    [
+      "Ein Burn-out kann für jede Person anders sein.",
+      "Die Beschwerden, die mit Burn-out-Erleben einhergehen, können individuell verschieden sein."
+    ],
+    0.8444300889968872
+  ],
+  [
+    [
+      11,
+      19
+    ],
+    [
+      "Ein Burn-out kann verschiedene Anzeichen haben.",
+      "Die Beschwerden, die mit Burn-out-Erleben einhergehen, können individuell verschieden sein."
+    ],
+    0.8283517360687256
+  ],
+  [
+    [
+      12,
+      21
+    ],
+    [
+      "Bei jeder Person sind die Anzeichen unterschiedlich.",
+      "Für Betroffene ist in der Regel auch weniger die Symptomatik als die vermutete Ursache entscheidend, etwa:"
+    ],
+    0.6972839832305908
+  ],
+  [
+    [
+      13,
+      24
+    ],
+    [
+      "Mögliche Anzeichen für ein Burn-out sind zum Beispiel:",
+      "Folgende Symptome werden oft im Rahmen von Burn-out-Konstellationen erlebt: Anhaltende Müdigkeit und Erschöpfung :"
+    ],
+    0.8577841520309448
+  ],
+  [
+    [
+      14,
+      25
+    ],
+    [
+      "Die Person ist oft müde und erschöpft.",
+      "Die Betroffenen haben den Eindruck, dass sie ihre täglichen Aufgaben nicht mehr bewältigen können, fühlen sich überfordert und müde."
+    ],
+    0.7559865117073059
+  ],
+  [
+    [
+      15,
+      25
+    ],
+    [
+      "Die Person fühlt sich überfordert.",
+      "Die Betroffenen haben den Eindruck, dass sie ihre täglichen Aufgaben nicht mehr bewältigen können, fühlen sich überfordert und müde."
+    ],
+    0.6700624227523804
+  ],
+  [
+    [
+      16,
+      26
+    ],
+    [
+      "Die Person möchte immer mehr Pausen machen.",
+      "Sie haben das Bedürfnis nach immer mehr Ruhepausen."
+    ],
+    0.8734290599822998
+  ],
+  [
+    [
+      18,
+      29
+    ],
+    [
+      "Die Person kann ihre Arbeit nicht mehr so gut machen .",
+      "Nachlassende Leistungsfähigkeit : Die Arbeit gelingt nicht mehr."
+    ],
+    0.8068744540214539
+  ],
+  [
+    [
+      19,
+      30
+    ],
+    [
+      "Die Person kann sich nämlich nicht mehr gut konzentrieren.",
+      "Es kommt zu Konzentrationsstörungen und Nervosität."
+    ],
+    0.7023380398750305
+  ],
+  [
+    [
+      20,
+      30
+    ],
+    [
+      "Und die Person ist oft nervös.",
+      "Es kommt zu Konzentrationsstörungen und Nervosität."
+    ],
+    0.7015135288238525
+  ],
+  [
+    [
+      21,
+      32
+    ],
+    [
+      "Bei der Arbeit macht die Person auf einmal viele Fehler.",
+      "Fehler passieren."
+    ],
+    0.7408177256584167
+  ],
+  [
+    [
+      24,
+      38
+    ],
+    [
+      "Die Person gibt ihre Hobbys auf.",
+      "Sie geben Hobbies auf und vernachlässigen Partner und Freundeskreis."
+    ],
+    0.6053321957588196
+  ],
+  [
+    [
+      25,
+      38
+    ],
+    [
+      "Und die Person unternimmt weniger mit Freunden.",
+      "Sie geben Hobbies auf und vernachlässigen Partner und Freundeskreis."
+    ],
+    0.686608076095581
+  ],
+  [
+    [
+      26,
+      39
+    ],
+    [
+      "Die Person fühlt sich innerlich leer.",
+      "Innere Leere, Sinnverlust : Die Freude am Alltag geht immer mehr verloren."
+    ],
+    0.6084604263305664
+  ],
+  [
+    [
+      29,
+      41
+    ],
+    [
+      "Die Person ist unglücklich und ihr ist vieles egal.",
+      "Unzufriedenheit und Gleichgültigkeit machen sich breit."
+    ],
+    0.6461925506591797
+  ],
+  [
+    [
+      32,
+      44
+    ],
+    [
+      "Die Person schläft nicht gut, die Person hat Kopfschmerzen, die Person hat Probleme mit der Verdauung oder die Person hat Rückenschmerzen.",
+      "Zum Beispiel Schlafstörungen , Kopfschmerzen , Verdauungsprobleme oder Rückenschmerzen ."
+    ],
+    0.7945467233657837
+  ],
+  [
+    [
+      35,
+      55
+    ],
+    [
+      "Sie haben diese Anzeichen?",
+      "Welche Aussagen treffen auf Sie zu?"
+    ],
+    0.6618601083755493
+  ],
+  [
+    [
+      36,
+      75
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Irgendwann bin ich dann zum Arzt gegangen und habe gesagt '"
+    ],
+    0.7124266624450684
+  ],
+  [
+    [
+      39,
+      78
+    ],
+    [
+      "Das folgende Video zeigt einen Patienten.",
+      "\" Im Video schildert er seine Erfahrungen in der Therapie."
+    ],
+    0.7051717638969421
+  ],
+  [
+    [
+      41,
+      78
+    ],
+    [
+      "Das Video zeigt auch die Therapie des Patienten.",
+      "\" Im Video schildert er seine Erfahrungen in der Therapie."
+    ],
+    0.8345245718955994
+  ],
+  [
+    [
+      43,
+      85
+    ],
+    [
+      "Eine Ursache des Burn-outs kann bei der Person selbst liegen.",
+      "Es gibt Burn-out jedoch genauso bei Menschen, die keinen oder nur wenig erkennbaren Arbeitsstress haben."
+    ],
+    0.7538323998451233
+  ],
+  [
+    [
+      44,
+      89
+    ],
+    [
+      "Zum Beispiel: Die Person erwartet sehr viel von sich selbst.",
+      "Es trifft oft Menschen, die einerseits hohe Ansprüche an sich selbst und andere stellen, die alles perfekt erledigen wollen, gleichzeitig aber ein schwaches Selbstwertgefühl haben und Konflikten lieber aus dem Weg gehen."
+    ],
+    0.77308589220047
+  ],
+  [
+    [
+      45,
+      91
+    ],
+    [
+      "Und die Person macht wenig für sich selbst.",
+      "Zudem haben Betroffene oft das Gefühl, sich stark zu verausgaben, ohne entsprechende Gegenleistungen zu erhalten."
+    ],
+    0.6250022649765015
+  ],
+  [
+    [
+      54,
+      110
+    ],
+    [
+      "Die Person darf nicht selbst entscheiden.",
+      "Es ist jedoch wichtig, sich nicht von solchen Vorurteilen leiten zu lassen."
+    ],
+    0.6379806995391846
+  ],
+  [
+    [
+      59,
+      112
+    ],
+    [
+      "Die Dinge müssen zu der Person passen.",
+      "Die Behandlung muss zum Patienten und seiner Lebenssituation passen."
+    ],
+    0.614643931388855
+  ],
+  [
+    [
+      60,
+      115
+    ],
+    [
+      "Bei einem Burn-out können zum Beispiel diese Dinge helfen: Setzen Sie sich machbare Ziele.",
+      "Statt zu sagen \"das schaffe ich ja doch nie\", sollten Burn-out-Betroffene unter Anleitung üben, erreichbare Ziele zu definieren und sich selbst darin zu bestärken."
+    ],
+    0.7287235260009766
+  ],
+  [
+    [
+      65,
+      118
+    ],
+    [
+      "Vielleicht können Ihnen Ihre Kollegen helfen.",
+      "Vielleicht hilft es, sich intensiver mit den Kollegen auszutauschen."
+    ],
+    0.7736943364143372
+  ],
+  [
+    [
+      66,
+      123
+    ],
+    [
+      "Verändern Sie Ihren Umgang mit Stress.",
+      "Stress-Bewältingungsstrategien verbessern :"
+    ],
+    0.8718714118003845
+  ],
+  [
+    [
+      70,
+      123
+    ],
+    [
+      "Wie gehe ich mit Stress um?",
+      "Stress-Bewältingungsstrategien verbessern :"
+    ],
+    0.8568191528320312
+  ],
+  [
+    [
+      71,
+      125
+    ],
+    [
+      "Mache ich bei Stress immer die gleichen Dinge?",
+      "Oft sind es eigene Muster, die den erlebten Stress zusätzlich hochtreiben, etwa: \"Mache keine Fehler, sonst bist du ein Versager\", \"andere müssen mich mögen\", \""
+    ],
+    0.6583738327026367
+  ],
+  [
+    [
+      73,
+      128
+    ],
+    [
+      "Bei der Therapie können Sie lernen:",
+      "Im Rahmen von Coaching und Therapie lassen sich solche Muster \"entschärfen\" und alternative Strategien einüben."
+    ],
+    0.7340545654296875
+  ],
+  [
+    [
+      75,
+      129
+    ],
+    [
+      "Planen Sie Ihre Pausen.",
+      "Pausen einplanen : Menschen, die sich ausgebrannt fühlen, sollten für regelmäßige Erholungspausen sorgen – ausreichend Freizeit am besten fest in den Terminplan einbauen."
+    ],
+    0.8734873533248901
+  ],
+  [
+    [
+      78,
+      132
+    ],
+    [
+      "Holen Sie sich Hilfe von Freunden oder Familie.",
+      "Soziales Netz stärken : Partner, Freunde oder Familie können Rückhalt geben."
+    ],
+    0.654486894607544
+  ],
+  [
+    [
+      81,
+      132
+    ],
+    [
+      "Vielleicht können Freunde und Familie Ihnen helfen.",
+      "Soziales Netz stärken : Partner, Freunde oder Familie können Rückhalt geben."
+    ],
+    0.7065801620483398
+  ],
+  [
+    [
+      82,
+      133
+    ],
+    [
+      "Leben Sie Gesund.",
+      "Gesund leben : Wer auf eine ausgewogene Ernährung und feste Schlafenszeiten achtet, und sich regelmäßig bewegt, stärkt den Körper und das eigene Wohlbefinden."
+    ],
+    0.6336102485656738
+  ],
+  [
+    [
+      85,
+      133
+    ],
+    [
+      "sich: Wie kann ich gesund leben?",
+      "Gesund leben : Wer auf eine ausgewogene Ernährung und feste Schlafenszeiten achtet, und sich regelmäßig bewegt, stärkt den Körper und das eigene Wohlbefinden."
+    ],
+    0.7684574723243713
+  ],
+  [
+    [
+      86,
+      133
+    ],
+    [
+      "Ernähren Sie sich gesund.",
+      "Gesund leben : Wer auf eine ausgewogene Ernährung und feste Schlafenszeiten achtet, und sich regelmäßig bewegt, stärkt den Körper und das eigene Wohlbefinden."
+    ],
+    0.7793315052986145
+  ],
+  [
+    [
+      88,
+      133
+    ],
+    [
+      "Und bewegen Sie sich regelmäßig.",
+      "Gesund leben : Wer auf eine ausgewogene Ernährung und feste Schlafenszeiten achtet, und sich regelmäßig bewegt, stärkt den Körper und das eigene Wohlbefinden."
+    ],
+    0.6124399900436401
+  ],
+  [
+    [
+      95,
+      147
+    ],
+    [
+      "Wie kann ich solche Momente verändern?",
+      "Langfristig sinnvolle Veränderungen tun kurzfristig oft weh."
+    ],
+    0.569028913974762
+  ],
+  [
+    [
+      99,
+      150
+    ],
+    [
+      "Nehmen Sie erst dann Medikamente ein.",
+      "Dann steht eine therapeutische Behandlung der Depression im Vordergrund."
+    ],
+    0.5788379311561584
+  ],
+  [
+    [
+      102,
+      154
+    ],
+    [
+      "Der Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Patienten sollten sich zu Wirkung und möglichen Nebenwirkungen ausführlich vom Arzt beraten lassen."
+    ],
+    0.6229824423789978
+  ]
+]

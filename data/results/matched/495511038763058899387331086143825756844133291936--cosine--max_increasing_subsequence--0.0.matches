@@ -1,0 +1,728 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ein Gerstenkorn ist eine Entzündung am Augenlid.",
+      "Ein Gerstenkorn kann an der Lidinnenseite (Hordeolum internum, inneres Gerstenkorn) sowie an der Lidkante und im Bereich der Wimpern auftreten (Hordeolum externum, äußeres Gerstenkorn)."
+    ],
+    0.470967173576355
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Bakterien verursachen diese Entzündung.",
+      "Ein Gerstenkorn kann an der Lidinnenseite (Hordeolum internum, inneres Gerstenkorn) sowie an der Lidkante und im Bereich der Wimpern auftreten (Hordeolum externum, äußeres Gerstenkorn)."
+    ],
+    0.4142734408378601
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Ein Gerstenkorn kann an der Innenseite vom Augenlid entstehen.",
+      "Ein Gerstenkorn kann an der Lidinnenseite (Hordeolum internum, inneres Gerstenkorn) sowie an der Lidkante und im Bereich der Wimpern auftreten (Hordeolum externum, äußeres Gerstenkorn)."
+    ],
+    0.858605146408081
+  ],
+  [
+    [
+      3,
+      4
+    ],
+    [
+      "Dann sagt man: inneres Gerstenkorn .",
+      "Sind die tiefer im Lid gelegenen Meibom-Drüsen betroffen, handelt es sich um ein inneres Gerstenkorn."
+    ],
+    0.4630400240421295
+  ],
+  [
+    [
+      4,
+      7
+    ],
+    [
+      "Ein Gerstenkorn kann aber auch an der Lidkante oder bei den Wimpern entstehen.",
+      "Auch Schmutz an den Fingern oder eine Entzündung am Lidrand begünstigt ein Gerstenkorn."
+    ],
+    0.8161636590957642
+  ],
+  [
+    [
+      5,
+      7
+    ],
+    [
+      "Dann sagt man: äußeres Gerstenkorn .",
+      "Auch Schmutz an den Fingern oder eine Entzündung am Lidrand begünstigt ein Gerstenkorn."
+    ],
+    0.37021082639694214
+  ],
+  [
+    [
+      6,
+      7
+    ],
+    [
+      "Bei einem Gerstenkorn entzünden sich die Talgdrüsen oder die Schweißdrüsen am Augenlid.",
+      "Auch Schmutz an den Fingern oder eine Entzündung am Lidrand begünstigt ein Gerstenkorn."
+    ],
+    0.8252328038215637
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Die Entzündung entsteht durch Bakterien.",
+      "Allgemein erhöht ein schwaches Immunsystem die Wahrscheinlichkeit einer bakteriellen Infektion."
+    ],
+    0.6966716051101685
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "Typische Bakterien sind: Staphylokokkus aureus.",
+      "Allgemein erhöht ein schwaches Immunsystem die Wahrscheinlichkeit einer bakteriellen Infektion."
+    ],
+    0.48930948972702026
+  ],
+  [
+    [
+      9,
+      11
+    ],
+    [
+      "Diese Bakterien kommen auf der Haut des Menschen vor.",
+      "Allgemein erhöht ein schwaches Immunsystem die Wahrscheinlichkeit einer bakteriellen Infektion."
+    ],
+    0.6714993715286255
+  ],
+  [
+    [
+      10,
+      12
+    ],
+    [
+      "Ein äußeres Gerstenkorn ist wie ein kleiner Knoten am äußeren Lidrand.",
+      "So kann beispielsweise Diabetes mellitus (\" Zuckerkrankheit \") ein Gerstenkorn begünstigen."
+    ],
+    0.5956405997276306
+  ],
+  [
+    [
+      11,
+      14
+    ],
+    [
+      "Dieser Knoten ist durch die Entzündung gerötet.",
+      "Da eine Infektion mit Bakterien vorliegt, welche die Entzündung hervorruft, kann ein Gerstenkorn ansteckend sein."
+    ],
+    0.7661551833152771
+  ],
+  [
+    [
+      12,
+      17
+    ],
+    [
+      "In dem Knoten ist Eiter.",
+      "Der Knoten ist mit Eiter gefüllt, was ein unangenehmes Spannungsgefühl verursacht."
+    ],
+    0.4052555561065674
+  ],
+  [
+    [
+      13,
+      18
+    ],
+    [
+      "Deshalb kann die Haut an dieser Stelle spannen und weh tun.",
+      "Handelt es sich um ein inneres Gerstenkorn, kann das gesamte Lid so stark anschwellen, dass das Auge selbst nicht mehr sichtbar ist."
+    ],
+    0.6373249292373657
+  ],
+  [
+    [
+      14,
+      18
+    ],
+    [
+      "Das Lid kann sehr dick werden.",
+      "Handelt es sich um ein inneres Gerstenkorn, kann das gesamte Lid so stark anschwellen, dass das Auge selbst nicht mehr sichtbar ist."
+    ],
+    0.6938539147377014
+  ],
+  [
+    [
+      15,
+      18
+    ],
+    [
+      "Dann ist das Auge vielleicht nicht mehr zu sehen.",
+      "Handelt es sich um ein inneres Gerstenkorn, kann das gesamte Lid so stark anschwellen, dass das Auge selbst nicht mehr sichtbar ist."
+    ],
+    0.8772786855697632
+  ],
+  [
+    [
+      16,
+      32
+    ],
+    [
+      "Häufig platzt das Gerstenkorn von allein.",
+      "Meist verläuft ein äußeres Gerstenkorn unkompliziert, da es sich spontan eröffnet und von alleine abheilt."
+    ],
+    0.6479030847549438
+  ],
+  [
+    [
+      17,
+      34
+    ],
+    [
+      "Dann kann der Eiter auslaufen.",
+      "Damit sich die Infektion nicht ausbreitet, kann der Augenarzt antibiotikahaltige Salben oder Augentropfen verschreiben."
+    ],
+    0.7640517950057983
+  ],
+  [
+    [
+      18,
+      34
+    ],
+    [
+      "Die Entzündung kann dann heilen und die Schwellung geht zurück.",
+      "Damit sich die Infektion nicht ausbreitet, kann der Augenarzt antibiotikahaltige Salben oder Augentropfen verschreiben."
+    ],
+    0.8618676662445068
+  ],
+  [
+    [
+      19,
+      34
+    ],
+    [
+      "Meistens ist ein Gerstenkorn ungefährlich.",
+      "Damit sich die Infektion nicht ausbreitet, kann der Augenarzt antibiotikahaltige Salben oder Augentropfen verschreiben."
+    ],
+    0.40988466143608093
+  ],
+  [
+    [
+      20,
+      35
+    ],
+    [
+      "Am Augenlid gibt es verschiedene Drüsen:",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.4098975360393524
+  ],
+  [
+    [
+      21,
+      35
+    ],
+    [
+      "Die Meibom-Drüsen produzieren Talg.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.549705445766449
+  ],
+  [
+    [
+      22,
+      35
+    ],
+    [
+      "Talg ist wichtig für die Tränenflüssigkeit.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.550462543964386
+  ],
+  [
+    [
+      23,
+      35
+    ],
+    [
+      "Durch den Talg verdunsten die Tränen nicht zu schnell.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.5020974278450012
+  ],
+  [
+    [
+      24,
+      35
+    ],
+    [
+      "Die Meibom-Drüsen sind tief am Lid.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.7219300866127014
+  ],
+  [
+    [
+      25,
+      35
+    ],
+    [
+      "Die Zeis-Drüsen produzieren auch Talg.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.6327906847000122
+  ],
+  [
+    [
+      26,
+      35
+    ],
+    [
+      "Die Zeis-Drüsen sind an den Wimpern.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.69447922706604
+  ],
+  [
+    [
+      27,
+      35
+    ],
+    [
+      "Die Moll-Drüsen sind Schweißdrüsen.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.6483618021011353
+  ],
+  [
+    [
+      28,
+      35
+    ],
+    [
+      "Die Moll-Drüsen sind außen am Lid.",
+      "Die inneren Meibom-Drüsen sind größer als die äußeren, am Lidrand gelegenen Drüsen."
+    ],
+    0.7551701068878174
+  ],
+  [
+    [
+      29,
+      37
+    ],
+    [
+      "Alle diese Drüsen können sich entzünden.",
+      "Das innere Gerstenkorn ist ernster zu nehmen, weil es sich schneller in Richtung Bindehaut, Haut oder Augenhöhle ausbreiten kann."
+    ],
+    0.6078622937202454
+  ],
+  [
+    [
+      30,
+      37
+    ],
+    [
+      "Entzünden sich die Zeis-Drüsen oder die Moll-Drüsen?",
+      "Das innere Gerstenkorn ist ernster zu nehmen, weil es sich schneller in Richtung Bindehaut, Haut oder Augenhöhle ausbreiten kann."
+    ],
+    0.6079787015914917
+  ],
+  [
+    [
+      31,
+      38
+    ],
+    [
+      "Dann spricht man von einem äußeren Gerstenkorn .",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.6631763577461243
+  ],
+  [
+    [
+      32,
+      38
+    ],
+    [
+      "Sind die Meibom-Drüsen entzündet?",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.3788776099681854
+  ],
+  [
+    [
+      33,
+      38
+    ],
+    [
+      "Dann spricht man von einem inneren Gerstenkorn .",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.6554514765739441
+  ],
+  [
+    [
+      34,
+      38
+    ],
+    [
+      "Eine Entzündung kann durch Bakterien entstehen:",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.5720173716545105
+  ],
+  [
+    [
+      35,
+      38
+    ],
+    [
+      "Zum Beispiel durch Hautkeime.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.24702487885951996
+  ],
+  [
+    [
+      36,
+      38
+    ],
+    [
+      "Manchmal reiben Menschen sich die Augen mit den Fingern.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.656747043132782
+  ],
+  [
+    [
+      37,
+      38
+    ],
+    [
+      "Dann können diese Hautkeime in das Auge kommen.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.7159591317176819
+  ],
+  [
+    [
+      38,
+      38
+    ],
+    [
+      "Auch Schmutz an den Fingern kann ein Gerstenkorn verursachen.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.7360336184501648
+  ],
+  [
+    [
+      39,
+      38
+    ],
+    [
+      "Kinder haben häufiger ein Gerstenkorn als Erwachsene.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.6306969523429871
+  ],
+  [
+    [
+      40,
+      38
+    ],
+    [
+      "Deshalb sollten Eltern auf saubere Hände bei ihren Kindern achten.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.6547937393188477
+  ],
+  [
+    [
+      41,
+      38
+    ],
+    [
+      "Auch Patienten mit einem schwachen Immunsystem können häufiger ein Gerstenkorn bekommen.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.7668721675872803
+  ],
+  [
+    [
+      42,
+      38
+    ],
+    [
+      "Hierzu gehören zum Beispiel Patienten mit Diabetes.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.4436189532279968
+  ],
+  [
+    [
+      43,
+      38
+    ],
+    [
+      "Ein Gerstenkorn kann ansteckend sein.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.5727304816246033
+  ],
+  [
+    [
+      44,
+      38
+    ],
+    [
+      "Es entsteht nämlich durch Bakterien.",
+      "Es kann deshalb auch erforderlich sein, dass ein Augenarzt – neben den antibiotischen Augentropfen und -salben – auch Antibiotika in Tablettenform verordnen muss."
+    ],
+    0.7239410281181335
+  ],
+  [
+    [
+      45,
+      40
+    ],
+    [
+      "Die Bakterien können übertragen werden:",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.5554198026657104
+  ],
+  [
+    [
+      46,
+      40
+    ],
+    [
+      "Zum Beispiel durch Anfassen des entzündeten Auges.",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.33092787861824036
+  ],
+  [
+    [
+      47,
+      40
+    ],
+    [
+      "Oft heilt ein Gerstenkorn von allein.",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.5061784386634827
+  ],
+  [
+    [
+      48,
+      40
+    ],
+    [
+      "Wärme kann die Heilung beschleunigen.",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.6365968585014343
+  ],
+  [
+    [
+      49,
+      40
+    ],
+    [
+      "Zum Beispiel hilft eine Rotlichtbestrahlung.",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.3956797122955322
+  ],
+  [
+    [
+      50,
+      40
+    ],
+    [
+      "Durch die Wärme öffnet sich das Gerstenkorn schneller.",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.5803661346435547
+  ],
+  [
+    [
+      51,
+      40
+    ],
+    [
+      "Dann läuft der Eiter leichter ab.",
+      "Wer Kontaktlinsen trägt, sollte bei einem akut auftretenden Gerstenkorn die Linsen sicherheitshalber nicht benutzen."
+    ],
+    0.3627161681652069
+  ],
+  [
+    [
+      52,
+      41
+    ],
+    [
+      "Sie wollen eine Rotlichtbestrahlung anwenden?",
+      "Bevor sie diese wieder einsetzen, sollten Kontaktlinsenträger einen Augenarzt aufsuchen."
+    ],
+    0.6994494795799255
+  ],
+  [
+    [
+      53,
+      41
+    ],
+    [
+      "Dann fragen Sie vorher Ihren Arzt.",
+      "Bevor sie diese wieder einsetzen, sollten Kontaktlinsenträger einen Augenarzt aufsuchen."
+    ],
+    0.6894030570983887
+  ],
+  [
+    [
+      54,
+      41
+    ],
+    [
+      "Er gibt Ihnen alle wichtigen Informationen.",
+      "Bevor sie diese wieder einsetzen, sollten Kontaktlinsenträger einen Augenarzt aufsuchen."
+    ],
+    0.5376369953155518
+  ],
+  [
+    [
+      55,
+      41
+    ],
+    [
+      "Der Augenarzt kann eine Salbe verschreiben.",
+      "Bevor sie diese wieder einsetzen, sollten Kontaktlinsenträger einen Augenarzt aufsuchen."
+    ],
+    0.4518982768058777
+  ],
+  [
+    [
+      56,
+      41
+    ],
+    [
+      "Oder er gibt Augentropfen.",
+      "Bevor sie diese wieder einsetzen, sollten Kontaktlinsenträger einen Augenarzt aufsuchen."
+    ],
+    0.5213309526443481
+  ],
+  [
+    [
+      57,
+      42
+    ],
+    [
+      "Die Salbe und die Tropfen enthalten Antibiotikum.",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.5688492059707642
+  ],
+  [
+    [
+      58,
+      42
+    ],
+    [
+      "So breitet sich die Entzündung nicht aus.",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.4900050163269043
+  ],
+  [
+    [
+      59,
+      42
+    ],
+    [
+      "Das innere Gerstenkorn ist ernster als das äußere Gerstenkorn:",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.2001008689403534
+  ],
+  [
+    [
+      60,
+      42
+    ],
+    [
+      "Es kann sich nämlich schneller zur Bindehaut und zur Augenhöhle ausbreiten.",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.634759247303009
+  ],
+  [
+    [
+      61,
+      42
+    ],
+    [
+      "Deshalb müssen Patienten mit einem inneren Gerstenkorn manchmal auch Antibiotika in Tablettenform nehmen.",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.5987256169319153
+  ],
+  [
+    [
+      62,
+      42
+    ],
+    [
+      "Sie wollen noch mehr über das Gerstenkorn lesen?",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.5120589137077332
+  ],
+  [
+    [
+      63,
+      42
+    ],
+    [
+      "Mehr Informationen über das Gerstenkorn finden Sie hier .",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.44937294721603394
+  ],
+  [
+    [
+      64,
+      42
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.22446821630001068
+  ],
+  [
+    [
+      65,
+      42
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Spezielle Reinigungsmaßnahmen für die Linsen sind unerlässlich, um Hornhautschäden zu vermeiden."
+    ],
+    0.5960402488708496
+  ]
+]

@@ -1,0 +1,640 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Person ist verletzt?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.06215417757630348
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und die Wunde blutet stark?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.15116767585277557
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dann rufen Sie als erstes den Rettungsdienst.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.13453415036201477
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.17228145897388458
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.2808564305305481
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.17698004841804504
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Die Wunde blutet stark?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.115066759288311
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.18150539696216583
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.23993553221225739
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.13313287496566772
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.1984494924545288
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.19412274658679962
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.21406081318855286
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.16257774829864502
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.19640392065048218
+  ],
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.21731136739253998
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Der Verband ist zu fest?",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.09976217150688171
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.24993136525154114
+  ],
+  [
+    [
+      19,
+      9
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.24233019351959229
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Achtung:",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.19794724881649017
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Manchmal sind Fremdkörper in der Wunde.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.18841144442558289
+  ],
+  [
+    [
+      22,
+      9
+    ],
+    [
+      "Das können zum Beispiel Glasscherben sein.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.14609284698963165
+  ],
+  [
+    [
+      23,
+      9
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.23681509494781494
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.2506760060787201
+  ],
+  [
+    [
+      25,
+      9
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.1793702095746994
+  ],
+  [
+    [
+      26,
+      9
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.2894670069217682
+  ],
+  [
+    [
+      27,
+      22
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Abgeschnittene Finger und andere abgetrennte Gliedmaßen können oft wieder angenäht werden."
+    ],
+    0.2370694875717163
+  ],
+  [
+    [
+      28,
+      22
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Abgeschnittene Finger und andere abgetrennte Gliedmaßen können oft wieder angenäht werden."
+    ],
+    0.22691477835178375
+  ],
+  [
+    [
+      29,
+      23
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.24103476107120514
+  ],
+  [
+    [
+      30,
+      23
+    ],
+    [
+      "Eine Person hat eine Platzwunde am Kopf?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.1200966015458107
+  ],
+  [
+    [
+      31,
+      23
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.22627189755439758
+  ],
+  [
+    [
+      32,
+      23
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.24278126657009125
+  ],
+  [
+    [
+      33,
+      23
+    ],
+    [
+      "Befestigen Sie die Kompresse mit einem Dreiecktuch seitlich am Kopf.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.172602117061615
+  ],
+  [
+    [
+      34,
+      23
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.14945343136787415
+  ],
+  [
+    [
+      35,
+      23
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.16298003494739532
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.25914669036865234
+  ],
+  [
+    [
+      37,
+      23
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.2438526600599289
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Gehen Sie mit einer Platzwunde immer zum Arzt.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.194851353764534
+  ],
+  [
+    [
+      39,
+      23
+    ],
+    [
+      "Oder gehen Sie in die Notaufnahme im Krankenhaus.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.16311466693878174
+  ],
+  [
+    [
+      40,
+      23
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.23854313790798187
+  ],
+  [
+    [
+      41,
+      23
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.20880335569381714
+  ],
+  [
+    [
+      42,
+      23
+    ],
+    [
+      "Das Blut soll ablaufen.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.12695783376693726
+  ],
+  [
+    [
+      43,
+      23
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.2452748864889145
+  ],
+  [
+    [
+      44,
+      23
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.19350890815258026
+  ],
+  [
+    [
+      45,
+      23
+    ],
+    [
+      "Das Blut kommt aus dem vorderen Nasen-Abschnitt?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.07915443181991577
+  ],
+  [
+    [
+      46,
+      23
+    ],
+    [
+      "Dann drücken Sie die Nasenflügel für ein paar Minuten fest mit Ihren Fingern zusammen.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.17762546241283417
+  ],
+  [
+    [
+      47,
+      23
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.1929028481245041
+  ],
+  [
+    [
+      48,
+      23
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.22942501306533813
+  ],
+  [
+    [
+      49,
+      23
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.17110557854175568
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.17492520809173584
+  ],
+  [
+    [
+      51,
+      23
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.21145422756671906
+  ],
+  [
+    [
+      52,
+      23
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.20668064057826996
+  ],
+  [
+    [
+      53,
+      23
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.24654234945774078
+  ],
+  [
+    [
+      54,
+      23
+    ],
+    [
+      "Dann gehen Sie zum Arzt oder in die Notaufnahme im Krankenhaus.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.1648513823747635
+  ],
+  [
+    [
+      55,
+      23
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.24045419692993164
+  ],
+  [
+    [
+      56,
+      23
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.16755123436450958
+  ],
+  [
+    [
+      57,
+      27
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.10098078101873398
+  ],
+  [
+    [
+      58,
+      27
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.11452879011631012
+  ]
+]

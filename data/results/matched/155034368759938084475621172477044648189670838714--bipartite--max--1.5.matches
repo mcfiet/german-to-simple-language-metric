@@ -1,0 +1,497 @@
+[
+  [
+    [
+      1,
+      18
+    ],
+    [
+      "Deshalb kann der Körper nicht alle Organe mit Sauerstoff versorgen.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.5851856470108032
+  ],
+  [
+    [
+      2,
+      18
+    ],
+    [
+      "Dann versorgt der Körper nur noch die wichtigsten Organe mit Sauerstoff.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.5958582758903503
+  ],
+  [
+    [
+      5,
+      18
+    ],
+    [
+      "Dann können die Organe beschädigt werden.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.6044259667396545
+  ],
+  [
+    [
+      7,
+      18
+    ],
+    [
+      "Sie glauben:",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.7992303371429443
+  ],
+  [
+    [
+      9,
+      18
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.6424458026885986
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Die Nummer ist:",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.721504807472229
+  ],
+  [
+    [
+      14,
+      18
+    ],
+    [
+      "Sie glauben: Ich habe einen seelischen Schock?",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.5851609706878662
+  ],
+  [
+    [
+      15,
+      18
+    ],
+    [
+      "Dann sprechen Sie mit einem Psychologen.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.7379485368728638
+  ],
+  [
+    [
+      19,
+      10
+    ],
+    [
+      "Das Herz schlägt schnell.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.5957152843475342
+  ],
+  [
+    [
+      21,
+      17
+    ],
+    [
+      "Zittern",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.6265907883644104
+  ],
+  [
+    [
+      38,
+      7
+    ],
+    [
+      "Das bedeutet: Der Blutzucker-Wert der Person ist viel zu niedrig.",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6083091497421265
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die betroffene Person ist ansprechbar?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.6711573600769043
+  ],
+  [
+    [
+      40,
+      16
+    ],
+    [
+      "Dann geben Sie ihr ein Stück Traubenzucker.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.6066650748252869
+  ],
+  [
+    [
+      41,
+      16
+    ],
+    [
+      "Oder geben Sie der Person ein anderes Lebensmittel mit Zucker.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.6239998936653137
+  ],
+  [
+    [
+      46,
+      16
+    ],
+    [
+      "Dann bringen Sie die betroffene Person nicht in die Schocklage.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.7287318706512451
+  ],
+  [
+    [
+      47,
+      10
+    ],
+    [
+      "Erhöhen Sie stattdessen den Oberkörper der Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.8116628527641296
+  ],
+  [
+    [
+      51,
+      1
+    ],
+    [
+      "Die Ursache dieses Schocks ist eine Blutvergiftung .",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.5891900658607483
+  ],
+  [
+    [
+      57,
+      3
+    ],
+    [
+      "Ein Nervenschaden kann zum Beispiel eine Verletzung im Rückenmark sein.",
+      "Schlimmstenfalls kann das zum Ersticken führen."
+    ],
+    0.5816574692726135
+  ],
+  [
+    [
+      58,
+      18
+    ],
+    [
+      "Sie glauben:",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.7992303371429443
+  ],
+  [
+    [
+      60,
+      10
+    ],
+    [
+      "Dann können Sie der betroffenen Person helfen.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.7396261692047119
+  ],
+  [
+    [
+      62,
+      5
+    ],
+    [
+      "Rufen Sie den Rettungsdienst an.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.7923514246940613
+  ],
+  [
+    [
+      64,
+      10
+    ],
+    [
+      "Die betroffene Person blutet?",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.6754099726676941
+  ],
+  [
+    [
+      65,
+      17
+    ],
+    [
+      "Dann stillen Sie die Blutung Beruhigen",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.6413414478302002
+  ],
+  [
+    [
+      66,
+      10
+    ],
+    [
+      "Sie die betroffene Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.8557168245315552
+  ],
+  [
+    [
+      67,
+      16
+    ],
+    [
+      "Sprechen Sie der Person gut zu.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.7697004675865173
+  ],
+  [
+    [
+      68,
+      10
+    ],
+    [
+      "Halten Sie die betroffene Person warm.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.7342606782913208
+  ],
+  [
+    [
+      69,
+      14
+    ],
+    [
+      "Legen Sie die Person zum Beispiel auf eine Decke und decken Sie die Person zu.",
+      "Blicken Sie gleichzeitig auf Brustkorb und Bauch:"
+    ],
+    0.6287890672683716
+  ],
+  [
+    [
+      70,
+      16
+    ],
+    [
+      "Bringen Sie die betroffene Person in Schocklage .",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.7433725595474243
+  ],
+  [
+    [
+      71,
+      10
+    ],
+    [
+      "Legen Sie die Person auf den Rücken.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.7368870377540588
+  ],
+  [
+    [
+      72,
+      10
+    ],
+    [
+      "Legen Sie dann die Beine der Person hoch.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.6662611961364746
+  ],
+  [
+    [
+      73,
+      5
+    ],
+    [
+      "Schieben Sie ihr dafür einen Gegenstand unter die Beine, zum Beispiel ein Kissen.",
+      "Sprechen Sie den Betreffenden an!"
+    ],
+    0.6161402463912964
+  ],
+  [
+    [
+      74,
+      10
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Neigen Sie den Kopf der betroffenen Person leicht nach hinten und heben Sie das Kinn an."
+    ],
+    0.808334231376648
+  ],
+  [
+    [
+      75,
+      9
+    ],
+    [
+      "Kontrollieren Sie den Puls und die Atmung der betroffenen Person.",
+      "Atmung prüfen:"
+    ],
+    0.7742589116096497
+  ],
+  [
+    [
+      76,
+      7
+    ],
+    [
+      "Die betroffene Person ist bewusstlos?",
+      "Reagiert die Person nicht, ist sie bewusstlos."
+    ],
+    0.8076881766319275
+  ],
+  [
+    [
+      77,
+      16
+    ],
+    [
+      "Dann bringen Sie sie in die stabile Seitenlage .",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.9114989638328552
+  ],
+  [
+    [
+      78,
+      9
+    ],
+    [
+      "Die Atmung der betroffenen Person setzt aus?",
+      "Atmung prüfen:"
+    ],
+    0.6611466407775879
+  ],
+  [
+    [
+      79,
+      12
+    ],
+    [
+      "Oder der Kreislauf des Betroffenen bricht zusammen?",
+      "Anschließend nähern Sie Ihre Wange dem Mund und der Nase des Patienten."
+    ],
+    0.5869494676589966
+  ],
+  [
+    [
+      80,
+      18
+    ],
+    [
+      "Dann beginnen Sie mit der Wiederbelebung.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.8601430654525757
+  ],
+  [
+    [
+      81,
+      1
+    ],
+    [
+      "Die Schocklage ist nicht immer sinnvoll.",
+      "Die Muskulatur ist schlaff, weshalb die Zunge bei Rückenlage nach hinten fallen und die Atemwege verschließen kann."
+    ],
+    0.581628143787384
+  ],
+  [
+    [
+      82,
+      16
+    ],
+    [
+      "Bei einigen Anzeichen sollten Sie die betroffene Person nicht in die Schocklage bringen.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.656840980052948
+  ],
+  [
+    [
+      95,
+      16
+    ],
+    [
+      "Oder sie hat Verletzungen an der Wirbelsäule.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.5997344255447388
+  ],
+  [
+    [
+      96,
+      17
+    ],
+    [
+      "Eines oder mehrere Anzeichen treffen auf die betroffene Person zu?",
+      "Atmet die Person nicht oder nicht normal, achten Sie auf Lebenszeichen wie Bewegungen, Schlucken oder Husten."
+    ],
+    0.6177056431770325
+  ],
+  [
+    [
+      97,
+      16
+    ],
+    [
+      "Dann bringen Sie die betroffene Person nicht in die Schocklage.",
+      "Stabile Seitenlage Atmet die Person normal, bringen Sie sie wie folgt in die stabile Seitenlage, um ein Ersticken an Blut, Speichel und Erbrochenem zu verhindern:"
+    ],
+    0.7287318706512451
+  ],
+  [
+    [
+      98,
+      18
+    ],
+    [
+      "Sie wollen noch mehr über Schocks lesen?",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.6097582578659058
+  ],
+  [
+    [
+      101,
+      18
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Falls Sie keine erkennen können und alleine am Unfallort sind, setzten Sie unbedingt - falls noch nicht geschehen - zuerst einen Notruf ab und beginnen Sie dann mit der Herz-Lungen-Wiederbelebung."
+    ],
+    0.6123875379562378
+  ]
+]

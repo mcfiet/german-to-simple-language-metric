@@ -1,0 +1,475 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In manche Länder können Sie nur reisen, wenn Sie einen gültigen Reise-Pass haben.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.6852036714553833
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Wenn Sie in ein solches Land reisen und keinen gültigen Reise-Pass haben, dann müssen Sie bei uns einen Reise-Pass beantragen.",
+      "Sie möchten kurzfristig verreisen und besitzen keinen gültigen Reisepass?"
+    ],
+    0.7203352451324463
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Zum Beispiel: Wenn Sie nicht mehr warten können, bis wir Ihnen einen endgültigen Reise-Pass machen.",
+      "Wenn die rechtzeitige Ausstellung eines Reisepasses oder Expresspasses nicht mehr möglich ist, können Sie einen vorläufigen Reisepass beantragen."
+    ],
+    0.6860310435295105
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Dann können Sie einen vorläufigen Reise-Pass beantragen.",
+      "Wenn die rechtzeitige Ausstellung eines Reisepasses oder Expresspasses nicht mehr möglich ist, können Sie einen vorläufigen Reisepass beantragen."
+    ],
+    0.7671001553535461
+  ],
+  [
+    [
+      22,
+      2
+    ],
+    [
+      "Nur mit der Erlaubnis bekommen Sie einen vorläufigen Reise-Pass.",
+      "Bedenken Sie, dass manche Länder die Einreise nur mit einem gültigen Reisepass gewähren."
+    ],
+    0.6862263083457947
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Als Nachweis können Sie Ihr Flug-Ticket zeigen.",
+      "Ihr Personalausweis"
+    ],
+    0.6217741966247559
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Ihren Personal-Ausweis.",
+      "Ihr Personalausweis"
+    ],
+    0.753121018409729
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "Sie müssen uns Ihren Personal-Ausweis zeigen, wenn Sie Ihren alten Reise-Pass verloren haben.",
+      "Der Personalausweis wird benötigt, wenn Ihr bisheriger Pass verloren ging oder für den Fall, dass Sie bislang keinen Reisepass besessen haben."
+    ],
+    0.6673697829246521
+  ],
+  [
+    [
+      51,
+      8
+    ],
+    [
+      "Oder wenn Sie bisher keinen Reise-Pass hatten.",
+      "Der Personalausweis wird benötigt, wenn Ihr bisheriger Pass verloren ging oder für den Fall, dass Sie bislang keinen Reisepass besessen haben."
+    ],
+    0.7251806855201721
+  ],
+  [
+    [
+      52,
+      12
+    ],
+    [
+      "Ihre Geburts-Urkunde",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.5755242109298706
+  ],
+  [
+    [
+      54,
+      12
+    ],
+    [
+      "Oder einen Auszug aus dem Geburts-Register .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.6811662316322327
+  ],
+  [
+    [
+      55,
+      12
+    ],
+    [
+      "Oder einen Auszug aus Ihrem Familien-Stamm-Buch .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.6008286476135254
+  ],
+  [
+    [
+      59,
+      12
+    ],
+    [
+      "Wenn Sie verheiratet oder verpartnert sind, dann brauchen wir von Ihnen: eine Ehe-Urkunde , einen Auszug aus dem Ehe-Register oder eine Lebens-Partnerschafts-Urkunde .",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.8359375
+  ],
+  [
+    [
+      60,
+      12
+    ],
+    [
+      "Wir brauchen diese Urkunde auch, wenn Sie geschieden oder verwitwet sind.",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.6899195909500122
+  ],
+  [
+    [
+      64,
+      13
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.6555500030517578
+  ],
+  [
+    [
+      65,
+      13
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.7004299163818359
+  ],
+  [
+    [
+      71,
+      13
+    ],
+    [
+      "Er prüft die Übersetzer und Dolmetscher.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5669965744018555
+  ],
+  [
+    [
+      75,
+      13
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.5558841824531555
+  ],
+  [
+    [
+      76,
+      15
+    ],
+    [
+      "Sie müssen die Urkunden und Übersetzungen im Original abgeben.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.8448163270950317
+  ],
+  [
+    [
+      81,
+      17
+    ],
+    [
+      "Das Foto muss aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.699483335018158
+  ],
+  [
+    [
+      82,
+      17
+    ],
+    [
+      "Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.9105133414268494
+  ],
+  [
+    [
+      83,
+      17
+    ],
+    [
+      "Sie können das Foto nicht als E-Mail schicken.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.6152022480964661
+  ],
+  [
+    [
+      87,
+      17
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.6643344163894653
+  ],
+  [
+    [
+      94,
+      18
+    ],
+    [
+      "Befolgen Sie bitte die Regeln für Pass-Fotos.",
+      "Beachten Sie bitte die speziellen Anforderungen an das Passfoto."
+    ],
+    0.7020297646522522
+  ],
+  [
+    [
+      95,
+      19
+    ],
+    [
+      "Die Regeln stehen in der Foto-Muster-Tafel .",
+      "Die Regelungen sind in einer Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.7424397468566895
+  ],
+  [
+    [
+      105,
+      22
+    ],
+    [
+      "Zum Beispiel Ihre Buchungs-Bestätigung.",
+      "Vorhandene Reiseunterlagen, wie zum Beispiel eine Flugbestätigung, müssen bei Beantragung vorgelegt werden."
+    ],
+    0.5763435959815979
+  ],
+  [
+    [
+      108,
+      25
+    ],
+    [
+      "Sie können die Verlust-Anzeige am Computer ausfüllen .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.6790547370910645
+  ],
+  [
+    [
+      109,
+      25
+    ],
+    [
+      "Dann müssen Sie die Verlust-Anzeige ausdrucken .",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.666288435459137
+  ],
+  [
+    [
+      111,
+      26
+    ],
+    [
+      "eine Bescheinigung von der Polizei",
+      "Bescheinigung der Polizei"
+    ],
+    0.8766463398933411
+  ],
+  [
+    [
+      114,
+      26
+    ],
+    [
+      "Dann bekommen Sie eine Bescheinigung von der Polizei .",
+      "Bescheinigung der Polizei"
+    ],
+    0.7660821080207825
+  ],
+  [
+    [
+      115,
+      26
+    ],
+    [
+      "Wenn Sie den neuen Reise-Pass beantragen, dann müssen Sie uns die Bescheinigung von der Polizei zeigen.",
+      "Bescheinigung der Polizei"
+    ],
+    0.7134987711906433
+  ],
+  [
+    [
+      116,
+      30
+    ],
+    [
+      "Wie lange ist der vorläufige Reise-Pass gültig?",
+      "Ein vorläufiger Reisepass ist ein Jahr gültig."
+    ],
+    0.6272004842758179
+  ],
+  [
+    [
+      117,
+      30
+    ],
+    [
+      "Ein vorläufiger Reise-Pass ist 1 Jahr gültig .",
+      "Ein vorläufiger Reisepass ist ein Jahr gültig."
+    ],
+    0.9264305233955383
+  ],
+  [
+    [
+      119,
+      33
+    ],
+    [
+      "Wann bekomme ich den vorläufigen Reise-Pass?",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.5883082747459412
+  ],
+  [
+    [
+      120,
+      33
+    ],
+    [
+      "Wenn Sie uns alle nötigen Papiere zeigen, dann bekommen Sie den vorläufigen Reise-Pass sofort.",
+      "Bearbeitungsdauer Den vorläufigen Reisepass bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8069861531257629
+  ],
+  [
+    [
+      122,
+      52
+    ],
+    [
+      "Für Reisen durch Europa reicht meistens ein Personal-Ausweis .",
+      "Wenn Sie nur einen vorläufigen Reisepass besitzen, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.6291975975036621
+  ],
+  [
+    [
+      123,
+      52
+    ],
+    [
+      "Für Reisen außerhalb von Europa brauchen Sie einen Reise-Pass.",
+      "Wenn Sie nur einen vorläufigen Reisepass besitzen, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.7131185531616211
+  ],
+  [
+    [
+      124,
+      52
+    ],
+    [
+      "Manchmal brauchen Sie auch ein Visum für Ihre Reise.",
+      "Wenn Sie nur einen vorläufigen Reisepass besitzen, benötigen Sie für Reisen in die USA zusätzlich ein Visum."
+    ],
+    0.7392143607139587
+  ],
+  [
+    [
+      126,
+      55
+    ],
+    [
+      "Welchen Pass Sie für Ihre Reise brauchen, erfahren Sie beim Auswärtigen Amt .",
+      "Ob Sie für Ihr Reiseziel einen Reisepass oder ein Visum benötigen oder ob ein Personalausweis ausreicht, erfragen Sie bitte beim Auswärtigen Amt."
+    ],
+    0.7065457105636597
+  ],
+  [
+    [
+      127,
+      55
+    ],
+    [
+      "Beim Auswärtigen Amt sagen Sie Ihnen: Ob Sie für Ihre Reise einen Reise-Pass brauchen, oder ob Sie ein Visum brauchen, oder ob ein Personal-Ausweis ausreicht.",
+      "Ob Sie für Ihr Reiseziel einen Reisepass oder ein Visum benötigen oder ob ein Personalausweis ausreicht, erfragen Sie bitte beim Auswärtigen Amt."
+    ],
+    0.9036030769348145
+  ],
+  [
+    [
+      129,
+      67
+    ],
+    [
+      "Ein vorläufiger Reise-Pass kostet 26 Euro .",
+      "Gebühren 26 Euro für einen vorläufigen maschinenlesbaren Reisepass"
+    ],
+    0.6899838447570801
+  ],
+  [
+    [
+      130,
+      68
+    ],
+    [
+      "Wenn Sie Ihren alten Reise-Pass verloren haben, dann müssen Sie zusätzlich 1,50 Euro für die Verlust-Anzeige bezahlen.",
+      "Wenn der bisherige Reisepass verloren gegangen ist, erhöhen sich die Gebühren um 1,50 Euro für die Verlustanzeige."
+    ],
+    0.699850857257843
+  ],
+  [
+    [
+      133,
+      69
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Die Gebühren können bar oder mit der EC-Karte und PIN-Nummer bezahlt werden."
+    ],
+    0.6457355618476868
+  ]
+]

@@ -1,0 +1,1190 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie wollen im Ausland heiraten?",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.5244886875152588
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und Sie sind Deutsche oder Deutscher?",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.43114545941352844
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Das heißt: Sie haben eine deutsche Staats-Angehörigkeit?",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.5825318694114685
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Und einen deutschen Pass oder Personal-Ausweis?",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.3166747987270355
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Dann müssen Sie zum ausländischen Konsulat .",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.19653484225273132
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Ein Konsulat ist die Vertretung von einem Land im Ausland.",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.417831689119339
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Ein Konsulat kümmert sich im Ausland um die Angelegenheiten von seinen Bürgern und Bürgerinnen.",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.4124988615512848
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Es gibt deutsche Konsulate in anderen Ländern.",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.291610985994339
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Und es gibt Konsulate von anderen Ländern in Deutschland.",
+      "Sie haben die deutsche Staatsangehörigkeit und möchten im Ausland heiraten?"
+    ],
+    0.29953843355178833
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Wenn Sie im Ausland heiraten wollen, dann müssen Sie zu dem Konsulat von dem Land in dem Sie heiraten wollen.",
+      "Dann müssen Sie sich zunächst beim ausländischen Konsulat informieren, welche Unterlagen dafür notwendig sind."
+    ],
+    0.4582001268863678
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Sie müssen das Konsulat fragen, welche Papiere Sie zum Heiraten brauchen.",
+      "Dann müssen Sie sich zunächst beim ausländischen Konsulat informieren, welche Unterlagen dafür notwendig sind."
+    ],
+    0.39551040530204773
+  ],
+  [
+    [
+      11,
+      2
+    ],
+    [
+      "Es gibt Länder, in denen Sie neben den Urkunden nur eine Familien-Stands-Bescheinigung brauchen.",
+      "Es gibt Länder, in denen Sie neben den Urkunden nur eine Familienstandsbescheinigung benötigen."
+    ],
+    0.7779390215873718
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Die Familien-Stands-Bescheinigung ist die erweiterte Melde-Bescheinigung.",
+      "Die Familienstandsbescheinigung ist die erweiterte Meldebescheinigung."
+    ],
+    0.9691488742828369
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Das ist ein Papier auf dem steht:",
+      "Die Familienstandsbescheinigung ist die erweiterte Meldebescheinigung."
+    ],
+    0.012486441060900688
+  ],
+  [
+    [
+      14,
+      4
+    ],
+    [
+      "• Ihre Adresse, • Ihre Staats-Angehörigkeit • und Ihr Familien-Stand.",
+      "Sie beinhaltet neben Ihrer Meldeadresse, Ihre Staatsangehörigkeit und Ihren Familienstand."
+    ],
+    0.8689954280853271
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Familien-Stand heißt: Ob Sie verheiratet sind.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.37881729006767273
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Sie bekommen die Familien-Stands-Bescheinigung im Kunden-Zentrum .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.4524567723274231
+  ],
+  [
+    [
+      18,
+      5
+    ],
+    [
+      "In manchen Ländern brauchen Sie ein Ehe-Fähigkeits-Zeugnis .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3879769444465637
+  ],
+  [
+    [
+      19,
+      5
+    ],
+    [
+      "Das ist ein Papier vom Amt, auf dem steht: Ob Sie beide heiraten können.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.34229594469070435
+  ],
+  [
+    [
+      21,
+      5
+    ],
+    [
+      "Und andere Informationen über Sie.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.2660764157772064
+  ],
+  [
+    [
+      22,
+      5
+    ],
+    [
+      "Das Zeugnis bestätigt dem Standes-Amt im Ausland dass es keine Hindernisse für eine Ehe gibt.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.00910353846848011
+  ],
+  [
+    [
+      23,
+      5
+    ],
+    [
+      "Zum Beispiel: Dass Sie alt genug sind, um zu heiraten.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.40745383501052856
+  ],
+  [
+    [
+      24,
+      5
+    ],
+    [
+      "Dass Sie fähig sind, zu heiraten.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.40035003423690796
+  ],
+  [
+    [
+      27,
+      5
+    ],
+    [
+      "Die Liste gilt für Sie nur:",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6121349930763245
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "• Wenn Sie beide deutsche Staats-Angehörige sind.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.48247793316841125
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "• Wenn Sie in Köln wohnen oder zuletzt in Köln gewohnt haben.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.4790491759777069
+  ],
+  [
+    [
+      30,
+      5
+    ],
+    [
+      "• Wenn Sie beide voll-jährig sind.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6183282136917114
+  ],
+  [
+    [
+      31,
+      5
+    ],
+    [
+      "• Wenn Sie beide noch nicht verheiratet waren.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.4500671923160553
+  ],
+  [
+    [
+      32,
+      5
+    ],
+    [
+      "Die Liste finden Sie unter der Überschrift:",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6787497401237488
+  ],
+  [
+    [
+      34,
+      5
+    ],
+    [
+      "Auf der Seite finden Sie noch mehr Infos zum Ehe-Fähigkeits-Zeugnis.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.4011726975440979
+  ],
+  [
+    [
+      35,
+      5
+    ],
+    [
+      "Wenn Sie Fragen haben oder etwas nicht verstehen, machen Sie bitte einen Termin bei uns.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.7069858312606812
+  ],
+  [
+    [
+      39,
+      5
+    ],
+    [
+      "Sie können den Antrag im Internet herunter laden.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5058721303939819
+  ],
+  [
+    [
+      40,
+      5
+    ],
+    [
+      "Dann müssen Sie den Antrag ausfüllen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6521257162094116
+  ],
+  [
+    [
+      42,
+      5
+    ],
+    [
+      "Sie müssen Ihre gültigen Ausweise zeigen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.40261638164520264
+  ],
+  [
+    [
+      43,
+      5
+    ],
+    [
+      "Ausnahme: Wenn Sie das Zeugnis vom Ausland aus beantragen, dann reicht eine beglaubigte Kopie von Ihrem Pas s .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3020186424255371
+  ],
+  [
+    [
+      45,
+      5
+    ],
+    [
+      "Das heißt: Das Amt macht einen Stempel auf die Kopie.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.040613241493701935
+  ],
+  [
+    [
+      46,
+      5
+    ],
+    [
+      "Der Stempel zeigt: Die Kopie ist echt.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.0037720866966992617
+  ],
+  [
+    [
+      48,
+      5
+    ],
+    [
+      "Wenn Sie in Deutschland geboren sind, brauchen Sie eine Kopie vom Geburts-Register.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6059877276420593
+  ],
+  [
+    [
+      49,
+      5
+    ],
+    [
+      "Sie bekommen die Kopie vom Geburts-Register beim Standes-Amt in Ihrem Geburts-Ort.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.21759819984436035
+  ],
+  [
+    [
+      51,
+      5
+    ],
+    [
+      "Das heißt: Sie müssen eine neue Kopie vom Amt besorgen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3517416715621948
+  ],
+  [
+    [
+      57,
+      5
+    ],
+    [
+      "Der Stempel zeigt: Die Kopie ist echt.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.0037720866966992617
+  ],
+  [
+    [
+      58,
+      5
+    ],
+    [
+      "Wenn Sie im Ausland geboren sind, dann brauchen Sie entweder:",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.7006410360336304
+  ],
+  [
+    [
+      59,
+      5
+    ],
+    [
+      "1. Eine Geburts-Urkunde aus Ihrem Heimat-Land mit Übersetzung in die deutsche Sprache oder 2. eine inter-nationale Geburts-Urkunde wo schon eine Übersetzung in die deutsche Sprache drauf ist.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.07283850759267807
+  ],
+  [
+    [
+      60,
+      5
+    ],
+    [
+      "Inter-national heißt: Sie gilt zwischen verschiedenen Ländern.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5470828413963318
+  ],
+  [
+    [
+      61,
+      5
+    ],
+    [
+      "Wichtig: 1. In der Geburts-Urkunde müssen die Namen von Ihren Eltern stehen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.08731962740421295
+  ],
+  [
+    [
+      62,
+      5
+    ],
+    [
+      "2. Ausländische Papiere in anderen Sprachen müssen ins Deutsche übersetzt werden.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.04212073236703873
+  ],
+  [
+    [
+      63,
+      5
+    ],
+    [
+      "Zum Beispiel: Ihre Urkunde aus der Türkei ist in türkischer Sprache.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.1179688572883606
+  ],
+  [
+    [
+      64,
+      5
+    ],
+    [
+      "Für das Amt in Deutschland muss die Urkunde übersetzt werden.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.07398723065853119
+  ],
+  [
+    [
+      68,
+      5
+    ],
+    [
+      "Sie dürfen die Urkunden nicht selbst übersetzen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.4768644869327545
+  ],
+  [
+    [
+      69,
+      5
+    ],
+    [
+      "Auch wenn Sie die Sprache gut können.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5867156386375427
+  ],
+  [
+    [
+      70,
+      5
+    ],
+    [
+      "Es sind nur Übersetzungen von Experten erlaubt.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.023069914430379868
+  ],
+  [
+    [
+      75,
+      5
+    ],
+    [
+      "Das heißt: Der Staat hat sie geprüft.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5442249774932861
+  ],
+  [
+    [
+      76,
+      5
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Übersetzerin arbeiten.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3340342938899994
+  ],
+  [
+    [
+      81,
+      5
+    ],
+    [
+      "Manchmal müssen Sie weitere Papiere zeigen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5814929008483887
+  ],
+  [
+    [
+      82,
+      5
+    ],
+    [
+      "Bitte lesen Sie die folgenden Infos gut durch.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.7156975865364075
+  ],
+  [
+    [
+      83,
+      5
+    ],
+    [
+      "Damit Sie alle nötigen Papiere mitbringen: Wenn einer von Ihnen nicht in Köln wohnt , dann brauchen Sie eine neue erweiterte Melde-Bescheinigung .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5847231149673462
+  ],
+  [
+    [
+      86,
+      5
+    ],
+    [
+      "Wenn Sie schon verheiratet waren, brauchen Sie auch eine Kopie vom Ehe-Register von Ihrer letzten Ehe mit einem Auflösungs-Vermerk .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.503739595413208
+  ],
+  [
+    [
+      88,
+      5
+    ],
+    [
+      "Sie sind nicht mehr verheiratet .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.318245530128479
+  ],
+  [
+    [
+      89,
+      5
+    ],
+    [
+      "Sie können wieder heiraten.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3040767312049866
+  ],
+  [
+    [
+      90,
+      5
+    ],
+    [
+      "Die Kopie aus dem Ehe-Register bekommen Sie beim Standes-Amt in dem Sie geheiratet haben.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.519309937953949
+  ],
+  [
+    [
+      95,
+      5
+    ],
+    [
+      "Wenn Sie keine deutsche Staats-Angehörigkeit haben, lassen Sie sich bitte persönlich von uns beraten.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6317537426948547
+  ],
+  [
+    [
+      96,
+      5
+    ],
+    [
+      "Sie bekommen dann von uns ein Merk-Blatt .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.44315242767333984
+  ],
+  [
+    [
+      98,
+      5
+    ],
+    [
+      "Zum Beispiel: Welche Papiere Sie für die Heirat brauchen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3596733510494232
+  ],
+  [
+    [
+      101,
+      5
+    ],
+    [
+      "Ausnahme: Wenn Sie zur Zeit im Ausland wohnen , dann ist das Standes-Amt für Sie zuständig, wo Sie zuletzt in Deutschland gewohnt haben.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6078794598579407
+  ],
+  [
+    [
+      102,
+      5
+    ],
+    [
+      "Das heißt: Wir sind nur für Sie zuständig 1. Wenn Sie in Köln wohnen .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6441123485565186
+  ],
+  [
+    [
+      103,
+      5
+    ],
+    [
+      "2. Wenn Sie zuletzt in Köln gewohnt haben.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5619485974311829
+  ],
+  [
+    [
+      107,
+      5
+    ],
+    [
+      "Und wenn Sie heiraten .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.44791179895401
+  ],
+  [
+    [
+      110,
+      5
+    ],
+    [
+      "Wenn Sie im Ausland heiraten, müssen Sie Ihre Ehe in Ihrem Wohn-Ort anmelden.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5684661269187927
+  ],
+  [
+    [
+      111,
+      5
+    ],
+    [
+      "Dafür müssen Sie zum Melde-Amt .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.651743471622467
+  ],
+  [
+    [
+      112,
+      5
+    ],
+    [
+      "Sie können auch ein Ehe-Register beantragen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.3661329746246338
+  ],
+  [
+    [
+      113,
+      5
+    ],
+    [
+      "Dafür müssen Sie zum Standes-Amt in Ihrem Wohn-Ort.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5302160382270813
+  ],
+  [
+    [
+      114,
+      5
+    ],
+    [
+      "Ehe-Register heißt: Das Standes-Amt macht eine Liste mit allen Ehe-Paaren im Ort.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.012857689522206783
+  ],
+  [
+    [
+      115,
+      5
+    ],
+    [
+      "Wenn Sie in dem Ort heiraten, dann werden Ihre Namen in die Liste geschrieben.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.40062597393989563
+  ],
+  [
+    [
+      116,
+      5
+    ],
+    [
+      "Dann bekommen Sie eine Urkunde vom Amt.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.655592679977417
+  ],
+  [
+    [
+      121,
+      5
+    ],
+    [
+      "Sie können Ihre Ehe dann durch eine deutsche Urkunde nachweisen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.35139209032058716
+  ],
+  [
+    [
+      122,
+      5
+    ],
+    [
+      "In der Urkunde steht auch, wenn Sie den Namen von Ihrem Partner oder Ihrer Partnerin annehmen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5057434439659119
+  ],
+  [
+    [
+      124,
+      5
+    ],
+    [
+      "Kommen Sie am besten persönlich zu uns.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.7349498867988586
+  ],
+  [
+    [
+      127,
+      5
+    ],
+    [
+      "Wenn Sie beide NICHT kommen können, dann kann eine Person Sie vertreten.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.670407772064209
+  ],
+  [
+    [
+      128,
+      5
+    ],
+    [
+      "Sie müssen der Person eine Vollmacht geben.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.4086572527885437
+  ],
+  [
+    [
+      129,
+      5
+    ],
+    [
+      "Das ist eine schriftliche Erlaubnis .",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.008867861703038216
+  ],
+  [
+    [
+      134,
+      5
+    ],
+    [
+      "Achtung: Wenn Sie im Ausland sind, können Sie den Antrag auch schriftlich an uns stellen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6763086318969727
+  ],
+  [
+    [
+      141,
+      5
+    ],
+    [
+      "Manchmal brauchen Sie eine erweiterte Melde-Bescheinigung.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5954998135566711
+  ],
+  [
+    [
+      143,
+      5
+    ],
+    [
+      "Manchmal müssen Sie auch für die Post bezahlen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.6369344592094421
+  ],
+  [
+    [
+      145,
+      5
+    ],
+    [
+      "Dann müssen Sie die Kosten für die Post bezahlen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5544834733009338
+  ],
+  [
+    [
+      146,
+      5
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5183244347572327
+  ],
+  [
+    [
+      147,
+      5
+    ],
+    [
+      "Also mit Geld-Scheinen und Münzen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.0016412046970799565
+  ],
+  [
+    [
+      148,
+      5
+    ],
+    [
+      "Oder Sie können mit Ihrer EC-Karte bezahlen.",
+      "Sie erhalten sie im Kundenzentrum."
+    ],
+    0.5422613620758057
+  ],
+  [
+    [
+      149,
+      17
+    ],
+    [
+      "Eine EC-Karte ist eine Karte aus Plastik.",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.315463662147522
+  ],
+  [
+    [
+      150,
+      17
+    ],
+    [
+      "Die Karte haben Sie von Ihrer Bank für Ihr Konto bekommen.",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.01769236847758293
+  ],
+  [
+    [
+      151,
+      17
+    ],
+    [
+      "Zusammen mit einer PIN-Nummer .",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.3304021656513214
+  ],
+  [
+    [
+      152,
+      17
+    ],
+    [
+      "Damit können Sie ohne Bar-Geld bezahlen .",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.019903773441910744
+  ],
+  [
+    [
+      153,
+      17
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.15923888981342316
+  ],
+  [
+    [
+      154,
+      17
+    ],
+    [
+      "Die Gesetze dazu stehen im Personen-stands-Gesetz .",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.15639299154281616
+  ],
+  [
+    [
+      155,
+      17
+    ],
+    [
+      "Die Abkürzung dafür ist: PstG .",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.09453438967466354
+  ],
+  [
+    [
+      156,
+      17
+    ],
+    [
+      "Und in der Verordnung zum Personen-stands-Gesetz.",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.1229800134897232
+  ],
+  [
+    [
+      157,
+      17
+    ],
+    [
+      "Die Abkürzung dafür ist: PstVO .",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.09401517361402512
+  ],
+  [
+    [
+      158,
+      17
+    ],
+    [
+      "Wo bekomme ich Beratung und Hilfe?",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.03691735491156578
+  ],
+  [
+    [
+      160,
+      17
+    ],
+    [
+      "Anmeldung Eheschließung Gülichplatz 1-3 50667 Köln",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.04738720878958702
+  ],
+  [
+    [
+      164,
+      17
+    ],
+    [
+      "Der Eingangs-Bereich ist voll zugänglich für Rollstuhl-Fahrer und Rollstuhl-Fahrerinnen.",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.11343640834093094
+  ],
+  [
+    [
+      165,
+      17
+    ],
+    [
+      "Es gibt einen Aufzug .",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.3937746584415436
+  ],
+  [
+    [
+      166,
+      17
+    ],
+    [
+      "Die Toiletten sind voll zugänglich für Rollstuhl-Fahrer und Rollstuhl-Fahrerinnen.",
+      "Die Übersetzung muss durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer erfolgen."
+    ],
+    0.026195133104920387
+  ],
+  [
+    [
+      168,
+      20
+    ],
+    [
+      "Stadt-Bahn-Linien 1, 5, 7 und 9 Haltestelle:",
+      "Einige spezielle Anforderungen und Hinweise"
+    ],
+    0.061281315982341766
+  ],
+  [
+    [
+      169,
+      20
+    ],
+    [
+      "Heumarkt Stadt-Bahn-Linie 5 Haltestelle: Rathaus Stadt-Bahn-Linien",
+      "Einige spezielle Anforderungen und Hinweise"
+    ],
+    0.007893504574894905
+  ],
+  [
+    [
+      170,
+      20
+    ],
+    [
+      "16 und 18 Haltestelle: Dom / Haupt-Bahnhof Bus-Linien 106, 132 und 133 Haltestelle:",
+      "Einige spezielle Anforderungen und Hinweise"
+    ],
+    0.08873765915632248
+  ],
+  [
+    [
+      171,
+      24
+    ],
+    [
+      "Heumarkt S-Bahn-Linien: S 6, S 11, S 12, S 13 und S19 Haltestelle: Köln",
+      "Die Bescheinigung wird von der Meldebehörde Ihres Hauptwohnsitzes in Deutschland ausgestellt."
+    ],
+    0.013747458346188068
+  ],
+  [
+    [
+      172,
+      24
+    ],
+    [
+      "Haupt-Bahnhof",
+      "Die Bescheinigung wird von der Meldebehörde Ihres Hauptwohnsitzes in Deutschland ausgestellt."
+    ],
+    0.0118689751252532
+  ],
+  [
+    [
+      173,
+      48
+    ],
+    [
+      "Deutsche Bahn",
+      "Sollten Sie sich im Ausland aufhalten, kann die Antragstellung auch schriftlich oder über die deutsche Botschaft oder das deutsche Konsulat erfolgen."
+    ],
+    0.5505148768424988
+  ],
+  [
+    [
+      175,
+      52
+    ],
+    [
+      "Köln",
+      "Die Gebühr für die erweiterte Meldebescheinigung des Kölner Wohnsitzes beträgt 9 Euro."
+    ],
+    0.07728169858455658
+  ]
+]

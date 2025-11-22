@@ -1,0 +1,937 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben die Frau oder den Mann fÃ¼rs Leben gefunden?",
+      "Sie wollen heiraten?"
+    ],
+    0.533894956111908
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und Sie wollen jetzt heiraten?",
+      "Sie wollen heiraten?"
+    ],
+    0.9039086103439331
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Wann kann ich eine Ehe anmelden?",
+      "Sie wollen heiraten?"
+    ],
+    0.6790897846221924
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Sie und Ihre Partnerin oder Ihr Partner mÃ¼ssen mindestens 18 Jahre alt sein.",
+      "Sie wollen heiraten?"
+    ],
+    0.5396224856376648
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Â Wissen Sie schon, wann Sie heiraten wollen?",
+      "Sie wollen heiraten?"
+    ],
+    0.7818194627761841
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "Sie kÃ¶nnen Ihren Wunsch-Termin schon vor dem Anmelden vormerken .",
+      "Damit Sie Ihre Trauung frühzeitig planen können, bieten wir Ihnen die Möglichkeit, Ihren Wunschtermin schon vor der Anmeldung vorzumerken."
+    ],
+    0.8873264193534851
+  ],
+  [
+    [
+      9,
+      5
+    ],
+    [
+      "Damit Sie Ihre Trauung gut planen kÃ¶nnen.",
+      "Damit Sie Ihre Trauung frühzeitig planen können, bieten wir Ihnen die Möglichkeit, Ihren Wunschtermin schon vor der Anmeldung vorzumerken."
+    ],
+    0.6576153039932251
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Sie kÃ¶nnen frÃ¼hestensÂ 6 Monate vorher einen Termin vormerken.",
+      "Damit Sie Ihre Trauung frühzeitig planen können, bieten wir Ihnen die Möglichkeit, Ihren Wunschtermin schon vor der Anmeldung vorzumerken."
+    ],
+    0.6828534007072449
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Infos dazu finden Sie unter der Ãberschrift:",
+      "Informationen dazu finden Sie unter \"Trautermin online\"."
+    ],
+    0.6440482139587402
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "Trau-Termin online vormerken.",
+      "Informationen dazu finden Sie unter \"Trautermin online\"."
+    ],
+    0.6097412109375
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Trau-Termin heiÃt: der Termin, an dem Sie heiraten wollen.",
+      "Persönliche Vorsprache mit Termin"
+    ],
+    0.5597901344299316
+  ],
+  [
+    [
+      15,
+      8
+    ],
+    [
+      "Das hÃ¤ngt davon ab, in welcher Lage Sie sind.",
+      "Weiterhin ist auch eine persönliche Vorsprache möglich."
+    ],
+    0.5273945331573486
+  ],
+  [
+    [
+      16,
+      33
+    ],
+    [
+      "Hier finden Sie nacheinander beschrieben, was Sie in den mÃ¶glichen Lagen brauchen.",
+      "Zum Nachweis muss ein amtlicher Lichtbildausweis vorgelegt werden."
+    ],
+    0.5476561784744263
+  ],
+  [
+    [
+      18,
+      35
+    ],
+    [
+      "Sind Sie und Ihr Partner oder Ihre Partnerin Deutsche?",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6238346695899963
+  ],
+  [
+    [
+      19,
+      35
+    ],
+    [
+      "Und Sie wohnen beide in KÃ¶ln?",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.6355381011962891
+  ],
+  [
+    [
+      20,
+      35
+    ],
+    [
+      "Und Sie waren noch nie verheiratet?",
+      "Dies gilt auch für Sie als Hochzeitspaar."
+    ],
+    0.5542412400245667
+  ],
+  [
+    [
+      22,
+      38
+    ],
+    [
+      "Ihren Personal-Ausweis oder Reise-Pass eine beglaubigte Kopie von Ihrem Geburts-Register .",
+      "Personalausweis oder Reisepass"
+    ],
+    0.8086670637130737
+  ],
+  [
+    [
+      23,
+      44
+    ],
+    [
+      "Beglaubigt heiÃt: Ein Amt bestÃ¤tigt: die Urkunde oder ein anderes Papier ist richtig und echt.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.6718060970306396
+  ],
+  [
+    [
+      24,
+      44
+    ],
+    [
+      "Zum Beispiel mÃ¼ssen Sie eine Kopie von einer Urkunde beglaubigen lassen.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.74405837059021
+  ],
+  [
+    [
+      25,
+      44
+    ],
+    [
+      "Das Amt macht dann seinen Stempel auf die Kopie.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.708333432674408
+  ],
+  [
+    [
+      26,
+      44
+    ],
+    [
+      "Die Kopie ist dann beglaubigt.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.6153954863548279
+  ],
+  [
+    [
+      27,
+      44
+    ],
+    [
+      "Die Kopie ist dann genauso echt wie die richtige Urkunde.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.6841269135475159
+  ],
+  [
+    [
+      28,
+      44
+    ],
+    [
+      "Â Diese beglaubigte Kopie mÃ¼ssen Sie abgeben.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.6970402598381042
+  ],
+  [
+    [
+      29,
+      44
+    ],
+    [
+      "Sie kÃ¶nnen keine Kopie abgeben, die nicht beglaubigt ist.",
+      "Die Urkunde müssen Sie im Original vorlegen."
+    ],
+    0.5708147883415222
+  ],
+  [
+    [
+      30,
+      46
+    ],
+    [
+      "Sie kÃ¶nnen auch keine Geburts-Urkunde abgeben.",
+      "Geburtsurkunde Ihrer gemeinsamen Kinder Haben Sie ein gemeinsames Kind, so benötigen wir eine Geburtsurkunde, in der Sie beide als Eltern eingetragen sind."
+    ],
+    0.5312451124191284
+  ],
+  [
+    [
+      31,
+      46
+    ],
+    [
+      "Sie kÃ¶nnen auch keine Geburts-Bescheinigung abgeben.",
+      "Geburtsurkunde Ihrer gemeinsamen Kinder Haben Sie ein gemeinsames Kind, so benötigen wir eine Geburtsurkunde, in der Sie beide als Eltern eingetragen sind."
+    ],
+    0.5255272388458252
+  ],
+  [
+    [
+      32,
+      46
+    ],
+    [
+      "Wir nehmen nur eine beglaubigte Kopie von Ihrem Geburts-Register.",
+      "Geburtsurkunde Ihrer gemeinsamen Kinder Haben Sie ein gemeinsames Kind, so benötigen wir eine Geburtsurkunde, in der Sie beide als Eltern eingetragen sind."
+    ],
+    0.6465133428573608
+  ],
+  [
+    [
+      33,
+      46
+    ],
+    [
+      "Â Die beglaubigte Kopie von Ihrem Geburts-Register bekommen Sie beim Standes-Amt.",
+      "Geburtsurkunde Ihrer gemeinsamen Kinder Haben Sie ein gemeinsames Kind, so benötigen wir eine Geburtsurkunde, in der Sie beide als Eltern eingetragen sind."
+    ],
+    0.6964777708053589
+  ],
+  [
+    [
+      35,
+      46
+    ],
+    [
+      "Wenn Sie zusammen Kinder haben, brauchen Sie auch: eine neue Geburts-Urkunde , auf der Sie beide als Eltern stehen.",
+      "Geburtsurkunde Ihrer gemeinsamen Kinder Haben Sie ein gemeinsames Kind, so benötigen wir eine Geburtsurkunde, in der Sie beide als Eltern eingetragen sind."
+    ],
+    0.9190371036529541
+  ],
+  [
+    [
+      36,
+      47
+    ],
+    [
+      "Diese Urkunde bekommen Sie beim Standes-Amt in der Stadt, wo Sie die Geburt vom Kind gemeldet haben.",
+      "Eine solche Urkunde erhalten Sie bei dem Standesamt, bei dem die Geburt Ihres Kindes eingetragen wurde."
+    ],
+    0.9276200532913208
+  ],
+  [
+    [
+      37,
+      52
+    ],
+    [
+      "2. Sie oder Ihr PartnerÂ oder Ihre Partnerin sind in einem anderen Land gemeldet als Deutschland:",
+      "Die Bescheinigung wird von der Meldebehörde Ihres Hauptwohnsitzes in Deutschland ausgestellt."
+    ],
+    0.6696029305458069
+  ],
+  [
+    [
+      41,
+      52
+    ],
+    [
+      "Â Wenn Sie Urkunden aus dem Ausland vorzeigen mÃ¼ssen, beachten Sie bitte: AuslÃ¤ndische Urkunden in anderen Sprachen mÃ¼ssen ins Deutsche Ã¼bersetzt werden.",
+      "Die Bescheinigung wird von der Meldebehörde Ihres Hauptwohnsitzes in Deutschland ausgestellt."
+    ],
+    0.7448065280914307
+  ],
+  [
+    [
+      43,
+      52
+    ],
+    [
+      "FÃ¼r das Amt in Deutschland muss die Urkunde in deutsche Sprache Ã¼bersetzt werden.",
+      "Die Bescheinigung wird von der Meldebehörde Ihres Hauptwohnsitzes in Deutschland ausgestellt."
+    ],
+    0.7764826416969299
+  ],
+  [
+    [
+      45,
+      55
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Die Urkunde muss durch eine*n Dolmetscher*in, eine*n Übersetzer*in übersetzt werden."
+    ],
+    0.834564745426178
+  ],
+  [
+    [
+      48,
+      55
+    ],
+    [
+      "Auch wenn Sie die Sprache gut beherrschen.",
+      "Die Urkunde muss durch eine*n Dolmetscher*in, eine*n Übersetzer*in übersetzt werden."
+    ],
+    0.5657694935798645
+  ],
+  [
+    [
+      51,
+      55
+    ],
+    [
+      "Er prÃ¼ft die Ãbersetzer und Dolmetscher.",
+      "Die Urkunde muss durch eine*n Dolmetscher*in, eine*n Übersetzer*in übersetzt werden."
+    ],
+    0.7060404419898987
+  ],
+  [
+    [
+      55,
+      55
+    ],
+    [
+      "Sie dÃ¼rfen als Ãbersetzer oder Dolmetscher arbeiten.",
+      "Die Urkunde muss durch eine*n Dolmetscher*in, eine*n Übersetzer*in übersetzt werden."
+    ],
+    0.7337855100631714
+  ],
+  [
+    [
+      59,
+      60
+    ],
+    [
+      "Â Wenn Sie als Aussiedler oder Ãbersiedler nach Deutschland gekommen sind: Dann mÃ¼ssen Sie auÃerdem folgende Unterlagen abgeben:",
+      "Sollten Sie als Aussiedler*in oder Übersiedler*in nach Deutschland gekommen sein, benötigen Sie neben Ihrer Geburtsurkunde mit Übersetzung den Nachweis Ihrer Namensführung, zum Beispiel eine Bescheinigung nach § 94 des Bundesvertriebenengesetzes oder das Familienbuch."
+    ],
+    0.7902721762657166
+  ],
+  [
+    [
+      69,
+      73
+    ],
+    [
+      "Dann brauchen Sie eine erweiterte Melde-Bescheinigung.",
+      "Zu den erforderlichen Unterlagen ist zusätzlich eine neue erweiterte Meldebescheinigung Ihres inländischen Hauptwohnsitzes notwendig."
+    ],
+    0.7401479482650757
+  ],
+  [
+    [
+      71,
+      77
+    ],
+    [
+      "In welchem Ort Sie gemeldet sind.",
+      "Nachdem Sie Ihre Eheschließung beim Standesamt Ihres Wohnortes angemeldet haben, schickt Ihr Wohnortstandesamt uns die Unterlagen zu."
+    ],
+    0.6639545559883118
+  ],
+  [
+    [
+      73,
+      77
+    ],
+    [
+      "Diese Bescheinigung bekommen Sie beim Einwohner-Melde-Amt von dem Ort, in dem Sie wohnen.",
+      "Nachdem Sie Ihre Eheschließung beim Standesamt Ihres Wohnortes angemeldet haben, schickt Ihr Wohnortstandesamt uns die Unterlagen zu."
+    ],
+    0.7522967457771301
+  ],
+  [
+    [
+      75,
+      77
+    ],
+    [
+      "Dann bekommen Sie die nÃ¶tigen Papiere zum Anmelden von einer Ehe.",
+      "Nachdem Sie Ihre Eheschließung beim Standesamt Ihres Wohnortes angemeldet haben, schickt Ihr Wohnortstandesamt uns die Unterlagen zu."
+    ],
+    0.8472886681556702
+  ],
+  [
+    [
+      76,
+      78
+    ],
+    [
+      "Und Sie mÃ¼ssen die Papiere beim Standes-Amt in KÃ¶ln zeigen.",
+      "Alternativ werden Ihnen die Unterlagen mitgegeben."
+    ],
+    0.8524995446205139
+  ],
+  [
+    [
+      79,
+      78
+    ],
+    [
+      "Oder das Standes-Amt in Ihrem Heimat-Ort schickt uns die Papiere direkt zu.",
+      "Alternativ werden Ihnen die Unterlagen mitgegeben."
+    ],
+    0.788585901260376
+  ],
+  [
+    [
+      80,
+      78
+    ],
+    [
+      "Wenn das Standes-Amt uns die Papiere geschickt hat, dann melden wir uns bei Ihnen.",
+      "Alternativ werden Ihnen die Unterlagen mitgegeben."
+    ],
+    0.7983065843582153
+  ],
+  [
+    [
+      83,
+      78
+    ],
+    [
+      "Wir melden uns bei Ihnen, wenn wir Ihre Papiere bekommen haben.",
+      "Alternativ werden Ihnen die Unterlagen mitgegeben."
+    ],
+    0.7533899545669556
+  ],
+  [
+    [
+      84,
+      81
+    ],
+    [
+      "Dann legen wir gemeinsam einen Trau-Termin fest.",
+      "Einer von Ihnen beiden oder eine beauftragte Person muss vor der Trauung hier vorsprechen, um die Gebühren zu bezahlen."
+    ],
+    0.6527175903320312
+  ],
+  [
+    [
+      85,
+      84
+    ],
+    [
+      "Und wir klÃ¤ren weitere Fragen.",
+      "Hierbei können offene Fragen geklärt werden."
+    ],
+    0.7408872842788696
+  ],
+  [
+    [
+      93,
+      86
+    ],
+    [
+      "Das bedeutet, dass es gÃ¼ltig ist.",
+      "Nottrauung"
+    ],
+    0.6711023449897766
+  ],
+  [
+    [
+      96,
+      86
+    ],
+    [
+      "online vormerken",
+      "Nottrauung"
+    ],
+    0.5857524871826172
+  ],
+  [
+    [
+      99,
+      86
+    ],
+    [
+      "Â",
+      "Nottrauung"
+    ],
+    0.7600222826004028
+  ],
+  [
+    [
+      103,
+      86
+    ],
+    [
+      "Not-Trauung",
+      "Nottrauung"
+    ],
+    0.9999999403953552
+  ],
+  [
+    [
+      104,
+      86
+    ],
+    [
+      "Not-Trauung bedeutet: 2 Personen werdenÂ besonders schnell getraut .",
+      "Nottrauung"
+    ],
+    0.6049053072929382
+  ],
+  [
+    [
+      107,
+      86
+    ],
+    [
+      "Das heiÃt: Wir trauen Sie auÃerhalb vom Standes-Amt .",
+      "Nottrauung"
+    ],
+    0.603490948677063
+  ],
+  [
+    [
+      111,
+      86
+    ],
+    [
+      "Wir trauen Sie auÃerhalb der Ãffnungs-Zeiten .",
+      "Nottrauung"
+    ],
+    0.5920380353927612
+  ],
+  [
+    [
+      113,
+      86
+    ],
+    [
+      "Wir sind nur zustÃ¤ndig fÃ¼r Not-Trauungen in KÃ¶ln .",
+      "Nottrauung"
+    ],
+    0.6939828395843506
+  ],
+  [
+    [
+      116,
+      86
+    ],
+    [
+      "Und nicht mehr lange leben.",
+      "Nottrauung"
+    ],
+    0.5814014673233032
+  ],
+  [
+    [
+      117,
+      86
+    ],
+    [
+      "Und nicht lÃ¤nger warten kÃ¶nnen.",
+      "Nottrauung"
+    ],
+    0.679283618927002
+  ],
+  [
+    [
+      119,
+      86
+    ],
+    [
+      "Wenn Sie beweisen kÃ¶nnen, dass es kein Hindernis fÃ¼r die Trauung gibt.",
+      "Nottrauung"
+    ],
+    0.5759296417236328
+  ],
+  [
+    [
+      125,
+      86
+    ],
+    [
+      "Damit beweisen Sie, dass die Not-Trauung notwendig ist.",
+      "Nottrauung"
+    ],
+    0.6687413454055786
+  ],
+  [
+    [
+      129,
+      86
+    ],
+    [
+      "2.",
+      "Nottrauung"
+    ],
+    0.5794986486434937
+  ],
+  [
+    [
+      130,
+      86
+    ],
+    [
+      "Die Person ist geschÃ¤fts-fÃ¤hig .",
+      "Nottrauung"
+    ],
+    0.652856707572937
+  ],
+  [
+    [
+      132,
+      86
+    ],
+    [
+      "3.",
+      "Nottrauung"
+    ],
+    0.5958972573280334
+  ],
+  [
+    [
+      133,
+      93
+    ],
+    [
+      "Die Person versteht die Bedeutung einer Trauung .",
+      "Aus dieser Bescheinigung muss sich ebenfalls ergeben, dass die Person geschäftsfähig und sich über die Bedeutung einer Trauung im Klaren ist."
+    ],
+    0.656409740447998
+  ],
+  [
+    [
+      134,
+      93
+    ],
+    [
+      "Das heiÃt: Die Person weiÃ, was Sie tut.",
+      "Aus dieser Bescheinigung muss sich ebenfalls ergeben, dass die Person geschäftsfähig und sich über die Bedeutung einer Trauung im Klaren ist."
+    ],
+    0.5537254214286804
+  ],
+  [
+    [
+      136,
+      94
+    ],
+    [
+      "Bei Fragen rufen Sie uns bitte an.",
+      "Bei Fragen stehen wir Ihnen unter der Rufnummer 0221 / 221-25781 gerne zur Verfügung."
+    ],
+    0.6874831318855286
+  ],
+  [
+    [
+      137,
+      94
+    ],
+    [
+      "Das ist unsere Telefon-Nummer: 02 21 / 22 12 57 81. Was ist, wenn mein Partner oder meine Partnerin nicht beim Vorsprechen dabei sein kann?",
+      "Bei Fragen stehen wir Ihnen unter der Rufnummer 0221 / 221-25781 gerne zur Verfügung."
+    ],
+    0.6993924379348755
+  ],
+  [
+    [
+      146,
+      98
+    ],
+    [
+      "Sie kÃ¶nnen es hierÂ im Internet ausfÃ¼llen.",
+      "online"
+    ],
+    0.64073646068573
+  ],
+  [
+    [
+      150,
+      105
+    ],
+    [
+      "Â Drucken Sie das Formular dann aus.",
+      "Vorsprache"
+    ],
+    0.5293323993682861
+  ],
+  [
+    [
+      154,
+      111
+    ],
+    [
+      "Was kostet das Anmelden einer Ehe?",
+      "Die Anmeldung zur Eheschließung kostet 40 Euro."
+    ],
+    0.7455646395683289
+  ],
+  [
+    [
+      155,
+      111
+    ],
+    [
+      "Das Anmelden kostet 40 Euro.",
+      "Die Anmeldung zur Eheschließung kostet 40 Euro."
+    ],
+    0.8845958113670349
+  ],
+  [
+    [
+      163,
+      114
+    ],
+    [
+      "Zum Beispiel: Die Kosten fÃ¼r Urkunden und ein Familien-Stamm-Buch.",
+      "Zu diesen Gebühren kommen noch die Kosten für Urkunden und eventuell ein Familienstammbuch hinzu, etwa 40 bis 60 Euro, so dass der individuelle Betrag verschieden ist."
+    ],
+    0.7673221826553345
+  ],
+  [
+    [
+      164,
+      114
+    ],
+    [
+      "DafÃ¼r mÃ¼ssen Sie noch einmal etwa 40 bis 60 Euro bezahlen.",
+      "Zu diesen Gebühren kommen noch die Kosten für Urkunden und eventuell ein Familienstammbuch hinzu, etwa 40 bis 60 Euro, so dass der individuelle Betrag verschieden ist."
+    ],
+    0.7903543710708618
+  ],
+  [
+    [
+      167,
+      115
+    ],
+    [
+      "Â Dazu kommen die Kosten fÃ¼r die RÃ¤ume wÃ¤hrend der Hochzeit.",
+      "Außerdem kommen Kosten für die Raumnutzung bei der Eheschließung selbst hinzu."
+    ],
+    0.7681387066841125
+  ],
+  [
+    [
+      174,
+      115
+    ],
+    [
+      "Wenn das Rathaus geschlossen ist, ist es teurer.",
+      "Außerdem kommen Kosten für die Raumnutzung bei der Eheschließung selbst hinzu."
+    ],
+    0.5660898685455322
+  ],
+  [
+    [
+      175,
+      115
+    ],
+    [
+      "Ein Beispiel fÃ¼r die verschiedenen Kosten: Wenn Sie innerhalb der Ãffnungs-Zeiten heiraten:",
+      "Außerdem kommen Kosten für die Raumnutzung bei der Eheschließung selbst hinzu."
+    ],
+    0.750709056854248
+  ],
+  [
+    [
+      176,
+      117
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Rathaus-Spanischer Bau nichts dazu bezahlen.",
+      "Für Eheschließungen innerhalb der Öffnungszeiten entstehen im Rathaus-Spanischer Bau keine weiteren Kosten, im Historischen Rathaus 39 Euro."
+    ],
+    0.6197677850723267
+  ],
+  [
+    [
+      177,
+      118
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Historischen Rathaus 34 Euro bezahlen.",
+      "Für Trauungen außerhalb des Rathauses beträgt der Auslagenersatz 292 Euro."
+    ],
+    0.6704285144805908
+  ],
+  [
+    [
+      180,
+      118
+    ],
+    [
+      "Dann mÃ¼ssen Sie im Historischen Rathaus 113 Euro dazu bezahlen.",
+      "Für Trauungen außerhalb des Rathauses beträgt der Auslagenersatz 292 Euro."
+    ],
+    0.6569405794143677
+  ],
+  [
+    [
+      185,
+      118
+    ],
+    [
+      "Dann mÃ¼ssen Sie 292 Euro bezahlen.",
+      "Für Trauungen außerhalb des Rathauses beträgt der Auslagenersatz 292 Euro."
+    ],
+    0.7538741827011108
+  ],
+  [
+    [
+      187,
+      120
+    ],
+    [
+      "Dann mÃ¼ssen Sie noch einmal 66 Euro zusÃ¤tzlich bezahlen.",
+      "An den Außentrauorten des Standesamtes fallen 66 Euro Extragebühr für eine Eheschließung außerhalb der Öffnungszeiten an."
+    ],
+    0.6610822081565857
+  ],
+  [
+    [
+      191,
+      121
+    ],
+    [
+      "Sie kÃ¶nnen auch mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können bar oder mit der EC-Karte und PIN-Nummer bezahlt werden."
+    ],
+    0.8452694416046143
+  ],
+  [
+    [
+      193,
+      121
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank fÃ¼r Ihr Konto bekommen.",
+      "Die Gebühren können bar oder mit der EC-Karte und PIN-Nummer bezahlt werden."
+    ],
+    0.5470128059387207
+  ],
+  [
+    [
+      201,
+      124
+    ],
+    [
+      "Die AbkÃ¼rzung dafÃ¼r ist PStG .",
+      "Personenstandsgesetz (PStG), Verordnung zur Ausführung des Personenstandsgesetzes (PStVO)"
+    ],
+    0.6886595487594604
+  ],
+  [
+    [
+      202,
+      124
+    ],
+    [
+      "Und in der Verordnung zur AusfÃ¼hrung des Personen-Stands-Gesetzes .",
+      "Personenstandsgesetz (PStG), Verordnung zur Ausführung des Personenstandsgesetzes (PStVO)"
+    ],
+    0.8399897813796997
+  ]
+]

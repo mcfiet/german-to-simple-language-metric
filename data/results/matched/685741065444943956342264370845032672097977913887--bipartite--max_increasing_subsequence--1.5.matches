@@ -1,0 +1,607 @@
+[
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zulassen bedeutet:",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.5749471187591553
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Autos Motorräder LKW s Sie wollen ein neues Fahrzeug zulassen ?",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.6169697046279907
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Wenn Sie ein neues Fahrzeug zulassen wollen, dann müssen Sie uns diese Papiere zeigen:",
+      "Sie wollen ein fabrikneues Fahrzeug erstmals für den Verkehr zulassen."
+    ],
+    0.6282979846000671
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Zulassungs-Bescheinigung Teil 2",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.7823142409324646
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Sie bekommen die Zulassungs-Bescheinigung Teil 2, wenn Sie ein Fahrzeug kaufen .",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.6256857514381409
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Früher hieß die Bescheinigung: Fahrzeug-Brief .",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.6492845416069031
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Wenn Sie noch keine Zulassungs-Bescheinigung haben, dann müssen Sie uns eine Bestätigung vom Fahrzeug-Händler zeigen.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.6096676588058472
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "Das Fahrzeug wurde bisher noch nicht zugelassen.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.9131466746330261
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Es gibt noch keine Zulassungs-Bescheinigung für das Fahrzeug.",
+      "Benötigt werden Zulassungsbescheinigung Teil II wenn bereits vorhanden, ansonsten die Bestätigung des Fahrzeughändlers, dass das Fahrzeug bislang im In- und Ausland nicht zugelassen wurde und keine Fahrzeugzulassungsdokumente ausgestellt wurden."
+    ],
+    0.7236891388893127
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "EWG-Übereinstimmungs-Bescheinigung",
+      "EWG-Übereinstimmungsbescheinigung (COC-Papier)"
+    ],
+    1.0
+  ],
+  [
+    [
+      39,
+      6
+    ],
+    [
+      "In Deutschland muss jedes zugelassene Fahrzeug versichert sein.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6234773397445679
+  ],
+  [
+    [
+      40,
+      6
+    ],
+    [
+      "Das heißt: Sie brauchen eine Kfz-Versicherung für Ihr Auto.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5764642953872681
+  ],
+  [
+    [
+      43,
+      6
+    ],
+    [
+      "Die Abkürzung dafür ist: eVB-Nummer.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5808447599411011
+  ],
+  [
+    [
+      46,
+      6
+    ],
+    [
+      "Der Halter oder die Halterin ist die Person, auf die das Fahrzeug zugelassen wird.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7464137077331543
+  ],
+  [
+    [
+      48,
+      6
+    ],
+    [
+      "Bei Firmen-Fahrzeugen: Auszug aus dem Handels-Register oder die Gewerbe-Anmeldung",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7215610146522522
+  ],
+  [
+    [
+      51,
+      6
+    ],
+    [
+      "Kopie aus dem Handels-Register oder die Gewerbe-Anmeldung",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7135411500930786
+  ],
+  [
+    [
+      52,
+      6
+    ],
+    [
+      "Bei Personen unter 18 Jahren: Ausweis und Einverständnis-Erklärung von den Erziehungs-Berechtigten oder vom Vormund",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6415539383888245
+  ],
+  [
+    [
+      54,
+      6
+    ],
+    [
+      "Dann müssen Sie uns eine Einverständnis-Erklärung zeigen von den Erziehungs-Berechtigten oder vom Vormund.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5803998708724976
+  ],
+  [
+    [
+      55,
+      6
+    ],
+    [
+      "Das ist die Person, die die Verantwortung für das Kind hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.8275226950645447
+  ],
+  [
+    [
+      56,
+      6
+    ],
+    [
+      "Die Personen müssen uns auch ihren Pass oder Personal-Ausweis zeigen.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6183231472969055
+  ],
+  [
+    [
+      60,
+      6
+    ],
+    [
+      "Das schwere Wort dafür ist: Kraft-Fahrzeug-Steuer.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6176285743713379
+  ],
+  [
+    [
+      61,
+      6
+    ],
+    [
+      "Die Abkürzung ist: Kfz-Steuer.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.603924572467804
+  ],
+  [
+    [
+      67,
+      6
+    ],
+    [
+      "Ohne die Erlaubnis dürfen wir Ihr Fahrzeug nicht zulassen.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5793431997299194
+  ],
+  [
+    [
+      75,
+      6
+    ],
+    [
+      "Der Konto-Inhaber ist nicht immer auch der Fahrzeug-Halter.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6749258637428284
+  ],
+  [
+    [
+      76,
+      6
+    ],
+    [
+      "Manchmal bezahlt eine Person die Kfz-Steuer.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6603296399116516
+  ],
+  [
+    [
+      77,
+      6
+    ],
+    [
+      "Obwohl eine andere Person das Auto nutzt.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7075068950653076
+  ],
+  [
+    [
+      102,
+      6
+    ],
+    [
+      "Was ist, wenn ich das Fahrzeug als Firmen-Fahrzeug nutze?",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6299639344215393
+  ],
+  [
+    [
+      107,
+      6
+    ],
+    [
+      "Sie können ein Fahrzeug auf eine Person unter 18 Jahren zulassen.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6128228902816772
+  ],
+  [
+    [
+      108,
+      6
+    ],
+    [
+      "Das ist aber nur in manchen Fällen möglich.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7631914615631104
+  ],
+  [
+    [
+      109,
+      6
+    ],
+    [
+      "Zum Beispiel wenn die Person unter 18 Jahren: Eine Fahr-Erlaubnis für das Fahrzeug hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6871951818466187
+  ],
+  [
+    [
+      110,
+      6
+    ],
+    [
+      "Oder die Person eine schwere Behinderung hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7044712901115417
+  ],
+  [
+    [
+      113,
+      6
+    ],
+    [
+      "Bitte fragen Sie vorher, ob Sie das Fahrzeug auf die Person unter 18 Jahren zulassen können.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.5811973214149475
+  ],
+  [
+    [
+      115,
+      6
+    ],
+    [
+      "Also: Eine Erlaubnis von der Mutter und dem Vater.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.638788640499115
+  ],
+  [
+    [
+      116,
+      6
+    ],
+    [
+      "Beide Eltern müssen die Erklärung unterschreiben.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6440809369087219
+  ],
+  [
+    [
+      118,
+      6
+    ],
+    [
+      "Ausnahme: Wenn nur 1 Person das Sorge-Recht hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6733104586601257
+  ],
+  [
+    [
+      119,
+      6
+    ],
+    [
+      "Dann muss nur diese Person ihren Ausweis zeigen.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.649413526058197
+  ],
+  [
+    [
+      120,
+      6
+    ],
+    [
+      "Das heißt: Wenn nur die Mutter das Sorge-Recht hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7300440669059753
+  ],
+  [
+    [
+      121,
+      6
+    ],
+    [
+      "Oder wenn nur der Vater das Sorge-Recht hat.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.7451740503311157
+  ],
+  [
+    [
+      122,
+      6
+    ],
+    [
+      "Oder wenn sich eine andere Person um das Kind kümmert.",
+      "Bei Minderjährigen die Einverständniserklärung des oder der Erziehungsberechtigten oder des Vormundes und deren Ausweisdokumente Die Zulassung des Fahrzeuges auf eine minderjährige Person ist nur zulässig aus steuerlichen Gründen auf Grund einer Schwerbehinderung des minderjährigen Kindes oder wenn das minderjährige Kind in Besitz einer für das Fahrzeug erforderlichen Fahrerlaubnis ist."
+    ],
+    0.6904985308647156
+  ],
+  [
+    [
+      124,
+      11
+    ],
+    [
+      "Und einen Nachweis über das Sorge-Recht.",
+      "Ohne dieses Mandat darf die Zulassungsbehörde einen Antrag auf Zulassung eines Fahrzeuges nicht bearbeiten."
+    ],
+    0.5810006260871887
+  ],
+  [
+    [
+      128,
+      19
+    ],
+    [
+      "Oder Sie können persönlich kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7612906098365784
+  ],
+  [
+    [
+      133,
+      19
+    ],
+    [
+      "Sie können auch persönlich zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.7539184093475342
+  ],
+  [
+    [
+      135,
+      19
+    ],
+    [
+      "Wenn Sie nicht persönlich kommen können, dann kann auch eine andere Person für Sie zu uns kommen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6817837357521057
+  ],
+  [
+    [
+      136,
+      19
+    ],
+    [
+      "Die Person muss uns dann eine Vollmacht zeigen.",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6840341687202454
+  ],
+  [
+    [
+      138,
+      19
+    ],
+    [
+      "Dass Sie jemanden etwas erlauben .",
+      "Sie müssen persönlich erscheinen, können sich aber durch eine bevollmächtigte Person vertreten lassen."
+    ],
+    0.6045257449150085
+  ],
+  [
+    [
+      139,
+      21
+    ],
+    [
+      "Das Formular für die Vollmacht können Sie am Computer ausfüllen .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.8052839040756226
+  ],
+  [
+    [
+      140,
+      21
+    ],
+    [
+      "Dann müssen Sie das Formular ausdrucken.",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.799183189868927
+  ],
+  [
+    [
+      141,
+      21
+    ],
+    [
+      "Dann müssen Sie das Formular unterschreiben .",
+      "Das Formular können Sie am Computer ausfüllen, ausdrucken und unterschreiben."
+    ],
+    0.799183189868927
+  ],
+  [
+    [
+      146,
+      25
+    ],
+    [
+      "Aber manchmal müssen Sie weitere Gebühren bezahlen.",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.6161196231842041
+  ],
+  [
+    [
+      147,
+      25
+    ],
+    [
+      "Zum Beispiel: Sie müssen mehr bezahlen:",
+      "Seit dem 23. Mai 2014 können Sie als Privatperson aus Köln auch die Zulassungsstellen in Bergheim und Hürth für diese Dienstleistung in Anspruch nehmen."
+    ],
+    0.5799275636672974
+  ],
+  [
+    [
+      151,
+      27
+    ],
+    [
+      "Wenn Sie den Fahrzeug-Brief umtauschen gegen eine Zulassungs-Bescheinigung Teil 2. Dann müssen Sie zusätzlich 5,10 Euro bezahlen.",
+      "Gebühren 27 Euro"
+    ],
+    0.6288862228393555
+  ],
+  [
+    [
+      152,
+      28
+    ],
+    [
+      "Wenn Ihre Fahrzeug-Daten nicht beim Kraft-Fahrt-Bundes-Amt verfügbar sind.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.8968812227249146
+  ],
+  [
+    [
+      153,
+      28
+    ],
+    [
+      "Oder nicht im Fahrzeug-Register von der Stadt Köln verfügbar sind.",
+      "Diese Gebühr erhöht sich um 15,30 Euro, wenn der Abruf der Fahrzeugdaten beim Kraftfahrt-Bundesamt nicht möglich ist und sie im örtlichen Fahrzeugregister nicht verfügbar sind."
+    ],
+    0.7261342406272888
+  ],
+  [
+    [
+      154,
+      30
+    ],
+    [
+      "Dann müssen Sie zusätzlich 15,30 Euro bezahlen.",
+      "Sie können das Wunschkennzeichen auch vorab online oder telefonisch zu einem Aufpreis von 2,60 Euro reservieren."
+    ],
+    0.6777549386024475
+  ],
+  [
+    [
+      155,
+      35
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können auch per ec-Karte mit PIN-Nummer oder GeldKarte entrichtet werden."
+    ],
+    0.7210400700569153
+  ]
+]

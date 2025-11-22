@@ -1,0 +1,706 @@
+[
+  [
+    [
+      0,
+      8
+    ],
+    [
+      "Achtung!",
+      "Das sollten Sie tun:"
+    ],
+    0.5781313180923462
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.7935129404067993
+  ],
+  [
+    [
+      2,
+      11
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.9103574752807617
+  ],
+  [
+    [
+      3,
+      11
+    ],
+    [
+      "Die Nummer ist:",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.4253600239753723
+  ],
+  [
+    [
+      4,
+      13
+    ],
+    [
+      "112.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.28689730167388916
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.6417274475097656
+  ],
+  [
+    [
+      6,
+      10
+    ],
+    [
+      "Dann fehlen im Gehirn Sauerstoff und Nährstoffe.",
+      "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen)."
+    ],
+    0.5163965821266174
+  ],
+  [
+    [
+      7,
+      10
+    ],
+    [
+      "Und dann können Gehirnzellen sterben.",
+      "Denn bei beiden Erkrankungen gilt: \"time is muscle\" (kürzere Zeit bis zur Behandlung bedeutet mehr bleibende gesunde Herzmuskulatur) oder \"time is brain\" (kürzere Zeit bis zur Behandlung bedeutet weniger abgestorbene Hirnzellen)."
+    ],
+    0.5626427531242371
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7674927115440369
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für einen Schlaganfall.",
+      "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen: Ratgeber Schlaganfall ."
+    ],
+    0.764794111251831
+  ],
+  [
+    [
+      10,
+      6
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.5734423398971558
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Typische Anzeichen für einen Schlaganfall sind zum Beispiel:",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.7431482672691345
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Ein Körperteil ist gelähmt.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.5575656294822693
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.6677589416503906
+  ],
+  [
+    [
+      14,
+      5
+    ],
+    [
+      "Ein Körperteil fühlt sich taub an.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.5219933986663818
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Ein Teil des Gesichts ist gelähmt.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.5721561908721924
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel nicht mehr lächeln.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6064193248748779
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Die betroffene Person hat Sehstörungen.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.6478859782218933
+  ],
+  [
+    [
+      18,
+      5
+    ],
+    [
+      "Die betroffene Person hat Problemen beim Sprechen.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.564011812210083
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Die betroffene Person fühlt sich schwindelig.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.7497389316558838
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Bei einem Herzinfarkt ist ein Blutgefäß verstopft.",
+      "Herzinfarkt :"
+    ],
+    0.7925631999969482
+  ],
+  [
+    [
+      21,
+      0
+    ],
+    [
+      "Deshalb bekommt das Herz nicht mehr genug Blut.",
+      "Herzinfarkt :"
+    ],
+    0.6763409376144409
+  ],
+  [
+    [
+      22,
+      11
+    ],
+    [
+      "Die Verstopfung von dem Gefäß muss schnell gelöst werden.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.5509777069091797
+  ],
+  [
+    [
+      23,
+      6
+    ],
+    [
+      "Wird die Verstopfung im Blutgefäß nicht gelöst?",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.4919250011444092
+  ],
+  [
+    [
+      24,
+      0
+    ],
+    [
+      "Dann sterben Muskelzellen im Herz ab.",
+      "Herzinfarkt :"
+    ],
+    0.6356177926063538
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Das Herz kann dann manchmal nicht mehr richtig arbeiten.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.7917110919952393
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Das kann lebensgefährlich sein.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.618700385093689
+  ],
+  [
+    [
+      27,
+      11
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7674927115440369
+  ],
+  [
+    [
+      28,
+      3
+    ],
+    [
+      "Es gibt viele verschiedene Anzeichen für einen Herzinfarkt.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.8270969390869141
+  ],
+  [
+    [
+      29,
+      6
+    ],
+    [
+      "Die Anzeichen treten meist plötzlich auf.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.573442280292511
+  ],
+  [
+    [
+      30,
+      0
+    ],
+    [
+      "Typische Anzeichen für einen Herzinfarkt sind zum Beispiel: starke Schmerzen in der Brust ein drückendes Gefühl in der Brust Schmerzen im linken Arm Schmerzen im Hals oder im Kiefer kalter Schweiß",
+      "Herzinfarkt :"
+    ],
+    0.6941393613815308
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Übelkeit",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.5121773481369019
+  ],
+  [
+    [
+      32,
+      2
+    ],
+    [
+      "Atemnot ein blasses Gesicht",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6245388984680176
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "Angst",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.4608702063560486
+  ],
+  [
+    [
+      34,
+      3
+    ],
+    [
+      "Sie glauben: Eine Person hat vielleicht einen Schlaganfall oder einen Herzinfarkt?",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.8180506229400635
+  ],
+  [
+    [
+      35,
+      11
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7263471484184265
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "Rufen Sie zuerst den Rettungsdienst.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.856001615524292
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Die Telefonnummer ist:",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.4444946348667145
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "112. Sie haben den Rettungsdienst gerufen?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7287653684616089
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Dann können Sie jetzt Erste Hilfe leisten.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.779639482498169
+  ],
+  [
+    [
+      40,
+      8
+    ],
+    [
+      "Folgendes können Sie tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.7131259441375732
+  ],
+  [
+    [
+      41,
+      8
+    ],
+    [
+      "Bleiben Sie bei der betroffenen Person.",
+      "Das sollten Sie tun:"
+    ],
+    0.49276065826416016
+  ],
+  [
+    [
+      42,
+      11
+    ],
+    [
+      "Reden Sie mit der betroffenen Person.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.5156793594360352
+  ],
+  [
+    [
+      43,
+      2
+    ],
+    [
+      "Lockern Sie zu enge Kleidung der betroffenen Person.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.5518238544464111
+  ],
+  [
+    [
+      44,
+      13
+    ],
+    [
+      "Entfernen Sie Zahnprothesen der betroffenen Person.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.4308883547782898
+  ],
+  [
+    [
+      45,
+      2
+    ],
+    [
+      "Geben Sie der betroffenen Person nichts zu essen oder zu trinken.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.5601499080657959
+  ],
+  [
+    [
+      46,
+      2
+    ],
+    [
+      "Die Person könnte sich nämlich verschlucken.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6241216063499451
+  ],
+  [
+    [
+      47,
+      2
+    ],
+    [
+      "Richten Sie den Oberkörper der betroffenen Person etwas auf.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.5955140590667725
+  ],
+  [
+    [
+      48,
+      8
+    ],
+    [
+      "Legen Sie ihr zum Beispiel ein Kissen in den Rücken.",
+      "Das sollten Sie tun:"
+    ],
+    0.38259005546569824
+  ],
+  [
+    [
+      49,
+      2
+    ],
+    [
+      "Ist die betroffene Person bewusstlos?",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6025179028511047
+  ],
+  [
+    [
+      50,
+      2
+    ],
+    [
+      "Oder erbricht sie sich?",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.598058819770813
+  ],
+  [
+    [
+      51,
+      13
+    ],
+    [
+      "Dann legen Sie die Person in die stabile Seitenlage .",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.4691689610481262
+  ],
+  [
+    [
+      52,
+      12
+    ],
+    [
+      "Die betroffene Person atmet nicht?",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.6334255933761597
+  ],
+  [
+    [
+      53,
+      13
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.7410084009170532
+  ],
+  [
+    [
+      54,
+      13
+    ],
+    [
+      "Merken Sie sich: Wann haben die Anzeichen angefangen?",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.48972412943840027
+  ],
+  [
+    [
+      55,
+      12
+    ],
+    [
+      "Die Uhrzeit ist eine wichtige Information für den Notarzt.",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.6461323499679565
+  ],
+  [
+    [
+      56,
+      4
+    ],
+    [
+      "Sie wollen noch mehr über Erste Hilfe bei einem Schlaganfall oder einem Herzinfarkt lesen?",
+      "Ausführliche Informationen bietet der Ratgeber Herzinfarkt ."
+    ],
+    0.7449702620506287
+  ],
+  [
+    [
+      57,
+      4
+    ],
+    [
+      "Mehr Informationen finden Sie hier.",
+      "Ausführliche Informationen bietet der Ratgeber Herzinfarkt ."
+    ],
+    0.47469213604927063
+  ],
+  [
+    [
+      58,
+      13
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.32926520705223083
+  ],
+  [
+    [
+      59,
+      4
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Ausführliche Informationen bietet der Ratgeber Herzinfarkt ."
+    ],
+    0.29979169368743896
+  ],
+  [
+    [
+      60,
+      4
+    ],
+    [
+      "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?",
+      "Ausführliche Informationen bietet der Ratgeber Herzinfarkt ."
+    ],
+    0.7993047833442688
+  ],
+  [
+    [
+      61,
+      7
+    ],
+    [
+      "Mehr Informationen in Einfacher Sprache zu diesen Themen finden Sie in diesen Texten:",
+      "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen: Ratgeber Schlaganfall ."
+    ],
+    0.43923795223236084
+  ],
+  [
+    [
+      62,
+      0
+    ],
+    [
+      "• Schlaganfall",
+      "Herzinfarkt :"
+    ],
+    0.7292848229408264
+  ],
+  [
+    [
+      63,
+      0
+    ],
+    [
+      "• Herzinfarkt",
+      "Herzinfarkt :"
+    ],
+    1.0
+  ]
+]

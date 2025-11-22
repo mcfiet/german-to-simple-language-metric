@@ -1,0 +1,376 @@
+[
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Dann müssen Sie einen Personal-Ausweis haben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.6247045993804932
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Also einen Personal-Ausweis oder einen Reise-Pass.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.6142263412475586
+  ],
+  [
+    [
+      26,
+      3
+    ],
+    [
+      "Oder zu einem anderen Kunden-Zentrum in Köln.",
+      "Sie können Ihren Personalausweis oder Reisepass in jedem Kundenzentrum in Köln beantragen, unabhängig von Ihrem Wohnort."
+    ],
+    0.6218360662460327
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "Wenn Sie keinen alten Personal-Ausweis haben:",
+      "Der Reisepass wird benötigt, wenn Ihr bisheriger Ausweis verloren ging oder für den Fall, dass Sie bislang keinen Personalausweis besessen haben."
+    ],
+    0.7013149261474609
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Dann brauchen wir Ihren Reise-Pass .",
+      "Der Reisepass wird benötigt, wenn Ihr bisheriger Ausweis verloren ging oder für den Fall, dass Sie bislang keinen Personalausweis besessen haben."
+    ],
+    0.5361005067825317
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "Oder Ihren Kinder-Reise-Pass , wenn Sie einen haben.",
+      "Der Reisepass wird benötigt, wenn Ihr bisheriger Ausweis verloren ging oder für den Fall, dass Sie bislang keinen Personalausweis besessen haben."
+    ],
+    0.646265983581543
+  ],
+  [
+    [
+      39,
+      13
+    ],
+    [
+      "Eine Urkunde oder das Familien-Stammbuch",
+      "Bitte bringen Sie vorsorglich eine Urkunde beziehungsweise das Familienstammbuch mit."
+    ],
+    0.7167966961860657
+  ],
+  [
+    [
+      40,
+      13
+    ],
+    [
+      "Bitte bringen Sie immer Ihr Familien-Stammbuch mit.",
+      "Bitte bringen Sie vorsorglich eine Urkunde beziehungsweise das Familienstammbuch mit."
+    ],
+    0.7693312168121338
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      ": Dann brauchen wir Ihre Geburts-Urkunde.",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.5554947853088379
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Wenn Sie verheiratet oder geschieden sind: Dann brauchen wir Ihre Ehe-Urkunde.",
+      "Wenn Sie verheiratet, verpartnert, geschieden oder verwitwet sind, wird anstelle der Geburtsurkunde (Auszug aus dem Geburtsregister) die Eheurkunde (Auszug aus dem Eheregister) beziehungsweise Lebenspartnerschaftsurkunde benötigt."
+    ],
+    0.7179087400436401
+  ],
+  [
+    [
+      51,
+      16
+    ],
+    [
+      "Dann brauchen Sie eine Übersetzung von einem staatlich anerkannten Übersetzer.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine*n Dolmetscher*in oder eine*n Übersetzer*in benötigt."
+    ],
+    0.5994963049888611
+  ],
+  [
+    [
+      52,
+      18
+    ],
+    [
+      "Wichtig: Sie müssen uns das Original von der Urkunde und das Original von der Übersetzung zeigen.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.6380199193954468
+  ],
+  [
+    [
+      53,
+      23
+    ],
+    [
+      "Ein biometrisches Pass-Foto.",
+      "Ein aktuelles biometrietaugliches Passfoto"
+    ],
+    0.7230623960494995
+  ],
+  [
+    [
+      59,
+      48
+    ],
+    [
+      "Wenn Sie nicht so lange warten können, dann können wir Ihnen für die Zeit dazwischen einen vorläufigen Personal-Ausweis geben.",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.7004445791244507
+  ],
+  [
+    [
+      60,
+      48
+    ],
+    [
+      "Den vorläufigen Ausweis bekommen Sie sofort .",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.8150857090950012
+  ],
+  [
+    [
+      63,
+      48
+    ],
+    [
+      "Wenn Sie Ihren neuen Personal-Ausweis abholen, müssen Sie den vorläufigen Ausweis wieder abgeben.",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.7179037928581238
+  ],
+  [
+    [
+      65,
+      50
+    ],
+    [
+      "Der neue Personal-Ausweis ist nach 3 bis 4 Wochen fertig.",
+      "Personalausweis fertig?"
+    ],
+    0.6368011236190796
+  ],
+  [
+    [
+      68,
+      52
+    ],
+    [
+      "Den Brief müssen Sie zu Hause gut aufheben.",
+      "Da Sie den PIN-Brief bei der Abholung nicht benötigen, bringen Sie ihn bitte nicht mit, sondern verwahren ihn sicher zu Hause."
+    ],
+    0.5851892828941345
+  ],
+  [
+    [
+      71,
+      55
+    ],
+    [
+      "Die PIN -Nummer ist eine geheime Nummer, die nur Sie kennen.",
+      "Die elektronische Abfrage, ob der Personalausweis fertig ist, ist jedoch möglich."
+    ],
+    0.5371255278587341
+  ],
+  [
+    [
+      76,
+      60
+    ],
+    [
+      "Sie dürfen sich aber erst ab 16 Jahren mit dem neuen Ausweis im Internet ausweisen.",
+      "Jugendliche ab dem 16. Lebensjahr können alleine einen Personalausweis beantragen, wenn sie ein Ausweisdokument mit Foto besitzen, auf dem sie eindeutig zu erkennen sind (beispielsweise Kinderreisepass, Kinderausweis, Reisepass)."
+    ],
+    0.6050686240196228
+  ],
+  [
+    [
+      77,
+      93
+    ],
+    [
+      "Sie bekommen auch ein geheimes Kenn-Wort .",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.5792669057846069
+  ],
+  [
+    [
+      80,
+      104
+    ],
+    [
+      "Dort erfahren Sie auch, wann genau Sie Ihren Personal-Ausweis abholen können.",
+      "Sie können auch online Ihren Online -Ausweis aktivieren."
+    ],
+    0.7042381167411804
+  ],
+  [
+    [
+      81,
+      104
+    ],
+    [
+      "Dazu müssen Sie eine Nummer eingeben.",
+      "Sie können auch online Ihren Online -Ausweis aktivieren."
+    ],
+    0.566541850566864
+  ],
+  [
+    [
+      86,
+      104
+    ],
+    [
+      "Dann können Sie jemandem den Auftrag geben:",
+      "Sie können auch online Ihren Online -Ausweis aktivieren."
+    ],
+    0.5541436672210693
+  ],
+  [
+    [
+      91,
+      119
+    ],
+    [
+      "Sie können die Vollmacht direkt im Internet ausfüllen.",
+      "Ein Formular zur Beantragung der Befreiung können Sie im Downloadservice herunterladen."
+    ],
+    0.6255230903625488
+  ],
+  [
+    [
+      93,
+      138
+    ],
+    [
+      "In dieser Vollmacht müssen Sie auch sagen:",
+      "Bitte denken Sie daran, der bevollmächtigten Person auch Ihren bisherigen Personalausweis mitzugeben."
+    ],
+    0.6455317139625549
+  ],
+  [
+    [
+      122,
+      142
+    ],
+    [
+      "22,80 Euro: wenn Sie noch nicht 24 Jahre alt sind.",
+      "Gebühren 22,80 Euro für Personen unter 24 Jahren"
+    ],
+    0.5570374727249146
+  ],
+  [
+    [
+      123,
+      143
+    ],
+    [
+      "37 Euro: wenn Sie über 24 Jahre alt sind.",
+      "37 Euro für Personen ab 24 Jahren"
+    ],
+    0.6014547944068909
+  ],
+  [
+    [
+      125,
+      143
+    ],
+    [
+      "6 Euro:",
+      "37 Euro für Personen ab 24 Jahren"
+    ],
+    0.658555269241333
+  ],
+  [
+    [
+      127,
+      144
+    ],
+    [
+      "6 Euro: für das Ändern von der PIN -Nummer.",
+      "10 Euro für einen vorläufigen Personalausweis"
+    ],
+    0.586696207523346
+  ],
+  [
+    [
+      132,
+      153
+    ],
+    [
+      "1,50 Euro: wenn Sie eine Verlust-Anzeige machen müssen.",
+      "Die Gebühr für eine Verlustanzeige beträgt zusätzlich 1,50 Euro."
+    ],
+    0.6612112522125244
+  ],
+  [
+    [
+      137,
+      154
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können Sie bar oder mit der Girocard ( EC -Karte) und PIN-Nummer bezahlen."
+    ],
+    0.6081798672676086
+  ],
+  [
+    [
+      138,
+      154
+    ],
+    [
+      "Sie können auch mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können Sie bar oder mit der Girocard ( EC -Karte) und PIN-Nummer bezahlen."
+    ],
+    0.7688594460487366
+  ],
+  [
+    [
+      141,
+      154
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der Girocard ( EC -Karte) und PIN-Nummer bezahlen."
+    ],
+    0.6023725271224976
+  ]
+]

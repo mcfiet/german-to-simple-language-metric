@@ -1,0 +1,959 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einer Nagelbett-Entzündung ist das Gewebe vom Nagelbett entzündet.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.9296819567680359
+  ],
+  [
+    [
+      1,
+      45
+    ],
+    [
+      "Durch kleine Wunden können Keime in das Nagelbett gelangen.",
+      "Beim Nägelschneiden entstehen ebenfalls leicht kleine Wunden, wenn man an den Seiten zu schräg und zu tief in den Nagelfalz beziehungsweise -wall schneidet."
+    ],
+    0.8807202577590942
+  ],
+  [
+    [
+      2,
+      76
+    ],
+    [
+      "Keime sind zum Beispiel Bakterien oder Pilze.",
+      "Bakterien könnten dadurch in tiefere Gewebeschichten verschleppt werden."
+    ],
+    0.6882086992263794
+  ],
+  [
+    [
+      3,
+      29
+    ],
+    [
+      "Häufig entzünden sich auch der Nagelfalz oder die Nagelhaut.",
+      "Durch offene, geschädigte Stellen in der Nagelhaut oder im Nagelwall können Keime in das Nagelbett eindringen und dort eine Entzündung hervorrufen."
+    ],
+    0.9117775559425354
+  ],
+  [
+    [
+      4,
+      19
+    ],
+    [
+      "Der Nagel besteht aus mehreren Schichten.",
+      "Der menschliche Nagel ist aus mehreren Schichten aufgebaut."
+    ],
+    0.9450255632400513
+  ],
+  [
+    [
+      5,
+      20
+    ],
+    [
+      "Der Hauptteil des Nagels ist die Nagelplatte.",
+      "Die Nagelplatte bildet den Hauptteil des Nagels."
+    ],
+    0.9867616295814514
+  ],
+  [
+    [
+      6,
+      26
+    ],
+    [
+      "Die Nagelplatte schützt das Nagelbett.",
+      "Die durchsichtige Nagelplatte liegt auf dem Nagelbett auf."
+    ],
+    0.8857067823410034
+  ],
+  [
+    [
+      7,
+      25
+    ],
+    [
+      "Die Nagelplatte besteht aus Keratin.",
+      "Die leichte Hautwölbung rings um die Nagelplatte ist der Nagelwall."
+    ],
+    0.8004930019378662
+  ],
+  [
+    [
+      8,
+      21
+    ],
+    [
+      "Keratin ist fest und hornartig.",
+      "Sie besteht aus Keratin – einer festen, hornartigen Substanz."
+    ],
+    0.9034547209739685
+  ],
+  [
+    [
+      9,
+      22
+    ],
+    [
+      "An den seitlichen Rändern der Nagelplatte ist eine Vertiefung.",
+      "An den seitlichen Rändern der Nagelplatte befindet sich eine kleine Vertiefung, der sogenannte Nagelfalz."
+    ],
+    0.9748345613479614
+  ],
+  [
+    [
+      10,
+      22
+    ],
+    [
+      "Die Vertiefung heißt: Nagelfalz.",
+      "An den seitlichen Rändern der Nagelplatte befindet sich eine kleine Vertiefung, der sogenannte Nagelfalz."
+    ],
+    0.8296017050743103
+  ],
+  [
+    [
+      11,
+      22
+    ],
+    [
+      "Am unteren Rand der Nagelplatte ist die Nagelhaut.",
+      "An den seitlichen Rändern der Nagelplatte befindet sich eine kleine Vertiefung, der sogenannte Nagelfalz."
+    ],
+    0.9419568777084351
+  ],
+  [
+    [
+      12,
+      26
+    ],
+    [
+      "Die Nagelplatte ist durchsichtig.",
+      "Die durchsichtige Nagelplatte liegt auf dem Nagelbett auf."
+    ],
+    0.8763402700424194
+  ],
+  [
+    [
+      13,
+      26
+    ],
+    [
+      "Die Nagelplatte liegt auf dem Nagelbett.",
+      "Die durchsichtige Nagelplatte liegt auf dem Nagelbett auf."
+    ],
+    0.9835312366485596
+  ],
+  [
+    [
+      14,
+      23
+    ],
+    [
+      "Das Nagelbett ist das Gewebe unter dem Fingernagel oder dem Zehennagel.",
+      "Das zum Handgelenk hin gelegene Ende der Nagelplatte ist durch die feste Nagelhaut abgegrenzt."
+    ],
+    0.8787453770637512
+  ],
+  [
+    [
+      15,
+      26
+    ],
+    [
+      "Das Nagelbett ist gut durchblutet.",
+      "Die durchsichtige Nagelplatte liegt auf dem Nagelbett auf."
+    ],
+    0.8697323799133301
+  ],
+  [
+    [
+      16,
+      27
+    ],
+    [
+      "Im Nagelbett sind viele Nerven-Enden.",
+      "Dieses ist ein gut durchblutetes Gewebe, das von vielen höchst empfindsamen Nervenendigungen durchzogen ist und den Nagel mit Nährstoffen versorgt."
+    ],
+    0.816190779209137
+  ],
+  [
+    [
+      17,
+      52
+    ],
+    [
+      "Anzeichen für eine Nagelbett-Entzündung sind zum Beispiel:",
+      "Die Neigung zu Nagelbettentzündungen erhöht sich."
+    ],
+    0.8993688821792603
+  ],
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Das Gewebe ist rot, das Nagelbett ist dick und tut weh, die Haut fühlt sich an dieser Stelle warm an.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.7966413497924805
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Häufig tritt ein klopfender Schmerz auf.",
+      "Häufig kommt ein typischer klopfender Schmerz dazu."
+    ],
+    0.9795957207679749
+  ],
+  [
+    [
+      20,
+      2
+    ],
+    [
+      "Dieser Schmerz entsteht durch den Pulsschlag.",
+      "Häufig kommt ein typischer klopfender Schmerz dazu."
+    ],
+    0.7922457456588745
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Der Pulsschlag pumpt das Blut durch die kleinen Gefäße im Nagelbett.",
+      "Dieser entsteht durch den Pulsschlag der kleinen Blutgefäße, der zu einer vorübergehenden Druckerhöhung im entzündeten Gewebe führt."
+    ],
+    0.7615306377410889
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Deshalb erhöht sich kurz der Druck auf das entzündete Gewebe.",
+      "Dieser entsteht durch den Pulsschlag der kleinen Blutgefäße, der zu einer vorübergehenden Druckerhöhung im entzündeten Gewebe führt."
+    ],
+    0.7174081206321716
+  ],
+  [
+    [
+      23,
+      55
+    ],
+    [
+      "Bakterien haben die Entzündung verursacht?",
+      "Deutet die erste Untersuchung darauf hin, dass bestimmte Krankheitserreger wie Bakterien, Pilze oder Viren für die Entzündung verantwortlich sind, entnimmt der Arzt einen Abstrich und lässt diesen mikroskopisch untersuchen, um den Erreger nachzuweisen."
+    ],
+    0.7596466541290283
+  ],
+  [
+    [
+      25,
+      5
+    ],
+    [
+      "Manchmal haben betroffene Personen auch Fieber.",
+      "Auch Fieber ist möglich, bisweilen schwellen die benachbarten Lymphknoten an."
+    ],
+    0.7624104022979736
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Dauert die Entzündung lange?",
+      "Ein Arztbesuch ist aber spätestens dann ratsam, wenn die Entzündung nach der ersten Behandlung nicht zurückgeht, die Beschwerden zunehmen, die Rötung sich ausbreitet, eine Schwellung oder Überwärmung auftritt, die Schmerzen stärker werden oder gar bei jedem Pulsschlag als \"klopfend\" empfunden werden, oder wenn nässende oder eitrige Stellen dazukommen."
+    ],
+    0.6840598583221436
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Oder wird die Entzündung nicht behandelt?",
+      "Ein Arztbesuch ist aber spätestens dann ratsam, wenn die Entzündung nach der ersten Behandlung nicht zurückgeht, die Beschwerden zunehmen, die Rötung sich ausbreitet, eine Schwellung oder Überwärmung auftritt, die Schmerzen stärker werden oder gar bei jedem Pulsschlag als \"klopfend\" empfunden werden, oder wenn nässende oder eitrige Stellen dazukommen."
+    ],
+    0.7101446986198425
+  ],
+  [
+    [
+      28,
+      22
+    ],
+    [
+      "Dann kann sich der Nagel verformen.",
+      "An den seitlichen Rändern der Nagelplatte befindet sich eine kleine Vertiefung, der sogenannte Nagelfalz."
+    ],
+    0.8702765703201294
+  ],
+  [
+    [
+      29,
+      26
+    ],
+    [
+      "Der Nagel kann auch abfallen.",
+      "Die durchsichtige Nagelplatte liegt auf dem Nagelbett auf."
+    ],
+    0.8403456807136536
+  ],
+  [
+    [
+      30,
+      74
+    ],
+    [
+      "Aber der Nagel wächst meistens wieder nach.",
+      "Ein entfernter Nagel wächst normalerweise innerhalb von ein paar Monaten wieder nach."
+    ],
+    0.8703016042709351
+  ],
+  [
+    [
+      32,
+      7
+    ],
+    [
+      "Dann kann eine betroffene Person vielleicht den Finger nicht mehr gut bewegen.",
+      "Je nachdem, wie stark sich die Nagelbettentzündung ausbreitet, kann der Finger oder die Zehe so schmerzhaft angeschwollen sein, dass die natürliche Bewegungsfreiheit eingeschränkt ist."
+    ],
+    0.7392662167549133
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Die häufigste Ursache einer Nagelbett-Entzündung sind kleine Wunden in der Haut um den Nagel.",
+      "Bei chronischer Nagelbettentzündung zeigen sich Schäden meist an mehreren Nägeln."
+    ],
+    0.8952738046646118
+  ],
+  [
+    [
+      34,
+      0
+    ],
+    [
+      "Durch die Wunden können Keime eindringen.",
+      "Ist das Nagelbett akut entzündet, rötet sich das erkrankte Gewebe, schwillt an und schmerzt."
+    ],
+    0.7057406306266785
+  ],
+  [
+    [
+      35,
+      26
+    ],
+    [
+      "Dann entzündet sich das Nagelbett.",
+      "Die durchsichtige Nagelplatte liegt auf dem Nagelbett auf."
+    ],
+    0.8435516953468323
+  ],
+  [
+    [
+      36,
+      30
+    ],
+    [
+      "Ursachen für diese Wunden sind zum Beispiel: falsche Nagelpflege trockene oder rissige Haut an Händen oder Füßen Schnittwunden häufiger Kontakt mit Wasser eingewachsene Nägel",
+      "Die Verletzungen entstehen leicht durch falsche Nagelpflege, trockene, rissige Hände oder Füße, Schnittwunden, häufigen Kontakt mit Wasser oder aggressiven Chemikalien, die das Gewebe verätzen."
+    ],
+    0.9444290399551392
+  ],
+  [
+    [
+      38,
+      97
+    ],
+    [
+      "Druckstellen durch falsche Schuhe",
+      "Tragen Sie gut sitzende Schuhe, die den Fuß nicht einengen und zu Druckstellen und Verformungen führen."
+    ],
+    0.771844744682312
+  ],
+  [
+    [
+      40,
+      35
+    ],
+    [
+      "Bakterien Herpesviren Hefepilze",
+      "Zu den typischen Krankheitserregern zählen Bakterien wie Staphylokokken und Streptokokken, sowie Hefepilze und Herpesviren."
+    ],
+    0.7839073538780212
+  ],
+  [
+    [
+      42,
+      52
+    ],
+    [
+      "Dann kann das auch zu einer Nagelbett-Entzündung führen.",
+      "Die Neigung zu Nagelbettentzündungen erhöht sich."
+    ],
+    0.9006378650665283
+  ],
+  [
+    [
+      43,
+      38
+    ],
+    [
+      "Die Entzündung kann sich dann schneller ausbreiten.",
+      "Auch eine flächige Ausbreitung der Bakterien in der Haut im Sinne eines Erysipels (= Wundrose) oder eine Beteiligung der Sehnenscheiden ist möglich."
+    ],
+    0.7253280282020569
+  ],
+  [
+    [
+      44,
+      14
+    ],
+    [
+      "Betroffene Personen sollten sofort zum Arzt gehen.",
+      "Menschen, die eine chronische Krankheit wie Diabetes, Durchblutungsstörungen oder ein geschwächtes Immunsystem haben, sollten auf jeden Fall sofort einen Arzt aufsuchen."
+    ],
+    0.7313269972801208
+  ],
+  [
+    [
+      45,
+      39
+    ],
+    [
+      "Sie haben sehr trockene Haut oder Neurodermitis ?",
+      "Ein erhöhtes Risiko für Nagebettentzündungen haben auch Menschen mit trockener Haut und Neigung zu atopischem Ekzem (= Neurodermitis )."
+    ],
+    0.7279953956604004
+  ],
+  [
+    [
+      46,
+      52
+    ],
+    [
+      "Auch dann können Sie leichter eine Nagelbett-Entzündung bekommen.",
+      "Die Neigung zu Nagelbettentzündungen erhöht sich."
+    ],
+    0.8595011830329895
+  ],
+  [
+    [
+      47,
+      43
+    ],
+    [
+      "Viele Menschen schneiden die Nagelhaut mit einer Schere ab.",
+      "Immer noch schneiden viele Menschen das Nagelhäutchen mit einer Schere ab oder schieben die Haut unsanft mit einem harten Gegenstand zurück."
+    ],
+    0.9027552604675293
+  ],
+  [
+    [
+      48,
+      43
+    ],
+    [
+      "Manche Menschen schieben die Nagelhaut mit einem harten Gegenstand zurück.",
+      "Immer noch schneiden viele Menschen das Nagelhäutchen mit einer Schere ab oder schieben die Haut unsanft mit einem harten Gegenstand zurück."
+    ],
+    0.7954617738723755
+  ],
+  [
+    [
+      49,
+      32
+    ],
+    [
+      "Dabei wird die Nagelhaut oft verletzt.",
+      "Eingewachsene Nägel, Nägelkauen oder Quetschungen schädigen ebenfalls die umgebenden Schichten."
+    ],
+    0.905954122543335
+  ],
+  [
+    [
+      50,
+      71
+    ],
+    [
+      "Manchmal wird dabei auch zu viel Nagelhaut entfernt.",
+      "Eventuell legt der Arzt hierzu eine Öffnung durch den Nagel, oder er muss den Nagel entfernen."
+    ],
+    0.8197824954986572
+  ],
+  [
+    [
+      51,
+      45
+    ],
+    [
+      "Auch beim Schneiden der Nägel kann man viel falsch machen:",
+      "Beim Nägelschneiden entstehen ebenfalls leicht kleine Wunden, wenn man an den Seiten zu schräg und zu tief in den Nagelfalz beziehungsweise -wall schneidet."
+    ],
+    0.8303529024124146
+  ],
+  [
+    [
+      52,
+      90
+    ],
+    [
+      "Schneiden Sie die Nägel an den Seiten nicht zu schräg.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.9065600633621216
+  ],
+  [
+    [
+      53,
+      90
+    ],
+    [
+      "Schneiden Sie an den Seiten nicht zu tief.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.7535103559494019
+  ],
+  [
+    [
+      54,
+      90
+    ],
+    [
+      "Schneiden Sie die Nägel nicht zu kurz.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.9057217836380005
+  ],
+  [
+    [
+      55,
+      46
+    ],
+    [
+      "Dann ist das Nagelbett nämlich nicht mehr genügend geschützt.",
+      "Auch zu kurz geschnittene Nägel bieten dem Nagelbett weniger Schutz."
+    ],
+    0.8327767848968506
+  ],
+  [
+    [
+      56,
+      90
+    ],
+    [
+      "Verwenden Sie keine scharfen Nagellack-Entferner.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.8186149001121521
+  ],
+  [
+    [
+      61,
+      72
+    ],
+    [
+      "Vielleicht sollen Sie desinfizierende Mittel auftragen.",
+      "In der Regel bringt der Arzt anschließend einen desinfizierenden Salbenverband an."
+    ],
+    0.6885802149772644
+  ],
+  [
+    [
+      63,
+      64
+    ],
+    [
+      "Jod hilft gegen die Bakterien.",
+      "Auch desinfizierende Lösungen oder Salben, die Jod oder andere antibakteriell wirkende Stoffe enthalten, können rasch helfen, vor allem wenn Bakterien die Ursache der Infektion waren."
+    ],
+    0.7845830321311951
+  ],
+  [
+    [
+      64,
+      64
+    ],
+    [
+      "Mittel gegen bestimmte Krankheitserreger Sind Bakterien die Ursache für die Entzündung?",
+      "Auch desinfizierende Lösungen oder Salben, die Jod oder andere antibakteriell wirkende Stoffe enthalten, können rasch helfen, vor allem wenn Bakterien die Ursache der Infektion waren."
+    ],
+    0.8005803823471069
+  ],
+  [
+    [
+      65,
+      65
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Antibiotika.",
+      "Bei einer stärkeren Entzündung können mitunter auch antibiotikahaltige Salben notwendig werden."
+    ],
+    0.759355902671814
+  ],
+  [
+    [
+      66,
+      55
+    ],
+    [
+      "Ist ein Hefepilz die Ursache für die Entzündung?",
+      "Deutet die erste Untersuchung darauf hin, dass bestimmte Krankheitserreger wie Bakterien, Pilze oder Viren für die Entzündung verantwortlich sind, entnimmt der Arzt einen Abstrich und lässt diesen mikroskopisch untersuchen, um den Erreger nachzuweisen."
+    ],
+    0.7099863290786743
+  ],
+  [
+    [
+      67,
+      67
+    ],
+    [
+      "Dann verschreibt der Arzt Ihnen vielleicht Mittel gegen Pilz-Infektionen.",
+      "Liegt eine Infektion mit Hefepilzen vor, setzt der Arzt Salben mit einem Anti-Pilzmittel ein."
+    ],
+    0.7269294261932373
+  ],
+  [
+    [
+      68,
+      35
+    ],
+    [
+      "Ist ein Herpes-Virus die Ursache für die Entzündung?",
+      "Zu den typischen Krankheitserregern zählen Bakterien wie Staphylokokken und Streptokokken, sowie Hefepilze und Herpesviren."
+    ],
+    0.7512819766998291
+  ],
+  [
+    [
+      72,
+      88
+    ],
+    [
+      "Bewegen Sie die Stelle nicht zu viel.",
+      "Feilen Sie die Fingernägel rund, aber nicht zu tief in den seitlichen Wall."
+    ],
+    0.704399585723877
+  ],
+  [
+    [
+      73,
+      12
+    ],
+    [
+      "Ist die betroffene Stelle stark entzündet?",
+      "Die betroffenen Stellen können auch nässen."
+    ],
+    0.7596812844276428
+  ],
+  [
+    [
+      75,
+      71
+    ],
+    [
+      "Dann muss ein Arzt die Stelle vielleicht aufschneiden.",
+      "Eventuell legt der Arzt hierzu eine Öffnung durch den Nagel, oder er muss den Nagel entfernen."
+    ],
+    0.7859271764755249
+  ],
+  [
+    [
+      77,
+      90
+    ],
+    [
+      "So spüren Sie den Schnitt nicht.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.7366827130317688
+  ],
+  [
+    [
+      78,
+      93
+    ],
+    [
+      "Sie wollen eine Nagelbett-Entzündung vermeiden?",
+      "Vorsicht: So lange das Nagelbett oder der äußere Bereich um den Nagel entzündet ist, sollten Sie auch die Nagelhaut nicht zurückschieben und keinen Nagellack benutzen."
+    ],
+    0.8260082602500916
+  ],
+  [
+    [
+      80,
+      87
+    ],
+    [
+      "Schneiden Sie Ihre Nägel regelmäßig.",
+      "Schneiden Sie Finger- und Fußnägel regelmäßig, damit sie nicht einwachsen oder brechen."
+    ],
+    0.9027360677719116
+  ],
+  [
+    [
+      81,
+      46
+    ],
+    [
+      "So wachsen die Nägel nicht ein oder brechen ab.",
+      "Auch zu kurz geschnittene Nägel bieten dem Nagelbett weniger Schutz."
+    ],
+    0.7952722907066345
+  ],
+  [
+    [
+      82,
+      88
+    ],
+    [
+      "Feilen Sie die Fingernägel rund.",
+      "Feilen Sie die Fingernägel rund, aber nicht zu tief in den seitlichen Wall."
+    ],
+    0.83527672290802
+  ],
+  [
+    [
+      83,
+      75
+    ],
+    [
+      "Feilen Sie nicht zu tief in die Seite.",
+      "Vorsicht: Versuchen Sie nicht selbst, einen Eiterherd zu öffnen."
+    ],
+    0.7109553217887878
+  ],
+  [
+    [
+      84,
+      89
+    ],
+    [
+      "Schneiden Sie die Fußnägel gerade.",
+      "Fußnägel schneiden Sie gerade und feilen sie nach, damit keine scharfen Kanten bleiben, die zu Verletzungen führen könnten."
+    ],
+    0.9046865701675415
+  ],
+  [
+    [
+      86,
+      90
+    ],
+    [
+      "Schneiden Sie die Nagelhaut nicht mit der Schere ab.",
+      "Schneiden Sie das Nagelhäutchen nicht mit der Schere ab."
+    ],
+    0.9698516130447388
+  ],
+  [
+    [
+      88,
+      93
+    ],
+    [
+      "Damit können Sie die Nagelhaut sanft zurückschieben.",
+      "Vorsicht: So lange das Nagelbett oder der äußere Bereich um den Nagel entzündet ist, sollten Sie auch die Nagelhaut nicht zurückschieben und keinen Nagellack benutzen."
+    ],
+    0.8252050876617432
+  ],
+  [
+    [
+      89,
+      91
+    ],
+    [
+      "Ihre Haut ist trocken und rissig?",
+      "Sie können es mit einem abgerundeten, glatten Schieber sanft zurückschieben, allerdings nur, wenn die Haut nicht trocken und rissig ist."
+    ],
+    0.7219060063362122
+  ],
+  [
+    [
+      90,
+      63
+    ],
+    [
+      "Dann können Sie ein Handbad oder ein Fußbad machen.",
+      "Anfangs helfen oft warme Bäder mit entzündungshemmenden Kräuterzusätzen wie Kamille , in denen Sie die erkrankten Finger oder Zehen zweimal täglich für jeweils 20 Miunten baden."
+    ],
+    0.7124311327934265
+  ],
+  [
+    [
+      91,
+      92
+    ],
+    [
+      "Das macht die Nagelpflege einfacher.",
+      "Ein Fuß- oder Handbad, pflegende Cremes und Öle machen den Hautbereich um den Nagel geschmeidig und erleichtern die anschließende Pflege."
+    ],
+    0.807917058467865
+  ],
+  [
+    [
+      93,
+      11
+    ],
+    [
+      "Ist die Nagelhaut leicht entzündet?",
+      "Der Nagelfalz an Fingern oder Zehen kann gerötet oder bläulich verfärbt sein."
+    ],
+    0.8686832189559937
+  ],
+  [
+    [
+      94,
+      62
+    ],
+    [
+      "Dann schieben Sie die Nagelhaut nicht zurück.",
+      "Experimentieren Sie besser nicht selbst herum und manipulieren Sie auch nicht im Nagelbereich."
+    ],
+    0.8472559452056885
+  ],
+  [
+    [
+      95,
+      62
+    ],
+    [
+      "Benutzen Sie dann auch keinen Nagellack.",
+      "Experimentieren Sie besser nicht selbst herum und manipulieren Sie auch nicht im Nagelbereich."
+    ],
+    0.8792564868927002
+  ],
+  [
+    [
+      97,
+      10
+    ],
+    [
+      "Dann merken Sie Verletzungen vielleicht nicht.",
+      "Die Betroffenen haben weniger starke oder kaum Schmerzen, einige bemerken die Entzündung gar nicht."
+    ],
+    0.6818323135375977
+  ],
+  [
+    [
+      98,
+      89
+    ],
+    [
+      "Lassen Sie Ihre Fußnägel von der medizinischen Fußpflege schneiden.",
+      "Fußnägel schneiden Sie gerade und feilen sie nach, damit keine scharfen Kanten bleiben, die zu Verletzungen führen könnten."
+    ],
+    0.9038392305374146
+  ],
+  [
+    [
+      99,
+      97
+    ],
+    [
+      "Tragen Sie bequeme Schuhe.",
+      "Tragen Sie gut sitzende Schuhe, die den Fuß nicht einengen und zu Druckstellen und Verformungen führen."
+    ],
+    0.897529125213623
+  ],
+  [
+    [
+      100,
+      97
+    ],
+    [
+      "Die Schuhe sollten nicht drücken oder den Fuß einengen.",
+      "Tragen Sie gut sitzende Schuhe, die den Fuß nicht einengen und zu Druckstellen und Verformungen führen."
+    ],
+    0.8609530925750732
+  ],
+  [
+    [
+      101,
+      96
+    ],
+    [
+      "Tragen Sie bei der Gartenarbeit Handschuhe.",
+      "Bei der Gartenarbeit oder Tätigkeiten, bei denen die Finger mit Chemikalien in Kontakt kommen, schützen Handschuhe vor Verletzungen oder Verätzungen."
+    ],
+    0.8198212385177612
+  ],
+  [
+    [
+      103,
+      82
+    ],
+    [
+      "Dann sollten Sie Handschuhe tragen.",
+      "Für Menschen, die viel mit aggressiven Stoffen umgehen müssen, bedeutet das: konsequent Schutzhandschuhe tragen und regelmäßig eine fetthaltige Creme oder Salbe auf die Hände auftragen."
+    ],
+    0.7917323112487793
+  ],
+  [
+    [
+      104,
+      98
+    ],
+    [
+      "Halten Sie Hände und Füße trocken.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.8475637435913086
+  ],
+  [
+    [
+      105,
+      98
+    ],
+    [
+      "Schützen Sie Hände und Füße vor Kälte.",
+      "Halten Sie Hände und Füße trocken und schützen Sie sie vor Kälte."
+    ],
+    0.9558647274971008
+  ],
+  [
+    [
+      107,
+      79
+    ],
+    [
+      "Sie wollen noch mehr über die Nagelbett-Entzündung lesen?",
+      "Hat die Nagelbettentzündung bereits den Knochen angegriffen, können weitere chirurgische Eingriffe nötig sein."
+    ],
+    0.7826384902000427
+  ],
+  [
+    [
+      108,
+      52
+    ],
+    [
+      "Mehr Informationen über die Nagelbett-Entzündung finden Sie hier .",
+      "Die Neigung zu Nagelbettentzündungen erhöht sich."
+    ],
+    0.838423490524292
+  ]
+]

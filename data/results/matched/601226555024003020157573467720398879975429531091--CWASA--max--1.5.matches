@@ -1,0 +1,871 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Ihr Auto ist weg?",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.5337046384811401
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Es steht nicht mehr da, wo Sie es abgestellt haben?",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.5331644415855408
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann wurde Ihr Auto vielleicht abgeschleppt.",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.5791805386543274
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Oder Ihr Auto wurde gestohlen .",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.4805026054382324
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Auf dieser Seite erklären wir, was Sie tun können.",
+      "An wen können Sie sich wenden?"
+    ],
+    0.5581343173980713
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Und wie Sie Ihr Auto zurück bekommen.",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.6276312470436096
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Manchmal ist der Ordnungs- und Verkehrs-Dienst noch vor Ort.",
+      "Ob und wohin das Fahrzeug abgeschleppt worden ist, erfahren Sie von der Verkehrsüberwachungskraft, sofern diese noch vor Ort ist, ansonsten beim Verkehrsdienst der Stadt Köln Servicetelefon Willy-Brandt-Platz 3 50679"
+    ],
+    0.5547041893005371
+  ],
+  [
+    [
+      8,
+      8
+    ],
+    [
+      "Dann können Sie fragen:",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.5655936002731323
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Ob und wohin Ihr Fahrzeug abgeschleppt wird.",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.546620786190033
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Oder Sie rufen bei uns an.",
+      "An wen können Sie sich wenden?"
+    ],
+    0.541610062122345
+  ],
+  [
+    [
+      11,
+      28
+    ],
+    [
+      "Service-Telefon: 02 21 / 22 13 20 00 Ordnungs- und Verkehrs-Dienst der Stadt Köln",
+      "Rechtliche Voraussetzungen § 77 Verwaltungsvollstreckungsgesetz Nordrhein-Westfalen (NW) in Verbindung mit §§ 7a und 11 der Kostenordnung Nordrhein-Westfalen (NW)"
+    ],
+    0.5224258899688721
+  ],
+  [
+    [
+      12,
+      4
+    ],
+    [
+      "Willy-Brandt-Platz 3 50679 Köln",
+      "Köln"
+    ],
+    0.45665600895881653
+  ],
+  [
+    [
+      13,
+      19
+    ],
+    [
+      "Sie können zu diesen Zeiten beim Service-Telefon anrufen:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.5282965898513794
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Montag bis Donnerstag 7 bis 0 Uhr Freitag 7 bis 1 Uhr Samstag 9 bis 1 Uhr Sonntage und Feiertage 9 bis 0 Uhr Außerhalb dieser Zeiten rufen Sie bitte die Polizei Köln .",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.7397929430007935
+  ],
+  [
+    [
+      15,
+      15
+    ],
+    [
+      "Telefon-Nummer 02 21 / 22 90 .",
+      "28 51069 Köln-Dellbrück Telefon: 0221 /9684740 Firma Pahlke Hansestraße 9 51149 Köln-Gremberghoven Telefon: 02203 / 1869306"
+    ],
+    0.5347363948822021
+  ],
+  [
+    [
+      16,
+      20
+    ],
+    [
+      "Wichtig: Wenn die Polizei und der Ordnungs- und Verkehrs-Dienst keine Infos zu Ihrem Fahrzeug haben, dann wurde es vielleicht gestohlen .",
+      "Falls Sie nicht sofort bezahlen, entscheidet der Ordnungs- und Verkehrsdienst über die Herausgabe des Fahrzeuges."
+    ],
+    0.6054489016532898
+  ],
+  [
+    [
+      17,
+      17
+    ],
+    [
+      "Dann müssen Sie zur Polizei gehen .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5280371308326721
+  ],
+  [
+    [
+      18,
+      16
+    ],
+    [
+      "Und Sie müssen den Diebstahl anzeigen .",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.48187971115112305
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Wo kann ich mein Fahrzeug abholen?",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.6743823289871216
+  ],
+  [
+    [
+      20,
+      19
+    ],
+    [
+      "Bitte rufen Sie immer zuerst beim Ordnungs- und Verkehrs-Dienst an.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.5413995385169983
+  ],
+  [
+    [
+      21,
+      15
+    ],
+    [
+      "Telefon-Nummer: 02 21 / 22 13 20 00",
+      "28 51069 Köln-Dellbrück Telefon: 0221 /9684740 Firma Pahlke Hansestraße 9 51149 Köln-Gremberghoven Telefon: 02203 / 1869306"
+    ],
+    0.567345142364502
+  ],
+  [
+    [
+      24,
+      8
+    ],
+    [
+      "Wo kann ich mein Fahrzeug abholen?",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.6743823289871216
+  ],
+  [
+    [
+      25,
+      16
+    ],
+    [
+      "Wir geben Ihnen dann die Adresse von der Abschlepp-Firma.",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.5429800748825073
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Sie können dann bei der Abschlepp-Firma anrufen .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.69012051820755
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 02 21 / 95 68 60 Firma Schlimbach",
+      "28 51069 Köln-Dellbrück Telefon: 0221 /9684740 Firma Pahlke Hansestraße 9 51149 Köln-Gremberghoven Telefon: 02203 / 1869306"
+    ],
+    0.6385180354118347
+  ],
+  [
+    [
+      31,
+      4
+    ],
+    [
+      "Bergisch",
+      "Köln"
+    ],
+    0.45911481976509094
+  ],
+  [
+    [
+      32,
+      12
+    ],
+    [
+      "Gladbacher Straße",
+      "Gladbacher Straße"
+    ],
+    1.0
+  ],
+  [
+    [
+      33,
+      14
+    ],
+    [
+      "240 51063 Köln-Buchheim Telefon: 02 21 / 96 44 490 Firma Christophorus Höninger Weg 4 bis 10 50969 Köln-Zollstock Telefon: 02 21 / 80 01 800 Telefax: 02 21 / 80 01 80 10 Firma Pahlke Möhlstraße 28 51069 Köln-Dellbrück Telefon: 02 21 / 96 84 740 F irma Pahlke Hansestraße 9 51149 Köln-Gremberghoven Telefon: 0 22 03 / 18 69 30 6",
+      "Weg 4 bis 10 50969 Köln-Zollstock Telefon: 0221 / 800180-0 Telefax: 0221 / 800180-10 Firma Pahlke Möhlstraße"
+    ],
+    0.6914899349212646
+  ],
+  [
+    [
+      34,
+      16
+    ],
+    [
+      "Was muss ich zum Abholen mitbringen?",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.517177402973175
+  ],
+  [
+    [
+      35,
+      17
+    ],
+    [
+      "Wenn Sie das Auto bei der Abschlepp-Firma abholen wollen, müssen Sie diese Papiere mitbringen:",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.8667345643043518
+  ],
+  [
+    [
+      36,
+      18
+    ],
+    [
+      "Ihren Personal-Ausweis den Fahrzeug-Schein vom abgeschleppten Fahrzeug.",
+      "Ihren Personalausweis den Fahrzeugschein des abgeschleppten Autos bzw. die Zulassungsbescheinigung Teil I"
+    ],
+    0.6010578274726868
+  ],
+  [
+    [
+      37,
+      18
+    ],
+    [
+      "Oder die Zulassungs-Bescheinigung Teil 1 .",
+      "Ihren Personalausweis den Fahrzeugschein des abgeschleppten Autos bzw. die Zulassungsbescheinigung Teil I"
+    ],
+    0.5198072195053101
+  ],
+  [
+    [
+      39,
+      17
+    ],
+    [
+      "Das Papier bekommen Sie von uns, wenn Sie Ihr Fahrzeug beim Amt anmelden.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5646897554397583
+  ],
+  [
+    [
+      40,
+      17
+    ],
+    [
+      "Damit können Sie der Abschlepp-Firma zeigen:",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5921018123626709
+  ],
+  [
+    [
+      42,
+      19
+    ],
+    [
+      "Wichtig: Sie können die Abschlepp-Kosten sofort bezahlen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.8101664781570435
+  ],
+  [
+    [
+      43,
+      17
+    ],
+    [
+      "Das heißt: Sie zahlen sofort bei der Abschlepp-Firma.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.6134815812110901
+  ],
+  [
+    [
+      44,
+      8
+    ],
+    [
+      "Dann bekommen Sie Ihr Fahrzeug zurück.",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.6354650259017944
+  ],
+  [
+    [
+      45,
+      20
+    ],
+    [
+      "Wenn Sie nicht sofort bezahlen , bekommen Sie Ihr Fahrzeug nicht sofort zurück .",
+      "Falls Sie nicht sofort bezahlen, entscheidet der Ordnungs- und Verkehrsdienst über die Herausgabe des Fahrzeuges."
+    ],
+    0.6341947913169861
+  ],
+  [
+    [
+      46,
+      20
+    ],
+    [
+      "Dann entscheidet der Ordnungs- und Verkehrs-Dienst was mit Ihrem Fahrzeug passiert.",
+      "Falls Sie nicht sofort bezahlen, entscheidet der Ordnungs- und Verkehrsdienst über die Herausgabe des Fahrzeuges."
+    ],
+    0.6147139668464661
+  ],
+  [
+    [
+      47,
+      0
+    ],
+    [
+      "Also: Ob Sie Ihr Fahrzeug zurück bekommen.",
+      "Sie kommen dahin zurück, wo Sie Ihr Auto abgestellt haben und das Auto ist weg."
+    ],
+    0.6025131344795227
+  ],
+  [
+    [
+      48,
+      17
+    ],
+    [
+      "Oder ob Ihr Fahrzeug bei der Abschlepp-Firma bleibt.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5203233957290649
+  ],
+  [
+    [
+      50,
+      22
+    ],
+    [
+      "Es gibt 3 Arten von Kosten, wenn Ihr Fahrzeug abgeschleppt wurde:",
+      "Es entstehen drei verschiedene Arten von Kosten, wenn Ihr Fahrzeug abgeschleppt werden musste:"
+    ],
+    0.760703444480896
+  ],
+  [
+    [
+      52,
+      7
+    ],
+    [
+      "Das ist das Geld für die Abschlepp-Firma.",
+      "In diesem Fall ist für die Aufnahme einer Diebstahlanzeige ausschließlich die Polizei zuständig."
+    ],
+    0.4793359935283661
+  ],
+  [
+    [
+      53,
+      8
+    ],
+    [
+      "Die Kosten können Sie bezahlen, wenn Sie Ihr Fahrzeug abholen.",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.6860764622688293
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Wie viel Sie bezahlen müssen, hängt von vielen Fragen ab:",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.47128501534461975
+  ],
+  [
+    [
+      55,
+      8
+    ],
+    [
+      "Was für ein Fahrzeug haben Sie?",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.5090234279632568
+  ],
+  [
+    [
+      57,
+      8
+    ],
+    [
+      "Wann wurde Ihr Fahrzeug abgeschleppt?",
+      "Wo können Sie Ihr Fahrzeug abholen?"
+    ],
+    0.523775577545166
+  ],
+  [
+    [
+      58,
+      17
+    ],
+    [
+      "Wie lange steht Ihr Fahrzeug bei der Abschlepp-Firma?",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.4783904552459717
+  ],
+  [
+    [
+      59,
+      16
+    ],
+    [
+      "Sie können bei der Abschlepp-Firma anrufen .",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.6523730754852295
+  ],
+  [
+    [
+      61,
+      19
+    ],
+    [
+      "Wenn die Abschlepp-Firma beauftragt worden ist, müssen Sie immer Geld bezahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.5521571636199951
+  ],
+  [
+    [
+      62,
+      17
+    ],
+    [
+      "Auch wenn Sie Ihr Fahrzeug umparken, bevor der Abschlepp-Wagen kommt.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5554829835891724
+  ],
+  [
+    [
+      63,
+      1
+    ],
+    [
+      "Sie werden dann nicht mehr abgeschleppt .",
+      "Es wurde vermutlich entweder abgeschleppt oder gestohlen."
+    ],
+    0.5512995719909668
+  ],
+  [
+    [
+      64,
+      19
+    ],
+    [
+      "Aber Sie müssen die Fahrt vom Abschlepp-Wagen bezahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.6438523530960083
+  ],
+  [
+    [
+      66,
+      23
+    ],
+    [
+      "Die Verwaltungs-Gebühren an die Stadt Köln",
+      "Generell gilt: Eine direkte Zahlung vor Ort reduziert die von Ihnen zu zahlenden Verwaltungsgebühren!"
+    ],
+    0.461853951215744
+  ],
+  [
+    [
+      67,
+      17
+    ],
+    [
+      "Wenn Sie Ihr Fahrzeug abgeholt haben, bekommen Sie einen Brief von der Stadt Köln.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5677424669265747
+  ],
+  [
+    [
+      68,
+      20
+    ],
+    [
+      "In dem Brief steht: Wie viel Geld Sie bezahlen müssen für den Ordnungs- und Verkehrs-Dienst.",
+      "Falls Sie nicht sofort bezahlen, entscheidet der Ordnungs- und Verkehrsdienst über die Herausgabe des Fahrzeuges."
+    ],
+    0.5104237794876099
+  ],
+  [
+    [
+      72,
+      25
+    ],
+    [
+      "Falsch Parken ist eine Ordnungs-Widrigkeit .",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.5818014740943909
+  ],
+  [
+    [
+      75,
+      19
+    ],
+    [
+      "Sie bekommen dafür eine Strafe .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.45759573578834534
+  ],
+  [
+    [
+      76,
+      19
+    ],
+    [
+      "Sie bekommen eine Verwarnung.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.48243939876556396
+  ],
+  [
+    [
+      77,
+      19
+    ],
+    [
+      "Dann müssen Sie Verwarn-Geld zahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.5856841206550598
+  ],
+  [
+    [
+      78,
+      17
+    ],
+    [
+      "Oder Sie bekommen eine Anzeige .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.457920640707016
+  ],
+  [
+    [
+      79,
+      19
+    ],
+    [
+      "Dann müssen Sie eine Geld-Buße zahlen.",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.6124441027641296
+  ],
+  [
+    [
+      80,
+      17
+    ],
+    [
+      "Wie viel Geld Sie bezahlen müssen, steht im Brief von der Stadt Köln.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.4895501732826233
+  ],
+  [
+    [
+      81,
+      25
+    ],
+    [
+      "Die Höhe der Strafe ist immer unterschiedlich.",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.5033481121063232
+  ],
+  [
+    [
+      83,
+      19
+    ],
+    [
+      "Sie müssen weniger Verwaltungs-Gebühren zahlen, wenn Sie direkt bei der Abschlepp-Firma bezahlen .",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.7058668732643127
+  ],
+  [
+    [
+      86,
+      17
+    ],
+    [
+      "Sie müssen nicht ins Amt kommen.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5190055966377258
+  ],
+  [
+    [
+      88,
+      17
+    ],
+    [
+      "Dann müssen Sie uns das Geld überweisen .",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5991015434265137
+  ],
+  [
+    [
+      90,
+      19
+    ],
+    [
+      "Die Gesetze zum Abschleppen stehen hier:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.4728911519050598
+  ],
+  [
+    [
+      91,
+      4
+    ],
+    [
+      "Verwaltungs-Vollstreckungs-Gesetz Nord-Rhein-Westfalen",
+      "Köln"
+    ],
+    0.4566298723220825
+  ],
+  [
+    [
+      93,
+      19
+    ],
+    [
+      "Die Gesetze zu den Kosten für das Abschleppen stehen hier:",
+      "Sie können die Abschleppkosten sofort beim Abschleppunternehmen bezahlen."
+    ],
+    0.46959203481674194
+  ],
+  [
+    [
+      98,
+      17
+    ],
+    [
+      "Hier können Sie das Gesetz im Internet lesen:",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.4875428080558777
+  ],
+  [
+    [
+      100,
+      11
+    ],
+    [
+      "Adresse: Ordnungs- und Verkehrsdienst Willy-Brandt-Platz 3 50679 Köln",
+      "Folgende Firmen führen in Köln Abschleppaufträge des Ordnungs- und Verkehrsdienstes aus: Firma Colonia Mathias-Brüggen-Straße 68 50827 Köln-Ossendorf Telefon: 0221 / 956860 Firma Schlimbach Bergisch"
+    ],
+    0.45024585723876953
+  ],
+  [
+    [
+      103,
+      6
+    ],
+    [
+      "Öffnungs-Zeiten: Montag bis Freitag von 8 bis 12 Uhr",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.5314611792564392
+  ],
+  [
+    [
+      104,
+      16
+    ],
+    [
+      "Sie können auch einen Termin machen .",
+      "Was müssen Sie bei der Abholung mitbringen?"
+    ],
+    0.4849669337272644
+  ],
+  [
+    [
+      105,
+      17
+    ],
+    [
+      "Dann können Sie zu einer anderen Zeit kommen.",
+      "Wenn Sie das Auto bei der Abschleppfirma abholen wollen, müssen Sie folgendes bereithalten:"
+    ],
+    0.5235742330551147
+  ],
+  [
+    [
+      106,
+      10
+    ],
+    [
+      "Dann müssen Sie sich nicht an die Öffnungs-Zeiten halten.",
+      "Danach können Sie sich direkt an die betreffende Firma zwecks Abholung wenden."
+    ],
+    0.6184841990470886
+  ],
+  [
+    [
+      107,
+      6
+    ],
+    [
+      "Service-Telefon: Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Telefon-Nummer: 02 21 / 22 13 20 00 Fax-Nummer:",
+      "Montag bis Donnerstag, 7 bis 1 Uhr Freitag, 7 bis 2 Uhr Samstag, 9 bis 2 Uhr Sonntag, 9:30 bis 1 Uhr Feiertag, 10 bis 24 Uhr Außerhalb dieser Zeiten wenden Sie sich bitte an die Polizei Köln unter der Rufnummer 0221 / 229-0. Wenn feststehen sollte, dass weder der Ordnungs- und Verkehrsdienst noch die Polizei ein Abschleppen Ihres Fahrzeugs veranlasst haben, dann könnte es gestohlen worden sein."
+    ],
+    0.6261678338050842
+  ],
+  [
+    [
+      119,
+      15
+    ],
+    [
+      "S-Bahn-Linien S 6, S 11, S 12, S 13 Haltestelle:",
+      "28 51069 Köln-Dellbrück Telefon: 0221 /9684740 Firma Pahlke Hansestraße 9 51149 Köln-Gremberghoven Telefon: 02203 / 1869306"
+    ],
+    0.45602381229400635
+  ],
+  [
+    [
+      121,
+      12
+    ],
+    [
+      "Deutsche Bahn Haltestelle:",
+      "Gladbacher Straße"
+    ],
+    0.44993817806243896
+  ]
+]

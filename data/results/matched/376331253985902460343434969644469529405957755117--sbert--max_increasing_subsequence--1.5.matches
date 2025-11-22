@@ -1,0 +1,299 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Stuhl entsteht durch die Verdauung.",
+      "Stuhl entsteht bei Verdauungsvorgängen im Darm und besteht zu einem hohen Anteil aus Wasser."
+    ],
+    0.8439101576805115
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Die Nahrung wird im Magen-Darm-Trakt verarbeitet.",
+      "Stuhl entsteht bei Verdauungsvorgängen im Darm und besteht zu einem hohen Anteil aus Wasser."
+    ],
+    0.7636591196060181
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Dann wird die Nahrung ausgeschieden.",
+      "Den festen Anteil bilden unverdaute Reste der Nahrung, überwiegend die unverdaulichen Ballaststoffe ."
+    ],
+    0.6893988847732544
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Wasser unverdaute Reste der Nahrung Schleim Bakterien",
+      "Bakterien und andere Mikroorganismen der normalen Darmflora sowie deren Gärungs- und Fäulnisprodukte machen ebenfalls einen beachtlichen Teil des Trockengewichts des Kots aus."
+    ],
+    0.72141432762146
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Die Beschaffenheit des Stuhlgangs zeigt:",
+      "Manche Krankheiten verändern den Stuhl."
+    ],
+    0.604325532913208
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Oder eine Person ist nicht gesund.",
+      "Manche Krankheiten verändern den Stuhl."
+    ],
+    0.6218487024307251
+  ],
+  [
+    [
+      12,
+      9
+    ],
+    [
+      "Die Farbe des Stuhlgangs kann ein Anzeichen für eine Erkrankung sein.",
+      "Andere Erkrankungen führen dazu, dass der Stuhl die Beschaffenheit, die Farbe oder den Geruch verändert."
+    ],
+    0.8354390859603882
+  ],
+  [
+    [
+      15,
+      10
+    ],
+    [
+      "Weiß: Weiße Farbe im Stuhl zeigt:",
+      "Normaler ist Stuhl ist einheitlich gelblichbraun bis dunkelbraun und von weicher klar geformter Konsistenz."
+    ],
+    0.7413444519042969
+  ],
+  [
+    [
+      22,
+      21
+    ],
+    [
+      "Grün: Essen Sie viel grünes Gemüse?",
+      "So kann eine üppige Spinatmahlzeit die Ausscheidungen vorübergehend grün färben oder eine große Portion Blaubeeren den Stuhl schwarz erscheinen lassen."
+    ],
+    0.6341076493263245
+  ],
+  [
+    [
+      23,
+      21
+    ],
+    [
+      "Dann kann sich der Stuhlgang grün färben.",
+      "So kann eine üppige Spinatmahlzeit die Ausscheidungen vorübergehend grün färben oder eine große Portion Blaubeeren den Stuhl schwarz erscheinen lassen."
+    ],
+    0.6728388071060181
+  ],
+  [
+    [
+      25,
+      25
+    ],
+    [
+      "Dann kann das ein Anzeichen für eine Darminfektion sein.",
+      "Grünlicher oder gelblicher Durchfall ist meist ein Hinweis auf eine bakterielle Darmentzündung (Enteritis), beispielsweise eine Infektion mit Salmonellen (Salmonellose)."
+    ],
+    0.8159006834030151
+  ],
+  [
+    [
+      29,
+      28
+    ],
+    [
+      "Manchmal kann roter Stuhlgang aber auch ein Anzeichen für Blut sein:",
+      "Blut im Stuhl kann unterschiedlichen aussehen und sollte unverzüglich von einem Arzt untersucht werden!"
+    ],
+    0.7708191871643066
+  ],
+  [
+    [
+      30,
+      28
+    ],
+    [
+      "Haben Sie Blut im Stuhl?",
+      "Blut im Stuhl kann unterschiedlichen aussehen und sollte unverzüglich von einem Arzt untersucht werden!"
+    ],
+    0.7065798044204712
+  ],
+  [
+    [
+      32,
+      28
+    ],
+    [
+      "Blut im Stuhl ist nämlich oft ein Hinweis auf eine Erkrankung.",
+      "Blut im Stuhl kann unterschiedlichen aussehen und sollte unverzüglich von einem Arzt untersucht werden!"
+    ],
+    0.8180402517318726
+  ],
+  [
+    [
+      40,
+      37
+    ],
+    [
+      "Und riecht Ihr Stuhl sehr unangenehm?",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.7549910545349121
+  ],
+  [
+    [
+      41,
+      37
+    ],
+    [
+      "Dann haben Sie vielleicht einen Fettstuhl.",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.7400363087654114
+  ],
+  [
+    [
+      44,
+      37
+    ],
+    [
+      "Die Beschaffenheit des Stuhlgangs kann auf Krankheiten hinweisen.",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.6747746467590332
+  ],
+  [
+    [
+      45,
+      37
+    ],
+    [
+      "Die Medizin unterscheidet deshalb verschiedene Formen von Stuhl: Typ 1 und 2. Schwer auszuscheidende kleine Kugeln und klumpige Würstchen: Trinken Sie genug?",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.6291224360466003
+  ],
+  [
+    [
+      51,
+      37
+    ],
+    [
+      "Einzelne Klümpchen: Sie haben öfter am Tag Stuhlgang?",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.6574329733848572
+  ],
+  [
+    [
+      52,
+      37
+    ],
+    [
+      "Dann ist diese Stuhl-Form gesund.",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.7440622448921204
+  ],
+  [
+    [
+      53,
+      37
+    ],
+    [
+      "Typ 6 und 7. Der Stuhl ist wie Brei oder sehr flüssig?",
+      "Von Kotsteinen spricht man, wenn der Stuhl extrem eingedickt und hart erscheint."
+    ],
+    0.7699609398841858
+  ],
+  [
+    [
+      54,
+      41
+    ],
+    [
+      "Dann haben Sie Durchfall.",
+      "Bei deutlich häufigeren Stuhlgängen als üblich mit erhöhter Menge oder dünnerer Konsistenz spricht man von Durchfall (Diarrhoe)."
+    ],
+    0.6848598718643188
+  ],
+  [
+    [
+      56,
+      43
+    ],
+    [
+      "Trinken Sie deshalb viel.",
+      "Der häufigste Grund dafür ist unzureichendes Trinken."
+    ],
+    0.7192244529724121
+  ],
+  [
+    [
+      58,
+      46
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Lassen Sie diese Beschwerden vom Arzt abklären!"
+    ],
+    0.8022253513336182
+  ],
+  [
+    [
+      62,
+      46
+    ],
+    [
+      "Dann sind Sie vielleicht krank.",
+      "Lassen Sie diese Beschwerden vom Arzt abklären!"
+    ],
+    0.6185229420661926
+  ],
+  [
+    [
+      63,
+      46
+    ],
+    [
+      "Gehen Sie deshalb zum Arzt.",
+      "Lassen Sie diese Beschwerden vom Arzt abklären!"
+    ],
+    0.8340941071510315
+  ],
+  [
+    [
+      64,
+      46
+    ],
+    [
+      "Der Arzt kann Ihnen helfen.",
+      "Lassen Sie diese Beschwerden vom Arzt abklären!"
+    ],
+    0.7669277191162109
+  ]
+]

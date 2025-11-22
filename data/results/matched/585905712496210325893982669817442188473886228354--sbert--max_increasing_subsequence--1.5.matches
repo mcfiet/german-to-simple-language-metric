@@ -1,0 +1,431 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Bei einer Thrombose verstopfen die Blutgefäße.",
+      "Blutzellen und Gerinnungsstoffe bilden sofort einen Schorf, der die Blutung stoppt."
+    ],
+    0.7380414605140686
+  ],
+  [
+    [
+      1,
+      2
+    ],
+    [
+      "Das Blut kann dann nicht mehr richtig fließen.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.8141516447067261
+  ],
+  [
+    [
+      4,
+      2
+    ],
+    [
+      "Am häufigsten tritt eine Thrombose in den Beinen auf.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.6924997568130493
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Blut kann verkleben.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.8066776990890503
+  ],
+  [
+    [
+      6,
+      2
+    ],
+    [
+      "Dazu sagt man auch: Blut gerinnt.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.8073292374610901
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Bei einer Verletzung gerinnt das Blut und verklebt die Wunde.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.7391617298126221
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "So wird die Blutung gestoppt.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.7408681511878967
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Aber manchmal gerinnt Blut versehentlich und an der falschen Stelle.",
+      "Manchmal gerinnt das Blut aber quasi versehentlich."
+    ],
+    0.9696536064147949
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Diesen Vorgang nennt man: Thrombose.",
+      "Mediziner nennen dieses Geschehen \"Thrombose\"."
+    ],
+    0.882390022277832
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Bei einer Thrombose gerinnt das Blut in einer Ader.",
+      "Mediziner nennen dieses Geschehen \"Thrombose\"."
+    ],
+    0.7801352739334106
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Das Blut wird zu einem Klumpen.",
+      "Mediziner nennen dieses Geschehen \"Thrombose\"."
+    ],
+    0.7302810549736023
+  ],
+  [
+    [
+      14,
+      5
+    ],
+    [
+      "Das Fachwort für diesen Klumpen aus Blut ist: Thrombus oder Blutgerinnsel.",
+      "Mediziner nennen dieses Geschehen \"Thrombose\"."
+    ],
+    0.8329298496246338
+  ],
+  [
+    [
+      15,
+      5
+    ],
+    [
+      "Das Blutgerinnsel verstopft die Ader.",
+      "Mediziner nennen dieses Geschehen \"Thrombose\"."
+    ],
+    0.6644944548606873
+  ],
+  [
+    [
+      16,
+      5
+    ],
+    [
+      "Das Blut kann dann nicht mehr richtig durch diese Ader fließen.",
+      "Mediziner nennen dieses Geschehen \"Thrombose\"."
+    ],
+    0.6884900331497192
+  ],
+  [
+    [
+      18,
+      6
+    ],
+    [
+      "Eine Thrombose kann so nämlich zu anderen gefährlichen Krankheiten führen.",
+      "Eine Thrombose kann theoretisch in jeder Ader des Körpers vorkommen – mit unterschiedlichen Folgen."
+    ],
+    0.8019428253173828
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Zum Beispiel: Herzinfarkt",
+      "Sie ist oft der Grund für einen Herzinfarkt , einen Schlaganfall oder einen Beinarterienverschluss."
+    ],
+    0.8599268198013306
+  ],
+  [
+    [
+      20,
+      37
+    ],
+    [
+      "Schlaganfall Lungenembolie",
+      "Eine ausgedehnte Lungenembolie belastet das Herz."
+    ],
+    0.8275963664054871
+  ],
+  [
+    [
+      23,
+      41
+    ],
+    [
+      "Manchmal ist der Blutfluss gestört:",
+      "Folge: Das Blut kann gar nicht mehr abfließen."
+    ],
+    0.8469011187553406
+  ],
+  [
+    [
+      24,
+      41
+    ],
+    [
+      "Das Blut fließt dann zum Beispiel zu langsam durch die Adern.",
+      "Folge: Das Blut kann gar nicht mehr abfließen."
+    ],
+    0.7846208810806274
+  ],
+  [
+    [
+      25,
+      41
+    ],
+    [
+      "Oder das Blut fließt dann nicht regelmäßig.",
+      "Folge: Das Blut kann gar nicht mehr abfließen."
+    ],
+    0.8634887337684631
+  ],
+  [
+    [
+      26,
+      56
+    ],
+    [
+      "Diese Störungen erhöhen das Risiko für eine Thrombose.",
+      "Es gibt prinzipiell drei unterschiedliche Auslöser für eine Thrombose: Fließt das Blut zu langsam oder bilden sich Strömungswirbel, begünstigt das eine Thrombose."
+    ],
+    0.697462797164917
+  ],
+  [
+    [
+      27,
+      58
+    ],
+    [
+      "Gründe für diese Störungen sind zum Beispiel: sehr langes Sitzen oder Liegen eine Herzschwäche Krampfadern",
+      "Längere Inaktivität durch Bettlägerigkeit, Lähmungen, einen Beingips Langes (und beengtes) Sitzen im Bus, Auto oder Flugzeug"
+    ],
+    0.6745437383651733
+  ],
+  [
+    [
+      28,
+      59
+    ],
+    [
+      "Manchmal verändert sich die Gefäßwand.",
+      "Ausgedehnte Krampfadern"
+    ],
+    0.6873188018798828
+  ],
+  [
+    [
+      30,
+      59
+    ],
+    [
+      "Verändert sich die Gefäßwand?",
+      "Ausgedehnte Krampfadern"
+    ],
+    0.7293955087661743
+  ],
+  [
+    [
+      33,
+      66
+    ],
+    [
+      "Verletzungen Entzündungen Infektionen",
+      "Gefäßwandschäden oder -veränderungen entstehen zum Beispiel durch Verletzungen, Verbrennungen, Entzündungen oder Infektionen."
+    ],
+    0.741075336933136
+  ],
+  [
+    [
+      35,
+      68
+    ],
+    [
+      "Manchmal verändert sich das Blut.",
+      "Das Blut gerinnt leichter als im Normalfall."
+    ],
+    0.7118439078330994
+  ],
+  [
+    [
+      38,
+      70
+    ],
+    [
+      "Es gibt sehr viele mögliche Gründe für eine Blutveränderung.",
+      "Mögliche Gründe sind: Blutgerinnungsstörungen (oft angeboren, zum Beispiel APC-Resistenz, Faktor-V-Leiden-Mutation) Blutkrankheiten (zum Beispiel die Polyzythämie, bei der sich zu viele Blutzellen im Blut befinden) \"Dickes\" Blut bei Flüssigkeitsmangel Medikamente, zum Beispiel die \"Antibaby-Pille\", Hormonersatztherapie in den Wechseljahren Krebserkrankungen Operationen in Zusammenhang mit reduziertem Blutfluss Schwangerschaft"
+    ],
+    0.7419211268424988
+  ],
+  [
+    [
+      39,
+      70
+    ],
+    [
+      "Zum Beispiel: eine angeborene Störung der Blutgerinnung bestimmte Krankheiten bestimmte Medikamente bestimmte Operationen",
+      "Mögliche Gründe sind: Blutgerinnungsstörungen (oft angeboren, zum Beispiel APC-Resistenz, Faktor-V-Leiden-Mutation) Blutkrankheiten (zum Beispiel die Polyzythämie, bei der sich zu viele Blutzellen im Blut befinden) \"Dickes\" Blut bei Flüssigkeitsmangel Medikamente, zum Beispiel die \"Antibaby-Pille\", Hormonersatztherapie in den Wechseljahren Krebserkrankungen Operationen in Zusammenhang mit reduziertem Blutfluss Schwangerschaft"
+    ],
+    0.7260128855705261
+  ],
+  [
+    [
+      40,
+      71
+    ],
+    [
+      "Rauchen",
+      "Rauchen"
+    ],
+    0.9999996423721313
+  ],
+  [
+    [
+      50,
+      79
+    ],
+    [
+      "Thrombosen können überall im Körper auftreten.",
+      "Finden sich D-Dimere , kann das für eine Thrombose sprechen."
+    ],
+    0.6562160849571228
+  ],
+  [
+    [
+      53,
+      79
+    ],
+    [
+      "Sie glauben: Ich habe vielleicht eine Thrombose?",
+      "Finden sich D-Dimere , kann das für eine Thrombose sprechen."
+    ],
+    0.6581587791442871
+  ],
+  [
+    [
+      56,
+      79
+    ],
+    [
+      "Sie glauben: Die Thrombose ist im Bein?",
+      "Finden sich D-Dimere , kann das für eine Thrombose sprechen."
+    ],
+    0.7734912037849426
+  ],
+  [
+    [
+      67,
+      102
+    ],
+    [
+      "Manche Patienten bekommen auch Medikamente gegen das Blutgerinnsel.",
+      "Dazu werden spezielle Wirkstoffe als Infusion über die Venen gegeben."
+    ],
+    0.7838034629821777
+  ],
+  [
+    [
+      68,
+      103
+    ],
+    [
+      "Diese Medikamente sollen das Blutgerinnsel auflösen.",
+      "Diese Medikamente können den Blutpfropf direkt abbauen."
+    ],
+    0.9402226209640503
+  ],
+  [
+    [
+      71,
+      105
+    ],
+    [
+      "Bei manchen Patienten gibt es besondere Risikofaktoren.",
+      "Diese Behandlung ist aber nicht frei von Risiken."
+    ],
+    0.8113979697227478
+  ],
+  [
+    [
+      75,
+      105
+    ],
+    [
+      "Die Behandlung hängt auch von solchen Risikofaktoren ab.",
+      "Diese Behandlung ist aber nicht frei von Risiken."
+    ],
+    0.8664681911468506
+  ],
+  [
+    [
+      77,
+      125
+    ],
+    [
+      "Manche Patienten bekommen zusätzlich einen speziellen Druck-Verband.",
+      "Kompressionsverband : Zunächst ordnet der Arzt eventuell einen Kompressionsverband an."
+    ],
+    0.7789709568023682
+  ],
+  [
+    [
+      82,
+      204
+    ],
+    [
+      "Sie reisen zum Beispiel sehr lange mit dem Zug oder mit dem Flugzeug?",
+      "Langes Sitzen im Auto, Bus oder Flugzeug erhöht die Gefahr einer Thrombose."
+    ],
+    0.6393359899520874
+  ],
+  [
+    [
+      87,
+      207
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Der Arzt berät dazu."
+    ],
+    0.7296121120452881
+  ]
+]

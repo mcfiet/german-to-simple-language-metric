@@ -1,0 +1,519 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie brauchen einen Reise-Pass für Ihr Kind?",
+      "Sie benötigen ein Reisedokument für Ihr Kind?"
+    ],
+    0.669251561164856
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Bei uns können Sie einen Kinder-Reise-Pass beantragen.",
+      "Für Kinder unter 12 Jahren können Sie einen Kinderreisepass beantragen."
+    ],
+    0.9075404405593872
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Der Kinder-Reise-Pass ist für Kinder unter 12 Jahren .",
+      "Benötigt werden Alter Kinderreisepass"
+    ],
+    0.9221829175949097
+  ],
+  [
+    [
+      5,
+      3
+    ],
+    [
+      "Der Kinder-Reise-Pass ersetzt den Kinder-Ausweis.",
+      "Benötigt werden Alter Kinderreisepass"
+    ],
+    0.9365904927253723
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Was brauche ich, um einen Kinder-Reise-Pass zu beantragen?",
+      "Benötigt werden Alter Kinderreisepass"
+    ],
+    0.8635141253471375
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Um einen Kinder-Reise-Pass zu bekommen, brauchen wir diese Papiere von Ihnen:",
+      "Benötigt werden Alter Kinderreisepass"
+    ],
+    0.9179842472076416
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Den alten Kinder-Reise-Pass",
+      "Benötigt werden Alter Kinderreisepass"
+    ],
+    0.93567955493927
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Wenn Sie den neuen Kinder-Reise-Pass bekommen, dann behalten wir den alten Pass.",
+      "Benötigt werden Alter Kinderreisepass"
+    ],
+    0.7371013164520264
+  ],
+  [
+    [
+      19,
+      6
+    ],
+    [
+      "Das muss eine Übersetzerin oder ein Übersetzer machen.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine Dolmetscherin, einen Dolmetscher, eine Übersetzerin oder einen Übersetzer benötigt."
+    ],
+    0.45616644620895386
+  ],
+  [
+    [
+      20,
+      7
+    ],
+    [
+      "Oder eine Dolmetscherin oder ein Dolmetscher.",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.6059557795524597
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Das schwere Wort dafür ist: öffentlich bestellt oder beeidigt .",
+      "Diese müssen in Deutschland öffentlich bestellt oder beeidigt sein."
+    ],
+    0.47288399934768677
+  ],
+  [
+    [
+      30,
+      8
+    ],
+    [
+      "Sie dürfen als Übersetzer oder Dolmetscher arbeiten.",
+      "Urkunden und Übersetzungen müssen Sie im Original vorlegen."
+    ],
+    0.6597844362258911
+  ],
+  [
+    [
+      31,
+      8
+    ],
+    [
+      "Sie müssen die Urkunden und Übersetzungen im Original abgeben.",
+      "Urkunden und Übersetzungen müssen Sie im Original vorlegen."
+    ],
+    0.7634543776512146
+  ],
+  [
+    [
+      32,
+      8
+    ],
+    [
+      "Sie können keine Kopie von Urkunden und Übersetzungen abgeben.",
+      "Urkunden und Übersetzungen müssen Sie im Original vorlegen."
+    ],
+    0.7692095041275024
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "den Personal-Ausweis oder Reise-Pass von beiden Eltern oder von der erziehungs-berechtigten Person",
+      "Personalausweis oder Reisepass beider Elternteile beziehungsweise der allein erziehungsberechtigten Person"
+    ],
+    0.6608787775039673
+  ],
+  [
+    [
+      35,
+      10
+    ],
+    [
+      "Wenn nur ein Eltern-Teil zu uns kommt, muss der Eltern-Teil uns seinen Ausweis zeigen.",
+      "Es genügt, wenn der vorsprechende Elternteil sein Ausweisdokument im Original vorlegt und von dem Elternteil, der nicht mitkommt, die Einverständniserklärung und eine Ausweiskopie mitbringt."
+    ],
+    0.4943367540836334
+  ],
+  [
+    [
+      53,
+      15
+    ],
+    [
+      "Nachweis über das Sorge-Recht oder Nachweis über das Aufenthalts-Bestimmungs-Recht Sorge-Recht heißt:",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.4836918115615845
+  ],
+  [
+    [
+      58,
+      15
+    ],
+    [
+      "Oder den Nachweis über das Aufenthalts-Bestimmungs-Recht .",
+      "Nachweis über das Sorgerecht oder Aufenthaltsbestimmungsrecht wenn nur eine Person erziehungsberechtigt ist."
+    ],
+    0.5000120401382446
+  ],
+  [
+    [
+      64,
+      16
+    ],
+    [
+      "Ein aktuelles und bio-metrie-taugliches Pass-Foto",
+      "Ein aktuelles biometrietaugliches Passfoto"
+    ],
+    0.47748705744743347
+  ],
+  [
+    [
+      66,
+      17
+    ],
+    [
+      "Das Foto soll aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.605331540107727
+  ],
+  [
+    [
+      67,
+      17
+    ],
+    [
+      "Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.7550696730613708
+  ],
+  [
+    [
+      72,
+      17
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.5173546075820923
+  ],
+  [
+    [
+      80,
+      20
+    ],
+    [
+      "Die Regeln stehen in der Foto-Muster-Tafel .",
+      "Die Regelungen sind in der Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.7392213940620422
+  ],
+  [
+    [
+      83,
+      24
+    ],
+    [
+      "Sie müssen die Verlust-Anzeige am Computer ausfüllen.",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.7315393090248108
+  ],
+  [
+    [
+      84,
+      24
+    ],
+    [
+      "Dann müssen Sie die Verlust-Anzeige ausdrucken.",
+      "Die Verlustanzeige können Sie im Downloadservice herunterladen."
+    ],
+    0.7000313401222229
+  ],
+  [
+    [
+      86,
+      25
+    ],
+    [
+      "eine Bescheinigung von der Polizei",
+      "Bescheinigung der Polizei falls der bisherige Pass gestohlen wurde, wird die Bescheinigung der Polizei über den Diebstahl benötigt."
+    ],
+    0.6479315161705017
+  ],
+  [
+    [
+      87,
+      55
+    ],
+    [
+      "Wenn der alte Pass gestohlen wurde, dann müssen Sie zur Polizei gehen.",
+      "Vergewissern Sie sich vor Antritt der Reise, ob der Staat, in den Sie einreisen möchten, die Kinderreisepässe akzeptiert."
+    ],
+    0.4809334874153137
+  ],
+  [
+    [
+      89,
+      55
+    ],
+    [
+      "Dann bekommen Sie eine Bescheinigung von der Polizei.",
+      "Vergewissern Sie sich vor Antritt der Reise, ob der Staat, in den Sie einreisen möchten, die Kinderreisepässe akzeptiert."
+    ],
+    0.7065463662147522
+  ],
+  [
+    [
+      90,
+      55
+    ],
+    [
+      "Wenn Sie den neuen Pass beantragen, dann müssen Sie uns die Bescheinigung von der Polizei zeigen.",
+      "Vergewissern Sie sich vor Antritt der Reise, ob der Staat, in den Sie einreisen möchten, die Kinderreisepässe akzeptiert."
+    ],
+    0.5856977701187134
+  ],
+  [
+    [
+      93,
+      56
+    ],
+    [
+      "In dieser Liste finden Sie alle Kunden-Zentren in Köln.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8238207697868347
+  ],
+  [
+    [
+      94,
+      56
+    ],
+    [
+      "Klicken Sie auf ein Kunden-Zentrum in Ihrer Nähe.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7851887345314026
+  ],
+  [
+    [
+      96,
+      56
+    ],
+    [
+      "Sie können online einen Termin bei uns machen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6147774457931519
+  ],
+  [
+    [
+      98,
+      56
+    ],
+    [
+      "Sie können das am Computer machen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7484908699989319
+  ],
+  [
+    [
+      101,
+      56
+    ],
+    [
+      "wenn Sie die Pass-Fotos tauschen .",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6710873246192932
+  ],
+  [
+    [
+      104,
+      56
+    ],
+    [
+      "Darin steht auch, welche Papiere Sie uns zeigen müssen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.5563735961914062
+  ],
+  [
+    [
+      106,
+      56
+    ],
+    [
+      "Wenn Sie etwas nicht verstehen, fragen Sie bitte um Hilfe.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8019631505012512
+  ],
+  [
+    [
+      114,
+      56
+    ],
+    [
+      "Sie können den Pass für Kinder bis 12 Jahre verlängern lassen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.493467777967453
+  ],
+  [
+    [
+      115,
+      56
+    ],
+    [
+      "Sie können den Pass auch ändern lassen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.5144624710083008
+  ],
+  [
+    [
+      119,
+      56
+    ],
+    [
+      "Wenn Sie alle erforderlichen Papiere mitbringen, dann bekommen Sie den Kinder-Reise-Pass sofort .",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.5230453610420227
+  ],
+  [
+    [
+      123,
+      56
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7924880385398865
+  ],
+  [
+    [
+      124,
+      56
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7107846140861511
+  ],
+  [
+    [
+      125,
+      56
+    ],
+    [
+      "Oder Sie können auch mit Ihrer EC-Karte bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7483907341957092
+  ],
+  [
+    [
+      127,
+      56
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7397953867912292
+  ],
+  [
+    [
+      128,
+      56
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.7930501699447632
+  ],
+  [
+    [
+      133,
+      56
+    ],
+    [
+      "Informieren Sie sich vor Ihrer Reise, welche Papiere Sie brauchen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.8122525811195374
+  ],
+  [
+    [
+      135,
+      56
+    ],
+    [
+      "Manchmal brauchen Sie eine Einreise-Erlaubnis für eine Reise in die USA.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.576802670955658
+  ],
+  [
+    [
+      141,
+      56
+    ],
+    [
+      "Informieren Sie sich vor Ihrer Reise beim Auswärtigen Amt , ob der Pass in dem Land gültig ist, das Sie besuchen.",
+      "Sie haben Ihren Wohnsitz im Ausland?"
+    ],
+    0.6824963688850403
+  ]
+]

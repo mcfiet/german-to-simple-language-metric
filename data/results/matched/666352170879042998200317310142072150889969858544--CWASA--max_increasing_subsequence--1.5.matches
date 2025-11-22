@@ -1,0 +1,497 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben Ihren Führerschein frei-willig abgegeben?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.47463756799697876
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Ihnen wurde der Führerschein weggenommen?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.5830261707305908
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Sie bekommen ein Fahr-Verbot:",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5293323993682861
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Wenn Sie betrunken gefahren sind.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.4635547399520874
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Danach bekommen Sie den Führerschein automatisch zurück.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5472304821014404
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "Sie müssen nichts dafür tun.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.47584182024002075
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Wenn das Fahr-Verbot nicht befristet ist, bekommen Sie den Führerschein nicht automatisch zurück.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5662304162979126
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sie müssen dann einen Antrag beim Amt stellen, wenn Sie den Führerschein wieder haben wollen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.7021475434303284
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Diese Papiere brauchen Sie immer :",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.472965806722641
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Sie können auch in einem Foto-Laden nachfragen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5223804116249084
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Wenn Sie alle Einheiten gemacht haben, dann bekommen Sie einen Nachweis .",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5980924963951111
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Hinweis: Sie brauchen keinen neuen Nachweis , wenn Sie schon einen Erste-Hilfe-Kurs gemacht haben.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5974341630935669
+  ],
+  [
+    [
+      55,
+      1
+    ],
+    [
+      "Sie müssen manchmal einen Seh-Test machen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5214826464653015
+  ],
+  [
+    [
+      65,
+      1
+    ],
+    [
+      "bitte bei der Fahr-Schule, wo Sie den Seh-Test machen können.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5009577870368958
+  ],
+  [
+    [
+      66,
+      1
+    ],
+    [
+      "Nach dem Seh-Test bekommen Sie einen Nachweis.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5149167776107788
+  ],
+  [
+    [
+      69,
+      1
+    ],
+    [
+      "Sie brauchen einen besonderen Nachweis :",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5823208689689636
+  ],
+  [
+    [
+      72,
+      1
+    ],
+    [
+      "Hier können Sie den Seh-Test machen:",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.5052614808082581
+  ],
+  [
+    [
+      73,
+      13
+    ],
+    [
+      "Bei Ihrem Augen-Arzt oder Ihrer Augen-Ärztin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5520178079605103
+  ],
+  [
+    [
+      74,
+      13
+    ],
+    [
+      "Oder bei einem Arzt oder einer Ärztin für Arbeits-Medizin und Betriebs-Medizin .",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.591885507106781
+  ],
+  [
+    [
+      76,
+      13
+    ],
+    [
+      "Diese Papiere brauchen Sie manchmal : Eignungs-Bescheinigung vom Arzt oder der Ärztin Eine Eignungs-Bescheinigung ist ein Papier auf dem steht:",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5150419473648071
+  ],
+  [
+    [
+      80,
+      13
+    ],
+    [
+      "Sie bekommen die Bescheinigung meistens von Ihrem Arzt oder Ihrer Ärztin.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.7001581788063049
+  ],
+  [
+    [
+      84,
+      13
+    ],
+    [
+      "Auf dem Papier muss der Arzt oder die Ärztin aufschreiben, ob Sie als Fahrer oder Fahrerin geeignet sind.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5496461987495422
+  ],
+  [
+    [
+      85,
+      13
+    ],
+    [
+      "Wenn Ihr Arzt oder Ihre Ärztin keinen Vordruck vom Amt hat, kann er oder sie die Ärzte-Kammer danach fragen.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5368393659591675
+  ],
+  [
+    [
+      88,
+      13
+    ],
+    [
+      "In dem Test prüfen wir Ihre Leistungen als Bus-Fahrer oder Bus-Fahrerin.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.5003158450126648
+  ],
+  [
+    [
+      92,
+      16
+    ],
+    [
+      "Achtung: 1. Sie brauchen diesen Nachweis nur für Busse .",
+      "Ein solches Gutachten benötigen Sie nur für die Wiedererteilung des Führerscheines der Bus-Klassen D und D1."
+    ],
+    0.465128630399704
+  ],
+  [
+    [
+      93,
+      18
+    ],
+    [
+      "2. Sie können den Test nur bei bestimmten Stellen machen.",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.553840160369873
+  ],
+  [
+    [
+      94,
+      19
+    ],
+    [
+      "Wo Sie den Test machen können, fragen Sie am besten Unternehmen wie Bus-Unternehmen Taxi-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.5822223424911499
+  ],
+  [
+    [
+      97,
+      20
+    ],
+    [
+      "Sie brauchen einen Nachweis über eine Weiter-Bildung nach dem Berufs-Fahrer-Qualifizierungs-Gesetz .",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.6357703804969788
+  ],
+  [
+    [
+      100,
+      21
+    ],
+    [
+      "Mehr Infos finden Sie auf der Seite:",
+      "Weitere Informationen finden Sie auf der Seite Berufsqualifizierung und Weiterbildung (siehe unter Ähnliche Dienstleistungen)"
+    ],
+    0.6014610528945923
+  ],
+  [
+    [
+      105,
+      30
+    ],
+    [
+      "In die Liste schreibt das Amt alle schweren Fehler, die Sie im Verkehr gemacht haben.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.4845172166824341
+  ],
+  [
+    [
+      106,
+      30
+    ],
+    [
+      "Für die Fehler im Verkehr bekommen Sie Punkte .",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.5770801305770874
+  ],
+  [
+    [
+      108,
+      39
+    ],
+    [
+      "3. Oder wenn Ihnen der Führerschein in der Probe-Zeit weggenommen wurde.",
+      "Wurde Ihnen die Fahrerlaubnis gerichtlich entzogen oder wurde Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister oder wegen wiederholter Verstöße innerhalb der Probezeit durch die Führerscheinstelle entzogen?"
+    ],
+    0.5768189430236816
+  ],
+  [
+    [
+      110,
+      39
+    ],
+    [
+      "Wenn Sie den Führerschein aus anderen Gründen abgeben mussten, dann gibt es keine besonderen Fristen für den Antrag.",
+      "Wurde Ihnen die Fahrerlaubnis gerichtlich entzogen oder wurde Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister oder wegen wiederholter Verstöße innerhalb der Probezeit durch die Führerscheinstelle entzogen?"
+    ],
+    0.4426354169845581
+  ],
+  [
+    [
+      117,
+      42
+    ],
+    [
+      "Wir können erst entscheiden, ob Sie eine MPU machen müssen, wenn wir alle nötigen Papiere für den Antrag von Ihnen haben.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.61024409532547
+  ],
+  [
+    [
+      120,
+      43
+    ],
+    [
+      "Zum Beispiel: Mit 1,6 oder mehr Promille.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.4612484574317932
+  ],
+  [
+    [
+      121,
+      43
+    ],
+    [
+      "2. Wenn Sie immer wieder mit Alkohol im Verkehr auffallen.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.5598146319389343
+  ],
+  [
+    [
+      124,
+      44
+    ],
+    [
+      "Oder wenn Sie 8 oder mehr Punkte im Fahr-Eignungs-Register haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.6353367567062378
+  ],
+  [
+    [
+      125,
+      47
+    ],
+    [
+      "Wer ist für mich zuständig?",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.44551849365234375
+  ],
+  [
+    [
+      126,
+      47
+    ],
+    [
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangs-Buchstaben von Ihrem Nach-Namen .",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.8958088159561157
+  ],
+  [
+    [
+      138,
+      48
+    ],
+    [
+      "Die Adresse finden Sie unter der Überschrift:",
+      "Sie erreichen Ihre Sachbearbeiter*in unter folgenden Telefonnummern:"
+    ],
+    0.5863311290740967
+  ],
+  [
+    [
+      141,
+      53
+    ],
+    [
+      "Sie müssen bis zu 256 Euro bezahlen.",
+      "Bis zu 256 Euro, abhängig vom Aufwand."
+    ],
+    0.582664430141449
+  ],
+  [
+    [
+      146,
+      56
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5445277690887451
+  ],
+  [
+    [
+      147,
+      56
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5167360901832581
+  ],
+  [
+    [
+      148,
+      56
+    ],
+    [
+      "Oder Sie können mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.6847397089004517
+  ],
+  [
+    [
+      177,
+      56
+    ],
+    [
+      "Sie können mit Bus oder Bahn zu uns kommen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.49043774604797363
+  ]
+]

@@ -1,0 +1,563 @@
+[
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "1. Einen gültigen Fischerei-Schein 2.",
+      "Wenn Sie angeln möchten, müssen Sie im Besitz eines gültigen Fischereischeins und des Erlaubnisscheins für das Gewässer sein."
+    ],
+    0.8916754722595215
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Sie können den Fischerei-Schein in den Kunden-Zentren beantragen.",
+      "Wenn Sie angeln möchten, müssen Sie im Besitz eines gültigen Fischereischeins und des Erlaubnisscheins für das Gewässer sein."
+    ],
+    0.8501206040382385
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Dann können Sie einen Fischerei-Schein bekommen.",
+      "Wenn Sie angeln möchten, müssen Sie im Besitz eines gültigen Fischereischeins und des Erlaubnisscheins für das Gewässer sein."
+    ],
+    0.8643319606781006
+  ],
+  [
+    [
+      9,
+      6
+    ],
+    [
+      "Wie kann ich mich zur Prüfung anmelden?",
+      "Hinweis zur Prüfung"
+    ],
+    0.9491996169090271
+  ],
+  [
+    [
+      25,
+      6
+    ],
+    [
+      "Wer darf die Prüfung machen?",
+      "Hinweis zur Prüfung"
+    ],
+    0.948638916015625
+  ],
+  [
+    [
+      26,
+      6
+    ],
+    [
+      "Sie werden zur Fischer-Prüfung zugelassen:",
+      "Hinweis zur Prüfung"
+    ],
+    0.777637779712677
+  ],
+  [
+    [
+      27,
+      6
+    ],
+    [
+      "Wenn Sie bei der Prüfung mindestens 13 Jahre alt sind.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9212760329246521
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Ausschließungs-Grund heißt: Sie werden von der Prüfung ausgeschlossen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9325041174888611
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Sie dürfen die Prüfung nicht machen .",
+      "Hinweis zur Prüfung"
+    ],
+    0.9313364028930664
+  ],
+  [
+    [
+      39,
+      6
+    ],
+    [
+      "Dann dürfen Sie keine Prüfung machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.915097177028656
+  ],
+  [
+    [
+      40,
+      6
+    ],
+    [
+      "Sie werden dann nicht zur Prüfung zugelassen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9523493051528931
+  ],
+  [
+    [
+      44,
+      6
+    ],
+    [
+      "Sie müssen die Prüfung in Ihrem Wohn-Ort machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9038050770759583
+  ],
+  [
+    [
+      46,
+      6
+    ],
+    [
+      "Das bedeutet: Sie können die Prüfung nur in Köln machen, wenn Sie auch in Köln wohnen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.7575595378875732
+  ],
+  [
+    [
+      47,
+      6
+    ],
+    [
+      "Es gibt aber Ausnahmen: 1. Sie wohnen NICHT in Köln, aber Sie wollen die Prüfung in Köln machen?",
+      "Hinweis zur Prüfung"
+    ],
+    0.7606359720230103
+  ],
+  [
+    [
+      48,
+      6
+    ],
+    [
+      "Sie können die Prüfung auch machen:",
+      "Hinweis zur Prüfung"
+    ],
+    0.9195734858512878
+  ],
+  [
+    [
+      52,
+      6
+    ],
+    [
+      "Menschen von außerhalb, die nicht in Köln wohnen, können auch die Prüfung in Köln beantragen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.8101101517677307
+  ],
+  [
+    [
+      54,
+      6
+    ],
+    [
+      "Die Menschen aus Köln werden zuerst zur Prüfung zugelassen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9342892169952393
+  ],
+  [
+    [
+      56,
+      6
+    ],
+    [
+      "Dabei gilt: Wer seinen Antrag zuerst abgibt, der kommt zuerst zur Prüfung dran.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9580783843994141
+  ],
+  [
+    [
+      58,
+      6
+    ],
+    [
+      "Manchmal müssen wir Ihnen leider auch erst kurz vor der Prüfung absagen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9465753436088562
+  ],
+  [
+    [
+      59,
+      6
+    ],
+    [
+      "2. Sie wohnen in Köln, aber Sie wollen die Prüfung NICHT in Köln machen?",
+      "Hinweis zur Prüfung"
+    ],
+    0.7722227573394775
+  ],
+  [
+    [
+      64,
+      6
+    ],
+    [
+      "Und den geplanten Prüfungs-Termin .",
+      "Hinweis zur Prüfung"
+    ],
+    0.9822737574577332
+  ],
+  [
+    [
+      73,
+      6
+    ],
+    [
+      "Für den Jugend-Fischerei-Schein müssen Sie keine Prüfung machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.7880343198776245
+  ],
+  [
+    [
+      76,
+      6
+    ],
+    [
+      "Sie können sich auch zur Prüfung anmelden.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9167155623435974
+  ],
+  [
+    [
+      77,
+      6
+    ],
+    [
+      "Sie können auch eine Prüfung machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9252317547798157
+  ],
+  [
+    [
+      87,
+      6
+    ],
+    [
+      "Mit der Erlaubnis darf der oder die Jugendliche die Prüfung für den Fischerei-Schein machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.7562992572784424
+  ],
+  [
+    [
+      88,
+      6
+    ],
+    [
+      "Was muss ich noch zur Prüfung wissen?",
+      "Hinweis zur Prüfung"
+    ],
+    0.978212833404541
+  ],
+  [
+    [
+      89,
+      6
+    ],
+    [
+      "1. VOR der Prüfung:",
+      "Hinweis zur Prüfung"
+    ],
+    0.9881482720375061
+  ],
+  [
+    [
+      90,
+      6
+    ],
+    [
+      "Vor der Prüfung können Sie einen Kurs zur Vorbereitung machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.8832260370254517
+  ],
+  [
+    [
+      95,
+      6
+    ],
+    [
+      "Sie können sich auch ohne Kurs zur Prüfung anmelden.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9145702719688416
+  ],
+  [
+    [
+      97,
+      6
+    ],
+    [
+      "DIE PRÜFUNG",
+      "Hinweis zur Prüfung"
+    ],
+    0.9698470830917358
+  ],
+  [
+    [
+      98,
+      6
+    ],
+    [
+      "Die Prüfung ist nur in deutscher Sprache.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9473111629486084
+  ],
+  [
+    [
+      99,
+      6
+    ],
+    [
+      "Die Prüfung in einer anderen Sprache ist nicht möglich .",
+      "Hinweis zur Prüfung"
+    ],
+    0.9489988088607788
+  ],
+  [
+    [
+      100,
+      6
+    ],
+    [
+      "Die Prüfung hat 2 Teile : 1. Einen theoretischen Teil.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9255290031433105
+  ],
+  [
+    [
+      102,
+      6
+    ],
+    [
+      "In der Prüfung müssen Sie zeigen, ob Sie das nötige Wissen zum Angeln haben.",
+      "Hinweis zur Prüfung"
+    ],
+    0.8278496861457825
+  ],
+  [
+    [
+      105,
+      6
+    ],
+    [
+      "In der Prüfung müssen Sie zeigen, ob Sie das nötigen Können zum Angeln haben.",
+      "Hinweis zur Prüfung"
+    ],
+    0.8269723653793335
+  ],
+  [
+    [
+      111,
+      6
+    ],
+    [
+      "3. NACH der Prüfung",
+      "Hinweis zur Prüfung"
+    ],
+    0.9885009527206421
+  ],
+  [
+    [
+      112,
+      6
+    ],
+    [
+      "Wenn Sie die Prüfung bestehen, dann bekommen Sie ein Zeugnis .",
+      "Hinweis zur Prüfung"
+    ],
+    0.8122181296348572
+  ],
+  [
+    [
+      115,
+      6
+    ],
+    [
+      "Die Fischer-Prüfungen finden 2 Mal im Jahr statt: 1. Termin: 14. bis 17. Juni 2022 Anmelde-Schluss: 16. Mai 2022 2. Termin: 6. Dezember bis 9. Dezember 2022 Anmelde-Schluss: 7. November 2022",
+      "Hinweis zur Prüfung"
+    ],
+    0.6727560758590698
+  ],
+  [
+    [
+      116,
+      6
+    ],
+    [
+      "Wo ist der Prüfungs-Ort?",
+      "Hinweis zur Prüfung"
+    ],
+    0.9867158532142639
+  ],
+  [
+    [
+      117,
+      6
+    ],
+    [
+      "Die Prüfungen müssen Sie hier machen:",
+      "Hinweis zur Prüfung"
+    ],
+    0.9045824408531189
+  ],
+  [
+    [
+      122,
+      6
+    ],
+    [
+      "Zusammen mit der Einladung zu einem Prüfungs-Termin.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9617281556129456
+  ],
+  [
+    [
+      123,
+      6
+    ],
+    [
+      "Sie müssen 30 Euro bezahlen, wenn Sie nur die praktische Prüfung wiederholen wollen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.8132614493370056
+  ],
+  [
+    [
+      124,
+      6
+    ],
+    [
+      "Weil Sie die theoretische Prüfung bestanden haben, aber die praktische Prüfung NICHT bestanden haben.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9208069443702698
+  ],
+  [
+    [
+      131,
+      6
+    ],
+    [
+      "Wo stehen die Gesetze zur Prüfung?",
+      "Hinweis zur Prüfung"
+    ],
+    0.9789495468139648
+  ],
+  [
+    [
+      136,
+      6
+    ],
+    [
+      "Wenn Sie bei der Prüfung mindestens 13 Jahre alt sind.",
+      "Hinweis zur Prüfung"
+    ],
+    0.9212760329246521
+  ],
+  [
+    [
+      137,
+      6
+    ],
+    [
+      "Sie werden NICHT zur Prüfung zugelassen:",
+      "Hinweis zur Prüfung"
+    ],
+    0.955679178237915
+  ],
+  [
+    [
+      142,
+      6
+    ],
+    [
+      "Dann dürfen Sie keine Prüfung machen.",
+      "Hinweis zur Prüfung"
+    ],
+    0.915097177028656
+  ],
+  [
+    [
+      144,
+      6
+    ],
+    [
+      "Das steht in der Fischer-Prüfungs-Verordnung .",
+      "Hinweis zur Prüfung"
+    ],
+    0.7937902808189392
+  ],
+  [
+    [
+      147,
+      6
+    ],
+    [
+      "Das ist das Zeichen für Paragraf: § Wo kann ich mich zur Prüfung anmelden?",
+      "Hinweis zur Prüfung"
+    ],
+    0.936987042427063
+  ],
+  [
+    [
+      149,
+      9
+    ],
+    [
+      "Das ist unsere Adresse : Untere Jagd- und Fischerei-Behörde Willy-Brandt-Platz 2 50679 Köln",
+      "Dazu bieten Fischereiverbände und Gewerbetreibende Vorbereitungskurse an, die jedoch nicht verpflichtend sind."
+    ],
+    0.7660501599311829
+  ],
+  [
+    [
+      158,
+      9
+    ],
+    [
+      "Das ist unsere Adresse : Untere Jagd- und Fischerei-Behörde Willy-Brandt-Platz 2 50679 Köln",
+      "Dazu bieten Fischereiverbände und Gewerbetreibende Vorbereitungskurse an, die jedoch nicht verpflichtend sind."
+    ],
+    0.7660501599311829
+  ]
+]

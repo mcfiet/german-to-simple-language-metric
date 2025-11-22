@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Person ist verletzt?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.4142722487449646
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und die Wunde blutet stark?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.5083330869674683
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dann rufen Sie als erstes den Rettungsdienst.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.3123708963394165
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Nummer ist:",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.13162821531295776
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.4501744508743286
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.9464676380157471
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7369681596755981
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Die Wunde blutet stark?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.7353291511535645
+  ],
+  [
+    [
+      8,
+      13
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.582837700843811
+  ],
+  [
+    [
+      9,
+      13
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.7510792016983032
+  ],
+  [
+    [
+      10,
+      15
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.6729395985603333
+  ],
+  [
+    [
+      11,
+      15
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.4407452344894409
+  ],
+  [
+    [
+      12,
+      15
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.8421733379364014
+  ],
+  [
+    [
+      13,
+      15
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.4610191583633423
+  ],
+  [
+    [
+      14,
+      15
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Wunde mit steriler Wundauflage abdecken."
+    ],
+    0.8200742602348328
+  ],
+  [
+    [
+      15,
+      17
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Ein zweites, ungeöffnetes Verbandpäckchen aus dem Erste-Hilfe-Set als Druckpolster auflegen und mit der restlichen Binde fixieren."
+    ],
+    0.8400030732154846
+  ],
+  [
+    [
+      16,
+      18
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.7811152935028076
+  ],
+  [
+    [
+      17,
+      18
+    ],
+    [
+      "Der Verband ist zu fest?",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.6741654276847839
+  ],
+  [
+    [
+      18,
+      21
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7157015800476074
+  ],
+  [
+    [
+      19,
+      21
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.6962367296218872
+  ],
+  [
+    [
+      20,
+      21
+    ],
+    [
+      "Achtung:",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.26701340079307556
+  ],
+  [
+    [
+      21,
+      21
+    ],
+    [
+      "Manchmal sind Fremdkörper in der Wunde.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7608511447906494
+  ],
+  [
+    [
+      22,
+      21
+    ],
+    [
+      "Das können zum Beispiel Glasscherben sein.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.2551193833351135
+  ],
+  [
+    [
+      23,
+      21
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.713401734828949
+  ],
+  [
+    [
+      24,
+      21
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7272027730941772
+  ],
+  [
+    [
+      25,
+      21
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7032377123832703
+  ],
+  [
+    [
+      26,
+      21
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.5388146638870239
+  ],
+  [
+    [
+      27,
+      21
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.5667256116867065
+  ],
+  [
+    [
+      28,
+      21
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.47793319821357727
+  ],
+  [
+    [
+      29,
+      21
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7141834497451782
+  ],
+  [
+    [
+      30,
+      21
+    ],
+    [
+      "Eine Person hat eine Platzwunde am Kopf?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.42041662335395813
+  ],
+  [
+    [
+      31,
+      21
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.25205114483833313
+  ],
+  [
+    [
+      32,
+      21
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.7572739124298096
+  ],
+  [
+    [
+      33,
+      21
+    ],
+    [
+      "Befestigen Sie die Kompresse mit einem Dreiecktuch seitlich am Kopf.",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.2899324893951416
+  ],
+  [
+    [
+      34,
+      21
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.8226743340492249
+  ],
+  [
+    [
+      35,
+      23
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.49882209300994873
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.7163650989532471
+  ],
+  [
+    [
+      37,
+      23
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.570838987827301
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Gehen Sie mit einer Platzwunde immer zum Arzt.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6585692167282104
+  ],
+  [
+    [
+      39,
+      27
+    ],
+    [
+      "Oder gehen Sie in die Notaufnahme im Krankenhaus.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.5934332013130188
+  ],
+  [
+    [
+      40,
+      27
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.32559531927108765
+  ],
+  [
+    [
+      41,
+      27
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.32247161865234375
+  ],
+  [
+    [
+      42,
+      27
+    ],
+    [
+      "Das Blut soll ablaufen.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.4877382814884186
+  ],
+  [
+    [
+      43,
+      27
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.4247097969055176
+  ],
+  [
+    [
+      44,
+      27
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.26752758026123047
+  ],
+  [
+    [
+      45,
+      27
+    ],
+    [
+      "Das Blut kommt aus dem vorderen Nasen-Abschnitt?",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.26408249139785767
+  ],
+  [
+    [
+      46,
+      27
+    ],
+    [
+      "Dann drücken Sie die Nasenflügel für ein paar Minuten fest mit Ihren Fingern zusammen.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.33391597867012024
+  ],
+  [
+    [
+      47,
+      27
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.24868421256542206
+  ],
+  [
+    [
+      48,
+      27
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.3061181902885437
+  ],
+  [
+    [
+      49,
+      27
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.3414786159992218
+  ],
+  [
+    [
+      50,
+      27
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.3078080415725708
+  ],
+  [
+    [
+      51,
+      27
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.26419785618782043
+  ],
+  [
+    [
+      52,
+      27
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.17927443981170654
+  ],
+  [
+    [
+      53,
+      27
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.3949313163757324
+  ],
+  [
+    [
+      54,
+      27
+    ],
+    [
+      "Dann gehen Sie zum Arzt oder in die Notaufnahme im Krankenhaus.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.5749038457870483
+  ],
+  [
+    [
+      55,
+      27
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.4294637441635132
+  ],
+  [
+    [
+      56,
+      27
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.4152408242225647
+  ],
+  [
+    [
+      57,
+      27
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.06530027091503143
+  ],
+  [
+    [
+      58,
+      27
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Amputat bitte sorgfältig behandeln und dem Rettungsdienst mitgeben."
+    ],
+    0.02575366571545601
+  ]
+]

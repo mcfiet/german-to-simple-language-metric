@@ -1,0 +1,475 @@
+[
+  [
+    [
+      0,
+      31
+    ],
+    [
+      "Bei einer Divertikulitis ist der Darm krank.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2674919366836548
+  ],
+  [
+    [
+      8,
+      31
+    ],
+    [
+      "Divertikel sind meist harmlos.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.3064838647842407
+  ],
+  [
+    [
+      12,
+      31
+    ],
+    [
+      "Manchmal kann eine Divertikulitis gefährliche Folgen haben.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.2948176860809326
+  ],
+  [
+    [
+      14,
+      31
+    ],
+    [
+      "Dann bildet sich vielleicht Eiter.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.23523832857608795
+  ],
+  [
+    [
+      15,
+      31
+    ],
+    [
+      "Die eitrigen Stellen heißen: Abszess.",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.30160534381866455
+  ],
+  [
+    [
+      16,
+      31
+    ],
+    [
+      "Eine Divertikulitis verursacht verschiedene Beschwerden wie zum Beispiel:",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.28119614720344543
+  ],
+  [
+    [
+      17,
+      31
+    ],
+    [
+      "Schmerzen im linken unteren Teil des Bauches",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.24992862343788147
+  ],
+  [
+    [
+      18,
+      31
+    ],
+    [
+      "Blähungen Durchfall",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.575551450252533
+  ],
+  [
+    [
+      19,
+      31
+    ],
+    [
+      "Fieber",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.4754772186279297
+  ],
+  [
+    [
+      20,
+      31
+    ],
+    [
+      "Verstopfung",
+      "Bauchfellentzündung (Peritonitis)"
+    ],
+    0.639035701751709
+  ],
+  [
+    [
+      21,
+      56
+    ],
+    [
+      "Sie haben diese Beschwerden?",
+      "Ausreichend"
+    ],
+    0.3374347388744354
+  ],
+  [
+    [
+      23,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Ausreichend"
+    ],
+    0.28525838255882263
+  ],
+  [
+    [
+      24,
+      56
+    ],
+    [
+      "Divertikulitis bekommen meist ältere Menschen.",
+      "Ausreichend"
+    ],
+    0.3438895344734192
+  ],
+  [
+    [
+      27,
+      56
+    ],
+    [
+      "An den dünnen Stellen können Divertikel entstehen.",
+      "Ausreichend"
+    ],
+    0.3009246587753296
+  ],
+  [
+    [
+      28,
+      56
+    ],
+    [
+      "Die Divertikel können sich entzünden.",
+      "Ausreichend"
+    ],
+    0.29381632804870605
+  ],
+  [
+    [
+      29,
+      56
+    ],
+    [
+      "Das passiert aber nur selten.",
+      "Ausreichend"
+    ],
+    0.27009496092796326
+  ],
+  [
+    [
+      30,
+      56
+    ],
+    [
+      "Manche Dinge erhöhen das Risiko für eine Divertikulitis.",
+      "Ausreichend"
+    ],
+    0.2691950500011444
+  ],
+  [
+    [
+      31,
+      56
+    ],
+    [
+      "Dazu gehören zum Beispiel: chronische Verstopfung Übergewicht zu wenig Bewegung zu viel rotes Fleisch wie Rind oder Schwein",
+      "Ausreichend"
+    ],
+    0.2735634446144104
+  ],
+  [
+    [
+      34,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Ausreichend"
+    ],
+    0.28525838255882263
+  ],
+  [
+    [
+      36,
+      56
+    ],
+    [
+      "Sie haben kein Fieber und auch keine Immunschwäche?",
+      "Ausreichend"
+    ],
+    0.30194565653800964
+  ],
+  [
+    [
+      37,
+      56
+    ],
+    [
+      "Dann kann der Körper eine Divertikulitis oft selbst bekämpfen.",
+      "Ausreichend"
+    ],
+    0.2683972418308258
+  ],
+  [
+    [
+      39,
+      56
+    ],
+    [
+      "Sie sollten viel trinken.",
+      "Ausreichend"
+    ],
+    0.29094672203063965
+  ],
+  [
+    [
+      40,
+      56
+    ],
+    [
+      "Dadurch wird der Stuhl weich und kann so besser an den entzündeten Stellen vorbeikommen.",
+      "Ausreichend"
+    ],
+    0.2741117477416992
+  ],
+  [
+    [
+      41,
+      56
+    ],
+    [
+      "Der Stuhlgang bereitet dann weniger Schmerzen.",
+      "Ausreichend"
+    ],
+    0.26053664088249207
+  ],
+  [
+    [
+      42,
+      56
+    ],
+    [
+      "Sie sollten auch eine Zeit lang gut verträgliche Nahrung essen.",
+      "Ausreichend"
+    ],
+    0.3710086941719055
+  ],
+  [
+    [
+      43,
+      56
+    ],
+    [
+      "Der Arzt untersucht Sie in regelmäßigen Abständen.",
+      "Ausreichend"
+    ],
+    0.25324758887290955
+  ],
+  [
+    [
+      46,
+      56
+    ],
+    [
+      "Antibiotika sind Medikamente gegen die Krankheit.",
+      "Ausreichend"
+    ],
+    0.31492483615875244
+  ],
+  [
+    [
+      47,
+      56
+    ],
+    [
+      "Die Entzündung ist stark?",
+      "Ausreichend"
+    ],
+    0.2348281294107437
+  ],
+  [
+    [
+      49,
+      56
+    ],
+    [
+      "Manchmal ist eine Operation nötig.",
+      "Ausreichend"
+    ],
+    0.2834118902683258
+  ],
+  [
+    [
+      50,
+      56
+    ],
+    [
+      "Das kommt aber nur selten vor.",
+      "Ausreichend"
+    ],
+    0.23840105533599854
+  ],
+  [
+    [
+      52,
+      56
+    ],
+    [
+      "Dann untersucht Sie der Arzt meistens noch einmal.",
+      "Ausreichend"
+    ],
+    0.25304704904556274
+  ],
+  [
+    [
+      53,
+      56
+    ],
+    [
+      "Vielleicht ist auch eine Darmspiegelung notwendig.",
+      "Ausreichend"
+    ],
+    0.37506672739982605
+  ],
+  [
+    [
+      56,
+      56
+    ],
+    [
+      "So kann man eine Divertikulitis vielleicht vermeiden:",
+      "Ausreichend"
+    ],
+    0.2877578139305115
+  ],
+  [
+    [
+      57,
+      56
+    ],
+    [
+      "Essen Sie viel Obst und Gemüse .",
+      "Ausreichend"
+    ],
+    0.30895739793777466
+  ],
+  [
+    [
+      60,
+      56
+    ],
+    [
+      "Essen Sie wenig rotes Fleisch .",
+      "Ausreichend"
+    ],
+    0.25489726662635803
+  ],
+  [
+    [
+      63,
+      56
+    ],
+    [
+      "Sie können auch ungesüßten Tee trinken.",
+      "Ausreichend"
+    ],
+    0.26649346947669983
+  ],
+  [
+    [
+      64,
+      56
+    ],
+    [
+      "Achtung: Manche Menschen mit Herzkrankheiten oder Nierenkrankheiten dürfen nur eine bestimmte Menge trinken.",
+      "Ausreichend"
+    ],
+    0.33006250858306885
+  ],
+  [
+    [
+      65,
+      56
+    ],
+    [
+      "Diese Menschen sollten deshalb vorher mit ihrem Arzt sprechen.",
+      "Ausreichend"
+    ],
+    0.30833932757377625
+  ],
+  [
+    [
+      66,
+      56
+    ],
+    [
+      "Bewegen Sie sich regelmäßig.",
+      "Ausreichend"
+    ],
+    0.3686867952346802
+  ],
+  [
+    [
+      68,
+      56
+    ],
+    [
+      "Achten Sie auf ein normales Körpergewicht .",
+      "Ausreichend"
+    ],
+    0.25130635499954224
+  ],
+  [
+    [
+      69,
+      56
+    ],
+    [
+      "Sie wollen noch mehr über Divertikulitis lesen?",
+      "Ausreichend"
+    ],
+    0.2681245803833008
+  ],
+  [
+    [
+      70,
+      56
+    ],
+    [
+      "Mehr Informationen über Divertikulitis finden Sie hier .",
+      "Ausreichend"
+    ],
+    0.2654743790626526
+  ],
+  [
+    [
+      72,
+      56
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Ausreichend"
+    ],
+    0.2871272563934326
+  ]
+]

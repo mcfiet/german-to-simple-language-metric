@@ -1,0 +1,453 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Citalopram ist ein Medikament.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.9640807509422302
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Citalopram hilft gegen Depressionen und gegen Panikattacken.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.9791532754898071
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Citalopram wirkt oft nicht sofort.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.9660832285881042
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Citalopram ist ein Antidepressivum.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.9719874858856201
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Das bedeutet: Citalopram hilft gegen Depressionen.",
+      "Citalopram ist ein Wirkstoff, der vorwiegend gegen Depressionen sowie gegen Panikattacken eingesetzt wird."
+    ],
+    0.9739131927490234
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Citalopram erhöht die Menge von Serotonin im Gehirn.",
+      "Citalopram gehört zu einer Gruppe von Medikamenten, die fachlich als selektive Serotonin-Wiederaufnahmehemmer bezeichnet werden."
+    ],
+    0.9442593455314636
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Serotonin ist ein Botenstoff.",
+      "Nach gängigen Vorstellungen spielt Serotonin im Gehirn eine wichtige Rolle für Stimmung und Antrieb."
+    ],
+    0.6084312200546265
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Serotonin ist wichtig für die Stimmung eines Menschen.",
+      "Nach gängigen Vorstellungen spielt Serotonin im Gehirn eine wichtige Rolle für Stimmung und Antrieb."
+    ],
+    0.6221705675125122
+  ],
+  [
+    [
+      9,
+      4
+    ],
+    [
+      "Hat ein Mensch zu wenig Serotonin im Gehirn?",
+      "Nach gängigen Vorstellungen spielt Serotonin im Gehirn eine wichtige Rolle für Stimmung und Antrieb."
+    ],
+    0.6467396020889282
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Dann fühlt sich dieser Mensch vielleicht traurig und müde.",
+      "Nach gängigen Vorstellungen spielt Serotonin im Gehirn eine wichtige Rolle für Stimmung und Antrieb."
+    ],
+    0.03698822110891342
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Citalopram erhöht die Menge von Serotonin im Gehirn.",
+      "Wie bei allen SSRIs kann es auch bei der Behandlung mit Citalopram eine Zeit (einige Wochen) dauern, bis sich die Symptome der Depression deutlich bessern."
+    ],
+    0.8692699074745178
+  ],
+  [
+    [
+      12,
+      7
+    ],
+    [
+      "Deshalb hilft das Medikament gegen die Anzeichen einer Depression.",
+      "Weil die antriebssteigernde Wirkung schneller einsetzt als die stimmungsaufhellende, benötigen Patienten zu Beginn der Therapie eine engmaschige Betreuung."
+    ],
+    0.2563461363315582
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Deshalb merken Sie die Wirkung häufig erst nach einigen Wochen.",
+      "Weil die antriebssteigernde Wirkung schneller einsetzt als die stimmungsaufhellende, benötigen Patienten zu Beginn der Therapie eine engmaschige Betreuung."
+    ],
+    0.3963489830493927
+  ],
+  [
+    [
+      18,
+      8
+    ],
+    [
+      "Dann sprechen Sie erst mit Ihrem Arzt.",
+      "Das gilt vor allem für Patienten mit erhöhtem Selbstmordrisiko."
+    ],
+    0.05171835422515869
+  ],
+  [
+    [
+      19,
+      10
+    ],
+    [
+      "Der Arzt wird die Menge des Medikaments langsam senken.",
+      "Hier werden nur die häufigsten aufgelistet."
+    ],
+    0.3415970206260681
+  ],
+  [
+    [
+      20,
+      10
+    ],
+    [
+      "So kann sich der Körper an die geringere Menge gewöhnen.",
+      "Hier werden nur die häufigsten aufgelistet."
+    ],
+    0.3874393105506897
+  ],
+  [
+    [
+      28,
+      10
+    ],
+    [
+      "In diesem Text sind nicht alle Nebenwirkungen aufgelistet.",
+      "Hier werden nur die häufigsten aufgelistet."
+    ],
+    0.16291029751300812
+  ],
+  [
+    [
+      29,
+      10
+    ],
+    [
+      "In diesem Text werden nur die häufigsten Nebenwirkungen aufgelistet.",
+      "Hier werden nur die häufigsten aufgelistet."
+    ],
+    0.5552672147750854
+  ],
+  [
+    [
+      32,
+      10
+    ],
+    [
+      "Eine Person hat keinen Appetit und verliert Gewicht, die Person hat einen trockenen Mund, die Person schwitzt sehr viel, die Person ist nervös, die Person hat keine Lust auf Sex, die Person hat oft Angst, die Person ist oft verwirrt, die Person träumt anders als sonst, die Person kann sich nicht mehr konzentrieren, die Person ist müde, die Person hat Kopfschmerzen, die Person fühlt sich schwindelig, die Person sieht schlecht, die Person erbricht sich, die Person hat Verstopfung oder Durchfall, die Person hat Bauchschmerzen.",
+      "Hier werden nur die häufigsten aufgelistet."
+    ],
+    0.24159958958625793
+  ],
+  [
+    [
+      33,
+      14
+    ],
+    [
+      "Manchmal kann es zu einem Serotonin-Syndrom kommen.",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.23268137872219086
+  ],
+  [
+    [
+      35,
+      14
+    ],
+    [
+      "Anzeichen für ein Serotonin-Syndrom sind zum Beispiel: erhöhte Körpertemperatur starre Muskeln",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.22672541439533234
+  ],
+  [
+    [
+      36,
+      14
+    ],
+    [
+      "Zittern",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.2830708920955658
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Krämpfe",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.1634192019701004
+  ],
+  [
+    [
+      38,
+      14
+    ],
+    [
+      "Verwirrtheit Reizbarkeit",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.657739520072937
+  ],
+  [
+    [
+      40,
+      14
+    ],
+    [
+      "Und Sie bemerken bei sich eines oder mehrere von diesen Anzeichen?",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.06701236218214035
+  ],
+  [
+    [
+      41,
+      14
+    ],
+    [
+      "Dann haben Sie vielleicht das Serotonin-Syndrom.",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.17148365080356598
+  ],
+  [
+    [
+      42,
+      14
+    ],
+    [
+      "Das Serotonin-Syndrom ist gefährlich.",
+      "Eine Kombination verschiedener Symptome wie ein Anstieg der Körpertemperatur, Muskelstarre, Zittern, Krämpfe, Verwirrtheit und Reizbarkeit kann darauf hinweisen, dass sich ein Serotonin-Syndrom entwickelt."
+    ],
+    0.1930208057165146
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Gehen Sie deshalb sofort zum Arzt.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.2044694423675537
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.23409466445446014
+  ],
+  [
+    [
+      45,
+      15
+    ],
+    [
+      "Sie nehmen verschiedene Medikamente gleichzeitig ein?",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.12866966426372528
+  ],
+  [
+    [
+      46,
+      15
+    ],
+    [
+      "Das kann unerwünschte Folgen haben.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.09521035850048065
+  ],
+  [
+    [
+      49,
+      15
+    ],
+    [
+      "Sie nehmen außer Citalopram noch andere Medikamente ein?",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.018662791699171066
+  ],
+  [
+    [
+      50,
+      15
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt nach möglichen Wechselwirkungen.",
+      "Da dies möglicherweise lebensgefährlich sein kann, müssen Sie beim Auftreten der genannten Symptome sofort den behandelnden Arzt kontaktieren."
+    ],
+    0.15958811342716217
+  ],
+  [
+    [
+      51,
+      17
+    ],
+    [
+      "Citalopram kann Wechselwirkungen auslösen.",
+      "Daher sollten Sie sich in der Apotheke beraten lassen, ob andere Arzneimittel, die Sie einnehmen, sich mit Citalopram vertragen."
+    ],
+    0.9510458707809448
+  ],
+  [
+    [
+      52,
+      19
+    ],
+    [
+      "Und auch andere Medikamente verändern die Wirkung von Citalopram.",
+      "Die Heilpflanze kann die Wirkung von Citalopram in unvorhersehbarer Weise verstärken."
+    ],
+    0.9689109921455383
+  ],
+  [
+    [
+      53,
+      21
+    ],
+    [
+      "Einige Menschen dürfen Citalopram nicht nehmen.",
+      "Citalopram darf nicht in der Schwangerschaft angewendet werden, außer wenn es zwingend nötig ist."
+    ],
+    0.9712986350059509
+  ],
+  [
+    [
+      55,
+      21
+    ],
+    [
+      "Personen mit einer Allergie gegen den Wirkstoff Citalopram",
+      "Citalopram darf nicht in der Schwangerschaft angewendet werden, außer wenn es zwingend nötig ist."
+    ],
+    0.9697215557098389
+  ],
+  [
+    [
+      56,
+      21
+    ],
+    [
+      "Personen mit einer bestimmten Form der Herzrhythmus-Störung Sprechen Sie deshalb vor der Einnahme von Citalopram mit Ihrem Arzt.",
+      "Citalopram darf nicht in der Schwangerschaft angewendet werden, außer wenn es zwingend nötig ist."
+    ],
+    0.9580820202827454
+  ],
+  [
+    [
+      57,
+      21
+    ],
+    [
+      "Sie wollen noch mehr über Citalopram lesen?",
+      "Citalopram darf nicht in der Schwangerschaft angewendet werden, außer wenn es zwingend nötig ist."
+    ],
+    0.9679578542709351
+  ],
+  [
+    [
+      58,
+      21
+    ],
+    [
+      "Mehr Informationen über Citalopram finden Sie hier .",
+      "Citalopram darf nicht in der Schwangerschaft angewendet werden, außer wenn es zwingend nötig ist."
+    ],
+    0.9677347540855408
+  ],
+  [
+    [
+      60,
+      27
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wenn die Therapie beendet werden soll, dann muss die Wirkstoffdosis langsam gemäß der ärztlichen Anweisung reduziert werden."
+    ],
+    0.4371131360530853
+  ]
+]

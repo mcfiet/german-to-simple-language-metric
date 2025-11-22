@@ -1,0 +1,398 @@
+[
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Pulver Granulat.",
+      "Diese Darreichungsform besteht aus zwei Gelatinehälften und enthält meist Pulver Granulat Pellets oder ölige Flüssigkeiten"
+    ],
+    1.0
+  ],
+  [
+    [
+      17,
+      0
+    ],
+    [
+      "Granulat besteht aus kleinen Körnern oder Kugeln.",
+      "Diese Darreichungsform besteht aus zwei Gelatinehälften und enthält meist Pulver Granulat Pellets oder ölige Flüssigkeiten"
+    ],
+    0.7569835186004639
+  ],
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Pellets.",
+      "Diese Darreichungsform besteht aus zwei Gelatinehälften und enthält meist Pulver Granulat Pellets oder ölige Flüssigkeiten"
+    ],
+    1.0
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "ölige Flüssigkeiten",
+      "Diese Darreichungsform besteht aus zwei Gelatinehälften und enthält meist Pulver Granulat Pellets oder ölige Flüssigkeiten"
+    ],
+    1.0
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Der Apotheker braucht dafür das Rezept vom Arzt.",
+      "Auch der Apotheker kann sie vor Ort füllen und zusammenstecken, wenn es das Rezept des Arztes erfordert."
+    ],
+    0.645130455493927
+  ],
+  [
+    [
+      25,
+      9
+    ],
+    [
+      "Gelatine ist ein tierisches Produkt.",
+      "Diese Kapselart ist stets ein Fertigprodukt von Pharmafirmen."
+    ],
+    0.6071064472198486
+  ],
+  [
+    [
+      30,
+      10
+    ],
+    [
+      "Weichkapseln sind aber nicht immer weicher als Hartkapseln.",
+      "Sie muss gar nicht unbedingt weicher sein als die Hartkapseln, wurde aber so benannt, weil in der Hülle oft mehr Weichmacher enthalten sind."
+    ],
+    0.9012239575386047
+  ],
+  [
+    [
+      31,
+      10
+    ],
+    [
+      "Die Hülle der Weichkapseln enthält jedoch mehr Weichmacher.",
+      "Sie muss gar nicht unbedingt weicher sein als die Hartkapseln, wurde aber so benannt, weil in der Hülle oft mehr Weichmacher enthalten sind."
+    ],
+    0.8753758668899536
+  ],
+  [
+    [
+      32,
+      10
+    ],
+    [
+      "Deshalb heißen die Weichkapseln so.",
+      "Sie muss gar nicht unbedingt weicher sein als die Hartkapseln, wurde aber so benannt, weil in der Hülle oft mehr Weichmacher enthalten sind."
+    ],
+    0.7231931686401367
+  ],
+  [
+    [
+      33,
+      10
+    ],
+    [
+      "Weichmacher sind chemische Stoffe.",
+      "Sie muss gar nicht unbedingt weicher sein als die Hartkapseln, wurde aber so benannt, weil in der Hülle oft mehr Weichmacher enthalten sind."
+    ],
+    0.7192451357841492
+  ],
+  [
+    [
+      35,
+      14
+    ],
+    [
+      "Diese Schicht schützt die Tabletten vor Licht.",
+      "Einige Tabletten werden mit einem Film überzogen, der sie vor Licht schützt."
+    ],
+    0.7886847257614136
+  ],
+  [
+    [
+      36,
+      15
+    ],
+    [
+      "Die Tabletten lassen sich so auch leichter schlucken.",
+      "Außerdem lassen sich Tabletten mit Film üblicherweise leichter schlucken als ohne."
+    ],
+    0.7778159379959106
+  ],
+  [
+    [
+      37,
+      16
+    ],
+    [
+      "Bei Dragees besteht diese Schicht aus Zucker.",
+      "Dragees sind aus ähnlichen Gründen mit einer Schutzschicht aus Zucker überzogen."
+    ],
+    0.7176395654678345
+  ],
+  [
+    [
+      38,
+      17
+    ],
+    [
+      "Ein Patient soll große Mengen eines Wirkstoffs einnehmen?",
+      "Soll der Patient große Mengen eines Wirkstoffs einnehmen, sind die Tabletten unter Umständen zu groß zum Schlucken."
+    ],
+    0.8659114241600037
+  ],
+  [
+    [
+      39,
+      17
+    ],
+    [
+      "Dann sind die Tabletten vielleicht zu groß zum Schlucken.",
+      "Soll der Patient große Mengen eines Wirkstoffs einnehmen, sind die Tabletten unter Umständen zu groß zum Schlucken."
+    ],
+    0.85602867603302
+  ],
+  [
+    [
+      42,
+      21
+    ],
+    [
+      "Brausetabletten werden in Wasser aufgelöst.",
+      "Sie werden vor der Einnahme in Wasser aufgelöst und ergeben in der Regel ein Getränk mit Geschmack."
+    ],
+    0.8991803526878357
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Achtung: Brausetabletten enthalten viel Natriumcarbonat.",
+      "\"Allerdings können Brausetabletten unverhältnismäßig viel Natriumcarbonat als sprudelnden Zusatz enthalten\", warnt Kircher."
+    ],
+    0.8863579630851746
+  ],
+  [
+    [
+      50,
+      27
+    ],
+    [
+      "So gelangt der Wirkstoff über die Mundschleimhaut in den Körper.",
+      "Der Wirkstoff der Sublingualtabletten gelangt in der Regel über die Zunge und die Mundschleimhaut in den Körper, zum Beispiel Nitroglycerin zur Bekämpfung eines Angina pectoris-Anfalls bei einer koronaren Herzerkrankung."
+    ],
+    0.9196309447288513
+  ],
+  [
+    [
+      51,
+      29
+    ],
+    [
+      "Retard-Tabletten geben den Wirkstoff verlangsamt ab.",
+      "Retard-Tabletten sollen bei der Wanderung durch den Darm ihren Wirkstoff zeitverzögert abgeben."
+    ],
+    0.7404530048370361
+  ],
+  [
+    [
+      56,
+      36
+    ],
+    [
+      "Sie hält die Magensäure ab.",
+      "Bei manchen Wirkstoffen wie beispielsweise Diclofenac müssen die Tabletten mit einer Schicht überzogen werden, die Magensäure abhält."
+    ],
+    0.6066210865974426
+  ],
+  [
+    [
+      57,
+      36
+    ],
+    [
+      "So wird die Tablette nicht durch die Magensäure zerstört.",
+      "Bei manchen Wirkstoffen wie beispielsweise Diclofenac müssen die Tabletten mit einer Schicht überzogen werden, die Magensäure abhält."
+    ],
+    0.7236250042915344
+  ],
+  [
+    [
+      58,
+      39
+    ],
+    [
+      "Magensaftresistente Tabletten sollten morgens eine halbe Stunde vor dem Essen mit viel Wasser geschluckt werden.",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.8697411417961121
+  ],
+  [
+    [
+      59,
+      39
+    ],
+    [
+      "So gelangen die Tabletten schneller durch den Magen hindurch.",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.7481725811958313
+  ],
+  [
+    [
+      66,
+      39
+    ],
+    [
+      "Sie haben Probleme mit dem Schlucken von Tabletten?",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.6618718504905701
+  ],
+  [
+    [
+      68,
+      39
+    ],
+    [
+      "Nehmen Sie die Tablette mit einem großen Schluck Wasser.",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.6697770357131958
+  ],
+  [
+    [
+      71,
+      39
+    ],
+    [
+      "So schlucken Sie die Tablette hinunter.",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.6683580875396729
+  ],
+  [
+    [
+      72,
+      39
+    ],
+    [
+      "Die Tablette darf zerkleinert werden?",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.7087408304214478
+  ],
+  [
+    [
+      76,
+      39
+    ],
+    [
+      "Damit werden die Tabletten rutschiger.",
+      "\"Damit die Tabletten den Magen schnell passieren, sollten sie auf nüchternem Magen mit reichlich Leitungswasser geschluckt werden, also im Allgemeinen morgens mindestens eine halbe Stunde vor dem Frühstück\", sagt Kircher."
+    ],
+    0.864589512348175
+  ],
+  [
+    [
+      81,
+      40
+    ],
+    [
+      "Manchmal ist die Kerbe in der Mitte nur Dekoration.",
+      "Grund ist der Schließmuskel am Ende des Magens, der Tabletten erst in den Dünndarm entlässt, wenn keine Speisereste mehr im Magen sind."
+    ],
+    0.669047474861145
+  ],
+  [
+    [
+      83,
+      42
+    ],
+    [
+      "Dann kann giftiger Staub entstehen.",
+      "\"Wer aber diese Tabletten teilt, produziert unter Umständen Bruchstaub, der giftig sein kann, wenn er eingeatmet wird."
+    ],
+    0.6016497611999512
+  ],
+  [
+    [
+      86,
+      43
+    ],
+    [
+      "Deshalb möchten Sie die Tablette teilen?",
+      "\" Deshalb sollte man Tabletten nur teilen, wenn es im Beipackzettel steht und zum Beispiel auch eine halbe Tablette als Dosisoption angegeben ist."
+    ],
+    0.7323713898658752
+  ],
+  [
+    [
+      90,
+      43
+    ],
+    [
+      "Auf dem Beipackzettel steht:",
+      "\" Deshalb sollte man Tabletten nur teilen, wenn es im Beipackzettel steht und zum Beispiel auch eine halbe Tablette als Dosisoption angegeben ist."
+    ],
+    0.6580129861831665
+  ],
+  [
+    [
+      91,
+      45
+    ],
+    [
+      "So lagern Sie das Medikament richtig.",
+      "Grundsätzlich gelte es dabei noch zu unterscheiden, weshalb die Tablette geteilt werden soll: Wenn es nur darum geht, kleinere Teile zu erzeugen, um sie besser schlucken zu können, ist das bei relativ vielen Präparaten kein Problem."
+    ],
+    0.590876579284668
+  ],
+  [
+    [
+      93,
+      65
+    ],
+    [
+      "Manche Medikamente müssen Sie im Kühlschrank lagern.",
+      "Manche Arzneimittel müssen im Kühlschrank gelagert werden."
+    ],
+    0.8098911643028259
+  ],
+  [
+    [
+      94,
+      68
+    ],
+    [
+      "Achtung: Lagern Sie Medikamente nicht im Gefrierfach.",
+      "Vorsicht: Wer die Medikamente im Gefrierfach vereisen lässt, zerstört sie damit unter Umständen."
+    ],
+    0.7184380292892456
+  ],
+  [
+    [
+      95,
+      71
+    ],
+    [
+      "Die Kälte im Gefrierfach zerstört nämlich die Wirkstoffe.",
+      "Transdermalpflaster sollten zwar nicht im Kühlschrank, aber unter 25 Grad Celsius lagern, weil bei höheren Temperaturen der Wirkstoff aus dem Depot in die Kleberschicht wandern kann."
+    ],
+    0.7333272099494934
+  ]
+]

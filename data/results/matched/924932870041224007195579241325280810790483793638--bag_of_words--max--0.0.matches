@@ -1,0 +1,761 @@
+[
+  [
+    [
+      0,
+      9
+    ],
+    [
+      "Eine Blutvergiftung ist eine lebensbedrohliche Reaktion des Körpers.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9807844161987305
+  ],
+  [
+    [
+      1,
+      64
+    ],
+    [
+      "Dabei können die eigenen Organe stark geschädigt werden.",
+      "So können die Ärzte testen, welche Medikamente am besten gegen die Krankheitserreger wirken und ob die bereits begonnene Therapie greift."
+    ],
+    0.6243008971214294
+  ],
+  [
+    [
+      2,
+      9
+    ],
+    [
+      "Eine Blutvergiftung ist nicht leicht zu erkennen.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9681488275527954
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Anzeichen können nämlich auch auf andere Erkrankungen hindeuten.",
+      "Die Anzeichen sind vieldeutig und können auch durch andere Krankheiten verursacht sein."
+    ],
+    0.5998920798301697
+  ],
+  [
+    [
+      4,
+      9
+    ],
+    [
+      "Anzeichen einer Blutvergiftung sind zum Beispiel:",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.919341504573822
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Müdigkeit schnelle und flache Atmung niedriger Blutdruck",
+      "Beschleunigte Atmung : Die Atmung ist schnell und flach, 22 Atemzüge pro Minute oder mehr Niedriger Blutdruck :"
+    ],
+    0.44987356662750244
+  ],
+  [
+    [
+      8,
+      79
+    ],
+    [
+      "schneller Puls hohes Fieber oder sehr niedrige Körpertemperatur",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.27872607111930847
+  ],
+  [
+    [
+      9,
+      9
+    ],
+    [
+      "Es gibt noch andere mögliche Anzeichen für eine Blutvergiftung.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.959338366985321
+  ],
+  [
+    [
+      10,
+      42
+    ],
+    [
+      "Aber die Anzeichen hängen immer auch von der Entzündung ab:",
+      "Laborwerte können auch anzeigen, wie stark die Blutgerinnung oder die Organfunktion gestört ist."
+    ],
+    0.47327718138694763
+  ],
+  [
+    [
+      11,
+      55
+    ],
+    [
+      "Die betroffene Person hat eine Hirnhaut-Entzündung?",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.6017415523529053
+  ],
+  [
+    [
+      12,
+      42
+    ],
+    [
+      "Dann hat die betroffene Person vielleicht auch Kopfschmerzen.",
+      "Laborwerte können auch anzeigen, wie stark die Blutgerinnung oder die Organfunktion gestört ist."
+    ],
+    0.4245762526988983
+  ],
+  [
+    [
+      13,
+      60
+    ],
+    [
+      "Oder sie hat einen steifen Nacken.",
+      "Auf den Aufnahmen erkennen sie zum Beispiel Flüssigkeits- oder Eiteransammlungen in Körperhöhlen oder Organen – mögliche Hinweise auf den Infektionsherd."
+    ],
+    0.29099348187446594
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Manchmal hat eine Person bei einer Blutvergiftung auch kleine rote Flecken am ganzen Körper.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9362779855728149
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Die Flecken können zu größeren dunkelroten Flecken werden.",
+      "Es bilden sich kleine rote Flecken an vielen Stellen, die zu größeren dunkelroten oder bläulichen Flecken verschmelzen, die so ähnlich aussehen wie ein Bluterguss."
+    ],
+    0.6136239767074585
+  ],
+  [
+    [
+      16,
+      66
+    ],
+    [
+      "Es können auch mit Blut gefüllte Bläschen entstehen.",
+      "Alternativ können zum Beispiel auch Teile der Erbinformation der Krankheitserreger im Blut nachgewiesen werden."
+    ],
+    0.22021308541297913
+  ],
+  [
+    [
+      17,
+      69
+    ],
+    [
+      "Die betroffene Person muss dann sofort ins Krankenhaus.",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.4236525595188141
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Eine Blutvergiftung beginnt mit einer Infektion.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9493411779403687
+  ],
+  [
+    [
+      19,
+      75
+    ],
+    [
+      "Das kann zum Beispiel eine eitrige Wunde sein.",
+      "Eine Spülung der infizierten Stellen oder eine Flüssigkeitsableitung (Drainage) kann angebracht sein."
+    ],
+    0.6110120415687561
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Auch eine Entzündung kann die Ursache einer Blutvergiftung sein.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9385305047035217
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Zum Beispiel kann eine Lungenentzündung die Blutvergiftung verursachen.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9522045254707336
+  ],
+  [
+    [
+      22,
+      40
+    ],
+    [
+      "Auslöser für eine Infektion oder Entzündung sind zum Beispiel:",
+      "Bestimmte Blutwerte können auf eine Entzündung hinweisen, zum Beispiel erhöhte Werte für Procalcitonin ."
+    ],
+    0.5818799138069153
+  ],
+  [
+    [
+      23,
+      22
+    ],
+    [
+      "Bakterien Pilze Parasiten Viren",
+      "Auslöser sind häufig Bakterien, aber auch Pilze, Parasiten oder Viren."
+    ],
+    0.42950576543807983
+  ],
+  [
+    [
+      24,
+      26
+    ],
+    [
+      "Das Immunsystem des Körpers reagiert auf die Entzündung und bekämpft die Erreger.",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.5918624401092529
+  ],
+  [
+    [
+      25,
+      26
+    ],
+    [
+      "Normalerweise kann das Immunsystem die Erreger selbst bekämpfen.",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.4413243234157562
+  ],
+  [
+    [
+      26,
+      69
+    ],
+    [
+      "Dann heilt die Entzündung.",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.49916887283325195
+  ],
+  [
+    [
+      27,
+      20
+    ],
+    [
+      "Bei einer Blutvergiftung reagiert das Immunsystem jedoch nicht erfolgreich auf die Infektion.",
+      "Die Lymphangitis sollte deshalb trotzdem rasch ärztlich behandelt werden, damit es möglichst gar nicht erst zu einer Blutvergiftung kommt."
+    ],
+    0.8871115446090698
+  ],
+  [
+    [
+      28,
+      32
+    ],
+    [
+      "Das Immunsystem beschädigt dann den eigenen Körper.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.1331845074892044
+  ],
+  [
+    [
+      29,
+      78
+    ],
+    [
+      "Ärzte wissen aber nicht:",
+      "Nicht zuletzt bedeutet die schwere Erkrankung nicht nur körperlichen, sondern auch psychischen Stress."
+    ],
+    0.3548744320869446
+  ],
+  [
+    [
+      30,
+      26
+    ],
+    [
+      "Warum reagiert das Immunsystem so?",
+      "Die entscheidende Rolle spielt nach heutigem Wissen, dass das Immunsystem auf die Infektion unpassend reagiert."
+    ],
+    0.16187281906604767
+  ],
+  [
+    [
+      31,
+      9
+    ],
+    [
+      "Bei einer Blutvergiftung funktionieren lebenswichtige Organe nicht mehr richtig.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.918698251247406
+  ],
+  [
+    [
+      32,
+      9
+    ],
+    [
+      "Deshalb ist eine Blutvergiftung sehr gefährlich.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9689975380897522
+  ],
+  [
+    [
+      33,
+      9
+    ],
+    [
+      "Für manche Menschen ist das Risiko für eine Blutvergiftung besonders hoch.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9641870260238647
+  ],
+  [
+    [
+      34,
+      32
+    ],
+    [
+      "Dazu gehören zum Beispiel Menschen mit einem geschwächten Immunsystem.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.1098148375749588
+  ],
+  [
+    [
+      35,
+      53
+    ],
+    [
+      "Das können zum Beispiel Personen mit Diabetes oder Krebserkrankung sein.",
+      "Verschiedene weitere Maßnahmen können erforderlich sein:"
+    ],
+    0.3091655969619751
+  ],
+  [
+    [
+      36,
+      22
+    ],
+    [
+      "Besonders gefährdet sind aber auch: Frühchen.",
+      "Auslöser sind häufig Bakterien, aber auch Pilze, Parasiten oder Viren."
+    ],
+    0.1956023871898651
+  ],
+  [
+    [
+      37,
+      33
+    ],
+    [
+      "Frühchen sind zu früh geborene Babys.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.07527849078178406
+  ],
+  [
+    [
+      38,
+      33
+    ],
+    [
+      "Sehr alte Menschen.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.2323043942451477
+  ],
+  [
+    [
+      39,
+      56
+    ],
+    [
+      "Frisch operierte Patienten.",
+      "Oft erhalten die Patienten Sauerstoffgabe und eine Beatmung ."
+    ],
+    0.12057051062583923
+  ],
+  [
+    [
+      40,
+      47
+    ],
+    [
+      "Patienten auf der Intensivstation.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.19026914238929749
+  ],
+  [
+    [
+      41,
+      34
+    ],
+    [
+      "Personen ohne Milz.",
+      "Anfällig für eine Blutvergiftung sind auch Patienten, die frisch operiert wurden oder auf der Intensivstation behandelt werden müssen Menschen, deren Milz entfernt wurde, haben ebenfalls ein höheres Risiko für eine Blutvergiftung, vor allem durch Bakterien wie Pneumokokken"
+    ],
+    0.033505942672491074
+  ],
+  [
+    [
+      42,
+      69
+    ],
+    [
+      "Die Milz ist ein Organ im Bauch.",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.5916176438331604
+  ],
+  [
+    [
+      43,
+      39
+    ],
+    [
+      "Sie gehören zu einer dieser Gruppen?",
+      "Die Diagnose ergibt sich aus den Befunden, insbesondere den Symptomen wie einer Bewusstseinstrübung, einer schnellen Atmung und einem niedrigem Blutdruck."
+    ],
+    0.29822978377342224
+  ],
+  [
+    [
+      44,
+      45
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Erhöhte Werte sprechen dann für einen septischen Schock."
+    ],
+    0.1456531137228012
+  ],
+  [
+    [
+      45,
+      75
+    ],
+    [
+      "Der Arzt kann eine Impfung gegen bestimmte Bakterien empfehlen.",
+      "Eine Spülung der infizierten Stellen oder eine Flüssigkeitsableitung (Drainage) kann angebracht sein."
+    ],
+    0.6952309012413025
+  ],
+  [
+    [
+      46,
+      32
+    ],
+    [
+      "Auch manche Medikamente können das Immunsystem schwächen.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.15350313484668732
+  ],
+  [
+    [
+      47,
+      72
+    ],
+    [
+      "Sie nehmen Medikamente?",
+      "Finden sich Infektionsherde, werden sie – soweit möglich – entfernt (Fokussanierung)."
+    ],
+    0.19878315925598145
+  ],
+  [
+    [
+      48,
+      59
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt oder Apotheker.",
+      "Je nach Fall setzen sie dann bildgebende Verfahren wie Ultraschall-Untersuchungen oder die Computertomografie ein."
+    ],
+    0.24731381237506866
+  ],
+  [
+    [
+      49,
+      81
+    ],
+    [
+      "Lesen Sie auch den Beipackzettel der Medikamente.",
+      "Weite Informationen finden Sie auch bei der Deutschen Sepsis-Gesellschaft ."
+    ],
+    0.3902910053730011
+  ],
+  [
+    [
+      50,
+      9
+    ],
+    [
+      "Personen mit einer Blutvergiftung müssen sofort ins Krankenhaus.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9206830859184265
+  ],
+  [
+    [
+      51,
+      9
+    ],
+    [
+      "Eine Blutvergiftung ist nämlich lebensgefährlich.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.968517005443573
+  ],
+  [
+    [
+      52,
+      9
+    ],
+    [
+      "Eine Person hat eine Blutvergiftung?",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9728849530220032
+  ],
+  [
+    [
+      53,
+      81
+    ],
+    [
+      "Dann wird sie auf der Intensivstation behandelt.",
+      "Weite Informationen finden Sie auch bei der Deutschen Sepsis-Gesellschaft ."
+    ],
+    0.18371844291687012
+  ],
+  [
+    [
+      54,
+      64
+    ],
+    [
+      "Die Ärzte stabilisieren den Kreislauf mit Medikamenten und unterstützen die Organfunktionen.",
+      "So können die Ärzte testen, welche Medikamente am besten gegen die Krankheitserreger wirken und ob die bereits begonnene Therapie greift."
+    ],
+    0.8243371844291687
+  ],
+  [
+    [
+      55,
+      58
+    ],
+    [
+      "Außerdem bekommt die betroffene Person Antibiotika gegen die Infektion.",
+      "Oft wissen die Ärzte nicht, wo die Infektion ihren Ausgang genommen haben könnte."
+    ],
+    0.7397468090057373
+  ],
+  [
+    [
+      56,
+      69
+    ],
+    [
+      "Die Niere arbeitet nicht mehr richtig?",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.6685966849327087
+  ],
+  [
+    [
+      57,
+      16
+    ],
+    [
+      "Dann wird eine Dialyse gemacht.",
+      "Das Symptom deutet auf eine Entzündung der Lymphgefäße hin, eine Lymphangitis."
+    ],
+    0.5071287155151367
+  ],
+  [
+    [
+      58,
+      69
+    ],
+    [
+      "Die Dialyse reinigt das Blut.",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.5157603621482849
+  ],
+  [
+    [
+      59,
+      9
+    ],
+    [
+      "Außerdem erhalten Patienten bei einer Blutvergiftung oft Sauerstoff und werden beatmet.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9203163981437683
+  ],
+  [
+    [
+      60,
+      9
+    ],
+    [
+      "Eine Blutvergiftung kann verschiedene Folgen haben.",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9596794843673706
+  ],
+  [
+    [
+      61,
+      76
+    ],
+    [
+      "Zu den Folgen gehören zum Beispiel: Muskelschwäche Bewegungsstörungen Nervenschäden",
+      "Patienten, die eine Sepsis überstanden haben, kämpfen unter Umständen noch Wochen oder Monate mit möglichen Folgen – zum Beispiel mit Muskelschwäche, Bewegungsstörungen oder Nervenschäden."
+    ],
+    0.1297289878129959
+  ],
+  [
+    [
+      62,
+      79
+    ],
+    [
+      "Albträume Depressionen",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.0868145003914833
+  ],
+  [
+    [
+      63,
+      9
+    ],
+    [
+      "Sie leiden unter den Folgen einer Blutvergiftung?",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9203178286552429
+  ],
+  [
+    [
+      64,
+      69
+    ],
+    [
+      "Dann kann Ihnen vielleicht die Teilnahme an einer Selbsthilfe-Gruppe helfen.",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.44110798835754395
+  ],
+  [
+    [
+      65,
+      79
+    ],
+    [
+      "Dort treffen Sie andere Betroffene.",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.22295629978179932
+  ],
+  [
+    [
+      66,
+      39
+    ],
+    [
+      "In einer Selbsthilfe-Gruppe können Betroffene über ihre Erfahrungen sprechen.",
+      "Die Diagnose ergibt sich aus den Befunden, insbesondere den Symptomen wie einer Bewusstseinstrübung, einer schnellen Atmung und einem niedrigem Blutdruck."
+    ],
+    0.21583625674247742
+  ],
+  [
+    [
+      67,
+      9
+    ],
+    [
+      "Sie wollen noch mehr über die Blutvergiftung lesen?",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9224156141281128
+  ],
+  [
+    [
+      68,
+      9
+    ],
+    [
+      "Mehr Informationen über die Blutvergiftung finden Sie hier .",
+      "Eine Blutvergiftung ist ein Notfall."
+    ],
+    0.9228854775428772
+  ],
+  [
+    [
+      69,
+      67
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Auch Wundabstriche, Urin-, Gewebe-, Nervenwasser- oder andere Flüssigkeitsproben aus dem Körper können im Labor auf Keime untersucht werden."
+    ],
+    0.019254110753536224
+  ],
+  [
+    [
+      70,
+      69
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Manchmal bleibt die Infektionsquelle unbekannt."
+    ],
+    0.5962550640106201
+  ]
+]

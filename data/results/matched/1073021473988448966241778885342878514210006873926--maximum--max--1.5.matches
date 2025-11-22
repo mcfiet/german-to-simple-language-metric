@@ -1,0 +1,1432 @@
+[
+  [
+    [
+      0,
+      46
+    ],
+    [
+      "Sie haben sich leicht verletzt?",
+      "Solche Verletzungen infizieren sich leicht."
+    ],
+    0.6290502548217773
+  ],
+  [
+    [
+      1,
+      66
+    ],
+    [
+      "Sie haben sich zum Beispiel das Knie aufgeschlagen?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.6011718511581421
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Oder Sie haben sich in den Finger geschnitten?",
+      "Knie aufgeschlagen, in den Finger geschnitten, Kratzer oder Schramme eingefangen?"
+    ],
+    0.6806797385215759
+  ],
+  [
+    [
+      3,
+      12
+    ],
+    [
+      "Oder Sie haben eine kleine Verbrennung?",
+      "Sehr kleine Splitter, die nur ganz oberflächlich eingedrungen sind, können Sie vorsichtig mit einer Pinzette entfernen."
+    ],
+    0.5504398941993713
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Leichte Verletzungen können Sie oft selbst versorgen.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.7672041654586792
+  ],
+  [
+    [
+      5,
+      2
+    ],
+    [
+      "Dafür müssen Sie die Wunde reinigen, desinfizieren, verbinden und beobachten.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7071434855461121
+  ],
+  [
+    [
+      6,
+      52
+    ],
+    [
+      "Achtung: Die Verletzung ist nicht leicht?",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.5679693818092346
+  ],
+  [
+    [
+      7,
+      27
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Heilt die Wunde gut?"
+    ],
+    0.629974901676178
+  ],
+  [
+    [
+      8,
+      32
+    ],
+    [
+      "Oder Sie haben sehr starke Schmerzen?",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.6069011688232422
+  ],
+  [
+    [
+      9,
+      69
+    ],
+    [
+      "Dann sollten Sie den Rettungsdienst rufen.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.7456092834472656
+  ],
+  [
+    [
+      11,
+      66
+    ],
+    [
+      "Sie haben sich verbrannt?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.5538201332092285
+  ],
+  [
+    [
+      12,
+      34
+    ],
+    [
+      "Oder in der Wunde ist Schmutz?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.6766852736473083
+  ],
+  [
+    [
+      13,
+      5
+    ],
+    [
+      "Dann halten Sie die Wunde unter lauwarmes Leitungswasser.",
+      "Ist die Wunde stark verschmutzt, beispielsweise mit Erde, reinigen Sie die Wunde notfalls mit lauwarmem, klaren Leitungswasser in Trinkwasserqualität, möglichst direkt aus dem Hahn."
+    ],
+    0.6452590823173523
+  ],
+  [
+    [
+      14,
+      39
+    ],
+    [
+      "In der Wunde sind Splitter?",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.5874335765838623
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Dann ziehen Sie die Splitter vorsichtig heraus.",
+      "Sehr kleine Splitter, die nur ganz oberflächlich eingedrungen sind, können Sie vorsichtig mit einer Pinzette entfernen."
+    ],
+    0.6523939967155457
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Benutzen Sie dafür eine Pinzette.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.614669144153595
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Hinweis: Ziehen Sie die Splitter ganz heraus.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6672394275665283
+  ],
+  [
+    [
+      19,
+      52
+    ],
+    [
+      "Dann kann sich die Wunde entzünden.",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.6282795071601868
+  ],
+  [
+    [
+      20,
+      34
+    ],
+    [
+      "Die Splitter stecken tief in der Wunde?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.6058043241500854
+  ],
+  [
+    [
+      21,
+      2
+    ],
+    [
+      "Dann ziehen Sie die Splitter nicht heraus.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7108830213546753
+  ],
+  [
+    [
+      22,
+      70
+    ],
+    [
+      "Verbinden Sie die Wunde mit einem sterilen Verband.",
+      "Stillen Sie die Blutung – wenn möglich – mit einem Druckverband."
+    ],
+    0.745306670665741
+  ],
+  [
+    [
+      24,
+      66
+    ],
+    [
+      "Danach gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7578331828117371
+  ],
+  [
+    [
+      25,
+      42
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Tiefe, längere oder stark blutende Schnittwunden sollten vom Arzt versorgt werden."
+    ],
+    0.5581371784210205
+  ],
+  [
+    [
+      26,
+      46
+    ],
+    [
+      "Hinweis: Wunden können sich schnell entzünden.",
+      "Solche Verletzungen infizieren sich leicht."
+    ],
+    0.6315050721168518
+  ],
+  [
+    [
+      27,
+      2
+    ],
+    [
+      "Fassen Sie deshalb die Wunde nicht mit schmutzigen Händen an.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7725769877433777
+  ],
+  [
+    [
+      28,
+      2
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6103088855743408
+  ],
+  [
+    [
+      29,
+      3
+    ],
+    [
+      "Oder tragen Sie Einmal-Handschuhe.",
+      "Tragen Sie als Ersthelfer – falls möglich – Einmalhandschuhe."
+    ],
+    0.647429347038269
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Sie haben die Wunde gereinigt?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6979731321334839
+  ],
+  [
+    [
+      31,
+      2
+    ],
+    [
+      "Dann sollten Sie die Wunde desinfizieren.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7310438752174377
+  ],
+  [
+    [
+      32,
+      39
+    ],
+    [
+      "Beim Desinfizieren werden die Keime in der Wunde getötet.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.6399890184402466
+  ],
+  [
+    [
+      33,
+      2
+    ],
+    [
+      "Die Wunde kann sich dann nicht so leicht entzünden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6550117135047913
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Benutzen Sie ein Desinfektionsmittel für Wunden.",
+      "Tragen Sie ein geeignetes Wunddesinfektionsmittel auf."
+    ],
+    0.5994448065757751
+  ],
+  [
+    [
+      35,
+      1
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden sollten Sie immer zu Hause haben.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.5772369503974915
+  ],
+  [
+    [
+      36,
+      18
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden können Sie in der Apotheke kaufen.",
+      "Sie in der Apotheke"
+    ],
+    0.7813584804534912
+  ],
+  [
+    [
+      38,
+      26
+    ],
+    [
+      "Dann fragen Sie den Apotheker:",
+      "Im Zweifelsfall fragen Sie Ihren Arzt."
+    ],
+    0.66112220287323
+  ],
+  [
+    [
+      40,
+      2
+    ],
+    [
+      "Sie haben die Wunde desinfiziert?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7135335206985474
+  ],
+  [
+    [
+      41,
+      2
+    ],
+    [
+      "Dann sollten Sie die Wunde verbinden.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7227478623390198
+  ],
+  [
+    [
+      43,
+      21
+    ],
+    [
+      "Für größere Wunden können Sie eine sterile Kompresse benutzen.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.7044582962989807
+  ],
+  [
+    [
+      44,
+      21
+    ],
+    [
+      "Eine Kompresse ist eine Wundauflage.",
+      "Bei größeren Verletzungen eine entsprechend größere Wundauflage verwenden, beispielsweise eine sterile Kompresse auf die Wunde legen und mit einer elastischen Mullbinde befestigen."
+    ],
+    0.6337172985076904
+  ],
+  [
+    [
+      45,
+      73
+    ],
+    [
+      "Die Kompresse kommt direkt auf die Wunde.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.6648553609848022
+  ],
+  [
+    [
+      46,
+      71
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.7048656344413757
+  ],
+  [
+    [
+      47,
+      54
+    ],
+    [
+      "Dann kann die Kompresse nicht mehr verrutschen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.6265239715576172
+  ],
+  [
+    [
+      48,
+      22
+    ],
+    [
+      "Für kleine Wunden gibt es Feucht-Pflaster.",
+      "Mittlerweile gibt es auch für kleinere Wunden Feuchtpflaster und -kompressen mit einer gelhaltigen Auflage."
+    ],
+    0.7209634184837341
+  ],
+  [
+    [
+      49,
+      27
+    ],
+    [
+      "Feucht-Pflaster lassen die Wunde schneller heilen.",
+      "Heilt die Wunde gut?"
+    ],
+    0.638333261013031
+  ],
+  [
+    [
+      51,
+      2
+    ],
+    [
+      "Beobachten Sie die Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.8236505389213562
+  ],
+  [
+    [
+      52,
+      27
+    ],
+    [
+      "Wie entwickelt sich die Wunde?",
+      "Heilt die Wunde gut?"
+    ],
+    0.6165359616279602
+  ],
+  [
+    [
+      53,
+      29
+    ],
+    [
+      "Wird die verletzte Stelle: dick, rot und warm?",
+      "Wird die Stelle zum Beispiel dick, rötet sich die Haut oder fühlt sie sich warm an, kann das auf eine Infektion hindeuten."
+    ],
+    0.6415722370147705
+  ],
+  [
+    [
+      54,
+      2
+    ],
+    [
+      "Dann hat sich die Wunde vielleicht entzündet.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.617943286895752
+  ],
+  [
+    [
+      55,
+      66
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7940313220024109
+  ],
+  [
+    [
+      56,
+      47
+    ],
+    [
+      "Der Arzt kann die entzündete Wunde richtig behandeln.",
+      "Platzwunden deshalb besser vom Arzt behandeln lassen."
+    ],
+    0.6342779397964478
+  ],
+  [
+    [
+      57,
+      58
+    ],
+    [
+      "Eine offene Wunde kann Tetanus verursachen.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.607780396938324
+  ],
+  [
+    [
+      58,
+      58
+    ],
+    [
+      "Tetanus heißt auch: Wundstarr-Krampf.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.5449965596199036
+  ],
+  [
+    [
+      59,
+      58
+    ],
+    [
+      "Durch kleine Verletzungen in der Haut können Erreger in den Körper gelangen.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.6050362586975098
+  ],
+  [
+    [
+      60,
+      58
+    ],
+    [
+      "Dort können die Erreger Krämpfe auslösen.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.5923709869384766
+  ],
+  [
+    [
+      61,
+      31
+    ],
+    [
+      "Diese Krämpfe sind gefährlich.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.5903922915458679
+  ],
+  [
+    [
+      62,
+      2
+    ],
+    [
+      "Eine Tetanus-Impfung kann Sie gegen die Erreger schützen.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5449050664901733
+  ],
+  [
+    [
+      63,
+      25
+    ],
+    [
+      "Sie wissen nicht: Bin ich gegen Tetanus geimpft?",
+      "Prüfen Sie bei allen offenen Wunden, ob Sie noch gegen Tetanus geschützt sind."
+    ],
+    0.6053493022918701
+  ],
+  [
+    [
+      64,
+      18
+    ],
+    [
+      "Dann schauen Sie in Ihren Impfpass.",
+      "Sie in der Apotheke"
+    ],
+    0.5885279178619385
+  ],
+  [
+    [
+      65,
+      26
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt.",
+      "Im Zweifelsfall fragen Sie Ihren Arzt."
+    ],
+    0.810459554195404
+  ],
+  [
+    [
+      66,
+      32
+    ],
+    [
+      "Sie sind gestürzt?",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.6106237769126892
+  ],
+  [
+    [
+      67,
+      2
+    ],
+    [
+      "Dann haben Sie vielleicht eine Schürfwunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.645086944103241
+  ],
+  [
+    [
+      68,
+      31
+    ],
+    [
+      "Bei einer Schürfwunde ist nur die oberste Hautschicht verletzt.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.6341903209686279
+  ],
+  [
+    [
+      69,
+      32
+    ],
+    [
+      "Bei Schürfwunden werden viele Nerven-Enden freigelegt.",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.689961314201355
+  ],
+  [
+    [
+      70,
+      41
+    ],
+    [
+      "Deshalb sind diese Wunden oft schmerzhaft.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.6812520623207092
+  ],
+  [
+    [
+      71,
+      33
+    ],
+    [
+      "Schürfwunden heilen schnell ab.",
+      "Schürfwunden heilen aber relativ schnell und meist ohne Narbenbildung ab."
+    ],
+    0.8354265689849854
+  ],
+  [
+    [
+      72,
+      1
+    ],
+    [
+      "Kleine Schürfwunden können Sie selbst versorgen.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.7718080282211304
+  ],
+  [
+    [
+      73,
+      34
+    ],
+    [
+      "In der Schürfwunde ist viel Schmutz?",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.6888059973716736
+  ],
+  [
+    [
+      74,
+      34
+    ],
+    [
+      "Dann spülen Sie die Wunde gründlich aus.",
+      "Befindet sich viel Schmutz in der Wunde, dann gründlich spülen und anschließend desinfizieren."
+    ],
+    0.6765013933181763
+  ],
+  [
+    [
+      75,
+      2
+    ],
+    [
+      "Danach desinfizieren Sie die Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.7483283877372742
+  ],
+  [
+    [
+      76,
+      71
+    ],
+    [
+      "Kleben Sie ein Pflaster auf die Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.7268511652946472
+  ],
+  [
+    [
+      77,
+      53
+    ],
+    [
+      "Die Wunde ist sehr groß?",
+      "Zudem ist die Infektionsgefahr sehr hoch, denn mit dem Fremdkörper könnten Keime bis in tiefe Gewebeschichten gelangt sein."
+    ],
+    0.5928809642791748
+  ],
+  [
+    [
+      78,
+      66
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7590870261192322
+  ],
+  [
+    [
+      79,
+      42
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Tiefe, längere oder stark blutende Schnittwunden sollten vom Arzt versorgt werden."
+    ],
+    0.5581371784210205
+  ],
+  [
+    [
+      80,
+      12
+    ],
+    [
+      "Sie haben eine kleine Schnittwunde?",
+      "Sehr kleine Splitter, die nur ganz oberflächlich eingedrungen sind, können Sie vorsichtig mit einer Pinzette entfernen."
+    ],
+    0.602363109588623
+  ],
+  [
+    [
+      81,
+      2
+    ],
+    [
+      "Dann lassen Sie die Wunde kurz bluten.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6787679195404053
+  ],
+  [
+    [
+      82,
+      39
+    ],
+    [
+      "Das Blut spült Schmutz und Krankheitserreger aus der Wunde.",
+      "Schmutz und Krankheitserreger werden auf diese Weise gleich aus der Wunde herausgespült."
+    ],
+    0.7455368638038635
+  ],
+  [
+    [
+      83,
+      71
+    ],
+    [
+      "Dann kleben Sie ein Pflaster auf die Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.7306321859359741
+  ],
+  [
+    [
+      84,
+      53
+    ],
+    [
+      "Die Schnittwunde ist sehr tief?",
+      "Zudem ist die Infektionsgefahr sehr hoch, denn mit dem Fremdkörper könnten Keime bis in tiefe Gewebeschichten gelangt sein."
+    ],
+    0.6068634986877441
+  ],
+  [
+    [
+      85,
+      27
+    ],
+    [
+      "Oder die Schnittwunde blutet stark?",
+      "Heilt die Wunde gut?"
+    ],
+    0.6168496608734131
+  ],
+  [
+    [
+      86,
+      66
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7590870261192322
+  ],
+  [
+    [
+      87,
+      42
+    ],
+    [
+      "Der Arzt versorgt die Schnittwunde.",
+      "Tiefe, längere oder stark blutende Schnittwunden sollten vom Arzt versorgt werden."
+    ],
+    0.606772243976593
+  ],
+  [
+    [
+      88,
+      35
+    ],
+    [
+      "Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Bei kleineren Schürfwunden anschließend einen Wundschnellverband aufbringen."
+    ],
+    0.544518232345581
+  ],
+  [
+    [
+      89,
+      31
+    ],
+    [
+      "Typische Stellen für Platzwunden sind: der Kopf das Knie der Ellenbogen Platzwunden können gefährlich sein.",
+      "Meist sind Stürze die Ursache für diese Verletzungen der obersten Hautschicht."
+    ],
+    0.5912954211235046
+  ],
+  [
+    [
+      90,
+      45
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8116368055343628
+  ],
+  [
+    [
+      91,
+      45
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Platzwunden haben rauhe Ränder, die oft auseinander klaffen."
+    ],
+    0.8192893862724304
+  ],
+  [
+    [
+      92,
+      41
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Deshalb heilen sie meist gut."
+    ],
+    0.7344596982002258
+  ],
+  [
+    [
+      93,
+      46
+    ],
+    [
+      "Platzwunden entzünden sich schnell.",
+      "Solche Verletzungen infizieren sich leicht."
+    ],
+    0.6653761863708496
+  ],
+  [
+    [
+      94,
+      1
+    ],
+    [
+      "Und Platzwunden können sehr stark bluten.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.6373299360275269
+  ],
+  [
+    [
+      95,
+      2
+    ],
+    [
+      "Sie haben eine Platzwunde?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5719860792160034
+  ],
+  [
+    [
+      96,
+      66
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7590870261192322
+  ],
+  [
+    [
+      97,
+      27
+    ],
+    [
+      "Der Arzt versorgt die Wunde.",
+      "Heilt die Wunde gut?"
+    ],
+    0.598111629486084
+  ],
+  [
+    [
+      98,
+      58
+    ],
+    [
+      "Stichwunden entstehen zum Beispiel durch:",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.5920607447624207
+  ],
+  [
+    [
+      99,
+      50
+    ],
+    [
+      "Messer Glasscherben",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.7320250272750854
+  ],
+  [
+    [
+      100,
+      50
+    ],
+    [
+      "Nägel",
+      "Messer, Glasscherben, Nägel und andere spitze Gegenstände können Stichwunden verursachen."
+    ],
+    0.6632497310638428
+  ],
+  [
+    [
+      101,
+      32
+    ],
+    [
+      "Stichwunden sind gefährlich.",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.5925182104110718
+  ],
+  [
+    [
+      102,
+      54
+    ],
+    [
+      "Stichwunden sehen manchmal nicht schlimm aus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.6371320486068726
+  ],
+  [
+    [
+      103,
+      52
+    ],
+    [
+      "Aber Stichwunden können sehr tief sein.",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.6441043615341187
+  ],
+  [
+    [
+      104,
+      2
+    ],
+    [
+      "Sie haben eine Stichwunde?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5840140581130981
+  ],
+  [
+    [
+      105,
+      2
+    ],
+    [
+      "Dann ziehen Sie den Gegenstand nicht selbst aus der Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6852161288261414
+  ],
+  [
+    [
+      106,
+      48
+    ],
+    [
+      "Sie haben sich zum Beispiel an einem Nagel verletzt?",
+      "Er kann feststellen, wie tief die Verletzung ist, ob sich Wundtaschen gebildet haben und ob tieferliegende Strukturen (zum Beispiel Knochen ) verletzt wurden."
+    ],
+    0.5907403230667114
+  ],
+  [
+    [
+      107,
+      2
+    ],
+    [
+      "Dann ziehen Sie den Nagel nicht selbst aus der Wunde.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6854934692382812
+  ],
+  [
+    [
+      108,
+      66
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7940313220024109
+  ],
+  [
+    [
+      109,
+      69
+    ],
+    [
+      "Oder rufen Sie den Rettungsdienst.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.6965084671974182
+  ],
+  [
+    [
+      110,
+      42
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Tiefe, längere oder stark blutende Schnittwunden sollten vom Arzt versorgt werden."
+    ],
+    0.5581371784210205
+  ],
+  [
+    [
+      112,
+      66
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7590870261192322
+  ],
+  [
+    [
+      113,
+      52
+    ],
+    [
+      "Bisswunden und Kratzwunden können nämlich gefährlich sein.",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.6416140794754028
+  ],
+  [
+    [
+      114,
+      58
+    ],
+    [
+      "Durch Bisse und Kratzer können Krankheitserreger in Ihren Körper gelangen.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.5963846445083618
+  ],
+  [
+    [
+      115,
+      58
+    ],
+    [
+      "Durch Bisswunden und Kratzwunden können Sie zum Beispiel Tetanus bekommen.",
+      "Krankheitserreger könnten – zum Beispiel mit dem Speichel – in die Wunde gelangt sein und schwere Infektionen wie Wundstarrkrampf (Tetanus), Gasbrand oder eine Blutvergiftung (Sepsis) hervorrufen."
+    ],
+    0.5887888073921204
+  ],
+  [
+    [
+      116,
+      52
+    ],
+    [
+      "Tetanus kann sehr gefährlich sein.",
+      "Denn auch wenn die Wunde äußerlich keinen gefährlichen Eindruck macht, kann die Verletzungen tief sein und unter Umständen gefährliche innere Blutungen hervorrufen."
+    ],
+    0.6056408286094666
+  ],
+  [
+    [
+      118,
+      18
+    ],
+    [
+      "Schauen Sie in Ihren Impfpass.",
+      "Sie in der Apotheke"
+    ],
+    0.6272136569023132
+  ],
+  [
+    [
+      119,
+      26
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt:",
+      "Im Zweifelsfall fragen Sie Ihren Arzt."
+    ],
+    0.810459554195404
+  ],
+  [
+    [
+      122,
+      7
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung unter lauwarmem Leitungswasser.",
+      "Verbrennungen können sie kurz unter fließende, Wasser kühlen."
+    ],
+    0.6407214999198914
+  ],
+  [
+    [
+      123,
+      2
+    ],
+    [
+      "Kühlen Sie die Verbrennung nicht länger als fünf Minuten.",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.6448053121566772
+  ],
+  [
+    [
+      124,
+      66
+    ],
+    [
+      "Auf der Verbrennung bilden sich Blasen?",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.5564844608306885
+  ],
+  [
+    [
+      125,
+      66
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Sollten sich Blasen bilden, gehen Sie zum Arzt."
+    ],
+    0.7123608589172363
+  ],
+  [
+    [
+      126,
+      32
+    ],
+    [
+      "Sie haben große und starke Verbrennungen?",
+      "Sie sind oft großflächig und sehr schmerzhaft, weil viele Nervenenden freigelegt werden."
+    ],
+    0.5943569540977478
+  ],
+  [
+    [
+      127,
+      69
+    ],
+    [
+      "Dann rufen Sie den Rettungsdienst.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.7317508459091187
+  ],
+  [
+    [
+      129,
+      69
+    ],
+    [
+      "Starke Blutungen können sehr gefährlich sein.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.7250680923461914
+  ],
+  [
+    [
+      130,
+      69
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Starke Blutungen können lebensbedrohlich sein – rufen Sie sofort den Rettungsdienst (112)!"
+    ],
+    0.7717851996421814
+  ],
+  [
+    [
+      132,
+      70
+    ],
+    [
+      "112. Dann stoppen Sie die Blutung mit einem Druckverband.",
+      "Stillen Sie die Blutung – wenn möglich – mit einem Druckverband."
+    ],
+    0.7757282853126526
+  ],
+  [
+    [
+      133,
+      71
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.7049141526222229
+  ],
+  [
+    [
+      134,
+      71
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.7048656344413757
+  ],
+  [
+    [
+      135,
+      71
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Legen Sie eine sterile Wundauflage auf die Wunde, befestigen Sie sie mit Mullbinden, legen Sie dann ein verschlossenes Verbandpäckchen darüber und fixieren Sie dieses straff mit einer weiteren Binde."
+    ],
+    0.678521990776062
+  ],
+  [
+    [
+      136,
+      70
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Stillen Sie die Blutung – wenn möglich – mit einem Druckverband."
+    ],
+    0.7170445919036865
+  ],
+  [
+    [
+      137,
+      73
+    ],
+    [
+      "Hinweis: Der Verband soll auf die Wunde drücken.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.6861607432365417
+  ],
+  [
+    [
+      138,
+      13
+    ],
+    [
+      "Aber machen Sie den Verband nicht zu fest.",
+      "Achten Sie darauf, dass Sie den Splitter komplett herausziehen."
+    ],
+    0.5940858125686646
+  ],
+  [
+    [
+      139,
+      73
+    ],
+    [
+      "Sie können auch mit der Hand direkt auf den Verband drücken.",
+      "Auch kann direkt mit der Hand auf die Wunde/den Verband gedrückt werden."
+    ],
+    0.838652491569519
+  ],
+  [
+    [
+      140,
+      1
+    ],
+    [
+      "So können Sie die Blutung stoppen.",
+      "Harmlose, kleinere Verletzungen, die nicht zu stark bluten, können Sie selbst versorgen."
+    ],
+    0.6382825374603271
+  ],
+  [
+    [
+      141,
+      2
+    ],
+    [
+      "Sie wollen noch mehr über die Versorgung von Wunden lesen?",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.629245400428772
+  ],
+  [
+    [
+      142,
+      2
+    ],
+    [
+      "Mehr Informationen über die Versorgung von Wunden finden Sie hier .",
+      "Berühren Sie die Wunde dabei nicht."
+    ],
+    0.5897934436798096
+  ]
+]

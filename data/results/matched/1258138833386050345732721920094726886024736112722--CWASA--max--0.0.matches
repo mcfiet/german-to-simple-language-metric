@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      21
+    ],
+    [
+      "Eine Person ist verletzt?",
+      "Werden sie entfernt, kann die Wunde ungehindert bluten."
+    ],
+    0.3307574689388275
+  ],
+  [
+    [
+      1,
+      5
+    ],
+    [
+      "Und die Wunde blutet stark?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.5373305678367615
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann rufen Sie als erstes den Rettungsdienst.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.44927194714546204
+  ],
+  [
+    [
+      3,
+      6
+    ],
+    [
+      "Die Nummer ist:",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.24211475253105164
+  ],
+  [
+    [
+      4,
+      13
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.5611104965209961
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8069177269935608
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.49540451169013977
+  ],
+  [
+    [
+      7,
+      5
+    ],
+    [
+      "Die Wunde blutet stark?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.5639525055885315
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.49931973218917847
+  ],
+  [
+    [
+      9,
+      23
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.88344407081604
+  ],
+  [
+    [
+      10,
+      5
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.514002799987793
+  ],
+  [
+    [
+      11,
+      14
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.48234114050865173
+  ],
+  [
+    [
+      12,
+      13
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.5591757893562317
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5101754665374756
+  ],
+  [
+    [
+      14,
+      23
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5778773427009583
+  ],
+  [
+    [
+      15,
+      14
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Bei jeder schweren Blutung sollten Sie nach Möglichkeit einen Druckverband anlegen und den Rettungsdienst alarmieren."
+    ],
+    0.49761340022087097
+  ],
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.5183519124984741
+  ],
+  [
+    [
+      17,
+      26
+    ],
+    [
+      "Der Verband ist zu fest?",
+      "Direkter Kontakt zu Eis ist zu vermeiden, da dies zu Kälteschäden am Amputat führen kann."
+    ],
+    0.4585183262825012
+  ],
+  [
+    [
+      18,
+      10
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.514390230178833
+  ],
+  [
+    [
+      19,
+      9
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.5323565602302551
+  ],
+  [
+    [
+      20,
+      18
+    ],
+    [
+      "Achtung:",
+      "Aber Vorsicht: Nicht so kräftig binden, dass die Gliedmaße blau anläuft."
+    ],
+    0.2089821845293045
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Manchmal sind Fremdkörper in der Wunde.",
+      "Fremdkörper in der Wunde, wie beispielsweise Holzäste oder Messer sollten nicht herausgezogen werden!"
+    ],
+    0.6294381618499756
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "Das können zum Beispiel Glasscherben sein.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.43951499462127686
+  ],
+  [
+    [
+      23,
+      23
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6356024742126465
+  ],
+  [
+    [
+      24,
+      9
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.5378059148788452
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.49404600262641907
+  ],
+  [
+    [
+      26,
+      5
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.5212518572807312
+  ],
+  [
+    [
+      27,
+      22
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Abgeschnittene Finger und andere abgetrennte Gliedmaßen können oft wieder angenäht werden."
+    ],
+    0.40770423412323
+  ],
+  [
+    [
+      28,
+      22
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Abgeschnittene Finger und andere abgetrennte Gliedmaßen können oft wieder angenäht werden."
+    ],
+    0.4492233395576477
+  ],
+  [
+    [
+      29,
+      19
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Fremdkörper in der Wunde, wie beispielsweise Holzäste oder Messer sollten nicht herausgezogen werden!"
+    ],
+    0.46364057064056396
+  ],
+  [
+    [
+      30,
+      13
+    ],
+    [
+      "Eine Person hat eine Platzwunde am Kopf?",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.4736024737358093
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.49133414030075073
+  ],
+  [
+    [
+      32,
+      23
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5702352523803711
+  ],
+  [
+    [
+      33,
+      13
+    ],
+    [
+      "Befestigen Sie die Kompresse mit einem Dreiecktuch seitlich am Kopf.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.5668632388114929
+  ],
+  [
+    [
+      34,
+      5
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Auch Kopfplatzwunden können stark bluten."
+    ],
+    0.534695029258728
+  ],
+  [
+    [
+      35,
+      6
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.6049579977989197
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5687044262886047
+  ],
+  [
+    [
+      37,
+      22
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Abgeschnittene Finger und andere abgetrennte Gliedmaßen können oft wieder angenäht werden."
+    ],
+    0.4833219349384308
+  ],
+  [
+    [
+      38,
+      0
+    ],
+    [
+      "Gehen Sie mit einer Platzwunde immer zum Arzt.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.5310613512992859
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Oder gehen Sie in die Notaufnahme im Krankenhaus.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.47804710268974304
+  ],
+  [
+    [
+      40,
+      23
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.44081953167915344
+  ],
+  [
+    [
+      41,
+      23
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5608165264129639
+  ],
+  [
+    [
+      42,
+      10
+    ],
+    [
+      "Das Blut soll ablaufen.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.4314064681529999
+  ],
+  [
+    [
+      43,
+      1
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5147640109062195
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Kopf leicht nach vorne beugen."
+    ],
+    0.715901255607605
+  ],
+  [
+    [
+      45,
+      17
+    ],
+    [
+      "Das Blut kommt aus dem vorderen Nasen-Abschnitt?",
+      "Ein zweites, ungeöffnetes Verbandpäckchen aus dem Erste-Hilfe-Set als Druckpolster auflegen und mit der restlichen Binde fixieren."
+    ],
+    0.4510709047317505
+  ],
+  [
+    [
+      46,
+      11
+    ],
+    [
+      "Dann drücken Sie die Nasenflügel für ein paar Minuten fest mit Ihren Fingern zusammen.",
+      "Bei Blutungen aus dem vorderen Nasenabschnitt kann es helfen, die Nasenflügel für einige Minuten fest mit den Fingern zusammenzupressen und während der Zeit durch den Mund zu atmen."
+    ],
+    0.5728608965873718
+  ],
+  [
+    [
+      47,
+      0
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.5291458368301392
+  ],
+  [
+    [
+      48,
+      0
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.5327021479606628
+  ],
+  [
+    [
+      49,
+      8
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.729773223400116
+  ],
+  [
+    [
+      50,
+      8
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Den Nacken kühlen, zum Beispiel mit einem feuchten Waschlappen."
+    ],
+    0.6646774411201477
+  ],
+  [
+    [
+      51,
+      9
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.5293490290641785
+  ],
+  [
+    [
+      52,
+      9
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Vorsicht, Eisbeutel dürfen nicht direkt die Haut berühren, sonst könnte es zu Erfrierungen kommen!"
+    ],
+    0.5733246207237244
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5224348902702332
+  ],
+  [
+    [
+      54,
+      23
+    ],
+    [
+      "Dann gehen Sie zum Arzt oder in die Notaufnahme im Krankenhaus.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4584108293056488
+  ],
+  [
+    [
+      55,
+      23
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5186439752578735
+  ],
+  [
+    [
+      56,
+      1
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.48855331540107727
+  ],
+  [
+    [
+      57,
+      17
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Ein zweites, ungeöffnetes Verbandpäckchen aus dem Erste-Hilfe-Set als Druckpolster auflegen und mit der restlichen Binde fixieren."
+    ],
+    0.3463442027568817
+  ],
+  [
+    [
+      58,
+      19
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Fremdkörper in der Wunde, wie beispielsweise Holzäste oder Messer sollten nicht herausgezogen werden!"
+    ],
+    0.5091953873634338
+  ]
+]

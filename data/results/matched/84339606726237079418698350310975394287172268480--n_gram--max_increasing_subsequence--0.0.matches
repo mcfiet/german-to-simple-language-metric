@@ -1,0 +1,816 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Pille danach kann eine ungewollte Schwangerschaft verhindern.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.7139506340026855
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Eine Frau kann die Pille danach in verschiedenen Situationen nehmen.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.6740192770957947
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zu diesen Situationen gehören zum Beispiel: Die Frau hat die Verhütungspille vergessen.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.5737612247467041
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Frau nimmt die Verhütungspille.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.6329677104949951
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Und die Frau hatte einen Magen-Darm-Infekt.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.0653281956911087
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Dann wirkt die Verhütungspille nicht sicher.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.6752146482467651
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das Kondom ist beim Sex abgerutscht oder kaputt gegangen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.3601067364215851
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Sie können die Pille danach in der Apotheke kaufen.",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.7931314706802368
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Für die Pille danach brauchen Sie kein Rezept vom Arzt.",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.7851842045783997
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "Und Sie haben ein Rezept von einem Arzt?",
+      "UPA ist aber eine Weiterentwicklung von Mifepriston."
+    ],
+    0.16734088957309723
+  ],
+  [
+    [
+      11,
+      9
+    ],
+    [
+      "Dann bezahlt die Krankenkasse die Pille danach.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.07554356008768082
+  ],
+  [
+    [
+      12,
+      9
+    ],
+    [
+      "Es gibt zwei verschiedene Arten der Pille danach.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.007662851829081774
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Die Arten haben verschiedene Wirkstoffe.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.11416828632354736
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Die Pille danach enthält den Wirkstoff Levonorgestrel.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.015364444814622402
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "Oder die Pille danach enthält den Wirkstoff Ulipristal.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.03686949983239174
+  ],
+  [
+    [
+      16,
+      9
+    ],
+    [
+      "Die Pille danach verschieben den Eisprung.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.12983937561511993
+  ],
+  [
+    [
+      17,
+      9
+    ],
+    [
+      "Beim Eisprung verlässt die Eizelle den Eierstock.",
+      "Wenige Tage vor dem Eisprung und am Tag des Eisprungs selbst ist die Wahrscheinlichkeit für eine Schwangerschaft am höchsten."
+    ],
+    0.3801030218601227
+  ],
+  [
+    [
+      18,
+      13
+    ],
+    [
+      "Die Eizelle wandert in den Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.3400050401687622
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Im Eileiter kann die Eizelle befruchtet werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.5638735294342041
+  ],
+  [
+    [
+      21,
+      13
+    ],
+    [
+      "Oder eine Frau hat in wenigen Tagen ihren Eisprung?",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.024079758673906326
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Dann kann die Frau schwanger werden.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.3022927939891815
+  ],
+  [
+    [
+      23,
+      13
+    ],
+    [
+      "Die Pille danach verschiebt den Eisprung.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.08516596257686615
+  ],
+  [
+    [
+      24,
+      13
+    ],
+    [
+      "Dann ist keine Eizelle im Eileiter.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.20853230357170105
+  ],
+  [
+    [
+      25,
+      13
+    ],
+    [
+      "Und die Spermien können die Eizelle nicht befruchten.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.7701053023338318
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Nach fünf bis sieben Tagen sterben die Spermien.",
+      "In der \"gewonnenen\" Zeit sterben die Spermien vor Ort in aller Regel ab und können dann die Eizelle nicht mehr befruchten."
+    ],
+    0.45502305030822754
+  ],
+  [
+    [
+      27,
+      29
+    ],
+    [
+      "Die Frau kann nicht schwanger werden.",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.6418977975845337
+  ],
+  [
+    [
+      28,
+      29
+    ],
+    [
+      "Hinweis: Die Frau hatte in diesem Monatszyklus schon den Eisprung?",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.6170914173126221
+  ],
+  [
+    [
+      29,
+      29
+    ],
+    [
+      "Oder die Frau ist schon schwanger?",
+      "Das Medikament soll an die betroffene Frau persönlich ausgehändigt werden."
+    ],
+    0.7057957053184509
+  ],
+  [
+    [
+      30,
+      67
+    ],
+    [
+      "Dann wirkt die Pille danach nicht.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9341285228729248
+  ],
+  [
+    [
+      31,
+      67
+    ],
+    [
+      "Nehmen Sie die Pille danach nur im Notfall.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9411028027534485
+  ],
+  [
+    [
+      33,
+      67
+    ],
+    [
+      "Die Pille danach ist nicht zu 100 Prozent sicher.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9538258910179138
+  ],
+  [
+    [
+      34,
+      67
+    ],
+    [
+      "Manche Frauen werden trotzdem schwanger.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.0044366721995174885
+  ],
+  [
+    [
+      35,
+      67
+    ],
+    [
+      "Die Pille danach wirkt nur für kurze Zeit.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9453080892562866
+  ],
+  [
+    [
+      36,
+      67
+    ],
+    [
+      "Die Pille danach wirkt nicht den ganzen Monatszyklus.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9262774586677551
+  ],
+  [
+    [
+      38,
+      67
+    ],
+    [
+      "Und Sie glauben: Die Verhütung hat nicht gewirkt?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.040700461715459824
+  ],
+  [
+    [
+      39,
+      67
+    ],
+    [
+      "Dann sollten Sie die Pille danach schnell nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9371963143348694
+  ],
+  [
+    [
+      40,
+      67
+    ],
+    [
+      "In den ersten 12 Stunden nach dem Geschlechtsverkehr wirkt die Pille danach am besten.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9283138513565063
+  ],
+  [
+    [
+      41,
+      67
+    ],
+    [
+      "Sie können die Pille danach auch zwischen drei und fünf Tage nach dem Geschlechtsverkehr nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9293920993804932
+  ],
+  [
+    [
+      42,
+      67
+    ],
+    [
+      "Achtung: Sie stillen und möchten die Pille danach nehmen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9169303774833679
+  ],
+  [
+    [
+      44,
+      67
+    ],
+    [
+      "Bei dem Wirkstoff Levonogestrel dauert die Still-Pause acht Stunden.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.04825875163078308
+  ],
+  [
+    [
+      45,
+      67
+    ],
+    [
+      "Bei dem Wirkstoff Ulipristal dauert die Still-Pause eine Woche.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.04748732969164848
+  ],
+  [
+    [
+      46,
+      67
+    ],
+    [
+      "Sprechen Sie mit dem Apotheker.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.019148552790284157
+  ],
+  [
+    [
+      47,
+      67
+    ],
+    [
+      "Der Apotheker gibt Ihnen alle Informationen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.06986256688833237
+  ],
+  [
+    [
+      49,
+      67
+    ],
+    [
+      "Er ersetzt nicht den Beipackzettel des Medikaments.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.0034587013069540262
+  ],
+  [
+    [
+      50,
+      67
+    ],
+    [
+      "Und er ersetzt nicht das Gespräch mit Ihrem Arzt.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.0008011649479158223
+  ],
+  [
+    [
+      51,
+      67
+    ],
+    [
+      "Sie wollen die Pille danach nehmen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9404752254486084
+  ],
+  [
+    [
+      55,
+      67
+    ],
+    [
+      "Die Pille danach kann unterschiedliche Nebenwirkungen haben.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.9400935173034668
+  ],
+  [
+    [
+      57,
+      67
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen der Pille danach stehen auf dem Beipackzettel.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.8827133178710938
+  ],
+  [
+    [
+      58,
+      67
+    ],
+    [
+      "In diesem Text sind nicht alle Nebenwirkungen aufgelistet.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.0514945313334465
+  ],
+  [
+    [
+      59,
+      67
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen von der Pille danach gehören zum Beispiel:",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.8966054320335388
+  ],
+  [
+    [
+      60,
+      67
+    ],
+    [
+      "Erbrechen Sie haben in den ersten drei Stunden nach der Einnahme von der Pille danach erbrochen?",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.8920267820358276
+  ],
+  [
+    [
+      61,
+      67
+    ],
+    [
+      "Dann müssen sie noch eine Pille danach nehmen.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.928772509098053
+  ],
+  [
+    [
+      63,
+      69
+    ],
+    [
+      "Schwindel Übelkeit",
+      "Als behandelnder Arzt überblickt er am besten, ob ein Mittel zur Notfallverhütung und welches individuell für die Frau geeignet ist."
+    ],
+    0.012889682315289974
+  ],
+  [
+    [
+      64,
+      72
+    ],
+    [
+      "Spannen in der Brust",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.350944846868515
+  ],
+  [
+    [
+      65,
+      72
+    ],
+    [
+      "Schmerzen bei der Regelblutung Verspätung der nächsten Regelblutung Schmierblutungen",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.1690099835395813
+  ],
+  [
+    [
+      66,
+      72
+    ],
+    [
+      "Stärkere oder schwächere Blutungen",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.12532779574394226
+  ],
+  [
+    [
+      67,
+      72
+    ],
+    [
+      "Manche Frauen dürfen die Pille danach nicht nehmen.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.18378324806690216
+  ],
+  [
+    [
+      68,
+      72
+    ],
+    [
+      "Zu diesen Frauen gehören: Frauen mit einer Allergie auf einen Inhaltsstoff der Pille danach.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.3466642200946808
+  ],
+  [
+    [
+      69,
+      72
+    ],
+    [
+      "Frauen mit Leber-Erkrankungen oder Nierenerkrankungen.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.5030993819236755
+  ],
+  [
+    [
+      70,
+      72
+    ],
+    [
+      "Frauen mit starkem Übergewicht.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.5146458745002747
+  ],
+  [
+    [
+      71,
+      72
+    ],
+    [
+      "In manchen Situationen wirkt die Pille danach nicht, zum Beispiel:",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.03892526775598526
+  ],
+  [
+    [
+      72,
+      72
+    ],
+    [
+      "Die Frau ist schwanger.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.45012855529785156
+  ],
+  [
+    [
+      73,
+      72
+    ],
+    [
+      "Der Eisprung von der Frau ist in dem Monatszyklus schon vorbei.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.442435085773468
+  ],
+  [
+    [
+      74,
+      72
+    ],
+    [
+      "Die Frau hatte öfter in einem Monatszyklus ungeschützten Sex.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.3837001621723175
+  ],
+  [
+    [
+      75,
+      72
+    ],
+    [
+      "Die Spirale danach kann auch eine Schwangerschaft verhindern.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.03295029699802399
+  ],
+  [
+    [
+      76,
+      72
+    ],
+    [
+      "Die Spirale danach ist aus Kupfer.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.024455353617668152
+  ],
+  [
+    [
+      77,
+      72
+    ],
+    [
+      "Der Arzt muss die Spirale danach spätestens fünf Tage nach dem Geschlechtsverkehr einsetzten.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.06698618084192276
+  ],
+  [
+    [
+      78,
+      72
+    ],
+    [
+      "Durch die Spirale kann sich die befruchtete Eizelle nicht in die Gebärmutter einnisten.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.17569613456726074
+  ],
+  [
+    [
+      79,
+      72
+    ],
+    [
+      "Die Spirale kann drei bis fünf Jahre für die weitere Verhütung benutzt werden.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.11210937052965164
+  ],
+  [
+    [
+      80,
+      72
+    ],
+    [
+      "Manche Frauen können die Spirale nicht bekommen.",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.4556546211242676
+  ],
+  [
+    [
+      81,
+      72
+    ],
+    [
+      "Zu diesen Frauen gehören: Schwangere Frauen Frauen mit einer Unterleibsentzündung Frauen mit einer Fehlbildung der Gebärmutter Frauen mit einer zu kleinen Gebärmutter",
+      "Auch hier ist der Frauenarzt der richtige Ansprechparter, denn er kennt im Allgemeinen auch die gesundheitlichen Belange der Frau."
+    ],
+    0.6347817182540894
+  ],
+  [
+    [
+      82,
+      77
+    ],
+    [
+      "Sie wollen noch mehr über die Pille danach und die Spirale danach lesen?",
+      "Quellen: https://www.frauenaerzte-im-netz.de/familienplanung-verhuetung/die-pille-danach-nofallverhuetung/ (abgerufen am 13.02.2019) https://www.abda.de/newsroom/meldung/artikel/pille-danach/ (09. März 2018, abgerufen am 13.02.2019)"
+    ],
+    0.601998507976532
+  ],
+  [
+    [
+      83,
+      77
+    ],
+    [
+      "Mehr Informationen über die Pille danach und die Spirale danach finden Sie hier .",
+      "Quellen: https://www.frauenaerzte-im-netz.de/familienplanung-verhuetung/die-pille-danach-nofallverhuetung/ (abgerufen am 13.02.2019) https://www.abda.de/newsroom/meldung/artikel/pille-danach/ (09. März 2018, abgerufen am 13.02.2019)"
+    ],
+    0.599972665309906
+  ],
+  [
+    [
+      84,
+      77
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Quellen: https://www.frauenaerzte-im-netz.de/familienplanung-verhuetung/die-pille-danach-nofallverhuetung/ (abgerufen am 13.02.2019) https://www.abda.de/newsroom/meldung/artikel/pille-danach/ (09. März 2018, abgerufen am 13.02.2019)"
+    ],
+    0.04914439842104912
+  ]
+]

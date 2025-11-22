@@ -1,0 +1,948 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Pille danach kann eine ungewollte Schwangerschaft verhindern.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.2016548365354538
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Eine Frau kann die Pille danach in verschiedenen Situationen nehmen.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.15177616477012634
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zu diesen Situationen gehören zum Beispiel: Die Frau hat die Verhütungspille vergessen.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.10358226299285889
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Frau nimmt die Verhütungspille.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.06661787629127502
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Und die Frau hatte einen Magen-Darm-Infekt.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.10047192871570587
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Dann wirkt die Verhütungspille nicht sicher.",
+      "Die Pille mehr als einmal oder zu lange vergessen?"
+    ],
+    0.19801820814609528
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Das Kondom ist beim Sex abgerutscht oder kaputt gegangen.",
+      "Das Kondom abgerutscht?"
+    ],
+    0.19506725668907166
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Sie können die Pille danach in der Apotheke kaufen.",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.14891593158245087
+  ],
+  [
+    [
+      8,
+      4
+    ],
+    [
+      "Für die Pille danach brauchen Sie kein Rezept vom Arzt.",
+      "Einen Ausweg bieten zwei verschiedene Methoden: Pille danach, (auch) rezeptfrei in Apotheken erhältlich, oder Spirale danach."
+    ],
+    0.10832549631595612
+  ],
+  [
+    [
+      9,
+      10
+    ],
+    [
+      "Sie sind unter 20 Jahre alt?",
+      "Spermien sind im Allgemeinen fünf bis sieben Tage überlebens- und befruchtungsfähig."
+    ],
+    0.08861584216356277
+  ],
+  [
+    [
+      10,
+      11
+    ],
+    [
+      "Und Sie haben ein Rezept von einem Arzt?",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.0932609960436821
+  ],
+  [
+    [
+      11,
+      11
+    ],
+    [
+      "Dann bezahlt die Krankenkasse die Pille danach.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.1661519557237625
+  ],
+  [
+    [
+      12,
+      11
+    ],
+    [
+      "Es gibt zwei verschiedene Arten der Pille danach.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.18582643568515778
+  ],
+  [
+    [
+      13,
+      11
+    ],
+    [
+      "Die Arten haben verschiedene Wirkstoffe.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.23138850927352905
+  ],
+  [
+    [
+      14,
+      11
+    ],
+    [
+      "Die Pille danach enthält den Wirkstoff Levonorgestrel.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.17775188386440277
+  ],
+  [
+    [
+      15,
+      11
+    ],
+    [
+      "Oder die Pille danach enthält den Wirkstoff Ulipristal.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.15692411363124847
+  ],
+  [
+    [
+      16,
+      11
+    ],
+    [
+      "Die Pille danach verschieben den Eisprung.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.22271022200584412
+  ],
+  [
+    [
+      17,
+      11
+    ],
+    [
+      "Beim Eisprung verlässt die Eizelle den Eierstock.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.18402071297168732
+  ],
+  [
+    [
+      18,
+      11
+    ],
+    [
+      "Die Eizelle wandert in den Eileiter.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.16647984087467194
+  ],
+  [
+    [
+      19,
+      11
+    ],
+    [
+      "Im Eileiter kann die Eizelle befruchtet werden.",
+      "Beide Präparate hemmen beziehungsweise verschieben den Eisprung."
+    ],
+    0.1921634078025818
+  ],
+  [
+    [
+      20,
+      15
+    ],
+    [
+      "Eine Frau hat ihren Eisprung?",
+      "Auch eine schon bestehende Schwangerschaft wird von der Pille danach nicht beeinflusst."
+    ],
+    0.1182338148355484
+  ],
+  [
+    [
+      21,
+      15
+    ],
+    [
+      "Oder eine Frau hat in wenigen Tagen ihren Eisprung?",
+      "Auch eine schon bestehende Schwangerschaft wird von der Pille danach nicht beeinflusst."
+    ],
+    0.13884912431240082
+  ],
+  [
+    [
+      22,
+      15
+    ],
+    [
+      "Dann kann die Frau schwanger werden.",
+      "Auch eine schon bestehende Schwangerschaft wird von der Pille danach nicht beeinflusst."
+    ],
+    0.1598827987909317
+  ],
+  [
+    [
+      23,
+      20
+    ],
+    [
+      "Die Pille danach verschiebt den Eisprung.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.18983659148216248
+  ],
+  [
+    [
+      24,
+      20
+    ],
+    [
+      "Dann ist keine Eizelle im Eileiter.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.13716179132461548
+  ],
+  [
+    [
+      25,
+      20
+    ],
+    [
+      "Und die Spermien können die Eizelle nicht befruchten.",
+      "Denn der Wirkstoff kann den Eisprung (die Ovulation) noch etwas später als Levonorgestrel aufhalten."
+    ],
+    0.23945945501327515
+  ],
+  [
+    [
+      26,
+      23
+    ],
+    [
+      "Nach fünf bis sieben Tagen sterben die Spermien.",
+      "LNG sollte daher möglichst innerhalb von zwölf Stunden und nicht später als drei Tage nach der (mutmaßlichen) Verhütungspanne eingenommen werden."
+    ],
+    0.16852518916130066
+  ],
+  [
+    [
+      27,
+      36
+    ],
+    [
+      "Die Frau kann nicht schwanger werden.",
+      "Allerdings kann sich auch eine Schwangerschaft teilweise mit solchen Beschwerden äußern (siehe unten)."
+    ],
+    0.1738448292016983
+  ],
+  [
+    [
+      28,
+      43
+    ],
+    [
+      "Hinweis: Die Frau hatte in diesem Monatszyklus schon den Eisprung?",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.1421985626220703
+  ],
+  [
+    [
+      29,
+      43
+    ],
+    [
+      "Oder die Frau ist schon schwanger?",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.1417829394340515
+  ],
+  [
+    [
+      30,
+      43
+    ],
+    [
+      "Dann wirkt die Pille danach nicht.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.24782614409923553
+  ],
+  [
+    [
+      31,
+      43
+    ],
+    [
+      "Nehmen Sie die Pille danach nur im Notfall.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.19858284294605255
+  ],
+  [
+    [
+      32,
+      43
+    ],
+    [
+      "Achten Sie auf eine sichere Verhütung.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.15830186009407043
+  ],
+  [
+    [
+      33,
+      43
+    ],
+    [
+      "Die Pille danach ist nicht zu 100 Prozent sicher.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.143006831407547
+  ],
+  [
+    [
+      34,
+      43
+    ],
+    [
+      "Manche Frauen werden trotzdem schwanger.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.18835264444351196
+  ],
+  [
+    [
+      35,
+      43
+    ],
+    [
+      "Die Pille danach wirkt nur für kurze Zeit.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.16671323776245117
+  ],
+  [
+    [
+      36,
+      43
+    ],
+    [
+      "Die Pille danach wirkt nicht den ganzen Monatszyklus.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.19953075051307678
+  ],
+  [
+    [
+      37,
+      43
+    ],
+    [
+      "Sie hatten Geschlechtsverkehrt?",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.08353564143180847
+  ],
+  [
+    [
+      38,
+      43
+    ],
+    [
+      "Und Sie glauben: Die Verhütung hat nicht gewirkt?",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.11822588741779327
+  ],
+  [
+    [
+      39,
+      43
+    ],
+    [
+      "Dann sollten Sie die Pille danach schnell nehmen.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.24389474093914032
+  ],
+  [
+    [
+      40,
+      43
+    ],
+    [
+      "In den ersten 12 Stunden nach dem Geschlechtsverkehr wirkt die Pille danach am besten.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.17788663506507874
+  ],
+  [
+    [
+      41,
+      43
+    ],
+    [
+      "Sie können die Pille danach auch zwischen drei und fünf Tage nach dem Geschlechtsverkehr nehmen.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.21389196813106537
+  ],
+  [
+    [
+      42,
+      43
+    ],
+    [
+      "Achtung: Sie stillen und möchten die Pille danach nehmen?",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.21413742005825043
+  ],
+  [
+    [
+      43,
+      43
+    ],
+    [
+      "Dann müssen Sie eine Still-Pause machen.",
+      "Einnahme gleich nach dem Stillen , dann Pause."
+    ],
+    0.15740084648132324
+  ],
+  [
+    [
+      44,
+      49
+    ],
+    [
+      "Bei dem Wirkstoff Levonogestrel dauert die Still-Pause acht Stunden.",
+      "Bei Erbrechen innerhalb von drei Stunden nach der Einnahme sollte unbedingt eine weitere Tablette eingenommen werden."
+    ],
+    0.1321059912443161
+  ],
+  [
+    [
+      45,
+      49
+    ],
+    [
+      "Bei dem Wirkstoff Ulipristal dauert die Still-Pause eine Woche.",
+      "Bei Erbrechen innerhalb von drei Stunden nach der Einnahme sollte unbedingt eine weitere Tablette eingenommen werden."
+    ],
+    0.12402757257223129
+  ],
+  [
+    [
+      46,
+      56
+    ],
+    [
+      "Sprechen Sie mit dem Apotheker.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.13720770180225372
+  ],
+  [
+    [
+      47,
+      56
+    ],
+    [
+      "Der Apotheker gibt Ihnen alle Informationen.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.12705601751804352
+  ],
+  [
+    [
+      48,
+      56
+    ],
+    [
+      "Hinweis: Dieser Text gibt nur allgemeine Informationen.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.19786110520362854
+  ],
+  [
+    [
+      49,
+      56
+    ],
+    [
+      "Er ersetzt nicht den Beipackzettel des Medikaments.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.1881897747516632
+  ],
+  [
+    [
+      50,
+      56
+    ],
+    [
+      "Und er ersetzt nicht das Gespräch mit Ihrem Arzt.",
+      "Es lässt sich nicht ausschließen, aus den bisherigen wenigen Daten aber auch nicht ableiten."
+    ],
+    0.15843290090560913
+  ],
+  [
+    [
+      51,
+      59
+    ],
+    [
+      "Sie wollen die Pille danach nehmen?",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.19167934358119965
+  ],
+  [
+    [
+      52,
+      59
+    ],
+    [
+      "Dann lesen Sie den Beipackzettel.",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.15374384820461273
+  ],
+  [
+    [
+      53,
+      59
+    ],
+    [
+      "Dort finden Sie genaue Informationen.",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.2079082727432251
+  ],
+  [
+    [
+      54,
+      59
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt oder Apotheker.",
+      "Lassen Sie sich dazu in der Apotheke informieren."
+    ],
+    0.1976664811372757
+  ],
+  [
+    [
+      55,
+      60
+    ],
+    [
+      "Die Pille danach kann unterschiedliche Nebenwirkungen haben.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.15229253470897675
+  ],
+  [
+    [
+      56,
+      60
+    ],
+    [
+      "Das bedeutet: Das Medikament kann unerwünschte Folgen haben.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.10676335543394089
+  ],
+  [
+    [
+      57,
+      60
+    ],
+    [
+      "Hinweis: Alle Nebenwirkungen der Pille danach stehen auf dem Beipackzettel.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.1330386996269226
+  ],
+  [
+    [
+      58,
+      60
+    ],
+    [
+      "In diesem Text sind nicht alle Nebenwirkungen aufgelistet.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.10531634092330933
+  ],
+  [
+    [
+      59,
+      60
+    ],
+    [
+      "Zu den möglichen Nebenwirkungen von der Pille danach gehören zum Beispiel:",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.1398869901895523
+  ],
+  [
+    [
+      60,
+      60
+    ],
+    [
+      "Erbrechen Sie haben in den ersten drei Stunden nach der Einnahme von der Pille danach erbrochen?",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.18118275701999664
+  ],
+  [
+    [
+      61,
+      60
+    ],
+    [
+      "Dann müssen sie noch eine Pille danach nehmen.",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.16278904676437378
+  ],
+  [
+    [
+      62,
+      60
+    ],
+    [
+      "Kopfschmerzen",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.1695190668106079
+  ],
+  [
+    [
+      63,
+      60
+    ],
+    [
+      "Schwindel Übelkeit",
+      "Die Spirale danach verhindert die Einnistung einer befruchteten Eizelle bis spätestens zum fünften Tag nach der Empfängnis sehr wirksam."
+    ],
+    0.16891725361347198
+  ],
+  [
+    [
+      64,
+      61
+    ],
+    [
+      "Spannen in der Brust",
+      "Der Arzt legt die Spirale in die Gebärmutter ein."
+    ],
+    0.16712507605552673
+  ],
+  [
+    [
+      65,
+      63
+    ],
+    [
+      "Schmerzen bei der Regelblutung Verspätung der nächsten Regelblutung Schmierblutungen",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.20081238448619843
+  ],
+  [
+    [
+      66,
+      63
+    ],
+    [
+      "Stärkere oder schwächere Blutungen",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.22137489914894104
+  ],
+  [
+    [
+      67,
+      63
+    ],
+    [
+      "Manche Frauen dürfen die Pille danach nicht nehmen.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.15561871230602264
+  ],
+  [
+    [
+      68,
+      63
+    ],
+    [
+      "Zu diesen Frauen gehören: Frauen mit einer Allergie auf einen Inhaltsstoff der Pille danach.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.13153693079948425
+  ],
+  [
+    [
+      69,
+      63
+    ],
+    [
+      "Frauen mit Leber-Erkrankungen oder Nierenerkrankungen.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.15386377274990082
+  ],
+  [
+    [
+      70,
+      63
+    ],
+    [
+      "Frauen mit starkem Übergewicht.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.11814679950475693
+  ],
+  [
+    [
+      71,
+      63
+    ],
+    [
+      "In manchen Situationen wirkt die Pille danach nicht, zum Beispiel:",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.16462595760822296
+  ],
+  [
+    [
+      72,
+      63
+    ],
+    [
+      "Die Frau ist schwanger.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.06522224098443985
+  ],
+  [
+    [
+      73,
+      63
+    ],
+    [
+      "Der Eisprung von der Frau ist in dem Monatszyklus schon vorbei.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.07873417437076569
+  ],
+  [
+    [
+      74,
+      63
+    ],
+    [
+      "Die Frau hatte öfter in einem Monatszyklus ungeschützten Sex.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.07109134644269943
+  ],
+  [
+    [
+      75,
+      63
+    ],
+    [
+      "Die Spirale danach kann auch eine Schwangerschaft verhindern.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.21641911566257477
+  ],
+  [
+    [
+      76,
+      63
+    ],
+    [
+      "Die Spirale danach ist aus Kupfer.",
+      "Die Spirale dient dann auch zur weiteren Verhütung ."
+    ],
+    0.12990471720695496
+  ],
+  [
+    [
+      77,
+      67
+    ],
+    [
+      "Der Arzt muss die Spirale danach spätestens fünf Tage nach dem Geschlechtsverkehr einsetzten.",
+      "Die Pille danach ist dem Ausnahmefall vorbehalten."
+    ],
+    0.14607389271259308
+  ],
+  [
+    [
+      78,
+      70
+    ],
+    [
+      "Durch die Spirale kann sich die befruchtete Eizelle nicht in die Gebärmutter einnisten.",
+      "Auch das Einlegen einer Spirale und die vorausgehende Untersuchung ist Sache des Gynäkologen."
+    ],
+    0.20899133384227753
+  ],
+  [
+    [
+      79,
+      73
+    ],
+    [
+      "Die Spirale kann drei bis fünf Jahre für die weitere Verhütung benutzt werden.",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.14031864702701569
+  ],
+  [
+    [
+      80,
+      73
+    ],
+    [
+      "Manche Frauen können die Spirale nicht bekommen.",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.20712625980377197
+  ],
+  [
+    [
+      81,
+      73
+    ],
+    [
+      "Zu diesen Frauen gehören: Schwangere Frauen Frauen mit einer Unterleibsentzündung Frauen mit einer Fehlbildung der Gebärmutter Frauen mit einer zu kleinen Gebärmutter",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.14731888473033905
+  ],
+  [
+    [
+      82,
+      73
+    ],
+    [
+      "Sie wollen noch mehr über die Pille danach und die Spirale danach lesen?",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.1808338761329651
+  ],
+  [
+    [
+      83,
+      73
+    ],
+    [
+      "Mehr Informationen über die Pille danach und die Spirale danach finden Sie hier .",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.17782366275787354
+  ],
+  [
+    [
+      84,
+      73
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.0979110524058342
+  ],
+  [
+    [
+      85,
+      73
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "So kann er sie konstruktiv über weitere Aspekte der Sexualität wie Vorbeugung von Infektionen , geeignete Methoden zur sicheren Verhütung und selbstbestimmtes Sexualverhalten informieren."
+    ],
+    0.17217598855495453
+  ]
+]

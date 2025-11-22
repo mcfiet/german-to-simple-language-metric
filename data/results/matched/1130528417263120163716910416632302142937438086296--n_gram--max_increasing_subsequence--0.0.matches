@@ -1,0 +1,794 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Die Darmspiegelung ist eine Untersuchung des Darms.",
+      "Durch eine Darmspiegelung lassen sich verschiedene Krankheiten am Dickdarm (Colon) sowie am Ende des Dünndarms (terminales Ileum) erkennen."
+    ],
+    0.8902060985565186
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Der Darm ist im Bauchraum.",
+      "Durch eine Darmspiegelung lassen sich verschiedene Krankheiten am Dickdarm (Colon) sowie am Ende des Dünndarms (terminales Ileum) erkennen."
+    ],
+    0.7516912817955017
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Bei einer Darmspiegelung werden der Dickdarm und das Ende des Dünndarms untersucht.",
+      "Durch eine Darmspiegelung lassen sich verschiedene Krankheiten am Dickdarm (Colon) sowie am Ende des Dünndarms (terminales Ileum) erkennen."
+    ],
+    0.9584888815879822
+  ],
+  [
+    [
+      3,
+      2
+    ],
+    [
+      "So kann der Arzt nämlich verschiedene Erkrankungen des Darms erkennen wie zum Beispiel: Darmkrebs chronische oder akute Entzündungen Störungen der Durchblutung Ausstülpungen im Darm",
+      "Mit dieser Methode kann der Arzt verschiedene Darmerkrankungen erkennen, zum Beispiel chronische und akute Entzündungen, Durchblutungsstörungen und Ausstülpungen des Darms, sogenannte Divertikel."
+    ],
+    0.9456669688224792
+  ],
+  [
+    [
+      4,
+      9
+    ],
+    [
+      "Eine Person hat Beschwerden wie zum Beispiel: Blut im Stuhl häufiger Durchfall oder Verstopfung starke Bauchschmerzen starke Gewichtsabnahme starke Blähungen",
+      "Dies gilt ebenfalls, wenn wiederholt Durchfall , Verstopfung oder Bauchschmerzen auftreten."
+    ],
+    0.3658369481563568
+  ],
+  [
+    [
+      5,
+      10
+    ],
+    [
+      "Dann kann der Arzt eine Darmspiegelung machen.",
+      "Weitere Gründe für eine Darmspiegelung: Eisenmangel, Blutarmut , unklare Gewichtsabnahme sowie vermehrte Blähungen ."
+    ],
+    0.8890334963798523
+  ],
+  [
+    [
+      6,
+      10
+    ],
+    [
+      "Die Darmspiegelung soll dem Arzt zeigen:",
+      "Weitere Gründe für eine Darmspiegelung: Eisenmangel, Blutarmut , unklare Gewichtsabnahme sowie vermehrte Blähungen ."
+    ],
+    0.9108434915542603
+  ],
+  [
+    [
+      7,
+      14
+    ],
+    [
+      "Warum hat eine Person diese Beschwerden?",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.12283874303102493
+  ],
+  [
+    [
+      8,
+      14
+    ],
+    [
+      "Eine Darmspiegelung dient auch zur Vorsorge .",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.056173957884311676
+  ],
+  [
+    [
+      9,
+      14
+    ],
+    [
+      "Mit einer Darmspiegelung kann Darmkrebs nämlich früh erkannt und behandelt werden.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.021884625777602196
+  ],
+  [
+    [
+      10,
+      14
+    ],
+    [
+      "Die Darmspiegelung ist meistens eine ambulante Untersuchung.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.2665221691131592
+  ],
+  [
+    [
+      11,
+      14
+    ],
+    [
+      "Das bedeutet: Der Patient kommt nur für diese Untersuchung ins Krankenhaus oder in die Arztpraxis.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.5445666313171387
+  ],
+  [
+    [
+      12,
+      14
+    ],
+    [
+      "Nach der Untersuchung darf die Person wieder nach Hause.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.6058552861213684
+  ],
+  [
+    [
+      13,
+      14
+    ],
+    [
+      "Einige Tage vor der Untersuchung spricht der Arzt mit dem Patienten.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.44941481947898865
+  ],
+  [
+    [
+      14,
+      14
+    ],
+    [
+      "Der Arzt erklärt den Ablauf der Untersuchung.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.456341415643692
+  ],
+  [
+    [
+      16,
+      14
+    ],
+    [
+      "So bereiten Sie sich auf die Untersuchung vor.",
+      "Für die Vorsorgeuntersuchung sollte man sich zwei Tage Zeit nehmen."
+    ],
+    0.7826826572418213
+  ],
+  [
+    [
+      17,
+      18
+    ],
+    [
+      "Am Tag der Darmspiegelung geht der Patient ins Krankenhaus oder in die Arztpraxis.",
+      "Wer möchte, bekommt kurz vor der Darmspiegelung ein beruhigendes und schläfrig machendes Medikament gespritzt."
+    ],
+    0.883608877658844
+  ],
+  [
+    [
+      18,
+      19
+    ],
+    [
+      "Dort kann der Patient ein beruhigendes Medikament bekommen.",
+      "Damit empfinden fast alle Patienten die Untersuchung als schmerzfrei."
+    ],
+    0.2889614999294281
+  ],
+  [
+    [
+      19,
+      19
+    ],
+    [
+      "So merkt der Patient die Untersuchung nicht.",
+      "Damit empfinden fast alle Patienten die Untersuchung als schmerzfrei."
+    ],
+    0.7772536277770996
+  ],
+  [
+    [
+      20,
+      22
+    ],
+    [
+      "Die Darmspiegelung dauert etwa 30 Minuten.",
+      "Kohlendioxid hat im Vergleich zu Luft den Vorteil, dass es schneller wieder abgeatmet wird und aus dem Darm verschwindet."
+    ],
+    0.4119371473789215
+  ],
+  [
+    [
+      21,
+      22
+    ],
+    [
+      "Bei einer Darmspiegelung führt der Arzt einen Schlauch in den After des Patienten ein.",
+      "Kohlendioxid hat im Vergleich zu Luft den Vorteil, dass es schneller wieder abgeatmet wird und aus dem Darm verschwindet."
+    ],
+    0.3922590911388397
+  ],
+  [
+    [
+      22,
+      22
+    ],
+    [
+      "Der Schlauch heißt: Endoskop.",
+      "Kohlendioxid hat im Vergleich zu Luft den Vorteil, dass es schneller wieder abgeatmet wird und aus dem Darm verschwindet."
+    ],
+    0.10858248174190521
+  ],
+  [
+    [
+      24,
+      22
+    ],
+    [
+      "Luft oder Kohlendioxid weiten den Darm.",
+      "Kohlendioxid hat im Vergleich zu Luft den Vorteil, dass es schneller wieder abgeatmet wird und aus dem Darm verschwindet."
+    ],
+    0.8817601799964905
+  ],
+  [
+    [
+      25,
+      24
+    ],
+    [
+      "So kann der Arzt die Schleimhaut des Darms besser sehen.",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.907484769821167
+  ],
+  [
+    [
+      26,
+      24
+    ],
+    [
+      "Der Arzt schiebt das Endoskop vorsichtig bis zur Grenze von Dickdarm und Dünndarm.",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.6583901643753052
+  ],
+  [
+    [
+      27,
+      24
+    ],
+    [
+      "Dann zieht der Arzt den Schlauch vorsichtig heraus.",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.23719456791877747
+  ],
+  [
+    [
+      28,
+      24
+    ],
+    [
+      "Beim Herausziehen untersucht der Arzt die Darmschleimhaut:",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.8629917502403259
+  ],
+  [
+    [
+      29,
+      24
+    ],
+    [
+      "Der Arzt entdeckt bei dieser Untersuchung auffällige Stellen in der Darmschleimhaut?",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.802384614944458
+  ],
+  [
+    [
+      30,
+      24
+    ],
+    [
+      "Dann nimmt der Arzt eine Gewebeprobe.",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.2517816424369812
+  ],
+  [
+    [
+      31,
+      24
+    ],
+    [
+      "Der Arzt entdeckt bei dieser Untersuchung kleine Wucherungen an der Darmschleimhaut?",
+      "Durch das Gas kann der Arzt die Darmschleimhaut besser einsehen."
+    ],
+    0.7813544273376465
+  ],
+  [
+    [
+      32,
+      26
+    ],
+    [
+      "Dann kann der Arzt die Wucherungen entfernen.",
+      "Dann zieht der Arzt das Gerät langsam wieder heraus."
+    ],
+    0.6196580529212952
+  ],
+  [
+    [
+      33,
+      26
+    ],
+    [
+      "Vor der Darmspiegelung spricht ein Arzt mit Ihnen.",
+      "Dann zieht der Arzt das Gerät langsam wieder heraus."
+    ],
+    0.21315999329090118
+  ],
+  [
+    [
+      34,
+      26
+    ],
+    [
+      "Der Arzt sagt Ihnen:",
+      "Dann zieht der Arzt das Gerät langsam wieder heraus."
+    ],
+    0.6311606764793396
+  ],
+  [
+    [
+      35,
+      39
+    ],
+    [
+      "So müssen Sie sich vorbereiten.",
+      "Tipp: Unbedingt abholen lassen oder mit dem Taxi nach Hause fahren."
+    ],
+    0.06428615003824234
+  ],
+  [
+    [
+      36,
+      40
+    ],
+    [
+      "In den Tagen vor der Untersuchung müssen Sie einiges beachten.",
+      "Drei bis vier Tage vor der Untersuchung sollten Patienten keine Eisenpräparate mehr einnehmen."
+    ],
+    0.6726974844932556
+  ],
+  [
+    [
+      37,
+      41
+    ],
+    [
+      "Sie sollten keine körnerhaltigen Lebensmittel essen.",
+      "Außerdem gilt: Keine Lebensmittel essen, die Körner enthalten – also zum Beispiel Müsli, Weintrauben, Tomaten oder Kiwis."
+    ],
+    0.35491296648979187
+  ],
+  [
+    [
+      38,
+      41
+    ],
+    [
+      "Körnerhaltige Lebensmittel sind zum Beispiel:",
+      "Außerdem gilt: Keine Lebensmittel essen, die Körner enthalten – also zum Beispiel Müsli, Weintrauben, Tomaten oder Kiwis."
+    ],
+    0.29764795303344727
+  ],
+  [
+    [
+      39,
+      41
+    ],
+    [
+      "Müsli Vollkornbrot Tomaten",
+      "Außerdem gilt: Keine Lebensmittel essen, die Körner enthalten – also zum Beispiel Müsli, Weintrauben, Tomaten oder Kiwis."
+    ],
+    0.07653822004795074
+  ],
+  [
+    [
+      40,
+      41
+    ],
+    [
+      "Kiwis Weintrauben",
+      "Außerdem gilt: Keine Lebensmittel essen, die Körner enthalten – also zum Beispiel Müsli, Weintrauben, Tomaten oder Kiwis."
+    ],
+    0.13095048069953918
+  ],
+  [
+    [
+      41,
+      42
+    ],
+    [
+      "Am Tag vor der Darmspiegelung sollten Sie nur leicht verdauliche Nahrung essen.",
+      "Am Tag vor der Darmspiegelung empfehlen Experten leichtverdauliche Kost wie Joghurt oder klare Gemüsebrühe."
+    ],
+    0.9403238892555237
+  ],
+  [
+    [
+      42,
+      43
+    ],
+    [
+      "Früh : Essen Sie zum Beispiel ein belegtes Weißbrot und einen Joghurt zum Frühstück.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.19173234701156616
+  ],
+  [
+    [
+      44,
+      43
+    ],
+    [
+      "Zum Mittag können Sie eine klare Gemüsebrühe trinken.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.24276912212371826
+  ],
+  [
+    [
+      45,
+      43
+    ],
+    [
+      "Essen Sie keinen Spargel.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.11474435776472092
+  ],
+  [
+    [
+      47,
+      43
+    ],
+    [
+      "Nach dem Mittagessen sollten Sie nur noch klare Gemüsebrühe trinken.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.12152509391307831
+  ],
+  [
+    [
+      48,
+      43
+    ],
+    [
+      "Ab dem Nachmittag müssen Sie eine Abführlösung trinken.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.43546658754348755
+  ],
+  [
+    [
+      50,
+      43
+    ],
+    [
+      "So müssen Sie die Abführlösung trinken.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.4744333326816559
+  ],
+  [
+    [
+      51,
+      43
+    ],
+    [
+      "Und diese Menge müssen Sie trinken.",
+      "Zusätzlich müssen die Personen eine abführende Lösung trinken."
+    ],
+    0.28805625438690186
+  ],
+  [
+    [
+      52,
+      45
+    ],
+    [
+      "Abend : Essen Sie ab 18 Uhr nichts mehr.",
+      "Ab mittags dürfen die Patienten normalerweise nichts mehr essen."
+    ],
+    0.1423081010580063
+  ],
+  [
+    [
+      53,
+      45
+    ],
+    [
+      "Am Tag der Darmspiegelung dürfen Sie nichts essen.",
+      "Ab mittags dürfen die Patienten normalerweise nichts mehr essen."
+    ],
+    0.0293814055621624
+  ],
+  [
+    [
+      54,
+      46
+    ],
+    [
+      "Sie dürfen dann nur noch etwas trinken.",
+      "Trinken ist aber erlaubt und erwünscht."
+    ],
+    0.2975059747695923
+  ],
+  [
+    [
+      55,
+      60
+    ],
+    [
+      "Nach der Untersuchung dürfen Sie meistens wieder normal essen.",
+      "Ebenso unwahrscheinlich ist ein Loch (Perforation), das durch die Untersuchung oder durch das Entfernen von Polypen entsteht."
+    ],
+    0.4837110936641693
+  ],
+  [
+    [
+      56,
+      60
+    ],
+    [
+      "Beachten Sie die Hinweise Ihres Arztes.",
+      "Ebenso unwahrscheinlich ist ein Loch (Perforation), das durch die Untersuchung oder durch das Entfernen von Polypen entsteht."
+    ],
+    0.056572627276182175
+  ],
+  [
+    [
+      57,
+      61
+    ],
+    [
+      "Sie haben ein Beruhigungsmittel bekommen?",
+      "In seltenen Fällen vertragen Patienten das Beruhigungsmittel nicht und bekommen Kreislaufprobleme."
+    ],
+    0.3073742389678955
+  ],
+  [
+    [
+      58,
+      61
+    ],
+    [
+      "Dann muss das Mittel erst aufhören zu wirken.",
+      "In seltenen Fällen vertragen Patienten das Beruhigungsmittel nicht und bekommen Kreislaufprobleme."
+    ],
+    0.12215200811624527
+  ],
+  [
+    [
+      59,
+      66
+    ],
+    [
+      "Mit einer Darmspiegelung kann man Darm-Erkrankungen genau erkennen.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.9573554992675781
+  ],
+  [
+    [
+      60,
+      66
+    ],
+    [
+      "Der Arzt kann die Darmschleimhaut genau untersuchen.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.5508214235305786
+  ],
+  [
+    [
+      62,
+      66
+    ],
+    [
+      "So kann zum Beispiel Darmkrebs früh erkannt werden.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.5107475519180298
+  ],
+  [
+    [
+      63,
+      66
+    ],
+    [
+      "Der Arzt kann auch Wucherungen direkt entfernen.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.003547581611201167
+  ],
+  [
+    [
+      64,
+      66
+    ],
+    [
+      "Aus diesen Wucherungen kann vielleicht Krebs entstehen.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.0007240376435220242
+  ],
+  [
+    [
+      66,
+      66
+    ],
+    [
+      "Deshalb sinkt das Risiko für eine Darmkrebserkrankung.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.5515634417533875
+  ],
+  [
+    [
+      67,
+      66
+    ],
+    [
+      "Eine Darmspiegelung ist eine ziemlich sichere Untersuchung.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.920733630657196
+  ],
+  [
+    [
+      68,
+      66
+    ],
+    [
+      "Bei einer Darmspiegelung gibt es nur sehr selten Blutungen.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.9666275382041931
+  ],
+  [
+    [
+      69,
+      66
+    ],
+    [
+      "Manchmal vertragen Patienten das Beruhigungsmittel nicht.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.009404277428984642
+  ],
+  [
+    [
+      70,
+      66
+    ],
+    [
+      "Dann haben die Patienten vielleicht Kreislaufprobleme.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.010224038735032082
+  ],
+  [
+    [
+      71,
+      66
+    ],
+    [
+      "Deshalb überwacht der Arzt den Patienten sehr genau.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.007232805248349905
+  ],
+  [
+    [
+      72,
+      66
+    ],
+    [
+      "Nach der Darmspiegelung hat der Patient vielleicht Blähungen.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.8869287967681885
+  ],
+  [
+    [
+      73,
+      66
+    ],
+    [
+      "Aber die Blähungen hören meistens nach einigen Stunden auf.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.024150876328349113
+  ],
+  [
+    [
+      75,
+      66
+    ],
+    [
+      "Das sind mögliche Risiken der Untersuchung.",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.00023139442782849073
+  ],
+  [
+    [
+      76,
+      66
+    ],
+    [
+      "Sie wollen noch mehr über Darmspiegelung lesen?",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.9619888663291931
+  ],
+  [
+    [
+      77,
+      66
+    ],
+    [
+      "Mehr Informationen über die Darmspiegelung finden Sie hier .",
+      "Manche Ärzte bieten auch eine sogenannte \"virtuelle Darmspiegelung\" an."
+    ],
+    0.9556081891059875
+  ],
+  [
+    [
+      78,
+      72
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "War alles in Ordnung und hat der Patient keine Beschwerden, folgt die nächste Untersuchung nach zehn Jahren."
+    ],
+    0.3262045979499817
+  ],
+  [
+    [
+      79,
+      73
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Haben Personen ein erhöhtes Risiko für Darmkrebs, übernehmen die Kassen die Kosten auch in einem früheren Lebensalter."
+    ],
+    0.12624183297157288
+  ]
+]

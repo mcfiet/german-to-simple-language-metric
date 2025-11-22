@@ -1,0 +1,376 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Wenn Sie in KÃ¶ln zu einer anderen KÃ¶lner Adresse umziehen , mÃ¼ssen Sie sich bei uns ummelden .",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.7233670353889465
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Sie sich ummelden.",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.8397637605667114
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Sie mÃ¼ssen zu einer dieser Stellen kommen.",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.6708950996398926
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Sie brauchen dazu: Ihren Personal-Ausweis oder Ihren Reise-Pass oder den Pass von Ihrem Heimat-Land",
+      "Benötigt werden Personalausweis Reisepass falls Sie keinen Personalausweis besitzen."
+    ],
+    0.8062528371810913
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Und wenn nÃ¶tig: Eine Erlaubnis fÃ¼r Ihren Aufenthalt in Deutschland.",
+      "Nationalpass mit Aufenthaltsgenehmigung oder Visum"
+    ],
+    0.5722986459732056
+  ],
+  [
+    [
+      11,
+      3
+    ],
+    [
+      "Oder Ihr Visum.",
+      "Nationalpass mit Aufenthaltsgenehmigung oder Visum"
+    ],
+    0.7198771238327026
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Ein Visum ist ein Papier in dem steht:",
+      "Nationalpass mit Aufenthaltsgenehmigung oder Visum"
+    ],
+    0.7157921195030212
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Das Anmelde-Formular Sie mÃ¼ssen das Formular nicht alleine ausfÃ¼llen.",
+      "Wenn Sie persönlich vorsprechen und die Ummeldung nicht durch eine bevollmächtigte Person erfolgt, benötigen Sie kein Anmeldeformular."
+    ],
+    0.6946548223495483
+  ],
+  [
+    [
+      17,
+      12
+    ],
+    [
+      "Eine BestÃ¤tigung vom Vermieter oder der Vermieterin.",
+      "Bescheinigung der Wohnungsgeberin oder des Wohnungsgebers über den Einzug"
+    ],
+    0.8612415790557861
+  ],
+  [
+    [
+      18,
+      12
+    ],
+    [
+      "Der Vermieter oder die Vermieterin muss die BestÃ¤tigung ausfÃ¼llen:",
+      "Bescheinigung der Wohnungsgeberin oder des Wohnungsgebers über den Einzug"
+    ],
+    0.7925815582275391
+  ],
+  [
+    [
+      19,
+      15
+    ],
+    [
+      "Sie mÃ¼ssen die BestÃ¤tigung 2 Wochen nach Ihrem Umzug ausfÃ¼llen.",
+      "Ihre Vermieterin oder Ihr Vermieter ist verpflichtet, ihnen die Bescheinigung innerhalb von zwei Wochen nach Bezug der Wohnung auszustellen."
+    ],
+    0.6842094659805298
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Â Wenn Sie keine Wohnung mieten , sondern in Ihre eigene Wohnung ziehen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.7348557114601135
+  ],
+  [
+    [
+      22,
+      19
+    ],
+    [
+      "Oder in ein eigenes Haus ziehen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.7196699976921082
+  ],
+  [
+    [
+      29,
+      19
+    ],
+    [
+      "Oder wenn Sie ein Haus kaufen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.7326874136924744
+  ],
+  [
+    [
+      30,
+      19
+    ],
+    [
+      "Oder wenn Sie ein Grund-StÃ¼ck kaufen.",
+      "Grundbuchauszug, Notarvertrag oder aktueller Grundsteuerbescheid anstelle der Wohnungsgeberbescheinigung, wenn Sie in Ihr Eigenheim einziehen."
+    ],
+    0.5999138355255127
+  ],
+  [
+    [
+      31,
+      20
+    ],
+    [
+      "Sie mÃ¼ssenÂ uns dannÂ 1Â Kopie vom Grund-Buch zeigen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7093133330345154
+  ],
+  [
+    [
+      32,
+      20
+    ],
+    [
+      "Oder Ihren Vertrag mit dem Notar.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5836823582649231
+  ],
+  [
+    [
+      38,
+      20
+    ],
+    [
+      "Oder schreibt fÃ¼r Sie eine Urkunde.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7470157146453857
+  ],
+  [
+    [
+      40,
+      20
+    ],
+    [
+      "Dann machen Sie einen Notar-Vertrag.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6221708059310913
+  ],
+  [
+    [
+      42,
+      21
+    ],
+    [
+      "Wenn Sie ein Auto oder Motor-Rad haben, mÃ¼ssen Sie uns auch zeigen: seine Zulassungs-Bescheinigung .",
+      "Zulassungsbescheinigung Teil I oder Fahrzeugschein falls Sie ein Auto oder Motorrad besitzen."
+    ],
+    0.8582383394241333
+  ],
+  [
+    [
+      43,
+      21
+    ],
+    [
+      "Darauf stehen die Angaben zur Zulassung von dem Auto oder Motor-Rad.",
+      "Zulassungsbescheinigung Teil I oder Fahrzeugschein falls Sie ein Auto oder Motorrad besitzen."
+    ],
+    0.8674442768096924
+  ],
+  [
+    [
+      44,
+      21
+    ],
+    [
+      "Oder den Fahrzeug-Schein .",
+      "Zulassungsbescheinigung Teil I oder Fahrzeugschein falls Sie ein Auto oder Motorrad besitzen."
+    ],
+    0.8294274806976318
+  ],
+  [
+    [
+      45,
+      21
+    ],
+    [
+      "Der Fahrzeug-Schein ist ein Papier.",
+      "Zulassungsbescheinigung Teil I oder Fahrzeugschein falls Sie ein Auto oder Motorrad besitzen."
+    ],
+    0.7020763754844666
+  ],
+  [
+    [
+      46,
+      21
+    ],
+    [
+      "Darauf stehen wichtige Informationen zum Auto.",
+      "Zulassungsbescheinigung Teil I oder Fahrzeugschein falls Sie ein Auto oder Motorrad besitzen."
+    ],
+    0.5849450826644897
+  ],
+  [
+    [
+      47,
+      21
+    ],
+    [
+      "Oder zum Motor-Rad.",
+      "Zulassungsbescheinigung Teil I oder Fahrzeugschein falls Sie ein Auto oder Motorrad besitzen."
+    ],
+    0.6455486416816711
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "Wie melde ich meinen Wohnsitz an?",
+      "Wohnungsgeberbescheinigung"
+    ],
+    0.7951382398605347
+  ],
+  [
+    [
+      56,
+      26
+    ],
+    [
+      "Beide Formulare mÃ¼ssen Sie unterschreiben.",
+      "In der Bescheinigung muss Ihre Wohnungsgeberin oder Ihr Wohnungsgeber Ihnen den tatsächlich vollzogenen Einzug bestätigen."
+    ],
+    0.5737301707267761
+  ],
+  [
+    [
+      61,
+      26
+    ],
+    [
+      "Sie mÃ¼ssen diesem Menschen schriftlich erlauben, fÃ¼r Sie zum Anmelden von Ihrem Wohnsitz zu uns zu kommen.",
+      "In der Bescheinigung muss Ihre Wohnungsgeberin oder Ihr Wohnungsgeber Ihnen den tatsächlich vollzogenen Einzug bestätigen."
+    ],
+    0.7267232537269592
+  ],
+  [
+    [
+      78,
+      37
+    ],
+    [
+      "Sie kÃ¶nnen dem Weitergeben von Ihren Daten an andere Stellen widersprechen.",
+      "Widerspruchsrecht gegen Datenweitergabe"
+    ],
+    0.7056374549865723
+  ],
+  [
+    [
+      79,
+      38
+    ],
+    [
+      "Dann geben wir niemals Ihre Daten an diese Stellen weiter.",
+      "Sie haben ein kostenloses Widerspruchsrecht gegen die Weiterleitung Ihrer Meldedaten."
+    ],
+    0.5929286479949951
+  ],
+  [
+    [
+      80,
+      39
+    ],
+    [
+      "Widersprechen kÃ¶nnen",
+      "Vorsprache"
+    ],
+    0.6442667245864868
+  ],
+  [
+    [
+      88,
+      49
+    ],
+    [
+      "Das Ummelden selbst ist kostenlos .",
+      "Die Ummeldung Ihres Wohnsitzes und die Änderung der Anschrift im Personalausweis sind gebührenfrei."
+    ],
+    0.7290140390396118
+  ],
+  [
+    [
+      89,
+      49
+    ],
+    [
+      "Kostenlos ist auch das Ãndern der Adresse im Personal-Ausweis.",
+      "Die Ummeldung Ihres Wohnsitzes und die Änderung der Anschrift im Personalausweis sind gebührenfrei."
+    ],
+    0.814507246017456
+  ],
+  [
+    [
+      92,
+      50
+    ],
+    [
+      "10 Euro 70 Cent kostet das Ãndern der Adresse auf der Zulassungs-Bescheinigung.",
+      "Für die Adressenänderung auf dem Kraftfahrzeugschein oder der Zulassungsbescheinigung Teil I fallen Gebühren in Höhe von 10,80 Euro an."
+    ],
+    0.8410410284996033
+  ]
+]

@@ -1,0 +1,651 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Person ist verletzt?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.21594984829425812
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Und die Wunde blutet stark?",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.3576081395149231
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Dann rufen Sie als erstes den Rettungsdienst.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.4126852750778198
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Die Nummer ist:",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.08382042497396469
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.42988815903663635
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Berühren Sie Wunden möglichst nie mit den Händen."
+    ],
+    0.8568260669708252
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.6339868307113647
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Die Wunde blutet stark?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2759597897529602
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5675202012062073
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.7155689001083374
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Blutet die Wunde stärker, Patient auf jeden Fall hinlegen und Wunde im Liegen versorgen, weil ein Kreislaufkollaps drohen könnte."
+    ],
+    0.6897468566894531
+  ],
+  [
+    [
+      11,
+      6
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.49619391560554504
+  ],
+  [
+    [
+      12,
+      6
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.462889164686203
+  ],
+  [
+    [
+      13,
+      6
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.5110774040222168
+  ],
+  [
+    [
+      14,
+      6
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.4811719059944153
+  ],
+  [
+    [
+      15,
+      6
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.5676544904708862
+  ],
+  [
+    [
+      16,
+      6
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.5366831421852112
+  ],
+  [
+    [
+      17,
+      6
+    ],
+    [
+      "Der Verband ist zu fest?",
+      "Wenn dies der Fall ist sollte zusätzlich mit der Hand von außen auf den Verband gedrückt werden."
+    ],
+    0.6113318204879761
+  ],
+  [
+    [
+      18,
+      10
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.6865756511688232
+  ],
+  [
+    [
+      19,
+      10
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.6420952677726746
+  ],
+  [
+    [
+      20,
+      10
+    ],
+    [
+      "Achtung:",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.23646683990955353
+  ],
+  [
+    [
+      21,
+      10
+    ],
+    [
+      "Manchmal sind Fremdkörper in der Wunde.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.6299611926078796
+  ],
+  [
+    [
+      22,
+      10
+    ],
+    [
+      "Das können zum Beispiel Glasscherben sein.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.43469953536987305
+  ],
+  [
+    [
+      23,
+      10
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.5547152757644653
+  ],
+  [
+    [
+      24,
+      10
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.742239773273468
+  ],
+  [
+    [
+      25,
+      10
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.3922578990459442
+  ],
+  [
+    [
+      26,
+      10
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.4706084430217743
+  ],
+  [
+    [
+      27,
+      10
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.4340559244155884
+  ],
+  [
+    [
+      28,
+      10
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.5273979306221008
+  ],
+  [
+    [
+      29,
+      10
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Weder Watte noch Mull in die Nase stecken – das Blut soll ablaufen und nicht verschluckt werden."
+    ],
+    0.44708457589149475
+  ],
+  [
+    [
+      30,
+      13
+    ],
+    [
+      "Eine Person hat eine Platzwunde am Kopf?",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.5496953129768372
+  ],
+  [
+    [
+      31,
+      13
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.3776934742927551
+  ],
+  [
+    [
+      32,
+      13
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Am Bein – Tuch auf die Wunde pressen Am Arm – Tuch auf die Wunde pressen Am Rumpf oder Kopf – Tücher auf oder in die Wunde pressen"
+    ],
+    0.6650811433792114
+  ],
+  [
+    [
+      33,
+      23
+    ],
+    [
+      "Befestigen Sie die Kompresse mit einem Dreiecktuch seitlich am Kopf.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6085712909698486
+  ],
+  [
+    [
+      34,
+      23
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4630584120750427
+  ],
+  [
+    [
+      35,
+      23
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5124073624610901
+  ],
+  [
+    [
+      36,
+      23
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6742563843727112
+  ],
+  [
+    [
+      37,
+      23
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4440608620643616
+  ],
+  [
+    [
+      38,
+      23
+    ],
+    [
+      "Gehen Sie mit einer Platzwunde immer zum Arzt.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6101791858673096
+  ],
+  [
+    [
+      39,
+      23
+    ],
+    [
+      "Oder gehen Sie in die Notaufnahme im Krankenhaus.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5501895546913147
+  ],
+  [
+    [
+      40,
+      23
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6377395987510681
+  ],
+  [
+    [
+      41,
+      23
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6341308355331421
+  ],
+  [
+    [
+      42,
+      23
+    ],
+    [
+      "Das Blut soll ablaufen.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.24718652665615082
+  ],
+  [
+    [
+      43,
+      23
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5791288614273071
+  ],
+  [
+    [
+      44,
+      23
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4588543772697449
+  ],
+  [
+    [
+      45,
+      23
+    ],
+    [
+      "Das Blut kommt aus dem vorderen Nasen-Abschnitt?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.21269851922988892
+  ],
+  [
+    [
+      46,
+      23
+    ],
+    [
+      "Dann drücken Sie die Nasenflügel für ein paar Minuten fest mit Ihren Fingern zusammen.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.612918496131897
+  ],
+  [
+    [
+      47,
+      23
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4629324674606323
+  ],
+  [
+    [
+      48,
+      23
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5493342876434326
+  ],
+  [
+    [
+      49,
+      23
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.43518170714378357
+  ],
+  [
+    [
+      50,
+      23
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4172442555427551
+  ],
+  [
+    [
+      51,
+      23
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6527416110038757
+  ],
+  [
+    [
+      52,
+      23
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4546545743942261
+  ],
+  [
+    [
+      53,
+      23
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5318751335144043
+  ],
+  [
+    [
+      54,
+      23
+    ],
+    [
+      "Dann gehen Sie zum Arzt oder in die Notaufnahme im Krankenhaus.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.6033394932746887
+  ],
+  [
+    [
+      55,
+      23
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.5100417137145996
+  ],
+  [
+    [
+      56,
+      23
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Versorgen Sie aber zuerst die Wunde!"
+    ],
+    0.4485137462615967
+  ],
+  [
+    [
+      57,
+      24
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Den abgetrennten Körperteil auf keinen Fall säubern oder abwaschen, sondern keimfrei umwickeln und in eine dichte Tüte legen."
+    ],
+    0.31405410170555115
+  ],
+  [
+    [
+      58,
+      25
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Zum Kühlen diese Tüte in eine zweite geben, die mit Eis und Wasser gefüllt ist."
+    ],
+    0.465037077665329
+  ]
+]

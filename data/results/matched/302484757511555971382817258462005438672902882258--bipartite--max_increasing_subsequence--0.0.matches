@@ -1,0 +1,1234 @@
+[
+  [
+    [
+      0,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    1.0
+  ],
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Ein Kälteschaden entsteht durch eine zu lange Zeit in der Kälte.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    0.49594977498054504
+  ],
+  [
+    [
+      2,
+      3
+    ],
+    [
+      "Eine Erfrierung ist ein örtlicher Kälteschaden.",
+      "Eine Erfrierung (Congelatio) ist ein örtlicher Kälteschaden, der eng begrenzt ist."
+    ],
+    1.0
+  ],
+  [
+    [
+      3,
+      11
+    ],
+    [
+      "Das bedeutet: Die Kälte hat das Gewebe an bestimmten Stellen des Körpers beschädigt.",
+      "Unterkühlung"
+    ],
+    0.5712229013442993
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Ein anderer Kälteschaden ist eine Unterkühlung.",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      5,
+      11
+    ],
+    [
+      "Bei einer Unterkühlung ist der ganze Körper betroffen:",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      6,
+      11
+    ],
+    [
+      "Die betroffene Person hat eine zu niedrige Körpertemperatur.",
+      "Unterkühlung"
+    ],
+    0.6371846199035645
+  ],
+  [
+    [
+      7,
+      11
+    ],
+    [
+      "Mehr Informationen zum Thema Unterkühlung finden Sie hier .",
+      "Unterkühlung"
+    ],
+    1.0
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "Eine Person ist sehr lange in der Kälte?",
+      "Unterkühlung"
+    ],
+    0.5712229013442993
+  ],
+  [
+    [
+      9,
+      14
+    ],
+    [
+      "Dann können sich Eiskristalle im Gewebe bilden.",
+      "Bei 15 Grad Celsius Gewebetemperatur sind die Gefäße so eng wie möglich gestellt, bei Temperaturen darunter kommt es im Wechsel auch immer wieder zu einer Erweiterung der Gefäße."
+    ],
+    0.557011604309082
+  ],
+  [
+    [
+      10,
+      17
+    ],
+    [
+      "Das Gewebe ist an diesen Stellen stark beschädigt.",
+      "Erfrierungen"
+    ],
+    0.5802144408226013
+  ],
+  [
+    [
+      11,
+      17
+    ],
+    [
+      "Deshalb wird es vielleicht nicht mehr gut durchblutet.",
+      "Erfrierungen"
+    ],
+    0.32949933409690857
+  ],
+  [
+    [
+      12,
+      17
+    ],
+    [
+      "Manchmal stirbt das Gewebe auch ab.",
+      "Erfrierungen"
+    ],
+    0.3836102783679962
+  ],
+  [
+    [
+      13,
+      17
+    ],
+    [
+      "Erfrierungen entstehen vor allem an diesen Körperstellen:",
+      "Erfrierungen"
+    ],
+    1.0
+  ],
+  [
+    [
+      14,
+      20
+    ],
+    [
+      "Finger Zehen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      15,
+      20
+    ],
+    [
+      "Nase",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      16,
+      20
+    ],
+    [
+      "Wangen",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Ohren",
+      "Der Witterung ausgesetzte Gebiete mit wenig Weichteilen wie Finger, Zehen, Nase, Wangen oder Ohren sind besonders gefährdet."
+    ],
+    1.0
+  ],
+  [
+    [
+      18,
+      51
+    ],
+    [
+      "Ärzte unterscheiden verschiedene Stufen von Erfrierungen.",
+      "Ärzte"
+    ],
+    1.0
+  ],
+  [
+    [
+      19,
+      63
+    ],
+    [
+      "Diese Stufen heißen: Grade.",
+      "Bei einer Körpertemperatur von unter 24 Grad Celsius kommt es zum Atem- und Kreislaufstillstand, eine Wiederbelebung ist in Einzelfällen möglich."
+    ],
+    0.44621559977531433
+  ],
+  [
+    [
+      20,
+      71
+    ],
+    [
+      "Jede Erfrierung ist zuerst eine Erfrierung ersten Grades.",
+      "Erfrierung"
+    ],
+    1.0
+  ],
+  [
+    [
+      21,
+      72
+    ],
+    [
+      "Stufe 1:",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.6831151843070984
+  ],
+  [
+    [
+      22,
+      72
+    ],
+    [
+      "Erfrierung ersten Grades",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.3836544156074524
+  ],
+  [
+    [
+      23,
+      72
+    ],
+    [
+      "Die betroffene Hautstelle ist blass.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    1.0
+  ],
+  [
+    [
+      24,
+      72
+    ],
+    [
+      "Manchmal ist sie auch grau-weiß oder gelb-weiß.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.9148886203765869
+  ],
+  [
+    [
+      25,
+      72
+    ],
+    [
+      "Die Hautstelle fühlt sich hart und kalt an.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.5589895844459534
+  ],
+  [
+    [
+      26,
+      72
+    ],
+    [
+      "Und die betroffene Hautstelle ist taub.",
+      "Grad 1: Die betroffene Hautstelle sieht blass aus, teilweise ist sie auch grau-weiß oder gelb-weiß verfärbt."
+    ],
+    0.7382030487060547
+  ],
+  [
+    [
+      27,
+      74
+    ],
+    [
+      "Die Hautstelle erwärmt sich wieder?",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.8489347100257874
+  ],
+  [
+    [
+      28,
+      74
+    ],
+    [
+      "Dann rötet sie sich und schmerzt stark.",
+      "Erwärmt sich die Haut wieder, rötet sie sich und schmerzt heftig."
+    ],
+    0.8484416007995605
+  ],
+  [
+    [
+      29,
+      76
+    ],
+    [
+      "Stufe 2:",
+      "Grad 2: Es bilden sich"
+    ],
+    0.6831151843070984
+  ],
+  [
+    [
+      30,
+      78
+    ],
+    [
+      "Erfrierung zweiten Grades",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.38760673999786377
+  ],
+  [
+    [
+      31,
+      78
+    ],
+    [
+      "An der betroffenen Hautstellen bilden sich Blasen.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.4667017161846161
+  ],
+  [
+    [
+      32,
+      78
+    ],
+    [
+      "Einige dieser Blasen sind mit Blut gefüllt.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.3018507957458496
+  ],
+  [
+    [
+      33,
+      78
+    ],
+    [
+      "Die Schmerzen können stärker sein.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.7968435287475586
+  ],
+  [
+    [
+      34,
+      78
+    ],
+    [
+      "Die Schmerzen können aber auch geringer sein.",
+      "Die Reiz- und Schmerzempfindlichkeit (Sensibilität) kann im betroffenen Gebiet erhöht oder vermindert sein."
+    ],
+    0.7134353518486023
+  ],
+  [
+    [
+      35,
+      80
+    ],
+    [
+      "Stufe 3:",
+      "Grad 3 und 4:"
+    ],
+    0.6831151843070984
+  ],
+  [
+    [
+      36,
+      81
+    ],
+    [
+      "Erfrierung dritten und vierten Grades",
+      "Schwere Erfrierungen äußern sich – allerdings erst spät – durch eine blauschwarze Verfärbung der Haut."
+    ],
+    0.45630618929862976
+  ],
+  [
+    [
+      37,
+      82
+    ],
+    [
+      "Das betroffene Hautgewebe stirbt ab.",
+      "Auch das darunter gelegene Gewebe stirbt ab (Nekrose)."
+    ],
+    0.8012951016426086
+  ],
+  [
+    [
+      38,
+      83
+    ],
+    [
+      "Die Haut ist blau oder schwarz verfärbt.",
+      "Die Sensibilität ist aufgehoben."
+    ],
+    0.6282650828361511
+  ],
+  [
+    [
+      39,
+      84
+    ],
+    [
+      "Die Haut nimmt keine Reize oder Schmerzen mehr auf.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.5713101625442505
+  ],
+  [
+    [
+      40,
+      84
+    ],
+    [
+      "Und sie heilt auch nicht mehr.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.6326913833618164
+  ],
+  [
+    [
+      41,
+      84
+    ],
+    [
+      "In manchen Fällen muss das betroffene Gewebe durch eine Operation entfernt werden.",
+      "Die derart geschädigten Stellen heilen nicht mehr und der betroffene Körperteil muss unter Umständen amputiert werden."
+    ],
+    0.6030833721160889
+  ],
+  [
+    [
+      42,
+      85
+    ],
+    [
+      "Hinweis: Oft zeigt sich erst einige Tage später, wie stark die Erfrierung ist.",
+      "Wie schlimm eine Erfrierung ist, lässt sich teilweise erst nach einigen Tagen beurteilen."
+    ],
+    0.6680222153663635
+  ],
+  [
+    [
+      43,
+      104
+    ],
+    [
+      "Erfrierungen entstehen durch eine zu lange Zeit in der Kälte.",
+      "Erfrierung Ist der Betroffene normal ansprechbar, zittert und hat vermutlich erfrorene Finger oder Fußzehen, dann sollten Sie ihn zuerst an einen warmen Ort bringen – zum Beispiel in eine Berghütte oder ins beheizte Auto."
+    ],
+    0.6669292449951172
+  ],
+  [
+    [
+      44,
+      104
+    ],
+    [
+      "Typische Ursachen einer Erfrierung sind zum Beispiel:",
+      "Erfrierung Ist der Betroffene normal ansprechbar, zittert und hat vermutlich erfrorene Finger oder Fußzehen, dann sollten Sie ihn zuerst an einen warmen Ort bringen – zum Beispiel in eine Berghütte oder ins beheizte Auto."
+    ],
+    0.717076301574707
+  ],
+  [
+    [
+      45,
+      110
+    ],
+    [
+      "Jemand fällt in kaltes Wasser",
+      "Steht kein warmes Wasser zur Verfügung, kann es helfen, die kalten Finger in die Achselhöhlen zu stecken oder warme Hände auf erfrorene Stellen im Gesicht zu legen."
+    ],
+    0.7485927939414978
+  ],
+  [
+    [
+      46,
+      117
+    ],
+    [
+      "Jemand wird von einer Schnee-Lawine verschüttet",
+      "Befindet sich der Verletzte im Freien und muss dort bis zur Rettung bleiben, dann besser nicht versuchen, die erfrorenen Gliedmaßen zu erwärmen."
+    ],
+    0.4071424901485443
+  ],
+  [
+    [
+      47,
+      118
+    ],
+    [
+      "Auch Wind kann gefährlich sein.",
+      "Denn: Friert das Gewebe erneut ein, kann es schwer beschädigt werden."
+    ],
+    0.5699804425239563
+  ],
+  [
+    [
+      48,
+      119
+    ],
+    [
+      "Der Wind bläst nämlich die warme Luft um den Körper weg und aus der Kleidung heraus.",
+      "Eine wärmende Decke und trockene Kleider empfehlen sich aber in jedem Fall."
+    ],
+    0.5086020827293396
+  ],
+  [
+    [
+      49,
+      120
+    ],
+    [
+      "Dadurch verliert der Körper sehr viel Wärme.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.506449282169342
+  ],
+  [
+    [
+      50,
+      120
+    ],
+    [
+      "Manche Menschen können schneller einen Kälteschaden bekommen als andere Menschen.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.33041971921920776
+  ],
+  [
+    [
+      51,
+      120
+    ],
+    [
+      "Dazu gehören zum Beispiel: Kleinkinder ältere Menschen Raucher Menschen mit Durchblutungsstörungen Menschen mit Diabetes stark erschöpfte Menschen unterernährte Menschen",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.2813578248023987
+  ],
+  [
+    [
+      52,
+      120
+    ],
+    [
+      "Alkohol kann das Risiko eines Kälteschadens erhöhen.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.25517794489860535
+  ],
+  [
+    [
+      53,
+      120
+    ],
+    [
+      "Durch Alkohol weiten sich nämlich die Gefäße.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.4814714789390564
+  ],
+  [
+    [
+      54,
+      120
+    ],
+    [
+      "So verliert der Körper schneller Wärme.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.5084987878799438
+  ],
+  [
+    [
+      55,
+      120
+    ],
+    [
+      "Menschen unter Alkoholeinfluss spüren die Kälte oft nicht so schnell.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.4904961585998535
+  ],
+  [
+    [
+      56,
+      120
+    ],
+    [
+      "Sie sind länger in der Kälte unterwegs?",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    1.0
+  ],
+  [
+    [
+      57,
+      120
+    ],
+    [
+      "Dann sollten Sie auf diese Dinge achten:",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    0.4763656556606293
+  ],
+  [
+    [
+      58,
+      120
+    ],
+    [
+      "Ziehen Sie sich warm genug an.",
+      "Ziehen Sie sich warm genug an, wenn Sie länger in der Kälte unterwegs sind!"
+    ],
+    1.0
+  ],
+  [
+    [
+      59,
+      121
+    ],
+    [
+      "Am besten eignet sich Funktionskleidung.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.4208207130432129
+  ],
+  [
+    [
+      60,
+      121
+    ],
+    [
+      "Funktionskleidung wärmt gut.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.8363170623779297
+  ],
+  [
+    [
+      61,
+      121
+    ],
+    [
+      "Und Funktionskleidung trocknet schnell.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7998020648956299
+  ],
+  [
+    [
+      62,
+      121
+    ],
+    [
+      "Wechseln Sie Ihre feuchte Kleidung regelmäßig gegen trockene Kleidung.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.5724329948425293
+  ],
+  [
+    [
+      63,
+      121
+    ],
+    [
+      "Tragen Sie eine Mütze.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7474689483642578
+  ],
+  [
+    [
+      64,
+      121
+    ],
+    [
+      "Über den Kopf verliert der Körper nämlich viel Wärme.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.40829989314079285
+  ],
+  [
+    [
+      65,
+      121
+    ],
+    [
+      "Tragen Sie Fäustlinge.",
+      "Tragen Sie mehrere Schichten aus Funktionskleidung (\"Zwiebelprinzip\"), die wärmt und schnell trocknet, wenn Sie Sport treiben."
+    ],
+    0.7739785313606262
+  ],
+  [
+    [
+      66,
+      123
+    ],
+    [
+      "Fäustlinge halten die Finger besser warm als Finger-Handschuhe.",
+      "Fäustlinge halten die Hände bei kalten Temperaturen besser warm als Fingerhandschuhe, auch das Mitführen von Wärempackungen kann helfen."
+    ],
+    0.9652500152587891
+  ],
+  [
+    [
+      67,
+      124
+    ],
+    [
+      "Sie wandern in den Bergen?",
+      "Vergessen Sie nicht die Mütze – da der Kopf temperaturempfindlicher ist."
+    ],
+    0.42749589681625366
+  ],
+  [
+    [
+      68,
+      124
+    ],
+    [
+      "Dann tragen Sie eine winddichte Gesichtsmaske.",
+      "Vergessen Sie nicht die Mütze – da der Kopf temperaturempfindlicher ist."
+    ],
+    0.5539105534553528
+  ],
+  [
+    [
+      69,
+      124
+    ],
+    [
+      "Ziehen Sie passende Schuhe an.",
+      "Vergessen Sie nicht die Mütze – da der Kopf temperaturempfindlicher ist."
+    ],
+    0.4891446530818939
+  ],
+  [
+    [
+      70,
+      126
+    ],
+    [
+      "Zu enge Schuhe behindern die Durchblutung.",
+      "Die Schuhe dürfen nicht zu eng sein, da sonst die Durchblutung der Füße behindert wird."
+    ],
+    0.8004688620567322
+  ],
+  [
+    [
+      71,
+      127
+    ],
+    [
+      "Ziehen Sie sich dicke Socken an.",
+      "Kaufen Sie Winterstiefel deshalb lieber eine Nummer größer und ziehen dicke Socken an."
+    ],
+    0.8647192716598511
+  ],
+  [
+    [
+      72,
+      128
+    ],
+    [
+      "Bewegen Sie sich.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.9213880896568298
+  ],
+  [
+    [
+      73,
+      128
+    ],
+    [
+      "Stehen Sie nicht zu lange im kalten Wind.",
+      "Stehen Sie nicht für längere Zeit im kalten Wind, ohne sich zu bewegen."
+    ],
+    0.9634923934936523
+  ],
+  [
+    [
+      74,
+      130
+    ],
+    [
+      "Nehmen Sie sich eine Thermoskanne mit Tee mit.",
+      "Nehmen Sie auf Bergtouren eine Thermoskanne mit Tee mit oder kehren Sie beim Skifahren in eine Berghütte ein, um sich aufzuwärmen."
+    ],
+    1.0
+  ],
+  [
+    [
+      75,
+      130
+    ],
+    [
+      "Der Tee kann Sie wärmen.",
+      "Nehmen Sie auf Bergtouren eine Thermoskanne mit Tee mit oder kehren Sie beim Skifahren in eine Berghütte ein, um sich aufzuwärmen."
+    ],
+    0.678826093673706
+  ],
+  [
+    [
+      76,
+      131
+    ],
+    [
+      "Essen Sie genügend.",
+      "Füllen Sie auch regelmäßig ihre Kohenhydrate auf indem Sie zum Beispiel einen Müsliriegel mitnehmen."
+    ],
+    0.6299917697906494
+  ],
+  [
+    [
+      77,
+      133
+    ],
+    [
+      "Sie leiden an Durchblutungsstörungen?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    1.0
+  ],
+  [
+    [
+      78,
+      133
+    ],
+    [
+      "Oder Sie spüren Schmerzen erst spät?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5984525084495544
+  ],
+  [
+    [
+      79,
+      133
+    ],
+    [
+      "Dann sprechen Sie vorher mit Ihrem Arzt über die geplante Tour.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.8135414719581604
+  ],
+  [
+    [
+      80,
+      133
+    ],
+    [
+      "Achtung:",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.4710204303264618
+  ],
+  [
+    [
+      81,
+      133
+    ],
+    [
+      "Nur Experten erkennen sicher:",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.48531830310821533
+  ],
+  [
+    [
+      82,
+      133
+    ],
+    [
+      "Jemand leidet unter einer Erfrierung.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5677512288093567
+  ],
+  [
+    [
+      83,
+      133
+    ],
+    [
+      "Rufen Sie deshalb als erstes den Notruf.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.4689143896102905
+  ],
+  [
+    [
+      84,
+      133
+    ],
+    [
+      "Die Nummer ist:",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.3657902777194977
+  ],
+  [
+    [
+      85,
+      133
+    ],
+    [
+      "112. Sie glauben:",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5728076100349426
+  ],
+  [
+    [
+      86,
+      133
+    ],
+    [
+      "Eine Person leidet unter einer Erfrierung?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5802764296531677
+  ],
+  [
+    [
+      87,
+      133
+    ],
+    [
+      "Dann bringen Sie diese Person an einen warmen Ort.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.613818347454071
+  ],
+  [
+    [
+      88,
+      133
+    ],
+    [
+      "Ziehen Sie vorsichtig die nasse Kleidung aus.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.6290369033813477
+  ],
+  [
+    [
+      89,
+      133
+    ],
+    [
+      "Und geben Sie der Person trockene Kleidung und Decken.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5129963755607605
+  ],
+  [
+    [
+      90,
+      133
+    ],
+    [
+      "Erwärmen Sie dann vorsichtig die erfrorenen Körperteile.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.6838430762290955
+  ],
+  [
+    [
+      91,
+      133
+    ],
+    [
+      "Nutzen Sie dafür ein Wasserbad.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.48926740884780884
+  ],
+  [
+    [
+      92,
+      133
+    ],
+    [
+      "Achtung: Das Auftauen der Finger oder Zehen kann sehr schmerzhaft sein.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.48951950669288635
+  ],
+  [
+    [
+      93,
+      133
+    ],
+    [
+      "Vielleicht muss die betroffene Person Schmerzmittel einnehmen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5900265574455261
+  ],
+  [
+    [
+      94,
+      133
+    ],
+    [
+      "Wickeln Sie dann die betroffenen Stellen in einen Verband.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.6563588976860046
+  ],
+  [
+    [
+      95,
+      133
+    ],
+    [
+      "Beachten Sie: Der Verband soll locker sein.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.4246307909488678
+  ],
+  [
+    [
+      96,
+      133
+    ],
+    [
+      "Und jeder Finger und jede Zehe soll einzeln eingewickelt sein.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.3730081021785736
+  ],
+  [
+    [
+      97,
+      133
+    ],
+    [
+      "Es gibt kein warmes Wasser in der Nähe?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.4202900826931
+  ],
+  [
+    [
+      98,
+      133
+    ],
+    [
+      "Dann können Sie die erfrorenen Finger in den Achselhöhlen aufwärmen oder warme Hände auf erfrorene Stellen im Gesicht legen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5353759527206421
+  ],
+  [
+    [
+      99,
+      133
+    ],
+    [
+      "Achtung: Reiben Sie erfrorene Körperstellen nicht im Schnee ein.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5019752383232117
+  ],
+  [
+    [
+      100,
+      133
+    ],
+    [
+      "Öffnen Sie keine Blasen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5533207654953003
+  ],
+  [
+    [
+      101,
+      133
+    ],
+    [
+      "Durch offene Blasen können Infektionen entstehen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5374669432640076
+  ],
+  [
+    [
+      102,
+      133
+    ],
+    [
+      "Lassen Sie die betroffene Person keine Zigarette rauchen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5899158120155334
+  ],
+  [
+    [
+      103,
+      133
+    ],
+    [
+      "Dadurch verengen sich die Blutgefäße.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.6299071311950684
+  ],
+  [
+    [
+      104,
+      133
+    ],
+    [
+      "Massieren Sie die betroffenen Stellen nicht .",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.6986083984375
+  ],
+  [
+    [
+      105,
+      133
+    ],
+    [
+      "Erwärmen Sie die Haut nicht mit trockener oder zu starker Hitze, zum Beispiel einem Fön oder einem Heizkissen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5995610356330872
+  ],
+  [
+    [
+      106,
+      133
+    ],
+    [
+      "Die erfrorene Haut ist nämlich taub.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.37851572036743164
+  ],
+  [
+    [
+      107,
+      133
+    ],
+    [
+      "Es könnte zu Verbrennungen kommen.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.47873517870903015
+  ],
+  [
+    [
+      108,
+      133
+    ],
+    [
+      "Sie wollen noch mehr über Kälteschäden lesen?",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.43098053336143494
+  ],
+  [
+    [
+      109,
+      133
+    ],
+    [
+      "Mehr Informationen über Kälteschäden finden Sie hier.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.3899558186531067
+  ],
+  [
+    [
+      110,
+      133
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.39146021008491516
+  ],
+  [
+    [
+      111,
+      133
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Wenn Sie an Durchblutungsstörungen wie dem Raynaud-Syndrom leiden oder an anderen Krankheiten, die mit eingeschränkter Durchblutung oder herabgesetztem Schmerzempfinden einhergehen, sprechen Sie mit Ihrem Arzt, bevor Sie eine längere Tour in die Kälte planen."
+    ],
+    0.5440173745155334
+  ]
+]

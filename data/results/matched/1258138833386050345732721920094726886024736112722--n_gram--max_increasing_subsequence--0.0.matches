@@ -1,0 +1,629 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Eine Person ist verletzt?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.12133468687534332
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Und die Wunde blutet stark?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.1726875603199005
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Dann rufen Sie als erstes den Rettungsdienst.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4919630289077759
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "112. Pressen Sie dann ein Tuch auf die Blutung.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5990180373191833
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Hinweis: Berühren Sie Wunden nicht mit den Händen.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.27478522062301636
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Tragen Sie am besten Einmal-Handschuhe.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.6264680624008179
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Die Wunde blutet stark?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.17463001608848572
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Dann legen Sie die Person hin.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.47981512546539307
+  ],
+  [
+    [
+      9,
+      1
+    ],
+    [
+      "Versorgen Sie dann die Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3247288465499878
+  ],
+  [
+    [
+      10,
+      1
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.1748657524585724
+  ],
+  [
+    [
+      11,
+      1
+    ],
+    [
+      "Dann machen Sie einen Druckverband.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3808217942714691
+  ],
+  [
+    [
+      12,
+      1
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3967118561267853
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3742994964122772
+  ],
+  [
+    [
+      14,
+      1
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2917235791683197
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4118475615978241
+  ],
+  [
+    [
+      16,
+      1
+    ],
+    [
+      "Hinweis: Binden Sie den Druckverband nicht zu fest.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.33517640829086304
+  ],
+  [
+    [
+      17,
+      1
+    ],
+    [
+      "Der Verband ist zu fest?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.012242646887898445
+  ],
+  [
+    [
+      18,
+      1
+    ],
+    [
+      "Dann kann das Blut nicht mehr richtig fließen.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2792387008666992
+  ],
+  [
+    [
+      19,
+      1
+    ],
+    [
+      "Die betroffenen Körperteile bekommen nicht genug Blut.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.31625133752822876
+  ],
+  [
+    [
+      20,
+      1
+    ],
+    [
+      "Achtung:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.056145183742046356
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Das können zum Beispiel Glasscherben sein.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.1821994185447693
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Ziehen Sie diese Fremdkörper nicht aus der Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2709113359451294
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Das kann die Blutung nämlich noch verstärken.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3960952162742615
+  ],
+  [
+    [
+      25,
+      1
+    ],
+    [
+      "Ein Arzt muss die Fremdkörper entfernen Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.13814370334148407
+  ],
+  [
+    [
+      26,
+      1
+    ],
+    [
+      "Platzwunden können gefährlich sein.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.010295423679053783
+  ],
+  [
+    [
+      27,
+      1
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.0008266811491921544
+  ],
+  [
+    [
+      28,
+      1
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.008381099440157413
+  ],
+  [
+    [
+      29,
+      1
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.0003717337967827916
+  ],
+  [
+    [
+      30,
+      1
+    ],
+    [
+      "Eine Person hat eine Platzwunde am Kopf?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.02222171425819397
+  ],
+  [
+    [
+      31,
+      1
+    ],
+    [
+      "Dann können Sie folgende Dinge tun:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.46858614683151245
+  ],
+  [
+    [
+      32,
+      1
+    ],
+    [
+      "Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2868313491344452
+  ],
+  [
+    [
+      33,
+      1
+    ],
+    [
+      "Befestigen Sie die Kompresse mit einem Dreiecktuch seitlich am Kopf.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4054993987083435
+  ],
+  [
+    [
+      34,
+      1
+    ],
+    [
+      "Die Platzwunde blutet stark?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.13605163991451263
+  ],
+  [
+    [
+      35,
+      1
+    ],
+    [
+      "Dann drücken Sie mit der Hand auf den Verband.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.38303637504577637
+  ],
+  [
+    [
+      36,
+      1
+    ],
+    [
+      "So stillen Sie die Blutung.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.6513031125068665
+  ],
+  [
+    [
+      37,
+      1
+    ],
+    [
+      "Achtung: Platzwunden können gefährlich sein.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.016376378014683723
+  ],
+  [
+    [
+      38,
+      1
+    ],
+    [
+      "Gehen Sie mit einer Platzwunde immer zum Arzt.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.22362975776195526
+  ],
+  [
+    [
+      39,
+      1
+    ],
+    [
+      "Oder gehen Sie in die Notaufnahme im Krankenhaus.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.44145095348358154
+  ],
+  [
+    [
+      40,
+      1
+    ],
+    [
+      "Sie haben Nasenbluten?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.27499905228614807
+  ],
+  [
+    [
+      41,
+      1
+    ],
+    [
+      "Dann stecken Sie keine Watte in die Nase.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.41190215945243835
+  ],
+  [
+    [
+      42,
+      1
+    ],
+    [
+      "Das Blut soll ablaufen.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3498498201370239
+  ],
+  [
+    [
+      43,
+      1
+    ],
+    [
+      "Nasenbluten können Sie so stoppen:",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4847432076931
+  ],
+  [
+    [
+      44,
+      1
+    ],
+    [
+      "Beugen Sie den Kopf leicht nach vorn",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5095468759536743
+  ],
+  [
+    [
+      45,
+      1
+    ],
+    [
+      "Das Blut kommt aus dem vorderen Nasen-Abschnitt?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2854997515678406
+  ],
+  [
+    [
+      46,
+      1
+    ],
+    [
+      "Dann drücken Sie die Nasenflügel für ein paar Minuten fest mit Ihren Fingern zusammen.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.3695138096809387
+  ],
+  [
+    [
+      47,
+      1
+    ],
+    [
+      "Atmen Sie durch den Mund.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5073530673980713
+  ],
+  [
+    [
+      48,
+      1
+    ],
+    [
+      "Kühlen Sie den Nacken.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4630328416824341
+  ],
+  [
+    [
+      49,
+      1
+    ],
+    [
+      "Legen Sie zum Beispiel einen feuchten Waschlappen in den Nacken.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.4802704453468323
+  ],
+  [
+    [
+      50,
+      1
+    ],
+    [
+      "Achtung: Sie möchten den Nacken mit einem Eisbeutel kühlen?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.2849297821521759
+  ],
+  [
+    [
+      51,
+      1
+    ],
+    [
+      "Dann legen Sie den Eisbeutel nie direkt auf die Haut.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.36387836933135986
+  ],
+  [
+    [
+      52,
+      1
+    ],
+    [
+      "Eisbeutel können Erfrierungen auf der Haut verursachen.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.07492527365684509
+  ],
+  [
+    [
+      53,
+      1
+    ],
+    [
+      "Sie können das Nasenbluten nicht stoppen?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.258513867855072
+  ],
+  [
+    [
+      54,
+      1
+    ],
+    [
+      "Dann gehen Sie zum Arzt oder in die Notaufnahme im Krankenhaus.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.41293153166770935
+  ],
+  [
+    [
+      55,
+      1
+    ],
+    [
+      "Sie wollen noch mehr über Blutungen lesen?",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.5385621786117554
+  ],
+  [
+    [
+      56,
+      1
+    ],
+    [
+      "Mehr Informationen über Blutungen finden Sie hier.",
+      "Wenn Sie Blutungen bei anderen Personen versorgen, schützen Sie sich selbst, indem Sie Einmalhandschuhe tragen."
+    ],
+    0.7042380571365356
+  ],
+  [
+    [
+      57,
+      25
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Zum Kühlen diese Tüte in eine zweite geben, die mit Eis und Wasser gefüllt ist."
+    ],
+    0.19997020065784454
+  ],
+  [
+    [
+      58,
+      25
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Zum Kühlen diese Tüte in eine zweite geben, die mit Eis und Wasser gefüllt ist."
+    ],
+    0.05999225378036499
+  ]
+]

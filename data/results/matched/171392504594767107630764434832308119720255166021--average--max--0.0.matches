@@ -1,0 +1,1597 @@
+[
+  [
+    [
+      0,
+      19
+    ],
+    [
+      "Es gibt günstige Miet-Wohnungen.",
+      "Einkommensgrenzen"
+    ],
+    0.2836962938308716
+  ],
+  [
+    [
+      1,
+      19
+    ],
+    [
+      "Diese Miet-Wohnungen werden mit Geld vom Staat unterstützt.",
+      "Einkommensgrenzen"
+    ],
+    0.27219873666763306
+  ],
+  [
+    [
+      2,
+      19
+    ],
+    [
+      "Die Miete ist deshalb nicht so teuer.",
+      "Einkommensgrenzen"
+    ],
+    0.23784954845905304
+  ],
+  [
+    [
+      3,
+      19
+    ],
+    [
+      "Wenn Sie eine solche Wohnung mieten wollen:",
+      "Einkommensgrenzen"
+    ],
+    0.24721866846084595
+  ],
+  [
+    [
+      4,
+      19
+    ],
+    [
+      "Dann brauchen Sie dafür eine Bescheinigung.",
+      "Einkommensgrenzen"
+    ],
+    0.2402646243572235
+  ],
+  [
+    [
+      5,
+      43
+    ],
+    [
+      "Diese Bescheinigung heißt: Wohn-Berechtigungs-Schein.",
+      "Schwerbehinderung"
+    ],
+    0.40369224548339844
+  ],
+  [
+    [
+      6,
+      65
+    ],
+    [
+      "Kurz heißt er: WBS.",
+      "Wie geht es dann weiter?"
+    ],
+    0.10580715537071228
+  ],
+  [
+    [
+      7,
+      65
+    ],
+    [
+      "Wie bekomme ich einen WBS?",
+      "Wie geht es dann weiter?"
+    ],
+    0.16282878816127777
+  ],
+  [
+    [
+      8,
+      19
+    ],
+    [
+      "Das hängt davon ab, wie viel Geld Sie verdienen.",
+      "Einkommensgrenzen"
+    ],
+    0.17220744490623474
+  ],
+  [
+    [
+      9,
+      19
+    ],
+    [
+      "Sie dürfen nicht zu viel Geld haben.",
+      "Einkommensgrenzen"
+    ],
+    0.2329423725605011
+  ],
+  [
+    [
+      10,
+      81
+    ],
+    [
+      "Den WBS müssen Sie bei uns beantragen .",
+      "Gebühren"
+    ],
+    0.20090429484844208
+  ],
+  [
+    [
+      11,
+      4
+    ],
+    [
+      "Der WBS ist 12 Monate gültig .",
+      "Er ist für 12 Monate gültig."
+    ],
+    0.14815013110637665
+  ],
+  [
+    [
+      12,
+      19
+    ],
+    [
+      "Wenn Sie in dieser Zeit keine Wohnung finden :",
+      "Einkommensgrenzen"
+    ],
+    0.21154451370239258
+  ],
+  [
+    [
+      13,
+      19
+    ],
+    [
+      "Dann müssen Sie noch einmal einen neuen WBS beantragen.",
+      "Einkommensgrenzen"
+    ],
+    0.2049584835767746
+  ],
+  [
+    [
+      14,
+      14
+    ],
+    [
+      "Ein WBS gilt nur in dem Bundes-Land, in dem er beantragt wurde.",
+      "Aufenthaltsgenehmigung"
+    ],
+    0.15774191915988922
+  ],
+  [
+    [
+      15,
+      19
+    ],
+    [
+      "Der WBS für Köln gilt also in ganz Nord-Rhein-Westfalen.",
+      "Einkommensgrenzen"
+    ],
+    0.13380178809165955
+  ],
+  [
+    [
+      16,
+      43
+    ],
+    [
+      "Dazu brauchen wir von Ihnen: Den Antrag für den WBS",
+      "Schwerbehinderung"
+    ],
+    0.15747392177581787
+  ],
+  [
+    [
+      17,
+      77
+    ],
+    [
+      "Das Formular ist in Alltags-Sprache.",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.1522379070520401
+  ],
+  [
+    [
+      18,
+      42
+    ],
+    [
+      "Wir helfen Ihnen gerne dabei.",
+      "Genaueres erfragen Sie bitte bei Ihrer Sachbearbeitung."
+    ],
+    0.23182302713394165
+  ],
+  [
+    [
+      19,
+      19
+    ],
+    [
+      "Ihre aktuelle Melde-Bescheinigung, wenn Sie nicht in Köln wohnen Darin steht die Adresse, wo Sie wohnen.",
+      "Einkommensgrenzen"
+    ],
+    0.18219827115535736
+  ],
+  [
+    [
+      20,
+      19
+    ],
+    [
+      "Wenn Sie in einer anderen Stadt wohnen:",
+      "Einkommensgrenzen"
+    ],
+    0.21757808327674866
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Dann brauchen wir von dieser Stadt eine Melde-Bescheinigung.",
+      "Einkommensgrenzen"
+    ],
+    0.22851063311100006
+  ],
+  [
+    [
+      22,
+      19
+    ],
+    [
+      "Wenn in Ihrem Haushalt mehrere Personen leben:",
+      "Einkommensgrenzen"
+    ],
+    0.2655501663684845
+  ],
+  [
+    [
+      23,
+      19
+    ],
+    [
+      "Dann müssen alle Personen von Ihrem Haushalt in der Melde-Bescheinigung aufgeschrieben sein.",
+      "Einkommensgrenzen"
+    ],
+    0.2631947994232178
+  ],
+  [
+    [
+      24,
+      14
+    ],
+    [
+      "Ihre Aufenthalts-Genehmigung, wenn Sie aus dem Ausland nach Köln ziehen",
+      "Aufenthaltsgenehmigung"
+    ],
+    0.2243945151567459
+  ],
+  [
+    [
+      25,
+      14
+    ],
+    [
+      "Dann müssen Sie uns zeigen: Ihren Pass und eine Aufenthalts-Genehmigung oder Ihren Pass und eine Niederlassungs-Genehmigung",
+      "Aufenthaltsgenehmigung"
+    ],
+    0.19565817713737488
+  ],
+  [
+    [
+      26,
+      19
+    ],
+    [
+      "Das gilt für alle Personen, die in Ihrem Haushalt leben.",
+      "Einkommensgrenzen"
+    ],
+    0.2401319444179535
+  ],
+  [
+    [
+      27,
+      19
+    ],
+    [
+      "Wichtig: Diese Bescheinigungen müssen noch 12 Monate oder länger gültig sein.",
+      "Einkommensgrenzen"
+    ],
+    0.256496399641037
+  ],
+  [
+    [
+      28,
+      14
+    ],
+    [
+      "Das gilt von dem Tag, an dem Sie einen WBS beantragen.",
+      "Aufenthaltsgenehmigung"
+    ],
+    0.13462209701538086
+  ],
+  [
+    [
+      29,
+      19
+    ],
+    [
+      "Eine Erklärung zu Ihrem Einkommen",
+      "Einkommensgrenzen"
+    ],
+    0.28768569231033325
+  ],
+  [
+    [
+      30,
+      75
+    ],
+    [
+      "Das Formular ist in Alltags-Sprache geschrieben.",
+      "Vorsprache"
+    ],
+    0.18403223156929016
+  ],
+  [
+    [
+      31,
+      19
+    ],
+    [
+      "Nachweise zu Ihrem Einkommen",
+      "Einkommensgrenzen"
+    ],
+    0.4098243713378906
+  ],
+  [
+    [
+      32,
+      81
+    ],
+    [
+      "Nachweise sind Papiere oder Briefe.",
+      "Gebühren"
+    ],
+    0.3127861022949219
+  ],
+  [
+    [
+      33,
+      19
+    ],
+    [
+      "Zum Beispiel: Die Abrechnung von Ihrem Lohn oder Gehalt Ihr Renten-Bescheid Briefe darüber: wie viel Geld Sie vom Arbeits-Amt bekommen Briefe darüber: wie viel Geld Sie vom Sozial-Amt bekommen Papiere zu Ihrem Unterhalt",
+      "Einkommensgrenzen"
+    ],
+    0.22785209119319916
+  ],
+  [
+    [
+      34,
+      19
+    ],
+    [
+      "Die Nachweise müssen von den letzten 12 Monaten sein.",
+      "Einkommensgrenzen"
+    ],
+    0.2037498652935028
+  ],
+  [
+    [
+      35,
+      19
+    ],
+    [
+      "Wenn Sie wissen, dass Sie bald mehr oder weniger Geld bekommen:",
+      "Einkommensgrenzen"
+    ],
+    0.22984717786312103
+  ],
+  [
+    [
+      36,
+      65
+    ],
+    [
+      "Dann müssen Sie uns das auch sagen.",
+      "Wie geht es dann weiter?"
+    ],
+    0.22668614983558655
+  ],
+  [
+    [
+      37,
+      19
+    ],
+    [
+      "Zum Beispiel: Weil Sie einen anderen Arbeits-Platz haben oder weil Sie bald Eltern-Geld bekommen oder weil Sie bald kein Eltern-Geld mehr bekommen.",
+      "Einkommensgrenzen"
+    ],
+    0.2339465320110321
+  ],
+  [
+    [
+      38,
+      19
+    ],
+    [
+      "Sie müssen uns auch Nachweise zeigen:",
+      "Einkommensgrenzen"
+    ],
+    0.3241395652294159
+  ],
+  [
+    [
+      39,
+      58
+    ],
+    [
+      "Wenn Ihnen Ihre alte Miet-Wohnung gekündigt wurde oder Sie aus Ihrer Wohnung raus müssen.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.18266117572784424
+  ],
+  [
+    [
+      40,
+      65
+    ],
+    [
+      "Weil das Gericht das gesagt hat.",
+      "Wie geht es dann weiter?"
+    ],
+    0.1756858080625534
+  ],
+  [
+    [
+      41,
+      19
+    ],
+    [
+      "Lesen Sie dazu bitte diese 2 Info-Blätter : Einkommens-Grenzen",
+      "Einkommensgrenzen"
+    ],
+    0.21246716380119324
+  ],
+  [
+    [
+      42,
+      19
+    ],
+    [
+      "Einkommens-Grenze heißt: So viel Geld dürfen Sie haben.",
+      "Einkommensgrenzen"
+    ],
+    0.27082663774490356
+  ],
+  [
+    [
+      43,
+      19
+    ],
+    [
+      "Die Grenze für Ihr Einkommen wird von uns ausgerechnet.",
+      "Einkommensgrenzen"
+    ],
+    0.24502533674240112
+  ],
+  [
+    [
+      44,
+      19
+    ],
+    [
+      "Es gibt einen Grund-Betrag und zusätzliche Beträge .",
+      "Einkommensgrenzen"
+    ],
+    0.34048953652381897
+  ],
+  [
+    [
+      45,
+      19
+    ],
+    [
+      "Zum Schluss vergleichen wir Ihre Einkommens-Grenze und Ihr Jahres-Einkommen.",
+      "Einkommensgrenzen"
+    ],
+    0.30842500925064087
+  ],
+  [
+    [
+      46,
+      77
+    ],
+    [
+      "Dafür ist wichtig:",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.21657860279083252
+  ],
+  [
+    [
+      47,
+      19
+    ],
+    [
+      "Wie viele Personen in Ihrem Haushalt leben.",
+      "Einkommensgrenzen"
+    ],
+    0.26030591130256653
+  ],
+  [
+    [
+      48,
+      43
+    ],
+    [
+      "Für Nordrhein-Westfalen gelten folgende Grund-Beträge :",
+      "Schwerbehinderung"
+    ],
+    0.2243003249168396
+  ],
+  [
+    [
+      49,
+      19
+    ],
+    [
+      "Wenn mehr als 2 Personen im Haushalt leben:",
+      "Einkommensgrenzen"
+    ],
+    0.23141419887542725
+  ],
+  [
+    [
+      50,
+      19
+    ],
+    [
+      "Dann kommt für jede Person ein Mehr-Betrag dazu.",
+      "Einkommensgrenzen"
+    ],
+    0.16909658908843994
+  ],
+  [
+    [
+      51,
+      19
+    ],
+    [
+      "Für Kinder ist der Mehr-Betrag höher.",
+      "Einkommensgrenzen"
+    ],
+    0.2225998044013977
+  ],
+  [
+    [
+      52,
+      19
+    ],
+    [
+      "Beispiel: Zu dem Grund-Betrag und dem Mehr-Betrag können Zuschläge kommen.",
+      "Einkommensgrenzen"
+    ],
+    0.3122585415840149
+  ],
+  [
+    [
+      53,
+      19
+    ],
+    [
+      "Das hängt davon ab, wie Sie leben.",
+      "Einkommensgrenzen"
+    ],
+    0.14348244667053223
+  ],
+  [
+    [
+      54,
+      81
+    ],
+    [
+      "Zuschläge sind auch Beträge.",
+      "Gebühren"
+    ],
+    0.4809153079986572
+  ],
+  [
+    [
+      55,
+      19
+    ],
+    [
+      "Zum Beispiel: Haben Sie erst vor kurzer Zeit geheiratet ?",
+      "Einkommensgrenzen"
+    ],
+    0.12322890758514404
+  ],
+  [
+    [
+      56,
+      19
+    ],
+    [
+      "Erziehen Sie ein Kind alleine?",
+      "Einkommensgrenzen"
+    ],
+    0.22837570309638977
+  ],
+  [
+    [
+      57,
+      43
+    ],
+    [
+      "Haben Sie eine Behinderung ?",
+      "Schwerbehinderung"
+    ],
+    0.31934329867362976
+  ],
+  [
+    [
+      58,
+      19
+    ],
+    [
+      "Die Einkommens-Grenze ist also immer unterschiedlich.",
+      "Einkommensgrenzen"
+    ],
+    0.35415512323379517
+  ],
+  [
+    [
+      59,
+      19
+    ],
+    [
+      "Wie berechnen wir Ihr Einkommen?",
+      "Einkommensgrenzen"
+    ],
+    0.27009931206703186
+  ],
+  [
+    [
+      60,
+      58
+    ],
+    [
+      "Wir rechnen Ihr Jahres-Brutto-Einkommen aus.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.11861224472522736
+  ],
+  [
+    [
+      61,
+      19
+    ],
+    [
+      "Das heißt: was Sie insgesamt in 1 Jahr verdienen .",
+      "Einkommensgrenzen"
+    ],
+    0.116262286901474
+  ],
+  [
+    [
+      62,
+      81
+    ],
+    [
+      "Das ist das Geld, was Ihr Arbeit-Geber für Sie bezahlen muss.",
+      "Gebühren"
+    ],
+    0.18851535022258759
+  ],
+  [
+    [
+      63,
+      81
+    ],
+    [
+      "Von Ihrem Jahres-Brutto-Einkommen ziehen wir Abschläge ab.",
+      "Gebühren"
+    ],
+    0.1415560245513916
+  ],
+  [
+    [
+      64,
+      81
+    ],
+    [
+      "Abschläge sind Beträge.",
+      "Gebühren"
+    ],
+    0.4885183572769165
+  ],
+  [
+    [
+      65,
+      19
+    ],
+    [
+      "Dadurch wird der Betrag von Ihrem Jahres-Brutto-Einkommen kleiner.",
+      "Einkommensgrenzen"
+    ],
+    0.18582399189472198
+  ],
+  [
+    [
+      66,
+      37
+    ],
+    [
+      "Das ist wichtig.",
+      "Das sind im Einzelnen:"
+    ],
+    0.20696479082107544
+  ],
+  [
+    [
+      67,
+      19
+    ],
+    [
+      "Denn für den WBS dürfen Sie nicht zu viel Geld haben.",
+      "Einkommensgrenzen"
+    ],
+    0.2107645571231842
+  ],
+  [
+    [
+      68,
+      19
+    ],
+    [
+      "Es gibt diese Abschläge:",
+      "Einkommensgrenzen"
+    ],
+    0.2760677933692932
+  ],
+  [
+    [
+      69,
+      19
+    ],
+    [
+      "Abzugs-Beträge : wenn Sie Steuern und Pflicht-Beiträge zu den gesetzlichen Sozial-Versicherungen zahlen.",
+      "Einkommensgrenzen"
+    ],
+    0.3751107156276703
+  ],
+  [
+    [
+      70,
+      19
+    ],
+    [
+      "Das sind: 12 Prozent für die Steuern von Ihrem Einkommen 12 Prozent für die Pflicht-Beiträge zu Ihrer Renten-Versicherung 10 Prozent für die Beiträge zu Ihrer Kranken-Versicherung und Pflege-Versicherung.",
+      "Einkommensgrenzen"
+    ],
+    0.27487948536872864
+  ],
+  [
+    [
+      71,
+      81
+    ],
+    [
+      "Werbungs-Kosten: Es gibt Beträge für Werbungs-Kosten, die von der Steuer abgezogen werden können.",
+      "Gebühren"
+    ],
+    0.34521594643592834
+  ],
+  [
+    [
+      72,
+      37
+    ],
+    [
+      "Das gilt für:",
+      "Das sind im Einzelnen:"
+    ],
+    0.18959328532218933
+  ],
+  [
+    [
+      73,
+      19
+    ],
+    [
+      "Arbeitnehmer und Arbeitnehmer-innen Beamte und Beamtinnen",
+      "Einkommensgrenzen"
+    ],
+    0.3667927384376526
+  ],
+  [
+    [
+      74,
+      19
+    ],
+    [
+      "Rentner und Rentner-innen.",
+      "Einkommensgrenzen"
+    ],
+    0.24051283299922943
+  ],
+  [
+    [
+      75,
+      19
+    ],
+    [
+      "Wenn Sie uns das mit einem Steuer-Bescheid nachweisen, dann beachten wir das bei der Berechnung.",
+      "Einkommensgrenzen"
+    ],
+    0.21026422083377838
+  ],
+  [
+    [
+      76,
+      42
+    ],
+    [
+      "Bitte fragen Sie dazu Ihren Sach-Bearbeiter oder Ihre Sach-Bearbeiterin.",
+      "Genaueres erfragen Sie bitte bei Ihrer Sachbearbeitung."
+    ],
+    0.28535646200180054
+  ],
+  [
+    [
+      77,
+      19
+    ],
+    [
+      "Bei einer Schwer-Behinderung: haben Sie einen Frei-Betrag von 4.500 Euro Wenn Sie einen Grad der Behinderung von 100 Prozent haben.",
+      "Einkommensgrenzen"
+    ],
+    0.2137879580259323
+  ],
+  [
+    [
+      78,
+      19
+    ],
+    [
+      "Oder wenn Sie einen Grad der Behinderung von wenigstens 80 Prozent haben und zu Hause Pflege brauchen.",
+      "Einkommensgrenzen"
+    ],
+    0.21952258050441742
+  ],
+  [
+    [
+      79,
+      19
+    ],
+    [
+      "Sie haben einen Frei-Betrag von 2.100 Euro : wenn Sie einen Grad der Behinderung von unter 80 Prozent haben und zu Hause Pflege brauchen.",
+      "Einkommensgrenzen"
+    ],
+    0.22422565519809723
+  ],
+  [
+    [
+      80,
+      19
+    ],
+    [
+      "Bei einem Haushalt für 2 Personen: Ihr Frei-Betrag beträgt 4.000 Euro , wenn Sie ein Ehe-Paar sind.",
+      "Einkommensgrenzen"
+    ],
+    0.18888576328754425
+  ],
+  [
+    [
+      81,
+      19
+    ],
+    [
+      "Und noch nicht länger als 5 Jahre verheiratet sind.",
+      "Einkommensgrenzen"
+    ],
+    0.17688937485218048
+  ],
+  [
+    [
+      82,
+      50
+    ],
+    [
+      "Und beide jünger als 40 Jahre alt sind.",
+      "Der Freibetrag beträgt dann auch 4.000 Euro, wenn beide Personen jünger als 40 Jahre und weniger als fünf Jahre verheiratet sind."
+    ],
+    0.14113081991672516
+  ],
+  [
+    [
+      83,
+      19
+    ],
+    [
+      "Wenn Sie arbeiten und Ihr Kind alleine erziehen:",
+      "Einkommensgrenzen"
+    ],
+    0.23660868406295776
+  ],
+  [
+    [
+      84,
+      19
+    ],
+    [
+      "Dann gibt es einen Frei-Betrag für jedes Kind.",
+      "Einkommensgrenzen"
+    ],
+    0.20235446095466614
+  ],
+  [
+    [
+      85,
+      48
+    ],
+    [
+      "Der Frei-Betrag beträgt 700 Euro für jedes Kind unter 12 Jahren .",
+      "Der Freibetrag beträgt 4.000 Euro."
+    ],
+    0.19885286688804626
+  ],
+  [
+    [
+      86,
+      19
+    ],
+    [
+      "Wenn Ihre Kinder auch selbst Geld verdienen: Der Frei-Betrag beträgt 700 Euro für jedes Kind zwischen 16 und 25 Jahren.",
+      "Einkommensgrenzen"
+    ],
+    0.22780705988407135
+  ],
+  [
+    [
+      87,
+      43
+    ],
+    [
+      "Fragen",
+      "Schwerbehinderung"
+    ],
+    0.4427824020385742
+  ],
+  [
+    [
+      88,
+      42
+    ],
+    [
+      "Sie dazu bitte",
+      "Genaueres erfragen Sie bitte bei Ihrer Sachbearbeitung."
+    ],
+    0.28828415274620056
+  ],
+  [
+    [
+      89,
+      43
+    ],
+    [
+      "Ihren Sach-Bearbeiter oder Ihre Sach-Bearbeiterin.",
+      "Schwerbehinderung"
+    ],
+    0.3088022768497467
+  ],
+  [
+    [
+      90,
+      19
+    ],
+    [
+      "Wenn Sie für einen anderen Menschen Unterhalt zahlen müssen:",
+      "Einkommensgrenzen"
+    ],
+    0.32190704345703125
+  ],
+  [
+    [
+      91,
+      81
+    ],
+    [
+      "Dann werden höchstens 4.000 Euro oder 8.000 Euro abgezogen.",
+      "Gebühren"
+    ],
+    0.24277909100055695
+  ],
+  [
+    [
+      92,
+      81
+    ],
+    [
+      "Sie müssen nachweisen, dass Sie Unterhalt zahlen.",
+      "Gebühren"
+    ],
+    0.36517366766929626
+  ],
+  [
+    [
+      93,
+      42
+    ],
+    [
+      "Ihr Sach-Bearbeiter oder Ihre Sach-Bearbeiterin prüft das genau.",
+      "Genaueres erfragen Sie bitte bei Ihrer Sachbearbeitung."
+    ],
+    0.21945370733737946
+  ],
+  [
+    [
+      94,
+      19
+    ],
+    [
+      "Zum Schluss vergleichen wir Ihre Einkommens-Grenze und Ihr Jahres-Brutto-Einkommen.",
+      "Einkommensgrenzen"
+    ],
+    0.22406910359859467
+  ],
+  [
+    [
+      95,
+      42
+    ],
+    [
+      "Wichtig: Lassen Sie sich beraten.",
+      "Genaueres erfragen Sie bitte bei Ihrer Sachbearbeitung."
+    ],
+    0.2797912061214447
+  ],
+  [
+    [
+      96,
+      65
+    ],
+    [
+      "Damit alles richtig gemacht wird!",
+      "Wie geht es dann weiter?"
+    ],
+    0.2543525695800781
+  ],
+  [
+    [
+      97,
+      27
+    ],
+    [
+      "Besprechen Sie vorher alles genau mit Ihrem Sach-Bearbeiter oder Ihrer Sach-Bearbeiterin!",
+      "Die Details sollten Sie danach persönlich oder telefonisch mit Ihrer Sachbearbeiterin oder Ihrem Sachbearbeiter klären."
+    ],
+    0.25557538866996765
+  ],
+  [
+    [
+      98,
+      43
+    ],
+    [
+      "Der WBS für Nordrhein-Westfalen",
+      "Schwerbehinderung"
+    ],
+    0.1782761961221695
+  ],
+  [
+    [
+      99,
+      19
+    ],
+    [
+      "Ein WBS gilt immer nur für das Bundes-Land, in dem er ausgestellt wurde.",
+      "Einkommensgrenzen"
+    ],
+    0.16877827048301697
+  ],
+  [
+    [
+      100,
+      19
+    ],
+    [
+      "Wenn Sie einen WBS bei uns in Köln beantragen, dann gilt er nur in Nordrhein-Westfalen.",
+      "Einkommensgrenzen"
+    ],
+    0.1564876288175583
+  ],
+  [
+    [
+      101,
+      14
+    ],
+    [
+      "In der Stadt, in der Sie einen WBS beantragen, werden Sie in eine Liste eingetragen.",
+      "Aufenthaltsgenehmigung"
+    ],
+    0.19651366770267487
+  ],
+  [
+    [
+      102,
+      19
+    ],
+    [
+      "In der Liste werden Personen aufgeschrieben, die in dieser Stadt eine Wohnung suchen.",
+      "Einkommensgrenzen"
+    ],
+    0.24917136132717133
+  ],
+  [
+    [
+      103,
+      65
+    ],
+    [
+      "Es ist also am besten:",
+      "Wie geht es dann weiter?"
+    ],
+    0.16490896046161652
+  ],
+  [
+    [
+      104,
+      19
+    ],
+    [
+      "Stellen Sie Ihren Antrag dort, wo Sie eine Wohnung suchen!",
+      "Einkommensgrenzen"
+    ],
+    0.22469277679920197
+  ],
+  [
+    [
+      105,
+      61
+    ],
+    [
+      "Der WBS für ein anderes Bundes-Land",
+      "Wohnberechtigungsschein für ein anderes Bundesland"
+    ],
+    0.2234487682580948
+  ],
+  [
+    [
+      106,
+      19
+    ],
+    [
+      "Wenn Sie in einem anderen Bundes-Land eine Wohnung suchen:",
+      "Einkommensgrenzen"
+    ],
+    0.24621398746967316
+  ],
+  [
+    [
+      107,
+      81
+    ],
+    [
+      "Dann müssen Sie dort einen WBS beantragen.",
+      "Gebühren"
+    ],
+    0.21972665190696716
+  ],
+  [
+    [
+      108,
+      81
+    ],
+    [
+      "Zum Beispiel: Wenn Sie einen WBS für Köln haben wollen, dann müssen Sie den Antrag bei uns stellen.",
+      "Gebühren"
+    ],
+    0.1841750591993332
+  ],
+  [
+    [
+      109,
+      19
+    ],
+    [
+      "Auch wenn Sie zum Beispiel noch in Rheinland-Pfalz wohnen.",
+      "Einkommensgrenzen"
+    ],
+    0.20492808520793915
+  ],
+  [
+    [
+      110,
+      19
+    ],
+    [
+      "Ein WBS aus einem anderen Bundes-Land ist bei uns in Nordrhein-Westfalen nicht gültig.",
+      "Einkommensgrenzen"
+    ],
+    0.18486371636390686
+  ],
+  [
+    [
+      111,
+      65
+    ],
+    [
+      "Wie geht es weiter, wenn ich einen WBS habe?",
+      "Wie geht es dann weiter?"
+    ],
+    0.24035048484802246
+  ],
+  [
+    [
+      112,
+      19
+    ],
+    [
+      "Es gibt günstige Miet-Wohnungen.",
+      "Einkommensgrenzen"
+    ],
+    0.2836962938308716
+  ],
+  [
+    [
+      113,
+      19
+    ],
+    [
+      "Diese Wohnungen werden mit Geldern vom Staat unterstützt.",
+      "Einkommensgrenzen"
+    ],
+    0.30623623728752136
+  ],
+  [
+    [
+      114,
+      19
+    ],
+    [
+      "Die Miete ist deshalb nicht so teuer.",
+      "Einkommensgrenzen"
+    ],
+    0.23784954845905304
+  ],
+  [
+    [
+      115,
+      19
+    ],
+    [
+      "Diese Wohnungen dürfen nur an Menschen mit WBS vermietet werden.",
+      "Einkommensgrenzen"
+    ],
+    0.2749692499637604
+  ],
+  [
+    [
+      116,
+      58
+    ],
+    [
+      "Wenn Sie einen WBS haben, dürfen Sie eine solche Wohnung mieten.",
+      "Ihre Wohnungssuche müssen Sie daher in Eigenregie gestalten."
+    ],
+    0.2094946950674057
+  ],
+  [
+    [
+      117,
+      19
+    ],
+    [
+      "Wichtig ist: die Anzahl der Personen in Ihrem Haushalt und Ihre Einkommens-Grenze .",
+      "Einkommensgrenzen"
+    ],
+    0.29686784744262695
+  ],
+  [
+    [
+      118,
+      19
+    ],
+    [
+      "Beides muss zu der Größe von der Wohnung passen.",
+      "Einkommensgrenzen"
+    ],
+    0.18820056319236755
+  ],
+  [
+    [
+      119,
+      77
+    ],
+    [
+      "Was ist, wenn eine Wohnung größer ist als in der Liste?",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.17138607800006866
+  ],
+  [
+    [
+      120,
+      19
+    ],
+    [
+      "Eine Wohnung darf höchstens 5 Quadrat-Meter größer sein als in der Liste.",
+      "Einkommensgrenzen"
+    ],
+    0.1742161214351654
+  ],
+  [
+    [
+      121,
+      19
+    ],
+    [
+      "Wo kann ich eine Wohnung finden?",
+      "Einkommensgrenzen"
+    ],
+    0.14830704033374786
+  ],
+  [
+    [
+      122,
+      43
+    ],
+    [
+      "Wohnungen für Personen mit einem WBS finden Sie zum Beispiel:",
+      "Schwerbehinderung"
+    ],
+    0.21991612017154694
+  ],
+  [
+    [
+      123,
+      56
+    ],
+    [
+      "In der Zeitung",
+      "Eine Vermittlung durch die Stadt Köln erfolgt nicht."
+    ],
+    0.15459106862545013
+  ],
+  [
+    [
+      124,
+      43
+    ],
+    [
+      "Bei Wohnungs-Gesellschaften",
+      "Schwerbehinderung"
+    ],
+    0.3314742147922516
+  ],
+  [
+    [
+      125,
+      81
+    ],
+    [
+      "Sie können auch private Vermieter oder Vermieterinnen danach fragen.",
+      "Gebühren"
+    ],
+    0.2714167535305023
+  ],
+  [
+    [
+      126,
+      81
+    ],
+    [
+      "Muss ich den Antrag persönlich beim Amt abgeben?",
+      "Gebühren"
+    ],
+    0.18241889774799347
+  ],
+  [
+    [
+      127,
+      19
+    ],
+    [
+      "Es ist immer schwierig, Ihr Einkommen genau auszurechnen.",
+      "Einkommensgrenzen"
+    ],
+    0.28494688868522644
+  ],
+  [
+    [
+      128,
+      65
+    ],
+    [
+      "Vorher muss man viele Fragen klären.",
+      "Wie geht es dann weiter?"
+    ],
+    0.20772773027420044
+  ],
+  [
+    [
+      129,
+      65
+    ],
+    [
+      "Ein persönliches Gespräch bei uns ist da immer am besten!",
+      "Wie geht es dann weiter?"
+    ],
+    0.14355991780757904
+  ],
+  [
+    [
+      130,
+      81
+    ],
+    [
+      "Sie können Ihren Antrag aber auch ausfüllen und uns mit der Post schicken.",
+      "Gebühren"
+    ],
+    0.2091616541147232
+  ],
+  [
+    [
+      131,
+      19
+    ],
+    [
+      "Dann bekommen Sie von uns meistens eine Antwort nach ungefähr 2 Wochen.",
+      "Einkommensgrenzen"
+    ],
+    0.14439748227596283
+  ],
+  [
+    [
+      132,
+      65
+    ],
+    [
+      "Wie viel kostet der WBS?",
+      "Wie geht es dann weiter?"
+    ],
+    0.12169358134269714
+  ],
+  [
+    [
+      133,
+      48
+    ],
+    [
+      "Der WBS kostet zwischen 7,50 Euro und 20 Euro .",
+      "Der Freibetrag beträgt 4.000 Euro."
+    ],
+    0.18630263209342957
+  ],
+  [
+    [
+      134,
+      19
+    ],
+    [
+      "Das hängt davon ab, wie viel Sie verdienen.",
+      "Einkommensgrenzen"
+    ],
+    0.15712860226631165
+  ],
+  [
+    [
+      135,
+      65
+    ],
+    [
+      "Wo finde ich die Gesetze zum WBS?",
+      "Wie geht es dann weiter?"
+    ],
+    0.11750701814889908
+  ],
+  [
+    [
+      136,
+      43
+    ],
+    [
+      "Die Infos zum WBS stehen im Gesetz zur Förderung und Nutzung von Wohn-Raum .",
+      "Schwerbehinderung"
+    ],
+    0.2280261218547821
+  ],
+  [
+    [
+      137,
+      77
+    ],
+    [
+      "Die Abkürzung dafür ist:",
+      "Eine Vorsprache ist nicht erforderlich."
+    ],
+    0.18373337388038635
+  ],
+  [
+    [
+      138,
+      86
+    ],
+    [
+      "WFNG NRW.",
+      "WFNG"
+    ],
+    0.5
+  ],
+  [
+    [
+      139,
+      85
+    ],
+    [
+      "Die Infos stehen in Paragraf 13, 14, 15 und 18.",
+      "Rechtliche Voraussetzungen §§ 13, 14, 15, 18 Gesetz zur Förderung und Nutzung von Wohnraum"
+    ],
+    0.13903185725212097
+  ],
+  [
+    [
+      140,
+      43
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Schwerbehinderung"
+    ],
+    0.1623208075761795
+  ],
+  [
+    [
+      141,
+      70
+    ],
+    [
+      "Das Zeichen für Paragraf sieht so aus: §",
+      "\"Es besteht ein besonders dringender Bedarf;"
+    ],
+    0.15815337002277374
+  ],
+  [
+    [
+      142,
+      88
+    ],
+    [
+      "Weitere Infos dazu stehen in Nummer 8 Wohn-Raumnutzungs-Bestimmungen und Nummer 1 bis 10 Einkommens-Ermittlungs-Erlass.",
+      "Wohnraumnutzungsbestimmungen und Nummer 1 bis 10"
+    ],
+    0.10837771743535995
+  ],
+  [
+    [
+      143,
+      43
+    ],
+    [
+      "Weitere Informationen *",
+      "Schwerbehinderung"
+    ],
+    0.3537086844444275
+  ],
+  [
+    [
+      144,
+      43
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Schwerbehinderung"
+    ],
+    0.19186542928218842
+  ]
+]

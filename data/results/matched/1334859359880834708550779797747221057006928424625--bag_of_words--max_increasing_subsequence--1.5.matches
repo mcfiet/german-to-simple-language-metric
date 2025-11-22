@@ -1,0 +1,552 @@
+[
+  [
+    [
+      0,
+      1
+    ],
+    [
+      "Wenn Sie in KÃ¶ln zu einer anderen KÃ¶lner Adresse umziehen , mÃ¼ssen Sie sich bei uns ummelden .",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.7035231590270996
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Bis wann muss ich meinen neuen Wohnsitz ummelden?",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.47804293036460876
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Sie sich ummelden.",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.9365562200546265
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Wo kann ich meinen Wohnsitz ummelden?",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.48308029770851135
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Ihren neuen Wohnsitz in KÃ¶ln melden Sie dort um: im Kunden-Zentrum Innenstadt in einem der anderen Kunden-ZentrenÂ in KÃ¶ln.",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.3152669072151184
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Sie mÃ¼ssen zu einer dieser Stellen kommen.",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.3010891079902649
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Die Adressen von diesen Stellen finden Sie unter den Links bei \"Weitere Infos\" Was brauche ich fÃ¼r das Ummelden von meinem Wohnsitz?",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.6345327496528625
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Sie brauchen dazu: Ihren Personal-Ausweis oder Ihren Reise-Pass oder den Pass von Ihrem Heimat-Land",
+      "Dann müssen Sie sich bei uns ummelden."
+    ],
+    0.43111515045166016
+  ],
+  [
+    [
+      11,
+      3
+    ],
+    [
+      "Oder Ihr Visum.",
+      "Nationalpass mit Aufenthaltsgenehmigung oder Visum"
+    ],
+    0.7028007507324219
+  ],
+  [
+    [
+      17,
+      15
+    ],
+    [
+      "Eine BestÃ¤tigung vom Vermieter oder der Vermieterin.",
+      "Ihre Vermieterin oder Ihr Vermieter ist verpflichtet, ihnen die Bescheinigung innerhalb von zwei Wochen nach Bezug der Wohnung auszustellen."
+    ],
+    0.32612869143486023
+  ],
+  [
+    [
+      18,
+      15
+    ],
+    [
+      "Der Vermieter oder die Vermieterin muss die BestÃ¤tigung ausfÃ¼llen:",
+      "Ihre Vermieterin oder Ihr Vermieter ist verpflichtet, ihnen die Bescheinigung innerhalb von zwei Wochen nach Bezug der Wohnung auszustellen."
+    ],
+    0.3197145462036133
+  ],
+  [
+    [
+      20,
+      20
+    ],
+    [
+      "Dann mÃ¼ssen Sie die BestÃ¤tigung im Amt abgeben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.3034164607524872
+  ],
+  [
+    [
+      21,
+      20
+    ],
+    [
+      "Â Wenn Sie keine Wohnung mieten , sondern in Ihre eigene Wohnung ziehen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6492264866828918
+  ],
+  [
+    [
+      23,
+      20
+    ],
+    [
+      "Dann mÃ¼ssen Sie die BestÃ¤tigung nicht abgeben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.3040221035480499
+  ],
+  [
+    [
+      24,
+      20
+    ],
+    [
+      "Sondern dann mÃ¼ssen Sie diese Papiere abgeben:",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.3262207806110382
+  ],
+  [
+    [
+      28,
+      20
+    ],
+    [
+      "Wenn Sie eine Wohnung kaufen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7479535341262817
+  ],
+  [
+    [
+      29,
+      20
+    ],
+    [
+      "Oder wenn Sie ein Haus kaufen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6879135966300964
+  ],
+  [
+    [
+      30,
+      20
+    ],
+    [
+      "Oder wenn Sie ein Grund-StÃ¼ck kaufen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6982690095901489
+  ],
+  [
+    [
+      31,
+      20
+    ],
+    [
+      "Sie mÃ¼ssenÂ uns dannÂ 1Â Kopie vom Grund-Buch zeigen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5461694002151489
+  ],
+  [
+    [
+      35,
+      20
+    ],
+    [
+      "Sie",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7247718572616577
+  ],
+  [
+    [
+      38,
+      20
+    ],
+    [
+      "Oder schreibt fÃ¼r Sie eine Urkunde.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.49037429690361023
+  ],
+  [
+    [
+      39,
+      20
+    ],
+    [
+      "Zum Beispiel: Wenn Sie ein Haus kaufen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7046740055084229
+  ],
+  [
+    [
+      40,
+      20
+    ],
+    [
+      "Dann machen Sie einen Notar-Vertrag.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7011730670928955
+  ],
+  [
+    [
+      42,
+      20
+    ],
+    [
+      "Wenn Sie ein Auto oder Motor-Rad haben, mÃ¼ssen Sie uns auch zeigen: seine Zulassungs-Bescheinigung .",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5279856324195862
+  ],
+  [
+    [
+      51,
+      20
+    ],
+    [
+      "Sie fÃ¼llen das Anmelde-Formular aus.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6630757451057434
+  ],
+  [
+    [
+      52,
+      20
+    ],
+    [
+      "Das kÃ¶nnen Sie im Internet tun.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5750014185905457
+  ],
+  [
+    [
+      54,
+      20
+    ],
+    [
+      "Wenn Sie beim AusfÃ¼llen Hilfe brauchen, fragen Sie uns danach.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.70147305727005
+  ],
+  [
+    [
+      55,
+      20
+    ],
+    [
+      "Drucken Sie bitte das Anmelde-Formular und das Beiblatt nach dem AusfÃ¼llen aus.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5133764147758484
+  ],
+  [
+    [
+      56,
+      20
+    ],
+    [
+      "Beide Formulare mÃ¼ssen Sie unterschreiben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.3293565511703491
+  ],
+  [
+    [
+      57,
+      20
+    ],
+    [
+      "Mit diesen Formularen und den anderen Unterlagen kommen Sie zu uns.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5915302038192749
+  ],
+  [
+    [
+      59,
+      20
+    ],
+    [
+      "Dann kann jemand anderes fÃ¼r Sie zu uns kommen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.44113317131996155
+  ],
+  [
+    [
+      60,
+      20
+    ],
+    [
+      "Diesem Menschen mÃ¼ssen Sie vertrauen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.33044108748435974
+  ],
+  [
+    [
+      61,
+      20
+    ],
+    [
+      "Sie mÃ¼ssen diesem Menschen schriftlich erlauben, fÃ¼r Sie zum Anmelden von Ihrem Wohnsitz zu uns zu kommen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.42990851402282715
+  ],
+  [
+    [
+      64,
+      20
+    ],
+    [
+      "Auf dem Papier erlauben Sie einem Menschen, etwas fÃ¼r Sie zu tun.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6081377267837524
+  ],
+  [
+    [
+      65,
+      20
+    ],
+    [
+      "Den Namen von diesem Menschen schreiben Sie auf das Papier.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.585856556892395
+  ],
+  [
+    [
+      66,
+      20
+    ],
+    [
+      "Sie mÃ¼ssen das Papier unterschreiben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.3207821846008301
+  ],
+  [
+    [
+      67,
+      20
+    ],
+    [
+      "Zum Beispiel kÃ¶nnen Sie Ihrem besten Freund eine Vollmacht schreiben:",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5595847964286804
+  ],
+  [
+    [
+      69,
+      20
+    ],
+    [
+      "Sie kÃ¶nnen das nÃ¤mlich nicht selber tun, weil Sie zum Beispiel krank im Bett liegen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6668775081634521
+  ],
+  [
+    [
+      73,
+      20
+    ],
+    [
+      "Dazu mÃ¼ssen Sie nichts weiter tun.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.32969510555267334
+  ],
+  [
+    [
+      77,
+      20
+    ],
+    [
+      "Es passiert nichts damit, was Sie nicht wollen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6891652345657349
+  ],
+  [
+    [
+      78,
+      20
+    ],
+    [
+      "Sie kÃ¶nnen dem Weitergeben von Ihren Daten an andere Stellen widersprechen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.48114851117134094
+  ],
+  [
+    [
+      81,
+      20
+    ],
+    [
+      "Sie beim Ummelden von Ihrem Wohnsitz in KÃ¶ln",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.3222501873970032
+  ],
+  [
+    [
+      83,
+      20
+    ],
+    [
+      "Sie kÃ¶nnen aber auch spÃ¤ter noch dem Weitergeben von Ihren Daten widersprechen.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.48515310883522034
+  ],
+  [
+    [
+      84,
+      20
+    ],
+    [
+      "An bestimmte Stellen dÃ¼rfen wir Ihre Daten nur dann weitergeben, wenn Sie dem zugestimmt haben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6112198829650879
+  ],
+  [
+    [
+      85,
+      20
+    ],
+    [
+      "Zum Beispiel: Sie kommen nur dann ins Telefon-Buch, wenn Sie dem zugestimmt haben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7358309030532837
+  ],
+  [
+    [
+      86,
+      20
+    ],
+    [
+      "Wenn nicht, darf man Sie nicht ins Telefon-Buch schreiben.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.7180082201957703
+  ],
+  [
+    [
+      90,
+      20
+    ],
+    [
+      "Bezahlen mÃ¼ssen Sie nur, wenn Sie ein Auto oder Motor-Rad haben .",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.5424644947052002
+  ],
+  [
+    [
+      99,
+      20
+    ],
+    [
+      "Dazu mÃ¼ssen Sie jetzt immer 1",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.32983797788619995
+  ],
+  [
+    [
+      101,
+      20
+    ],
+    [
+      "DafÃ¼r haben Sie jetzt 2 Wochen Zeit.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.6746391654014587
+  ],
+  [
+    [
+      102,
+      20
+    ],
+    [
+      "FrÃ¼her hatten Sie nur 1 Woche Zeit.",
+      "Es reicht aus, wenn Sie eine Kopie vorlegen."
+    ],
+    0.685733437538147
+  ]
+]

@@ -1,0 +1,827 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Tilidin ist ein Medikament gegen sehr starke Schmerzen.",
+      "Mit Tilidin werden starke und sehr starke Schmerzen behandelt."
+    ],
+    0.9537339210510254
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Tilidin hilft zum Beispiel: nach Operationen bei Krebserkrankungen",
+      "Mit Tilidin werden starke und sehr starke Schmerzen behandelt."
+    ],
+    0.7239229679107666
+  ],
+  [
+    [
+      2,
+      2
+    ],
+    [
+      "Sie möchten Tilidin nehmen?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.8096767663955688
+  ],
+  [
+    [
+      3,
+      12
+    ],
+    [
+      "Dann brauchen Sie ein Rezept.",
+      "Man kann Tilidin mit oder ohne Essen einnehmen."
+    ],
+    0.5064009428024292
+  ],
+  [
+    [
+      4,
+      14
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.6563419699668884
+  ],
+  [
+    [
+      5,
+      23
+    ],
+    [
+      "Der Arzt untersucht Sie und verschreibt das richtige Medikament.",
+      "Patienten, die Gerinnungshemmer wie Phenprocoumon nehmen, sollten ihre Gerinnung engmaschig prüfen lassen und gegebenenfalls die Dosis des Gerinnungshemmers gemäß der ärztlichen Empfehlung anpassen."
+    ],
+    0.7186331748962402
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Hinweis: Tilidin verringert nur die Schmerzen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9065139293670654
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Tilidin bekämpft aber nicht die Ursache der Schmerzen.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.9055430293083191
+  ],
+  [
+    [
+      8,
+      26
+    ],
+    [
+      "Sprechen Sie vor der Einnahme von Tilidin mit Ihrem Arzt oder Apotheker.",
+      "Besprechen Sie daher genau mit dem Arzt oder der Ärztin, welche Medikamente sie noch einnehmen und ob diese mit Tilidin wechselwirken können."
+    ],
+    0.8723247051239014
+  ],
+  [
+    [
+      9,
+      23
+    ],
+    [
+      "Und lesen Sie den Beipackzettel des Medikaments.",
+      "Patienten, die Gerinnungshemmer wie Phenprocoumon nehmen, sollten ihre Gerinnung engmaschig prüfen lassen und gegebenenfalls die Dosis des Gerinnungshemmers gemäß der ärztlichen Empfehlung anpassen."
+    ],
+    0.6170332431793213
+  ],
+  [
+    [
+      10,
+      2
+    ],
+    [
+      "Der Wirkstoff Tilidin gehört zu der Gruppe der Opioide.",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.7675730586051941
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Opioide aktivieren bestimmte Rezeptoren im Körper.",
+      "Das sind Mittel, die ähnlich wie Morphin wirken."
+    ],
+    0.7456792593002319
+  ],
+  [
+    [
+      12,
+      5
+    ],
+    [
+      "Rezeptoren sind Bindungsstellen auf bestimmten Zellen.",
+      "Das sind Mittel, die ähnlich wie Morphin wirken."
+    ],
+    0.3997154235839844
+  ],
+  [
+    [
+      13,
+      18
+    ],
+    [
+      "Die Rezeptoren sind aktiv?",
+      "Der Arzneistoff kann Aufmerksamkeit und Reaktionsvermögen einschränken."
+    ],
+    0.5295984745025635
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Dann werden die Schmerzen nicht mehr an das Gehirn weitergeleitet.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.6145542860031128
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Deshalb nimmt eine betroffene Person den Schmerz dann nicht mehr so stark wahr.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.6214163303375244
+  ],
+  [
+    [
+      16,
+      0
+    ],
+    [
+      "Tilidin hilft aber nicht nur gegen Schmerzen.",
+      "Mit Tilidin werden starke und sehr starke Schmerzen behandelt."
+    ],
+    0.9285061955451965
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Tilidin beeinflusst auch die Stimmung und die Psyche der Patienten.",
+      "Tilidin hemmt die Schmerzwahrnehmung."
+    ],
+    0.7976836562156677
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Die Patienten fühlen sich dann sehr gut.",
+      "Sie haben einen Einfluss auf die Stimmungslage und Psyche der Patienten."
+    ],
+    0.5152280330657959
+  ],
+  [
+    [
+      19,
+      8
+    ],
+    [
+      "Deshalb nehmen manche Menschen Tilidin wie eine Droge.",
+      "Deshalb besteht die Gefahr, dass Tilidin missbräuchlich angewendet wird."
+    ],
+    0.8521386384963989
+  ],
+  [
+    [
+      20,
+      22
+    ],
+    [
+      "Das kann gefährlich sein.",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.6154932975769043
+  ],
+  [
+    [
+      21,
+      8
+    ],
+    [
+      "Tilidin kann nämlich abhängig machen.",
+      "Deshalb besteht die Gefahr, dass Tilidin missbräuchlich angewendet wird."
+    ],
+    0.8911063075065613
+  ],
+  [
+    [
+      22,
+      8
+    ],
+    [
+      "Tilidin kann abhängig machen.",
+      "Deshalb besteht die Gefahr, dass Tilidin missbräuchlich angewendet wird."
+    ],
+    0.8731561303138733
+  ],
+  [
+    [
+      23,
+      11
+    ],
+    [
+      "Halten Sie sich deshalb unbedingt an das, was Ihr Arzt sagt.",
+      "Wer Tilidin einnehmen muss, sollte sich streng an die Empfehlung des Arztes halten."
+    ],
+    0.6980220079421997
+  ],
+  [
+    [
+      24,
+      33
+    ],
+    [
+      "Und achten Sie auf mögliche Nebenwirkungen.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.722822904586792
+  ],
+  [
+    [
+      25,
+      2
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.8312514424324036
+  ],
+  [
+    [
+      26,
+      13
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht Autofahren.",
+      "Autofahren sollte vor allem zu Beginn der Therapie oder bei Dosiserhöhung vermieden werden."
+    ],
+    0.6128851175308228
+  ],
+  [
+    [
+      27,
+      14
+    ],
+    [
+      "Sprechen Sie mit Ihrem Arzt.",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.6563420295715332
+  ],
+  [
+    [
+      28,
+      26
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle Informationen.",
+      "Besprechen Sie daher genau mit dem Arzt oder der Ärztin, welche Medikamente sie noch einnehmen und ob diese mit Tilidin wechselwirken können."
+    ],
+    0.5573650598526001
+  ],
+  [
+    [
+      29,
+      8
+    ],
+    [
+      "Tilidin kann unterschiedliche Nebenwirkungen haben.",
+      "Deshalb besteht die Gefahr, dass Tilidin missbräuchlich angewendet wird."
+    ],
+    0.8780199289321899
+  ],
+  [
+    [
+      30,
+      23
+    ],
+    [
+      "Alle bekannten Nebenwirkungen finden Sie auf dem Beipackzettel des Medikaments.",
+      "Patienten, die Gerinnungshemmer wie Phenprocoumon nehmen, sollten ihre Gerinnung engmaschig prüfen lassen und gegebenenfalls die Dosis des Gerinnungshemmers gemäß der ärztlichen Empfehlung anpassen."
+    ],
+    0.5590468645095825
+  ],
+  [
+    [
+      31,
+      15
+    ],
+    [
+      "In diesem Text werden nur die häufigsten Nebenwirkungen aufgezählt.",
+      "Zu den häufigsten Nebenwirkungen von Tilidin gehören Schwindel , Benommenheit, Kopfschmerzen und Müdigkeit ."
+    ],
+    0.6199442148208618
+  ],
+  [
+    [
+      32,
+      10
+    ],
+    [
+      "Der Text ist also nicht vollständig.",
+      "Dieser ist ein Gegenspieler zu Tilidin und hebt dessen Wirkung bei falscher Anwendung auf."
+    ],
+    0.24526828527450562
+  ],
+  [
+    [
+      33,
+      14
+    ],
+    [
+      "Und der Text ersetzt nicht den Beipackzettel oder den Besuch beim Arzt.",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.44398123025894165
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "Die häufigsten Nebenwirkungen von Tilidin sind: Schwindel Müdigkeit Schwitzen",
+      "Zu den häufigsten Nebenwirkungen von Tilidin gehören Schwindel , Benommenheit, Kopfschmerzen und Müdigkeit ."
+    ],
+    0.9375579953193665
+  ],
+  [
+    [
+      35,
+      15
+    ],
+    [
+      "Benommenheit Kopfschmerzen",
+      "Zu den häufigsten Nebenwirkungen von Tilidin gehören Schwindel , Benommenheit, Kopfschmerzen und Müdigkeit ."
+    ],
+    0.6574323773384094
+  ],
+  [
+    [
+      36,
+      16
+    ],
+    [
+      "Außerdem kommt es oft zu Beschwerden im Magen-Darm-Trakt.",
+      "Im Magen-Darm-Trakt kann es zu Übelkeit , Bauchschmerzen und Durchfall , aber auch Verstopfung kommen."
+    ],
+    0.9223484992980957
+  ],
+  [
+    [
+      37,
+      22
+    ],
+    [
+      "Dazu gehören zum Beispiel: Übelkeit Durchfall",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.6607264876365662
+  ],
+  [
+    [
+      38,
+      22
+    ],
+    [
+      "Verstopfung",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.45002514123916626
+  ],
+  [
+    [
+      39,
+      10
+    ],
+    [
+      "Achtung: Die Einnahme von Tilidin kann auch die Aufmerksamkeit und Reaktion einschränken.",
+      "Dieser ist ein Gegenspieler zu Tilidin und hebt dessen Wirkung bei falscher Anwendung auf."
+    ],
+    0.7972726225852966
+  ],
+  [
+    [
+      40,
+      22
+    ],
+    [
+      "Die Einnahme von mehreren Wirkstoffen gleichzeitig kann Folgen haben.",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.6242673993110657
+  ],
+  [
+    [
+      41,
+      10
+    ],
+    [
+      "Dazu sagt man auch: Wechselwirkungen.",
+      "Dieser ist ein Gegenspieler zu Tilidin und hebt dessen Wirkung bei falscher Anwendung auf."
+    ],
+    0.5237560272216797
+  ],
+  [
+    [
+      42,
+      2
+    ],
+    [
+      "Sie nehmen neben Tilidin noch andere Medikamente ein?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.8794159293174744
+  ],
+  [
+    [
+      43,
+      26
+    ],
+    [
+      "Dann fragen Sie Ihren Arzt nach möglichen Wechselwirkungen.",
+      "Besprechen Sie daher genau mit dem Arzt oder der Ärztin, welche Medikamente sie noch einnehmen und ob diese mit Tilidin wechselwirken können."
+    ],
+    0.7037738561630249
+  ],
+  [
+    [
+      44,
+      22
+    ],
+    [
+      "Wechselwirkungen können nämlich gefährlich sein.",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.6607457995414734
+  ],
+  [
+    [
+      45,
+      2
+    ],
+    [
+      "Manche Medikamente können die Wirkung von Tilidin verstärken .",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.8518013954162598
+  ],
+  [
+    [
+      46,
+      19
+    ],
+    [
+      "Zu diesen Medikamenten gehören zum Beispiel: Schlafmittel Antidepressiva.",
+      "Alle Medikamente, die als Haupt- oder Nebenwirkung müde machen, etwa Schlafmittel oder auch Antidepressiva, können die entsprechenden Nebenwirkungen von Tilidin deutlich verstärken."
+    ],
+    0.7385104894638062
+  ],
+  [
+    [
+      47,
+      25
+    ],
+    [
+      "Das sind Medikamente gegen Depressionen.",
+      "Auch mit anderen Arzneimitteln, die den Serotonin-Haushalt beeinflussen, wie etwa bestimmte Antidepressiva, kann es schwerwiegende Wechselwirkungen geben."
+    ],
+    0.7110327482223511
+  ],
+  [
+    [
+      48,
+      2
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.831251323223114
+  ],
+  [
+    [
+      49,
+      13
+    ],
+    [
+      "Dann dürfen Sie keine Schlafmittel nehmen.",
+      "Autofahren sollte vor allem zu Beginn der Therapie oder bei Dosiserhöhung vermieden werden."
+    ],
+    0.552779495716095
+  ],
+  [
+    [
+      50,
+      28
+    ],
+    [
+      "Und Sie dürfen keine Medikamente gegen Depressionen nehmen.",
+      "Tilidin sollte von Patienten mit Abhängigkeitserkrankungen nicht eingenommen werden."
+    ],
+    0.6314939260482788
+  ],
+  [
+    [
+      51,
+      2
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.831251323223114
+  ],
+  [
+    [
+      52,
+      14
+    ],
+    [
+      "Und Sie nehmen Gerinnungshemmer?",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.46088409423828125
+  ],
+  [
+    [
+      53,
+      22
+    ],
+    [
+      "Gerinnungshemmer verdünnen das Blut.",
+      "Die gleichzeitige Einnahme solcher Mittel kann zu lebensbedrohlichen Situationen durch Atemstillstand führen."
+    ],
+    0.46867620944976807
+  ],
+  [
+    [
+      54,
+      14
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt.",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.6761941909790039
+  ],
+  [
+    [
+      55,
+      23
+    ],
+    [
+      "Ihr Arzt überprüft regelmäßig ihr Blut.",
+      "Patienten, die Gerinnungshemmer wie Phenprocoumon nehmen, sollten ihre Gerinnung engmaschig prüfen lassen und gegebenenfalls die Dosis des Gerinnungshemmers gemäß der ärztlichen Empfehlung anpassen."
+    ],
+    0.6050564050674438
+  ],
+  [
+    [
+      56,
+      2
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.8312512636184692
+  ],
+  [
+    [
+      57,
+      6
+    ],
+    [
+      "Und Sie möchten auch ein anderes Schmerzmittel nehmen?",
+      "Diese starken Mittel haben neben der Schmerzlinderung weitere Effekte auf den Körper."
+    ],
+    0.7043510675430298
+  ],
+  [
+    [
+      58,
+      14
+    ],
+    [
+      "Dann sprechen Sie zuerst mit Ihrem Arzt.",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.6636029481887817
+  ],
+  [
+    [
+      59,
+      14
+    ],
+    [
+      "Ihr Arzt sagt Ihnen: Dieses Schmerzmittel dürfen Sie nehmen.",
+      "Sprechen Sie daher mit Ihrem Arzt oder Ihrer Ärztin, ob und wann Sie Autofahren können, wenn Sie Tilidin einnehmen."
+    ],
+    0.6579015254974365
+  ],
+  [
+    [
+      60,
+      8
+    ],
+    [
+      "Achtung: Alkohol kann die Wechselwirkung von Tilidin verstärken.",
+      "Deshalb besteht die Gefahr, dass Tilidin missbräuchlich angewendet wird."
+    ],
+    0.7716038227081299
+  ],
+  [
+    [
+      61,
+      2
+    ],
+    [
+      "Sie nehmen Tilidin?",
+      "Tilidin gibt es in Tablettenform und als Tropfen oder Lösung zum Einnehmen."
+    ],
+    0.8312512636184692
+  ],
+  [
+    [
+      62,
+      21
+    ],
+    [
+      "Dann sollten Sie keinen Alkohol trinken.",
+      "Aus dem gleichen Grund sollte auch die gemeinsame Einnahme von Alkohol und Tilidin vermieden werden."
+    ],
+    0.6810277104377747
+  ],
+  [
+    [
+      63,
+      27
+    ],
+    [
+      "Nehmen Sie in den folgenden Fällen kein Tilidin ein: bei einer allergischen Reaktion bei anderen Suchtkrankheiten.",
+      "Wer allergisch auf Tilidin reagiert, darf den Wirkstoff nicht anwenden."
+    ],
+    0.9129670262336731
+  ],
+  [
+    [
+      64,
+      18
+    ],
+    [
+      "Andere Suchtkrankheiten sind zum Beispiel Alkoholsucht oder Medikamentensucht.",
+      "Der Arzneistoff kann Aufmerksamkeit und Reaktionsvermögen einschränken."
+    ],
+    0.6244156956672668
+  ],
+  [
+    [
+      65,
+      29
+    ],
+    [
+      "Bei einer Leber-Erkrankung",
+      "Auch bestimmte Leber- und Stoffwechselerkrankungen können gegen die Einnahme von Tilidin sprechen."
+    ],
+    0.6386712193489075
+  ],
+  [
+    [
+      66,
+      32
+    ],
+    [
+      "Bei einer Stoffwechsel-Erkrankung während der Schwangerschaft während der Stillzeit Sprechen Sie vor der Einnahme von Tilidin mit Ihrem Arzt.",
+      "Während der Stillzeit sollte Tilidin nicht eingenommen werden, da nachgewiesen wurde, dass es in die Muttermilch übergeht."
+    ],
+    0.7301515936851501
+  ],
+  [
+    [
+      67,
+      33
+    ],
+    [
+      "Ihr Arzt gibt Ihnen alle wichtigen Informationen.",
+      "Ist eine Einnahme unvermeidlich, sollten Nutzen und Risiken äußerst sorgfältig mit dem Arzt abgewogen werden."
+    ],
+    0.5755528211593628
+  ],
+  [
+    [
+      68,
+      29
+    ],
+    [
+      "Hinweis: Ihre Leber funktioniert nur eingeschränkt?",
+      "Auch bestimmte Leber- und Stoffwechselerkrankungen können gegen die Einnahme von Tilidin sprechen."
+    ],
+    0.6185168027877808
+  ],
+  [
+    [
+      69,
+      10
+    ],
+    [
+      "Dann kann der Körper das Tilidin vielleicht nicht richtig verarbeiten.",
+      "Dieser ist ein Gegenspieler zu Tilidin und hebt dessen Wirkung bei falscher Anwendung auf."
+    ],
+    0.8162684440612793
+  ],
+  [
+    [
+      70,
+      18
+    ],
+    [
+      "Dann treten diese Wirkungen vielleicht nicht auf.",
+      "Der Arzneistoff kann Aufmerksamkeit und Reaktionsvermögen einschränken."
+    ],
+    0.5238286256790161
+  ],
+  [
+    [
+      71,
+      10
+    ],
+    [
+      "Sie möchten noch mehr über Tilidin lesen?",
+      "Dieser ist ein Gegenspieler zu Tilidin und hebt dessen Wirkung bei falscher Anwendung auf."
+    ],
+    0.710458517074585
+  ],
+  [
+    [
+      72,
+      10
+    ],
+    [
+      "Mehr Informationen über Tilidin finden Sie hier .",
+      "Dieser ist ein Gegenspieler zu Tilidin und hebt dessen Wirkung bei falscher Anwendung auf."
+    ],
+    0.7662689685821533
+  ],
+  [
+    [
+      73,
+      9
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "In Deutschland gibt es Tilidin deshalb nur noch in Kombination mit dem Wirkstoff Naloxon."
+    ],
+    0.24818623065948486
+  ],
+  [
+    [
+      74,
+      18
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Der Arzneistoff kann Aufmerksamkeit und Reaktionsvermögen einschränken."
+    ],
+    0.2877596914768219
+  ]
+]

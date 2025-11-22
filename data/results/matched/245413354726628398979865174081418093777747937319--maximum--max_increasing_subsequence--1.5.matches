@@ -1,0 +1,255 @@
+[
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Das Blut fließt durch die Blutgefäße durch den ganzen Körper.",
+      "Kleinere Blutverluste ersetzt ein gesunder Körper durch die vermehrte Neubildung von Blut ."
+    ],
+    0.6144458055496216
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Ein Patient braucht eine Blut-Transfusion?",
+      "Auch ein länger andauernder (chronischer) Blutverlust kann eine Bluttransfusion nötig machen."
+    ],
+    0.6934546232223511
+  ],
+  [
+    [
+      18,
+      9
+    ],
+    [
+      "Der Patient ist mit einer Blut-Transfusion einverstanden?",
+      "Vor einer Bluttransfusion muss eine Aufklärung erfolgen."
+    ],
+    0.5585798025131226
+  ],
+  [
+    [
+      19,
+      9
+    ],
+    [
+      "Dann muss er eine Einverständniserklärung unterschreiben.",
+      "Vor einer Bluttransfusion muss eine Aufklärung erfolgen."
+    ],
+    0.6208776831626892
+  ],
+  [
+    [
+      20,
+      9
+    ],
+    [
+      "Bei einem Notfall darf der Arzt aber immer eine Blut-Transfusion durchführen.",
+      "Vor einer Bluttransfusion muss eine Aufklärung erfolgen."
+    ],
+    0.6746536493301392
+  ],
+  [
+    [
+      22,
+      24
+    ],
+    [
+      "Das heißt: Der Arzt führt einen kleinen Plastikschlauch in die Vene wird ein.",
+      "Die Bluttransfusion erfolgt wie eine normale Infusion – das Blut tropft aus einem Beutel in die Vene."
+    ],
+    0.5636919736862183
+  ],
+  [
+    [
+      23,
+      26
+    ],
+    [
+      "Über diesen Schlauch bekommt der Patient später das Blut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.5510455369949341
+  ],
+  [
+    [
+      25,
+      26
+    ],
+    [
+      "Verträgt der Patient die Blutkonserve?",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6263918280601501
+  ],
+  [
+    [
+      30,
+      26
+    ],
+    [
+      "Bei einer Blut-Transfusion bekommt ein Patient Blut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.5476783514022827
+  ],
+  [
+    [
+      31,
+      26
+    ],
+    [
+      "Das Blut nennt man auch: Blutkonserve.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6035926342010498
+  ],
+  [
+    [
+      35,
+      26
+    ],
+    [
+      "Meistens braucht der Patient nämlich kein Vollblut.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6975696086883545
+  ],
+  [
+    [
+      37,
+      26
+    ],
+    [
+      "Oder der Patient bekommt nur Blutplasma.",
+      "In der Regel enthält die Blutkonserve kein Vollblut, also nicht das komplette Blut, sondern nur die Anteile, die benötigt werden."
+    ],
+    0.6069475412368774
+  ],
+  [
+    [
+      38,
+      34
+    ],
+    [
+      "Das Blut kommt von Blut-Spendern?",
+      "Bei der Fremdblutspende stammt das Blut von jemand Fremden, bei der Eigenblutspende wird es den Behandelten selbst im Vorfeld entnommen."
+    ],
+    0.5520803928375244
+  ],
+  [
+    [
+      44,
+      38
+    ],
+    [
+      "Eigenblut muss man mindestens drei bis sechs Wochen vor einer Operation geben.",
+      "Drei bis sechs Wochen vor der Operation muss das Blut abgenommen werden."
+    ],
+    0.7639231085777283
+  ],
+  [
+    [
+      56,
+      42
+    ],
+    [
+      "Eine Blut-Transfusion hat immer auch Risiken.",
+      "Die Notwendigkeit einer Transfusion muss daher immer sorgfältig gegen die vorhandenen Risiken abgewogen werden."
+    ],
+    0.6593195796012878
+  ],
+  [
+    [
+      57,
+      44
+    ],
+    [
+      "Risiken einer Blut-Transfusion sind zum Beispiel: ein Bluterguss oder eine Entzündung an der Einstichstelle kleine Klumpen im Blut",
+      "Dazu können Blutergüsse oder Infektionen an der Einstichstelle gehören."
+    ],
+    0.6671218276023865
+  ],
+  [
+    [
+      58,
+      47
+    ],
+    [
+      "Fieber",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.6896183490753174
+  ],
+  [
+    [
+      59,
+      47
+    ],
+    [
+      "Schüttelfrost",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.8844114542007446
+  ],
+  [
+    [
+      60,
+      47
+    ],
+    [
+      "Unwohlsein",
+      "Unwohlsein Schüttelfrost"
+    ],
+    0.8844114542007446
+  ],
+  [
+    [
+      61,
+      49
+    ],
+    [
+      "Manchmal bekommt der Patient Blut mit einer falschen Blutgruppe.",
+      "Beispielsweise erhält ein Mensch mit der Blutgruppe A Blut mit der Blutgruppe B."
+    ],
+    0.7157351970672607
+  ],
+  [
+    [
+      67,
+      54
+    ],
+    [
+      "Die Viren können Krankheiten auslösen.",
+      "Dazu zählen beispielsweise Hepatitis -Viren, die eine Leberentzündung verursachen können und HI-Viren, die zu AIDS führen können."
+    ],
+    0.6578521132469177
+  ],
+  [
+    [
+      68,
+      54
+    ],
+    [
+      "HI-Viren können zu AIDS führen.",
+      "Dazu zählen beispielsweise Hepatitis -Viren, die eine Leberentzündung verursachen können und HI-Viren, die zu AIDS führen können."
+    ],
+    0.7961668968200684
+  ],
+  [
+    [
+      71,
+      57
+    ],
+    [
+      "Eine Blut-Transfusion kann zu allergischen Reaktionen führen.",
+      "Allergische Reaktionen auf eine Bluttransfusion können von einem juckenden Hautausschlag bis hin zu einem allergischen Schock mit Kreislauf- und Atemversagen reichen."
+    ],
+    0.7044636607170105
+  ]
+]

@@ -1,0 +1,321 @@
+[
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sie glauben:",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5214599370956421
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Dann rufen Sie sofort den Notruf.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.4844622015953064
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Sie können die Nummer auch mit einem gesperrten Handy anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.4460204839706421
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Dann nehmen Sie möglichst das Gift mit.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5136377811431885
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Sie haben den Notruf angerufen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.45541003346443176
+  ],
+  [
+    [
+      18,
+      3
+    ],
+    [
+      "Und Sie warten auf den Rettungswagen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.4504261016845703
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Der Giftnotruf sagt Ihnen: Das müssen Sie bei einer Vergiftung tun.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.4947388768196106
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Sie können den Giftnotruf jederzeit anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.48739421367645264
+  ],
+  [
+    [
+      32,
+      3
+    ],
+    [
+      "Sie können das Alter auch schätzen",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5276726484298706
+  ],
+  [
+    [
+      34,
+      3
+    ],
+    [
+      "Sie können das Gewicht auch schätzen",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.5376886129379272
+  ],
+  [
+    [
+      35,
+      9
+    ],
+    [
+      "Wann hat die betroffene Person das Gift eingenommen?",
+      "Wann wurde das Gift vermutlich eingenommen?"
+    ],
+    0.6890601515769958
+  ],
+  [
+    [
+      36,
+      10
+    ],
+    [
+      "Was genau hat die betroffene Person eingenommen?",
+      "Was wurde eingenommen?"
+    ],
+    0.5599735379219055
+  ],
+  [
+    [
+      37,
+      11
+    ],
+    [
+      "Der Giftnotruf fragt zum Beispiel nach dem Namen und dem Hersteller des Mittels.",
+      "Gefragt wird zum Beispiel nach der Bezeichnung des Mittels, Hersteller, Dosis, Name der Pflanze."
+    ],
+    0.5943997502326965
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Dann fragt der Giftnotruf auch nach der Dosis des Medikaments.",
+      "Gefragt wird zum Beispiel nach der Bezeichnung des Mittels, Hersteller, Dosis, Name der Pflanze."
+    ],
+    0.5443232655525208
+  ],
+  [
+    [
+      40,
+      11
+    ],
+    [
+      "Die Dosis steht auf der Verpackung",
+      "Gefragt wird zum Beispiel nach der Bezeichnung des Mittels, Hersteller, Dosis, Name der Pflanze."
+    ],
+    0.4512545168399811
+  ],
+  [
+    [
+      41,
+      12
+    ],
+    [
+      "Wie viel hat die betroffene Person eingenommen?",
+      "Wie viel wurde eingenommen?"
+    ],
+    0.6521280407905579
+  ],
+  [
+    [
+      42,
+      14
+    ],
+    [
+      "Muss die betroffene Person husten oder brechen?",
+      "(Muss er beispielsweise husten oder erbrechen, ist er benommen?)"
+    ],
+    0.5431055426597595
+  ],
+  [
+    [
+      51,
+      17
+    ],
+    [
+      "Aber die betroffene Person atmet noch?",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.4784976840019226
+  ],
+  [
+    [
+      52,
+      17
+    ],
+    [
+      "Dann bringen Sie die Person in die stabile Seitenlage.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.655252993106842
+  ],
+  [
+    [
+      53,
+      17
+    ],
+    [
+      "Mehr Informationen über die stabile Seitenlage finden Sie hier .",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.5369971990585327
+  ],
+  [
+    [
+      54,
+      17
+    ],
+    [
+      "Überprüfen Sie immer wieder die Atmung der betroffenen Person.",
+      "Ist der Patient bewusstlos, atmet aber noch, bringen Sie ihn in die stabile Seitenlage und kontrollieren Sie die Atmung."
+    ],
+    0.6091412305831909
+  ],
+  [
+    [
+      56,
+      18
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "Sollte die Atmung aussetzen, müssen Sie bis zum Eintreffen des Rettungsdienstes mit der Herz-Lungen-Wiederbelebung beginnen."
+    ],
+    0.5086581707000732
+  ],
+  [
+    [
+      57,
+      19
+    ],
+    [
+      "Achtung: Diese Dinge müssen Sie vermeiden : Bringen Sie die betroffene Person nicht zum Erbrechen.",
+      "Auf keinen Fall sollten Sie den Patienten eigenmächtig zum Erbrechen bringen."
+    ],
+    0.5748475790023804
+  ],
+  [
+    [
+      58,
+      20
+    ],
+    [
+      "Durch Erbrechen kann das Gift die Speiseröhre verletzen.",
+      "Wenn er eine ätzende Substanz eingenommen hat, kann die Speiseröhre geschädigt werden."
+    ],
+    0.5131548643112183
+  ],
+  [
+    [
+      59,
+      21
+    ],
+    [
+      "Und Erbrochenes kann in die Luftröhre der Person gelangen.",
+      "Außerdem könnte Erbrochenes in Luftröhre und Lunge geraten."
+    ],
+    0.5952479243278503
+  ],
+  [
+    [
+      64,
+      22
+    ],
+    [
+      "Sie erst den Giftnotruf Geben Sie der betroffenen Person keine Milch zu trinken.",
+      "Auch Kohlepräparate sollten Sie nur nach Rücksprache mit dem Arzt oder dem Giftnotruf geben."
+    ],
+    0.4999873638153076
+  ],
+  [
+    [
+      66,
+      23
+    ],
+    [
+      "Sie können Kinder vor einer Vergiftung schützen.",
+      "Eventuell ist bei einer Vergiftung eine endoskopische Untersuchung erforderlich."
+    ],
+    0.48012104630470276
+  ],
+  [
+    [
+      67,
+      31
+    ],
+    [
+      "Beachten Sie dafür diese Tipps:",
+      "Dazu gehören folgende Tipps:"
+    ],
+    0.5058947801589966
+  ],
+  [
+    [
+      68,
+      32
+    ],
+    [
+      "Lagern Sie gefährliche Mittel nie in Reichweite von Kindern Lagern Sie Medikamente immer in einem verschlossenen Behälter Lagern Sie giftige Mittel nie neben Lebensmitteln Füllen Sie giftige Mittel nicht in andere Verpackungen.",
+      "Gefährliche Substanzen nie in Reichweite von Kindern aufbewahren Arzneimittel immer in verschlossener Hausapotheke lagern"
+    ],
+    0.684252917766571
+  ]
+]

@@ -1,0 +1,442 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Blutvergiftung ist eine lebensbedrohliche Reaktion des Körpers.",
+      "Vor allem zu Beginn ist eine Blutvergiftung nicht leicht zu erkennen."
+    ],
+    0.6940020322799683
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Blutvergiftung ist nicht leicht zu erkennen.",
+      "Vor allem zu Beginn ist eine Blutvergiftung nicht leicht zu erkennen."
+    ],
+    0.9412723779678345
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Die Anzeichen können nämlich auch auf andere Erkrankungen hindeuten.",
+      "Die Anzeichen sind vieldeutig und können auch durch andere Krankheiten verursacht sein."
+    ],
+    0.9491082429885864
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Anzeichen einer Blutvergiftung sind zum Beispiel:",
+      "Die Anzeichen sind vieldeutig und können auch durch andere Krankheiten verursacht sein."
+    ],
+    0.6982392072677612
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Müdigkeit schnelle und flache Atmung niedriger Blutdruck",
+      "Beschleunigte Atmung : Die Atmung ist schnell und flach, 22 Atemzüge pro Minute oder mehr Niedriger Blutdruck :"
+    ],
+    0.8399151563644409
+  ],
+  [
+    [
+      8,
+      5
+    ],
+    [
+      "schneller Puls hohes Fieber oder sehr niedrige Körpertemperatur",
+      "Häufig ist der Puls beschleunigt Fieber oder erniedrigte Temperatur :"
+    ],
+    0.9183588027954102
+  ],
+  [
+    [
+      11,
+      10
+    ],
+    [
+      "Die betroffene Person hat eine Hirnhaut-Entzündung?",
+      "Zu den Zeichen der Blutvergiftung können Symptome der jeweils auslösenden Infektion kommen – bei einem Harnwegsinfekt sind das beispielsweise Brennen und Schmerzen beim Wasserlassen, bei einer Hirnhautentzündung Kopfschmerzen und Nackensteife."
+    ],
+    0.6297591924667358
+  ],
+  [
+    [
+      12,
+      10
+    ],
+    [
+      "Dann hat die betroffene Person vielleicht auch Kopfschmerzen.",
+      "Zu den Zeichen der Blutvergiftung können Symptome der jeweils auslösenden Infektion kommen – bei einem Harnwegsinfekt sind das beispielsweise Brennen und Schmerzen beim Wasserlassen, bei einer Hirnhautentzündung Kopfschmerzen und Nackensteife."
+    ],
+    0.5938212275505066
+  ],
+  [
+    [
+      14,
+      10
+    ],
+    [
+      "Manchmal hat eine Person bei einer Blutvergiftung auch kleine rote Flecken am ganzen Körper.",
+      "Zu den Zeichen der Blutvergiftung können Symptome der jeweils auslösenden Infektion kommen – bei einem Harnwegsinfekt sind das beispielsweise Brennen und Schmerzen beim Wasserlassen, bei einer Hirnhautentzündung Kopfschmerzen und Nackensteife."
+    ],
+    0.7311339974403381
+  ],
+  [
+    [
+      15,
+      12
+    ],
+    [
+      "Die Flecken können zu größeren dunkelroten Flecken werden.",
+      "Es bilden sich kleine rote Flecken an vielen Stellen, die zu größeren dunkelroten oder bläulichen Flecken verschmelzen, die so ähnlich aussehen wie ein Bluterguss."
+    ],
+    0.8249224424362183
+  ],
+  [
+    [
+      16,
+      13
+    ],
+    [
+      "Es können auch mit Blut gefüllte Bläschen entstehen.",
+      "Eventuell entstehen blutgefüllte Bläschen."
+    ],
+    0.9028348922729492
+  ],
+  [
+    [
+      19,
+      13
+    ],
+    [
+      "Das kann zum Beispiel eine eitrige Wunde sein.",
+      "Eventuell entstehen blutgefüllte Bläschen."
+    ],
+    0.781638503074646
+  ],
+  [
+    [
+      20,
+      19
+    ],
+    [
+      "Auch eine Entzündung kann die Ursache einer Blutvergiftung sein.",
+      "Im ungünstigen Fall kann sich aus einer solchen Entzündung allerdings – wie aus jeder Infektion – eine Blutvergiftung entwickeln."
+    ],
+    0.8986060619354248
+  ],
+  [
+    [
+      21,
+      19
+    ],
+    [
+      "Zum Beispiel kann eine Lungenentzündung die Blutvergiftung verursachen.",
+      "Im ungünstigen Fall kann sich aus einer solchen Entzündung allerdings – wie aus jeder Infektion – eine Blutvergiftung entwickeln."
+    ],
+    0.8195436000823975
+  ],
+  [
+    [
+      22,
+      19
+    ],
+    [
+      "Auslöser für eine Infektion oder Entzündung sind zum Beispiel:",
+      "Im ungünstigen Fall kann sich aus einer solchen Entzündung allerdings – wie aus jeder Infektion – eine Blutvergiftung entwickeln."
+    ],
+    0.7705180048942566
+  ],
+  [
+    [
+      23,
+      22
+    ],
+    [
+      "Bakterien Pilze Parasiten Viren",
+      "Auslöser sind häufig Bakterien, aber auch Pilze, Parasiten oder Viren."
+    ],
+    0.8205162286758423
+  ],
+  [
+    [
+      24,
+      27
+    ],
+    [
+      "Das Immunsystem des Körpers reagiert auf die Entzündung und bekämpft die Erreger.",
+      "Es ist normal, dass körpereigene Abwehrzellen im Kampf gegen eine Infektion Botenstoffe ausschütten, die weitere Botenstoffe im Körper aktivieren und bestimmte Reaktionen in Gang setzen, die letztlich die Krankheitserreger bekämpfen."
+    ],
+    0.8848578929901123
+  ],
+  [
+    [
+      25,
+      27
+    ],
+    [
+      "Normalerweise kann das Immunsystem die Erreger selbst bekämpfen.",
+      "Es ist normal, dass körpereigene Abwehrzellen im Kampf gegen eine Infektion Botenstoffe ausschütten, die weitere Botenstoffe im Körper aktivieren und bestimmte Reaktionen in Gang setzen, die letztlich die Krankheitserreger bekämpfen."
+    ],
+    0.8647290468215942
+  ],
+  [
+    [
+      27,
+      28
+    ],
+    [
+      "Bei einer Blutvergiftung reagiert das Immunsystem jedoch nicht erfolgreich auf die Infektion.",
+      "Im Falle einer Sepsis entgleist diese Immunantwort jedoch."
+    ],
+    0.7704283595085144
+  ],
+  [
+    [
+      28,
+      28
+    ],
+    [
+      "Das Immunsystem beschädigt dann den eigenen Körper.",
+      "Im Falle einer Sepsis entgleist diese Immunantwort jedoch."
+    ],
+    0.7434165477752686
+  ],
+  [
+    [
+      30,
+      28
+    ],
+    [
+      "Warum reagiert das Immunsystem so?",
+      "Im Falle einer Sepsis entgleist diese Immunantwort jedoch."
+    ],
+    0.7756015658378601
+  ],
+  [
+    [
+      31,
+      30
+    ],
+    [
+      "Bei einer Blutvergiftung funktionieren lebenswichtige Organe nicht mehr richtig.",
+      "Lebenswichtige Organe wie Nieren, Herz oder Lunge funktionieren nicht mehr richtig."
+    ],
+    0.719587504863739
+  ],
+  [
+    [
+      33,
+      31
+    ],
+    [
+      "Für manche Menschen ist das Risiko für eine Blutvergiftung besonders hoch.",
+      "Ein erhöhtes Risiko für eine Blutvergiftung haben Menschen mit geschwächtem Abwehrsystem."
+    ],
+    0.7922906875610352
+  ],
+  [
+    [
+      34,
+      32
+    ],
+    [
+      "Dazu gehören zum Beispiel Menschen mit einem geschwächten Immunsystem.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.7912078499794006
+  ],
+  [
+    [
+      35,
+      32
+    ],
+    [
+      "Das können zum Beispiel Personen mit Diabetes oder Krebserkrankung sein.",
+      "Diese Immunschwäche kann angeboren oder erworben sein, beispielsweise durch chronische Krankheiten wie Diabetes , Krebserkrankungen oder Medikamente, die das Immunsystem unterdrücken"
+    ],
+    0.623715877532959
+  ],
+  [
+    [
+      36,
+      33
+    ],
+    [
+      "Besonders gefährdet sind aber auch: Frühchen.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.8099917769432068
+  ],
+  [
+    [
+      37,
+      33
+    ],
+    [
+      "Frühchen sind zu früh geborene Babys.",
+      "Besonders gefährdet sind außerdem Frühgeborene und sehr alte Menschen."
+    ],
+    0.6325883865356445
+  ],
+  [
+    [
+      45,
+      35
+    ],
+    [
+      "Der Arzt kann eine Impfung gegen bestimmte Bakterien empfehlen.",
+      "Eine vorbeugende Impfung gegen Pneumokokken und Meningokokken kann bei einem erhöhten Risiko sinnvoll sein."
+    ],
+    0.734897792339325
+  ],
+  [
+    [
+      48,
+      36
+    ],
+    [
+      "Dann sprechen Sie mit Ihrem Arzt oder Apotheker.",
+      "Der Arzt berät individuell dazu."
+    ],
+    0.7226374745368958
+  ],
+  [
+    [
+      50,
+      47
+    ],
+    [
+      "Personen mit einer Blutvergiftung müssen sofort ins Krankenhaus.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.8635988235473633
+  ],
+  [
+    [
+      53,
+      47
+    ],
+    [
+      "Dann wird sie auf der Intensivstation behandelt.",
+      "Eine Blutvergiftung muss schnell behandelt werden – meistens auf der Intensivstation."
+    ],
+    0.6209301948547363
+  ],
+  [
+    [
+      54,
+      49
+    ],
+    [
+      "Die Ärzte stabilisieren den Kreislauf mit Medikamenten und unterstützen die Organfunktionen.",
+      "Ärzte versuchen, Kreislauf und Stoffwechsel mit Infusionen und Medikamenten zu stabilisieren und die Organfunktionen aufrecht zu erhalten."
+    ],
+    0.9033187031745911
+  ],
+  [
+    [
+      55,
+      50
+    ],
+    [
+      "Außerdem bekommt die betroffene Person Antibiotika gegen die Infektion.",
+      "Eine möglichst rasche Therapie mit Antibiotika und eventuell auch chirurgische Maßnahmen helfen, das Infektionsgeschehen einzudämmen."
+    ],
+    0.7772173881530762
+  ],
+  [
+    [
+      56,
+      55
+    ],
+    [
+      "Die Niere arbeitet nicht mehr richtig?",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.8714730739593506
+  ],
+  [
+    [
+      57,
+      55
+    ],
+    [
+      "Dann wird eine Dialyse gemacht.",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.8030500411987305
+  ],
+  [
+    [
+      58,
+      55
+    ],
+    [
+      "Die Dialyse reinigt das Blut.",
+      "Arbeitet die Niere nicht mehr ausreichend, erfolgt eine Blutwäsche ( Dialyse )."
+    ],
+    0.7678003311157227
+  ],
+  [
+    [
+      59,
+      56
+    ],
+    [
+      "Außerdem erhalten Patienten bei einer Blutvergiftung oft Sauerstoff und werden beatmet.",
+      "Oft erhalten die Patienten Sauerstoffgabe und eine Beatmung ."
+    ],
+    0.9192154407501221
+  ],
+  [
+    [
+      60,
+      70
+    ],
+    [
+      "Eine Blutvergiftung kann verschiedene Folgen haben.",
+      "Und selbst wenn Keime gefunden werden, sind sie nicht zwingend der Ausgangspunkt der Blutvergiftung."
+    ],
+    0.7431761622428894
+  ],
+  [
+    [
+      61,
+      76
+    ],
+    [
+      "Zu den Folgen gehören zum Beispiel: Muskelschwäche Bewegungsstörungen Nervenschäden",
+      "Patienten, die eine Sepsis überstanden haben, kämpfen unter Umständen noch Wochen oder Monate mit möglichen Folgen – zum Beispiel mit Muskelschwäche, Bewegungsstörungen oder Nervenschäden."
+    ],
+    0.6703973412513733
+  ],
+  [
+    [
+      62,
+      79
+    ],
+    [
+      "Albträume Depressionen",
+      "Manche Betroffene leiden unter Alpträumen oder Depressionen ."
+    ],
+    0.8885821104049683
+  ]
+]

@@ -1,0 +1,365 @@
+[
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sie glauben:",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.31224149465560913
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Dann rufen Sie sofort den Notruf.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.22905342280864716
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Sie können die Nummer auch mit einem gesperrten Handy anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.20533643662929535
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Dann nehmen Sie möglichst das Gift mit.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.20689067244529724
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Sie haben den Notruf angerufen?",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.20405572652816772
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Dann können Sie zusätzlich den Giftnotruf anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.25614359974861145
+  ],
+  [
+    [
+      22,
+      3
+    ],
+    [
+      "Sie können den Giftnotruf jederzeit anrufen.",
+      "Sie bekommen sofort Anweisungen, was Sie tun müssen."
+    ],
+    0.2727864384651184
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "Hat sich ein Kind vergiftet?",
+      "Kind?"
+    ],
+    0.28685373067855835
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Oder hat sich ein Erwachsener vergiftet?",
+      "Erwachsener?"
+    ],
+    0.2598905563354492
+  ],
+  [
+    [
+      33,
+      30
+    ],
+    [
+      "Wie viel wiegt die betroffene Person?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.19464357197284698
+  ],
+  [
+    [
+      35,
+      30
+    ],
+    [
+      "Wann hat die betroffene Person das Gift eingenommen?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.199703186750412
+  ],
+  [
+    [
+      36,
+      30
+    ],
+    [
+      "Was genau hat die betroffene Person eingenommen?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.22067487239837646
+  ],
+  [
+    [
+      39,
+      30
+    ],
+    [
+      "Dann fragt der Giftnotruf auch nach der Dosis des Medikaments.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.19099721312522888
+  ],
+  [
+    [
+      41,
+      30
+    ],
+    [
+      "Wie viel hat die betroffene Person eingenommen?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.21189716458320618
+  ],
+  [
+    [
+      42,
+      30
+    ],
+    [
+      "Muss die betroffene Person husten oder brechen?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.25701186060905457
+  ],
+  [
+    [
+      43,
+      30
+    ],
+    [
+      "Ist die betroffene Person benommen?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.23300853371620178
+  ],
+  [
+    [
+      46,
+      30
+    ],
+    [
+      "Manchmal müssen Sie sich selbst vor dem Gift schützen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.2484050840139389
+  ],
+  [
+    [
+      47,
+      30
+    ],
+    [
+      "Zum Beispiel bei einer Vergiftung mit giftigen Pflanzenschutzmitteln.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.24421781301498413
+  ],
+  [
+    [
+      51,
+      30
+    ],
+    [
+      "Aber die betroffene Person atmet noch?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.2170441746711731
+  ],
+  [
+    [
+      54,
+      30
+    ],
+    [
+      "Überprüfen Sie immer wieder die Atmung der betroffenen Person.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.2513255178928375
+  ],
+  [
+    [
+      57,
+      30
+    ],
+    [
+      "Achtung: Diese Dinge müssen Sie vermeiden : Bringen Sie die betroffene Person nicht zum Erbrechen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.27485892176628113
+  ],
+  [
+    [
+      58,
+      30
+    ],
+    [
+      "Durch Erbrechen kann das Gift die Speiseröhre verletzen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.2870740294456482
+  ],
+  [
+    [
+      59,
+      30
+    ],
+    [
+      "Und Erbrochenes kann in die Luftröhre der Person gelangen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.21177811920642853
+  ],
+  [
+    [
+      62,
+      30
+    ],
+    [
+      "Geben Sie der betroffenen Person keine Kohletabletten.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.24903248250484467
+  ],
+  [
+    [
+      63,
+      30
+    ],
+    [
+      "Fragen",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.22668637335300446
+  ],
+  [
+    [
+      64,
+      30
+    ],
+    [
+      "Sie erst den Giftnotruf Geben Sie der betroffenen Person keine Milch zu trinken.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.20210178196430206
+  ],
+  [
+    [
+      65,
+      30
+    ],
+    [
+      "Durch die Milch kann der Darm das Gift schneller aufnehmen Kinder vergiften sich häufig mit Reinigungsmitteln, Pflanzen oder Medikamenten",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.2441301792860031
+  ],
+  [
+    [
+      66,
+      30
+    ],
+    [
+      "Sie können Kinder vor einer Vergiftung schützen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.2707234025001526
+  ],
+  [
+    [
+      68,
+      30
+    ],
+    [
+      "Lagern Sie gefährliche Mittel nie in Reichweite von Kindern Lagern Sie Medikamente immer in einem verschlossenen Behälter Lagern Sie giftige Mittel nie neben Lebensmitteln Füllen Sie giftige Mittel nicht in andere Verpackungen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.24943037331104279
+  ],
+  [
+    [
+      69,
+      30
+    ],
+    [
+      "Füllen Sie zum Beispiel keine giftigen Flüssigkeiten in Trinkflaschen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.22995847463607788
+  ],
+  [
+    [
+      70,
+      30
+    ],
+    [
+      "Man kann den Stoff dann nämlich nicht mehr erkennen.",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.24753829836845398
+  ],
+  [
+    [
+      71,
+      30
+    ],
+    [
+      "Und man kann den giftigen Stoff mit einem ungefährlichen Stoff verwechseln",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.20817576348781586
+  ],
+  [
+    [
+      72,
+      30
+    ],
+    [
+      "Sie möchten mehr Informationen zu Vergiftungen bei Kindern bekommen?",
+      "Vorsichtsmaßnahmen verhindern Schlimmes."
+    ],
+    0.23806358873844147
+  ]
+]

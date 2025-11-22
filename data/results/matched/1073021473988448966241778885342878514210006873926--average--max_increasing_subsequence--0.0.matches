@@ -1,0 +1,1597 @@
+[
+  [
+    [
+      0,
+      46
+    ],
+    [
+      "Sie haben sich leicht verletzt?",
+      "Solche Verletzungen infizieren sich leicht."
+    ],
+    0.2914009988307953
+  ],
+  [
+    [
+      1,
+      54
+    ],
+    [
+      "Sie haben sich zum Beispiel das Knie aufgeschlagen?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.22136376798152924
+  ],
+  [
+    [
+      2,
+      54
+    ],
+    [
+      "Oder Sie haben sich in den Finger geschnitten?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.22221530973911285
+  ],
+  [
+    [
+      3,
+      54
+    ],
+    [
+      "Oder Sie haben eine kleine Verbrennung?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23168742656707764
+  ],
+  [
+    [
+      4,
+      54
+    ],
+    [
+      "Leichte Verletzungen können Sie oft selbst versorgen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.33127832412719727
+  ],
+  [
+    [
+      5,
+      54
+    ],
+    [
+      "Dafür müssen Sie die Wunde reinigen, desinfizieren, verbinden und beobachten.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.334519624710083
+  ],
+  [
+    [
+      6,
+      54
+    ],
+    [
+      "Achtung: Die Verletzung ist nicht leicht?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2846079468727112
+  ],
+  [
+    [
+      7,
+      54
+    ],
+    [
+      "Die Wunde blutet sehr stark?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.242298886179924
+  ],
+  [
+    [
+      8,
+      54
+    ],
+    [
+      "Oder Sie haben sehr starke Schmerzen?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23446953296661377
+  ],
+  [
+    [
+      9,
+      54
+    ],
+    [
+      "Dann sollten Sie den Rettungsdienst rufen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.17220090329647064
+  ],
+  [
+    [
+      10,
+      54
+    ],
+    [
+      "Die Nummer vom Rettungsdienst ist: 112 .",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.02490869350731373
+  ],
+  [
+    [
+      11,
+      54
+    ],
+    [
+      "Sie haben sich verbrannt?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23244334757328033
+  ],
+  [
+    [
+      12,
+      54
+    ],
+    [
+      "Oder in der Wunde ist Schmutz?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2142031192779541
+  ],
+  [
+    [
+      13,
+      54
+    ],
+    [
+      "Dann halten Sie die Wunde unter lauwarmes Leitungswasser.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.24462082982063293
+  ],
+  [
+    [
+      14,
+      54
+    ],
+    [
+      "In der Wunde sind Splitter?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1928998827934265
+  ],
+  [
+    [
+      15,
+      54
+    ],
+    [
+      "Dann ziehen Sie die Splitter vorsichtig heraus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3454592823982239
+  ],
+  [
+    [
+      16,
+      54
+    ],
+    [
+      "Benutzen Sie dafür eine Pinzette.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.27074170112609863
+  ],
+  [
+    [
+      17,
+      54
+    ],
+    [
+      "Hinweis: Ziehen Sie die Splitter ganz heraus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3304502069950104
+  ],
+  [
+    [
+      18,
+      54
+    ],
+    [
+      "Ein Teil des Splitters bleibt in der Wunde?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1574963629245758
+  ],
+  [
+    [
+      19,
+      54
+    ],
+    [
+      "Dann kann sich die Wunde entzünden.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.33820176124572754
+  ],
+  [
+    [
+      20,
+      54
+    ],
+    [
+      "Die Splitter stecken tief in der Wunde?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2416616976261139
+  ],
+  [
+    [
+      21,
+      54
+    ],
+    [
+      "Dann ziehen Sie die Splitter nicht heraus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3544084429740906
+  ],
+  [
+    [
+      22,
+      54
+    ],
+    [
+      "Verbinden Sie die Wunde mit einem sterilen Verband.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2290688157081604
+  ],
+  [
+    [
+      23,
+      54
+    ],
+    [
+      "Steril heißt: keimfrei.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2141769677400589
+  ],
+  [
+    [
+      24,
+      54
+    ],
+    [
+      "Danach gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.16315163671970367
+  ],
+  [
+    [
+      25,
+      54
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.15441887080669403
+  ],
+  [
+    [
+      26,
+      54
+    ],
+    [
+      "Hinweis: Wunden können sich schnell entzünden.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.37836673855781555
+  ],
+  [
+    [
+      27,
+      54
+    ],
+    [
+      "Fassen Sie deshalb die Wunde nicht mit schmutzigen Händen an.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.34129971265792847
+  ],
+  [
+    [
+      28,
+      54
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2863621711730957
+  ],
+  [
+    [
+      29,
+      54
+    ],
+    [
+      "Oder tragen Sie Einmal-Handschuhe.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21660681068897247
+  ],
+  [
+    [
+      30,
+      54
+    ],
+    [
+      "Sie haben die Wunde gereinigt?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2601049244403839
+  ],
+  [
+    [
+      31,
+      54
+    ],
+    [
+      "Dann sollten Sie die Wunde desinfizieren.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.31073272228240967
+  ],
+  [
+    [
+      32,
+      54
+    ],
+    [
+      "Beim Desinfizieren werden die Keime in der Wunde getötet.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21835839748382568
+  ],
+  [
+    [
+      33,
+      54
+    ],
+    [
+      "Die Wunde kann sich dann nicht so leicht entzünden.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3877587616443634
+  ],
+  [
+    [
+      34,
+      54
+    ],
+    [
+      "Benutzen Sie ein Desinfektionsmittel für Wunden.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23689067363739014
+  ],
+  [
+    [
+      35,
+      54
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden sollten Sie immer zu Hause haben.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.22958719730377197
+  ],
+  [
+    [
+      36,
+      54
+    ],
+    [
+      "Ein Desinfektionsmittel für Wunden können Sie in der Apotheke kaufen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1484237164258957
+  ],
+  [
+    [
+      37,
+      54
+    ],
+    [
+      "Hinweis: Sie haben Allergien?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.20881175994873047
+  ],
+  [
+    [
+      38,
+      54
+    ],
+    [
+      "Dann fragen Sie den Apotheker:",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.15872494876384735
+  ],
+  [
+    [
+      39,
+      54
+    ],
+    [
+      "Welches Desinfektionsmittel kann ich mit meiner Allergie benutzen?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2481706291437149
+  ],
+  [
+    [
+      40,
+      54
+    ],
+    [
+      "Sie haben die Wunde desinfiziert?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.27900707721710205
+  ],
+  [
+    [
+      41,
+      54
+    ],
+    [
+      "Dann sollten Sie die Wunde verbinden.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2743092179298401
+  ],
+  [
+    [
+      42,
+      54
+    ],
+    [
+      "Es gibt verschiedene Pflaster.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.19042636454105377
+  ],
+  [
+    [
+      43,
+      54
+    ],
+    [
+      "Für größere Wunden können Sie eine sterile Kompresse benutzen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.24943093955516815
+  ],
+  [
+    [
+      44,
+      54
+    ],
+    [
+      "Eine Kompresse ist eine Wundauflage.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.19039027392864227
+  ],
+  [
+    [
+      45,
+      54
+    ],
+    [
+      "Die Kompresse kommt direkt auf die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21863187849521637
+  ],
+  [
+    [
+      46,
+      54
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.24927197396755219
+  ],
+  [
+    [
+      47,
+      54
+    ],
+    [
+      "Dann kann die Kompresse nicht mehr verrutschen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.37093260884284973
+  ],
+  [
+    [
+      48,
+      54
+    ],
+    [
+      "Für kleine Wunden gibt es Feucht-Pflaster.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.16690465807914734
+  ],
+  [
+    [
+      49,
+      54
+    ],
+    [
+      "Feucht-Pflaster lassen die Wunde schneller heilen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.32175013422966003
+  ],
+  [
+    [
+      50,
+      54
+    ],
+    [
+      "Ein Apotheker kann Sie zu den verschiedenen Pflastersorten beraten.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.12196312844753265
+  ],
+  [
+    [
+      51,
+      54
+    ],
+    [
+      "Beobachten Sie die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3031903803348541
+  ],
+  [
+    [
+      52,
+      54
+    ],
+    [
+      "Wie entwickelt sich die Wunde?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.25834202766418457
+  ],
+  [
+    [
+      53,
+      54
+    ],
+    [
+      "Wird die verletzte Stelle: dick, rot und warm?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2120751589536667
+  ],
+  [
+    [
+      54,
+      54
+    ],
+    [
+      "Dann hat sich die Wunde vielleicht entzündet.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2957514524459839
+  ],
+  [
+    [
+      55,
+      54
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1791960895061493
+  ],
+  [
+    [
+      56,
+      54
+    ],
+    [
+      "Der Arzt kann die entzündete Wunde richtig behandeln.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.27254465222358704
+  ],
+  [
+    [
+      57,
+      54
+    ],
+    [
+      "Eine offene Wunde kann Tetanus verursachen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2590341567993164
+  ],
+  [
+    [
+      58,
+      54
+    ],
+    [
+      "Tetanus heißt auch: Wundstarr-Krampf.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2996469736099243
+  ],
+  [
+    [
+      59,
+      54
+    ],
+    [
+      "Durch kleine Verletzungen in der Haut können Erreger in den Körper gelangen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.24076628684997559
+  ],
+  [
+    [
+      60,
+      54
+    ],
+    [
+      "Dort können die Erreger Krämpfe auslösen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3006055951118469
+  ],
+  [
+    [
+      61,
+      54
+    ],
+    [
+      "Diese Krämpfe sind gefährlich.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.30707842111587524
+  ],
+  [
+    [
+      62,
+      54
+    ],
+    [
+      "Eine Tetanus-Impfung kann Sie gegen die Erreger schützen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.20370152592658997
+  ],
+  [
+    [
+      63,
+      54
+    ],
+    [
+      "Sie wissen nicht: Bin ich gegen Tetanus geimpft?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21050751209259033
+  ],
+  [
+    [
+      64,
+      54
+    ],
+    [
+      "Dann schauen Sie in Ihren Impfpass.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.13503356277942657
+  ],
+  [
+    [
+      65,
+      54
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.18852077424526215
+  ],
+  [
+    [
+      66,
+      54
+    ],
+    [
+      "Sie sind gestürzt?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.15685251355171204
+  ],
+  [
+    [
+      67,
+      54
+    ],
+    [
+      "Dann haben Sie vielleicht eine Schürfwunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.25411051511764526
+  ],
+  [
+    [
+      68,
+      54
+    ],
+    [
+      "Bei einer Schürfwunde ist nur die oberste Hautschicht verletzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23376090824604034
+  ],
+  [
+    [
+      69,
+      54
+    ],
+    [
+      "Bei Schürfwunden werden viele Nerven-Enden freigelegt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2672347128391266
+  ],
+  [
+    [
+      70,
+      54
+    ],
+    [
+      "Deshalb sind diese Wunden oft schmerzhaft.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3712344765663147
+  ],
+  [
+    [
+      71,
+      54
+    ],
+    [
+      "Schürfwunden heilen schnell ab.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3109109103679657
+  ],
+  [
+    [
+      72,
+      54
+    ],
+    [
+      "Kleine Schürfwunden können Sie selbst versorgen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.30223506689071655
+  ],
+  [
+    [
+      73,
+      54
+    ],
+    [
+      "In der Schürfwunde ist viel Schmutz?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.17453862726688385
+  ],
+  [
+    [
+      74,
+      54
+    ],
+    [
+      "Dann spülen Sie die Wunde gründlich aus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.25269171595573425
+  ],
+  [
+    [
+      75,
+      54
+    ],
+    [
+      "Danach desinfizieren Sie die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.29370221495628357
+  ],
+  [
+    [
+      76,
+      54
+    ],
+    [
+      "Kleben Sie ein Pflaster auf die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.26725465059280396
+  ],
+  [
+    [
+      77,
+      54
+    ],
+    [
+      "Die Wunde ist sehr groß?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.186473548412323
+  ],
+  [
+    [
+      78,
+      54
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1676313877105713
+  ],
+  [
+    [
+      79,
+      54
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.15441887080669403
+  ],
+  [
+    [
+      80,
+      54
+    ],
+    [
+      "Sie haben eine kleine Schnittwunde?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23882466554641724
+  ],
+  [
+    [
+      81,
+      54
+    ],
+    [
+      "Dann lassen Sie die Wunde kurz bluten.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2833321988582611
+  ],
+  [
+    [
+      82,
+      54
+    ],
+    [
+      "Das Blut spült Schmutz und Krankheitserreger aus der Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2593682110309601
+  ],
+  [
+    [
+      83,
+      54
+    ],
+    [
+      "Dann kleben Sie ein Pflaster auf die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2524617314338684
+  ],
+  [
+    [
+      84,
+      54
+    ],
+    [
+      "Die Schnittwunde ist sehr tief?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21389716863632202
+  ],
+  [
+    [
+      85,
+      54
+    ],
+    [
+      "Oder die Schnittwunde blutet stark?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.291010320186615
+  ],
+  [
+    [
+      86,
+      54
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1676313877105713
+  ],
+  [
+    [
+      87,
+      54
+    ],
+    [
+      "Der Arzt versorgt die Schnittwunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.19098153710365295
+  ],
+  [
+    [
+      88,
+      54
+    ],
+    [
+      "Platzwunden entstehen zum Beispiel durch: einen Sturz, einen Schlag oder einen Stoß.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.25672465562820435
+  ],
+  [
+    [
+      89,
+      54
+    ],
+    [
+      "Typische Stellen für Platzwunden sind: der Kopf das Knie der Ellenbogen Platzwunden können gefährlich sein.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2727851867675781
+  ],
+  [
+    [
+      90,
+      54
+    ],
+    [
+      "Platzwunden haben raue Ränder.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.29303303360939026
+  ],
+  [
+    [
+      91,
+      54
+    ],
+    [
+      "Die Ränder klaffen oft auseinander.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.29555439949035645
+  ],
+  [
+    [
+      92,
+      54
+    ],
+    [
+      "Deshalb heilen Platzwunden nicht gut von allein.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3420059382915497
+  ],
+  [
+    [
+      93,
+      54
+    ],
+    [
+      "Platzwunden entzünden sich schnell.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.42857852578163147
+  ],
+  [
+    [
+      94,
+      54
+    ],
+    [
+      "Und Platzwunden können sehr stark bluten.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3223889172077179
+  ],
+  [
+    [
+      95,
+      54
+    ],
+    [
+      "Sie haben eine Platzwunde?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1995835155248642
+  ],
+  [
+    [
+      96,
+      54
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1676313877105713
+  ],
+  [
+    [
+      97,
+      54
+    ],
+    [
+      "Der Arzt versorgt die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1967177391052246
+  ],
+  [
+    [
+      98,
+      54
+    ],
+    [
+      "Stichwunden entstehen zum Beispiel durch:",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.27172115445137024
+  ],
+  [
+    [
+      99,
+      54
+    ],
+    [
+      "Messer Glasscherben",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3498449921607971
+  ],
+  [
+    [
+      100,
+      54
+    ],
+    [
+      "Nägel",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.26988258957862854
+  ],
+  [
+    [
+      101,
+      54
+    ],
+    [
+      "Stichwunden sind gefährlich.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.37778791785240173
+  ],
+  [
+    [
+      102,
+      54
+    ],
+    [
+      "Stichwunden sehen manchmal nicht schlimm aus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.41276803612709045
+  ],
+  [
+    [
+      103,
+      54
+    ],
+    [
+      "Aber Stichwunden können sehr tief sein.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.34162595868110657
+  ],
+  [
+    [
+      104,
+      54
+    ],
+    [
+      "Sie haben eine Stichwunde?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2133072167634964
+  ],
+  [
+    [
+      105,
+      54
+    ],
+    [
+      "Dann ziehen Sie den Gegenstand nicht selbst aus der Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.29750820994377136
+  ],
+  [
+    [
+      106,
+      54
+    ],
+    [
+      "Sie haben sich zum Beispiel an einem Nagel verletzt?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.18591710925102234
+  ],
+  [
+    [
+      107,
+      54
+    ],
+    [
+      "Dann ziehen Sie den Nagel nicht selbst aus der Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2782173752784729
+  ],
+  [
+    [
+      108,
+      54
+    ],
+    [
+      "Gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1791960895061493
+  ],
+  [
+    [
+      109,
+      54
+    ],
+    [
+      "Oder rufen Sie den Rettungsdienst.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.14023689925670624
+  ],
+  [
+    [
+      110,
+      54
+    ],
+    [
+      "Der Arzt versorgt Ihre Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.15441887080669403
+  ],
+  [
+    [
+      111,
+      54
+    ],
+    [
+      "Ein Tier kratzt oder beißt Sie?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.19202299416065216
+  ],
+  [
+    [
+      112,
+      54
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1676313877105713
+  ],
+  [
+    [
+      113,
+      54
+    ],
+    [
+      "Bisswunden und Kratzwunden können nämlich gefährlich sein.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.35820263624191284
+  ],
+  [
+    [
+      114,
+      54
+    ],
+    [
+      "Durch Bisse und Kratzer können Krankheitserreger in Ihren Körper gelangen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2802450656890869
+  ],
+  [
+    [
+      115,
+      54
+    ],
+    [
+      "Durch Bisswunden und Kratzwunden können Sie zum Beispiel Tetanus bekommen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.196192666888237
+  ],
+  [
+    [
+      116,
+      54
+    ],
+    [
+      "Tetanus kann sehr gefährlich sein.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.31239980459213257
+  ],
+  [
+    [
+      117,
+      54
+    ],
+    [
+      "Deshalb ist eine Tetanus-Impfung wichtig.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.18434478342533112
+  ],
+  [
+    [
+      118,
+      54
+    ],
+    [
+      "Schauen Sie in Ihren Impfpass.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.10719980299472809
+  ],
+  [
+    [
+      119,
+      54
+    ],
+    [
+      "Oder fragen Sie Ihren Arzt:",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.18852077424526215
+  ],
+  [
+    [
+      120,
+      54
+    ],
+    [
+      "Bin ich gegen Tetanus geimpft?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.11570745706558228
+  ],
+  [
+    [
+      121,
+      54
+    ],
+    [
+      "Sie haben eine leichte Verbrennung?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.26008340716362
+  ],
+  [
+    [
+      122,
+      54
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung unter lauwarmem Leitungswasser.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.22186976671218872
+  ],
+  [
+    [
+      123,
+      54
+    ],
+    [
+      "Kühlen Sie die Verbrennung nicht länger als fünf Minuten.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2715616226196289
+  ],
+  [
+    [
+      124,
+      54
+    ],
+    [
+      "Auf der Verbrennung bilden sich Blasen?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21125811338424683
+  ],
+  [
+    [
+      125,
+      54
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1908835470676422
+  ],
+  [
+    [
+      126,
+      54
+    ],
+    [
+      "Sie haben große und starke Verbrennungen?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.22770948708057404
+  ],
+  [
+    [
+      127,
+      54
+    ],
+    [
+      "Dann rufen Sie den Rettungsdienst.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.13194377720355988
+  ],
+  [
+    [
+      128,
+      54
+    ],
+    [
+      "Die Nummer vom Rettungsdienst ist: 112 .",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.02490869350731373
+  ],
+  [
+    [
+      129,
+      54
+    ],
+    [
+      "Starke Blutungen können sehr gefährlich sein.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.3267362713813782
+  ],
+  [
+    [
+      130,
+      54
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1669432669878006
+  ],
+  [
+    [
+      131,
+      54
+    ],
+    [
+      "Die Nummer ist:",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.026077931746840477
+  ],
+  [
+    [
+      132,
+      54
+    ],
+    [
+      "112. Dann stoppen Sie die Blutung mit einem Druckverband.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.17638882994651794
+  ],
+  [
+    [
+      133,
+      54
+    ],
+    [
+      "So machen Sie einen Druckverband: Legen Sie eine sterile Kompresse auf die Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.23696792125701904
+  ],
+  [
+    [
+      134,
+      54
+    ],
+    [
+      "Binden Sie die Kompresse mit einer Mullbinde fest.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.24927197396755219
+  ],
+  [
+    [
+      135,
+      54
+    ],
+    [
+      "Legen Sie eine geschlossene Verbandpackung auf die Stelle der Wunde.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.208880215883255
+  ],
+  [
+    [
+      136,
+      54
+    ],
+    [
+      "Befestigen Sie die Packung mit einem weiteren Verband.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.18807117640972137
+  ],
+  [
+    [
+      137,
+      54
+    ],
+    [
+      "Hinweis: Der Verband soll auf die Wunde drücken.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.1834734082221985
+  ],
+  [
+    [
+      138,
+      54
+    ],
+    [
+      "Aber machen Sie den Verband nicht zu fest.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.26460137963294983
+  ],
+  [
+    [
+      139,
+      54
+    ],
+    [
+      "Sie können auch mit der Hand direkt auf den Verband drücken.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.21718674898147583
+  ],
+  [
+    [
+      140,
+      54
+    ],
+    [
+      "So können Sie die Blutung stoppen.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.25248241424560547
+  ],
+  [
+    [
+      141,
+      54
+    ],
+    [
+      "Sie wollen noch mehr über die Versorgung von Wunden lesen?",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.24459002912044525
+  ],
+  [
+    [
+      142,
+      54
+    ],
+    [
+      "Mehr Informationen über die Versorgung von Wunden finden Sie hier .",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.16491256654262543
+  ],
+  [
+    [
+      143,
+      54
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.12639220058918
+  ],
+  [
+    [
+      144,
+      54
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Fremdkörper nicht herausziehen!"
+    ],
+    0.2347620278596878
+  ]
+]

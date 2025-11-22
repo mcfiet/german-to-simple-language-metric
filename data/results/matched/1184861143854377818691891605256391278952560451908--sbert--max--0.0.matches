@@ -1,0 +1,816 @@
+[
+  [
+    [
+      0,
+      7
+    ],
+    [
+      "Fieber ist eine deutlich erhöhte Körpertemperatur.",
+      "Bei Fieber schwanken die Werte ebenfalls tageszeitabhängig."
+    ],
+    0.7974860668182373
+  ],
+  [
+    [
+      1,
+      8
+    ],
+    [
+      "Normalerweise liegt die Körpertemperatur beim Menschen zwischen 36,5 und 37,5 Grad.",
+      "37 °C beträgt die normale durchschnittliche Körperkerntemperatur."
+    ],
+    0.9492930173873901
+  ],
+  [
+    [
+      2,
+      8
+    ],
+    [
+      "Die Körpertemperatur einer Person ist höher als 38 Grad?",
+      "37 °C beträgt die normale durchschnittliche Körperkerntemperatur."
+    ],
+    0.8629468083381653
+  ],
+  [
+    [
+      3,
+      7
+    ],
+    [
+      "Dann hat die Person Fieber.",
+      "Bei Fieber schwanken die Werte ebenfalls tageszeitabhängig."
+    ],
+    0.7689203023910522
+  ],
+  [
+    [
+      4,
+      11
+    ],
+    [
+      "Hinweis: Ältere Menschen haben eine niedrigere Körpertemperatur.",
+      "Sie haben von Haus aus eine niedrigere Körpertemperatur."
+    ],
+    0.7667916417121887
+  ],
+  [
+    [
+      5,
+      10
+    ],
+    [
+      "Deshalb haben ältere Menschen schon ab einer Temperatur von 37,8 Grad Fieber.",
+      "Von Fieber sprechen Ärzte in der Regel ab 38 °C\", sagt Dr. Sabine Gehrke-Beck vom Institut für Allgemeinmedizin der Charité Berlin, \"bei Älteren aber schon ab 37,8 °C\":"
+    ],
+    0.819420576095581
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Fieber ist keine Krankheit.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.7100631594657898
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Fieber ist eine wichtige Schutzreaktion des Körpers.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.8071590065956116
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Die erhöhte Temperatur hilft gegen schädliche Bakterien und Viren.",
+      "So wehrt der Organismus Infekte besser ab."
+    ],
+    0.6819504499435425
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Deshalb ist Fieber oft ein Anzeichen für eine Entzündung im Körper.",
+      "Bei Fieber schwanken die Werte ebenfalls tageszeitabhängig."
+    ],
+    0.7804360389709473
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Fieber kann aber auch gefährlich werden.",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.763160228729248
+  ],
+  [
+    [
+      11,
+      8
+    ],
+    [
+      "Ist die Körpertemperatur einer erwachsenen Person 39 Grad und höher?",
+      "37 °C beträgt die normale durchschnittliche Körperkerntemperatur."
+    ],
+    0.8742321133613586
+  ],
+  [
+    [
+      12,
+      21
+    ],
+    [
+      "Dann sollte diese Person zum Arzt gehen.",
+      "Sie in der Apotheke"
+    ],
+    0.6212984323501587
+  ],
+  [
+    [
+      13,
+      20
+    ],
+    [
+      "Sie wollen wissen:",
+      "Fragen"
+    ],
+    0.6317935585975647
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Habe ich Fieber?",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.7378478050231934
+  ],
+  [
+    [
+      15,
+      39
+    ],
+    [
+      "Dann können Sie Ihre Körpertemperatur mit einem Fieber-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.9038582444190979
+  ],
+  [
+    [
+      16,
+      39
+    ],
+    [
+      "Es gibt verschiedene Fieber-Thermometer.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8504944443702698
+  ],
+  [
+    [
+      17,
+      20
+    ],
+    [
+      "Man unterscheidet:",
+      "Fragen"
+    ],
+    0.5225594639778137
+  ],
+  [
+    [
+      18,
+      12
+    ],
+    [
+      "Kontakt-Thermometer und Infrarot-Thermometer.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.8531632423400879
+  ],
+  [
+    [
+      19,
+      39
+    ],
+    [
+      "Ein Kontakt-Thermometer misst die Körpertemperatur direkt auf der Haut .",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8306353092193604
+  ],
+  [
+    [
+      20,
+      39
+    ],
+    [
+      "Dabei berührt das Thermometer die Haut.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8761642575263977
+  ],
+  [
+    [
+      21,
+      12
+    ],
+    [
+      "Die meisten Kontakt-Thermometer sind digital.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.9118751287460327
+  ],
+  [
+    [
+      22,
+      13
+    ],
+    [
+      "Das bedeutet: Die Temperatur wird auf einem kleinen Bildschirm am Thermometer angezeigt.",
+      "Die Temperatur lässt sich digital ablesen."
+    ],
+    0.7776631712913513
+  ],
+  [
+    [
+      23,
+      12
+    ],
+    [
+      "Das Thermometer funktioniert mit einer Batterie.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.797747015953064
+  ],
+  [
+    [
+      24,
+      23
+    ],
+    [
+      "Ein Infrarot-Thermometer misst die Infrarot-Strahlung des Körpers.",
+      "Stirnthermometer: Auch hier messen Infrarotstrahlen die Temperatur, aber an der Stirn."
+    ],
+    0.8071080446243286
+  ],
+  [
+    [
+      25,
+      39
+    ],
+    [
+      "Dann berechnet das Thermometer die Körpertemperatur.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.9123104810714722
+  ],
+  [
+    [
+      26,
+      18
+    ],
+    [
+      "Dabei berührt das Thermometer nicht die Haut.",
+      "Bei einer Mittelohrentzündung ist das Thermometer allerdings nicht geeignet."
+    ],
+    0.8173487186431885
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Ein Infrarot-Thermometer braucht nur wenige Sekunden zum Messen.",
+      "Über Infrarotstrahlen misst es sekundenschnell am Trommelfell."
+    ],
+    0.6836171746253967
+  ],
+  [
+    [
+      28,
+      12
+    ],
+    [
+      "Infrarot-Thermometer sind auch digital.",
+      "Digitales Thermometer (auch elektronisches Kontaktthermometer):"
+    ],
+    0.7289561033248901
+  ],
+  [
+    [
+      29,
+      39
+    ],
+    [
+      "Sie können Ihre Körpertemperatur an verschiedenen Körperstellen messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8437687754631042
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Geeignet sind: After Mund",
+      "Sollte das nicht möglich sein, ist eine Messung unter der Zunge auch relativ genau."
+    ],
+    0.5681309103965759
+  ],
+  [
+    [
+      31,
+      9
+    ],
+    [
+      "Achsel",
+      "\""
+    ],
+    0.33578255772590637
+  ],
+  [
+    [
+      32,
+      33
+    ],
+    [
+      "Ohr",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.7396227121353149
+  ],
+  [
+    [
+      33,
+      26
+    ],
+    [
+      "Stirn",
+      "Sie können die Thermometerspitze vorher mit einer geeigneten Creme einfetten."
+    ],
+    0.542945921421051
+  ],
+  [
+    [
+      34,
+      15
+    ],
+    [
+      "So messen Sie richtig am After :",
+      "Sollte das nicht möglich sein, ist eine Messung unter der Zunge auch relativ genau."
+    ],
+    0.6342849731445312
+  ],
+  [
+    [
+      35,
+      39
+    ],
+    [
+      "Am After können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8750721216201782
+  ],
+  [
+    [
+      36,
+      26
+    ],
+    [
+      "Fetten Sie die Spitze des Thermometers mit einer fettigen Creme ein.",
+      "Sie können die Thermometerspitze vorher mit einer geeigneten Creme einfetten."
+    ],
+    0.9175177216529846
+  ],
+  [
+    [
+      37,
+      21
+    ],
+    [
+      "Dafür eignet sich zum Beispiel Vaseline.",
+      "Sie in der Apotheke"
+    ],
+    0.4831565320491791
+  ],
+  [
+    [
+      38,
+      27
+    ],
+    [
+      "Legen Sie sich am besten auf die Seite oder auf den Rücken.",
+      "Zum Messen sollten Sie idealerweise auf der Seite oder auf dem Rücken liegen."
+    ],
+    0.9244716167449951
+  ],
+  [
+    [
+      39,
+      39
+    ],
+    [
+      "Dann führen Sie die Spitze des Thermometers in den After ein.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8483436107635498
+  ],
+  [
+    [
+      40,
+      25
+    ],
+    [
+      "Die Messung am After ist sehr genau.",
+      "Die Po-Methode ist am genauesten."
+    ],
+    0.6980061531066895
+  ],
+  [
+    [
+      41,
+      15
+    ],
+    [
+      "So messen Sie richtig im Mund :",
+      "Sollte das nicht möglich sein, ist eine Messung unter der Zunge auch relativ genau."
+    ],
+    0.7836787104606628
+  ],
+  [
+    [
+      42,
+      28
+    ],
+    [
+      "Im Mund können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.8366684913635254
+  ],
+  [
+    [
+      43,
+      26
+    ],
+    [
+      "Trinken Sie 30 Minuten vor dem Messen keine kalten oder warmen Getränke.",
+      "Sie können die Thermometerspitze vorher mit einer geeigneten Creme einfetten."
+    ],
+    0.6385400295257568
+  ],
+  [
+    [
+      44,
+      26
+    ],
+    [
+      "Und essen Sie 30 Minuten vor dem Messen keine kalten oder warmen Speisen.",
+      "Sie können die Thermometerspitze vorher mit einer geeigneten Creme einfetten."
+    ],
+    0.5640398263931274
+  ],
+  [
+    [
+      45,
+      39
+    ],
+    [
+      "Legen Sie die Spitze des Thermometers unter die Zunge.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8298394680023193
+  ],
+  [
+    [
+      46,
+      28
+    ],
+    [
+      "Schließen Sie während des Messens die Lippen.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.7163144946098328
+  ],
+  [
+    [
+      47,
+      21
+    ],
+    [
+      "Hinweis: Sie haben Schnupfen?",
+      "Sie in der Apotheke"
+    ],
+    0.6015907526016235
+  ],
+  [
+    [
+      48,
+      29
+    ],
+    [
+      "Oder Sie können nicht gut durch die Nase atmen?",
+      "Bei Schnupfen oder Atemproblemen durch die Nase ist diese Methode deshalb nicht geeignet."
+    ],
+    0.8021353483200073
+  ],
+  [
+    [
+      49,
+      28
+    ],
+    [
+      "Dann messen Sie die Körpertemperatur nicht im Mund.",
+      "Wenn Sie Fieber im Mund messen, legen Sie die Thermometerspitze unter die Zunge und lassen Sie während der Messung die Lippen geschlossen."
+    ],
+    0.799404501914978
+  ],
+  [
+    [
+      50,
+      31
+    ],
+    [
+      "So messen Sie richtig unter der Achsel :",
+      "Bei einer Messung unter der Achsel können Abweichungen von bis zu zwei Grad entstehen."
+    ],
+    0.7230485081672668
+  ],
+  [
+    [
+      51,
+      39
+    ],
+    [
+      "Unter der Achsel können Sie die Körpertemperatur mit einem Kontakt-Thermometer messen.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.9188030958175659
+  ],
+  [
+    [
+      52,
+      39
+    ],
+    [
+      "Legen Sie die Spitze des Thermometers in die Achselhöhle.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.8645049333572388
+  ],
+  [
+    [
+      53,
+      32
+    ],
+    [
+      "Dann legen sie den Arm dicht an den Körper an.",
+      "Achten Sie darauf, dass der Unterarm dicht an der Körperseite anliegt."
+    ],
+    0.7158320546150208
+  ],
+  [
+    [
+      54,
+      33
+    ],
+    [
+      "So messen Sie richtig im Ohr :",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.8853734731674194
+  ],
+  [
+    [
+      55,
+      19
+    ],
+    [
+      "Für das Fiebermessen im Ohr brauchen Sie ein Ohr-Thermometer.",
+      "Wenn Kinder die Messung im Po als unangenehm empfinden, ist ein Ohrthermometer eine gute Alternative."
+    ],
+    0.735939621925354
+  ],
+  [
+    [
+      56,
+      23
+    ],
+    [
+      "Das Ohr-Thermometer ist ein besonderes Infrarot-Thermometer.",
+      "Stirnthermometer: Auch hier messen Infrarotstrahlen die Temperatur, aber an der Stirn."
+    ],
+    0.7915520668029785
+  ],
+  [
+    [
+      57,
+      33
+    ],
+    [
+      "Ziehen Sie das Ohr während des Messens mit der Hand leicht nach hinten oben.",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.8869224786758423
+  ],
+  [
+    [
+      58,
+      33
+    ],
+    [
+      "So weitet sich der Gehörgang.",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.7684316635131836
+  ],
+  [
+    [
+      59,
+      39
+    ],
+    [
+      "Führen Sie das Thermometer zum Messen in den Gehörgang ein.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.7857180833816528
+  ],
+  [
+    [
+      60,
+      39
+    ],
+    [
+      "Die meisten Ohrthermometer haben eine Schutzkappe.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.7060345411300659
+  ],
+  [
+    [
+      61,
+      32
+    ],
+    [
+      "Die Schutzkappe ist wichtig:",
+      "Achten Sie darauf, dass der Unterarm dicht an der Körperseite anliegt."
+    ],
+    0.5369859337806702
+  ],
+  [
+    [
+      62,
+      18
+    ],
+    [
+      "Ohne die Schutzkappe misst das Thermometer nicht.",
+      "Bei einer Mittelohrentzündung ist das Thermometer allerdings nicht geeignet."
+    ],
+    0.8667640089988708
+  ],
+  [
+    [
+      63,
+      33
+    ],
+    [
+      "Hinweis: Sie liegen vor dem Fiebermessen auf einem Ohr?",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.7425955533981323
+  ],
+  [
+    [
+      64,
+      33
+    ],
+    [
+      "Dann ist das Ohr meist wärmer.",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.6951796412467957
+  ],
+  [
+    [
+      65,
+      33
+    ],
+    [
+      "Messen Sie die Körpertemperatur deshalb in dem anderen Ohr.",
+      "Zum Messen müssen Sie das Ohr leicht nach hinten oben ziehen, damit der Gehörgang frei wird."
+    ],
+    0.756833016872406
+  ],
+  [
+    [
+      66,
+      15
+    ],
+    [
+      "So messen Sie richtig an der Stirn :",
+      "Sollte das nicht möglich sein, ist eine Messung unter der Zunge auch relativ genau."
+    ],
+    0.6909193992614746
+  ],
+  [
+    [
+      67,
+      23
+    ],
+    [
+      "An der Stirn können Sie die Körpertemperatur mit einem Infrarot-Thermometer messen.",
+      "Stirnthermometer: Auch hier messen Infrarotstrahlen die Temperatur, aber an der Stirn."
+    ],
+    0.9264823198318481
+  ],
+  [
+    [
+      68,
+      39
+    ],
+    [
+      "Halten Sie das Thermometer zum Messen an die Stirn.",
+      "Mit dem Stirnthermometer können Sie die Temperatur an der Schläfe messen."
+    ],
+    0.876056432723999
+  ],
+  [
+    [
+      69,
+      18
+    ],
+    [
+      "Das Thermometer berührt die Stirn dabei nicht.",
+      "Bei einer Mittelohrentzündung ist das Thermometer allerdings nicht geeignet."
+    ],
+    0.8041343688964844
+  ],
+  [
+    [
+      70,
+      3
+    ],
+    [
+      "Sie wollen noch mehr über das Fiebermessen lesen?",
+      "Fieber ist Abwehrarbeit auf vollen Touren."
+    ],
+    0.6922541856765747
+  ],
+  [
+    [
+      71,
+      20
+    ],
+    [
+      "Mehr Informationen finden Sie hier .",
+      "Fragen"
+    ],
+    0.44087862968444824
+  ],
+  [
+    [
+      72,
+      40
+    ],
+    [
+      "Achtung : Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Das ist bequemer als andere Methoden aber relativ ungenau."
+    ],
+    0.37113505601882935
+  ],
+  [
+    [
+      73,
+      24
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Dabei kann es allerdings auch zu Fehlmessungen kommen."
+    ],
+    0.5411938428878784
+  ]
+]

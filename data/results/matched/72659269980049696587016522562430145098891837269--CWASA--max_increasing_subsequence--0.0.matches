@@ -1,0 +1,519 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Manchmal können Fremdkörper ins Auge gelangen.",
+      "Falls er nicht ohnehin schon durch die Tränenflüssigkeit aus dem Auge gespült wird, können Sie einen harmlosen, kleinen Fremdkörper, der auf der Augenoberfläche schwimmt , beispielsweise ein winziges Insekt, ein Staubkorn oder eine Wimper, selbst entfernen."
+    ],
+    0.4406481683254242
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Fremdkörper im Auge sind zum Beispiel: kleine Insekten Staubkörner Wimpern",
+      "Falls er nicht ohnehin schon durch die Tränenflüssigkeit aus dem Auge gespült wird, können Sie einen harmlosen, kleinen Fremdkörper, der auf der Augenoberfläche schwimmt , beispielsweise ein winziges Insekt, ein Staubkorn oder eine Wimper, selbst entfernen."
+    ],
+    0.4376932978630066
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Sie haben einen kleinen Fremdkörper im Auge?",
+      "Versteckt sich der Fremdkörper unter dem Unterlid, brauchen Sie in den meisten Fällen einen Helfer."
+    ],
+    0.4841490089893341
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Viele Fremdkörper können Sie selbst entfernen.",
+      "Versteckt sich der Fremdkörper unter dem Unterlid, brauchen Sie in den meisten Fällen einen Helfer."
+    ],
+    0.4179844558238983
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Sie haben einen Fremdkörper im unteren Augenlid ?",
+      "Versteckt sich der Fremdkörper unter dem Unterlid, brauchen Sie in den meisten Fällen einen Helfer."
+    ],
+    0.5231805443763733
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Dann bitten Sie eine andere Person um Hilfe.",
+      "Versteckt sich der Fremdkörper unter dem Unterlid, brauchen Sie in den meisten Fällen einen Helfer."
+    ],
+    0.3556402623653412
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Einen Fremdkörper aus dem unteren Augenlid entfernen Sie so:",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.5376091003417969
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Schauen Sie nach oben.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.3951679468154907
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Der Helfer zieht das Unterlid nach unten.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.45064324140548706
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Der Helfer nimmt ein Taschentuch.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.24650660157203674
+  ],
+  [
+    [
+      10,
+      3
+    ],
+    [
+      "Der Helfer tupft den Fremdkörper in Richtung Nase heraus.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.5145052075386047
+  ],
+  [
+    [
+      11,
+      3
+    ],
+    [
+      "Der Fremdkörper ist im oberen Augenlid ?",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.39555928111076355
+  ],
+  [
+    [
+      12,
+      3
+    ],
+    [
+      "Dann können Sie den Fremdkörper ohne Hilfe entfernen.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.4217366874217987
+  ],
+  [
+    [
+      13,
+      3
+    ],
+    [
+      "Einen Fremdkörper aus dem oberen Augenlid entfernen Sie so:",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.5241916179656982
+  ],
+  [
+    [
+      14,
+      3
+    ],
+    [
+      "Schauen Sie nach unten.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.4271102845668793
+  ],
+  [
+    [
+      15,
+      3
+    ],
+    [
+      "Klappen Sie das Oberlid vorsichtig nach außen.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.5944170355796814
+  ],
+  [
+    [
+      16,
+      3
+    ],
+    [
+      "Nehmen Sie ein Taschentuch.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.2818530797958374
+  ],
+  [
+    [
+      17,
+      3
+    ],
+    [
+      "Tupfen Sie den Fremdkörper in Richtung Nase heraus.",
+      "Bei einem Fremdkörper unter dem Oberlid, schauen Sie nach unten, klappen das Oberlid vorsichtig nach außen und tupfen den Fremdkörper ebenfalls in Richtung Nase heraus."
+    ],
+    0.5790368318557739
+  ],
+  [
+    [
+      18,
+      4
+    ],
+    [
+      "Sie können den Fremdkörper nicht aus dem Auge entfernen?",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.6044266819953918
+  ],
+  [
+    [
+      19,
+      4
+    ],
+    [
+      "Dann gehen Sie zum Augenarzt.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.4537747800350189
+  ],
+  [
+    [
+      20,
+      4
+    ],
+    [
+      "Der Augenarzt hilft Ihnen.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3197014331817627
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Manche Fremdkörper im Auge können sehr gefährlich sein.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.461111456155777
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Diese Fremdkörper sollten Sie nicht selbst entfernen.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.5793160200119019
+  ],
+  [
+    [
+      23,
+      4
+    ],
+    [
+      "Die Fremdkörper muss ein Arzt aus dem Auge entfernen.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.43672892451286316
+  ],
+  [
+    [
+      24,
+      4
+    ],
+    [
+      "Zu diesen Fremdkörpern gehören zum Beispiel:",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3593166768550873
+  ],
+  [
+    [
+      25,
+      4
+    ],
+    [
+      "Glassplitter Holzsplitter Metallsplitter größere Fremdkörper",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3435986042022705
+  ],
+  [
+    [
+      26,
+      4
+    ],
+    [
+      "Fremdkörper mit scharfen Kanten",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.33868908882141113
+  ],
+  [
+    [
+      27,
+      4
+    ],
+    [
+      "Sie haben einen gefährlichen Fremdkörper im Auge?",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.5149309635162354
+  ],
+  [
+    [
+      28,
+      4
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.44625338912010193
+  ],
+  [
+    [
+      29,
+      4
+    ],
+    [
+      "Der Arzt behandelt Sie.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3939301073551178
+  ],
+  [
+    [
+      30,
+      4
+    ],
+    [
+      "Oder rufen Sie den Rettungsdienst.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.42311856150627136
+  ],
+  [
+    [
+      31,
+      4
+    ],
+    [
+      "Die Nummer ist 112. Achtung:",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.2040419578552246
+  ],
+  [
+    [
+      32,
+      4
+    ],
+    [
+      "Sie haben einen gefährlichen Fremdkörper im Auge?",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.5149309635162354
+  ],
+  [
+    [
+      33,
+      4
+    ],
+    [
+      "Dann reiben Sie nicht im Auge.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.4952366352081299
+  ],
+  [
+    [
+      34,
+      4
+    ],
+    [
+      "Decken",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.22433389723300934
+  ],
+  [
+    [
+      35,
+      4
+    ],
+    [
+      "Sie",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.2524111866950989
+  ],
+  [
+    [
+      36,
+      4
+    ],
+    [
+      "beide Augen mit einem keimfreien Tuch",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.32105082273483276
+  ],
+  [
+    [
+      37,
+      4
+    ],
+    [
+      "ab",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.09196360409259796
+  ],
+  [
+    [
+      40,
+      4
+    ],
+    [
+      "Sie haben eine Verätzung am Auge?",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.4163745045661926
+  ],
+  [
+    [
+      41,
+      4
+    ],
+    [
+      "Dann rufen Sie den Rettungsdienst.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.43281131982803345
+  ],
+  [
+    [
+      42,
+      4
+    ],
+    [
+      "Die Nummer ist: 112 .",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.1608923375606537
+  ],
+  [
+    [
+      43,
+      4
+    ],
+    [
+      "Spülen Sie das Auge dann mit Wasser aus.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3993973433971405
+  ],
+  [
+    [
+      44,
+      4
+    ],
+    [
+      "Nutzen Sie dafür am besten Leitungswasser.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3978472352027893
+  ],
+  [
+    [
+      45,
+      4
+    ],
+    [
+      "Sie wollen noch mehr über Fremdkörper im Auge lesen?",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.4925821125507355
+  ],
+  [
+    [
+      46,
+      4
+    ],
+    [
+      "Mehr Informationen über Fremdkörper im Auge finden Sie hier .",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.45058324933052063
+  ],
+  [
+    [
+      47,
+      4
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.3010832667350769
+  ],
+  [
+    [
+      48,
+      4
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Werden Sie den Fremdkörper so nicht los oder halten die Beschwerden länger an, sollten Sie einen Augenarzt aufsuchen."
+    ],
+    0.4288423955440521
+  ]
+]

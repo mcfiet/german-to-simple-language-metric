@@ -1,0 +1,519 @@
+[
+  [
+    [
+      1,
+      45
+    ],
+    [
+      "Lebensmittel verursachen die beiden Erkrankungen.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.3552146553993225
+  ],
+  [
+    [
+      2,
+      45
+    ],
+    [
+      "Viele Menschen kennen den Unterschied zwischen Lebensmittel-Vergiftung und Lebensmittel-Infektion nicht.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2897687256336212
+  ],
+  [
+    [
+      3,
+      8
+    ],
+    [
+      "Aber es gibt Unterschiede.",
+      "Dabei gibt es einen Unterschied:"
+    ],
+    0.3304462432861328
+  ],
+  [
+    [
+      4,
+      3
+    ],
+    [
+      "Eine Lebensmittel-Vergiftung ist eine Vergiftung.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.25092756748199463
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Bakterien Schimmelpilze",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.36737188696861267
+  ],
+  [
+    [
+      8,
+      45
+    ],
+    [
+      "In den meisten Fällen entsteht eine Lebensmittel-Vergiftung durch Bakterien.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2614738941192627
+  ],
+  [
+    [
+      9,
+      45
+    ],
+    [
+      "Auch Bakterien können Giftstoffe produzieren.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.3193734288215637
+  ],
+  [
+    [
+      12,
+      45
+    ],
+    [
+      "Bei einer Lebensmittel-Vergiftung können die Giftstoffe nicht übertragen werden.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.28725314140319824
+  ],
+  [
+    [
+      13,
+      9
+    ],
+    [
+      "Deshalb ist eine Lebensmittel-Vergiftung nicht ansteckend .",
+      "Eine Lebensmittelvergiftung ist keine Infektion, sie ist also auch nicht ansteckend."
+    ],
+    0.31021377444267273
+  ],
+  [
+    [
+      17,
+      45
+    ],
+    [
+      "Die Bakterien sind jedoch andere als bei der Lebensmittel-Vergiftung.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.261231005191803
+  ],
+  [
+    [
+      21,
+      45
+    ],
+    [
+      "Salmonellen Listerien",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.3628395199775696
+  ],
+  [
+    [
+      22,
+      45
+    ],
+    [
+      "Aber auch Viren können eine Lebensmittel-Infektion auslösen:",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.28828713297843933
+  ],
+  [
+    [
+      24,
+      3
+    ],
+    [
+      "Rota-Viren",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.25836750864982605
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Es gibt typische Beschwerden bei einer Lebensmittel-Vergiftung.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.2723879814147949
+  ],
+  [
+    [
+      26,
+      3
+    ],
+    [
+      "Zum Beispiel: Übelkeit Bauchschmerzen",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.3921129107475281
+  ],
+  [
+    [
+      27,
+      3
+    ],
+    [
+      "Erbrechen Durchfall",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.7098461985588074
+  ],
+  [
+    [
+      28,
+      3
+    ],
+    [
+      "Bei einer Lebensmittel-Vergiftung kommen diese Beschwerden oft nach wenigen Stunden .",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.3014192283153534
+  ],
+  [
+    [
+      29,
+      45
+    ],
+    [
+      "Aber die Beschwerden gehen oft auch schnell wieder weg.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.31796684861183167
+  ],
+  [
+    [
+      30,
+      3
+    ],
+    [
+      "Manchmal dauern die Beschwerden nur wenige Stunden.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.312032550573349
+  ],
+  [
+    [
+      32,
+      3
+    ],
+    [
+      "Manchmal dauern die Beschwerden aber auch länger.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.34367334842681885
+  ],
+  [
+    [
+      35,
+      3
+    ],
+    [
+      "Aber die Beschwerden kommen oft erst später.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.3206782042980194
+  ],
+  [
+    [
+      36,
+      3
+    ],
+    [
+      "Manchmal kommen die Beschwerden bei einer Lebensmittel-Infektion sogar erst nach mehreren Tagen.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.2616455852985382
+  ],
+  [
+    [
+      40,
+      45
+    ],
+    [
+      "Vielleicht sind aber auch andere Krankheiten die Ursache für die Beschwerden.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.35910648107528687
+  ],
+  [
+    [
+      41,
+      45
+    ],
+    [
+      "Ein Arzt kann die Beschwerden genau untersuchen.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2522152364253998
+  ],
+  [
+    [
+      42,
+      45
+    ],
+    [
+      "In manchen Lebensmitteln gibt es häufiger Krankheitserreger als in anderen.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2698664665222168
+  ],
+  [
+    [
+      43,
+      45
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel Bakterien oder Viren.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2743082344532013
+  ],
+  [
+    [
+      45,
+      45
+    ],
+    [
+      "Auch in manchen Konservendosen können Krankheitserreger sein.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.30439984798431396
+  ],
+  [
+    [
+      46,
+      45
+    ],
+    [
+      "Die Krankheitserreger in Konservendosen sind aber sehr selten.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.26475363969802856
+  ],
+  [
+    [
+      47,
+      45
+    ],
+    [
+      "Trotzdem sind diese Krankheitserreger besonders gefährlich.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.3566189408302307
+  ],
+  [
+    [
+      49,
+      45
+    ],
+    [
+      "In aufgeblähten Konservendosen sind wahrscheinlich Krankheitserreger enthalten.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.29476502537727356
+  ],
+  [
+    [
+      51,
+      45
+    ],
+    [
+      "Dafür können Sie einige Dinge beachten.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2630167603492737
+  ],
+  [
+    [
+      52,
+      58
+    ],
+    [
+      "Lebensmittel ausreichend lange erhitzen.",
+      "Kochen, braten oder garen Sie Fleisch, Fisch oder Geflügel ausreichend lange, dann werden die meisten Erreger abgetötet."
+    ],
+    0.31743523478507996
+  ],
+  [
+    [
+      53,
+      3
+    ],
+    [
+      "Starke Hitze tötet die meisten Krankheitserreger.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.28765860199928284
+  ],
+  [
+    [
+      55,
+      58
+    ],
+    [
+      "Kochen Braten oder garen",
+      "Kochen, braten oder garen Sie Fleisch, Fisch oder Geflügel ausreichend lange, dann werden die meisten Erreger abgetötet."
+    ],
+    0.3498331904411316
+  ],
+  [
+    [
+      56,
+      3
+    ],
+    [
+      "Gründlich Hände waschen.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.34172093868255615
+  ],
+  [
+    [
+      58,
+      48
+    ],
+    [
+      "Benutzen Sie dafür Wasser und Seife.",
+      "Möchten Sie das Essen zubereiten, dann waschen Sie sich vorher und nachher gründlich die Hände mit Wasser und Seife."
+    ],
+    0.25772130489349365
+  ],
+  [
+    [
+      60,
+      45
+    ],
+    [
+      "Mögliche Krankheitserreger können sonst schnell auf andere Lebensmittel übergehen.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.36571943759918213
+  ],
+  [
+    [
+      61,
+      45
+    ],
+    [
+      "Lebensmittel getrennt voneinander verarbeiten.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.31468072533607483
+  ],
+  [
+    [
+      62,
+      45
+    ],
+    [
+      "Rohes Fleisch und roher Fisch dürfen andere Lebensmittel nicht berühren.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2796458899974823
+  ],
+  [
+    [
+      63,
+      45
+    ],
+    [
+      "Benutzen Sie deshalb immer unterschiedliche Teller oder Brettchen bei der Verarbeitung.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.26884716749191284
+  ],
+  [
+    [
+      64,
+      53
+    ],
+    [
+      "Arbeitsfläche gründlich reinigen.",
+      "Reinigen Sie die benutzten Arbeitsflächen nach jedem Gebrauch."
+    ],
+    0.34244784712791443
+  ],
+  [
+    [
+      65,
+      45
+    ],
+    [
+      "Machen Sie die Arbeitsfläche immer gründlich sauber.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2613891065120697
+  ],
+  [
+    [
+      68,
+      45
+    ],
+    [
+      "Auch Bürsten sollten Sie regelmäßig austauschen.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.29758936166763306
+  ],
+  [
+    [
+      69,
+      3
+    ],
+    [
+      "Tauwasser wegschütten.",
+      "Erbrechen , Durchfall , heftige Bauchschmerzen ."
+    ],
+    0.3004511594772339
+  ],
+  [
+    [
+      70,
+      45
+    ],
+    [
+      "Manche Lebensmittel sind gefroren.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2632112205028534
+  ],
+  [
+    [
+      74,
+      45
+    ],
+    [
+      "In der Flüssigkeit können sich nämlich schnell Krankheitserreger bilden.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2813214361667633
+  ],
+  [
+    [
+      80,
+      45
+    ],
+    [
+      "Lagern Sie die Lebensmittel immer getrennt voneinander.",
+      "Hinter solchen Anzeichen können auch andere ernstzunehmende Krankheiten stecken."
+    ],
+    0.2954801023006439
+  ]
+]

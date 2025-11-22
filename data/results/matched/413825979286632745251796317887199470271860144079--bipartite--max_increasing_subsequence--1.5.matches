@@ -1,0 +1,409 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Bei einer Verbrennung ist die Haut verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.6866033673286438
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Verbrennung entsteht durch sehr große Hitze.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.7055913805961609
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Bei einer Verbrennung verletzt große Hitze die Haut.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.6951606869697571
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Beim ersten Schweregrad ist nur die äußerste Hautschicht verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5545547604560852
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Bei höheren Schweregraden sind weitere Hautschichten verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.6483664512634277
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Dann sind vielleicht auch Muskeln oder Knochen durch die Hitze verletzt.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.6464109420776367
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Die Verbrennung reicht über einen großen Teil der Haut?",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.5710060596466064
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Bei einer Verbrennung ist eine schnelle Erste Hilfe wichtig.",
+      "Die wichtigsten Ziele der ersten Hilfe bei Verbrennungen sind weiteren Schaden durch die Hitze vermeiden (thermische Schädigung) und die Schmerzen zu lindern."
+    ],
+    0.6721482872962952
+  ],
+  [
+    [
+      21,
+      1
+    ],
+    [
+      "Eine Person brennt?",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7661938071250916
+  ],
+  [
+    [
+      22,
+      1
+    ],
+    [
+      "Dann löschen Sie zuerst den Brand.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.5951030850410461
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Werfen Sie zum Beispiel eine Branddecke über die brennende Person.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7171886563301086
+  ],
+  [
+    [
+      24,
+      1
+    ],
+    [
+      "Oder löschen Sie den Brand mit Wasser.",
+      "Bei brennenden Personen: Wenn möglich Brand mit Wasser oder Feuerlöscher löschen, alternativ kann eine Branddecke über die Person geworfen werden."
+    ],
+    0.7484549283981323
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Entfernen Sie dann die Kleidung und den Schmuck von der Person.",
+      "Entfernung von Kleidung und Schmuck in der betroffenen Region (Hitzespeicher entfernen)."
+    ],
+    0.6071990132331848
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "Dann reißen Sie die Kleidung auf keinen Fall von der Haut ab.",
+      "Auf keinen Fall Kleidung abreißen!"
+    ],
+    0.8908418416976929
+  ],
+  [
+    [
+      30,
+      6
+    ],
+    [
+      "Dann kühlen Sie die betroffene Stelle vorsichtig mit lauwarmem Leitungswasser.",
+      "Bei kleinflächigen Verbrennungen: Klagt der Patient über Schmerzen, betroffene Region vorsichtig mit Leitungswasser (circa 20 Grad Celsius) für maximal fünf Minuten kühlen."
+    ],
+    0.6640895009040833
+  ],
+  [
+    [
+      31,
+      6
+    ],
+    [
+      "Kühlen Sie die betroffene Stelle nicht länger als fünf Minuten.",
+      "Bei kleinflächigen Verbrennungen: Klagt der Patient über Schmerzen, betroffene Region vorsichtig mit Leitungswasser (circa 20 Grad Celsius) für maximal fünf Minuten kühlen."
+    ],
+    0.6067309975624084
+  ],
+  [
+    [
+      32,
+      6
+    ],
+    [
+      "Sie kühlen die Verbrennung länger als fünf Minuten?",
+      "Bei kleinflächigen Verbrennungen: Klagt der Patient über Schmerzen, betroffene Region vorsichtig mit Leitungswasser (circa 20 Grad Celsius) für maximal fünf Minuten kühlen."
+    ],
+    0.6661444902420044
+  ],
+  [
+    [
+      36,
+      13
+    ],
+    [
+      "Kleine Verbrennung bedeutet: Die Fläche ist höchstens so groß wie die Handfläche.",
+      "Verbrennungsareal ist circa vier Handflächen (inklusive der Finger) groß bedeutet, dass circa vier Prozent der Körperoberfläche verbrannt sind."
+    ],
+    0.6332916617393494
+  ],
+  [
+    [
+      37,
+      14
+    ],
+    [
+      "Die Verbrennung ist sehr groß?",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.709935188293457
+  ],
+  [
+    [
+      38,
+      14
+    ],
+    [
+      "Dann kühlen Sie die Verbrennung nicht.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.5788535475730896
+  ],
+  [
+    [
+      43,
+      14
+    ],
+    [
+      "Die Verbrennung ist an einer anderen Köperstelle?",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.6166619062423706
+  ],
+  [
+    [
+      56,
+      14
+    ],
+    [
+      "Die Verbrennung ist sehr groß.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.709935188293457
+  ],
+  [
+    [
+      57,
+      14
+    ],
+    [
+      "Die Fläche der Verbrennung ist größer als die Handfläche.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.7045817971229553
+  ],
+  [
+    [
+      58,
+      14
+    ],
+    [
+      "Die Verbrennung ist sehr tief.",
+      "Neben dem Anteil der verbrannten Körperoberfläche ist auch die Tiefe der Verbrennung wichtig."
+    ],
+    0.7463592290878296
+  ],
+  [
+    [
+      68,
+      16
+    ],
+    [
+      "Rufen Sie bei schweren Verbrühungen oder Verbrennungen einen Notarzt.",
+      "Ausgedehnte Verbrennungen können neben der lokalen Hautzerstörung auch zu weiteren Komplikationen wie einer Fehlregulierung des Flüssigkeitshaushaltes, Blutvergiftung (Sepsis) oder Nierenversagen führen."
+    ],
+    0.5829482078552246
+  ],
+  [
+    [
+      72,
+      16
+    ],
+    [
+      "In bestimmten Situationen kann es schnell zu Verbrennungen kommen.",
+      "Ausgedehnte Verbrennungen können neben der lokalen Hautzerstörung auch zu weiteren Komplikationen wie einer Fehlregulierung des Flüssigkeitshaushaltes, Blutvergiftung (Sepsis) oder Nierenversagen führen."
+    ],
+    0.6378728151321411
+  ],
+  [
+    [
+      73,
+      16
+    ],
+    [
+      "Sie möchten eine Verbrennung vermeiden?",
+      "Ausgedehnte Verbrennungen können neben der lokalen Hautzerstörung auch zu weiteren Komplikationen wie einer Fehlregulierung des Flüssigkeitshaushaltes, Blutvergiftung (Sepsis) oder Nierenversagen führen."
+    ],
+    0.6628710031509399
+  ],
+  [
+    [
+      75,
+      17
+    ],
+    [
+      "Benutzen Sie beim Grillen keine Brandbeschleuniger.",
+      "Vorbeugen: Beim Grillen keine Brandbeschleuniger verwenden!"
+    ],
+    0.7987254858016968
+  ],
+  [
+    [
+      76,
+      18
+    ],
+    [
+      "Gehen Sie vorsichtig mit Feuer um.",
+      "Besonnen mit Feuer umgehen!"
+    ],
+    0.6262596845626831
+  ],
+  [
+    [
+      77,
+      20
+    ],
+    [
+      "Füllen Sie kein kochendes Wasser in Wärmflaschen.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.9365614056587219
+  ],
+  [
+    [
+      78,
+      20
+    ],
+    [
+      "Heißes Wasser reicht aus.",
+      "Kein kochendes Wasser in Wärmflaschen füllen!"
+    ],
+    0.5345982909202576
+  ],
+  [
+    [
+      82,
+      21
+    ],
+    [
+      "Stellen Sie den Wasserkocher weit entfernt von Kindern auf.",
+      "Wasserkocher und deren Kabel immer außer Reichweite von Kindern stellen."
+    ],
+    0.5446462631225586
+  ],
+  [
+    [
+      85,
+      22
+    ],
+    [
+      "Sie heiße Getränke nicht in die Nähe von Kindern.",
+      "Heiße Getränke außer Reichweite von Kindern abstellen, Tischdecken vermeiden, sie verleiten dazu, daran zu ziehen."
+    ],
+    0.5654082894325256
+  ],
+  [
+    [
+      86,
+      22
+    ],
+    [
+      "Vermeiden Sie Tischdecken.",
+      "Heiße Getränke außer Reichweite von Kindern abstellen, Tischdecken vermeiden, sie verleiten dazu, daran zu ziehen."
+    ],
+    0.7681269645690918
+  ],
+  [
+    [
+      87,
+      22
+    ],
+    [
+      "Die Kinder können nämlich daran ziehen.",
+      "Heiße Getränke außer Reichweite von Kindern abstellen, Tischdecken vermeiden, sie verleiten dazu, daran zu ziehen."
+    ],
+    0.6687421202659607
+  ],
+  [
+    [
+      89,
+      23
+    ],
+    [
+      "Bügeleisen nicht in die Nähe von Kindern.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.7098805904388428
+  ],
+  [
+    [
+      90,
+      23
+    ],
+    [
+      "Kinder dürfen auch das Kabel des Bügeleisens nicht erreichen.",
+      "Bügeleisen und dessen Kabel außer Reichweite von Kindern halten beziehungsweise nicht ohne Beaufsichtigung von Erwachsenen stehen lassen."
+    ],
+    0.646874189376831
+  ]
+]

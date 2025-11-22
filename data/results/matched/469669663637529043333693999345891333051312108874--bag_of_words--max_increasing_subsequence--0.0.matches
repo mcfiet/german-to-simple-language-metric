@@ -1,0 +1,662 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine Impfung schützt vor Infektionskrankheiten.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.08106251806020737
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Infektionskrankheiten entstehen durch Krankheitserreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.18357142806053162
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Krankheitserreger sind zum Beispiel:",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.08600565046072006
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Bakterien Viren",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.14196622371673584
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Durch die Impfung kann Ihr Körper den Krankheitserreger nämlich besser abwehren.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.007923508062958717
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Sie werden dann meist nicht krank.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.02830994315445423
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Oder Sie bekommen den Impfstoff als Lösung zum Einnehmen.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.013672878034412861
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Nach der Impfung bildet ihr Körper Abwehrstoffe gegen die Erreger aus dem Impfstoff.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.17987142503261566
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Sie haben zum Beispiel Kontakt mit einer erkrankten Person?",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.08036206662654877
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Dann erkennt Ihr Körper den Erreger.",
+      "Infektionskrankheiten werden durch Erreger wie zum Beispiel Viren oder Bakterien hervorgerufen."
+    ],
+    0.530764102935791
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Mit den Abwehrstoffen kann Ihr Körper den Erreger aufhalten.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.5152855515480042
+  ],
+  [
+    [
+      21,
+      2
+    ],
+    [
+      "Die toten Erreger sind nicht gefährlich.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.6549163460731506
+  ],
+  [
+    [
+      22,
+      2
+    ],
+    [
+      "Das Immunsystem reagiert nicht so stark auf Totimpfstoffe.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.0247789453715086
+  ],
+  [
+    [
+      27,
+      2
+    ],
+    [
+      "Die Erreger können sich im Körper vermehren.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.6728202700614929
+  ],
+  [
+    [
+      28,
+      2
+    ],
+    [
+      "Aber die Erreger können keine Erkrankung auslösen.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.6823941469192505
+  ],
+  [
+    [
+      29,
+      2
+    ],
+    [
+      "Manchmal reagiert das Immunsystem trotzdem sehr stark.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.057199761271476746
+  ],
+  [
+    [
+      30,
+      2
+    ],
+    [
+      "Dann fühlen Sie sich nach der Impfung krank.",
+      "Der Körper reagiert darauf, indem er Abwehrstoffe, sogenannte Antikörper, bildet, die sich gegen den Erreger richten."
+    ],
+    0.0530364066362381
+  ],
+  [
+    [
+      31,
+      3
+    ],
+    [
+      "Die Beschwerden verschwinden nach einigen Tagen wieder.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.5085508227348328
+  ],
+  [
+    [
+      32,
+      3
+    ],
+    [
+      "Lebendimpfstoffe sind zum Beispiel:",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.039107076823711395
+  ],
+  [
+    [
+      35,
+      3
+    ],
+    [
+      "Institut erarbeitet die Impfempfehlungen für Deutschland.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.4701204001903534
+  ],
+  [
+    [
+      36,
+      3
+    ],
+    [
+      "Die Abkürzung für ständige Impfkommission ist: STIKO.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.425423800945282
+  ],
+  [
+    [
+      37,
+      3
+    ],
+    [
+      "Die Abkürzung für das Robert Koch Institut ist: RKI.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.3982211947441101
+  ],
+  [
+    [
+      38,
+      3
+    ],
+    [
+      "Die Impfempfehlungen der STIKO finden Sie in diesem Impfkalender.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.3645719885826111
+  ],
+  [
+    [
+      40,
+      3
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.387699156999588
+  ],
+  [
+    [
+      41,
+      3
+    ],
+    [
+      "Hinweis: Im Impfkalender stehen nur allgemeine Empfehlungen.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.007838058285415173
+  ],
+  [
+    [
+      42,
+      3
+    ],
+    [
+      "Sprechen Sie mit Ihrem Hausarzt.",
+      "Die Folge: Kommt man wirklich mit dem Bakterium oder Virus in Kontakt, sind die passenden Antikörper bereits im Körper vorhanden und so werden die Keime im Idealfall rasch von der Körperabwehr vernichtet."
+    ],
+    0.014304779469966888
+  ],
+  [
+    [
+      52,
+      4
+    ],
+    [
+      "Dann können Sie andere Menschen meist nicht anstecken.",
+      "Man erkrankt also nicht und kann die Erreger auch nicht weitergeben."
+    ],
+    0.11092373728752136
+  ],
+  [
+    [
+      54,
+      11
+    ],
+    [
+      "Dann bleiben diese Menschen gesund.",
+      "Krankheiten können auf diese Weise sogar ganz zum Verschwinden gebracht werden."
+    ],
+    0.0457572266459465
+  ],
+  [
+    [
+      55,
+      11
+    ],
+    [
+      "Und diese Menschen stecken niemanden an.",
+      "Krankheiten können auf diese Weise sogar ganz zum Verschwinden gebracht werden."
+    ],
+    0.05996130034327507
+  ],
+  [
+    [
+      56,
+      11
+    ],
+    [
+      "Hinweis: Nicht alle Menschen können eine Impfung bekommen.",
+      "Krankheiten können auf diese Weise sogar ganz zum Verschwinden gebracht werden."
+    ],
+    0.07046297937631607
+  ],
+  [
+    [
+      58,
+      11
+    ],
+    [
+      "Diese Menschen können sich also nicht selbst schützen.",
+      "Krankheiten können auf diese Weise sogar ganz zum Verschwinden gebracht werden."
+    ],
+    0.1764678955078125
+  ],
+  [
+    [
+      59,
+      11
+    ],
+    [
+      "Für diese Menschen ist deshalb besonders wichtig:",
+      "Krankheiten können auf diese Weise sogar ganz zum Verschwinden gebracht werden."
+    ],
+    0.05876373499631882
+  ],
+  [
+    [
+      62,
+      21
+    ],
+    [
+      "Wissenschaftler haben einen möglichen Impfstoff gefunden?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.11114029586315155
+  ],
+  [
+    [
+      63,
+      21
+    ],
+    [
+      "Dann muss dieser Impfstoff gut getestet werden.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.11660906672477722
+  ],
+  [
+    [
+      64,
+      21
+    ],
+    [
+      "Erst dann kann der Impfstoff zugelassen werden.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.12964412569999695
+  ],
+  [
+    [
+      66,
+      21
+    ],
+    [
+      "Zuerst testen die Wissenschaftler den Impfstoff an Tieren.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.1089911088347435
+  ],
+  [
+    [
+      68,
+      21
+    ],
+    [
+      "Bilden die Tiere Antikörper durch den Impfstoff?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.11583557724952698
+  ],
+  [
+    [
+      70,
+      21
+    ],
+    [
+      "Phase 2: Danach testen die Wissenschaftler den Impfstoff an sehr wenigen Personen.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.10783365368843079
+  ],
+  [
+    [
+      72,
+      21
+    ],
+    [
+      "Vertragen die Testpersonen den Impfstoff?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.11697673797607422
+  ],
+  [
+    [
+      75,
+      21
+    ],
+    [
+      "Dann testen die Wissenschaftler den Impfstoff an einer Gruppe von bis zu 1.000 Personen.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.11036486178636551
+  ],
+  [
+    [
+      77,
+      21
+    ],
+    [
+      "Bildet der Körper von Menschen auch Antikörper durch den Impfstoff?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.1305253654718399
+  ],
+  [
+    [
+      78,
+      21
+    ],
+    [
+      "Wie viel Impfstoff braucht eine Person?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.11802570521831512
+  ],
+  [
+    [
+      79,
+      21
+    ],
+    [
+      "Phase 4: Dann testen die Wissenschaftler den Impfstoff an einer Gruppe von bis zu 10.000 Personen.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.10941796004772186
+  ],
+  [
+    [
+      81,
+      21
+    ],
+    [
+      "Schützt der Impfstoff sicher vor der Krankheit?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.14245207607746124
+  ],
+  [
+    [
+      82,
+      21
+    ],
+    [
+      "Wie lange schützt der Impfstoff vor der Krankheit?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.14243090152740479
+  ],
+  [
+    [
+      83,
+      21
+    ],
+    [
+      "Der Impfstoff hat alle Tests bestanden?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.13119514286518097
+  ],
+  [
+    [
+      84,
+      21
+    ],
+    [
+      "Dann wird der Impfstoff zugelassen.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.12990690767765045
+  ],
+  [
+    [
+      85,
+      21
+    ],
+    [
+      "Das bedeutet: Alle Menschen können den Impfstoff bekommen.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.12220996618270874
+  ],
+  [
+    [
+      86,
+      21
+    ],
+    [
+      "Sie bekommen eine Impfung?",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.8043474555015564
+  ],
+  [
+    [
+      88,
+      21
+    ],
+    [
+      "Und Ihr Immunsystem reagiert auf den Impfstoff.",
+      "Das hängt von der einzelnen Impfung, manchmal sogar vom Impfstoff ab."
+    ],
+    0.1156228631734848
+  ],
+  [
+    [
+      89,
+      32
+    ],
+    [
+      "Deshalb kann es nach der Impfung zu einer Impfreaktion kommen.",
+      "Das Immunsystem setzt sich mit der Impfung auseinander, dabei können diese Beschwerden entstehen."
+    ],
+    0.8676128387451172
+  ],
+  [
+    [
+      90,
+      32
+    ],
+    [
+      "Beschwerden einer Impfreaktion können zum Beispiel sein: Schmerzen und Rötungen an der Einstichstelle Erschöpfung",
+      "Das Immunsystem setzt sich mit der Impfung auseinander, dabei können diese Beschwerden entstehen."
+    ],
+    0.13501860201358795
+  ],
+  [
+    [
+      93,
+      33
+    ],
+    [
+      "Diese Beschwerden verschwinden normalerweise nach einigen Tagen.",
+      "Normalerweise verschwinden sie innerhalb weniger Tage."
+    ],
+    0.3774445950984955
+  ],
+  [
+    [
+      95,
+      35
+    ],
+    [
+      "In seltenen Fällen kann es Impfkomplikationen geben.",
+      "Impfkomplikationen sind gesundheitliche Schädigungen, die über das normale Maß einer Impfreaktion hinausgehen."
+    ],
+    0.21264632046222687
+  ],
+  [
+    [
+      97,
+      35
+    ],
+    [
+      "Manchmal führen diese seltenen Impfkomplikationen zu gesundheitlichen Schäden.",
+      "Impfkomplikationen sind gesundheitliche Schädigungen, die über das normale Maß einer Impfreaktion hinausgehen."
+    ],
+    0.17358222603797913
+  ],
+  [
+    [
+      100,
+      36
+    ],
+    [
+      "Dann sprechen Sie mit dem Gesundheitsamt.",
+      "Der Arzt ist verpflichtet, solche Fälle an das Gesundheitsamt zu melden."
+    ],
+    0.11665055900812149
+  ],
+  [
+    [
+      101,
+      36
+    ],
+    [
+      "Das Gesundheitsamt sagt Ihnen:",
+      "Der Arzt ist verpflichtet, solche Fälle an das Gesundheitsamt zu melden."
+    ],
+    0.36920788884162903
+  ],
+  [
+    [
+      102,
+      42
+    ],
+    [
+      "Das können Sie jetzt tun.",
+      "Normalerweise sind dann aber nur bestimmte Impfungen nicht angezeigt, andere können problemlos stattfinden."
+    ],
+    0.05667160078883171
+  ],
+  [
+    [
+      104,
+      43
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen Menschen mit einer Immunschwäche Menschen mit einer Allergie gegen Bestandteile des Impfstoffs Menschen mit bestimmten akuten Krankheitssymptomen Sie sind sich unsicher?",
+      "Das gilt zum Beispiel bei Schwangerschaft angeborener oder erworbener Immunschwächekrankheit Allergie gegen Bestandteile des Impfstoffs"
+    ],
+    0.14067848026752472
+  ],
+  [
+    [
+      108,
+      48
+    ],
+    [
+      "Mehr Informationen finden Sie hier .",
+      "Einige der Krankheiten, gegen die geimpft werden kann, listen wir hier auf."
+    ],
+    0.0024179373867809772
+  ]
+]

@@ -1,0 +1,2125 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie haben Ihren Führerschein frei-willig abgegeben?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.79465651512146
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Oder Ihnen wurde der Führerschein weggenommen?",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.8892508745193481
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Zum Beispiel: Weil das ein Gericht entschieden hat.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.4920584559440613
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Oder das Straßen-Verkehrs-Amt .",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.5512620210647583
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Das nennt man: Fahr-Verbot .",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.6202210783958435
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Sie bekommen ein Fahr-Verbot:",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.7407408356666565
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Wenn Sie viele Fehler im Verkehr gemacht haben.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.6269515752792358
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Wenn Sie betrunken gefahren sind.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.5439962148666382
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Oder Drogen genommen haben.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.34025633335113525
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Es gibt ein befristetes Fahr-Verbot.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.6299350261688232
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Das heißt: Das Fahr-Verbot gilt nur eine bestimmte Zeit .",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.5638360977172852
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Danach bekommen Sie den Führerschein automatisch zurück.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.6612535119056702
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Sie müssen nichts dafür tun.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.3363037109375
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Wenn das Fahr-Verbot nicht befristet ist, bekommen Sie den Führerschein nicht automatisch zurück.",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.800489068031311
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Das nennt man: Führerschein-Entziehung .",
+      "Ihnen wurde der Führerschein durch ein Gerichtsurteil oder durch die Straßenverkehrsbehörde entzogen oder Sie haben freiwillig auf die Fahrerlaubnis verzichtet."
+    ],
+    0.696042537689209
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Sie müssen dann einen Antrag beim Amt stellen, wenn Sie den Führerschein wieder haben wollen.",
+      "Wenn Sie Ihre Fahrerlaubnis wiederhaben möchten, müssen Sie einen Antrag auf Wiedererteilung des Führerscheins stellen."
+    ],
+    0.9262473583221436
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Und Sie müssen verschiedene Papiere zeigen.",
+      "Benötigt werden"
+    ],
+    0.5661197900772095
+  ],
+  [
+    [
+      17,
+      2
+    ],
+    [
+      "Welche Papiere brauche ich dazu?",
+      "Benötigt werden"
+    ],
+    0.6020399332046509
+  ],
+  [
+    [
+      18,
+      2
+    ],
+    [
+      "Diese Papiere brauchen Sie immer :",
+      "Benötigt werden"
+    ],
+    0.6390945911407471
+  ],
+  [
+    [
+      19,
+      3
+    ],
+    [
+      "Ein Pass-Foto",
+      "Ein aktuelles biometrisches Passfoto"
+    ],
+    0.7747522592544556
+  ],
+  [
+    [
+      20,
+      4
+    ],
+    [
+      "Das Foto muss aktuell sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.6107187867164612
+  ],
+  [
+    [
+      21,
+      4
+    ],
+    [
+      "Das heißt: Das Foto soll nicht älter als 3 Monate sein.",
+      "Das Foto sollte nicht älter als drei Monate sein."
+    ],
+    0.9690489768981934
+  ],
+  [
+    [
+      22,
+      5
+    ],
+    [
+      "Das Foto muss bio-metrie-tauglich sein.",
+      "Die Regelungen des biometrischen Passfotos finden Sie in einer Foto-Mustertafel ausführlich erläutert."
+    ],
+    0.661403238773346
+  ],
+  [
+    [
+      23,
+      7
+    ],
+    [
+      "Bio-metrie-tauglich heißt: Die Person ist gut zu erkennen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.5425028800964355
+  ],
+  [
+    [
+      24,
+      7
+    ],
+    [
+      "Das Gesicht ist gut zu sehen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.485623836517334
+  ],
+  [
+    [
+      25,
+      7
+    ],
+    [
+      "Der Kopf ist gerade.",
+      "Nachweis Sehvermögen"
+    ],
+    0.42783844470977783
+  ],
+  [
+    [
+      26,
+      7
+    ],
+    [
+      "Die Augen sind offen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.6150779128074646
+  ],
+  [
+    [
+      27,
+      7
+    ],
+    [
+      "Der Mund ist geschlossen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.26480740308761597
+  ],
+  [
+    [
+      28,
+      7
+    ],
+    [
+      "Der Hinter-Grund ist einfarbig.",
+      "Nachweis Sehvermögen"
+    ],
+    0.44550007581710815
+  ],
+  [
+    [
+      29,
+      7
+    ],
+    [
+      "Es gibt ein Merk-Blatt mit Regeln für Pass-Fotos.",
+      "Nachweis Sehvermögen"
+    ],
+    0.3129911422729492
+  ],
+  [
+    [
+      30,
+      7
+    ],
+    [
+      "Bitte befolgen Sie die Regeln.",
+      "Nachweis Sehvermögen"
+    ],
+    0.25046342611312866
+  ],
+  [
+    [
+      31,
+      7
+    ],
+    [
+      "Das Merk-Blatt heißt: Foto-Muster-Tafel .",
+      "Nachweis Sehvermögen"
+    ],
+    0.39341238141059875
+  ],
+  [
+    [
+      32,
+      7
+    ],
+    [
+      "Sie können auch in einem Foto-Laden nachfragen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.35821086168289185
+  ],
+  [
+    [
+      33,
+      7
+    ],
+    [
+      "Und Pass-Fotos machen lassen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.3634514808654785
+  ],
+  [
+    [
+      34,
+      7
+    ],
+    [
+      "Erste-Hilfe-Kurs",
+      "Nachweis Sehvermögen"
+    ],
+    0.3383408784866333
+  ],
+  [
+    [
+      35,
+      7
+    ],
+    [
+      "Beim Erste-Hilfe-Kurs lernen Sie: Was Sie im Notfall tun müssen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.27348417043685913
+  ],
+  [
+    [
+      36,
+      7
+    ],
+    [
+      "Zum Beispiel:",
+      "Nachweis Sehvermögen"
+    ],
+    0.39548569917678833
+  ],
+  [
+    [
+      37,
+      7
+    ],
+    [
+      "Bei einem Unfall.",
+      "Nachweis Sehvermögen"
+    ],
+    0.26678624749183655
+  ],
+  [
+    [
+      38,
+      7
+    ],
+    [
+      "Der Kurs besteht aus 9 Unterrichts-Einheiten.",
+      "Nachweis Sehvermögen"
+    ],
+    0.2044769823551178
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "1",
+      "Nachweis Sehvermögen"
+    ],
+    0.38437768816947937
+  ],
+  [
+    [
+      40,
+      7
+    ],
+    [
+      "Einheit dauert 45 Minuten .",
+      "Nachweis Sehvermögen"
+    ],
+    0.1546461582183838
+  ],
+  [
+    [
+      41,
+      7
+    ],
+    [
+      "Wenn Sie alle Einheiten gemacht haben, dann bekommen Sie einen Nachweis .",
+      "Nachweis Sehvermögen"
+    ],
+    0.4726032614707947
+  ],
+  [
+    [
+      42,
+      7
+    ],
+    [
+      "Der Nachweis gilt für alle Führer-Schein-Klassen .",
+      "Nachweis Sehvermögen"
+    ],
+    0.3894784450531006
+  ],
+  [
+    [
+      43,
+      7
+    ],
+    [
+      "Zum Beispiel:",
+      "Nachweis Sehvermögen"
+    ],
+    0.39548569917678833
+  ],
+  [
+    [
+      44,
+      7
+    ],
+    [
+      "Für Autos",
+      "Nachweis Sehvermögen"
+    ],
+    0.28049200773239136
+  ],
+  [
+    [
+      45,
+      7
+    ],
+    [
+      "Für LKW",
+      "Nachweis Sehvermögen"
+    ],
+    0.18889161944389343
+  ],
+  [
+    [
+      46,
+      7
+    ],
+    [
+      "Für Mopeds",
+      "Nachweis Sehvermögen"
+    ],
+    0.14716364443302155
+  ],
+  [
+    [
+      47,
+      7
+    ],
+    [
+      "Hier können Sie die Erste-Hilfe-Kurse machen:",
+      "Nachweis Sehvermögen"
+    ],
+    0.273721307516098
+  ],
+  [
+    [
+      48,
+      7
+    ],
+    [
+      "Deutsches Rotes Kreuz",
+      "Nachweis Sehvermögen"
+    ],
+    0.20966579020023346
+  ],
+  [
+    [
+      49,
+      7
+    ],
+    [
+      "Malteser Hilfs-Dienst Johanniter",
+      "Nachweis Sehvermögen"
+    ],
+    0.309529572725296
+  ],
+  [
+    [
+      50,
+      7
+    ],
+    [
+      "Unfall-Hilfe",
+      "Nachweis Sehvermögen"
+    ],
+    0.27860793471336365
+  ],
+  [
+    [
+      51,
+      7
+    ],
+    [
+      "Arbeiter",
+      "Nachweis Sehvermögen"
+    ],
+    0.24826782941818237
+  ],
+  [
+    [
+      52,
+      7
+    ],
+    [
+      "Samariter Bund",
+      "Nachweis Sehvermögen"
+    ],
+    0.277835875749588
+  ],
+  [
+    [
+      53,
+      7
+    ],
+    [
+      "Hinweis: Sie brauchen keinen neuen Nachweis , wenn Sie schon einen Erste-Hilfe-Kurs gemacht haben.",
+      "Nachweis Sehvermögen"
+    ],
+    0.38006484508514404
+  ],
+  [
+    [
+      54,
+      7
+    ],
+    [
+      "Seh-Test",
+      "Nachweis Sehvermögen"
+    ],
+    0.5088328719139099
+  ],
+  [
+    [
+      55,
+      7
+    ],
+    [
+      "Sie müssen manchmal einen Seh-Test machen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.7223688364028931
+  ],
+  [
+    [
+      56,
+      7
+    ],
+    [
+      "Das hängt von der Führerschein-Klasse ab.",
+      "Nachweis Sehvermögen"
+    ],
+    0.2924118638038635
+  ],
+  [
+    [
+      57,
+      7
+    ],
+    [
+      "Das heißt: Ob es ein Führerschein für ein Auto ist.",
+      "Nachweis Sehvermögen"
+    ],
+    0.31060880422592163
+  ],
+  [
+    [
+      58,
+      7
+    ],
+    [
+      "Oder für einen LKW .",
+      "Nachweis Sehvermögen"
+    ],
+    0.19915682077407837
+  ],
+  [
+    [
+      59,
+      7
+    ],
+    [
+      "Für Motorrad und Auto und Traktor gilt: Sie müssen einen Seh-Test machen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.48945537209510803
+  ],
+  [
+    [
+      60,
+      7
+    ],
+    [
+      "Zum Beispiel:",
+      "Nachweis Sehvermögen"
+    ],
+    0.39548569917678833
+  ],
+  [
+    [
+      61,
+      7
+    ],
+    [
+      "Bei einem Optiker oder einer Optikerin .",
+      "Nachweis Sehvermögen"
+    ],
+    0.5677803754806519
+  ],
+  [
+    [
+      62,
+      7
+    ],
+    [
+      "Wichtig: Nicht alle Optiker dürfen diesen Seh-Test machen.",
+      "Nachweis Sehvermögen"
+    ],
+    0.7198110818862915
+  ],
+  [
+    [
+      63,
+      7
+    ],
+    [
+      "Fragen",
+      "Nachweis Sehvermögen"
+    ],
+    0.3967362344264984
+  ],
+  [
+    [
+      64,
+      7
+    ],
+    [
+      "Sie",
+      "Nachweis Sehvermögen"
+    ],
+    0.4492496848106384
+  ],
+  [
+    [
+      65,
+      7
+    ],
+    [
+      "bitte bei der Fahr-Schule, wo Sie den Seh-Test machen können.",
+      "Nachweis Sehvermögen"
+    ],
+    0.7007551193237305
+  ],
+  [
+    [
+      66,
+      7
+    ],
+    [
+      "Nach dem Seh-Test bekommen Sie einen Nachweis.",
+      "Nachweis Sehvermögen"
+    ],
+    0.7988582849502563
+  ],
+  [
+    [
+      67,
+      7
+    ],
+    [
+      "Der Nachweis vom Seh-Test ist 2 Jahre gültig .",
+      "Nachweis Sehvermögen"
+    ],
+    0.5796021223068237
+  ],
+  [
+    [
+      68,
+      7
+    ],
+    [
+      "Für LKW gilt:",
+      "Nachweis Sehvermögen"
+    ],
+    0.1678677648305893
+  ],
+  [
+    [
+      69,
+      7
+    ],
+    [
+      "Sie brauchen einen besonderen Nachweis :",
+      "Nachweis Sehvermögen"
+    ],
+    0.6302534341812134
+  ],
+  [
+    [
+      70,
+      7
+    ],
+    [
+      "Für den Nachweis gibt es ein Muster .",
+      "Nachweis Sehvermögen"
+    ],
+    0.6586401462554932
+  ],
+  [
+    [
+      71,
+      7
+    ],
+    [
+      "Das Muster finden Sie in der Fahr-Erlaubnis-Verordnung Anlage 6 Nummer 2.1",
+      "Nachweis Sehvermögen"
+    ],
+    0.33771929144859314
+  ],
+  [
+    [
+      72,
+      7
+    ],
+    [
+      "Hier können Sie den Seh-Test machen:",
+      "Nachweis Sehvermögen"
+    ],
+    0.7876402139663696
+  ],
+  [
+    [
+      73,
+      9
+    ],
+    [
+      "Bei Ihrem Augen-Arzt oder Ihrer Augen-Ärztin .",
+      "Ärztliche Eignungsbescheinigung"
+    ],
+    0.5466300249099731
+  ],
+  [
+    [
+      74,
+      9
+    ],
+    [
+      "Oder bei einem Arzt oder einer Ärztin für Arbeits-Medizin und Betriebs-Medizin .",
+      "Ärztliche Eignungsbescheinigung"
+    ],
+    0.649400532245636
+  ],
+  [
+    [
+      75,
+      9
+    ],
+    [
+      "Der Nachweis vom Seh-Test ist 2 Jahre gültig .",
+      "Ärztliche Eignungsbescheinigung"
+    ],
+    0.45737481117248535
+  ],
+  [
+    [
+      76,
+      9
+    ],
+    [
+      "Diese Papiere brauchen Sie manchmal : Eignungs-Bescheinigung vom Arzt oder der Ärztin Eine Eignungs-Bescheinigung ist ein Papier auf dem steht:",
+      "Ärztliche Eignungsbescheinigung"
+    ],
+    0.7854560613632202
+  ],
+  [
+    [
+      77,
+      9
+    ],
+    [
+      "Ob Sie für etwas geeignet sind.",
+      "Ärztliche Eignungsbescheinigung"
+    ],
+    0.34777259826660156
+  ],
+  [
+    [
+      78,
+      10
+    ],
+    [
+      "Zum Beispiel: Ob Sie als Bus-Fahrer geeignet sind.",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.5336349010467529
+  ],
+  [
+    [
+      79,
+      10
+    ],
+    [
+      "Die Bescheinigung brauchen Sie nur für LKW und Busse .",
+      "Eine solche Bescheinigung benötigen Sie nur bei der Wiedererteilung einer Fahrerlaubnis der Klassen C1 (LKW über 3,5 t), C (LKW über 7,5 t), D1 (Bus bis zu 16 Fahrgastplätzen) und D (Bus mit mehr als 16 Fahrgastplätzen)."
+    ],
+    0.755721926689148
+  ],
+  [
+    [
+      80,
+      13
+    ],
+    [
+      "Sie bekommen die Bescheinigung meistens von Ihrem Arzt oder Ihrer Ärztin.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.7917717099189758
+  ],
+  [
+    [
+      81,
+      13
+    ],
+    [
+      "Sie können sich Ihren Arzt oder Ihre Ärztin selbst aussuchen.",
+      "Sie können die Untersuchung von einer Ärztin oder einem Arzt Ihrer Wahl durchführen lassen."
+    ],
+    0.9063035845756531
+  ],
+  [
+    [
+      82,
+      14
+    ],
+    [
+      "Es gibt einen Vordruck für die Bescheinigung .",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.4458359479904175
+  ],
+  [
+    [
+      83,
+      14
+    ],
+    [
+      "Das ist ein Papier vom Amt mit einem vorgeschriebenen Text.",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.32301896810531616
+  ],
+  [
+    [
+      84,
+      14
+    ],
+    [
+      "Auf dem Papier muss der Arzt oder die Ärztin aufschreiben, ob Sie als Fahrer oder Fahrerin geeignet sind.",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.3994308114051819
+  ],
+  [
+    [
+      85,
+      14
+    ],
+    [
+      "Wenn Ihr Arzt oder Ihre Ärztin keinen Vordruck vom Amt hat, kann er oder sie die Ärzte-Kammer danach fragen.",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.33494406938552856
+  ],
+  [
+    [
+      86,
+      14
+    ],
+    [
+      "Wichtig: Die Bescheinigung darf nicht älter als 1 Jahr sein!",
+      "Bei Antragstellung darf die Bescheinigung nicht älter als ein Jahr sein!"
+    ],
+    0.9240285158157349
+  ],
+  [
+    [
+      87,
+      15
+    ],
+    [
+      "Leistungs-Test für Busse",
+      "Leistungspsychologisches Gutachten"
+    ],
+    0.22476652264595032
+  ],
+  [
+    [
+      88,
+      15
+    ],
+    [
+      "In dem Test prüfen wir Ihre Leistungen als Bus-Fahrer oder Bus-Fahrerin.",
+      "Leistungspsychologisches Gutachten"
+    ],
+    0.3822305202484131
+  ],
+  [
+    [
+      89,
+      15
+    ],
+    [
+      "Zum Beispiel: Wie gut Sie reagieren können.",
+      "Leistungspsychologisches Gutachten"
+    ],
+    0.6309159994125366
+  ],
+  [
+    [
+      90,
+      17
+    ],
+    [
+      "Wie gut Sie sich orientieren können.",
+      "Die leistungspsychologische Untersuchung beinhaltet eine Überprüfung von Reaktionsfähigkeit, Orientierungsleistung, Konzentrationsfähigkeit und ähnlichem."
+    ],
+    0.6234614253044128
+  ],
+  [
+    [
+      91,
+      17
+    ],
+    [
+      "Wie gut Sie sich konzentrieren können.",
+      "Die leistungspsychologische Untersuchung beinhaltet eine Überprüfung von Reaktionsfähigkeit, Orientierungsleistung, Konzentrationsfähigkeit und ähnlichem."
+    ],
+    0.6745235919952393
+  ],
+  [
+    [
+      92,
+      18
+    ],
+    [
+      "Achtung: 1. Sie brauchen diesen Nachweis nur für Busse .",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.4023137390613556
+  ],
+  [
+    [
+      93,
+      18
+    ],
+    [
+      "2. Sie können den Test nur bei bestimmten Stellen machen.",
+      "Den Test können nur bestimmte Institute durchführen, die über die entsprechenden Apparaturen verfügen."
+    ],
+    0.7644507884979248
+  ],
+  [
+    [
+      94,
+      19
+    ],
+    [
+      "Wo Sie den Test machen können, fragen Sie am besten Unternehmen wie Bus-Unternehmen Taxi-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.7879643440246582
+  ],
+  [
+    [
+      95,
+      19
+    ],
+    [
+      "Miet-Wagen-Unternehmen",
+      "An welches Institut Sie sich wenden können, erfragen Sie am besten bei Unternehmen, die in der Personenbeförderung tätig sind: Taxi- und Mietwagenunternehmen, Busunternehmen und Hilfsorganisationen im Krankentransport."
+    ],
+    0.649429440498352
+  ],
+  [
+    [
+      96,
+      20
+    ],
+    [
+      "Nachweis für Berufs-Fahrer und Berufs-Fahrerinnen",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.7537927627563477
+  ],
+  [
+    [
+      97,
+      20
+    ],
+    [
+      "Sie brauchen einen Nachweis über eine Weiter-Bildung nach dem Berufs-Fahrer-Qualifizierungs-Gesetz .",
+      "Als Berufskraftfahrer*in (Klassen C, C1, D, D1) benötigen Sie den Nachweis über eine Weiterbildung nach dem Berufsfahrerqualifizierungsgesetz."
+    ],
+    0.9010992646217346
+  ],
+  [
+    [
+      98,
+      30
+    ],
+    [
+      "Das ist ein Gesetz für den Beruf als Fahrer oder Fahrerin.",
+      "Die Nachweise, die Sie erbringen müssen, orientieren sich an der Führerscheinklasse, für die Sie die Wiedererteilung beantragen."
+    ],
+    0.6403350830078125
+  ],
+  [
+    [
+      99,
+      34
+    ],
+    [
+      "Zum Beispiel: Regeln für die Arbeit als LKW -Fahrer.",
+      "Für die Lastkraftwagen-Klassen C und C1 gilt:"
+    ],
+    0.5927248001098633
+  ],
+  [
+    [
+      100,
+      35
+    ],
+    [
+      "Mehr Infos finden Sie auf der Seite:",
+      "Sie benötigen eine Bescheinigung nach dem Muster der Anlage 6 Nummer 2.1 der Fahrerlaubnisverordnung."
+    ],
+    0.32582148909568787
+  ],
+  [
+    [
+      101,
+      38
+    ],
+    [
+      "Wann kann ich den Antrag stellen?",
+      "Wann können Sie die Wiedererlaubnis beantragen?"
+    ],
+    0.7375383377075195
+  ],
+  [
+    [
+      102,
+      40
+    ],
+    [
+      "Sie können den Antrag frühestens 6 Monate vor dem Ende vom Fahr-Verbot stellen, wenn: 1. Das Gericht Ihnen den Führerschein weggenommen hat.",
+      "Dann kann der erforderliche Antrag auf Neuerteilung frühestens sechs Monate vor Ablauf der festgesetzten Sperrfrist gestellt werden."
+    ],
+    0.7674779295921326
+  ],
+  [
+    [
+      103,
+      41
+    ],
+    [
+      "2. Oder wenn Sie 8 Punkte oder mehr im Fahr-Eignungs-Register haben.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.5238397121429443
+  ],
+  [
+    [
+      104,
+      41
+    ],
+    [
+      "Das Fahr-Eignungs-Register ist eine Liste.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.4832247197628021
+  ],
+  [
+    [
+      105,
+      41
+    ],
+    [
+      "In die Liste schreibt das Amt alle schweren Fehler, die Sie im Verkehr gemacht haben.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.28245973587036133
+  ],
+  [
+    [
+      106,
+      41
+    ],
+    [
+      "Für die Fehler im Verkehr bekommen Sie Punkte .",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.4409005343914032
+  ],
+  [
+    [
+      107,
+      41
+    ],
+    [
+      "Wenn Sie 8 Punkte haben, müssen Sie den Führerschein abgeben.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.5692054033279419
+  ],
+  [
+    [
+      108,
+      41
+    ],
+    [
+      "3. Oder wenn Ihnen der Führerschein in der Probe-Zeit weggenommen wurde.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.6839938163757324
+  ],
+  [
+    [
+      109,
+      41
+    ],
+    [
+      "Weil Sie viele Fehler im Verkehr gemacht haben.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.33093586564064026
+  ],
+  [
+    [
+      110,
+      41
+    ],
+    [
+      "Wenn Sie den Führerschein aus anderen Gründen abgeben mussten, dann gibt es keine besonderen Fristen für den Antrag.",
+      "Wurde Ihre Fahrerlaubnis aus anderen Gründen entzogen, bestehen keine besonderen Fristen hinsichtlich des Zeitpunkts der Antragstellung."
+    ],
+    0.9432767629623413
+  ],
+  [
+    [
+      111,
+      42
+    ],
+    [
+      "Dann können Sie den Antrag sofort stellen .",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.41336381435394287
+  ],
+  [
+    [
+      112,
+      42
+    ],
+    [
+      "Wichtig:",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.34198886156082153
+  ],
+  [
+    [
+      113,
+      42
+    ],
+    [
+      "Manchmal müssen Sie einen besonderen Test machen, bevor Sie den Führerschein zurück-bekommen.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.5472697019577026
+  ],
+  [
+    [
+      114,
+      42
+    ],
+    [
+      "Der Test heißt: Medizinisch-psychologische Untersuchung.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.744170069694519
+  ],
+  [
+    [
+      115,
+      42
+    ],
+    [
+      "Die Abkürzung dafür ist: MPU .",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.3598165512084961
+  ],
+  [
+    [
+      116,
+      42
+    ],
+    [
+      "Manche sagen zur MPU auch: Idioten-Test.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.7171435356140137
+  ],
+  [
+    [
+      117,
+      42
+    ],
+    [
+      "Wir können erst entscheiden, ob Sie eine MPU machen müssen, wenn wir alle nötigen Papiere für den Antrag von Ihnen haben.",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.6792575120925903
+  ],
+  [
+    [
+      118,
+      42
+    ],
+    [
+      "Sie müssen eine MPU machen:",
+      "Ob Sie eine medizinisch-psychologische Untersuchung (MPU) - im Volksmund \"Idiotentest\" - machen müssen, kann erst nach Vorliegen aller Antragsunterlagen entschieden werden."
+    ],
+    0.534077525138855
+  ],
+  [
+    [
+      119,
+      43
+    ],
+    [
+      "1. Wenn Sie betrunken gefahren sind.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.6997437477111816
+  ],
+  [
+    [
+      120,
+      43
+    ],
+    [
+      "Zum Beispiel: Mit 1,6 oder mehr Promille.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.4178578853607178
+  ],
+  [
+    [
+      121,
+      43
+    ],
+    [
+      "2. Wenn Sie immer wieder mit Alkohol im Verkehr auffallen.",
+      "Wenn Sie ein Fahrzeug mit 1,6 Promille oder mehr geführt haben oder wiederholt mit Alkohol im Straßenverkehr aufgefallen sind, dann müssen Sie allerdings mit der Anordnung einer medizinisch-psychologischen Untersuchung rechnen."
+    ],
+    0.781137228012085
+  ],
+  [
+    [
+      122,
+      44
+    ],
+    [
+      "3. Wenn Sie Drogen genommen haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.6268247961997986
+  ],
+  [
+    [
+      123,
+      44
+    ],
+    [
+      "4.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.14660903811454773
+  ],
+  [
+    [
+      124,
+      44
+    ],
+    [
+      "Oder wenn Sie 8 oder mehr Punkte im Fahr-Eignungs-Register haben.",
+      "Dies gilt auch, wenn Sie Drogen konsumiert haben oder wenn Ihnen die Fahrerlaubnis wegen acht Punkten oder mehr im Fahreignungsregister entzogen wurde."
+    ],
+    0.7649996280670166
+  ],
+  [
+    [
+      125,
+      46
+    ],
+    [
+      "Wer ist für mich zuständig?",
+      "Zuständigkeit"
+    ],
+    0.6117362976074219
+  ],
+  [
+    [
+      126,
+      47
+    ],
+    [
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangs-Buchstaben von Ihrem Nach-Namen .",
+      "Wer für Ihren Antrag zuständig ist, richtet sich nach dem Anfangsbuchstaben Ihres Nachnamens."
+    ],
+    0.9991652965545654
+  ],
+  [
+    [
+      127,
+      48
+    ],
+    [
+      "Sie erreichen Ihren Sach-Bearbeiter oder Ihre Sach-Bearbeiterin unter diesen Telefon-Nummern: Buchstabe A bis F : 02 21 / 22 12 62 35 Buchstabe G bis KI : 02 21 / 22 12 65 01 Buchstabe KL bis Q : 02 21 / 22 12 68 17 Buchstabe R bis Z : 02 21 / 22 12 62 32",
+      "Sie erreichen Ihre Sachbearbeiter*in unter folgenden Telefonnummern:"
+    ],
+    0.8430468440055847
+  ],
+  [
+    [
+      128,
+      49
+    ],
+    [
+      "Der neue EU-Führerschein",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.8249999284744263
+  ],
+  [
+    [
+      129,
+      49
+    ],
+    [
+      "Seit 2013 gibt es in Deutschland den EU -Führerschein .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.8134138584136963
+  ],
+  [
+    [
+      130,
+      49
+    ],
+    [
+      "Die Abkürzung EU steht für: Europäische Union .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.42184269428253174
+  ],
+  [
+    [
+      131,
+      49
+    ],
+    [
+      "Der Führer-Schein gilt in der ganzen EU .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.7275453805923462
+  ],
+  [
+    [
+      132,
+      49
+    ],
+    [
+      "Das heißt: Er gilt in den meisten Ländern in Europa.",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.41445064544677734
+  ],
+  [
+    [
+      133,
+      49
+    ],
+    [
+      "Die alten Führerscheine bleiben weiterhin gültig .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.4861788749694824
+  ],
+  [
+    [
+      134,
+      49
+    ],
+    [
+      "Aber wenn Sie einen neuen Führer-Schein bekommen, bekommen Sie jetzt immer den EU -Führer-Schein .",
+      "Fax: 0221 / 221-22300 Änderungen im Führerscheinrecht seit 2013 Seit dem 19. Januar 2013 wird in Deutschland das neue Modell des einheitlichen EU-Kartenführerscheins ausgestellt."
+    ],
+    0.6807454228401184
+  ],
+  [
+    [
+      135,
+      51
+    ],
+    [
+      "Muss ich persönlich ins Amt gehen?",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.6262168288230896
+  ],
+  [
+    [
+      136,
+      51
+    ],
+    [
+      "Ja.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.3748530447483063
+  ],
+  [
+    [
+      137,
+      51
+    ],
+    [
+      "Sie müssen persönlich zu uns kommen.",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.6672253608703613
+  ],
+  [
+    [
+      138,
+      51
+    ],
+    [
+      "Die Adresse finden Sie unter der Überschrift:",
+      "Vorsprache Eine persönliche Vorsprache ist erforderlich."
+    ],
+    0.3317234516143799
+  ],
+  [
+    [
+      139,
+      52
+    ],
+    [
+      "Wo bekomme ich den Führerschein wieder?",
+      "Gebühren"
+    ],
+    0.29582422971725464
+  ],
+  [
+    [
+      140,
+      52
+    ],
+    [
+      "Wie viel kostet das?",
+      "Gebühren"
+    ],
+    0.7406505942344666
+  ],
+  [
+    [
+      141,
+      52
+    ],
+    [
+      "Sie müssen bis zu 256 Euro bezahlen.",
+      "Gebühren"
+    ],
+    0.5822904706001282
+  ],
+  [
+    [
+      142,
+      52
+    ],
+    [
+      "Achtung:",
+      "Gebühren"
+    ],
+    0.29735949635505676
+  ],
+  [
+    [
+      143,
+      52
+    ],
+    [
+      "Manchmal müssen Sie mehr Geld bezahlen.",
+      "Gebühren"
+    ],
+    0.6690226197242737
+  ],
+  [
+    [
+      144,
+      52
+    ],
+    [
+      "Zum Beispiel: Wenn Sie eine Weiterbildung gemacht haben nach dem Berufs-Fahrer-Qualifizierungs-Gesetz .",
+      "Gebühren"
+    ],
+    0.29503291845321655
+  ],
+  [
+    [
+      145,
+      52
+    ],
+    [
+      "Dann müssen Sie zusätzlich 28,60 Euro bezahlen.",
+      "Gebühren"
+    ],
+    0.6605618596076965
+  ],
+  [
+    [
+      146,
+      56
+    ],
+    [
+      "Sie können mit Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5734602212905884
+  ],
+  [
+    [
+      147,
+      56
+    ],
+    [
+      "Das heißt: Sie können mit Geld-Scheinen und Münzen bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5704889893531799
+  ],
+  [
+    [
+      148,
+      56
+    ],
+    [
+      "Oder Sie können mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.8869941234588623
+  ],
+  [
+    [
+      149,
+      56
+    ],
+    [
+      "Eine EC -Karte ist eine Karte aus Plastik.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.47556841373443604
+  ],
+  [
+    [
+      150,
+      56
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5832377672195435
+  ],
+  [
+    [
+      151,
+      56
+    ],
+    [
+      "Sie können damit ohne Bar-Geld bezahlen.",
+      "Die Gebühren können Sie bar oder mit der EC -Karte und PIN-Nummer bezahlen."
+    ],
+    0.5433387756347656
+  ],
+  [
+    [
+      152,
+      57
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.8217175006866455
+  ],
+  [
+    [
+      153,
+      57
+    ],
+    [
+      "Die Gesetze zum Führer-Schein stehen in der Fahr-Erlaubnis-Verordnung .",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.5425100326538086
+  ],
+  [
+    [
+      154,
+      57
+    ],
+    [
+      "In Paragraf § 20 .",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.37394312024116516
+  ],
+  [
+    [
+      155,
+      57
+    ],
+    [
+      "Ein Paragraf ist ein Teil von einem Gesetz.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.6419692039489746
+  ],
+  [
+    [
+      156,
+      57
+    ],
+    [
+      "Das Zeichen für Paragraf ist: § Wo bekomme ich den Führerschein wieder?",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.4026387929916382
+  ],
+  [
+    [
+      157,
+      57
+    ],
+    [
+      "Das ist unsere Adresse:",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.28963086009025574
+  ],
+  [
+    [
+      158,
+      57
+    ],
+    [
+      "Führerscheinstelle Ottmar-Pohl-Platz 1",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2529471218585968
+  ],
+  [
+    [
+      159,
+      57
+    ],
+    [
+      "51103 Köln",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.28682035207748413
+  ],
+  [
+    [
+      160,
+      57
+    ],
+    [
+      "Öffnungs-Zeiten",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.4702346920967102
+  ],
+  [
+    [
+      161,
+      57
+    ],
+    [
+      "Montag bis Freitag von 8 bis 12 Uhr",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.24608027935028076
+  ],
+  [
+    [
+      162,
+      57
+    ],
+    [
+      "Sie können auch einen Termin machen.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.30877524614334106
+  ],
+  [
+    [
+      163,
+      57
+    ],
+    [
+      "Dann müssen Sie sich nicht an die Öffnungs-Zeiten halten.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2837516665458679
+  ],
+  [
+    [
+      164,
+      57
+    ],
+    [
+      "Sie wollen einen Termin bei uns machen?",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2945765256881714
+  ],
+  [
+    [
+      165,
+      57
+    ],
+    [
+      "Dann rufen Sie uns an.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2706288695335388
+  ],
+  [
+    [
+      166,
+      57
+    ],
+    [
+      "Telefon : 02 21 / 22 12 61 55 Oder schreiben Sie uns.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.15674307942390442
+  ],
+  [
+    [
+      167,
+      57
+    ],
+    [
+      "Dafür gibt es ein sicheres Kontakt-Formular .",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.3474309742450714
+  ],
+  [
+    [
+      168,
+      57
+    ],
+    [
+      "Sie können uns auch eine E-Mail schreiben.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.12595222890377045
+  ],
+  [
+    [
+      169,
+      57
+    ],
+    [
+      "Also eine Nachricht im Internet.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.26121124625205994
+  ],
+  [
+    [
+      170,
+      57
+    ],
+    [
+      "Ist das Amt zugänglich für Menschen mit Behinderung?",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.3979032635688782
+  ],
+  [
+    [
+      171,
+      57
+    ],
+    [
+      "Der Eingangs-Bereich ist voll zugänglich.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.1812099814414978
+  ],
+  [
+    [
+      172,
+      57
+    ],
+    [
+      "Es gibt Behinderten-Park-Plätze .",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2588036358356476
+  ],
+  [
+    [
+      173,
+      57
+    ],
+    [
+      "Es gibt Aufzüge für Rollstuhl-Fahrer und Fahrerinnen.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.15828916430473328
+  ],
+  [
+    [
+      174,
+      57
+    ],
+    [
+      "Es gibt Hilfen für Blinde und Seh-Behinderte .",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2564617693424225
+  ],
+  [
+    [
+      175,
+      57
+    ],
+    [
+      "Es gibt Klos für Rollstuhl-Fahrer und Fahrerinnen.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.1940436065196991
+  ],
+  [
+    [
+      176,
+      57
+    ],
+    [
+      "Wie komme ich zur Führerschein-Stelle?",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2619187533855438
+  ],
+  [
+    [
+      177,
+      57
+    ],
+    [
+      "Sie können mit Bus oder Bahn zu uns kommen.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.13610424101352692
+  ],
+  [
+    [
+      178,
+      57
+    ],
+    [
+      "Zum Beispiel: Stadt-Bahn-Linien 1 und 9 Halte-Stelle: Kalk Kapelle",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2338436394929886
+  ],
+  [
+    [
+      179,
+      57
+    ],
+    [
+      "Die Halte-Stelle ist rollstuhl-gerecht.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.1629302203655243
+  ],
+  [
+    [
+      180,
+      57
+    ],
+    [
+      "Stadt-Bahn-Linien 1 und 9 Halte-Stelle:",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.22742347419261932
+  ],
+  [
+    [
+      181,
+      57
+    ],
+    [
+      "Kalk Post",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.24506628513336182
+  ],
+  [
+    [
+      182,
+      57
+    ],
+    [
+      "Die Halte-Stelle ist nicht rollstuhl-gerecht.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.15590110421180725
+  ],
+  [
+    [
+      183,
+      57
+    ],
+    [
+      "Bus-Linie 159 Halte-Stellen:",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.11588487029075623
+  ],
+  [
+    [
+      184,
+      57
+    ],
+    [
+      "Kalk Kapelle und Kalk Post S-Bahn-Linien S",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.27213436365127563
+  ],
+  [
+    [
+      185,
+      57
+    ],
+    [
+      "12 und S 13 Halte-Stelle:",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.33466801047325134
+  ],
+  [
+    [
+      186,
+      57
+    ],
+    [
+      "Trimbornstraße",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.26629316806793213
+  ],
+  [
+    [
+      187,
+      57
+    ],
+    [
+      "Die Halte-Stelle ist nicht rollstuhl-gerecht.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.15590110421180725
+  ],
+  [
+    [
+      188,
+      57
+    ],
+    [
+      "Regional-Bahn RB 25 Halte-Stelle:",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.2506813108921051
+  ],
+  [
+    [
+      189,
+      57
+    ],
+    [
+      "Trimbornstraße",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.26629316806793213
+  ],
+  [
+    [
+      190,
+      57
+    ],
+    [
+      "Die Halte-Stelle ist nicht rollstuhl-gerecht.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.15590110421180725
+  ],
+  [
+    [
+      191,
+      57
+    ],
+    [
+      "Weitere Informationen *",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.3973114490509033
+  ],
+  [
+    [
+      192,
+      57
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V., Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Rechtliche Voraussetzungen"
+    ],
+    0.20347338914871216
+  ]
+]

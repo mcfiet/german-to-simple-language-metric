@@ -1,0 +1,662 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Das Nierenbecken ist direkt an der Niere.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.7894324064254761
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Die Niere ist ein Organ.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.43636420369148254
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Jeder Mensch hat zwei Nieren.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.43814194202423096
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Sie liegen im oberen Bauch rechts und links neben der Wirbelsäule.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.06451277434825897
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Die Niere bildet Urin.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.42205917835235596
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Der Urin sammelt sich im Nierenbecken.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.7904406785964966
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Vom Nierenbecken aus fließt der Urin dann durch den Harnleiter in die Blase.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.7703130841255188
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Eine Nierenbecken-Entzündung ist eine Erkrankung im Bereich des Nierenbeckens.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.9402046203613281
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Bei einer Nierenbecken-Entzündung ist oft auch die Niere selbst entzündet.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.958268940448761
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Das Fachwort für die Nierenbecken-Entzündung ist: Pyelonephritis.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.973157525062561
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Die Entzündung kann akut sein.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.45806780457496643
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Eine akute Nierenbecken-Entzündung kann gut behandelt werden.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.9826420545578003
+  ],
+  [
+    [
+      13,
+      0
+    ],
+    [
+      "Die Entzündung kann aber auch chronisch sein.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.4549776315689087
+  ],
+  [
+    [
+      14,
+      0
+    ],
+    [
+      "Chronische Nierenbecken-Entzündungen heilen manchmal nur schwer.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.9758509993553162
+  ],
+  [
+    [
+      15,
+      0
+    ],
+    [
+      "Eine Nierenbecken-Entzündung erkennt man oft nicht sofort.",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.9813976883888245
+  ],
+  [
+    [
+      18,
+      0
+    ],
+    [
+      "Typische Anzeichen für eine Nierenbecken-Entzündung sind zum Beispiel:",
+      "Oft bleibt eine Nierenbeckenentzündung anfangs unbemerkt."
+    ],
+    0.9814938306808472
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Fieber Schmerzen am seitlichen Rücken Schmerzen beim Wasserlassen",
+      "Fieber , Schüttelfrost Schmerzen in der Flanke, die bei Erschütterung zunehmen Schmerzen und Brennen beim Wasserlassen manchmal Blut im Urin"
+    ],
+    0.49450376629829407
+  ],
+  [
+    [
+      20,
+      3
+    ],
+    [
+      "Übelkeit Bauchschmerzen",
+      "Übelkeit allgemeines Unwohlsein Kopf- und Bauchschmerzen"
+    ],
+    0.503889262676239
+  ],
+  [
+    [
+      21,
+      3
+    ],
+    [
+      "Kopfschmerzen",
+      "Übelkeit allgemeines Unwohlsein Kopf- und Bauchschmerzen"
+    ],
+    0.4626334607601166
+  ],
+  [
+    [
+      22,
+      12
+    ],
+    [
+      "Die häufigste Ursache einer Nierenbecken-Entzündung sind Darm-Bakterien.",
+      "Eine akute Nierenbeckenentzündung wird am häufigsten durch Bakterien ausgelöst."
+    ],
+    0.9517481327056885
+  ],
+  [
+    [
+      23,
+      15
+    ],
+    [
+      "Häufige Darm-Bakterien heißen zum Beispiel: Escherichia coli.",
+      "Bei einer akuten Nierenbeckenentzündung sind in 80 Prozent der Fälle Escherichia coli-Bakterien die auslösenden Erreger."
+    ],
+    0.14577330648899078
+  ],
+  [
+    [
+      24,
+      15
+    ],
+    [
+      "Im Darm haben diese Bakterien wichtige Aufgaben.",
+      "Bei einer akuten Nierenbeckenentzündung sind in 80 Prozent der Fälle Escherichia coli-Bakterien die auslösenden Erreger."
+    ],
+    0.15697237849235535
+  ],
+  [
+    [
+      25,
+      15
+    ],
+    [
+      "Dort sind die Bakterien nicht gefährlich.",
+      "Bei einer akuten Nierenbeckenentzündung sind in 80 Prozent der Fälle Escherichia coli-Bakterien die auslösenden Erreger."
+    ],
+    0.1648520678281784
+  ],
+  [
+    [
+      26,
+      17
+    ],
+    [
+      "Aber manchmal gelangen diese Darm-Bakterien in die Harnröhre.",
+      "Gerade Frauen sind besonders gefährdet, weil ihr Harnröhreneingang sehr nahe am After liegt."
+    ],
+    0.43392056226730347
+  ],
+  [
+    [
+      27,
+      17
+    ],
+    [
+      "Der Darm-Ausgang ist nämlich in der Nähe vom Harnröhren-Ausgang.",
+      "Gerade Frauen sind besonders gefährdet, weil ihr Harnröhreneingang sehr nahe am After liegt."
+    ],
+    0.5262835025787354
+  ],
+  [
+    [
+      28,
+      17
+    ],
+    [
+      "Von der Harnröhre aus gelangen die Bakterien dann in die Niere und in das Nierenbecken.",
+      "Gerade Frauen sind besonders gefährdet, weil ihr Harnröhreneingang sehr nahe am After liegt."
+    ],
+    0.15923328697681427
+  ],
+  [
+    [
+      29,
+      17
+    ],
+    [
+      "Dort sind Escherichia coli Bakterien gefährlich.",
+      "Gerade Frauen sind besonders gefährdet, weil ihr Harnröhreneingang sehr nahe am After liegt."
+    ],
+    0.008733783848583698
+  ],
+  [
+    [
+      32,
+      17
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel: schwangere Frauen Frauen nach den Wechseljahren Menschen mit Nieren- und Blasensteinen Menschen mit einer Störung des Harnabflusses Menschen mit einer Störung des Stoffwechsels Menschen mit einer Immunschwäche Frauen bekommen leichter eine Nierenbecken-Entzündung als Männer.",
+      "Gerade Frauen sind besonders gefährdet, weil ihr Harnröhreneingang sehr nahe am After liegt."
+    ],
+    0.11111517250537872
+  ],
+  [
+    [
+      33,
+      17
+    ],
+    [
+      "Bei Frauen ist der Darm-Ausgang nämlich näher am Harnröhren-Ausgang.",
+      "Gerade Frauen sind besonders gefährdet, weil ihr Harnröhreneingang sehr nahe am After liegt."
+    ],
+    0.5438618063926697
+  ],
+  [
+    [
+      34,
+      18
+    ],
+    [
+      "Deshalb gelangen die schädlichen Darm-Bakterien leichter in die Harnröhre der Frau.",
+      "Bakterien können so leichter in die Harnröhre gelangen."
+    ],
+    0.6630249619483948
+  ],
+  [
+    [
+      35,
+      20
+    ],
+    [
+      "Bei Männern ist das Risiko für eine Nierenbecken-Entzündung im Alter auch erhöht.",
+      "Bei Männern kommt eine Nierenbeckenentzündung erst mit höherem Alter häufiger vor."
+    ],
+    0.9781650900840759
+  ],
+  [
+    [
+      36,
+      34
+    ],
+    [
+      "Bei älteren Männern ist die Ursache der Entzündung oft eine Störung des Harnabflusses:",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.8060703277587891
+  ],
+  [
+    [
+      38,
+      34
+    ],
+    [
+      "Deshalb können sich schädliche Bakterien bilden.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.00236475165002048
+  ],
+  [
+    [
+      39,
+      34
+    ],
+    [
+      "Sie glauben: Ich habe eine Nierenbecken-Entzündung?",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.3923516273498535
+  ],
+  [
+    [
+      40,
+      34
+    ],
+    [
+      "Dann gehen Sie sofort zum Arzt.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.023215817287564278
+  ],
+  [
+    [
+      41,
+      34
+    ],
+    [
+      "Eine Nierenbecken-Entzündung ist nämlich gefährlich.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.39848658442497253
+  ],
+  [
+    [
+      42,
+      34
+    ],
+    [
+      "Die Entzündung muss sofort von einem Arzt behandelt werden.",
+      "Eine Blutuntersuchung kann Entzündungszeichen zeigen."
+    ],
+    0.8980048298835754
+  ],
+  [
+    [
+      43,
+      57
+    ],
+    [
+      "Oft verschreibt der Arzt ein Antibiotikum.",
+      "Fieber verschwindet oft bereits drei bis vier Tage nach Begin der Antibiotikabehandlung."
+    ],
+    0.6077330112457275
+  ],
+  [
+    [
+      44,
+      62
+    ],
+    [
+      "Das Antibiotikum tötet die schädlichen Bakterien.",
+      "Regelmäßiges Wasserlassen hilft, eine starke Vermehrung von Bakterien zu vermeiden."
+    ],
+    0.5064284801483154
+  ],
+  [
+    [
+      45,
+      63
+    ],
+    [
+      "Der Arzt sagt: Sie haben eine Nierenbecken-Entzündung?",
+      "Lassen Sie sich auf der Toilette Zeit, um die Blase komplett zu entleeren und pressen Sie nicht."
+    ],
+    0.07817299664020538
+  ],
+  [
+    [
+      46,
+      69
+    ],
+    [
+      "Dann sollten Sie sich ausruhen und viel trinken.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.5809555649757385
+  ],
+  [
+    [
+      47,
+      69
+    ],
+    [
+      "Sie können das Risiko für eine Nierenbecken-Entzündung verringern.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.013836962170898914
+  ],
+  [
+    [
+      48,
+      69
+    ],
+    [
+      "Dafür sollten Sie diese Dinge beachten:",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.4330855906009674
+  ],
+  [
+    [
+      49,
+      69
+    ],
+    [
+      "Trinken Sie immer ausreichend Wasser.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.38855302333831787
+  ],
+  [
+    [
+      50,
+      69
+    ],
+    [
+      "Gehen Sie regelmäßig auf die Toilette zum Wasserlassen.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.27401232719421387
+  ],
+  [
+    [
+      51,
+      69
+    ],
+    [
+      "Schützen Sie sich vor Kälte und Nässe.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.8229601979255676
+  ],
+  [
+    [
+      52,
+      69
+    ],
+    [
+      "Ziehen Sie sich nach dem Schwimmen sofort trockene Kleidung an.",
+      "Schützen Sie sich vor Kälte und Nässe."
+    ],
+    0.2569098472595215
+  ],
+  [
+    [
+      53,
+      70
+    ],
+    [
+      "Wechseln Sie verschwitzte Kleidung nach dem Sport.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.40781790018081665
+  ],
+  [
+    [
+      54,
+      70
+    ],
+    [
+      "Vermeiden Sie kalte Füße.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.5270382761955261
+  ],
+  [
+    [
+      55,
+      70
+    ],
+    [
+      "Gehen Sie nach dem Sex auf die Toilette.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.3523142337799072
+  ],
+  [
+    [
+      56,
+      70
+    ],
+    [
+      "Beim Wasserlassen können die schädlichen Bakterien nämlich herausgespült werden.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.06197214871644974
+  ],
+  [
+    [
+      57,
+      70
+    ],
+    [
+      "Benutzen Sie keine Seife mit Parfüm im Intimbereich.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.3385026752948761
+  ],
+  [
+    [
+      58,
+      70
+    ],
+    [
+      "Reinigen Sie Scheide und After am besten nur mit Wasser.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.4555535316467285
+  ],
+  [
+    [
+      59,
+      70
+    ],
+    [
+      "Wischen Sie mit dem Toilettenpapier immer von der Scheide zum After.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.2932976484298706
+  ],
+  [
+    [
+      60,
+      70
+    ],
+    [
+      "Wischen Sie nicht umgekehrt.",
+      "Wechseln Sie nasse Bikinis und Badehosen nach dem Schwimmen möglichst rasch und vermeiden Sie kalte Füße."
+    ],
+    0.3264179527759552
+  ],
+  [
+    [
+      61,
+      71
+    ],
+    [
+      "Wechseln Sie Tampons oder Binden während der Monatsblutung regelmäßig.",
+      "Wechseln Sie auch verschwitze Kleidung nach dem Sport."
+    ],
+    0.4476669430732727
+  ],
+  [
+    [
+      62,
+      71
+    ],
+    [
+      "Sie wollen noch mehr über die Nierenbecken-Entzündung lesen?",
+      "Wechseln Sie auch verschwitze Kleidung nach dem Sport."
+    ],
+    0.09203264862298965
+  ],
+  [
+    [
+      63,
+      71
+    ],
+    [
+      "Mehr Informationen über die Nierenbecken-Entzündung finden Sie hier .",
+      "Wechseln Sie auch verschwitze Kleidung nach dem Sport."
+    ],
+    0.11144043505191803
+  ],
+  [
+    [
+      64,
+      71
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Wechseln Sie auch verschwitze Kleidung nach dem Sport."
+    ],
+    0.18218198418617249
+  ],
+  [
+    [
+      65,
+      73
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Frauen, die darunter leiden, sollten sich von Ihrem Arzt beraten lassen."
+    ],
+    0.31456297636032104
+  ]
+]

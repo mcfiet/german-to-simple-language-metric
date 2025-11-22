@@ -1,0 +1,684 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Noroviren sind Krankheits-Erreger.",
+      "Noroviren sind weltweit verbreitet und relativ widerstandsfähig:"
+    ],
+    0.6958953738212585
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Sie verursachen eine Magen-Darm-Infektion.",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.39131513237953186
+  ],
+  [
+    [
+      2,
+      1
+    ],
+    [
+      "Noroviren sind sehr ansteckend:",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.30978938937187195
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Hat sich eine Person mit Noroviren angesteckt?",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.2851387858390808
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Dann dauert es bis zum Ausbruch der Krankheit oft nur wenige Stunden.",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.3826238811016083
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Noroviren gibt es überall:",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.2860235571861267
+  ],
+  [
+    [
+      6,
+      1
+    ],
+    [
+      "Die Viren überleben mehrere Tage lang auf Gegenständen wie zum Beispiel:",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.645642876625061
+  ],
+  [
+    [
+      7,
+      1
+    ],
+    [
+      "Handtücher Türklinken",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.6349040269851685
+  ],
+  [
+    [
+      8,
+      1
+    ],
+    [
+      "Toilettensitze",
+      "Sie überleben teilweise Tage lang auf Gegenständen wie Handtüchern, Türklinken, Wasserhähnen oder Toilettensitzen und -spülungen."
+    ],
+    0.45899468660354614
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Noroviren können auch in Lebensmitteln gut überleben.",
+      "In Lebensmitteln können sie – auch gekühlt oder sauer eingelegt – gut überdauern."
+    ],
+    0.7334898710250854
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Noroviren überleben selbst sehr heiße Temperaturen für mehrere Minuten.",
+      "Celsius überstehen sie für mehrere Minuten."
+    ],
+    0.7383525371551514
+  ],
+  [
+    [
+      11,
+      24
+    ],
+    [
+      "Noroviren übertragen sich vor allem an Orten mit vielen Menschen.",
+      "Gefährlich wird der Flüssigkeitsverlust vor allem für Kinder und ältere oder geschwächte Menschen."
+    ],
+    0.5404811501502991
+  ],
+  [
+    [
+      12,
+      25
+    ],
+    [
+      "Dort können Sie sich leicht anstecken.",
+      "Sie können schnell und lebensbedrohlich austrocknen."
+    ],
+    0.6548488736152649
+  ],
+  [
+    [
+      13,
+      29
+    ],
+    [
+      "Solche Orte sind zum Beispiel:",
+      "Häufig kann die Diagnose aufgrund des typischen Verlaufs und der Symptome vermutet werden."
+    ],
+    0.3427909314632416
+  ],
+  [
+    [
+      14,
+      33
+    ],
+    [
+      "Kindergärten Schulen Kliniken",
+      "Öffentliche Einrichtungen wie Krankenhäuser und Altenheime müssen auch melden, wenn sich akute Magen-Darm-Infektionen häufen."
+    ],
+    0.5372384190559387
+  ],
+  [
+    [
+      15,
+      33
+    ],
+    [
+      "Altenheime",
+      "Öffentliche Einrichtungen wie Krankenhäuser und Altenheime müssen auch melden, wenn sich akute Magen-Darm-Infektionen häufen."
+    ],
+    0.6224518418312073
+  ],
+  [
+    [
+      16,
+      36
+    ],
+    [
+      "Eine Noroviren-Infektion kann unterschiedliche Anzeichen haben.",
+      "Bei einer Noroviren-Infektion ist es vor allem wichtig, die verloren gegangene Flüssigkeit zu ersetzen."
+    ],
+    0.46909239888191223
+  ],
+  [
+    [
+      17,
+      36
+    ],
+    [
+      "Typische Anzeichen einer Noroviren-Infektion sind: Übelkeit",
+      "Bei einer Noroviren-Infektion ist es vor allem wichtig, die verloren gegangene Flüssigkeit zu ersetzen."
+    ],
+    0.5518390536308289
+  ],
+  [
+    [
+      18,
+      36
+    ],
+    [
+      "Erbrechen Bauchschmerzen",
+      "Bei einer Noroviren-Infektion ist es vor allem wichtig, die verloren gegangene Flüssigkeit zu ersetzen."
+    ],
+    0.4032880961894989
+  ],
+  [
+    [
+      19,
+      36
+    ],
+    [
+      "Durchfall",
+      "Bei einer Noroviren-Infektion ist es vor allem wichtig, die verloren gegangene Flüssigkeit zu ersetzen."
+    ],
+    0.35368964076042175
+  ],
+  [
+    [
+      20,
+      36
+    ],
+    [
+      "Sie glauben: Ich habe eine Noroviren-Infektion?",
+      "Bei einer Noroviren-Infektion ist es vor allem wichtig, die verloren gegangene Flüssigkeit zu ersetzen."
+    ],
+    0.42539650201797485
+  ],
+  [
+    [
+      21,
+      37
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Betroffene sollten also ausreichend trinken."
+    ],
+    0.3524111807346344
+  ],
+  [
+    [
+      22,
+      38
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.4166874587535858
+  ],
+  [
+    [
+      23,
+      38
+    ],
+    [
+      "Sie haben keine Beschwerden mehr?",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.3930949866771698
+  ],
+  [
+    [
+      24,
+      38
+    ],
+    [
+      "Dann können Sie trotzdem noch mehrere Tage lang ansteckend sein.",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.35870641469955444
+  ],
+  [
+    [
+      25,
+      38
+    ],
+    [
+      "Achten Sie deshalb auf Sauberkeit:",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.3574337959289551
+  ],
+  [
+    [
+      26,
+      38
+    ],
+    [
+      "Waschen Sie sich nach jedem Toilettengang die Hände.",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.42985299229621887
+  ],
+  [
+    [
+      27,
+      38
+    ],
+    [
+      "Sie haben Durchfall?",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.4341810345649719
+  ],
+  [
+    [
+      28,
+      38
+    ],
+    [
+      "Oder Sie übergeben sich häufiger?",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.35470739006996155
+  ],
+  [
+    [
+      29,
+      38
+    ],
+    [
+      "Dann verliert Ihr Körper viel Wasser und Salze.",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.7064829468727112
+  ],
+  [
+    [
+      30,
+      38
+    ],
+    [
+      "Deshalb sollten Sie viel Flüssigkeit trinken wie: verdünnte Säfte Brühe Tee mit etwas Zucker und Salz",
+      "Denn Durchfall und Erbrechen entziehen dem Körper reichlich Wasser und Salze (Elektrolyte)."
+    ],
+    0.5584595203399658
+  ],
+  [
+    [
+      31,
+      39
+    ],
+    [
+      "Elektrolyt-Mischungen aus der Apotheke",
+      "Geeignet sind zum Beispiel: Spezielle Elektrolyt-Mischungen aus der Apotheke."
+    ],
+    0.7500039339065552
+  ],
+  [
+    [
+      32,
+      42
+    ],
+    [
+      "Sie sollten auch etwas essen:",
+      "Trotz Übelkeit sollten die Erkrankten versuchen, auch ein wenig zu essen – am besten leicht verdauliche Kohlenhydrate wie Zwieback oder Weißbrot."
+    ],
+    0.6639710068702698
+  ],
+  [
+    [
+      33,
+      42
+    ],
+    [
+      "Essen Sie am besten leicht Verdauliches wie zum Beispiel Zwieback oder Weißbrot.",
+      "Trotz Übelkeit sollten die Erkrankten versuchen, auch ein wenig zu essen – am besten leicht verdauliche Kohlenhydrate wie Zwieback oder Weißbrot."
+    ],
+    0.6705335974693298
+  ],
+  [
+    [
+      34,
+      54
+    ],
+    [
+      "Eine Noroviren-Infektion ist unangenehm.",
+      "Eine Norovirus-Infektion führt nicht zu einer relevanten Immunität."
+    ],
+    0.4057009816169739
+  ],
+  [
+    [
+      35,
+      55
+    ],
+    [
+      "Aber die Krankheit ist nur selten gefährlich.",
+      "Wer die Erkrankung überstanden hat, kann sich also erneut anstecken."
+    ],
+    0.568089485168457
+  ],
+  [
+    [
+      36,
+      58
+    ],
+    [
+      "Oft fühlen sich betroffene Personen nach zwei bis drei Tagen wieder besser.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.42661091685295105
+  ],
+  [
+    [
+      37,
+      58
+    ],
+    [
+      "Betroffene Personen können aber noch länger andere Menschen anstecken.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.46557193994522095
+  ],
+  [
+    [
+      38,
+      58
+    ],
+    [
+      "Bei Kindern oder älteren Menschen kann die Krankheit aber auch länger andauern.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.47393038868904114
+  ],
+  [
+    [
+      39,
+      58
+    ],
+    [
+      "Ein Medikament oder eine Impfung gegen Noroviren gibt es nicht.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.35421279072761536
+  ],
+  [
+    [
+      40,
+      58
+    ],
+    [
+      "Sie möchten sich trotzdem vor Noroviren schützen?",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.5576919317245483
+  ],
+  [
+    [
+      41,
+      58
+    ],
+    [
+      "Dann waschen Sie sich regelmäßig und gründlich die Hände.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.6162503361701965
+  ],
+  [
+    [
+      42,
+      58
+    ],
+    [
+      "Sie möchten eine Noroviren-Infektion vermeiden?",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.40533071756362915
+  ],
+  [
+    [
+      43,
+      58
+    ],
+    [
+      "Dann können Sie diese Dinge tun:",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.44713547825813293
+  ],
+  [
+    [
+      44,
+      58
+    ],
+    [
+      "Waschen Sie Ihre Hände gründlich mit Seife.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.7580074667930603
+  ],
+  [
+    [
+      45,
+      58
+    ],
+    [
+      "Am besten waschen Sie Ihre Hände nach jedem Toilettengang, vor dem Essen und bevor Sie Ihren Mund berühren.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.8139328360557556
+  ],
+  [
+    [
+      46,
+      58
+    ],
+    [
+      "Sie rauchen?",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.6234786510467529
+  ],
+  [
+    [
+      47,
+      58
+    ],
+    [
+      "Dann sollten Sie Ihre Hände auch vor dem Rauchen waschen.",
+      "Waschen Sie Ihre Hände immer gründlich mit Seife nach jedem Toilettenbesuch, vor dem Essen und bevor Sie den Mund berühren (bei Rauchern: auch vor dem Rauchen), vor allem in öffentlichen Einrichtungen."
+    ],
+    0.7810142040252686
+  ],
+  [
+    [
+      48,
+      60
+    ],
+    [
+      "Säubern Sie Lebensmittel gründlich.",
+      "Säubern Sie Lebensmittel wie Obst und Salat sorgfältig, insbesondere dann, wenn sie roh gegessen werden."
+    ],
+    0.7328121066093445
+  ],
+  [
+    [
+      49,
+      60
+    ],
+    [
+      "Dazu zählen vor allem Obst und Salat.",
+      "Säubern Sie Lebensmittel wie Obst und Salat sorgfältig, insbesondere dann, wenn sie roh gegessen werden."
+    ],
+    0.5767940878868103
+  ],
+  [
+    [
+      50,
+      60
+    ],
+    [
+      "Sie haben sich angesteckt?",
+      "Säubern Sie Lebensmittel wie Obst und Salat sorgfältig, insbesondere dann, wenn sie roh gegessen werden."
+    ],
+    0.5119850039482117
+  ],
+  [
+    [
+      51,
+      62
+    ],
+    [
+      "Dann vermeiden Sie den Kontakt zu anderen Menschen für etwa zwei Tage.",
+      "Wer das Virus aufgeschnappt hat, sollte den Kontakt zu Anderen für einige Tage (mindestens zwei Tage nach Ende der akuten Phase) auf ein Minimum reduzieren."
+    ],
+    0.6664708256721497
+  ],
+  [
+    [
+      52,
+      62
+    ],
+    [
+      "Vermeiden Sie auch den Kontakt zu kranken Menschen.",
+      "Wer das Virus aufgeschnappt hat, sollte den Kontakt zu Anderen für einige Tage (mindestens zwei Tage nach Ende der akuten Phase) auf ein Minimum reduzieren."
+    ],
+    0.546701192855835
+  ],
+  [
+    [
+      53,
+      66
+    ],
+    [
+      "Benutzen Sie am besten eigene Handtücher und eine eigene Toilette.",
+      "Kranke sollten unbedingt eigene Handtücher und Körperpflegeartikel, und – sofern machbar – eine eigene Toilette benutzen."
+    ],
+    0.7197074890136719
+  ],
+  [
+    [
+      54,
+      67
+    ],
+    [
+      "Spülen Sie das Geschirr nach dem Essen gründlich.",
+      "Geschirr sollte im Intensivprogramm im Geschirrspüler gesäubert oder nach dem Spülen überbrüht werden."
+    ],
+    0.6667736768722534
+  ],
+  [
+    [
+      55,
+      73
+    ],
+    [
+      "Nutzen Sie am besten sehr heißes Wasser.",
+      "Putzen Sie kontaminierte Flächen am besten mit Einwegtüchern, die Sie anschließend entsorgen."
+    ],
+    0.5701842308044434
+  ],
+  [
+    [
+      56,
+      75
+    ],
+    [
+      "Waschen Sie Ihre Wäsche bei 60 Grad.",
+      "Bei mindestens 60 Grad Celsius sollten Sie – wenn möglich – Bettzeug, Handtücher und Kleidung des Erkrankten waschen."
+    ],
+    0.7218735218048096
+  ],
+  [
+    [
+      57,
+      75
+    ],
+    [
+      "Waschen Sie auch die Bettwäsche, Handtücher und Kleidung.",
+      "Bei mindestens 60 Grad Celsius sollten Sie – wenn möglich – Bettzeug, Handtücher und Kleidung des Erkrankten waschen."
+    ],
+    0.6654285788536072
+  ],
+  [
+    [
+      58,
+      79
+    ],
+    [
+      "Sie wollen noch mehr über Noroviren lesen?",
+      "Die Empfehlungen gelten auch dann noch eine Weile, wenn sich der Betroffene wieder gut fühlt, denn er scheidet noch zwei Wochen Noroviren über den Stuhl aus."
+    ],
+    0.5377607941627502
+  ],
+  [
+    [
+      59,
+      79
+    ],
+    [
+      "Mehr Informationen über Noroviren finden Sie hier .",
+      "Die Empfehlungen gelten auch dann noch eine Weile, wenn sich der Betroffene wieder gut fühlt, denn er scheidet noch zwei Wochen Noroviren über den Stuhl aus."
+    ],
+    0.48813557624816895
+  ],
+  [
+    [
+      60,
+      79
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die Empfehlungen gelten auch dann noch eine Weile, wenn sich der Betroffene wieder gut fühlt, denn er scheidet noch zwei Wochen Noroviren über den Stuhl aus."
+    ],
+    0.3603544235229492
+  ],
+  [
+    [
+      61,
+      79
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Empfehlungen gelten auch dann noch eine Weile, wenn sich der Betroffene wieder gut fühlt, denn er scheidet noch zwei Wochen Noroviren über den Stuhl aus."
+    ],
+    0.5722706317901611
+  ]
+]

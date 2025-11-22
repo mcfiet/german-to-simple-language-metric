@@ -1,0 +1,948 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Eine akute Bronchitis ist eine Erkrankung der Atemwege.",
+      "Häufig tritt eine akute Bronchitis im Rahmen einer Erkältung auf."
+    ],
+    0.8968832492828369
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Bei einer akuten Bronchitis ist die Schleimhaut in den Bronchien entzündet.",
+      "Häufig tritt eine akute Bronchitis im Rahmen einer Erkältung auf."
+    ],
+    0.8820660710334778
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Eine Bronchitis kann akut sein.",
+      "Häufig tritt eine akute Bronchitis im Rahmen einer Erkältung auf."
+    ],
+    0.8867566585540771
+  ],
+  [
+    [
+      3,
+      6
+    ],
+    [
+      "Dann heilt sie oft von selbst.",
+      "Die Betroffenen husten zähflüssigen Schleim ab, auch Auswurf genannt."
+    ],
+    0.5642751455307007
+  ],
+  [
+    [
+      4,
+      8
+    ],
+    [
+      "Eine akute Bronchitis dauert etwa zwei Wochen.",
+      "Tritt eine akute Bronchitis im Rahmen einer üblichen Erkältung bei sonst Gesunden auf, heilt sie normalerweise innerhalb von rund zwei Wochen aus."
+    ],
+    0.892920732498169
+  ],
+  [
+    [
+      5,
+      15
+    ],
+    [
+      "Hinweis: Akute Bronchitis ist oft ansteckend.",
+      "Auf dem Boden einer akuten Bronchitis kann sich eine Lungenentzündung entwickeln."
+    ],
+    0.8975247144699097
+  ],
+  [
+    [
+      6,
+      28
+    ],
+    [
+      "Eine Bronchitis kann aber auch chronisch sein ( chronische Bronchitis ).",
+      "Eine akute Bronchitis kann in die chronische Form übergehen."
+    ],
+    0.9515883326530457
+  ],
+  [
+    [
+      7,
+      28
+    ],
+    [
+      "Chronisch bedeutet: Die Entzündung entwickelt sich langsam und dauert lange an.",
+      "Eine akute Bronchitis kann in die chronische Form übergehen."
+    ],
+    0.6374331116676331
+  ],
+  [
+    [
+      8,
+      28
+    ],
+    [
+      "Chronische Entzündungen kommen oft wieder.",
+      "Eine akute Bronchitis kann in die chronische Form übergehen."
+    ],
+    0.6676440834999084
+  ],
+  [
+    [
+      9,
+      39
+    ],
+    [
+      "Das wichtigste Anzeichen für eine akute Bronchitis ist der typische Husten .",
+      "Eine Bronchitis ist eine Entzündung der unteren Atemwege."
+    ],
+    0.8289670348167419
+  ],
+  [
+    [
+      10,
+      43
+    ],
+    [
+      "Anfangs ist der Husten meist trocken.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.7722010612487793
+  ],
+  [
+    [
+      11,
+      43
+    ],
+    [
+      "Nachts und morgens ist der Husten oft besonders schlimm:",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.8072092533111572
+  ],
+  [
+    [
+      12,
+      43
+    ],
+    [
+      "Eine betroffene Person hat beim Husten Schmerzen in der Brust.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.7633079290390015
+  ],
+  [
+    [
+      13,
+      43
+    ],
+    [
+      "Nach einigen Tagen bildet sich zäher Schleim in den Bronchien.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.7228693962097168
+  ],
+  [
+    [
+      14,
+      43
+    ],
+    [
+      "Der Husten verändert sich:",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.840510368347168
+  ],
+  [
+    [
+      15,
+      43
+    ],
+    [
+      "Er ist dann nicht mehr trocken.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.38566863536834717
+  ],
+  [
+    [
+      16,
+      43
+    ],
+    [
+      "Der Husten ist dann schleimig.",
+      "Das führt zu Husten mit schleimigem Auswurf."
+    ],
+    0.9479703307151794
+  ],
+  [
+    [
+      17,
+      44
+    ],
+    [
+      "Eine akute Bronchitis tritt oft zusammen mit einer Erkältung auf.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.8270494341850281
+  ],
+  [
+    [
+      18,
+      44
+    ],
+    [
+      "Zusätzlich zum Husten kommen dann häufig typische Beschwerden einer Erkältung hinzu wie zum Beispiel:",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.7139315605163574
+  ],
+  [
+    [
+      19,
+      44
+    ],
+    [
+      "Kopfschmerzen Gliederschmerzen Halsschmerzen",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.43314242362976074
+  ],
+  [
+    [
+      20,
+      44
+    ],
+    [
+      "Schmerzen beim Schlucken",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.2831169664859772
+  ],
+  [
+    [
+      21,
+      44
+    ],
+    [
+      "Schnupfen",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.20358970761299133
+  ],
+  [
+    [
+      22,
+      44
+    ],
+    [
+      "Fieber",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.5307995676994324
+  ],
+  [
+    [
+      23,
+      44
+    ],
+    [
+      "In den meisten Fällen sind Viren die Ursache für eine akute Bronchitis.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.9903159737586975
+  ],
+  [
+    [
+      24,
+      44
+    ],
+    [
+      "Verschiedene Viren-Arten können eine akute Bronchitis auslösen wie zum Beispiel Grippe-Viren.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.9264109134674072
+  ],
+  [
+    [
+      25,
+      44
+    ],
+    [
+      "Manchmal sind aber auch Bakterien die Ursache für eine akute Bronchitis.",
+      "In den meisten Fällen sind Viren Auslöser der akuten Bronchitis."
+    ],
+    0.8914836645126343
+  ],
+  [
+    [
+      26,
+      47
+    ],
+    [
+      "In seltenen Fällen verursachen Pilze die Bronchitis.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.7927311658859253
+  ],
+  [
+    [
+      27,
+      47
+    ],
+    [
+      "Eine akute Bronchitis ist häufig ansteckend.",
+      "Eine akute Bronchitis ist häufig ansteckend."
+    ],
+    0.9999997019767761
+  ],
+  [
+    [
+      28,
+      50
+    ],
+    [
+      "Die Viren können sich leicht über den Speichel auf andere Menschen übertragen.",
+      "Viren werden entweder durch eine sogenannte Tröpfchen- oder per Schmierinfektion übertragen."
+    ],
+    0.9026796817779541
+  ],
+  [
+    [
+      29,
+      51
+    ],
+    [
+      "Sie haben eine akute Bronchitis?",
+      "Gesunde stecken sich bei Erkrankten beispielsweise an, indem sie die winzigen virenhaltigen Tröpfchen einatmen, die der Erkältete beim Husten, Niesen oder Sprechen versprüht."
+    ],
+    0.6583160758018494
+  ],
+  [
+    [
+      30,
+      53
+    ],
+    [
+      "Dann sollten Sie diese Dinge vermeiden:",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.38680607080459595
+  ],
+  [
+    [
+      31,
+      53
+    ],
+    [
+      "Husten Sie andere Menschen nicht an.",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.43489745259284973
+  ],
+  [
+    [
+      32,
+      53
+    ],
+    [
+      "Niesen Sie andere Menschen nicht an.",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.40968066453933716
+  ],
+  [
+    [
+      33,
+      53
+    ],
+    [
+      "Küssen Sie andere Menschen nicht.",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.2822146713733673
+  ],
+  [
+    [
+      34,
+      53
+    ],
+    [
+      "Nutzen Sie eigene Tassen und eigenes Besteck.",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.34595128893852234
+  ],
+  [
+    [
+      35,
+      53
+    ],
+    [
+      "Waschen Sie regelmäßig Ihre Hände mit Seife.",
+      "Häufiges Händewaschen oder gegebenenfalls eine Desinfektion senkt die Ansteckungsgefahr."
+    ],
+    0.8039300441741943
+  ],
+  [
+    [
+      36,
+      63
+    ],
+    [
+      "Für gesunde Menschen ist eine akute Bronchitis oft nicht gefährlich.",
+      "Im Rahmen von Infekten wie Windpocken oder Keuchhusten kann ebenfalls eine akute Bronchitis auftreten."
+    ],
+    0.7487823963165283
+  ],
+  [
+    [
+      37,
+      69
+    ],
+    [
+      "Nur in seltenen Fällen müssen betroffene Menschen Medikamente nehmen.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.5119413137435913
+  ],
+  [
+    [
+      38,
+      69
+    ],
+    [
+      "Die Entzündung heilt meist von selbst.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.37758010625839233
+  ],
+  [
+    [
+      39,
+      69
+    ],
+    [
+      "Aber Sie können die Heilung unterstützen.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.47142648696899414
+  ],
+  [
+    [
+      40,
+      69
+    ],
+    [
+      "Während der Erkrankung sollten Sie: sich schonen, keinen Sport machen, nicht rauchen und bei Fieber im Bett bleiben.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.37944358587265015
+  ],
+  [
+    [
+      41,
+      69
+    ],
+    [
+      "Sie haben starke Beschwerden?",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.44062340259552
+  ],
+  [
+    [
+      42,
+      69
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.7378108501434326
+  ],
+  [
+    [
+      43,
+      69
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Der Arzt erkundigt sich nach der Krankengeschichte und den Beschwerden."
+    ],
+    0.7158666849136353
+  ],
+  [
+    [
+      44,
+      79
+    ],
+    [
+      "In der Apotheke bekommen Sie spezielle Hustenmittel.",
+      "Eine akute Bronchitis lässt sich mit Hausmitteln und – wenn nötig – mit hustenstillenden oder schleimlösenden Medikamenten behandeln."
+    ],
+    0.6609077453613281
+  ],
+  [
+    [
+      45,
+      79
+    ],
+    [
+      "Lassen Sie sich vom Apotheker beraten.",
+      "Eine akute Bronchitis lässt sich mit Hausmitteln und – wenn nötig – mit hustenstillenden oder schleimlösenden Medikamenten behandeln."
+    ],
+    0.3653137683868408
+  ],
+  [
+    [
+      46,
+      79
+    ],
+    [
+      "Hinweis: Das Husten ist wichtig für die Heilung der Bronchitis.",
+      "Eine akute Bronchitis lässt sich mit Hausmitteln und – wenn nötig – mit hustenstillenden oder schleimlösenden Medikamenten behandeln."
+    ],
+    0.8566912412643433
+  ],
+  [
+    [
+      47,
+      79
+    ],
+    [
+      "Nehmen Sie die Mittel gegen Husten deshalb nicht über längere Zeit ein.",
+      "Eine akute Bronchitis lässt sich mit Hausmitteln und – wenn nötig – mit hustenstillenden oder schleimlösenden Medikamenten behandeln."
+    ],
+    0.685446560382843
+  ],
+  [
+    [
+      48,
+      80
+    ],
+    [
+      "Sie können auch Mittel gegen den Schleim nehmen.",
+      "Nur in manchen Fällen sind Antibiotika erforderlich."
+    ],
+    0.5830719470977783
+  ],
+  [
+    [
+      49,
+      81
+    ],
+    [
+      "Diese Mittel lösen den Schleim in den Bronchien.",
+      "Einfache Maßnahmen können den Verlauf einer akuten Bronchitis positiv beeinflussen und die Symptome lindern:"
+    ],
+    0.767764687538147
+  ],
+  [
+    [
+      50,
+      82
+    ],
+    [
+      "So können Sie den Schleim leichter abhusten.",
+      "Körperliche Schonung, Sport vorübergehend pausieren, bei Fieber Bettruhe Nicht rauchen"
+    ],
+    0.42522093653678894
+  ],
+  [
+    [
+      51,
+      83
+    ],
+    [
+      "Fragen",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.17650581896305084
+  ],
+  [
+    [
+      52,
+      83
+    ],
+    [
+      "Sie in der Apotheke",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.2868240475654602
+  ],
+  [
+    [
+      53,
+      83
+    ],
+    [
+      "nach einem passenden Hustenmittel oder fragen Sie Ihren Arzt",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.48355740308761597
+  ],
+  [
+    [
+      54,
+      83
+    ],
+    [
+      ".",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.08470878005027771
+  ],
+  [
+    [
+      55,
+      83
+    ],
+    [
+      "Sie können auch einfache Hausmittel gegen die Beschwerden nehmen:",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.40642863512039185
+  ],
+  [
+    [
+      56,
+      83
+    ],
+    [
+      "Inhalieren Sie mehrmals am Tag mit Salzwasser.",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.9020438194274902
+  ],
+  [
+    [
+      57,
+      83
+    ],
+    [
+      "Das löst den Schleim und macht das Husten angenehmer.",
+      "Mehrmals täglich mit einer 0,9-prozentigen Kochsalzlösung inhalieren."
+    ],
+    0.5177701711654663
+  ],
+  [
+    [
+      58,
+      86
+    ],
+    [
+      "Trinken Sie viel Wasser oder Tee.",
+      "Ausreichend trinken – am besten Wasser und ungesüßte Tees."
+    ],
+    0.9352173805236816
+  ],
+  [
+    [
+      59,
+      87
+    ],
+    [
+      "Auch das löst den Schleim.",
+      "Das soll helfen, das Sekret zu verflüssigen."
+    ],
+    0.8010854721069336
+  ],
+  [
+    [
+      60,
+      88
+    ],
+    [
+      "Achtung: Sie haben eine Herzerkrankung?",
+      "Hinweis: Wer an einer Herz- oder Nierenerkrankung leidet, sollte die Trinkmenge mit einem Arzt absprechen Wadenwickel können bei erhöhter Temperatur und leichtem Fieber helfen."
+    ],
+    0.5368300676345825
+  ],
+  [
+    [
+      61,
+      88
+    ],
+    [
+      "Oder Sie haben eine Nierenerkrankung?",
+      "Hinweis: Wer an einer Herz- oder Nierenerkrankung leidet, sollte die Trinkmenge mit einem Arzt absprechen Wadenwickel können bei erhöhter Temperatur und leichtem Fieber helfen."
+    ],
+    0.6171530485153198
+  ],
+  [
+    [
+      62,
+      91
+    ],
+    [
+      "Dann dürfen Sie vielleicht nicht so viel trinken.",
+      "Husten sollte aber, wenn überhaupt, nur kurzfristig unterdrückt werden"
+    ],
+    0.502570390701294
+  ],
+  [
+    [
+      63,
+      97
+    ],
+    [
+      "Besprechen Sie die Trinkmenge deshalb mit Ihrem Arzt.",
+      "Besprechen Sie mit dem Arzt, welche Therapie sich in Ihrem Fall empfiehlt."
+    ],
+    0.753474771976471
+  ],
+  [
+    [
+      64,
+      99
+    ],
+    [
+      "In den meisten Fällen heilt eine Bronchitis von selbst.",
+      "Normalerweise heilt eine solche Bronchitis jedoch von selbst ab, ein Antibiotikum ist nicht nötig."
+    ],
+    0.8956651091575623
+  ],
+  [
+    [
+      65,
+      102
+    ],
+    [
+      "Aber manchmal kann eine Bronchitis auch gefährlich werden:",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.8696413636207581
+  ],
+  [
+    [
+      66,
+      102
+    ],
+    [
+      "Ihre Beschwerden werden auch nach mehreren Tagen nicht besser?",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.2793174386024475
+  ],
+  [
+    [
+      67,
+      102
+    ],
+    [
+      "Sie haben hohes Fieber?",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.41812580823898315
+  ],
+  [
+    [
+      68,
+      102
+    ],
+    [
+      "Sie schwitzen nachts stark?",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.2532084286212921
+  ],
+  [
+    [
+      69,
+      102
+    ],
+    [
+      "Sie haben Probleme beim Atmen?",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.6580383777618408
+  ],
+  [
+    [
+      70,
+      102
+    ],
+    [
+      "Sie keuchen oder pfeifen beim Atmen?",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.5570801496505737
+  ],
+  [
+    [
+      71,
+      102
+    ],
+    [
+      "Sie haben starke Husten-Anfälle?",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.5927320718765259
+  ],
+  [
+    [
+      72,
+      102
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.30897271633148193
+  ],
+  [
+    [
+      73,
+      102
+    ],
+    [
+      "Achtung: Für manche Menschen ist eine akute Bronchitis immer gefährlich.",
+      "Gefährdet für eine schwer verlaufende Bronchitis sind zum Beispiel Menschen mit einer Grunderkrankung wie Asthma oder COPD (chronisch obstruktive Bronchitis)."
+    ],
+    0.8627433180809021
+  ],
+  [
+    [
+      74,
+      109
+    ],
+    [
+      "Zu diesen Menschen gehören zum Beispiel:",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.3677276372909546
+  ],
+  [
+    [
+      75,
+      109
+    ],
+    [
+      "Menschen mit einer zusätzlichen chronischen Erkrankung der Atemwege alte Menschen schwangere Frauen",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.2339785248041153
+  ],
+  [
+    [
+      76,
+      109
+    ],
+    [
+      "Menschen mit Immunschwäche",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.3086906671524048
+  ],
+  [
+    [
+      77,
+      109
+    ],
+    [
+      "Diese Personen sollten bei einer akuten Bronchitis immer zum Arzt gehen.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.19767020642757416
+  ],
+  [
+    [
+      78,
+      109
+    ],
+    [
+      "Sie denken: Ich habe vielleicht eine akute Bronchitis?",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.12403607368469238
+  ],
+  [
+    [
+      79,
+      109
+    ],
+    [
+      "Und Sie haben sehr starke Beschwerden?",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.32515549659729004
+  ],
+  [
+    [
+      80,
+      109
+    ],
+    [
+      "Dann gehen Sie zum Arzt.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.2620207667350769
+  ],
+  [
+    [
+      81,
+      109
+    ],
+    [
+      "Der Arzt untersucht Sie und gibt Ihnen alle wichtigen Informationen.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.26896655559539795
+  ],
+  [
+    [
+      82,
+      109
+    ],
+    [
+      "Sie wollen noch mehr über die akute Bronchitis lesen?",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.24344056844711304
+  ],
+  [
+    [
+      83,
+      109
+    ],
+    [
+      "Mehr Informationen über akute Bronchitis finden Sie hier .",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.19648787379264832
+  ],
+  [
+    [
+      84,
+      109
+    ],
+    [
+      "Achtung: Dieser Link führt aus unserem Einfache-Sprache-Angebot heraus.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.2107587307691574
+  ],
+  [
+    [
+      85,
+      109
+    ],
+    [
+      "Die Informationen sind dann nicht mehr in Einfacher Sprache.",
+      "Die Beantwortung individueller Fragen durch unsere Experten ist leider nicht möglich."
+    ],
+    0.49315792322158813
+  ]
+]

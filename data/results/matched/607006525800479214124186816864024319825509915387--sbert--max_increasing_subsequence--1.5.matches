@@ -1,0 +1,618 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Wenn Sie allein ein Kind erziehen , müssen Sie nicht für das Kind bezahlen.",
+      "Als alleinerziehender Elternteil können Sie Leistungen nach dem Unterhaltsvorschussgesetz für Ihr Kind beantragen."
+    ],
+    0.7374602556228638
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Der Eltern-Teil muss bezahlen bei dem das Kind nicht lebt .",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.8413090705871582
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Unterhalt heißt: Sie müssen Geld für Ihr Kind bezahlen, wenn Ihr Kind nicht bei Ihnen wohnt .",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.8287286758422852
+  ],
+  [
+    [
+      5,
+      1
+    ],
+    [
+      "Wenn der andere Eltern-Teil nicht bezahlt , können Sie Hilfe vom Amt bekommen.",
+      "Voraussetzung hierfür ist, dass der andere Elternteil, bei dem das Kind nicht lebt, keinen oder einen zu geringen Unterhalt zahlt und das Kind das 18. Lebensjahr noch nicht vollendet hat."
+    ],
+    0.748907744884491
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Dazu sagen wir: Unterhalts-Vorschuss .",
+      "Den Antrag können Sie schriftlich oder durch persönliche Vorsprache bei der Unterhaltsvorschusskasse stellen."
+    ],
+    0.5968433618545532
+  ],
+  [
+    [
+      7,
+      3
+    ],
+    [
+      "Sie müssen den Unterhalts-Vorschuss beantragen .",
+      "Den Antrag können Sie schriftlich oder durch persönliche Vorsprache bei der Unterhaltsvorschusskasse stellen."
+    ],
+    0.767800509929657
+  ],
+  [
+    [
+      8,
+      3
+    ],
+    [
+      "Sie müssen dazu einen Antrag bei der Unterhalts-Vorschuss-Kasse stellen.",
+      "Den Antrag können Sie schriftlich oder durch persönliche Vorsprache bei der Unterhaltsvorschusskasse stellen."
+    ],
+    0.8225376009941101
+  ],
+  [
+    [
+      9,
+      3
+    ],
+    [
+      "Das können Sie schriftlich oder persönlich tun.",
+      "Den Antrag können Sie schriftlich oder durch persönliche Vorsprache bei der Unterhaltsvorschusskasse stellen."
+    ],
+    0.6816869974136353
+  ],
+  [
+    [
+      10,
+      4
+    ],
+    [
+      "Wann bekomme ich Unterhalts-Vorschuss?",
+      "Kindergeld und Waisenrente werden auf die Unterhaltsvorschussleistung angerechnet."
+    ],
+    0.5792648792266846
+  ],
+  [
+    [
+      22,
+      4
+    ],
+    [
+      "Das Kinder-Geld wird angerechnet auf den Unterhalts-Vorschuss.",
+      "Kindergeld und Waisenrente werden auf die Unterhaltsvorschussleistung angerechnet."
+    ],
+    0.9392615556716919
+  ],
+  [
+    [
+      24,
+      4
+    ],
+    [
+      "Die Waisen-Rente für Ihr Kind wird angerechnet.",
+      "Kindergeld und Waisenrente werden auf die Unterhaltsvorschussleistung angerechnet."
+    ],
+    0.8785382509231567
+  ],
+  [
+    [
+      25,
+      4
+    ],
+    [
+      "Waisen-Rente bedeutet: Das Kind bekommt Geld vom Amt.",
+      "Kindergeld und Waisenrente werden auf die Unterhaltsvorschussleistung angerechnet."
+    ],
+    0.8264518976211548
+  ],
+  [
+    [
+      27,
+      4
+    ],
+    [
+      "Wenn Ihr Kind Waisen-Rente bekommt, dann verrechnen wir das mit dem Unterhalt.",
+      "Kindergeld und Waisenrente werden auf die Unterhaltsvorschussleistung angerechnet."
+    ],
+    0.8184669017791748
+  ],
+  [
+    [
+      28,
+      5
+    ],
+    [
+      "Wenn das Kind nicht mehr zur Schule geht, sondern eigenes Geld hat, dann wird das Einkommen vom Kind angerechnet.",
+      "Bei Kindern, die keine allgemeinbildende Schule mehr besuchen, wird deren eigenes Einkommen aus Arbeit und Vermögen angerechnet."
+    ],
+    0.8871714472770691
+  ],
+  [
+    [
+      29,
+      5
+    ],
+    [
+      "Zum Beispiel: Das Einkommen aus der Arbeit .",
+      "Bei Kindern, die keine allgemeinbildende Schule mehr besuchen, wird deren eigenes Einkommen aus Arbeit und Vermögen angerechnet."
+    ],
+    0.686378538608551
+  ],
+  [
+    [
+      33,
+      6
+    ],
+    [
+      "Das Vermögen vom Kind wird nicht angerechnet.",
+      "Das Einkommen des alleinerziehenden Elternteils, bei dem das Kind lebt, wird nicht angerechnet."
+    ],
+    0.7584856152534485
+  ],
+  [
+    [
+      34,
+      6
+    ],
+    [
+      "Das Einkommen von dem Eltern-Teil, bei dem das Kind lebt, wird nicht angerechnet.",
+      "Das Einkommen des alleinerziehenden Elternteils, bei dem das Kind lebt, wird nicht angerechnet."
+    ],
+    0.966010570526123
+  ],
+  [
+    [
+      39,
+      7
+    ],
+    [
+      "Die Unterhalts-Vorschuss-Kasse holt sich dann das Geld von dem anderen Eltern-Teil, der keinen Unterhalt zahlt .",
+      "Die Unterhaltsvorschusskasse fordert die von ihr gezahlten Leistungen von dem Elternteil zurück, der seiner Unterhaltspflicht trotz bestehender Leistungsfähigkeit nicht nachkommt."
+    ],
+    0.823800802230835
+  ],
+  [
+    [
+      45,
+      8
+    ],
+    [
+      "Mehr Infos dazu stehen im Merk-Blatt zum Antrag auf Unterhalt.",
+      "Weitere Hinweise über im Einzelfall erforderliche Unterlagen und benötigte Nachweise entnehmen Sie bitte dem Merkblatt zum Unterhaltsvorschussantrag unter Downloads und Infos."
+    ],
+    0.766294002532959
+  ],
+  [
+    [
+      46,
+      9
+    ],
+    [
+      "Mehr Infos zum Unterhalts-Vorschuss finden Sie im Info-Heft vom Bundes-Ministerium für Familie, Senioren, Frauen und Jugend.",
+      "Weitere Informationen zum Unterhaltsvorschuss finden Sie in der Broschüre des Bundesministeriums für Familie, Senioren, Frauen und Jugend unter Downloads und Infos."
+    ],
+    0.9483230113983154
+  ],
+  [
+    [
+      49,
+      16
+    ],
+    [
+      "Bitte stellen Sie für jedes Kind einen Antrag .",
+      "Bitte stellen Sie für jedes Kind einen Antrag."
+    ],
+    0.9999995231628418
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Geburts-Urkunde vom Kind",
+      "Geburtsurkunde des Kindes in Kopie"
+    ],
+    0.9084012508392334
+  ],
+  [
+    [
+      57,
+      17
+    ],
+    [
+      "Bitte zeigen Sie uns eine Kopie von der Geburts-Urkunde von Ihrem Kind.",
+      "Geburtsurkunde des Kindes in Kopie"
+    ],
+    0.8315278887748718
+  ],
+  [
+    [
+      58,
+      18
+    ],
+    [
+      "Nachweis über die Vaterschaft",
+      "Nachweise über die Feststellung der Vaterschaft beziehungsweise den aktuellen Stand der Vaterschaftsfeststellung"
+    ],
+    0.9388449788093567
+  ],
+  [
+    [
+      59,
+      18
+    ],
+    [
+      "Sie müssen nachweisen, wer der Vater von dem Kind ist.",
+      "Nachweise über die Feststellung der Vaterschaft beziehungsweise den aktuellen Stand der Vaterschaftsfeststellung"
+    ],
+    0.7506991624832153
+  ],
+  [
+    [
+      62,
+      19
+    ],
+    [
+      "Aufenthalts-Erlaubnis",
+      "Aufenthaltsbescheinigungen"
+    ],
+    0.8229647874832153
+  ],
+  [
+    [
+      63,
+      19
+    ],
+    [
+      "Wenn Sie kein Deutscher oder keine Deutsche sind, dann müssen Sie uns eine Aufenthalts-Erlaubnis zeigen.",
+      "Aufenthaltsbescheinigungen"
+    ],
+    0.627029299736023
+  ],
+  [
+    [
+      66,
+      20
+    ],
+    [
+      "Weitere Infos zum Unterhalt",
+      "Vorhandene Unterhaltstitel"
+    ],
+    0.7123581767082214
+  ],
+  [
+    [
+      67,
+      21
+    ],
+    [
+      "Für Kinder ab 12 Jahren brauchen wir noch mehr Nachweise.",
+      "Für Kinder ab 12 Jahren werden zusätzliche Nachweise benötigt."
+    ],
+    0.9488800764083862
+  ],
+  [
+    [
+      70,
+      24
+    ],
+    [
+      "Sie bekommen den Unterhalt immer am Anfang vom Monat .",
+      "Die Unterhaltsvorschussleistung wird grundsätzlich für volle Kalendermonate gezahlt."
+    ],
+    0.606722891330719
+  ],
+  [
+    [
+      71,
+      25
+    ],
+    [
+      "Das gilt ab dem Monat, in dem wir Ihren Antrag bekommen .",
+      "Dies gilt ab dem Monat, in dem der Antrag auf Unterhaltsvorschussleistungen bei der Unterhaltsvorschusskasse eingeht."
+    ],
+    0.7588649988174438
+  ],
+  [
+    [
+      74,
+      26
+    ],
+    [
+      "Seit Juli 2017 gibt es Unterhalts-Vorschuss für Kinder bis 18 Jahre .",
+      "Zum 1. Juli 2017 hat der Gesetzgeber die Unterhaltsvorschussleistung ausgeweitet auf Kinder bis zum 18. Lebensjahr."
+    ],
+    0.8634607791900635
+  ],
+  [
+    [
+      75,
+      27
+    ],
+    [
+      "Deshalb gibt es jetzt viele neue Anträge .",
+      "Aus diesem Grund kann es durch viele Neuanträge, zu einer längeren Bearbeitungszeit Ihres Antrages kommen."
+    ],
+    0.675446093082428
+  ],
+  [
+    [
+      77,
+      27
+    ],
+    [
+      "Deshalb dauert das Bearbeiten lange.",
+      "Aus diesem Grund kann es durch viele Neuanträge, zu einer längeren Bearbeitungszeit Ihres Antrages kommen."
+    ],
+    0.6559529304504395
+  ],
+  [
+    [
+      80,
+      28
+    ],
+    [
+      "Wenn Papiere fehlen.",
+      "Sollten Sie Leistungen beantragt haben und noch Unterlagen fehlen, wird die Unterhaltsvorschusskasse auf Sie zukommen."
+    ],
+    0.5633360743522644
+  ],
+  [
+    [
+      81,
+      29
+    ],
+    [
+      "Bekomme ich als Ausländer oder Ausländerin auch Geld?",
+      "Anspruchsberechtigte Ausländerinnen und Ausländer Wurde Ihrem Kind beziehungsweise Ihnen als betreuendem Elternteil eine Erlaubnis zur Niederlassung oder zum Aufenthalt erteilt, die zur Ausübung einer Erwerbstätigkeit berechtigt, können Sie Unterhaltsvorschussleistungen beantragen."
+    ],
+    0.5576002597808838
+  ],
+  [
+    [
+      83,
+      29
+    ],
+    [
+      "Wenn Sie oder Ihr Kind eine Aufenthalts-Erlaubnis haben.",
+      "Anspruchsberechtigte Ausländerinnen und Ausländer Wurde Ihrem Kind beziehungsweise Ihnen als betreuendem Elternteil eine Erlaubnis zur Niederlassung oder zum Aufenthalt erteilt, die zur Ausübung einer Erwerbstätigkeit berechtigt, können Sie Unterhaltsvorschussleistungen beantragen."
+    ],
+    0.8118794560432434
+  ],
+  [
+    [
+      86,
+      30
+    ],
+    [
+      "Es gibt aber viele Ausnahmen .",
+      "Weil die schwierige Rechtslage auch Ausnahmen regelt, sollten Sie mit uns sprechen."
+    ],
+    0.6691480278968811
+  ],
+  [
+    [
+      87,
+      30
+    ],
+    [
+      "Sprechen Sie bitte mit uns.",
+      "Weil die schwierige Rechtslage auch Ausnahmen regelt, sollten Sie mit uns sprechen."
+    ],
+    0.5701712965965271
+  ],
+  [
+    [
+      88,
+      31
+    ],
+    [
+      "Wie viel Geld bekomme ich?",
+      "Höhe der Unterhaltsvorschussleistung"
+    ],
+    0.5665691494941711
+  ],
+  [
+    [
+      90,
+      34
+    ],
+    [
+      "Unter 6 Jahre: 177 Euro im Monat.",
+      "Ab dem 1. Januar 2022 ergeben sich folgende Unterhaltsvorschussbeträge für Kinder: unter 6 Jahre monatlich 177 Euro von 6 bis 11 Jahre monatlich 236 Euro von 12 bis 17 Jahre monatlich 314 Euro Vorsprache"
+    ],
+    0.7155438661575317
+  ],
+  [
+    [
+      91,
+      34
+    ],
+    [
+      "Von 6 bis 11 Jahre: 236 Euro im Monat.",
+      "Ab dem 1. Januar 2022 ergeben sich folgende Unterhaltsvorschussbeträge für Kinder: unter 6 Jahre monatlich 177 Euro von 6 bis 11 Jahre monatlich 236 Euro von 12 bis 17 Jahre monatlich 314 Euro Vorsprache"
+    ],
+    0.6667008399963379
+  ],
+  [
+    [
+      92,
+      34
+    ],
+    [
+      "Von 12 bis 17 Jahre: 314 Euro im Monat.",
+      "Ab dem 1. Januar 2022 ergeben sich folgende Unterhaltsvorschussbeträge für Kinder: unter 6 Jahre monatlich 177 Euro von 6 bis 11 Jahre monatlich 236 Euro von 12 bis 17 Jahre monatlich 314 Euro Vorsprache"
+    ],
+    0.6901640892028809
+  ],
+  [
+    [
+      100,
+      35
+    ],
+    [
+      "Wichtig: Wenn Sie persönlich kommen wollen, brauchen Sie einen Termin .",
+      "Um Wartezeiten zu vermeiden, vereinbaren Sie bitte zur Vorsprache einen Termin."
+    ],
+    0.7622203826904297
+  ],
+  [
+    [
+      102,
+      36
+    ],
+    [
+      "Das können Sie über unser sicheres Formular tun.",
+      "Am einfachsten ist dies mit einer Nachricht an die Unterhaltsvorschusskasse über unser sicheres Formular."
+    ],
+    0.7607373595237732
+  ],
+  [
+    [
+      103,
+      37
+    ],
+    [
+      "Dabei bleiben Ihre persönlichen Daten geheim .",
+      "Im Unterschied zu einer E -Mail können hier Ihre persönlichen Daten von Unbefugten nicht mitgelesen werden."
+    ],
+    0.696276068687439
+  ],
+  [
+    [
+      104,
+      37
+    ],
+    [
+      "Niemand kann Ihre Daten lesen.",
+      "Im Unterschied zu einer E -Mail können hier Ihre persönlichen Daten von Unbefugten nicht mitgelesen werden."
+    ],
+    0.7181720733642578
+  ],
+  [
+    [
+      106,
+      37
+    ],
+    [
+      "Vorsicht: E-Mails sind nicht sicher.",
+      "Im Unterschied zu einer E -Mail können hier Ihre persönlichen Daten von Unbefugten nicht mitgelesen werden."
+    ],
+    0.6378366947174072
+  ],
+  [
+    [
+      109,
+      38
+    ],
+    [
+      "Bitte schreiben Sie uns immer diese Infos: Name von Ihrem Kind Geburts-Datum von Ihrem Kind Ihren Namen Ihre Adresse",
+      "Bitte hinterlassen Sie dort: Ihren Namen Ihre Adresse Namen und Geburtsdatum ihres Kindes"
+    ],
+    0.907700777053833
+  ],
+  [
+    [
+      110,
+      39
+    ],
+    [
+      "Ihre Telefon-Nummer Ihre E-Mail",
+      "Ihre Telefonnummer Ihre E -Mail- Adresse Ihr*e Sachbearbeiter*in werden sich dann bei Ihnen melden."
+    ],
+    0.8333815336227417
+  ],
+  [
+    [
+      112,
+      39
+    ],
+    [
+      "Ihr Sach-Bearbeiter oder Ihre Sach-Bearbeiterin wird sich dann bei Ihnen melden.",
+      "Ihre Telefonnummer Ihre E -Mail- Adresse Ihr*e Sachbearbeiter*in werden sich dann bei Ihnen melden."
+    ],
+    0.7850996255874634
+  ],
+  [
+    [
+      114,
+      39
+    ],
+    [
+      "Zum Beispiel: Wenn Sie einen Brief bekommen haben.",
+      "Ihre Telefonnummer Ihre E -Mail- Adresse Ihr*e Sachbearbeiter*in werden sich dann bei Ihnen melden."
+    ],
+    0.5566045045852661
+  ],
+  [
+    [
+      117,
+      41
+    ],
+    [
+      "Achtung: Wir dürfen keine Rechts-Beratung machen.",
+      "Im Allgemeinen gilt, dass eine Rechtsberatung durch uns nach den Bestimmungen des Rechtsdienstleistungsgesetzes nicht zulässig ist."
+    ],
+    0.7966655492782593
+  ],
+  [
+    [
+      118,
+      41
+    ],
+    [
+      "Das bedeutet: Wir dürfen Sie nicht in Rechts-Fragen beraten.",
+      "Im Allgemeinen gilt, dass eine Rechtsberatung durch uns nach den Bestimmungen des Rechtsdienstleistungsgesetzes nicht zulässig ist."
+    ],
+    0.8148943781852722
+  ],
+  [
+    [
+      120,
+      42
+    ],
+    [
+      "Wenn Sie eine Rechts-Beratung brauchen, gehen Sie bitte zu einem Anwalt .",
+      "Besteht bei Ihnen der Bedarf für eine Rechtsberatung, so nehmen Sie bitte anwaltliche Beratung in Anspruch."
+    ],
+    0.9218184351921082
+  ],
+  [
+    [
+      121,
+      43
+    ],
+    [
+      "Wenn Sie nicht genug Geld für einen Anwalt haben, gehen Sie zur Rechts-Antrags-Stelle vom Amts-Gericht Köln .",
+      "Wenn Sie die Mittel für eine Beratung nicht aufbringen können, dann wenden Sie sich bitte an die Rechtsantragsstelle des Amtsgerichts Köln."
+    ],
+    0.8413669466972351
+  ]
+]

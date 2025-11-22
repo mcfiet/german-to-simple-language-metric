@@ -1,0 +1,662 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "In Deutschland ist ein normaler Insektenstich meist nicht gefährlich.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.7991929650306702
+  ],
+  [
+    [
+      1,
+      1
+    ],
+    [
+      "Deshalb können Sie den Insektenstich meist selbst versorgen.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.6981220245361328
+  ],
+  [
+    [
+      2,
+      4
+    ],
+    [
+      "Einen Insektenstich versorgen Sie so:",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.7150846719741821
+  ],
+  [
+    [
+      3,
+      1
+    ],
+    [
+      "Der Stachel der Biene steckt noch in der Haut?",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.8214806914329529
+  ],
+  [
+    [
+      4,
+      17
+    ],
+    [
+      "Dann entfernen Sie den Stachel vorsichtig.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.8576951622962952
+  ],
+  [
+    [
+      5,
+      4
+    ],
+    [
+      "Am besten schieben Sie den Stachel seitlich heraus.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.8612808585166931
+  ],
+  [
+    [
+      6,
+      3
+    ],
+    [
+      "Benutzen Sie dafür eine stumpfe Kante, zum Beispiel einer Kreditkarte.",
+      "Hierfür eignet sich ein stumpfer Gegenstand, wie beispielsweise die Kante einer Kreditkarte."
+    ],
+    0.9135154485702515
+  ],
+  [
+    [
+      7,
+      4
+    ],
+    [
+      "Streichen Sie mit der Karte über den Stich.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.7375362515449524
+  ],
+  [
+    [
+      8,
+      6
+    ],
+    [
+      "Hinweis: Sie möchten den Stachel mit einer Pinzette herausziehen?",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.8956586122512817
+  ],
+  [
+    [
+      9,
+      8
+    ],
+    [
+      "Dann müssen Sie sehr vorsichtig sein.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.6600952744483948
+  ],
+  [
+    [
+      10,
+      8
+    ],
+    [
+      "Berühren Sie nicht die Giftblase.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.7342363595962524
+  ],
+  [
+    [
+      11,
+      19
+    ],
+    [
+      "Die Giftblase ist oben am Stachel.",
+      "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst."
+    ],
+    0.670803427696228
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "In der Giftblaseist das Insektengift.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.7053601741790771
+  ],
+  [
+    [
+      13,
+      2
+    ],
+    [
+      "Sie berühren die Giftblase?",
+      "Sonst gerät noch mehr Gift in den Körper."
+    ],
+    0.6353209018707275
+  ],
+  [
+    [
+      14,
+      2
+    ],
+    [
+      "Dann kann mehrInsektengift in die Wunde kommen.",
+      "Sonst gerät noch mehr Gift in den Körper."
+    ],
+    0.8132771253585815
+  ],
+  [
+    [
+      15,
+      1
+    ],
+    [
+      "Kühlen Sie den Insektenstich.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.7236204147338867
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Wickeln Sie ein Kältepack oder Eiswürfel in ein Tuch.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.9278132319450378
+  ],
+  [
+    [
+      17,
+      4
+    ],
+    [
+      "Legen Sie das Tuch auf den Stich.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.7251389026641846
+  ],
+  [
+    [
+      18,
+      8
+    ],
+    [
+      "Achtung: Legen Sie Kältepacks oder Eiswürfel nicht direkt auf die Haut.",
+      "Achtung: Niemals direkt auf die Haut legen, sonst drohen Erfrierungen!"
+    ],
+    0.7503876090049744
+  ],
+  [
+    [
+      20,
+      6
+    ],
+    [
+      "Cremen Sie den Stich mit einem speziellen Gel oder einer speziellen Salbe ein.",
+      "Sollten Sie eine Pinzette verwenden, greifen Sie den Stachel nah an der Einstichstelle."
+    ],
+    0.7718780636787415
+  ],
+  [
+    [
+      21,
+      9
+    ],
+    [
+      "Die Gele und Salben lindern den Juckreiz.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.8618340492248535
+  ],
+  [
+    [
+      22,
+      15
+    ],
+    [
+      "Sie bekommen ein passendes Mittel gegen Insektenstiche in der Apotheke.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.694582462310791
+  ],
+  [
+    [
+      23,
+      1
+    ],
+    [
+      "Auch Hitze kann bei einem Insektenstich helfen.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.6548905372619629
+  ],
+  [
+    [
+      24,
+      11
+    ],
+    [
+      "Sie können zum Beispiel einen Hitze-Stift kaufen.",
+      "Ebenfalls gegen den Juckreiz und die Schwellung wirken spezielle elektronische Geräte (Stifte), welche eine örtliche (lokale) Hitzebehandlung ermöglichen."
+    ],
+    0.690256655216217
+  ],
+  [
+    [
+      25,
+      9
+    ],
+    [
+      "Die Hitze hilft gegen den Juckreiz.",
+      "Kühlende Gele und Salben aus der Apotheke können den Juckreiz lindern."
+    ],
+    0.7400404214859009
+  ],
+  [
+    [
+      26,
+      0
+    ],
+    [
+      "Einige Insektenstiche können gefährlich sein.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.7771970629692078
+  ],
+  [
+    [
+      27,
+      21
+    ],
+    [
+      "In den folgenden Situationen müssen Sie den Rettungsdienst rufen:",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.7926405072212219
+  ],
+  [
+    [
+      29,
+      12
+    ],
+    [
+      "Die betroffene Person hat sehr viele Insektenstiche gleichzeitig bekommen.",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.6576167345046997
+  ],
+  [
+    [
+      30,
+      15
+    ],
+    [
+      "Die betroffene Person reagiert allergisch auf den Insektenstich.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.7876251935958862
+  ],
+  [
+    [
+      31,
+      0
+    ],
+    [
+      "Achtung: Insektenstiche im Mund und Rachen können lebensgefährlich sein.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.7532259821891785
+  ],
+  [
+    [
+      32,
+      0
+    ],
+    [
+      "Insektenstiche in diesen Bereichen können stark anschwellen.",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.6754312515258789
+  ],
+  [
+    [
+      35,
+      21
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.7637103199958801
+  ],
+  [
+    [
+      36,
+      21
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.6892337799072266
+  ],
+  [
+    [
+      38,
+      7
+    ],
+    [
+      "Geben Sie der betroffenen Person einen Eiswürfel zum Lutschen.",
+      "Kühlen Sie dann die Stelle – zum Beispiel mit einem Kältepack oder Eiswürfeln, die in ein Tuch gewickelt wurden."
+    ],
+    0.685256838798523
+  ],
+  [
+    [
+      40,
+      12
+    ],
+    [
+      "Eine Person wurde sehr häufig von einer Wespe, einer Biene oder einer Hornisse gestochen?",
+      "Auch wenn Sie gleich mehrfach von Wespen, Bienen oder Hornissen gestochen wurden oder wenn Sie auf das Insektengift allergisch reagieren, brauchen Sie den Rettungsdienst."
+    ],
+    0.7706297636032104
+  ],
+  [
+    [
+      41,
+      21
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.7637103199958801
+  ],
+  [
+    [
+      42,
+      21
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.6892337799072266
+  ],
+  [
+    [
+      43,
+      15
+    ],
+    [
+      "Die Person kann auf die große Menge Insektengift allergisch reagieren.",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8292891979217529
+  ],
+  [
+    [
+      44,
+      15
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8009734153747559
+  ],
+  [
+    [
+      46,
+      21
+    ],
+    [
+      "Rufen Sie sofort den Rettungsdienst.",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.7743606567382812
+  ],
+  [
+    [
+      47,
+      21
+    ],
+    [
+      "Die Nummer ist 112 .",
+      "Anschließend rufen sie den Rettungsdienst (112) !"
+    ],
+    0.6892337799072266
+  ],
+  [
+    [
+      48,
+      13
+    ],
+    [
+      "Anzeichen für eine allergische Reaktion sind zum Beispiel:",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.8688927888870239
+  ],
+  [
+    [
+      50,
+      13
+    ],
+    [
+      "Herzklopfen starke Schwellungen Quaddeln auf der Haut.",
+      "Auf eine allergische Reaktion hindeuten können zum Beispiel Atemnot , Schwindel, Herzklopfen, starke Schwellungen oder Quaddeln auf der Haut."
+    ],
+    0.6880080103874207
+  ],
+  [
+    [
+      52,
+      15
+    ],
+    [
+      "Eine Person reagiert allergisch auf Insektengift?",
+      "Bei bekannter Insektengift-Allergie haben die Betroffenen meist bereits ein sogenanntes Notfall-Set zuhause."
+    ],
+    0.8009734153747559
+  ],
+  [
+    [
+      53,
+      16
+    ],
+    [
+      "Und die Person weiß von der Allergie.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.7303560972213745
+  ],
+  [
+    [
+      54,
+      16
+    ],
+    [
+      "Dann hat die Person vielleicht ein Notfall-Set für Allergiker bei sich.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.7535859942436218
+  ],
+  [
+    [
+      55,
+      17
+    ],
+    [
+      "Nutzen Sie das Notfall-Set.",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.6992170810699463
+  ],
+  [
+    [
+      56,
+      17
+    ],
+    [
+      "Das Notfall-Set besteht aus:",
+      "Steckt noch ein Stachel, sollte dieser entfernt und das Notfall-Set angewandt werden."
+    ],
+    0.6732381582260132
+  ],
+  [
+    [
+      57,
+      18
+    ],
+    [
+      "Einem Medikament mit Kortison .",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.8007348775863647
+  ],
+  [
+    [
+      59,
+      18
+    ],
+    [
+      "Einem Antihistaminikum .",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.6527396440505981
+  ],
+  [
+    [
+      60,
+      20
+    ],
+    [
+      "Antihistamin hilft gegen allergische Reaktionen.",
+      "Sie sollte als erstes der oben genannten Medikamente bei einem bekannten Allergiker mit Symptomen wie Atemnot oder Kreislaufproblemen gegeben werden."
+    ],
+    0.7806751728057861
+  ],
+  [
+    [
+      61,
+      18
+    ],
+    [
+      "Einer Adrenalin-Fertigspritze .",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.7604209184646606
+  ],
+  [
+    [
+      62,
+      18
+    ],
+    [
+      "Die Adrenalin-Fertigspritze stabilisiert den Kreislauf.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.6620248556137085
+  ],
+  [
+    [
+      63,
+      16
+    ],
+    [
+      "So versorgen Sie Allergiker mit dem Notfall-Set: Entfernen Sie zuerst den Stachel aus der Haut.",
+      "Nach einem Bienen- oder Wespenstich bei bekannten Allergikern ist schnelles Handeln wichtig."
+    ],
+    0.7724014520645142
+  ],
+  [
+    [
+      64,
+      18
+    ],
+    [
+      "Geben Sie der betroffenen Person das Medikament mit Kortison und das Antihistaminikum.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.7240382432937622
+  ],
+  [
+    [
+      65,
+      18
+    ],
+    [
+      "Entsichern Sie die Adrenalin-Fertigspritze.",
+      "Dieses besteht aus einem Kortisonpräparat und einem Antihistaminikum sowie einer Adrenalin-Fertigspritze (Pen)."
+    ],
+    0.7241967916488647
+  ],
+  [
+    [
+      66,
+      19
+    ],
+    [
+      "Setzen Sie die Spritze seitlich auf den Oberschenkel.",
+      "Die Spritze wird nach Entsicherung seitlich auf den Oberschenkel aufgesetzt und ausgelöst."
+    ],
+    0.7919335961341858
+  ],
+  [
+    [
+      67,
+      4
+    ],
+    [
+      "Lösen Sie die Spritze aus.",
+      "Damit kann der Stachel weggeschoben werden."
+    ],
+    0.8658876419067383
+  ],
+  [
+    [
+      71,
+      1
+    ],
+    [
+      "Das können Sie bei einem Insektenstich tun.",
+      "Steckt der Stachel einer Biene noch in der Haut, sollte dieser entfernt werden, ohne die Giftblase zu berühren."
+    ],
+    0.6574463844299316
+  ],
+  [
+    [
+      73,
+      0
+    ],
+    [
+      "Mehr Informationen über Insektenstich finden Sie hier .",
+      "Ein \"normaler\" Insektenstich ist hierzulande nur in Ausnahmefällen lebensbedrohlich."
+    ],
+    0.6391074657440186
+  ]
+]

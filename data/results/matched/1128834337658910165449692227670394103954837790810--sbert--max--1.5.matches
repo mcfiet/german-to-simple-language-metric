@@ -1,0 +1,365 @@
+[
+  [
+    [
+      1,
+      3
+    ],
+    [
+      "Sie glauben: Eine andere Person hat plötzlich einen Schlaganfall oder einen Herzinfarkt?",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.7935129404067993
+  ],
+  [
+    [
+      2,
+      11
+    ],
+    [
+      "Dann rufen Sie sofort den Rettungsdienst.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.9103574752807617
+  ],
+  [
+    [
+      5,
+      6
+    ],
+    [
+      "Bei einem Schlaganfall bekommt das Gehirn nicht mehr genug Blut.",
+      "Seltener treten Kopfschmerz und Nackensteifigkeit auf – dies können Hinweise auf eine Gehirnblutung sein."
+    ],
+    0.6417274475097656
+  ],
+  [
+    [
+      8,
+      11
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7674927115440369
+  ],
+  [
+    [
+      9,
+      7
+    ],
+    [
+      "Es gibt verschiedene Anzeichen für einen Schlaganfall.",
+      "Ausführliche Informationen zu Ursachen, möglichen Symptomen und Therapie können Sie hier nachlesen: Ratgeber Schlaganfall ."
+    ],
+    0.764794111251831
+  ],
+  [
+    [
+      11,
+      5
+    ],
+    [
+      "Typische Anzeichen für einen Schlaganfall sind zum Beispiel:",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.7431482672691345
+  ],
+  [
+    [
+      13,
+      1
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel einen Arm, eine Hand oder ein Bein nicht mehr bewegen.",
+      "Oft hat der Betroffene starke Schmerzen hinter dem Brustbein, die in den linken Arm oder die Schulter ausstrahlen."
+    ],
+    0.6677589416503906
+  ],
+  [
+    [
+      16,
+      2
+    ],
+    [
+      "Die betroffene Person kann zum Beispiel nicht mehr lächeln.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6064193248748779
+  ],
+  [
+    [
+      17,
+      5
+    ],
+    [
+      "Die betroffene Person hat Sehstörungen.",
+      "Schlaganfall : Häufig sind Lähmungen, Seh-, Sprach- oder Schluckstörungen, die unterschiedlich stark ausgeprägt sind."
+    ],
+    0.6478859782218933
+  ],
+  [
+    [
+      19,
+      2
+    ],
+    [
+      "Die betroffene Person fühlt sich schwindelig.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.7497389316558838
+  ],
+  [
+    [
+      20,
+      0
+    ],
+    [
+      "Bei einem Herzinfarkt ist ein Blutgefäß verstopft.",
+      "Herzinfarkt :"
+    ],
+    0.7925631999969482
+  ],
+  [
+    [
+      21,
+      0
+    ],
+    [
+      "Deshalb bekommt das Herz nicht mehr genug Blut.",
+      "Herzinfarkt :"
+    ],
+    0.6763409376144409
+  ],
+  [
+    [
+      24,
+      0
+    ],
+    [
+      "Dann sterben Muskelzellen im Herz ab.",
+      "Herzinfarkt :"
+    ],
+    0.6356177926063538
+  ],
+  [
+    [
+      25,
+      3
+    ],
+    [
+      "Das Herz kann dann manchmal nicht mehr richtig arbeiten.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.7917110919952393
+  ],
+  [
+    [
+      26,
+      2
+    ],
+    [
+      "Das kann lebensgefährlich sein.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.618700385093689
+  ],
+  [
+    [
+      27,
+      11
+    ],
+    [
+      "Deshalb ist eine schnelle Erste Hilfe wichtig.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7674927115440369
+  ],
+  [
+    [
+      28,
+      3
+    ],
+    [
+      "Es gibt viele verschiedene Anzeichen für einen Herzinfarkt.",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.8270969390869141
+  ],
+  [
+    [
+      30,
+      0
+    ],
+    [
+      "Typische Anzeichen für einen Herzinfarkt sind zum Beispiel: starke Schmerzen in der Brust ein drückendes Gefühl in der Brust Schmerzen im linken Arm Schmerzen im Hals oder im Kiefer kalter Schweiß",
+      "Herzinfarkt :"
+    ],
+    0.6941393613815308
+  ],
+  [
+    [
+      32,
+      2
+    ],
+    [
+      "Atemnot ein blasses Gesicht",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6245388984680176
+  ],
+  [
+    [
+      34,
+      3
+    ],
+    [
+      "Sie glauben: Eine Person hat vielleicht einen Schlaganfall oder einen Herzinfarkt?",
+      "Achtung: Ein Herzinfarkt kann sich auch anders äußern."
+    ],
+    0.8180506229400635
+  ],
+  [
+    [
+      35,
+      11
+    ],
+    [
+      "Dann müssen Sie schnell handeln.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7263471484184265
+  ],
+  [
+    [
+      36,
+      11
+    ],
+    [
+      "Rufen Sie zuerst den Rettungsdienst.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.856001615524292
+  ],
+  [
+    [
+      38,
+      11
+    ],
+    [
+      "112. Sie haben den Rettungsdienst gerufen?",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.7287653684616089
+  ],
+  [
+    [
+      39,
+      11
+    ],
+    [
+      "Dann können Sie jetzt Erste Hilfe leisten.",
+      "Daher sollten Sie schnellstens den Rettungsdienst alarmieren."
+    ],
+    0.779639482498169
+  ],
+  [
+    [
+      40,
+      8
+    ],
+    [
+      "Folgendes können Sie tun:",
+      "Das sollten Sie tun:"
+    ],
+    0.7131259441375732
+  ],
+  [
+    [
+      46,
+      2
+    ],
+    [
+      "Die Person könnte sich nämlich verschlucken.",
+      "Es tritt eventuell kalter Schweiß auf, dem Betroffenen ist möglicherweise übel oder er hat Vernichtungsangst."
+    ],
+    0.6241216063499451
+  ],
+  [
+    [
+      52,
+      12
+    ],
+    [
+      "Die betroffene Person atmet nicht?",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.6334255933761597
+  ],
+  [
+    [
+      53,
+      13
+    ],
+    [
+      "Dann beginnen Sie sofort mit der Wiederbelebung .",
+      "falls notwendig beginnen Sie mit Wiederbelebungsmaßnahmen (siehe unten)."
+    ],
+    0.7410084009170532
+  ],
+  [
+    [
+      55,
+      12
+    ],
+    [
+      "Die Uhrzeit ist eine wichtige Information für den Notarzt.",
+      "Während des Wartens auf den Notarzt kontrollieren Sie Bewusstsein, Atmung und Kreislauf;"
+    ],
+    0.6461323499679565
+  ],
+  [
+    [
+      56,
+      4
+    ],
+    [
+      "Sie wollen noch mehr über Erste Hilfe bei einem Schlaganfall oder einem Herzinfarkt lesen?",
+      "Ausführliche Informationen bietet der Ratgeber Herzinfarkt ."
+    ],
+    0.7449702620506287
+  ],
+  [
+    [
+      60,
+      4
+    ],
+    [
+      "Sie wollen mehr Informationen zu den Themen Schlaganfall und Herzinfarkt lesen?",
+      "Ausführliche Informationen bietet der Ratgeber Herzinfarkt ."
+    ],
+    0.7993047833442688
+  ],
+  [
+    [
+      62,
+      0
+    ],
+    [
+      "• Schlaganfall",
+      "Herzinfarkt :"
+    ],
+    0.7292848229408264
+  ],
+  [
+    [
+      63,
+      0
+    ],
+    [
+      "• Herzinfarkt",
+      "Herzinfarkt :"
+    ],
+    1.0
+  ]
+]

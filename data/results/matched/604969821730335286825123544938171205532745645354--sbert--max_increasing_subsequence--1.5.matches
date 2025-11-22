@@ -1,0 +1,552 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Wenn Sie 16 Jahre alt werden:",
+      "Ab dem 16. Geburtstag besteht Personalausweispflicht."
+    ],
+    0.6577250957489014
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Dann müssen Sie einen Personal-Ausweis haben.",
+      "Ab dem 16. Geburtstag besteht Personalausweispflicht."
+    ],
+    0.6921178102493286
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Das schwere Wort dafür heißt: Personal-Ausweis-Pflicht .",
+      "Ab dem 16. Geburtstag besteht Personalausweispflicht."
+    ],
+    0.6099698543548584
+  ],
+  [
+    [
+      4,
+      1
+    ],
+    [
+      "Wenn Sie schon einen Reise-Pass haben, dann müssen Sie keinen Personal-Ausweis haben.",
+      "Dies gilt nicht, wenn Sie bereits einen Reisepass besitzen."
+    ],
+    0.8483594655990601
+  ],
+  [
+    [
+      7,
+      2
+    ],
+    [
+      "Einen Reise-Pass können Kinder schon ab 12 Jahren bekommen.",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.9362481832504272
+  ],
+  [
+    [
+      8,
+      2
+    ],
+    [
+      "Kinder unter 12 Jahren bekommen einen Kinder-Reise-Pass .",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.9368259906768799
+  ],
+  [
+    [
+      9,
+      2
+    ],
+    [
+      "Damit können die Kinder mit ihren Eltern in andere Länder reisen:",
+      "Für Jugendliche unter 12 Jahren kann für Reisen ein Kinderreisepass oder ab Vollendung des 12. Lebensjahres ein Reisepass beantragt werden."
+    ],
+    0.6987898349761963
+  ],
+  [
+    [
+      12,
+      9
+    ],
+    [
+      "Seit November 2010 gibt es einen neuen Personal-Ausweis .",
+      "Der bisherige Personalausweis wird bei der Aushändigung des neuen Ausweises eingezogen."
+    ],
+    0.7426160573959351
+  ],
+  [
+    [
+      14,
+      9
+    ],
+    [
+      "Was kann der neue Personal-Ausweis?",
+      "Der bisherige Personalausweis wird bei der Aushändigung des neuen Ausweises eingezogen."
+    ],
+    0.8182291388511658
+  ],
+  [
+    [
+      15,
+      9
+    ],
+    [
+      "Der neue Personal-Ausweis sieht aus wie eine Plastik-Karte.",
+      "Der bisherige Personalausweis wird bei der Aushändigung des neuen Ausweises eingezogen."
+    ],
+    0.6691141128540039
+  ],
+  [
+    [
+      36,
+      9
+    ],
+    [
+      "Wenn Sie keinen alten Personal-Ausweis haben:",
+      "Der bisherige Personalausweis wird bei der Aushändigung des neuen Ausweises eingezogen."
+    ],
+    0.5940592288970947
+  ],
+  [
+    [
+      37,
+      10
+    ],
+    [
+      "Dann brauchen wir Ihren Reise-Pass .",
+      "Bisheriger Kinderreisepass Ihr Reisepass"
+    ],
+    0.8039089441299438
+  ],
+  [
+    [
+      38,
+      10
+    ],
+    [
+      "Oder Ihren Kinder-Reise-Pass , wenn Sie einen haben.",
+      "Bisheriger Kinderreisepass Ihr Reisepass"
+    ],
+    0.8900434970855713
+  ],
+  [
+    [
+      42,
+      12
+    ],
+    [
+      "Bei Kindern und Personen, die noch nie verheiratet waren",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.7489120960235596
+  ],
+  [
+    [
+      44,
+      12
+    ],
+    [
+      "Wenn Sie verheiratet oder geschieden sind: Dann brauchen wir Ihre Ehe-Urkunde.",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.632550060749054
+  ],
+  [
+    [
+      45,
+      12
+    ],
+    [
+      "Wenn Sie in einer Lebens-Partnerschaft leben:",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.7192708849906921
+  ],
+  [
+    [
+      46,
+      12
+    ],
+    [
+      "Dann brauchen wir Ihre Lebens-Partnerschafts-Urkunde .",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.6744464635848999
+  ],
+  [
+    [
+      47,
+      12
+    ],
+    [
+      "Lebens-Partnerschaft heißt: Wenn Sie eine Frau sind und mit einer Frau zusammen leben.",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.6672238707542419
+  ],
+  [
+    [
+      49,
+      12
+    ],
+    [
+      "Das schwere Wort dafür ist: Gleich-geschlechtliche Partnerschaft .",
+      "Geburts-, Ehe- oder Lebenspartnerschaftsurkunde"
+    ],
+    0.5569116473197937
+  ],
+  [
+    [
+      51,
+      16
+    ],
+    [
+      "Dann brauchen Sie eine Übersetzung von einem staatlich anerkannten Übersetzer.",
+      "Bei ausländischen Urkunden wird zudem eine Übersetzung durch eine*n Dolmetscher*in oder eine*n Übersetzer*in benötigt."
+    ],
+    0.8956184387207031
+  ],
+  [
+    [
+      52,
+      18
+    ],
+    [
+      "Wichtig: Sie müssen uns das Original von der Urkunde und das Original von der Übersetzung zeigen.",
+      "Urkunden und Übersetzungen müssen im Original vorgelegt werden."
+    ],
+    0.8298758268356323
+  ],
+  [
+    [
+      53,
+      23
+    ],
+    [
+      "Ein biometrisches Pass-Foto.",
+      "Ein aktuelles biometrietaugliches Passfoto"
+    ],
+    0.9761011004447937
+  ],
+  [
+    [
+      58,
+      44
+    ],
+    [
+      "Sie müssen 3 bis 4 Wochen auf den neuen Ausweis warten.",
+      "Die Bearbeitungszeit dauert in der Regel zwei bis drei Wochen."
+    ],
+    0.8079296946525574
+  ],
+  [
+    [
+      59,
+      47
+    ],
+    [
+      "Wenn Sie nicht so lange warten können, dann können wir Ihnen für die Zeit dazwischen einen vorläufigen Personal-Ausweis geben.",
+      "Sollten Sie kurzfristig einen Personalausweis benötigen, kann Ihnen ein vorläufiger Personalausweis ausgestellt werden."
+    ],
+    0.769144594669342
+  ],
+  [
+    [
+      60,
+      48
+    ],
+    [
+      "Den vorläufigen Ausweis bekommen Sie sofort .",
+      "Einen vorläufigen maschinenlesbaren Personalausweis bekommen Sie sofort ausgehändigt, wenn Sie alle erforderlichen Unterlagen vorlegen können."
+    ],
+    0.7741058468818665
+  ],
+  [
+    [
+      62,
+      49
+    ],
+    [
+      "Vorläufig bedeutet: Der Ausweis ist nur so lange gültig, bis Sie Ihren neuen Personal-Ausweis bekommen.",
+      "Bei der Abholung ist der alte Personalausweis oder der vorläufige Personalausweis abzugeben."
+    ],
+    0.7648158073425293
+  ],
+  [
+    [
+      63,
+      49
+    ],
+    [
+      "Wenn Sie Ihren neuen Personal-Ausweis abholen, müssen Sie den vorläufigen Ausweis wieder abgeben.",
+      "Bei der Abholung ist der alte Personalausweis oder der vorläufige Personalausweis abzugeben."
+    ],
+    0.8597661256790161
+  ],
+  [
+    [
+      65,
+      49
+    ],
+    [
+      "Der neue Personal-Ausweis ist nach 3 bis 4 Wochen fertig.",
+      "Bei der Abholung ist der alte Personalausweis oder der vorläufige Personalausweis abzugeben."
+    ],
+    0.5697143077850342
+  ],
+  [
+    [
+      67,
+      51
+    ],
+    [
+      "Sie bekommen in dieser Zeit einen Brief von der Bundes-Druckerei .",
+      "Sie werden von der Bundesdruckerei angeschrieben, sobald Ihr Ausweis zur Abholung bereit liegt."
+    ],
+    0.791879415512085
+  ],
+  [
+    [
+      68,
+      52
+    ],
+    [
+      "Den Brief müssen Sie zu Hause gut aufheben.",
+      "Da Sie den PIN-Brief bei der Abholung nicht benötigen, bringen Sie ihn bitte nicht mit, sondern verwahren ihn sicher zu Hause."
+    ],
+    0.6462405920028687
+  ],
+  [
+    [
+      70,
+      53
+    ],
+    [
+      "Zum Beispiel die PIN -Nummer .",
+      "Er enthält wichtige Daten zu PIN, PUK und Sperrkennwort."
+    ],
+    0.663122296333313
+  ],
+  [
+    [
+      71,
+      63
+    ],
+    [
+      "Die PIN -Nummer ist eine geheime Nummer, die nur Sie kennen.",
+      "Sie können den Ausweis nach Erhalt des PIN-Briefes auch durch eine bevollmächtigte Person abholen lassen."
+    ],
+    0.5731506943702698
+  ],
+  [
+    [
+      75,
+      63
+    ],
+    [
+      "Dann bekommen Sie eine PIN -Nummer.",
+      "Sie können den Ausweis nach Erhalt des PIN-Briefes auch durch eine bevollmächtigte Person abholen lassen."
+    ],
+    0.7279733419418335
+  ],
+  [
+    [
+      76,
+      75
+    ],
+    [
+      "Sie dürfen sich aber erst ab 16 Jahren mit dem neuen Ausweis im Internet ausweisen.",
+      "Die Online-Ausweisfunktion kann erst ab 16 Jahren genutzt werden."
+    ],
+    0.9116529822349548
+  ],
+  [
+    [
+      79,
+      93
+    ],
+    [
+      "Auf unserer Internet-Seite stehen viele wichtige Informationen.",
+      "Informationen finden Sie vorab auch schon hier:"
+    ],
+    0.748453676700592
+  ],
+  [
+    [
+      81,
+      98
+    ],
+    [
+      "Dazu müssen Sie eine Nummer eingeben.",
+      "Hierfür müssen Sie persönlich bei der Meldebehörde vorsprechen oder bei der Sperrhotline anrufen."
+    ],
+    0.5719620585441589
+  ],
+  [
+    [
+      114,
+      98
+    ],
+    [
+      "Dazu können Sie zur Melde-Behörde kommen.",
+      "Hierfür müssen Sie persönlich bei der Meldebehörde vorsprechen oder bei der Sperrhotline anrufen."
+    ],
+    0.8594303131103516
+  ],
+  [
+    [
+      115,
+      98
+    ],
+    [
+      "Oder Sie rufen beim Sperr-Notruf an:",
+      "Hierfür müssen Sie persönlich bei der Meldebehörde vorsprechen oder bei der Sperrhotline anrufen."
+    ],
+    0.7637214660644531
+  ],
+  [
+    [
+      116,
+      98
+    ],
+    [
+      "Telefon: 116 116 Wenn jemand Ihren Personal-Ausweis gestohlen hat: Dann müssen Sie auch zur Polizei gehen.",
+      "Hierfür müssen Sie persönlich bei der Meldebehörde vorsprechen oder bei der Sperrhotline anrufen."
+    ],
+    0.6475709676742554
+  ],
+  [
+    [
+      118,
+      122
+    ],
+    [
+      "Dafür bekommen Sie eine Bescheinigung.",
+      "Vollmacht für den*die persönlich vorsprechende*n"
+    ],
+    0.7082059979438782
+  ],
+  [
+    [
+      119,
+      122
+    ],
+    [
+      "Bringen Sie diese Bescheinigung dann mit zu uns.",
+      "Vollmacht für den*die persönlich vorsprechende*n"
+    ],
+    0.7404042482376099
+  ],
+  [
+    [
+      120,
+      138
+    ],
+    [
+      "Bringen Sie diese Dokumente bitte auch mit: Wenn Sie den neuen Personal-Ausweis bestellen möchten.",
+      "Bitte denken Sie daran, der bevollmächtigten Person auch Ihren bisherigen Personalausweis mitzugeben."
+    ],
+    0.7955199480056763
+  ],
+  [
+    [
+      122,
+      142
+    ],
+    [
+      "22,80 Euro: wenn Sie noch nicht 24 Jahre alt sind.",
+      "Gebühren 22,80 Euro für Personen unter 24 Jahren"
+    ],
+    0.8869695663452148
+  ],
+  [
+    [
+      123,
+      143
+    ],
+    [
+      "37 Euro: wenn Sie über 24 Jahre alt sind.",
+      "37 Euro für Personen ab 24 Jahren"
+    ],
+    0.962075412273407
+  ],
+  [
+    [
+      125,
+      143
+    ],
+    [
+      "6 Euro:",
+      "37 Euro für Personen ab 24 Jahren"
+    ],
+    0.6105141639709473
+  ],
+  [
+    [
+      129,
+      144
+    ],
+    [
+      "6 Euro: damit Sie die Möglichkeit zum Ausweisen im Internet wieder nutzen können.",
+      "10 Euro für einen vorläufigen Personalausweis"
+    ],
+    0.691624104976654
+  ],
+  [
+    [
+      132,
+      144
+    ],
+    [
+      "1,50 Euro: wenn Sie eine Verlust-Anzeige machen müssen.",
+      "10 Euro für einen vorläufigen Personalausweis"
+    ],
+    0.7051372528076172
+  ],
+  [
+    [
+      133,
+      146
+    ],
+    [
+      "Es kostet nichts:",
+      "Folgende Leistungen sind gebührenfrei:"
+    ],
+    0.5828994512557983
+  ],
+  [
+    [
+      138,
+      154
+    ],
+    [
+      "Sie können auch mit Ihrer EC -Karte bezahlen.",
+      "Die Gebühren können Sie bar oder mit der Girocard ( EC -Karte) und PIN-Nummer bezahlen."
+    ],
+    0.8740065097808838
+  ],
+  [
+    [
+      140,
+      154
+    ],
+    [
+      "Diese Karte haben Sie bei der Bank für Ihr Konto bekommen.",
+      "Die Gebühren können Sie bar oder mit der Girocard ( EC -Karte) und PIN-Nummer bezahlen."
+    ],
+    0.5691336393356323
+  ]
+]

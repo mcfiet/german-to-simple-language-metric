@@ -1,0 +1,1542 @@
+[
+  [
+    [
+      0,
+      0
+    ],
+    [
+      "Sie sind Schüler oder Schüler-in?",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.19624777138233185
+  ],
+  [
+    [
+      1,
+      0
+    ],
+    [
+      "Sie haben wenig Geld zum Leben?",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.16431444883346558
+  ],
+  [
+    [
+      2,
+      0
+    ],
+    [
+      "Wenn Sie eine förderungs-fähige Schule besuchen, dann können Sie Geld vom Amt bekommen.",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.15358850359916687
+  ],
+  [
+    [
+      3,
+      0
+    ],
+    [
+      "Dazu sagen wir: Ausbildungs-Förderung .",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.14723418653011322
+  ],
+  [
+    [
+      4,
+      0
+    ],
+    [
+      "Oder kurz: BAföG .",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.04543362930417061
+  ],
+  [
+    [
+      5,
+      0
+    ],
+    [
+      "Das steht für: Bundes-Ausbildungs-Förderungs-Gesetz .",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.05546097457408905
+  ],
+  [
+    [
+      6,
+      0
+    ],
+    [
+      "Das Ziel vom BAföG ist:",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.02264855057001114
+  ],
+  [
+    [
+      7,
+      0
+    ],
+    [
+      "Alle sollen die gleichen Möglichkeiten haben.",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.2397499978542328
+  ],
+  [
+    [
+      8,
+      0
+    ],
+    [
+      "Auch wenn sie wenig Geld haben.",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.18302224576473236
+  ],
+  [
+    [
+      9,
+      0
+    ],
+    [
+      "Alle sollen sich ihren Beruf selbst aussuchen .",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.2458518147468567
+  ],
+  [
+    [
+      10,
+      0
+    ],
+    [
+      "Alle sollen selbst bestimmen können, was sie lernen und arbeiten wollen.",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.2671530544757843
+  ],
+  [
+    [
+      11,
+      0
+    ],
+    [
+      "Alle sollen die Ausbildung machen , die sie machen wollen und können.",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.25977110862731934
+  ],
+  [
+    [
+      12,
+      0
+    ],
+    [
+      "Egal, wie viel Geld jemand hat.",
+      "Sie sind Schülerin oder Schüler und können Ihren Lebensunterhalt und Ihre Ausbildung nicht aus eigenen Mitteln finanzieren?"
+    ],
+    0.09848488122224808
+  ],
+  [
+    [
+      13,
+      7
+    ],
+    [
+      "Was sind förderungs-fähige Schulen?",
+      "Kolleg."
+    ],
+    0.11029930412769318
+  ],
+  [
+    [
+      14,
+      7
+    ],
+    [
+      "Förderungs-fähige Schulen bedeutet:",
+      "Kolleg."
+    ],
+    0.13480839133262634
+  ],
+  [
+    [
+      15,
+      7
+    ],
+    [
+      "Für die Schulen können Sie BAföG bekommen :",
+      "Kolleg."
+    ],
+    0.09674257040023804
+  ],
+  [
+    [
+      16,
+      7
+    ],
+    [
+      "Weiter-führende Schulen",
+      "Kolleg."
+    ],
+    0.22981177270412445
+  ],
+  [
+    [
+      17,
+      7
+    ],
+    [
+      "Hier können Sie mehr dazu lesen:",
+      "Kolleg."
+    ],
+    0.020237388089299202
+  ],
+  [
+    [
+      18,
+      7
+    ],
+    [
+      "Berufs-Aufbau-Schulen Fach-Ober-Schulen mit abgeschlossener Berufs-Ausbildung",
+      "Kolleg."
+    ],
+    0.22939404845237732
+  ],
+  [
+    [
+      19,
+      7
+    ],
+    [
+      "Fach-Schulen mit abgeschlossener Berufs-Ausbildung",
+      "Kolleg."
+    ],
+    0.2913680076599121
+  ],
+  [
+    [
+      20,
+      21
+    ],
+    [
+      "Berufs-Fach-Schulen: ab Klasse 10 Fach-Schulen und Fach-Ober-Schulen ohne abgeschlossene Berufs-Ausbildung",
+      "Gebühren"
+    ],
+    0.21694587171077728
+  ],
+  [
+    [
+      21,
+      21
+    ],
+    [
+      "Berufs-Fach-Schulen und Fach-Schulen: ab Klasse 11 ohne abgeschlossene Berufs-Ausbildung",
+      "Gebühren"
+    ],
+    0.19669778645038605
+  ],
+  [
+    [
+      22,
+      21
+    ],
+    [
+      "Wenn die Ausbildung mindestens 2 Jahre dauert.",
+      "Gebühren"
+    ],
+    0.1425846517086029
+  ],
+  [
+    [
+      23,
+      21
+    ],
+    [
+      "Wenn Sie einen berufs-qualifizierenden Abschluss bekommen.",
+      "Gebühren"
+    ],
+    0.1820930689573288
+  ],
+  [
+    [
+      25,
+      21
+    ],
+    [
+      "Abend-Real-Schulen ab dem 3. Semester also: ab dem 13. Monat",
+      "Gebühren"
+    ],
+    0.08552941679954529
+  ],
+  [
+    [
+      26,
+      21
+    ],
+    [
+      "Ein Semester ist ein Unterrichts-Halb-Jahr .",
+      "Gebühren"
+    ],
+    0.038451142609119415
+  ],
+  [
+    [
+      27,
+      21
+    ],
+    [
+      "Das bedeutet:",
+      "Gebühren"
+    ],
+    0.09129505604505539
+  ],
+  [
+    [
+      28,
+      21
+    ],
+    [
+      "Ein Halb-Jahr an einer Schule oder Uni.",
+      "Gebühren"
+    ],
+    0.1134738028049469
+  ],
+  [
+    [
+      29,
+      21
+    ],
+    [
+      "Ein Semester dauert 6 Monate .",
+      "Gebühren"
+    ],
+    0.08752689510583878
+  ],
+  [
+    [
+      30,
+      21
+    ],
+    [
+      "Abend-Gymnasium ab dem 4. Semester also: ab dem 19. Monat Kolleg",
+      "Gebühren"
+    ],
+    0.08249019831418991
+  ],
+  [
+    [
+      31,
+      21
+    ],
+    [
+      "Welche Papiere brauche ich dafür?",
+      "Gebühren"
+    ],
+    0.1492093950510025
+  ],
+  [
+    [
+      32,
+      21
+    ],
+    [
+      "Sie müssen uns diese Papiere schicken:",
+      "Gebühren"
+    ],
+    0.24128320813179016
+  ],
+  [
+    [
+      33,
+      21
+    ],
+    [
+      "Form-Blatt 1: Haupt-Antrag",
+      "Gebühren"
+    ],
+    0.15710009634494781
+  ],
+  [
+    [
+      34,
+      21
+    ],
+    [
+      "Sie müssen das Form-Blatt 1 ausdrucken .",
+      "Gebühren"
+    ],
+    0.17004802823066711
+  ],
+  [
+    [
+      35,
+      21
+    ],
+    [
+      "Dazu sagen wir auch: Haupt-Antrag .",
+      "Gebühren"
+    ],
+    0.1904493123292923
+  ],
+  [
+    [
+      36,
+      21
+    ],
+    [
+      "Sie müssen das Form-Blatt ausfüllen .",
+      "Gebühren"
+    ],
+    0.2409338504076004
+  ],
+  [
+    [
+      37,
+      21
+    ],
+    [
+      "Sie müssen das Form-Blatt unterschreiben .",
+      "Gebühren"
+    ],
+    0.26861903071403503
+  ],
+  [
+    [
+      38,
+      21
+    ],
+    [
+      "Dann müssen Sie uns das Form-Blatt zuschicken .",
+      "Gebühren"
+    ],
+    0.1775238960981369
+  ],
+  [
+    [
+      39,
+      21
+    ],
+    [
+      "Sie können das Form-Blatt auch ein scann en .",
+      "Gebühren"
+    ],
+    0.1440136730670929
+  ],
+  [
+    [
+      40,
+      21
+    ],
+    [
+      "Dann können Sie es uns als E-Mail schicken .",
+      "Gebühren"
+    ],
+    0.1411840170621872
+  ],
+  [
+    [
+      41,
+      21
+    ],
+    [
+      "Wichtig: Sie müssen alle Angaben belegen .",
+      "Gebühren"
+    ],
+    0.2999809682369232
+  ],
+  [
+    [
+      42,
+      21
+    ],
+    [
+      "Das bedeutet: Sie müssen uns Nachweise schicken .",
+      "Gebühren"
+    ],
+    0.22695474326610565
+  ],
+  [
+    [
+      43,
+      21
+    ],
+    [
+      "Die Nachweise müssen beweisen, dass Sie den Antrag richtig ausgefüllt haben.",
+      "Gebühren"
+    ],
+    0.246282160282135
+  ],
+  [
+    [
+      44,
+      21
+    ],
+    [
+      "Dass alle Angaben im Antrag richtig sind.",
+      "Gebühren"
+    ],
+    0.20621488988399506
+  ],
+  [
+    [
+      45,
+      21
+    ],
+    [
+      "Anlage zu Form-Blatt 1:",
+      "Gebühren"
+    ],
+    0.14984090626239777
+  ],
+  [
+    [
+      46,
+      21
+    ],
+    [
+      "Werdegang",
+      "Gebühren"
+    ],
+    0.028953799977898598
+  ],
+  [
+    [
+      47,
+      21
+    ],
+    [
+      "Es gibt eine Anlage zum Form-Blatt 1 .",
+      "Gebühren"
+    ],
+    0.11784343421459198
+  ],
+  [
+    [
+      48,
+      21
+    ],
+    [
+      "Eine Anlage ist ein Zusatz-Papier .",
+      "Gebühren"
+    ],
+    0.07185385376214981
+  ],
+  [
+    [
+      49,
+      21
+    ],
+    [
+      "In der Anlage stehen weitere Fragen zu Ihrem Leben.",
+      "Gebühren"
+    ],
+    0.1688135415315628
+  ],
+  [
+    [
+      50,
+      21
+    ],
+    [
+      "Dazu sagen wir auch: Werde-gang .",
+      "Gebühren"
+    ],
+    0.12417232990264893
+  ],
+  [
+    [
+      51,
+      21
+    ],
+    [
+      "Zum Beispiel: Auf welche Schule Sie gehen.",
+      "Gebühren"
+    ],
+    0.14163930714130402
+  ],
+  [
+    [
+      52,
+      21
+    ],
+    [
+      "Was Sie bisher gemacht haben.",
+      "Gebühren"
+    ],
+    0.15317489206790924
+  ],
+  [
+    [
+      53,
+      21
+    ],
+    [
+      "Sie müssen die Anlage ausdrucken .",
+      "Gebühren"
+    ],
+    0.271015465259552
+  ],
+  [
+    [
+      54,
+      21
+    ],
+    [
+      "Sie müssen die Anlage ausfüllen .",
+      "Gebühren"
+    ],
+    0.28614163398742676
+  ],
+  [
+    [
+      55,
+      21
+    ],
+    [
+      "Sie müssen die Anlage unterschreiben .",
+      "Gebühren"
+    ],
+    0.3138267993927002
+  ],
+  [
+    [
+      56,
+      21
+    ],
+    [
+      "Dann müssen Sie uns die Anlage zuschicken .",
+      "Gebühren"
+    ],
+    0.20981517434120178
+  ],
+  [
+    [
+      57,
+      21
+    ],
+    [
+      "Sie können die Anlage auch ein scan nen .",
+      "Gebühren"
+    ],
+    0.16233061254024506
+  ],
+  [
+    [
+      58,
+      21
+    ],
+    [
+      "Dann können Sie sie uns als E-Mail schicken .",
+      "Gebühren"
+    ],
+    0.14737725257873535
+  ],
+  [
+    [
+      59,
+      21
+    ],
+    [
+      "Form-Blatt 2: Schul-Bescheinigung",
+      "Gebühren"
+    ],
+    0.23303306102752686
+  ],
+  [
+    [
+      60,
+      21
+    ],
+    [
+      "Ihre Schule muss das Form-Blatt 2 ausfüllen .",
+      "Gebühren"
+    ],
+    0.1354985237121582
+  ],
+  [
+    [
+      61,
+      21
+    ],
+    [
+      "Dazu sagen wir auch: Schul-Bescheinigung .",
+      "Gebühren"
+    ],
+    0.23018117249011993
+  ],
+  [
+    [
+      62,
+      21
+    ],
+    [
+      "Sie müssen uns das Form-Blatt zuschicken .",
+      "Gebühren"
+    ],
+    0.20550408959388733
+  ],
+  [
+    [
+      63,
+      21
+    ],
+    [
+      "Sie können das Form-Blatt auch ein scan nen .",
+      "Gebühren"
+    ],
+    0.13407574594020844
+  ],
+  [
+    [
+      64,
+      21
+    ],
+    [
+      "Dann können Sie es uns als E-Mail schicken .",
+      "Gebühren"
+    ],
+    0.1411840170621872
+  ],
+  [
+    [
+      65,
+      21
+    ],
+    [
+      "Form-Blatt 3: Einkommens-Erklärung von den Eltern",
+      "Gebühren"
+    ],
+    0.10945942997932434
+  ],
+  [
+    [
+      66,
+      21
+    ],
+    [
+      "Beide Eltern müssen das Form-Blatt 3 ausfüllen .",
+      "Gebühren"
+    ],
+    0.1732643097639084
+  ],
+  [
+    [
+      67,
+      21
+    ],
+    [
+      "Das heißt: Die Mutter und der Vater.",
+      "Gebühren"
+    ],
+    0.03132089972496033
+  ],
+  [
+    [
+      68,
+      21
+    ],
+    [
+      "Sie müssen das Form-Blatt ausdrucken .",
+      "Gebühren"
+    ],
+    0.22580768167972565
+  ],
+  [
+    [
+      69,
+      21
+    ],
+    [
+      "Sie müssen das Form-Blatt ausfüllen .",
+      "Gebühren"
+    ],
+    0.2409338504076004
+  ],
+  [
+    [
+      70,
+      21
+    ],
+    [
+      "Beide Eltern müssen das Form-Blatt unterschreiben .",
+      "Gebühren"
+    ],
+    0.23455177247524261
+  ],
+  [
+    [
+      71,
+      21
+    ],
+    [
+      "Dann müssen Sie uns das Form-Blatt zuschicken .",
+      "Gebühren"
+    ],
+    0.1775238960981369
+  ],
+  [
+    [
+      72,
+      21
+    ],
+    [
+      "Sie können das Form-Blatt auch ein scan nen .",
+      "Gebühren"
+    ],
+    0.13407574594020844
+  ],
+  [
+    [
+      73,
+      21
+    ],
+    [
+      "Dann können Sie es uns als E-Mail schicken .",
+      "Gebühren"
+    ],
+    0.1411840170621872
+  ],
+  [
+    [
+      74,
+      21
+    ],
+    [
+      "Wichtig: Es gibt auch eltern-un-abhängiges BAföG .",
+      "Gebühren"
+    ],
+    0.16823183000087738
+  ],
+  [
+    [
+      75,
+      21
+    ],
+    [
+      "Das ist aber die Ausnahme .",
+      "Gebühren"
+    ],
+    0.1440885066986084
+  ],
+  [
+    [
+      76,
+      21
+    ],
+    [
+      "Eltern-un-abhängig heißt: Es ist egal, wie viel Geld Ihre Eltern haben.",
+      "Gebühren"
+    ],
+    0.10684368759393692
+  ],
+  [
+    [
+      77,
+      21
+    ],
+    [
+      "Sie können das Geld vom Amt beantragen, auch wenn Ihre Eltern viel Geld haben.",
+      "Gebühren"
+    ],
+    0.22613444924354553
+  ],
+  [
+    [
+      78,
+      21
+    ],
+    [
+      "Achtung:",
+      "Gebühren"
+    ],
+    0.3290941119194031
+  ],
+  [
+    [
+      79,
+      21
+    ],
+    [
+      "Bei eltern-un-abhängigem BAföG brauchen Sie das Form-Blatt 3 nicht .",
+      "Gebühren"
+    ],
+    0.15131287276744843
+  ],
+  [
+    [
+      80,
+      21
+    ],
+    [
+      "Zum Beispiel: Für das Abend-Gymnasium oder das Köln Kolleg.",
+      "Gebühren"
+    ],
+    0.0806550458073616
+  ],
+  [
+    [
+      81,
+      21
+    ],
+    [
+      "BAföG - Online",
+      "Gebühren"
+    ],
+    0.23273035883903503
+  ],
+  [
+    [
+      82,
+      21
+    ],
+    [
+      "Wenn Sie eine Ausbildung in NRW machen, dann können Sie Ihren Antrag online stellen .",
+      "Gebühren"
+    ],
+    0.2058848738670349
+  ],
+  [
+    [
+      83,
+      21
+    ],
+    [
+      "Online bedeutet:",
+      "Gebühren"
+    ],
+    0.23080945014953613
+  ],
+  [
+    [
+      84,
+      21
+    ],
+    [
+      "Sie machen das im Internet .",
+      "Gebühren"
+    ],
+    0.16588658094406128
+  ],
+  [
+    [
+      85,
+      21
+    ],
+    [
+      "Sie müssen nicht zur Post.",
+      "Gebühren"
+    ],
+    0.22396843135356903
+  ],
+  [
+    [
+      86,
+      21
+    ],
+    [
+      "Sie müssen nicht ins Amt.",
+      "Gebühren"
+    ],
+    0.1970619410276413
+  ],
+  [
+    [
+      87,
+      21
+    ],
+    [
+      "Sie tun das auf den Internet-Seiten vom Ministerium für Innovation, Wissenschaft und Forschung vom Land Nord-Rhein-Westfalen.",
+      "Gebühren"
+    ],
+    0.15198279917240143
+  ],
+  [
+    [
+      88,
+      21
+    ],
+    [
+      "Bitte holen Sie sich Hilfe, wenn Sie etwas nicht verstehen.",
+      "Gebühren"
+    ],
+    0.18966586887836456
+  ],
+  [
+    [
+      89,
+      21
+    ],
+    [
+      "Wo finde ich die Anträge?",
+      "Gebühren"
+    ],
+    0.11480309814214706
+  ],
+  [
+    [
+      90,
+      21
+    ],
+    [
+      "Auf den Internet-Seiten vom Bundes-Ministerium für Bildung und Forschung finden Sie mehr Infos zum BAföG und alle Antrags-Formulare.",
+      "Gebühren"
+    ],
+    0.19909904897212982
+  ],
+  [
+    [
+      91,
+      21
+    ],
+    [
+      "Muss ich persönlich ins Amt kommen?",
+      "Gebühren"
+    ],
+    0.11005736142396927
+  ],
+  [
+    [
+      94,
+      21
+    ],
+    [
+      "Aber manchmal kann ein Gespräch helfen.",
+      "Gebühren"
+    ],
+    0.11703408509492874
+  ],
+  [
+    [
+      95,
+      21
+    ],
+    [
+      "Zum Beispiel: Wenn Sie Fragen haben.",
+      "Gebühren"
+    ],
+    0.16678014397621155
+  ],
+  [
+    [
+      96,
+      21
+    ],
+    [
+      "Wenn Sie eine Beratung brauchen.",
+      "Gebühren"
+    ],
+    0.2155020833015442
+  ],
+  [
+    [
+      97,
+      21
+    ],
+    [
+      "Sie können den Antrag mit allen Papieren mit der Post schicken .",
+      "Gebühren"
+    ],
+    0.2037830799818039
+  ],
+  [
+    [
+      98,
+      21
+    ],
+    [
+      "An das Amt für Ausbildungs-Förderung .",
+      "Gebühren"
+    ],
+    0.12481307983398438
+  ],
+  [
+    [
+      99,
+      21
+    ],
+    [
+      "Das ist die Adresse: Amt für Ausbildungsförderung",
+      "Gebühren"
+    ],
+    0.1598624289035797
+  ],
+  [
+    [
+      102,
+      21
+    ],
+    [
+      "Oder",
+      "Gebühren"
+    ],
+    0.0378909632563591
+  ],
+  [
+    [
+      103,
+      21
+    ],
+    [
+      "Sie werfen den Antrag in den Brief- Kasten vor dem Amt .",
+      "Gebühren"
+    ],
+    0.162664994597435
+  ],
+  [
+    [
+      104,
+      21
+    ],
+    [
+      "Wichtig: Sie müssen den Antrag bis zur Frist in den Brief-Kasten werfen.",
+      "Gebühren"
+    ],
+    0.2048186957836151
+  ],
+  [
+    [
+      105,
+      21
+    ],
+    [
+      "Wir sagen Ihnen dann: Ob wir Ihren Antrag bekommen haben.",
+      "Gebühren"
+    ],
+    0.17364640533924103
+  ],
+  [
+    [
+      106,
+      21
+    ],
+    [
+      "Welche Papiere noch fehlen.",
+      "Gebühren"
+    ],
+    0.20605620741844177
+  ],
+  [
+    [
+      107,
+      21
+    ],
+    [
+      "Welche Informationen fehlen.",
+      "Gebühren"
+    ],
+    0.238933727145195
+  ],
+  [
+    [
+      108,
+      21
+    ],
+    [
+      "Achtung: Bitte beachten Sie die Öffnungs-Zeiten .",
+      "Gebühren"
+    ],
+    0.302047461271286
+  ],
+  [
+    [
+      109,
+      21
+    ],
+    [
+      "Wenn Sie Ihren Antrag beim Amt abgeben.",
+      "Gebühren"
+    ],
+    0.21121767163276672
+  ],
+  [
+    [
+      110,
+      21
+    ],
+    [
+      "Und wenn Sie weitere Fragen haben.",
+      "Gebühren"
+    ],
+    0.19424958527088165
+  ],
+  [
+    [
+      111,
+      21
+    ],
+    [
+      "Wo stehen die Gesetze dazu?",
+      "Gebühren"
+    ],
+    0.16296954452991486
+  ],
+  [
+    [
+      112,
+      21
+    ],
+    [
+      "Die Gesetze stehen in Paragraf § 1 vom Bundes-Ausbildungs-Förderungs-Gesetz .",
+      "Gebühren"
+    ],
+    0.142820343375206
+  ],
+  [
+    [
+      113,
+      21
+    ],
+    [
+      "Die Abkürzung dafür ist: BAföG .",
+      "Gebühren"
+    ],
+    0.14467085897922516
+  ],
+  [
+    [
+      114,
+      21
+    ],
+    [
+      "In dem Gesetz steht:",
+      "Gebühren"
+    ],
+    0.08209840953350067
+  ],
+  [
+    [
+      115,
+      21
+    ],
+    [
+      "Sie haben ein Recht auf BAföG , wenn Sie nicht genug Geld haben, für Ihr Leben und Ihre Ausbildung.",
+      "Gebühren"
+    ],
+    0.1764754205942154
+  ],
+  [
+    [
+      116,
+      21
+    ],
+    [
+      "Wichtig: Die Ausbildung soll zu Ihnen passen.",
+      "Gebühren"
+    ],
+    0.16219910979270935
+  ],
+  [
+    [
+      117,
+      21
+    ],
+    [
+      "Zu Ihren Interessen Stärken und Leistungen",
+      "Gebühren"
+    ],
+    0.23724676668643951
+  ],
+  [
+    [
+      118,
+      21
+    ],
+    [
+      "Die Ausbildung muss förderungs-fähig sein.",
+      "Gebühren"
+    ],
+    0.09702989459037781
+  ],
+  [
+    [
+      119,
+      21
+    ],
+    [
+      "Das heißt: Sie machen eine Ausbildung an einer förderungs-fähigen Schule .",
+      "Gebühren"
+    ],
+    0.11693255603313446
+  ],
+  [
+    [
+      120,
+      21
+    ],
+    [
+      "Die Schulen stehen in der Liste auf dieser Seite.",
+      "Gebühren"
+    ],
+    0.13644224405288696
+  ],
+  [
+    [
+      121,
+      21
+    ],
+    [
+      "Sie müssen die Voraussetzungen erfüllen.",
+      "Gebühren"
+    ],
+    0.31652209162712097
+  ],
+  [
+    [
+      122,
+      21
+    ],
+    [
+      "Nur dann bekommen Sie BAföG vom Amt.",
+      "Gebühren"
+    ],
+    0.16233490407466888
+  ],
+  [
+    [
+      123,
+      21
+    ],
+    [
+      "Kontakt zum Amt",
+      "Gebühren"
+    ],
+    0.10463307052850723
+  ],
+  [
+    [
+      124,
+      21
+    ],
+    [
+      "Unsere Adresse:",
+      "Gebühren"
+    ],
+    0.15012283623218536
+  ],
+  [
+    [
+      125,
+      21
+    ],
+    [
+      "Amt für Ausbildungsförderung",
+      "Gebühren"
+    ],
+    0.22995924949645996
+  ],
+  [
+    [
+      126,
+      21
+    ],
+    [
+      "(Schüler- BAföG ) Ottmar-Pohl-Platz 1 51103 Köln",
+      "Gebühren"
+    ],
+    0.062047697603702545
+  ],
+  [
+    [
+      127,
+      21
+    ],
+    [
+      "Öffnungs-Zeiten: Dienstag: 14 bis 16 Uhr Donnerstag: 8 bis 12 Uhr",
+      "Gebühren"
+    ],
+    0.05895552784204483
+  ],
+  [
+    [
+      128,
+      21
+    ],
+    [
+      "Sie können auch einen Termin machen .",
+      "Gebühren"
+    ],
+    0.2627897560596466
+  ],
+  [
+    [
+      129,
+      21
+    ],
+    [
+      "Dann müssen Sie sich nicht an die Öffnungs-Zeiten halten.",
+      "Gebühren"
+    ],
+    0.23442332446575165
+  ],
+  [
+    [
+      130,
+      21
+    ],
+    [
+      "Dann können Sie zu einer anderen Zeit kommen.",
+      "Gebühren"
+    ],
+    0.20395272970199585
+  ],
+  [
+    [
+      131,
+      21
+    ],
+    [
+      "Fax : 02 21 / 22 12 55 93 Hilfen für Menschen mit Behinderungen",
+      "Gebühren"
+    ],
+    0.09506190568208694
+  ],
+  [
+    [
+      132,
+      22
+    ],
+    [
+      "Es gibt Behinderten-Park-Plätze .",
+      "Es fallen keine Gebühren an."
+    ],
+    0.22205398976802826
+  ],
+  [
+    [
+      133,
+      22
+    ],
+    [
+      "Es gibt Aufzüge .",
+      "Es fallen keine Gebühren an."
+    ],
+    0.20589013397693634
+  ],
+  [
+    [
+      134,
+      22
+    ],
+    [
+      "Es gibt Hilfen für Blinde und Seh-Behinderte .",
+      "Es fallen keine Gebühren an."
+    ],
+    0.16258957982063293
+  ],
+  [
+    [
+      135,
+      22
+    ],
+    [
+      "Es gibt Behinderten-WCs .",
+      "Es fallen keine Gebühren an."
+    ],
+    0.15498526394367218
+  ],
+  [
+    [
+      136,
+      22
+    ],
+    [
+      "Der Eingangs-Bereich ist voll zugänglich für Rollstuhl-Fahrerinnen und Rollstuhl-Fahrer.",
+      "Es fallen keine Gebühren an."
+    ],
+    0.11595834046602249
+  ],
+  [
+    [
+      137,
+      22
+    ],
+    [
+      "Wie komme ich zum Amt?",
+      "Es fallen keine Gebühren an."
+    ],
+    0.04355556145310402
+  ],
+  [
+    [
+      138,
+      23
+    ],
+    [
+      "Stadt-Bahn-Linien 1 und 9 Haltestelle:",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.11140725761651993
+  ],
+  [
+    [
+      140,
+      23
+    ],
+    [
+      "rollstuhl-gerecht Stadt-Bahn-Linien 1 und 9 Haltestelle:",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.09283938258886337
+  ],
+  [
+    [
+      143,
+      23
+    ],
+    [
+      "Kalk-Karree Bus-Linie 159 Haltestellen: Kalk Kapelle und Kalk Post",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.02571912668645382
+  ],
+  [
+    [
+      144,
+      23
+    ],
+    [
+      "S-Bahn-Linien S",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.04104984551668167
+  ],
+  [
+    [
+      145,
+      23
+    ],
+    [
+      "12 und S 13 Haltestelle:",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.08807586878538132
+  ],
+  [
+    [
+      146,
+      23
+    ],
+    [
+      "Trimbornstraße Achtung: nicht rollstuhl-gerecht Weitere Informationen *",
+      "Rechtliche Voraussetzungen § 1 BAföG:"
+    ],
+    0.1291443109512329
+  ],
+  [
+    [
+      147,
+      24
+    ],
+    [
+      "Die Bilder gehören: Lebenshilfe für Menschen mit geistiger Behinderung Bremen e. V. , Illustrator Stefan Albers, Atelier Fleetinsel, 2013.",
+      "Auf individuelle Ausbildungsförderung besteht für eine der Neigung, Eignung und Leistung entsprechende Ausbildung ein Rechtsanspruch nach Maßgabe dieses Gesetzes, wenn dem Auszubildenden die für seinen Lebensunterhalt und seine Ausbildung erforderlichen Mittel anderweitig nicht zur Verfügung stehen."
+    ],
+    0.08389456570148468
+  ]
+]

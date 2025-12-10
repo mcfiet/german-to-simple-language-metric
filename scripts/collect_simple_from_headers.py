@@ -1,3 +1,13 @@
+"""
+Collect easy-language content from Simple-German-Corpus headers.
+
+For each domain folder under the datasets directory, this script reads its
+`header.json`, picks entries marked as easy, and concatenates their text into
+one output file (one sentence per line). It prefers parsed text files when
+available and can fall back to a light HTML-to-text extraction from crawled
+files.
+"""
+
 import argparse
 import json
 import re

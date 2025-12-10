@@ -1,3 +1,16 @@
+"""
+Run the Simple-German-Corpus crawlers/parsers and collect sentences.
+
+This script reuses the cloned `Simple-German-Corpus` project in the repo root.
+It will:
+1) crawl each site module (unless --skip-crawl is set),
+2) parse the downloaded HTML into sentence files using each site's parser,
+3) aggregate all parsed sentences into a single output file.
+
+Example:
+    python scripts/run_simple_corpus_pipeline.py --output data/simple_german_sentences.txt
+"""
+
 import argparse
 import sys
 from pathlib import Path

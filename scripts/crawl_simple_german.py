@@ -65,6 +65,25 @@ def extract_sentences(
             text_parts.append(text)
     raw_text = re.sub(r"\s+", " ", " ".join(text_parts))
     candidates = re.split(r"(?<=[.!?])\s+", raw_text)
+    return _filter_sentences(candidates, min_words, max_words, max_word_length)
+
+
+def extract_sentences_from_text(
+    text: str,
+    min_words: int,
+    max_words: int,
+    max_word_length: int = 25,
+) -> List[str]:
+    candidates = re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", text))
+    return _filter_sentences(candidates, min_words, max_words, max_word_length)
+
+
+def _filter_sentences(
+    candidates: Iterable[str],
+    min_words: int,
+    max_words: int,
+    max_word_length: int,
+) -> List[str]:
     sentences: List[str] = []
     for candidate in candidates:
         cleaned = candidate.strip().replace("\xa0", " ")
@@ -103,6 +122,14 @@ def crawl(
     visited: Set[str] = set()
     for source in urls:
         print(f"[info] crawling seed {source}")
+        domain = urlparse(source).netloc
+        if "apotheken-umschau.de" in domain:
+            sentences.extend(
+                crawl_apotheken_umschau(
+                    source, max_links_per_site, min_words, max_words, delay
+                )
+            )
+            continue
         source_html = fetch(source)
         if not source_html:
             continue
@@ -129,6 +156,54 @@ def crawl(
     except ValueError:
         display_path = output_path
     print(f"[done] wrote {len(unique_sentences)} sentences to {display_path}")
+
+
+def crawl_apotheken_umschau(
+    index_url: str,
+    max_links_per_site: int,
+    min_words: int,
+    max_words: int,
+    delay: float,
+) -> List[str]:
+    """Site-specific crawler for Apotheken Umschau 'einfache Sprache' pages."""
+    sentences: List[str] = []
+    html = fetch(index_url)
+    if not html:
+        return sentences
+    soup = BeautifulSoup(html, "html.parser")
+    article_links: List[str] = []
+    for anchor in soup.find_all("a", href=True):
+        href = anchor["href"]
+        if "einfache-sprache" not in href:
+            continue
+        absolute = urljoin(index_url, href.split("#")[0])
+        if absolute in article_links:
+            continue
+        article_links.append(absolute)
+        if len(article_links) >= max_links_per_site:
+            break
+
+    for link in article_links:
+        page_html = fetch(link)
+        if not page_html:
+            continue
+        page_soup = BeautifulSoup(page_html, "html.parser")
+        container = page_soup.find("div", class_="copy")
+        if not container:
+            continue
+        parts: List[str] = []
+        for child in container.find_all(["p", "ul"], recursive=False):
+            if child.name == "p" and "text" in child.get("class", []):
+                parts.append(child.get_text(" ", strip=True))
+            elif child.name == "ul":
+                parts.append(child.get_text(" ", strip=True))
+        text = " ".join(parts)
+        sentences.extend(
+            extract_sentences_from_text(text, min_words=min_words, max_words=max_words)
+        )
+        if delay:
+            time.sleep(delay)
+    return sentences
 
 
 def parse_args() -> argparse.Namespace:

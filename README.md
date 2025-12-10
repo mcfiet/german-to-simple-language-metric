@@ -2,6 +2,11 @@
 
 # **README – Metrik zur Bewertung von Übersetzungen in Leichte Sprache**
 
+simpel_german_sentences_lebenshilfe.txt - 10942 sentences from 65
+simple_german_sentences_pipeline.txt - 44463 sentences
+simple_german_sentences_crawl.txt - 635 sentences
+simple_german_sentences_sgc.txt - 801 sentences
+
 ## **Projektbeschreibung**
 
 Dieses Projekt entwickelt eine Metrik zur Bewertung von Übersetzungen **von deutscher Standardsprache in Leichte Sprache**.
@@ -34,12 +39,10 @@ Dieses Projekt schließt diese Lücke, indem es eine datenbasierte, lernbare Bew
 
 - Aufbau einer **automatischen Qualitätsmetrik** für Leichte-Sprache-Übersetzungen
 - Bewertung entlang zweier Kernaspekte:
-
   - **Semantische Übereinstimmung** (Meaning Preservation)
   - **Verständlichkeit / Einfachheitsgrad** (Readability, Guidelines der Leichten Sprache)
 
 - Nutzung als:
-
   - **Evaluationsmetrik**,
   - **Reward-Funktion** für RL oder GAN-basierte Ansätze,
   - oder als Qualitätssignal in einem Übersetzungsmodell.

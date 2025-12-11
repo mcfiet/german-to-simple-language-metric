@@ -1,3 +1,13 @@
+"""
+Generate synthetic normal/complex German sentences from simple inputs using a local Ollama model.
+
+Reads a text file with one simple sentence per line, prompts an Ollama model
+with a few-shot template, and writes paired (simple, normal) sentences to a TSV.
+
+Requirements:
+- Ollama installed locally and the chosen model pulled (e.g., `ollama pull llama3:8b`).
+"""
+
 import argparse
 import subprocess
 from pathlib import Path

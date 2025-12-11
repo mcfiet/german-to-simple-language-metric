@@ -14,6 +14,8 @@ from pathlib import Path
 from typing import Iterable, List, Set
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from bs4 import BeautifulSoup
 
 DEFAULT_HEADERS = {"User-Agent": "SimpleGermanURLFetcher/1.0"}
@@ -28,9 +30,26 @@ def load_urls(path: Path) -> List[str]:
         ]
 
 
-def fetch(url: str, timeout: int = 15) -> str:
+def build_session(max_retries: int, backoff: float) -> requests.Session:
+    session = requests.Session()
+    retry = Retry(
+        total=max_retries,
+        backoff_factor=backoff,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("http://", adapter)
+    session.mount("https://", adapter)
+    return session
+
+
+def fetch(session: requests.Session, url: str, timeout: int) -> str:
+    # Wayback URLs sometimes come as http; switch to https to avoid plain-HTTP blocks.
+    if url.startswith("http://web.archive.org/"):
+        url = "https://" + url[len("http://") :]
     try:
-        resp = requests.get(url, headers=DEFAULT_HEADERS, timeout=timeout)
+        resp = session.get(url, headers=DEFAULT_HEADERS, timeout=timeout)
         resp.raise_for_status()
         return resp.text
     except Exception as exc:
@@ -119,16 +138,35 @@ def parse_args() -> argparse.Namespace:
         default=0.25,
         help="Seconds to sleep between requests.",
     )
+    parser.add_argument(
+        "--max-retries",
+        type=int,
+        default=2,
+        help="Max retries per request (uses urllib3 Retry).",
+    )
+    parser.add_argument(
+        "--backoff",
+        type=float,
+        default=0.5,
+        help="Backoff factor for retries.",
+    )
+    parser.add_argument(
+        "--timeout",
+        type=int,
+        default=20,
+        help="Request timeout in seconds (default: 20).",
+    )
     return parser.parse_args()
 
 
 def main():
     args = parse_args()
     urls = load_urls(args.urls)
+    session = build_session(max_retries=args.max_retries, backoff=args.backoff)
     sentences: List[str] = []
     for i, url in enumerate(urls, 1):
         print(f"[{i:0>3}/{len(urls)}] fetch {url}")
-        html = fetch(url)
+        html = fetch(session, url, timeout=args.timeout)
         if not html:
             continue
         soup = BeautifulSoup(html, "html.parser")

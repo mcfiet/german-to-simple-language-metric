@@ -33,7 +33,15 @@ def run_preprocess(text: str, args: argparse.Namespace) -> list[str]:
         remove_stopwords=args.remove_stopwords,
         remove_punctuation=args.remove_punctuation,
     )
-    return [doc.text.strip() for doc in docs if doc.text.strip()]
+    filtered = []
+    for doc in docs:
+        tokens = [t for t in doc if not t.is_space]
+        if len(tokens) <= 1:
+            continue
+        text_out = doc.text.strip()
+        if text_out:
+            filtered.append(text_out)
+    return filtered
 
 
 def parse_args() -> argparse.Namespace:

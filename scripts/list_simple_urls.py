@@ -1,8 +1,8 @@
 """
 Collect all easy-language URLs from the Simple-German-Corpus Datasets.
 
-This scans each domain folder for `header.json` entries marked with `"easy": true`
-and writes the URLs to a text file (one per line).
+This scans each domain folder for `header.json` and `archive_header.json`
+entries marked with `"easy": true` and writes the URLs to a text file (one per line).
 """
 
 import argparse
@@ -29,18 +29,19 @@ def dedupe(items: Iterable[str]) -> List[str]:
 def collect_easy_urls(datasets_dir: Path) -> List[str]:
     urls: List[str] = []
     for domain_dir in sorted(datasets_dir.iterdir()):
-        header_path = domain_dir / "header.json"
-        if not header_path.exists():
-            continue
-        try:
-            with header_path.open("r", encoding="utf-8") as fp:
-                header = json.load(fp)
-        except Exception as exc:
-            print(f"[warn] failed to read {header_path}: {exc}")
-            continue
-        for entry in header.values():
-            if entry.get("easy"):
-                urls.append(entry.get("url", ""))
+        for name in ["header.json", "archive_header.json"]:
+            header_path = domain_dir / name
+            if not header_path.exists():
+                continue
+            try:
+                with header_path.open("r", encoding="utf-8") as fp:
+                    header = json.load(fp)
+            except Exception as exc:
+                print(f"[warn] failed to read {header_path}: {exc}")
+                continue
+            for entry in header.values():
+                if entry.get("easy"):
+                    urls.append(entry.get("url", ""))
     return [u for u in urls if u]
 
 

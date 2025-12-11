@@ -6,6 +6,7 @@ simpel_german_sentences_lebenshilfe.txt - 10942 sentences from 65
 simple_german_sentences_pipeline.txt - 44463 sentences
 simple_german_sentences_crawl.txt - 635 sentences
 simple_german_sentences_sgc.txt - 801 sentences
+simple_german_sentences_hand_aligned.txt - 901 sentences
 
 ## **Projektbeschreibung**
 

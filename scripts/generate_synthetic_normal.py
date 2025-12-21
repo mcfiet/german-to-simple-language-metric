@@ -14,17 +14,44 @@ from pathlib import Path
 from typing import Iterable, List, Tuple
 
 
-FEW_SHOT = """Du wandelst einfache deutsche Sätze in normale, flüssige Schriftsprache um.
-Der Inhalt bleibt erhalten, die Länge soll ähnlich bleiben (±20 % Wörter).
-Gib genau einen Satz zurück, keine Erklärungen, keine Anführungszeichen.
+FEW_SHOT = """Du wandelst einfache deutsche Sätze (Leichte Sprache) in normales, flüssiges, eher gehobenes Schriftdeutsch um.
+
+Wichtige Anforderungen:
+- Bedeutung und Fakten bleiben exakt erhalten, nichts dazuerfinden.
+- Länge ähnlich halten (±20 % Wörter).
+- Gib genau EINEN Satz zurück.
+- Keine Erklärungen, keine Listen, keine Anführungszeichen, keine zusätzlichen Zeilen.
+
+Stilziel: Nicht Leichte Sprache, sondern der Gegenpol: natürlich, idiomatisch, ggf. etwas formeller/komplexer – aber weiterhin klar.
+
+Leitplanken (nur anwenden, wenn es sinnvoll ist):
+- W2 (Gegenteil): Verwende bei Bedarf präzisere/fachlichere oder allgemeinere Sammelbegriffe statt sehr konkreter Umschreibungen (z. B. „Bus und Bahn“ → „öffentlicher Nahverkehr“), ohne neue Infos einzuführen.
+- W5 (Gegenteil): Kurze Wörter dürfen durch längere/gehobenere Synonyme ersetzt werden (z. B. „Bus“ → „Omnibus“), wenn es natürlich klingt.
+- W6 (Gegenteil): Abkürzungen sind erlaubt (z. B. „das heißt“ → „d. h.“), aber nur wenn üblich und ohne Mehrdeutigkeit.
+- W7 (Gegenteil): Nominalstil ist erlaubt (z. B. „wir wählen“ → „die Wahl findet statt“), aber nicht übertreiben.
+- W8 (Gegenteil): Passiv ist erlaubt (z. B. „wir wählen“ → „es wird gewählt“), wenn es stilistisch passt.
+- W9 (Gegenteil): Genitiv ist erlaubt und bevorzugt, wenn natürlich (z. B. „das Haus vom Lehrer“ → „das Haus des Lehrers“).
+- W10 (Gegenteil): Konjunktiv ist erlaubt (z. B. „vielleicht regnet es“ → „es könnte regnen“).
+- W11 (Gegenteil): Negative Formulierungen sind erlaubt, wenn sie im Ausgangssatz angelegt sind oder idiomatischer wirken; nicht künstlich ins Negative drehen.
 
 Beispiele:
 Einfach: Wir treffen uns morgen um 10 Uhr vor dem Rathaus.
-Normal: Wir verabreden uns morgen um 10 Uhr vor dem Rathaus.
+Normal: Morgen um 10 Uhr ist das Treffen vor dem Rathaus vorgesehen.
 Einfach: Die Tür ist zu. Bitte klopfen.
-Normal: Die Tür ist geschlossen, bitte klopfen Sie.
+Normal: Die Tür ist geschlossen; bitte klopfen Sie.
 Einfach: Anna fährt heute nicht mit, weil sie krank ist.
-Normal: Anna kommt heute nicht mit, weil sie krank ist."""
+Normal: Anna nimmt heute wegen Krankheit nicht teil.
+Einfach: Wir fahren mit Bus und Bahn in die Stadt.
+Normal: Wir fahren mit dem öffentlichen Nahverkehr in die Stadt.
+Einfach: Du darfst hier nicht parken. Das heißt: Stell das Auto woanders hin.
+Normal: Sie dürfen hier nicht parken, d. h., stellen Sie das Auto bitte anderswo ab.
+Einfach: Das ist das Zimmer von dem Chef.
+Normal: Das ist das Zimmer des Chefs.
+Einfach: Vielleicht regnet es morgen.
+Normal: Morgen könnte es regnen.
+Einfach: Morgen wählen wir den Heim-Beirat.
+Normal: Morgen wird der Heim-Beirat gewählt.
+"""
 
 
 def build_prompt(simple_sentence: str) -> str:

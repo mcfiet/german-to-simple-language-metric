@@ -9,6 +9,7 @@ Requirements:
 """
 
 import argparse
+import json
 import subprocess
 from pathlib import Path
 from typing import Iterable, List, Tuple
@@ -33,6 +34,10 @@ Leitplanken (nur anwenden, wenn es sinnvoll ist):
 - W9 (Gegenteil): Genitiv ist erlaubt und bevorzugt, wenn natürlich (z. B. „das Haus vom Lehrer“ → „das Haus des Lehrers“).
 - W10 (Gegenteil): Konjunktiv ist erlaubt (z. B. „vielleicht regnet es“ → „es könnte regnen“).
 - W11 (Gegenteil): Negative Formulierungen sind erlaubt, wenn sie im Ausgangssatz angelegt sind oder idiomatischer wirken; nicht künstlich ins Negative drehen.
+
+Antwortformat:
+- Gib ausschließlich ein gültiges JSON-Objekt: {"normal": "<ein Satz>"}.
+- Keine Zusatztexte, keine Erklärungen, keine Codeblöcke, keine Anführungszeichen außerhalb des JSON.
 
 Beispiele:
 Einfach: Wir treffen uns morgen um 10 Uhr vor dem Rathaus.
@@ -77,9 +82,17 @@ def run_ollama(model: str, prompt: str, temperature: float, max_tokens: int, tim
         raise RuntimeError("ollama command not found. Is Ollama installed and on PATH?") from exc
     if result.returncode != 0:
         raise RuntimeError(f"Ollama failed ({result.returncode}): {result.stderr.strip()}")
-    # Ollama streams chunks; join stdout lines.
+    # Ollama streams chunks; parse JSON from the combined stdout to enforce the schema.
     output = result.stdout.strip()
-    return output.splitlines()[-1].strip()
+    start = output.find("{")
+    end = output.rfind("}")
+    if start == -1 or end == -1 or end <= start:
+        raise RuntimeError(f"Model returned no JSON object: {output[:200]}")
+    try:
+        data = json.loads(output[start : end + 1])
+        return data["normal"].strip()
+    except Exception as exc:
+        raise RuntimeError(f"Failed to parse JSON response: {output[start : end + 1][:200]}") from exc
 
 
 def read_sentences(path: Path, limit: int | None) -> List[str]:

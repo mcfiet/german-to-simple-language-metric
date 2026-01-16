@@ -11,6 +11,7 @@ Requirements:
 import argparse
 import json
 import subprocess
+import time
 from pathlib import Path
 from typing import Iterable, List, Tuple
 
@@ -169,8 +170,11 @@ def parse_args() -> argparse.Namespace:
 
 def main():
     args = parse_args()
+    start_time = time.time()
     sentences = read_sentences(args.input, args.limit)
+    total = len(sentences)
     pairs: List[Tuple[str, str]] = []
+    skipped = 0
     for idx, simple in enumerate(sentences, 1):
         prompt = build_prompt(simple)
         normal: str | None = None
@@ -191,12 +195,17 @@ def main():
                 else:
                     print(f"[warn] attempt {attempt}/{attempts} failed on line {idx}: {exc}; retrying...")
         if normal is None:
+            skipped += 1
             continue
         pairs.append((simple, normal))
         if idx % 10 == 0:
             print(f"[info] processed {idx}/{len(sentences)}")
     write_tsv(pairs, args.output)
+    duration = time.time() - start_time
     print(f"[done] wrote {len(pairs)} pairs to {args.output}")
+    print(
+        f"[stats] total input: {total}, ok: {len(pairs)}, skipped: {skipped}, duration: {duration:.1f}s"
+    )
 
 
 if __name__ == "__main__":

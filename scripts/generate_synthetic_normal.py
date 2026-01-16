@@ -158,6 +158,12 @@ def parse_args() -> argparse.Namespace:
         default=60,
         help="Per-request timeout in seconds.",
     )
+    parser.add_argument(
+        "--retries",
+        type=int,
+        default=2,
+        help="Number of retries per sentence when parsing/requests fail (in addition zum ersten Versuch).",
+    )
     return parser.parse_args()
 
 
@@ -167,16 +173,24 @@ def main():
     pairs: List[Tuple[str, str]] = []
     for idx, simple in enumerate(sentences, 1):
         prompt = build_prompt(simple)
-        try:
-            normal = run_ollama(
-                model=args.model,
-                prompt=prompt,
-                temperature=args.temperature,
-                max_tokens=args.max_tokens,
-                timeout=args.timeout,
-            )
-        except Exception as exc:
-            print(f"[warn] skipping line {idx} due to error: {exc}")
+        normal: str | None = None
+        attempts = args.retries + 1
+        for attempt in range(1, attempts + 1):
+            try:
+                normal = run_ollama(
+                    model=args.model,
+                    prompt=prompt,
+                    temperature=args.temperature,
+                    max_tokens=args.max_tokens,
+                    timeout=args.timeout,
+                )
+                break
+            except Exception as exc:
+                if attempt >= attempts:
+                    print(f"[warn] skipping line {idx} after {attempt} attempts: {exc}")
+                else:
+                    print(f"[warn] attempt {attempt}/{attempts} failed on line {idx}: {exc}; retrying...")
+        if normal is None:
             continue
         pairs.append((simple, normal))
         if idx % 10 == 0:

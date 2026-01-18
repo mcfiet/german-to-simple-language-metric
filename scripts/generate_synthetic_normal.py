@@ -2,7 +2,8 @@
 Generate synthetic normal/complex German sentences from simple inputs using a local Ollama model.
 
 Reads a text file with one simple sentence per line, prompts an Ollama model
-with a few-shot template, and writes paired (simple, normal) sentences to a TSV.
+with a few-shot template, and writes per-input JSON-lists of multiple variants
+to a TSV: simple \\t ["normal1", "normal2", ...].
 
 Requirements:
 - Ollama installed locally and the chosen model pulled (e.g., `ollama pull llama3:8b`).
@@ -60,8 +61,11 @@ Normal: Morgen wird der Heim-Beirat gewählt.
 """
 
 
-def build_prompt(simple_sentence: str) -> str:
-    return f"Einfach: {simple_sentence.strip()}\nNormal:"
+def build_prompt(simple_sentence: str, variant: int, total_variants: int) -> str:
+    return (
+        f"Variante {variant} von {total_variants} (abwechslungsreich gestalten, unterschiedliche Leitplanken anwenden, aber immer faktentreu).\n"
+        f"Einfach: {simple_sentence.strip()}\nNormal:"
+    )
 
 
 def run_ollama(model: str, prompt: str, temperature: float, max_tokens: int, timeout: int) -> str:
@@ -107,9 +111,9 @@ def read_sentences(path: Path, limit: int | None) -> List[str]:
     return sentences
 
 
-def write_tsv(pairs: Iterable[Tuple[str, str]], path: Path):
+def write_tsv(records: Iterable[Tuple[str, List[str]]], path: Path):
     path.parent.mkdir(parents=True, exist_ok=True)
-    lines = [f"{simple}\t{normal}" for simple, normal in pairs]
+    lines = [f"{simple}\t{json.dumps(variants, ensure_ascii=False)}" for simple, variants in records]
     path.write_text("\n".join(lines), encoding="utf-8")
 
 
@@ -160,6 +164,12 @@ def parse_args() -> argparse.Namespace:
         help="Per-request timeout in seconds.",
     )
     parser.add_argument(
+        "--variants",
+        type=int,
+        default=5,
+        help="How many alternative normal sentences to generate per input.",
+    )
+    parser.add_argument(
         "--retries",
         type=int,
         default=2,
@@ -173,38 +183,52 @@ def main():
     start_time = time.time()
     sentences = read_sentences(args.input, args.limit)
     total = len(sentences)
-    pairs: List[Tuple[str, str]] = []
-    skipped = 0
+    records: List[Tuple[str, List[str]]] = []
+    skipped_all = 0
+    partial = 0
     for idx, simple in enumerate(sentences, 1):
-        prompt = build_prompt(simple)
-        normal: str | None = None
-        attempts = args.retries + 1
-        for attempt in range(1, attempts + 1):
-            try:
-                normal = run_ollama(
-                    model=args.model,
-                    prompt=prompt,
-                    temperature=args.temperature,
-                    max_tokens=args.max_tokens,
-                    timeout=args.timeout,
-                )
-                break
-            except Exception as exc:
-                if attempt >= attempts:
-                    print(f"[warn] skipping line {idx} after {attempt} attempts: {exc}")
-                else:
-                    print(f"[warn] attempt {attempt}/{attempts} failed on line {idx}: {exc}; retrying...")
-        if normal is None:
-            skipped += 1
+        variants: List[str] = []
+        for variant_idx in range(1, args.variants + 1):
+            prompt = build_prompt(simple, variant_idx, args.variants)
+            normal: str | None = None
+            attempts = args.retries + 1
+            for attempt in range(1, attempts + 1):
+                try:
+                    normal = run_ollama(
+                        model=args.model,
+                        prompt=prompt,
+                        temperature=args.temperature,
+                        max_tokens=args.max_tokens,
+                        timeout=args.timeout,
+                    )
+                    break
+                except Exception as exc:
+                    if attempt >= attempts:
+                        print(
+                            f"[warn] skipping variant {variant_idx} on line {idx} after {attempt} attempts: {exc}"
+                        )
+                    else:
+                        print(
+                            f"[warn] attempt {attempt}/{attempts} failed on line {idx} variant {variant_idx}: {exc}; retrying..."
+                        )
+            if normal is not None:
+                variants.append(normal)
+        if not variants:
+            skipped_all += 1
             continue
-        pairs.append((simple, normal))
+        if len(variants) < args.variants:
+            partial += 1
+            print(
+                f"[warn] line {idx} produced only {len(variants)}/{args.variants} variants; keeping partial result."
+            )
+        records.append((simple, variants))
         if idx % 10 == 0:
             print(f"[info] processed {idx}/{len(sentences)}")
-    write_tsv(pairs, args.output)
+    write_tsv(records, args.output)
     duration = time.time() - start_time
-    print(f"[done] wrote {len(pairs)} pairs to {args.output}")
+    print(f"[done] wrote {len(records)} rows to {args.output}")
     print(
-        f"[stats] total input: {total}, ok: {len(pairs)}, skipped: {skipped}, duration: {duration:.1f}s"
+        f"[stats] total input: {total}, full: {len(records) - partial}, partial: {partial}, skipped: {skipped_all}, duration: {duration:.1f}s"
     )
 
 

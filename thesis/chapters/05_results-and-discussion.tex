@@ -1,1 +1,58 @@
-\subsection{Ergebnisse und Diskussionen}
+\subsection{Ergebnisse und Diskussion}
+Tabelle~\ref{tab:german-results} fasst die deutschen Läufe zusammen. Angegeben ist die Balanced Accuracy (BAcc) auf dem Testsplit.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lcc}
+\hline
+Modell & Epoche & BAcc \\
+\hline
+SBERT eingefroren (linearer Kopf) & 100 (kein Early Stop) & 0{,}719 \\
+SBERT eingefroren (größerer Kopf) & 23 & 0{,}763 \\
+SBERT letzte Schicht frei (1) & 11 & 0{,}834 \\
+LSTM-Baseline & 7 & 0{,}863 \\
+SBERT + LoRA & 10 & 0{,}906 \\
+SBERT voll feinabgestimmt (v.f.) & 5 & \textbf{0{,}913} \\
+SBERT v.f. FlensGenGPTOSS Train Set & 4 & \textbf{0{,}926} \\
+SBERT v.f. 1 simple to 5 normal (bigger) Train Set & 5 & \textbf{0{,}969} \\
+\hline
+\end{tabular}
+\caption{Ergebnisse der binären Klassifikation.}
+\label{tab:german-results}
+\end{table}
+
+\paragraph{Encoder-Training} Das Einfrieren des SBERT-Encoders limitiert die Lernfähigkeit: mit einem linearen Kopf bleibt die BAcc bei 0{,}719, mit einem größeren MLP-Kopf steigt sie auf 0{,}763. Schon das Freigeben der letzten Schicht hebt die Leistung auf 0{,}834. Volles Fine-Tuning erreicht mit 0{,}913 den Bestwert nach nur fünf Epochen, was zeigt, dass der Datensatz in der SBERT-Repräsentation linear trennbar ist, aber von End-to-End-Anpassung profitiert.
+
+\paragraph{Kopfvergleich} Der größere MLP-Kopf verkürzt die Zeit bis zur besten Val-Accuracy und erhöht die Güte gegenüber dem linearen Kopf, bleibt aber deutlich hinter jeder Variante mit Encoder-Anpassung. Für einen eingefrorenen Encoder lohnt sich ein kräftigerer Kopf also, ersetzt aber kein Fine-Tuning.
+
+\paragraph{Parameter-effizientes LoRA} Die LoRA-Variante (r=50, alpha=32) erreicht 0{,}906 und liegt damit dicht hinter dem vollständigen Fine-Tuning, stoppt aber nach zehn Epochen. Sie bietet ein günstiges Verhältnis von Qualität zu Rechenaufwand, da nur Adapter und Kopf trainiert werden.
+
+\paragraph{Nicht-Transformer-Baseline} Die einfache BiLSTM mit statischen Einbettungen erzielt 0{,}863 BAcc. Sie übertrifft den eingefrorenen SBERT-Kopf deutlich, bleibt aber hinter allen Varianten mit Encoder-Anpassung zurück. Dies zeigt, dass ein leichtgewichtiges Sequenzmodell auf dem synthetischen Korpus konkurrenzfähig sein kann, Transformer-Feinabstimmung jedoch weiterhin überlegen ist.
+
+\paragraph{Trainingsdynamik} Alle adaptiven SBERT-Modelle lösten Early Stopping zwischen Epoche 5 und 11 aus, trotz 100 möglicher Epochen. Das deutet auf schnelle Konvergenz und begrenztes Overfitting bei der gewählten Geduld hin. Der eingefrorene Encoder lief mit linearem Kopf alle 100 Epochen, mit größerem Kopf stoppte er nach 23 Epochen, blieb aber klar hinter den Varianten mit freigegebenem Encoder zurück.
+
+\paragraph{Rechenaufwand} Tabelle~\ref{tab:german-runtime} zeigt die Laufzeit bis zur besten Validierungs-Accuracy. Volles Fine-Tuning erreicht seine beste Validierungsleistung nach nur rund elf Minuten und ist damit trotz größerer Parameterzahl effizienter als die eingefrorenen Varianten: der lineare Kopf braucht über eine Stunde und bleibt schwach, der größere Kopf stoppt nach 15{,}7 Minuten und holt etwas mehr heraus. Die LoRA-Variante liegt mit etwa 20 Minuten dazwischen und bietet damit einen guten Kompromiss aus Qualität und Laufzeit. Die einfache LSTM-Baseline konvergiert in unter einer Minute, erreicht aber nicht die maximale SBERT-Qualität.
+
+\paragraph{Einordnung der Ergebnisse} Insgesamt zeigt sich ein klares Bild: Ein eingefrorener Encoder limitiert die Leistung deutlich, während bereits partielle Freigaben (letzte Schicht) starke Zugewinne bringen. LoRA erreicht nahezu die Qualität des vollständigen Fine-Tunings bei reduziertem Rechenaufwand, was sie als pragmatische Option für ressourcenbegrenzte Settings auszeichnet. Die LSTM-Baseline belegt, dass das synthetische Signal stark genug ist, um einfache Sequenzmodelle konkurrenzfähig zu machen, bleibt aber unter dem Optimum der Transformer-Varianten.
+
+\paragraph{Größere synthetische Datensätze} Zwei zusätzliche Runs mit voll feinabgestimmtem SBERT zeigen den Effekt größerer und variablerer Trainingsdaten. Das auf dem FlensGenGPTOSS-basierten Datensatz trainierte Modell (balanciert, 0{,}5/0{,}5) erreicht eine BAcc von 0{,}926 nach vier Epochen. Der größere 1:5-Datensatz (ein einfacher Satz, fünf Normalvarianten; deutliche Klassen-Unausgewogenheit von ca. 1/6 zu 5/6) wurde mit Minority-Oversampling trainiert und erzielt eine BAcc von 0{,}947 auf dem Testsplit (Accuracy 0{,}966; Recall: 0{,}920). Damit steigen die Kennzahlen mit wachsender Datenmenge weiter, allerdings wird der Nutzen durch die Klassenbalance und den Sampling-Ansatz beeinflusst.
+
+\paragraph{Grenzen der Uebertragbarkeit} Die Auswertung basiert auf synthetisch erzeugten Paaren. Damit ist zwar ein kontrolliertes, balanciertes Training möglich, die Uebertragbarkeit auf echte Uebersetzungen muss jedoch separat validiert werden. Insbesondere Stil- und Domäneneffekte aus realen Quellen können die Metrik beeinflussen und sollten in einer erweiterten Evaluation adressiert werden.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lcc}
+\hline
+Modell & Minuten bis beste Val-Acc & Val-Acc \\
+\hline
+SBERT eingefroren (linearer Kopf) & 82{,}70 & 0{,}707 \\
+SBERT eingefroren (größerer Kopf) & 15{,}71 & 0{,}760 \\
+SBERT letzte Schicht frei (1) & 9{,}35 & 0{,}827 \\
+LSTM-Baseline & 0{,}27 & 0{,}863 \\
+SBERT + LoRA & 20{,}24 & 0{,}902 \\
+SBERT voll feinabgestimmt & 11{,}01 & 0{,}903 \\
+\hline
+\end{tabular}
+\caption{Zeit bis zur besten Validierungs-Accuracy (Minuten) und erreichter Val-Accuracy.}
+\label{tab:german-runtime}
+\end{table}

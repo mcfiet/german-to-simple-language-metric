@@ -2,122 +2,82 @@
 
 # **README – Metrik zur Bewertung von Übersetzungen in Leichte Sprache**
 
-simpel_german_sentences_lebenshilfe.txt - 10942 sentences from 65
-simple_german_sentences_pipeline.txt - 44463 sentences
-simple_german_sentences_crawl.txt - 635 sentences
-simple_german_sentences_sgc.txt - 801 sentences
-simple_german_sentences_hand_aligned.txt - 901 sentences
+## **Kurzüberblick**
 
-## **Projektbeschreibung**
-
-Dieses Projekt entwickelt eine Metrik zur Bewertung von Übersetzungen **von deutscher Standardsprache in Leichte Sprache**.
-Ziel ist es, automatisch zu bestimmen:
-
-1. **Wie inhaltlich übereinstimmend** ein Originaltext und seine Übersetzung in Leichte Sprache sind.
-2. **Wie verständlich** die Leichte-Sprache-Version ist.
-3. **Wie hoch die semantische Qualität** der Übersetzung ausfällt.
-4. **Ob und wie stark** der übersetzte Text tatsächlich den Kriterien der Leichten Sprache entspricht.
-
-Die Metrik soll später als **Bewertungsfunktion (Reward-Funktion)** in einem Übersetzungsmodell oder in einer generativen Pipeline genutzt werden.
+Kurze, praktische Übersicht zum Projektaufbau, den Skripten und Notebooks. Die inhaltliche Ausarbeitung steht in der Thesis.
 
 ---
 
-## **Motivation**
+## **Schnellstart**
 
-Übersetzungen in Leichte Sprache sind für Barrierefreiheit essenziell.
-Maschinelle Übersetzungssysteme existieren, aber:
+```bash
+pip install -r requirements.txt
+```
 
-- sie sind oft inkonsistent,
-- verlieren Inhalte,
-- oder liefern sprachlich zu komplexe Sätze.
-
-Eine robuste Metrik zur automatischen Bewertung dieser Übersetzungen fehlt bisher.
-Dieses Projekt schließt diese Lücke, indem es eine datenbasierte, lernbare Bewertungsfunktion entwickelt – vermutlich ein **Regressionsmodell**, das auf verschiedenen Qualitätsdimensionen lernt.
+Hinweis: Einige Skripte benötigen den Ordner `Simple-German-Corpus/` sowie nicht eingecheckte DOCX‑Daten (Lebenshilfe).
 
 ---
 
-## **Ziele**
+## **Skripte (Datenerzeugung & Utilities)**
 
-- Aufbau einer **automatischen Qualitätsmetrik** für Leichte-Sprache-Übersetzungen
-- Bewertung entlang zweier Kernaspekte:
-  - **Semantische Übereinstimmung** (Meaning Preservation)
-  - **Verständlichkeit / Einfachheitsgrad** (Readability, Guidelines der Leichten Sprache)
+Die meisten Skripte liegen in `scripts/`, zusätzlich gibt es `data/group_output_by_normal.py`. Details zu Inputs/Outputs stehen in `scripts/DOCS.md`.
 
-- Nutzung als:
-  - **Evaluationsmetrik**,
-  - **Reward-Funktion** für RL oder GAN-basierte Ansätze,
-  - oder als Qualitätssignal in einem Übersetzungsmodell.
+| Skript | Zweck (kurz) | Output (data/) |
+| :--- | :--- | :--- |
+| `collect_hand_aligned_simple.py` | sammelt `.simple`‑Dateien | `hand_aligned_simple.txt` |
+| `collect_simple_from_headers.py` | extrahiert „easy“ aus SGC‑Headern | `simple_only_sentences_simple_sgc.txt` |
+| `crawl_simple_german.py` | crawlt Seed‑URLs | `simple_german_sentences_crawl.txt` |
+| `dedup_sentences.py` | dedupliziert Satzlisten | `*_deduped.txt` |
+| `extract_ls_docx.py` | extrahiert Lebenshilfe‑DOCX | `ls-translations-lebenshilfe/...` |
+| `generate_synthetic_normal.py` | synthetische Paare (lokales LLM) | `synthetic_normal.tsv` |
+| `generate_synthetic_normal_http.py` | synthetische Paare (HTTP/Remote) | `synthetic_normal_http.tsv` |
+| `label_synthetic_normal.py` | Labeling‑Variante | `*_labeled.csv` |
+| `label_synthetic_normal_5ex.py` | Labeling mit 5 Beispielen | `*_5ex_labeled.csv` |
+| `list_simple_urls.py` | URLs aus SGC‑Headern | `data/simple_urls.txt` |
+| `run_from_easy_url_list.py` | extrahiert Sätze aus URL‑Liste | `simple_german_sentences_from_urls.txt` |
+| `run_simple_corpus_pipeline.py` | Pipeline für Simple‑German‑Corpus | `simple_german_sentences_pipeline.txt` |
+| `data/group_output_by_normal.py` | gruppiert CSVs nach Originalsatz | `data/output/[set]_grouped.jsonl` |
+
+Beispiel:
+
+```bash
+python scripts/run_simple_corpus_pipeline.py
+```
 
 ---
 
-## **Datenbasis**
+## **Notebooks**
 
-Der Hauptdatensatz ist derselbe wie im ADL-Projekt:
-Lamarr-Institut Datensatz zu Leichter Sprache (Übersetzungen in verschiedene Schwierigkeitsgrade)
+Trainings‑ und Analyse‑Notebooks liegen in `notebooks/`:
 
-Falls Zeit bleibt:
+- `baseline_tfidf_logreg.ipynb` – Baseline mit TF‑IDF + LogReg
+- `lstm_training.ipynb` – BiLSTM‑Training
+- `mlp_training.ipynb` – MLP‑Kopf auf Embeddings
+- `sbert_finetune_frozen.ipynb` – SBERT, Encoder eingefroren
+- `sbert_finetune_unfrozen.ipynb` – SBERT, volles Finetuning
+- `sbert_fintetune_unfrozen_last_n_layers.ipynb` – nur letzte N‑Layer
+- `sbert_finetune_lora.ipynb` – LoRA‑Finetuning
+- `mpnet_finetune_unfrozen.ipynb` – MPNet‑Vergleich
+- `learning_curve_analysis.ipynb` – Lernkurven‑Analyse
 
-- **Eigene Daten** aus den Texten/Übersetzungen der Lebenshilfe Kiel.
-- Optionale Erweiterung um Daten, die aus generierten Leichte-Sprache-Übersetzungen bestehen.
+---
 
-Alle Daten liegen im Ordner `data/` in drei Strukturen:
+## **Daten/Outputs**
+
+Relevante Strukturen:
 
 ```
 data/
- ├── evaluated/        # enth. Label: Verständlichkeit / Qualität
- ├── matched/          # gepaarte Sätze (Original ↔ Leichte Sprache)
- └── hand_aligned/     # manuell ausgerichtete Paare
+ ├── results/
+ │   ├── evaluated/    # Label: Verständlichkeit / Qualität
+ │   ├── matched/      # gepaarte Sätze (Original ↔ Leichte Sprache)
+ │   └── hand_aligned/ # manuell ausgerichtete Paare
+ ├── output/           # Train/Val/Test + gruppierte JSONL
+ ├── ls-translations-lebenshilfe/ # interne DOCX-Daten (nicht eingecheckt)
+ └── ...               # aggregierte Satzlisten + synthetische TSV/CSV
 ```
 
----
-
-## **Methodik & Modelle**
-
-### **1. Baseline**
-
-Ein erstes **Regressionsmodell**, das einfache Textmerkmale nutzt:
-
-- Satzlänge,
-- Wortkomplexität,
-- Embedding-Ähnlichkeit,
-- syntaktische Merkmale.
-
-### **2. Semantische Qualitätsmetrik**
-
-Verwendung moderner Sprachmodelle für:
-
-- Text-Embedding-Ähnlichkeit (z. B. Sentence Transformers)
-- Alignment zwischen Original und Leichter Sprache
-- Bewertung semantischer Konsistenz
-
-### **3. Verständlichkeitsmetrik**
-
-Ableitung von Messwerten wie:
-
-- Lesbarkeitsindizes
-- Regelkonformität nach Leichte-Sprache-Standards
-- linguistische Einfachheit
-
-### **4. Erweiterte Methoden (optional)**
-
-- Einsatz eines **GAN**, um Qualitätsmetriken oder Bewertungsscores zu generieren (Diskriminator als “Quality Judge”)
-- Human-Evaluation als Benchmark
-
----
-
-## **Workflow / Projektzeitplan**
-
-Aus der Projektplanung (8-Wochen-Plan) :
-
-| Woche | Aufgabe                                                           |
-| ----- | ----------------------------------------------------------------- |
-| 1     | Projektsetup, Zieldefinition                                      |
-| 2     | Datensammlung, -aufbereitung, Dataloader bauen                    |
-| 3     | Fertigstellung der Datenpipeline, Baseline-Metrik (Regression)    |
-| 4–5   | Evaluation, erste Modellverbesserungen                            |
-| 5–6   | Entwicklung der Semantik-Qualitätsmetrik                          |
-| 7     | Kombination, Validierung                                          |
-| 8     | Human Evaluation, Analyse, Visualisierung, Bericht & Präsentation |
+Details zu Outputs: `data/output/README.md` und `data/results/README.md`.
 
 ---
 
@@ -126,27 +86,30 @@ Aus der Projektplanung (8-Wochen-Plan) :
 ```
 .
 ├── data/
-│   ├── evaluated/
-│   ├── matched/
-│   └── hand_aligned/
+│   ├── results/
+│   ├── output/
+│   └── ...
 │
-├── src/
-│   ├── dataloader.py
-│   ├── preprocess.py
-│   ├── baseline_regression.py
-│   ├── semantic_metric.py
-│   └── evaluation.py
+├── scripts/            # Datengenerierung, Crawler, Labeling (Details in scripts/DOCS.md)
+├── notebooks/          # Trainings-/Analyse-Notebooks
+├── models/             # gespeicherte/finetuned Modelle
+├── Simple-German-Corpus/ # Upstream-Abhängigkeit für mehrere Skripte
+├── thesis/             # LaTeX-Arbeit + Artefakte
+├── ui/                 # lokaler UI-Ordner (derzeit nur Platzhalter)
+└── venv/               # lokale Python-Umgebung
 │
 └── README.md
 ```
 
 ---
 
-## **Installation & Setup**
+## **Zusätzliche Doku**
 
-```bash
-git clone <repository-url>
-cd <repo>
+- `scripts/DOCS.md`: Übersicht über alle Skripte und generierte Daten.
+- `data/output/README.md`: Beschreibung der experimentellen Outputs.
+- `data/results/README.md`: Beschreibung der Evaluationsdaten und Ground Truths.
 
-pip install -r requirements.txt
-```
+## **Hinweise**
+
+- Einige Skripte erwarten, dass `Simple-German-Corpus/` vorhanden ist.
+- Lebenshilfe-DOCX-Daten sind aus Datenschutzgründen nicht eingecheckt.
